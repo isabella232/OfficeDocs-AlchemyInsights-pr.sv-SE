@@ -1,0 +1,42 @@
+---
+title: Kopiera eller flytta objekt i ett SharePoint-dokumentbibliotek
+ms.author: toresing
+author: tomresing
+manager: scotv
+ms.date: 5/24/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
+ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: sv-SE
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29491937"
+---
+# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopiera eller flytta objekt i ett SharePoint-dokumentbibliotek
+
+Du kan kopiera och flytta filer, mappar och länkar till olika platser i ett dokumentbibliotek. Du kan också kopiera objekt på webbplatser. Om du har [Ställ in alternativet Targeted release](https://go.microsoft.com/fwlink/?linkid=622980)kan du flytta objekt på webbplatser, för.
+  
+1. Bläddra till de filer, mappar eller länkar som du vill flytta och klicka sedan på **Kopiera till** eller **Flytta till**i en webbläsare.
+    
+    > [!NOTE]
+    > **Kopiera till** och **Flytta till** är inte tillgänglig om du använder den klassiska erfarenheten av SharePoint Online. 
+  
+2. Välj den plats som du vill kopiera eller flytta artiklar eller klicka på **Bläddra webbplatser** om du vill se en fullständig lista över webbplatser under **Välj ett mål**. 
+    
+    > [!NOTE]
+    > Om du inte ser andra webbplatser som visas när du kopierar objekt har inte kopiera flera webbplatser konfigurerats. Gå till inställningssidan för SharePoint administratörscenter och klicka på **OK**om du vill aktivera den. 
+  
+    Om du vill skapa en ny mapp väljer du en plats i mapphierarkin, klicka på **Ny mapp**, ange ett namn för mappen och klicka på Markera om du vill spara namnet.
+    
+3. Klicka på **Kopiera hit** eller **Flytta hit**.
+    
+> [!NOTE]
+>  Du kan kopiera upp till 500 MB filer och mappar på en gång. > när du kopierar ett dokument med versionshistorik endast den senaste versionen kopieras. När du flyttar dokument flyttas även deras historia. 
+  
+
