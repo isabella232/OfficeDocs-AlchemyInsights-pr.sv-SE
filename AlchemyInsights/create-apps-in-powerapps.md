@@ -9,21 +9,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
 ms.openlocfilehash: 7637f90b0358eb6435884faa860473622d3d72c7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491843"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30404981"
 ---
 # <a name="create-apps-with-powerapps"></a>Skapa appar med PowerApps
 
-PowerApps är en utvecklingsplattform för business apps. Den har tre huvuddelar: 
+PowerApps är en utvecklingsplattform för företagsprogram. Det har tre huvudkomponenter: 
   
-- [Arbetsytan appar](https://go.microsoft.com/fwlink/?linkid=874495) börjar med användarupplevelse, utforma ett starkt skräddarsydda gränssnitt med kraften hos en tom duk och ansluta den till ditt val av 200 datakällor. Du kan skapa arbetsytan appar för webb, mobil och Tablet PC-program. 
+- [Appar för arbetsytor](https://go.microsoft.com/fwlink/?linkid=874495) utgår från användarupplevelsen. Utforma ett väl anpassat gränssnitt med en tom arbetsyta och anslut det till ett urval av över 200 datakällor. Du kan skapa arbetsyteappar för webb-, mobil- och surfplatteprogram. 
     
-- [Modell-driven apps](https://go.microsoft.com/fwlink/?linkid=874496) börjar med datamodellen - bygga upp från formen på core business data och processer i den gemensamma tjänsten Data till modellen formulär, vyer och andra komponenter. Modell-driven appar generera automatiskt bra användargränssnitt som svarar på enheter. 
+- [Modelldrivna appar](https://go.microsoft.com/fwlink/?linkid=874496) utgår från datamodellen baserat på formen på dina grundläggande affärsdata och processer i Common Data Service och vidare till modellering av formulär, vyer och andra komponenter. Modelldrivna appar genererar automatiskt utmärkta användargränssnitt som fungerar bra på alla enheter. 
     
-- [Vanliga Data-tjänsten](https://go.microsoft.com/fwlink/?linkid=874497) är dataplattform som medföljer PowerApps och gör att du kan lagra och modell affärsdata. Det är plattformen som Dynamics 365 program byggs. Om du är en kund Dynamics är redan data i tjänsten gemensamma Data. 
+- [Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) är dataplattformen som levereras med PowerApps som du kan använda för att lagra och modellera affärsdata. Det är den plattform som Dynamics 365-program är baserade på. Om du är Dynamics-kund finns dina data redan i Common Data Service. 
     
 [Mer information om PowerApps](https://go.microsoft.com/fwlink/?linkid=874498)
   
