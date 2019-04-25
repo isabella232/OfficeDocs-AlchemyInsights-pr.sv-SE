@@ -6,20 +6,20 @@ ms.date: 5/21/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 7348294736b72f6a197cd981ecd19e15750f91ca
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6fc7e4211691e0f29b9a65db2d33540804ea7b4a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492102"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423705"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Användarbehörigheter i SharePoint och OneDrive
 
 Om en användare i organisationen inte komma åt SharePoint- eller OneDrive, kontrollera att de har en licens som innehåller SharePoint och OneDrive. 
   
-1. Gå till [sidan aktiv användare i Office 365 administratörscenter](https://portal.office.com/adminportal/home#/users) och Välj användaren. 
+1. Gå till [sidan i Microsoft 365 administratörscenter i aktiva användare](https://portal.office.com/adminportal/home#/users) och Välj användaren. 
     
 2. Se till att **licenser**tilldelas en licens och **SharePoint Online** är markerad. 
     

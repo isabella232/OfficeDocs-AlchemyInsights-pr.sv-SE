@@ -1,19 +1,19 @@
 ---
 title: Åtgärda problem med att överföra filer till OneDrive
 ms.author: matteva
-author: matteva
+author: pebaum
 ms.date: 5/18/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
-ms.openlocfilehash: 232e1f61326e22d20480057a937fd0ee5ff85dd6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 018efff5a881f4825659f4d236fd7f87ef84def5
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492289"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401238"
 ---
 # <a name="fix-problems-uploading-files-to-onedrive"></a>Åtgärda problem med att överföra filer till OneDrive
 

@@ -7,16 +7,16 @@ ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 09a0553b-4fcd-410d-ba50-fe55cb79eea1
-ms.openlocfilehash: 4f0806ae2a857dd02f1da8fb3935569baf54b3c5
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ae04b4f9f6167ac2cd40109d293f4ba619fc03a7
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492658"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32369796"
 ---
 # <a name="restore-a-deleted-sharepoint-list-or-library"></a>Återställa en borttagen SharePoint-lista eller ett bibliotek
 

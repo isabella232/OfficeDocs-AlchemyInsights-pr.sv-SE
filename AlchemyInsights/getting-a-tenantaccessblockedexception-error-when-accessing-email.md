@@ -1,28 +1,31 @@
 ---
-title: Hämta ett TenantAccessBlockedException-fel vid åtkomst till e-post?
-ms.author: v-crytho
-author: CrystalThomasMS
-ms.date: 8/21/2017
-ms.audience: ITPro
+title: 127 får ett TenantAccessBlockedException-fel vid åtkomst till e-post?
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.assetid: 7fdd37c9-540f-4689-812b-55303a90dd50
-ms.openlocfilehash: 4082c39a3b2bfa7fc34bda963b83857670547547
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "127"
+- "128"
+ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
+ms.openlocfilehash: 56a7cd3f588a16883c7a49b35a825301c10e2777
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492595"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400663"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Hämta ett TenantAccessBlockedException-fel vid åtkomst till e-post?
 
-Det finns ett par olika skäl varför du får ett fel som säger att blockeras åtkomst till din hyresgäst. Om du vill åtgärda problemet kan du prova följande:
-  
-- Kontrollera att din prenumeration är giltig på sidan [prenumerationer](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/subscriptions) . 
-    
-- Kontrollera sidan [Fakturering](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/billoverview) för någon tidigare avgifter på ditt konto. 
-    
-- Om ditt konto är nu i ordning, men nyligen har ändrats, kan det ta en stund innan ändringarna sprids till alla servrar. Ge den ett nytt försök i några minuter och om problemet kvarstår, kontakta oss.
-    
+Det finns ett par olika anledningar till varför du kan få detta felmeddelande. Till exempel:
 
+- Kontrollera att din prenumeration är giltig i **Fakturering** \> sidan **prenumerationer** i [Microsoft 365 administratörscenter](https://portal.office.com/adminportal/home#/subscriptions).
+
+- Kontrollera om det finns någon förfallna meddelanden i **Fakturering** \> **växlar** sidan i [Microsoft 365 administratörscenter](https://portal.office.com/adminportal/home#/billoverview).
+
+- Det kan ta tid att sprida ändringarna om fakturering och prenumerationer för ditt konto har nyligen uppdaterats. Försök igen om några minuter och om problemet kvarstår, kontakta oss.

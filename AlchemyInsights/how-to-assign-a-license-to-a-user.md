@@ -7,22 +7,22 @@ ms.date: 2/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 61adcd2ba21a98793d072d3fad2d9d2e68fa3c20
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e437b5c029c8488589bd2636b265d09af550690c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492755"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400005"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Tilldela en licens till en användare
 
 En användare måste ha en licens för att få tillgång till tjänster. Här följer stegen för att lägga till, ändra eller ta bort en licens från en användare.
   
-1. I administrationscentret går du till sidan [Aktiva användare](https://go.microsoft.com/fwlink/p/?linkid=834822) eller väljer **Användare** \> **Aktiva användare**.
+1. Gå till sidan [Aktiv användare](https://go.microsoft.com/fwlink/p/?linkid=834822) i administratörscenter eller välj **användare** \> **aktiva användare**.
     
 2. Markera kryssrutan bredvid namnet på den användare som du vill tilldela, ändra eller ta bort en licens.
     

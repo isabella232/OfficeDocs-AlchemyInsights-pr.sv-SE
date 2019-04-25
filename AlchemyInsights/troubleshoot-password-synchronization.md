@@ -7,16 +7,16 @@ ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: c71fce8621057093d23891c26f7b0285fdc8b9ed
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1320c0fe839337188162824439be6f15f86b6c90
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492300"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390465"
 ---
 # <a name="troubleshoot-password-synchronization"></a>Felsöka Lösenordssynkronisering
 
@@ -57,6 +57,6 @@ Felsökning uppgift utför följande kontroller:
     
   - Verifierar att Active Directory DS (AD DS)-konton som används av lokal Active Directory-anslutningen har rätt användarnamn, lösenord och behörigheter som krävs för synkronisering av lösenord.
     
-Mer hjälp med felsökning av synkronisering av lösenord, finns i [Felsöka Lösenordssynkronisering med Azure AD Connect-synkronisering](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
+Mer hjälp med felsökning av synkronisering av lösenord, finns i [Felsöka Lösenordssynkronisering med Azure AD Connect-synkronisering](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
   
 

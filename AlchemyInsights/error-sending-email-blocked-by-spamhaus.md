@@ -7,16 +7,16 @@ ms.date: 2/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: a16c998d2f289ea2da52454819f6677c405381a1
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 7d6ad2667613ae948a4abcefafe8d91cf89d2418
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492079"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402277"
 ---
 # <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Fel vid överföring av e-post: Klientvärd blockeras med hjälp av Spamhaus
 

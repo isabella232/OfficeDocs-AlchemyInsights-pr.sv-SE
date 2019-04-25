@@ -7,16 +7,16 @@ ms.date: 3/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8b711af6-3d0e-4334-ae67-8b3cb76293de
-ms.openlocfilehash: 50f7f2a647092a05527dfe4e1c1691f9cca3050a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: cdf966f1eedf5240c6fa46b71e95a0554b76951f
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492185"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423453"
 ---
 # <a name="set-up-onedrive"></a>Ställ in OneDrive
 

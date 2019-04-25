@@ -7,16 +7,16 @@ ms.date: 5/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: 3e94932172a2fc2609c8d4074e6331231fbe84fb
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: fa174850f1e2810a2d38833f5dca4360ee53d4be
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491871"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400329"
 ---
 # <a name="help-understanding-value-added-tax-vat"></a>Att förstå värdet läggs moms (VAT)
 

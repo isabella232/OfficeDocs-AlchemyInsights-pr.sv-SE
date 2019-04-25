@@ -6,14 +6,14 @@ ms.date: 6/29/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 3973f5bf584343d3353e7389f22bc727827b5c35
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f1a4803838b6511ef4fe7f03cafa4aa13b3c9734
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491807"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420718"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>Felsökning: åtkomst nekad meddelanden
 

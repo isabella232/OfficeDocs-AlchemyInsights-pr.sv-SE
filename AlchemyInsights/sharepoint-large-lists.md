@@ -7,16 +7,16 @@ ms.date: 2/12/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ee07bf74-7aeb-4c47-8f5d-f496d6c09d79
-ms.openlocfilehash: c4792a3e8656ebe315c4a4ba6b08b9881b0f789d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 9390d428061b8450126c1573f608e69862c7d1b5
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491813"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421294"
 ---
 # <a name="work-with-large-lists-and-libraries-in-sharepoint"></a>Arbeta med stora listor och bibliotek i SharePoint
 

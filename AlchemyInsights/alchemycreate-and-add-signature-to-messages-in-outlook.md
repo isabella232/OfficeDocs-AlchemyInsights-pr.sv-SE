@@ -7,16 +7,16 @@ ms.date: 8/21/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: e0e6c7589c0bb711cea87612500797f6b69ad4a0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: da21e1a463c4d1fdf0160519f79ff99b7be3ca74
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492250"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398132"
 ---
 # <a name="creating-email-signatures"></a>Skapa e-signaturer
 

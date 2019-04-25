@@ -7,16 +7,16 @@ ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: e0f736ad9deeaaf5673583cecc3dca8803769877
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: bef24376d9cffbc9eed3adf05efdff6229157bd8
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29497960"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32397870"
 ---
 # <a name="all-subscriptions-are-active"></a>Alla prenumerationer är aktiv
 

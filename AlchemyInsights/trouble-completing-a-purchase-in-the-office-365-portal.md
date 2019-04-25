@@ -1,5 +1,5 @@
 ---
-title: Problem med att slutföra ett inköp i Office 365-portalen
+title: Har du problem med att slutföra ett köp på Office 365-portalen?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 3933a621a50812f2e03813664c36cca1a5e23a4f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: 2364912c0753d649536e3d98c358ed4c726dbfad
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492486"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420394"
 ---
-# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Problem med att slutföra ett inköp i Office 365-portalen
+# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Har du problem med att slutföra ett köp på Office 365-portalen?
 
-När du försöker göra ett inköp om du har tillfrågats flera gånger att logga in på Office 365-portalen eller ett meddelande om att ett problem påträffades är det bäst att först försöka använda webbläsarens InPrivate-/ incognito läge. När du öppnar ett fönster med InPrivate-/ incognito, gå till [portal.office.com](https://portal.office.com) webbplats och logga in med dina autentiseringsuppgifter för administratör. Fortsätt sedan att slutföra köpet. 
+Om du försöker slutföra ett köp och flera gånger har blivit ombedd att logga in i Office 365-portalen, eller om du får ett meddelande om att ett problem hittades, är det bäst att först försöka använda webbläsarens InPrivate- eller inkognitoläge. När du har öppnat ett InPrivate- eller inkognitofönster går du till webbplatsen [portal.office.com](https://portal.office.com) och loggar in med dina autentiseringsuppgifter som administratör. Fortsätt sedan med att slutföra köpet. 
   
 

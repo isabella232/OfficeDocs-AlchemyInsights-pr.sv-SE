@@ -6,14 +6,14 @@ ms.date: 9/10/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: 0db627cdda2b5598a01032de5eb0d4614184307a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c99070e484313464e5f6b92447930a62c90ef655
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492376"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410068"
 ---
 # <a name="intune-app-deployment"></a>Intune App distribution
 

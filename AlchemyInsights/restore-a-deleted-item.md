@@ -7,16 +7,16 @@ ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: 0f9d5f4fc868e0e73edf41d489aeaa425b9a203d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3571360e6d71120f904e29cf25301d4eeaaf52e7
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492135"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422481"
 ---
 # <a name="restore-a-deleted-item"></a>Återställa ett borttaget objekt
 

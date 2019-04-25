@@ -7,16 +7,16 @@ ms.date: 4/5/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: bd94ec10f9df2e72ec6e3d8552d2eb80212a9d78
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 81041685cf383a231a9a9739d6daffd6039b4602
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29500300"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32403765"
 ---
 # <a name="enable-mailbox-auditing"></a>Aktivera granskning av postlåda
 
@@ -30,6 +30,6 @@ Set-postlåda - identitet ”Jane Dow” - AuditEnabled $true
   
 Get-Mailbox - ResultSize obegränsat - filtrera {RecipientTypeDetails - eq ”UserMailbox”} | Set-postlåda - AuditEnabled $true
   
-Läs mer
+[Lära sig mer](https://support.office.com/article/aaca8987-5b62-458b-9882-c28476a66918)
   
 

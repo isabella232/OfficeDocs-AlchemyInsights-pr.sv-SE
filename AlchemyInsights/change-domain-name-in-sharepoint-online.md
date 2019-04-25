@@ -6,14 +6,14 @@ ms.date: 10/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: ff7ed718299a88b21638ab1b73a6e9b631d8659b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 419d30f087018e093c034d95f30e3058ea953d5c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499364"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32394578"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>Ändra domännamnet i SharePoint Online
 

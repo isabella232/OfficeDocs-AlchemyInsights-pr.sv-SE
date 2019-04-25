@@ -6,17 +6,19 @@ ms.date: 4/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 9e6df5ee-ede8-421d-ba25-a3a3d0ca0a5d
-ms.openlocfilehash: 39cc76671a277969862c34b56f81f38ed0108b72
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: af84ef9cb3c9ed425b35d884ffaf4dcb94bff565
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492032"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402457"
 ---
 # <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 åtkomst nekad, innehavare har överskridit tröskelvärdet
 
-Detta meddelande visas när för mycket skräppost eller bulk e-post som har skickats av Office 365-organisation. Om du vill ta bort det här blocket måste du förstå och förklara orsaken till supportpersonalen samt det underliggande problemet.
-  
+Detta meddelande visas när för mycket skräppost eller bulk e-post som har skickats av din organisation och vi placerar ett block på utgående e-post.
+Vanliga orsaker är avslöjade för lokala servrar eller avslöjade administratörskonton som har använts för att skapa kopplingar. Ett av villkoren kan skräppost igenom din organisation.
 
+Om du vill ta bort det här blocket måste du förstå och förklara orsaken till supportpersonalen samt det underliggande problemet.
+När du är klar klickar du på **Kontakta oss** nedan.
