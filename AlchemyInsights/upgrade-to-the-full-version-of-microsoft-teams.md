@@ -6,21 +6,22 @@ ms.date: 6/6/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: c91f767a2b933b618f1b1361b3f34b4ee2cc7f32
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d70ed9689ed08b66b4b5171920bac02769009b44
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492046"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390373"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="932a5-102">Uppgradera till den fullständiga versionen av Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="932a5-102">Upgrade to the full version of Microsoft Teams</span></span>
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="0e935-102">Uppgradera till den fullständiga versionen av Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="0e935-102">Upgrade to the full version of Microsoft Teams</span></span>
 
-<span data-ttu-id="932a5-103">Du kan uppgradera från Microsoft Teams (kostnadsfri) till den fullständiga versionen av Microsoft Teams när du är klar.</span><span class="sxs-lookup"><span data-stu-id="932a5-103">You can upgrade from Microsoft Teams (free) to the full version of Microsoft Teams whenever you're ready.</span></span>
-  
-<span data-ttu-id="932a5-104">Det bästa sättet att starta uppgraderingen är att klicka på **Låt oss ringa dig** nedan.</span><span class="sxs-lookup"><span data-stu-id="932a5-104">The best way to start the upgrade process is to click **Let us call you** below.</span></span> 
-  
-<span data-ttu-id="932a5-105">Supportpersonalen kontaktar du hjälp och du väljer en Office 365-plan, ange dina kontakt- och info, markerar du namnet på domänen org och uppgradera din roster medlem.</span><span class="sxs-lookup"><span data-stu-id="932a5-105">A support agent will contact you and help you select an Office 365 plan, enter your contact and payment info, select your org domain name, and upgrade your member roster.</span></span>
-  
+<span data-ttu-id="0e935-103">Om du behöver uppgradera från den fria till den fullständiga versionen av Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="0e935-103">Need to upgrade from the free to the full version of Microsoft Teams?</span></span> <span data-ttu-id="0e935-104">Se [Uppgradera Microsoft team du versionen av Office 365-prenumeration](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)</span><span class="sxs-lookup"><span data-stu-id="0e935-104">See [Upgrade Microsoft Teams free to Office 365 subscription version](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)</span></span>
+
+<span data-ttu-id="0e935-105">Du behöver att uppfylla dessa krav:</span><span class="sxs-lookup"><span data-stu-id="0e935-105">You’ll need to meet these requirements:</span></span>
+- <span data-ttu-id="0e935-106">Du är den person som registrerade dig för den aktuella gratisversionen av team.</span><span class="sxs-lookup"><span data-stu-id="0e935-106">You’re the person who signed up for the current free version of Teams.</span></span>
+- <span data-ttu-id="0e935-107">Om du har en egen domän kan den redan vara associerad med Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="0e935-107">If you have your own domain, it can’t already be associated with Azure Active Directory.</span></span>
+- <span data-ttu-id="0e935-108">Om du vill överföra data när du uppgraderar, måste du prenumerera under uppgraderingsprocessen.</span><span class="sxs-lookup"><span data-stu-id="0e935-108">To transfer data when you upgrade, you must subscribe during the upgrade process.</span></span> <span data-ttu-id="0e935-109">Om du har köpt Office 365 utanför uppgraderingsprocessen kan du överföra data.</span><span class="sxs-lookup"><span data-stu-id="0e935-109">If you bought Office 365 outside of the upgrade process, you can’t transfer data.</span></span>
+
 

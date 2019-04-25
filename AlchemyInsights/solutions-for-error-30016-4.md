@@ -3,39 +3,35 @@ title: Lösningar för fel 30016 4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 12/19/2018
+ms.date: 1/11/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: 38079f76eb410592e48d93409e705faa9788fe19
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 841e181243932bacb18bdb49508468db1da3c715
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491924"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421186"
 ---
-# <a name="solutions-for-error-30016-4"></a><span data-ttu-id="774b8-102">Lösningar för fel 30016 4</span><span class="sxs-lookup"><span data-stu-id="774b8-102">Solutions for error 30016-4</span></span>
+# <a name="solutions-for-error-30016-4"></a><span data-ttu-id="686a3-102">Lösningar för fel 30016 4</span><span class="sxs-lookup"><span data-stu-id="686a3-102">Solutions for error 30016-4</span></span>
 
-<span data-ttu-id="774b8-103">När du försöker avinstallera Office 365 ProPlus från en dator kan du få följande felmeddelande:</span><span class="sxs-lookup"><span data-stu-id="774b8-103">When you try to uninstall Office 365 ProPlus from a computer, you might receive the following error message:</span></span>
+
+<span data-ttu-id="686a3-103">När du försöker avinstallera Office 365 ProPlus från en dator, och du får felmeddelandet **något gick fel 30016 4**innebär **% temp %** -enhet som är mappad till en annan enhet än **% ProgramFiles %**.</span><span class="sxs-lookup"><span data-stu-id="686a3-103">When you try to uninstall Office 365 ProPlus from a computer, and you get the error message, **Something went wrong 30016-4**, it means the **%temp%** drive is mapped to a drive other than **%ProgramFiles%**.</span></span>
   
-> <span data-ttu-id="774b8-104">”Något gick fel 30016 4”</span><span class="sxs-lookup"><span data-stu-id="774b8-104">"Something went wrong 30016-4"</span></span>
-    
-<span data-ttu-id="774b8-105">Det här problemet uppstår om **% temp %** -enhet som är mappad till en annan enhet än **% ProgramFiles %**.</span><span class="sxs-lookup"><span data-stu-id="774b8-105">This issue occurs if the **%temp%** drive is mapped to a drive other than **%ProgramFiles%**.</span></span> 
+<span data-ttu-id="686a3-104">Åtgärda genom att hämta och installera den [Support och återställning assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy)</span><span class="sxs-lookup"><span data-stu-id="686a3-104">To fix, download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy)</span></span>
   
-<span data-ttu-id="774b8-106">Åtgärda genom att helt ta bort Office från datorn.</span><span class="sxs-lookup"><span data-stu-id="774b8-106">To fix, completely remove Office from the computer.</span></span>
-  
-1. <span data-ttu-id="774b8-107">Hämta och installera den [Support och återställning assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="774b8-107">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+1. <span data-ttu-id="686a3-105">När det öppnas, väljer du den version som du vill avinstallera och välj **Nästa** **Avinstallera Office-produkter** .</span><span class="sxs-lookup"><span data-stu-id="686a3-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
     
-2. <span data-ttu-id="774b8-108">När det öppnas, väljer du den version som du vill avinstallera och välj **Nästa** **Avinstallera Office-produkter** .</span><span class="sxs-lookup"><span data-stu-id="774b8-108">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
+2. <span data-ttu-id="686a3-106">Starta om datorn när du uppmanas att fortsätta gå igenom skärmar.</span><span class="sxs-lookup"><span data-stu-id="686a3-106">Continue going through screens and restart your computer when prompted.</span></span>
     
-3. <span data-ttu-id="774b8-109">Starta om datorn när du uppmanas att fortsätta gå igenom skärmar.</span><span class="sxs-lookup"><span data-stu-id="774b8-109">Continue going through screens and restart your computer when prompted.</span></span>
+    <span data-ttu-id="686a3-107">Efter omstart öppnas Support och återställning assistenten igen automatiskt för att slutföra avinstallationen.</span><span class="sxs-lookup"><span data-stu-id="686a3-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
     
-    <span data-ttu-id="774b8-110">Efter omstart öppnas Support och återställning assistenten igen automatiskt för att slutföra avinstallationen.</span><span class="sxs-lookup"><span data-stu-id="774b8-110">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
-    
-4. <span data-ttu-id="774b8-111">Följ återstående instruktioner och installera om Office eller stänga assistenten.</span><span class="sxs-lookup"><span data-stu-id="774b8-111">Follow remaining prompts, and reinstall Office or close the assistant.</span></span>
+3. <span data-ttu-id="686a3-108">Följ återstående frågor och [installera om Office](https://portal.office.com/OLS/MySoftware.aspx) eller stänga assistenten.</span><span class="sxs-lookup"><span data-stu-id="686a3-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
     
 
