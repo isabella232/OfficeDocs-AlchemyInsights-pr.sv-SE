@@ -7,19 +7,18 @@ ms.date: 2/25/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 53aeac4c-00cb-4395-9d9b-b344cc5ada6f
-ms.openlocfilehash: e865b0802a8c16a3c923abc9972b3f77848a3f5b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 445ad25eacf5a873473bebd0e9c62fb1f81003d3
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492420"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398286"
 ---
 # <a name="become-an-admin"></a>Bli en administratör
 
-Du måste ta över för att anta rollen som administratör för den här organisationen. Följ anvisningarna i handboken för detaljerade instruktioner: [hur du utför en IT-administratör övertagande med O365](https://support.office.com/article/https://powerbi.microsoft.com/en-us/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)
-  
+Du måste ta över för att anta rollen som administratör för den här organisationen. Följ anvisningarna i handboken för detaljerade instruktioner: [hur du utför en IT-administratör övertagande med O365](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)
 

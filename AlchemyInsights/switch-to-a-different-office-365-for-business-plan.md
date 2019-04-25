@@ -1,5 +1,5 @@
 ---
-title: Byta till ett annat Office 365 för företag-abonnemang
+title: Växla till en annan Office 365 för Business Plan
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -7,18 +7,18 @@ ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 06ece0f33bc817aa9759cbc3487544ed5b48b946
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: eda1feb55a22a21849b6d017600b7c47e49b5174
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491809"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420948"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Byta till ett annat Office 365 för företag-abonnemang
+# <a name="switch-to-a-different-office-365-for-business-plan"></a>Växla till en annan Office 365 för Business Plan
 
 När verksamheten ändras, eller om du behöver fler funktioner i Office 365, kan du växla planer.
   

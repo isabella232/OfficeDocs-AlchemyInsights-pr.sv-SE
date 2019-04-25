@@ -7,16 +7,16 @@ ms.date: 4/16/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 04774654e774a49b62fdc802b047bc3fcb4379c0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 41e5a67cdbb17ab562ad2830ab0ac0e4e708ef27
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29500732"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422121"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>Skicka e-post från ett alias eller sekundär adress
 

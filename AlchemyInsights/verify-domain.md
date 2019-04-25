@@ -1,5 +1,5 @@
 ---
-title: Kontrollera domän
+title: Verifiera domän
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: 5df0b249ad7a9e4d6ac0efd469fc20d404310a56
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: aec50ebaee7561566721bd68fe309c0933d55617
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491814"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423121"
 ---
-# <a name="trying-to-verify-your-domain"></a>Försöker verifiera din domän?
+# <a name="trying-to-verify-your-domain"></a>Försöker du verifiera din domän?
 
-Du måste lägga till en TXT-post din domänregistrerare för att verifiera att du äger din domän. Följ guiden Lägg till domän genom att klicka på **Inställningar** \> **domän**och **Lägger till domänen**. 
+Du måste lägga till en TXT-post i domänregistratorn för att verifiera att du äger domänen. Följ guiden Lägg till domän genom att klicka på **Inställningar** \> **Domän** och sedan **Lägg till domän**. 
   
-Följ instruktionerna i artikeln nedan för att lägga till en TXT-post för att verifiera din domän. Välj din domänregistrerare specifika anvisningar för din domän.
+Följ anvisningarna i artikeln nedan för att lägga till en TXT-post för att verifiera din domän. Välj din domänregistrator för att få specifika anvisningar för domänen.
   
-[Skapa DNS-poster för Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+[Skapa DNS-poster för Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
   
 

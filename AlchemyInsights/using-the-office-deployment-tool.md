@@ -6,14 +6,14 @@ ms.date: 12/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: b4ade0f21794a8986aa7a37d783da5fa289488fc
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c7e0e96f225030590fdd516eaf3115c93a6335b6
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492097"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423201"
 ---
 # <a name="using-the-office-deployment-tool-odt"></a>Med hjälp av Office Deployment Tool (ODT)
 

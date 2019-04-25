@@ -7,16 +7,16 @@ ms.date: 4/11/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 79595b9d-ce9b-44e5-b142-8d6df9cbb427
-ms.openlocfilehash: 474f4a6325f861fbe2b67669bb474a041af79d6d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 713efa1d175f3b68eb324c16193e418ec2054499
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491968"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398322"
 ---
 # <a name="cant-sign-in-to-outlookcom"></a>Det går inte att logga in på Outlook.com
 

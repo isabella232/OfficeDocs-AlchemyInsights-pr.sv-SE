@@ -1,28 +1,29 @@
 ---
-title: Du får för mycket skräppost eller nätfiske i postlådan?
+title: Får du för mycket skräppost eller nätfiskebrev i din postlåda?
 ms.author: pebaum
 author: pebaum
 ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 75d912b3-f154-4219-9b8c-4e1d41aaa442
-ms.openlocfilehash: 687531c0da6fc93b22eaa755bd5a24129116c782
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: dc65d3d027f11fd6ccf328141d0f1d080c53a482
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492876"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32397242"
 ---
-# <a name="are-you-getting-too-much-spam-or-phishing-emails-in-your-mailbox"></a>Får du mycket skräppost eller phishing e-postmeddelanden i din postlåda?
+# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>Får du för mycket skräppost eller nätfiskebrev i din postlåda?
 
-Lär [dig att minska skräppost e-post i Office 365](https://docs.microsoft.com/en-us/office365/securitycompliance/reduce-spam-email?redirectSourcePath=%252farticle%252fhow-to-reduce-spam-email-in-office-365-07824c51-2c45-4005-8596-03c0d7c4ff2a) för felsökning av skräppost. 
+Se [Minska mängden skräppost i Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) för felsökning av skräppost. 
   
-Det bästa sättet att rapportera dessa typer av problem är att: 
+Det bästa sättet att rapportera dessa problem är att: 
   
-1. [Aktivera rapportering tillägget](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-the-report-message-add-in?redirectSourcePath=%252fen-us%252farticle%252fEnable-the-Report-Message-add-in-4250c4bc-6102-420b-9e0a-a95064837676#entireorg) för användaren. 
+1. [Aktivera rapporteringsinlägget](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) för användaren. 
     
-2. Låt [användare rapportera meddelandet](https://support.office.com/en-us/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US) som skräppost. 
+2. [Användaren rapporterar meddelandet](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) som skräppost. 
     
 

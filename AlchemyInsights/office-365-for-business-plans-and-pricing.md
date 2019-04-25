@@ -7,19 +7,19 @@ ms.date: 2/28/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: fb61b3f6339a9929bf91845340bdcf9e11048cd1
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 31d9f93c6eec94e9685c27ceec424ee3750d0c12
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492605"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420214"
 ---
 # <a name="compare-office-365-for-business"></a>Jämföra Office 365 för företag
 
-Det finns tre olika planer med Office 365 för företag. [Jämföra Office 365 för Business planer och prissättning](https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2).
+Det finns tre olika planer med Office 365 för företag. [Jämföra Office 365 för Business planer och prissättning](https://products.office.com/compare-all-microsoft-office-products?tab=2).
   
 

@@ -7,16 +7,16 @@ ms.date: 12/18/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 901a171cf96bc031299fef2fdffea9e10021ba13
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ffdede78f772a4efc1f1803f9494c9766e33550d
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491827"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421654"
 ---
 # <a name="set-passwords-to-never-expire"></a>Här anger du lösenord aldrig upphör att gälla
 
