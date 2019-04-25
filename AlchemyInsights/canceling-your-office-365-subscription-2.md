@@ -7,16 +7,16 @@ ms.date: 2/21/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: a4c99f544a7046ef19d1ab047792f3f7fdce13f7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 7464784fb11b872c395c206a510577c2a4c33835
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491985"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399231"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Avbryta din Office 365-prenumeration?
 
@@ -26,6 +26,6 @@ Utifrån dina organisationsdata tror vi dina aktuella prenumerationer har mer ä
   
 Du kan också använda alternativet ”Låt oss ringa dig” tala med en supporttekniker.
   
-Om du vill veta mer om hur du avbryter en prenumeration eller stegvisa anvisningar finns i den här artikeln: [Avbryt Office 365 för företag](https://support.office.com/en-us/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+Om du vill veta mer om hur du avbryter en prenumeration eller stegvisa anvisningar finns i den här artikeln: [Avbryt Office 365 för företag](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
   
 

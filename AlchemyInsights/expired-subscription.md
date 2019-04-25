@@ -7,16 +7,16 @@ ms.date: 2/28/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 604e645175696043a8e9e9a0d796b2c904786e23
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3a2f33686c2d9fd6803c0a5fc208a2e6bd80cd4b
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492063"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402115"
 ---
 # <a name="expired-subscription"></a>Utgångna abonnemang
 

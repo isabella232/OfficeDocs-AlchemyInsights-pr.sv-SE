@@ -7,16 +7,16 @@ ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: bbaa91c8beadb5508176fb8e2c225a0aaa0e0613
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 38d706c035613bf4f3ff87ffbfa19621aa386763
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492770"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400041"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Lägga till eller minska antalet licenser
 

@@ -7,16 +7,16 @@ ms.date: 12/19/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1f16f2c7-9593-4ef3-a4d4-e22b59814497
-ms.openlocfilehash: 5a88d316c04e1b8c5c2bee6ceb5ffac6fcff9604
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 2b4a84495ae874e6c41f4ab3b0a0fcf036fb03d4
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492195"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32374198"
 ---
 # <a name="solutions-for-error-30015-25"></a>Lösningar för fel 30015 25
 

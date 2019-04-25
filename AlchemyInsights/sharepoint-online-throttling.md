@@ -6,14 +6,14 @@ ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: 63f76b963f6a9a2664de20a08e06b5f5765bd241
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f333957a585d16207aabe0f9de4d4b72b9e1ce63
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491816"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32374090"
 ---
 # <a name="sharepoint-online-throttling"></a>SharePoint Online-begränsning
 

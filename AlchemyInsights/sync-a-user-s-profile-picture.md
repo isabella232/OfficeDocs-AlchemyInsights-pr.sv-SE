@@ -1,19 +1,19 @@
 ---
 title: Synkronisera en användares profilbild
 ms.author: ponincev
-author: ponincev
+author: pebaum
 ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 88652b7d27ac13cacd9e07aaec5a4a1c38243c7f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 0ee818002cf89ab0b2e5c94f8718b3df602d529d
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492425"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370236"
 ---
 # <a name="sync-a-users-profile-picture"></a>Synkronisera en användares profilbild
 

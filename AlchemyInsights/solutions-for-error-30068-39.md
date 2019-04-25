@@ -7,16 +7,16 @@ ms.date: 12/19/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 6792651dcccead6416ff882ca9b628ff10d09e63
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4d41c7a5ed053d5d2a4cd3dd11be94cb74649c87
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491848"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32373802"
 ---
 # <a name="solutions-for-error-30068-39"></a>Lösningar för fel 30068 39
 
