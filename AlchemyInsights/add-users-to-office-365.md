@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cfacdcac-8b59-4d81-a8b1-0d16b712df25
-ms.openlocfilehash: 8c708fd3595a1388411c6188ea3b9342476895a9
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: c47086e8324bfa4c92c109fc3e602af93a47634a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491866"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398692"
 ---
 # <a name="add-a-user-to-office-365"></a>Lägga till en användare i Office 365
 
 Så här lägger du till en användare i Office 365:
   
-1. Gå till [Aktiv användare](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/users) (eller välj **användare** på vänster navigeringsfält \> **aktiva användare**).
+1. Gå till [Aktiva användare](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (eller välj på den vänstra navigeringsmenyn **Användare** \> **Aktiva användare**).
     
 2. Klicka på **Lägg till en användare**.
     
 3. Fyll i användarinformationen. Välj **Lägg till** när du är klar. 
     
-Läs mer
+[Läs mer...](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
   
 

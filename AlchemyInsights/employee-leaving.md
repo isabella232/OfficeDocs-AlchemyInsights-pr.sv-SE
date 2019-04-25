@@ -7,25 +7,21 @@ ms.date: 4/16/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-description: Mer än 500 ord för en artikel som mål.
-ms.openlocfilehash: 001833aeec5e8f6783aaa68c45406d43aba752fb
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+description: ''
+ms.openlocfilehash: 3d7a1399cb1378cd6960d308d2df440310408b9d
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498176"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398908"
 ---
-Mer än 500 ord för en artikel som mål.
-  
 # <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Har en anställd lämnar och behöver blockera åtkomst till data och e-post?
-
-Gör så här:
   
-1. Gå till [aktiva användare](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/users).
+1. Gå till [aktiva användare](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
     
 2. Markera den användare du vill spärra. 
     
@@ -33,6 +29,6 @@ Gör så här:
     
 4. Välj **Blockera användaren från att logga in** \> **Spara**. 
     
- **Anmärkning**: utloggning för vissa program är inte kanske omedelbart. Följa upp med fler åtgärder i den här artikeln: [Ta bort en tidigare anställd från Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
+ **Anmärkning**: utloggning för vissa program är inte kanske omedelbart. Följa upp med fler åtgärder i den här artikeln: [Ta bort en tidigare anställd från Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
   
 

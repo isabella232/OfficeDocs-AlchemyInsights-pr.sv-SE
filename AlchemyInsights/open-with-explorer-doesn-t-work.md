@@ -7,16 +7,16 @@ ms.date: 12/10/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b8f07022-69fe-4112-a2f6-d3a6cedb966c
-ms.openlocfilehash: b55fc7bd5670e655334ef7be368b245c8899633a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 73d33e50449345c312abdd39afcc36e0c95fd1c4
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491817"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419890"
 ---
 # <a name="open-with-explorer-isnt-working"></a>Öppna i Explorer fungerar inte
 

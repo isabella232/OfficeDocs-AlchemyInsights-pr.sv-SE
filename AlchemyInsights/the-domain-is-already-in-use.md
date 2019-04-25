@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
-ms.openlocfilehash: 429b091255933de57c2f179355e88625144d6eb1
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: 8b6bb50164bb48b955d6cc4873c547232efe1527
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492795"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370272"
 ---
 # <a name="the-domain-is-already-in-use"></a>Domänen används redan
 
-Den domän som du försöker lägga till redan tillhör en annan organisation. Du måste först ta bort domänen från denna organisation innan du kan lägga till den här organisationen. Artiklarna nedan leder dig genom dessa processer.
+Den domän som du vill lägga till är redan kopplad till en annan organisation. Du måste först ta bort domänen från den organisationen innan du kan lägga till den i denna organisation. Artiklarna nedan vägleder dig genom de här processerna.
   
-- Ta bort en domän från Office 365
+- [Ta bort en domän från Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
     
-- [Lägga till en domän och skapa DNS-poster](https://support.office.com/article/https://support.office.com/en-us/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+- [Lägga till en domän och skapa DNS-poster](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
     
 

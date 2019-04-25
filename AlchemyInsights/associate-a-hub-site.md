@@ -6,14 +6,14 @@ ms.date: 1/3/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 50249bb9-3c28-408f-946b-2caab6b1b9f4
-ms.openlocfilehash: 3a2ff2958240a48727d9287e6e43b9b065757415
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 24986b9d715c930bac058ac6aeedc278e1de7d61
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498968"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396896"
 ---
 # <a name="associate-a-hub-site"></a>Associera en navplats
 

@@ -7,16 +7,16 @@ ms.date: 2/28/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
-ms.openlocfilehash: a041d21bcbc77b8069178dc74e92d07df312af7a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 960331625e01a4b6ec71cf09184cfdde8f9e4bde
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491875"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399088"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>Överföra filer till OneDrive eller SharePoint
 

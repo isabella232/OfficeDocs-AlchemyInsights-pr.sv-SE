@@ -7,16 +7,16 @@ ms.date: 8/3/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: d7a63edc7d5fb51b5d92549d96b62854dbee2031
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 5bab5dae1b98fd2de57f07d5321b01dbec974b60
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491908"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398836"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>Lägga till en grupp till en SharePoint-webbplats
 
@@ -24,7 +24,7 @@ Vissa SharePoint-gruppwebbplatser (inklusive de som har skapats i Microsoft Team
   
 Hantera Office 365 medlemmar:
   
-1. Gå till [sidan i Office 365 administratörscenter](https://portal.office.com/adminportal/home#/groups).
+1. Gå till [sidan i Microsoft 365 administratörscenter](https://portal.office.com/adminportal/home#/groups).
     
 2. Välj en grupp att visa dess ägare och medlemmar. Om du vill lägga till eller ta bort personer, klickar du på länken **Redigera** i raden **ägare** eller **medlemmar** . 
     

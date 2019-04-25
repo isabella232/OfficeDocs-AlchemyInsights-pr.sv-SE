@@ -7,16 +7,16 @@ ms.date: 12/10/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 5be8a8f9f67939c7e2671855da259818269d9299
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 03bb3ad01a716390ec50845b29ddf6cc81a83116
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492769"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390625"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>Åtgärda problem med att öppna med Explorer
 
@@ -31,6 +31,6 @@ ms.locfileid: "29492769"
 > [!NOTE]
 > Öppna ett bibliotek i File Explorer är praktiskt om du vill kopiera eller flytta flera filer och mappar när, men om du regelbundet arbetar i biblioteket, rekommenderar vi synkroniserar den. Felsökning av problem med öppna i File Explorer finns i [Öppna i Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Information om hur du konfigurerar synkronisering finns i [synkronisera SharePoint-filer med den nya OneDrive sync-klienten](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Se artikel [hur du använder kommandot ”Öppna med Utforskaren” felsökning av problem i SharePoint Online](https://support.office.com/en-us/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) för mer information. 
+Se artikel [hur du använder kommandot ”Öppna med Utforskaren” felsökning av problem i SharePoint Online](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) för mer information. 
   
 
