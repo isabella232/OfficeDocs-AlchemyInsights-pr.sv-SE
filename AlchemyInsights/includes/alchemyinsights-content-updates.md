@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Vecka 11 mars 2019
-
-
-| Publicerad på |Avsnittets rubrik | Ändra |
-|------|------------|--------|
-| 2019-3/12 | 8000054 Outlook.com-Inkorgen inte läses in | lagts till |
-| 2019-3/12 | [8000078 Outlook.com-Inkorgen inte läses in](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | nytt namn |
-| 2019-3/12 | [8000078 Outlook.com-Inkorgen inte läses in](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | ändrade |
-| 2019-3/13 | [Skicka e-post via Office 365](/AlchemyInsights/relay-email-through-office-365) | ändrade |
-| 2019-3/14 | [samma som filnamnet är bäst [regel #-beskrivning]](/AlchemyInsights/1-alchemy-insight-template) | ändrade |
-| 2019-3/14 | [Öka storleken på postlådan](/AlchemyInsights/increase-mailbox-size) | ändrade |
-| 2019-3/15 | [Outlook stationära återkalla eller ersätta ett e-postmeddelande](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | lagts till |
-
-
 ## <a name="week-of-march-18-2019"></a>Vecka 18 mars 2019
 
 
@@ -530,3 +516,47 @@
 | 2019-4/12 | [932 uppgradera AADConnect](/AlchemyInsights/upgrading-aadconnect) | ändrade |
 | 2019-4/12 | [725 använda e-postalias på mobil enhet](/AlchemyInsights/using-email-alias-on-mobile-device) | ändrade |
 | 2019-4/12 | [1554 Winsock-fel 10061](/AlchemyInsights/winsock-error-10061) | ändrade |
+
+
+## <a name="week-of-april-15-2019"></a>Den 15 April 2019 vecka
+
+
+| Publicerad på |Avsnittets rubrik | Ändra |
+|------|------------|--------|
+| 2019-4/15 | [Alkemi - diagnostisera och lösa anslutningsproblem i Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | ändrade |
+| 2019-4/15 | [Alkemi - återskapa Outlook-profil-](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | ändrade |
+| 2019-4/15 | [DLP kan behöva en anpassad typ](/AlchemyInsights/dlp-might-need-custom-type) | lagts till |
+| 2019-4/15 | [DLP fungerar inte som förväntat](/AlchemyInsights/dlp-not-working-as-expected) | ändrade |
+| 2019-4/15 | [DLP princip Tips fungerar inte](/AlchemyInsights/dlp-policy-tips-not-working) | ändrade |
+| 2019-4/15 | [Outlook.com fel 550](/AlchemyInsights/outlook-com-error-550) | lagts till |
+| 2019-4/15 | [Outlook.com över kvoten](/AlchemyInsights/outlook-com-over-quota) | lagts till |
+| 2019-4/15 | [Ta bort Outlook.com, Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | lagts till |
+| 2019-4/15 | [Ta bort Outlook.com, Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | lagts till |
+| 2019-4/15 | [182 kör SaRA att diagnostisera &amp; lösa problem med Outlook-autentisering](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | ändrade |
+| 2019-4/16 | [9000233 Outlook.com PIN-kod](/AlchemyInsights/outlook-com-pin) | ändrade |
+| 2019-4/16 | [Ta bort Outlook.com, Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | ändrade |
+| 2019-4/16 | [8000088 spara e-post i Outlook.com](/AlchemyInsights/outlook-com-save-emails) | ändrade |
+| 2019-4/16 | [8000052 bifoga filer i Outlook.com](/AlchemyInsights/attach-files-in-outlook-com) | ändrade |
+| 2019-4/16 | [8000015 blockera eller Tillåt avsändare](/AlchemyInsights/block-or-unblock-senders) | ändrade |
+| 2019-4/16 | [8000014 hur du ändrar språk i Outlook.com](/AlchemyInsights/how-to-change-language-in-outlook-com) | ändrade |
+| 2019-4/16 | [8000059 hur du ändrar layouten](/AlchemyInsights/how-to-change-your-layout) | ändrade |
+| 2019-4/16 | [8000033 hur du svarar på eller vidarebefordrar meddelanden i Outlook.com beta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | ändrade |
+| 2019-4/16 | [8000055 hur du loggar in till eller ut från Outlook.com](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | ändrade |
+| 2019-4/16 | [Flytta en mapp i Outlook.com 8000062](/AlchemyInsights/moving-a-folder-in-outlook-com) | ändrade |
+| 2019-4/16 | [Tillämpa automatiskt säkerhetsetiketter](/AlchemyInsights/auto-apply-sensitivity-labels) | lagts till |
+| 2019-4/16 | [Säkerhetsetiketter visas inte](/AlchemyInsights/sensitivity-labels-not-appearing) | lagts till |
+| 2019-4/16 | [Den nya kvarhållande etiketter automatiskt](/AlchemyInsights/new-retention-labels-created-automatically) | lagts till |
+| 2019-4/16 | [SharePoint och OneDrive granskningsloggar](/AlchemyInsights/classic-sharepoint-audit-log-reports) | lagts till |
+| 2019-4/16 | [Identifiera delete message händelser i granskningsloggar](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | lagts till |
+| 2019-4/16 | [Identifiera externa e-vidarebefordran på postlådor i granskningsloggar](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | lagts till |
+| 2019-4/16 | [Identifiera Inkorgen regeln aktivitet i granskningsloggar](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | lagts till |
+| 2019-4/16 | [Identifiera IP-adressen och klienten i granskningsloggar](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | lagts till |
+| 2019-4/16 | [Reparera PST-filen innan du importerar](/AlchemyInsights/repair-pst-before-importing) | lagts till |
+| 2019-4/16 | [Klassiska Granskningsloggrapporter för SharePoint](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | lagts till |
+| 2019-4/16 | [Klassiska Granskningsloggrapporter för SharePoint](/AlchemyInsights/classic-sharepoint-audit-log-reports) | ändrade |
+| 2019-4/16 | [Identifiera externa e-vidarebefordran på postlådor i granskningsloggar](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | ändrade |
+| 2019-4/16 | [Identifiera Inkorgen regeln aktivitet i granskningsloggar](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | ändrade |
+| 2019-4/16 | [Klassiska Granskningsloggrapporter för SharePoint](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | ändrade |
+| 2019-4/17 | [Åtgärda problem med e-post levereras till e-postfunktioner gemensamma mappar](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | lagts till |
+| 2019-4/17 | [Team SKIFT](/AlchemyInsights/teams-shifts) | ändrade |
+| 2019-4/18 | [8000011 återskapa borttagna e-post i Outlook.com](/AlchemyInsights/recover-deleted-email-in-outlook-com) | ändrade |

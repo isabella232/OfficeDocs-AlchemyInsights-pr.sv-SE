@@ -1,5 +1,5 @@
 ---
-title: Ta bort webbplatssamlingen
+title: Ta bort en webbplats
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -7,21 +7,21 @@ ms.date: 6/28/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
-ms.openlocfilehash: 1feea26a6b462ee703df836803ff2899a3b4a9e8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 37606af8cbbd1d54cde646400386652b0d5aae56
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491940"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405029"
 ---
-# <a name="delete-a-sharepoint-site-collection"></a>Ta bort en SharePoint-webbplatssamling
+# <a name="delete-a-sharepoint-site"></a>Ta bort en SharePoint-webbplats
 
-1. I klassiska SharePoint administratörscenter, på sidan samlingar, markerar du kryssrutan bredvid webbplatssamlingen.
+1. Klicka på kryssrutan bredvid den plats som du vill ta bort i nya SharePoint administratörscenter, på sidan webbplatser.
     
-2. Välj **Ta bort**på fliken webbplatssamlingar.
+2. Klicka på **Ta bort**på verktygsfältet menyfliksområdet.
     
 

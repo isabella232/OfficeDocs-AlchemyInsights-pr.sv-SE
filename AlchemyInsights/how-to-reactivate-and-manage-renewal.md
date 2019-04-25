@@ -7,16 +7,16 @@ ms.date: 6/6/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: de9ab3b22eb2416f47c99f0588bc73d1ad57ab2d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 2d9eca47bae44034573844c16af17229e16871e5
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492421"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32416846"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Aktivera och hantera återkommande fakturering
 

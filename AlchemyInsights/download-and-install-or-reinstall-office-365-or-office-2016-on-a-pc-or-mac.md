@@ -6,14 +6,14 @@ ms.date: 1/23/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 8d7abd5a-5004-4d16-aad9-8083df213ea3
-ms.openlocfilehash: b64629bc681100e0e97505701119c5c2fda591ab
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 46b7a5b882cb16fb506bf2e2125447394da12e03
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492866"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404195"
 ---
 # <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a>Hämta och installera eller installera om Office 365 eller Office 2016 på en PC eller Mac
 

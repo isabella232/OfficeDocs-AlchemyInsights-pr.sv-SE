@@ -7,22 +7,22 @@ ms.date: 6/8/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: 9ee9fe3a5cb9f1c40a1141a9abe241c4f7fdc360
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 5a6d34c5dc5cca307cd085011a88cf7171d207ad
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492684"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408665"
 ---
 # <a name="how-to-enable-seamless-sso"></a>Aktivera sömlös SSO
 
-Aktivera sömlös SSO via [Azure AD ansluta](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect).
+Aktivera sömlös SSO via [Azure AD ansluta](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-Om du gör en nyinstallation av Azure AD Anslut, välja [anpassade installationssökvägen](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Välj alternativet **Aktivera enkel inloggning** på sidan **Logga in användare** . 
+Om du gör en nyinstallation av Azure AD Anslut, välja [anpassade installationssökvägen](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Välj alternativet **Aktivera enkel inloggning** på sidan **Logga in användare** . 
   
 Kontrollera att du har aktiverat sömlös SSO korrekt:
   
@@ -32,6 +32,6 @@ Kontrollera att du har aktiverat sömlös SSO korrekt:
     
 3. Kontrollera att sömlös enkel inloggning är **aktiverad**.
     
-Läs mer i [Azure Active Directory sömlös Single Sign-On: snabb start](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+Läs mer i [Azure Active Directory sömlös Single Sign-On: snabb start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   
 
