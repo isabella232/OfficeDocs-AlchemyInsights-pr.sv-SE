@@ -7,23 +7,23 @@ ms.date: 8/6/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f2ec4d9c-4841-4c8f-8f85-574395f8c728
-ms.openlocfilehash: 5366f68267f81d5f7c115aa5f411c9141f00d9c7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 0162486b36a945576c1be822f7abba7641fa3cd1
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29500804"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404947"
 ---
-# <a name="delete-a-classic-sharepoint-team-site-or-subsite"></a><span data-ttu-id="a945f-102">Ta bort en klassisk SharePoint team-webbplats eller en underwebbplats</span><span class="sxs-lookup"><span data-stu-id="a945f-102">Delete a classic SharePoint team site or subsite</span></span>
+# <a name="delete-a-classic-sharepoint-team-site-or-subsite"></a><span data-ttu-id="c5b65-102">Ta bort en klassisk SharePoint team-webbplats eller en underwebbplats</span><span class="sxs-lookup"><span data-stu-id="c5b65-102">Delete a classic SharePoint team site or subsite</span></span>
 
-1. <span data-ttu-id="a945f-103">Gå till webbplatsen.</span><span class="sxs-lookup"><span data-stu-id="a945f-103">Go to the site.</span></span>
+1. <span data-ttu-id="c5b65-103">Gå till webbplatsen.</span><span class="sxs-lookup"><span data-stu-id="c5b65-103">Go to the site.</span></span>
     
-2. <span data-ttu-id="a945f-104">Klicka på ikonen **Inställningar** i det övre högra hörnet.</span><span class="sxs-lookup"><span data-stu-id="a945f-104">Click the **Settings** icon in the upper right.</span></span> 
+2. <span data-ttu-id="c5b65-104">Klicka på ikonen **Inställningar** i det övre högra hörnet.</span><span class="sxs-lookup"><span data-stu-id="c5b65-104">Click the **Settings** icon in the upper right.</span></span> 
     
-3. <span data-ttu-id="a945f-p101">Klicka på **Webbplatsinställningar**. Klicka på **Ta bort den här webbplatsen**under **Webbplatsåtgärder**och klicka sedan på **Ta bort**.</span><span class="sxs-lookup"><span data-stu-id="a945f-p101">Click **Site settings**. Under **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
+3. <span data-ttu-id="c5b65-105">Klicka på **Webbplatsinställningar**.</span><span class="sxs-lookup"><span data-stu-id="c5b65-105">Click **Site settings**.</span></span> <span data-ttu-id="c5b65-106">Klicka på **Ta bort den här webbplatsen**under **Webbplatsåtgärder**och klicka sedan på **Ta bort**.</span><span class="sxs-lookup"><span data-stu-id="c5b65-106">Under **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
     
 
