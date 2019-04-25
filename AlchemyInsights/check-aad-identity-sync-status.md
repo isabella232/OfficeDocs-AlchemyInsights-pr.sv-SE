@@ -7,22 +7,22 @@ ms.date: 4/5/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: 1b74656713f4521b083490b585941aeba3abc89c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3fda1ef20dd080c6d99bf242168256c04eff24b8
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498464"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408377"
 ---
 # <a name="check-aad-identity-sync-status"></a>Kontrollera synkroniseringsstatus Ledsagardokumentet identitet
 
 Det är enkelt att kontrollera synkroniseringsstatus: 
   
-- Logga in på Office 365 administratörscenter och välj ** DirSync Status ** på startsidan. 
+- Logga in på Microsoft 365 administratörscenter och välj ** DirSync Status ** på startsidan. 
     
 - Alternativt kan du gå till användare \> aktiva användare och välj mer på sidan aktiv användare \> Directory-synkronisering.
     

@@ -7,16 +7,16 @@ ms.date: 5/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f7cc1369bd179bf410871054b2d4184a55a2b342
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491937"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407706"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopiera eller flytta objekt i ett SharePoint-dokumentbibliotek
 

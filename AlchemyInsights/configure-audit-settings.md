@@ -7,16 +7,16 @@ ms.date: 4/5/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
-ms.openlocfilehash: 0c2c14813df6b50426a9985166014a757f0228d3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 9a5b157bb70e6c1ff445a2b51d0dca8f30890f4c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492913"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408234"
 ---
 # <a name="configure-sharepoint-audit-settings"></a>Konfigurera granskningsinställningar för SharePoint
 

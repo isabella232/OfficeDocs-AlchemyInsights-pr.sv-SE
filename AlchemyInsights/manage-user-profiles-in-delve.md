@@ -1,19 +1,19 @@
 ---
 title: Hantera användarprofiler i Delve
 ms.author: ponincev
-author: ponincev
+author: pebaum
 ms.date: 9/12/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: 45f0ad0636ffb4eca6d6aaa01f8ebc2ec82b0cdb
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 5e8cc5d68afd5c35a503db2333ac620760cf3a8c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491826"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408916"
 ---
 # <a name="manage-user-profiles-in-delve"></a>Hantera användarprofiler i Delve
 

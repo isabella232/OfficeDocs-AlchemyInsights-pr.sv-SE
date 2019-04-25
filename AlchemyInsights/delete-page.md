@@ -7,16 +7,16 @@ ms.date: 6/8/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c46c757e-d2e6-46e9-95b2-5b47bb4bd572
-ms.openlocfilehash: e3ba051ba68722740838995def42b633d7a2e294
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 2bb3d677cc35040363f6806d95cbe0c41b25f6cc
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491935"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405171"
 ---
 # <a name="delete-a-sharepoint-page"></a>Ta bort en SharePoint-sida
 
@@ -28,6 +28,6 @@ ms.locfileid: "29491935"
     
 4. Markera sidan och klicka på ellipsen (...) till höger på sidan.
     
-5. Click Delete
+5. Klicka på **Ta bort**.
     
 

@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1686
 ms.openlocfilehash: 77d5e2d924197fb529fe23a3f496d828000c951c
-ms.sourcegitcommit: 31fad829e53a293e5ec474785f16ccc23494aa8d
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "31914756"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420826"
 ---
 # <a name="using-teams-shifts"></a>Med hjälp av team SKIFT
 

@@ -6,14 +6,14 @@ ms.date: 9/10/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: 54f84daa0023296c6a979e7559eb5bbdd8eb7054
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 590dd3d603cfe6581b7dac752ea82df1eab2a141
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491982"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409852"
 ---
 # <a name="ios-provisioning-profiles"></a>iOS Provisioning profiler
 

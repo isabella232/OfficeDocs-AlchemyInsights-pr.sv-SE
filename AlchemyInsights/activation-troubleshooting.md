@@ -2,44 +2,28 @@
 title: Aktivera felsökning
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
-ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.prod: office-online-server
 ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: Starta din artikel med en mycket kort introduktion (1 meningen). Placera dig själv i läsarens plats - Varför är de här? Vad gör de?
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.openlocfilehash: 86226363eb2f8804ce7fc23459a2b380f3853675
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498284"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390157"
 ---
-Starta din artikel med en mycket kort introduktion (1 meningen). Placera dig själv i läsarens plats - Varför är de här? Vad gör de? 
-  
-1. Få direkt till en kort lista över åtgärder för att slutföra aktiviteten.
-    
-    Om du måste förklara koncept eller de behöver bestämda steg, lägger du till en snabb Sammanfattning under steget där de behöver och [länk](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) till koncept eller steg. 
-    
-2. Behåll förfaranden kort - helst 5 eller färre steg, mer än 8.
-    
-3. Använda **användargränssnittet** för element i användargränssnittet eller användarna behöver skriva text. 
-    
-4. Använd verb väljer, eller ange som åtgärder och välj Formatera menyer som **menyn** \> **kommando**.
-    
-5. Lägg eventuellt en skärmbild för kontexten (om Användargränssnittet är svårt att hitta eller det behövs för att slutföra aktiviteten).
-    
-    Maximal bredd: 520 pixlar. Använda ett tema som standard, inte visa någon personlig information och beskära så att endast det som är relevant. 
-    
-    ![PlaceHolder - Maximal bredd för SOC artikel art är 520 pixlar](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-Om du vill lägga till en video eller en skärmbild, använda ett rutnät med två kolumner och stegen i vänster och video eller skärmbild i höger - Se [video rutnät exempel och steg](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx). 
-  
-Mer än 500 ord för en artikel som mål.
-  
-# <a name="example-article"></a>Exempel-artikel
+# <a name="activation-troubleshooting"></a>Aktivera felsökning
 
-[Ändra min foto](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+**På Kontrollpanelen** i \> **program och funktioner**, Sök efter Office. Du bör se Microsoft Office 365 ProPlus eller Microsoft Office 365 Business. Om mer än en version av Office i listan visas kan du avinstallera den versionen som du inte använder. 
   
-
+Om du inte kan avinstallera med Kontrollpanelen, Använd [Support och återställning assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) att avinstallera den versionen som du inte använder. 
+  
+Om Office är fortfarande olicensierade, gå tillbaka till **Kontrollpanelen** för \> **program och funktioner**. Högerklicka på återstående Office-installation och välj **Ändra** (eller ändra) Välj **Online reparation**. Online reparationen kan ta en stund. Sedan starta om Office och logga in med ditt arbete eller skolan konto, om du blir ombedd.
+  
+Om Office är fortfarande olicensierade, hämta och köra [felsökaren för aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy) på datorn för att åtgärda problem med aktivering. 
+  
+Mer information finns: [Ej licensierad produkt och Aktiveringsfel i Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

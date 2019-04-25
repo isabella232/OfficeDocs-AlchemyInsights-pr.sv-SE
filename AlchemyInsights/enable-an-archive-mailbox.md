@@ -6,14 +6,14 @@ ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 1e883894d97e6aff5de740d91a80aba25846953a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d2d30d6f78c99fe11fcf77dc010e6eddf0ddb482
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492061"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404103"
 ---
 # <a name="enable-an-archive-mailbox"></a>Aktivera en Arkivera postlåda
 

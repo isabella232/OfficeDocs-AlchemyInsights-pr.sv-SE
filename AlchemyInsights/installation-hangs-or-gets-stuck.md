@@ -2,20 +2,23 @@
 title: Installationen låser sig eller blir kvar
 ms.author: janellem
 author: janellem
-ms.date: 12/19/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 9a4584abc9e70b17757302a58c8aaa46b2ac95c2
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e722f6c73cc6da093498ee81dbb8ff0a898524d0
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491824"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410176"
 ---
 # <a name="installation-hangs-or-gets-stuck"></a>Installationen låser sig eller blir kvar
+
+
 
 Du kan se detta på nätverksanslutningen, antivirusprogram eller Windows Update-inställningar på datorn. Här är några saker du kan försöka lösa problemet.
   
@@ -23,7 +26,7 @@ Du kan se detta på nätverksanslutningen, antivirusprogram eller Windows Update
     
 - Använda en trådbunden anslutning
     
-- Om du använder en långsam Internetanslutning, installera Office [med hjälp av installationsprogrammet för Office-offline](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx)
+- Om du använder en långsam Internetanslutning, installera Office [med hjälp av installationsprogrammet för Office-offline](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)[](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx)
     
 - Tillfälligt inaktivera antivirusprogram
     
@@ -31,6 +34,6 @@ Du kan se detta på nätverksanslutningen, antivirusprogram eller Windows Update
     
 - Ta bort och installera om Office
     
-[Office tar lång tid att installera](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA.aspx)
+[Office tar lång tid att installera](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   
 

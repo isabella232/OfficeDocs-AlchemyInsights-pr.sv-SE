@@ -7,16 +7,16 @@ ms.date: 5/18/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
-ms.openlocfilehash: 3b9ffe46cd57d965f0b000c5373d924b6ca6ba8f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: a4e1445e74137b38af4bb1d753082facd30c4cae
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492266"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408521"
 ---
 # <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Ändra standard OneDrive-lagringsutrymme för dina användare
 
