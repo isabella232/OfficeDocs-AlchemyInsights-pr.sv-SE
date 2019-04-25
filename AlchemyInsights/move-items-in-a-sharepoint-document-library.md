@@ -7,16 +7,16 @@ ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: 6d3674a57ccbe10f274ee8f12493bcf5c6b08702
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d3b7b8504d4ffcdccfe39645ee462e4e2e36b660
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491808"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418235"
 ---
 # <a name="move-items-in-a-sharepoint-document-library"></a>Flytta objekt i ett SharePoint-dokumentbibliotek
 

@@ -6,14 +6,14 @@ ms.date: 12/14/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: b15b365d243d5a632c9bb32f6cee5bc391d6c1b3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 693e7607f557f2586bf3debda8e4b7fdb04cf143
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499832"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417825"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>Hur du ökar lagring i OneDrive för företag
 
@@ -27,7 +27,7 @@ Inställningen lagring utrymme gäller alla användare som inte har angett särs
   
 Om du vill öka ditt lagringsutrymme i OneDrive för företag väljer du en Office 365-plan som innehåller **OneDrive för Business Plan 2** eller **Office 365 Enterprise E3**. 
   
-Om du vill ändra planer i Office 365 administratörscenter, gå till **Fakturering** \> **abonnemang**och välj **Växla planer.**
+Om du vill ändra planer i Microsoft 365 administratörscenter, gå till **Fakturering** \> **abonnemang**och välj **Växla planer.**
   
 Mer information om att växla planer och OneDrive för Business-lagring finns i [Växla till en annan Office 365 för business plan](https://go.microsoft.com/fwlink/?LinkId=2031117) och [OneDrive för Business tjänstbeskrivning](https://go.microsoft.com/fwlink/?LinkId-2031122).
   

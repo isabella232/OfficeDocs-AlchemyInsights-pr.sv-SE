@@ -6,14 +6,14 @@ ms.date: 12/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 73d5128b55cae7712c48be9e2d05e558c3ba2e5c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 971edd9c064b448446ba16361e99df4a2291c14f
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492371"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410140"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Installera Office på en Terminal-Server
 
@@ -25,9 +25,9 @@ För distribution av Office 365 ProPlus på en Windows-Server med hjälp av Remo
     
 Om du vill installera Office 365 ProPlus på klientåtkomstlicenser från Office 365-portalen ** *som använder standardinställningarna för installationen* **, gör du så här: 
   
-1. Kontrollera vilken Office 365-plan du har. [Lär dig mer om hur](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Kontrollera vilken Office 365-plan du har. [Lär dig hur](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
     
-2. Om det behövs, växla till en annan Office 365-plan. [Lär dig mer om hur](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Om det behövs, växla till en annan Office 365-plan. [Lär dig hur](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
     
 3. Om Office har installerats på RDS-server med hjälp av andra Office 365-planer, avinstallera den. Till exempel Gå till Kontrollpanelen genom att \> avinstallera ett program. Avinstallera med hjälp av [Microsoft Support och återställning assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) om du kör till problem. 
     

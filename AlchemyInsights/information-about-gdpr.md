@@ -6,14 +6,14 @@ ms.date: 6/28/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 7b01f640b1c8d538e4209d7f905b1474b9ffabd7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b3041ad829993480937fae111c9d43762ac86c3c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492738"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410868"
 ---
 # <a name="information-about-gdpr"></a>Information om BNPR
 
@@ -25,10 +25,10 @@ ms.locfileid: "29492738"
     
   - [Granskningsrapporter](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
     
-- Information om **Begäranden om ämnet** (DSR) - Upptäck, få tillgång till, rätta, begränsa, ta bort, exportera är [här.](https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365)
+- Information om **Begäranden om ämnet** (DSR) - Upptäck, få tillgång till, rätta, begränsa, ta bort, exportera är [här.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
     
 - Information om **Meddelande om överträdelse** är [här.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
     
-- Information om **platser för data** är [här.](https://products.office.com/en-us/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
+- Information om **platser för data** är [här.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
     
 

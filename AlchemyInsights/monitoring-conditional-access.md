@@ -6,14 +6,14 @@ ms.date: 8/1/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 06307b57475e8828e6d4e5e01625d5100576f12b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 756c5e98ed3e9cedd0152b5747ea6bf1ed31778e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491835"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418487"
 ---
 # <a name="monitoring-conditional-access"></a>Övervakning av villkorad tillgång
 
@@ -35,6 +35,6 @@ Riktade med villkorad tillgång användare får ett e-postmeddelanden om de inte
     
 4. Om du vill ange en viss policy på någon att lägga till dem till **listan** . Om du vill säkerställa att en person utelämnas från principen att lägga till dem i listan **Exkludera** . 
     
-Läs mer: [hur du övervaka villkorad tillgång enheter](https://docs.microsoft.com/en-us/intune/conditional-access-exchange-monitor)
+Läs mer: [hur du övervaka villkorad tillgång enheter](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 

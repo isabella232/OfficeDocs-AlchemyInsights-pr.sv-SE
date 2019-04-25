@@ -6,14 +6,14 @@ ms.date: 12/3/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
-ms.openlocfilehash: 33b92c2cae1f641b0cd88c82fd4ae5e8632d76c2
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ce088227a3206fa05b99331fdb022fbe4886203f
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491829"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418451"
 ---
 # <a name="missing-workflow-failed-to-activate"></a>Saknas arbetsflödet kunde inte aktiveras
 

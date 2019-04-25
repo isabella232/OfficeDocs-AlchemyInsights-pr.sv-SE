@@ -7,14 +7,14 @@ ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: dd7166257f2bc17c9b483a95a97a45abd5e99874
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: a2c428b45672c3d895b88a653b541a1ab37326c8
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492521"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418595"
 ---
 # <a name="migrate-public-folder-data-to-office-365"></a>Migrera data i mappen public till Office 365
 
@@ -22,7 +22,7 @@ Om du inte har många gemensamma mappar att sätta i Office 365, är det enklast
   
 För större organisationer som vill flytta gemensamma mappar i Office 365 har vi flera guider tillgängliga:
   
-- [Migrera äldre gemensamma mappar](https://technet.microsoft.com/en-us/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 och tidigare) 
+- [Migrera äldre gemensamma mappar](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 och tidigare) 
     
 - [Migrera gemensamma mappar i Exchange 2013](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
     

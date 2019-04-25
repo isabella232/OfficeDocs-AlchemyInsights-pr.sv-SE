@@ -1,22 +1,22 @@
 ---
 title: Ogiltigt filnamn i OneDrive
 ms.author: matteva
-author: matteva
+author: pebaum
 manager: scotv
 ms.date: 2/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
-ms.openlocfilehash: 99ce99bac07c254bac707d38d98b62cf5ee4c5a9
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ab04deaeea52f2105b67d89fdc3f230efe2fdeed
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492035"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410008"
 ---
 # <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Ogiltigt namn på filer och mappar i OneDrive och SharePoint
 

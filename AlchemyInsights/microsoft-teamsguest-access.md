@@ -2,23 +2,29 @@
 title: Microsoft team - gäståtkomst
 ms.author: heidip
 author: microsoftheidi
-ms.date: 8/7/2018
+ms.date: 1/18/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: edab4e7005a6ff9a208c48083aca5a9fa6fff619
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492309"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418807"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft team - gäståtkomst
 
-Om du behöver aktivera eller konfigurera gästrollen Access i Microsoft Teams har vi en instruktioner steg för steg-guide: [Checklista för åtkomst av gäst](https://docs.microsoft.com/en-us/microsoftteams/guest-access-checklist)
-  
-Du kan behöva vänta upp till 24 timmar för team konfigurationsändringarna ska börja gälla.
-  
+Behöver du hjälp att aktivera och ställa in funktionen för gästbehörighet i Microsoft Teams?
+
+Det här behöver du göra:
+
+1. Tillåta gäståtkomst.
+1. Lägg till gästanvändare i ditt team.
+1. Ställ in gäst användarbehörigheter.
+
+För mer information, inklusive instruktioner – videoklipp finns [gästbehörighet i Microsoft team](https://docs.microsoft.com/en-us/microsoftteams/guest-access).
 

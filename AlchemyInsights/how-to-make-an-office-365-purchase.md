@@ -7,16 +7,16 @@ ms.date: 3/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 6a6fa89baabb5f952e90c3eed1017c7cbad5ffa0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3242e2db85d20364b1678a1ec9c1ed9a93156bd5
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492558"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417552"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>Hur du gör ett inköp för Office 365
 
@@ -36,6 +36,6 @@ Inköp i Office 365 kan göras i administratörscenter. Gå till sidan [prenumer
   
 - [Tilldela användare licenser i Office 365 för företag](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- [Avbryta prenumerationen på Office 365 för företag](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Avsluta Office 365 för företag](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
 

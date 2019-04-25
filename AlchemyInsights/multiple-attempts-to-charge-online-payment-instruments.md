@@ -7,16 +7,16 @@ ms.date: 2/28/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 8a155b25aafdc5ff476932b23ecc2f4115754a16
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 5d9acc81b18bc8f71efa5f8aea00bbb008672efc
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492683"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417768"
 ---
 # <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Flera försök att debitera online betalningsinstrument
 
