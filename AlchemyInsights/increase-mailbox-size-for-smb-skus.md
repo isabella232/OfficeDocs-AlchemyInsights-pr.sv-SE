@@ -7,22 +7,22 @@ ms.date: 3/22/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 4f05d1e94e7b44ccf2034c2d01e4e4c9216e94bd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 8d0d846c97bac885e0082670dbeec3f4fd8c1129
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492820"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32412589"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Växla planer för att öka storleken på postlådan
 
-Om postlådans storlek är 50 GB, kan du öka storleken på postlådan till 100 GB genom att växla till [Office 365 Enterprise E3](https://products.office.com/en-us/business/office-365-enterprise-e3-business-software) eller [Office 365 Enterprise E5](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software). Här är stegen för att växla till ett annat Office 365-schema:
+Om postlådans storlek är 50 GB, kan du öka storleken på postlådan till 100 GB genom att växla till [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) eller [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Här är stegen för att växla till ett annat Office 365-schema:
   
-1. Gå till sidan [prenumerationer](https://go.microsoft.com/fwlink/p/?linkid=842054) på Office 365 admin Center eller välj **Fakturering** \> **abonnemang**.
+1. Gå till sidan [prenumerationer](https://go.microsoft.com/fwlink/p/?linkid=842054) i Microsoft 365 administratörscenter, eller välj **Billing** \> **abonnemang**.
     
 2. Visa listan över nya scheman som är tillgängliga genom att välja **Växla planer** . 
     

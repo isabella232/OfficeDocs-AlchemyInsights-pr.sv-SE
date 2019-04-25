@@ -1,19 +1,19 @@
 ---
 title: Ställ in OneDrive
 ms.author: matteva
-author: matteva
+author: pebaum
 ms.date: 6/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: 0db4413ab1de118e8b8ce50978cb71eeb9ee65d5
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 08523ecbf18fa7b846b714896e9268e09c125cc4
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492504"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421546"
 ---
 # <a name="set-up-onedrive"></a>Ställ in OneDrive
 

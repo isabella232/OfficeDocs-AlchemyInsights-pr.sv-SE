@@ -7,16 +7,16 @@ ms.date: 12/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 77bfb5b4e2fc323c56c9d759b7b97eac7b2670eb
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 7a3bc4bfefed70df50edc9c01b343b597b24d951
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492811"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408844"
 ---
 # <a name="map-a-sharepoint-library-to-a-network-drive"></a>Mappa en nätverksenhet i ett SharePoint-bibliotek
 
