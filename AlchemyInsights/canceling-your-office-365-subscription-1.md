@@ -7,16 +7,16 @@ ms.date: 3/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 153c063fc9deb037de704d4936057d7bb00182e7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: cdb0b8949e08f97679da4c598247a28f295d05af
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492688"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32395316"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Avbryta din Office 365-prenumeration?
 
