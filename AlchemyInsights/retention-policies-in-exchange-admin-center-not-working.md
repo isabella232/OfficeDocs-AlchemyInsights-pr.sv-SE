@@ -7,20 +7,22 @@ ms.date: 11/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 0ceb1737040f0304bfe8b611241ce1deef487652
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c9061fa728edaab6575a7b1027783e56739a6d14
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492589"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371316"
 ---
+# <a name="retention-policies-in-exchange-admin-center"></a>Lagringsprinciper i Exchange Admin Center
+
  **Problemet:** Nyskapade eller uppdaterade lagringsprinciper i Exchange Admin Center tillämpa inte för postlådor eller objekt inte har flyttat till arkivet postlåda eller tagits bort. 
   
  **Rotorsaker:**
   
-- Detta kan bero på **Hanterade Mapphanteraren** inte bearbetats av användarens postlåda. Hanterade Mapphanteraren försöker bearbeta alla postlådor i organisationen molnbaserad var sjunde dag. Om du ändrar taggen bibehålla eller tillämpa en annan bevarandeprincip på en postlåda kan vänta tills mappen hanterade bistå bearbetar postlådan, eller du kan köra cmdlet Start-ManagedFolderAssistant om du vill starta hanteras Mapphanteraren att bearbeta en viss e-postlådan. Kör denna cmdlet är användbart för testning eller felsökning av en bevarandeprincip eller loggperioder tagg. Mer information finns i [Kör hanterade Mapphanteraren](https://msdn.microsoft.com/en-us/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
+- Detta kan bero på **Hanterade Mapphanteraren** inte bearbetats av användarens postlåda. Hanterade Mapphanteraren försöker bearbeta alla postlådor i organisationen molnbaserad var sjunde dag. Om du ändrar taggen bibehålla eller tillämpa en annan bevarandeprincip på en postlåda kan vänta tills mappen hanterade bistå bearbetar postlådan, eller du kan köra cmdlet Start-ManagedFolderAssistant om du vill starta hanteras Mapphanteraren att bearbeta en viss e-postlådan. Kör denna cmdlet är användbart för testning eller felsökning av en bevarandeprincip eller loggperioder tagg. Mer information finns i [Kör hanterade Mapphanteraren](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
   - **Lösning:** Kör följande kommando för att starta hanteras Mapphanteraren för en viss postlåda: 
     
@@ -28,11 +30,11 @@ ms.locfileid: "29492589"
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
-- Detta kan också inträffa om **RetentionHold** har **aktiverats** på postlådan. Om postlådan har placerats i en RetentionHold, bearbetas inte bevarandeprincipen på postlådan under den tiden. För mer information om RetentionHold inställning finns: [Postlåda kvarhållande håller](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
+- Detta kan också inträffa om **RetentionHold** har **aktiverats** på postlådan. Om postlådan har placerats i en RetentionHold, bearbetas inte bevarandeprincipen på postlådan under den tiden. För mer information om RetentionHold inställning finns: [Postlåda kvarhållande håller](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
-    Lösning
+    **Lösning:**
     
-  - Kontrollera status för RetentionHold inställningen för en viss postlåda i [EXO powershell](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
+  - Kontrollera status för RetentionHold inställningen för en viss postlåda i [EXO powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
     
   ```
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*

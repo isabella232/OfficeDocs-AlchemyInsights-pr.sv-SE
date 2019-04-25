@@ -7,14 +7,14 @@ ms.date: 5/3/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
-ms.openlocfilehash: 95807efbf035c360b6029e4d05475f96cb7d3db5
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 281c7bcbcffde8760ac67e2a296a7d37cda0ab2a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492179"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421690"
 ---
 # <a name="setting-up-a-hybrid-environment"></a>Ställa in en hybrid-miljö
 

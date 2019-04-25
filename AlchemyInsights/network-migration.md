@@ -6,14 +6,14 @@ ms.date: 7/27/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 0ca24de4ed42b423e5e227529395a9d6b0a17b64
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 02f824897b0163a7577e93451d6642464966594d
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492065"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417723"
 ---
 # <a name="network-migration"></a>Nätverk-migrering
 
@@ -29,8 +29,8 @@ O365-innehavare är eventuellt associerad med flera Yammer-nätverk i 1 innehava
     
 Observera:
   
-- **Nätverk migreringen migreras bara aktivt och väntande användare.** Tillsammans med aktiva användare överförs användarnas information, exempelvis namn och profil bild. Något nätverk innehåll, inklusive grupper migreras inte. 
+- **Nätverk-migrering migrerar endast aktivt och väntande användare.** Tillsammans med aktiva användare överförs användarnas information, exempelvis namn och profil bild. Något nätverk innehåll, inklusive grupper migreras inte. 
     
-- **Network migrering kan inte ångras.** Du kommer inte åt nätverket dotterbolag och dess innehåll efter migreringen. Så innan du överväger en migrering vill du planera noggrant. 
+- **Nätverk-migrering kan inte ångras.** Du kommer inte åt nätverket dotterbolag och dess innehåll efter migreringen. Så innan du överväger en migrering vill du planera noggrant. 
     
 

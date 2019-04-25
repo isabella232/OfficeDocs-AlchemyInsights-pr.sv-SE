@@ -7,16 +7,16 @@ ms.date: 6/6/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 4a7c938c828226dfec5de49d01d0398d7ac7ebb7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 22831d13132fc004bd8f38218e4e598f1ab5679c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491815"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370092"
 ---
 # <a name="subscription-recurring-billing"></a>Återkommande prenumerationsärenden
 

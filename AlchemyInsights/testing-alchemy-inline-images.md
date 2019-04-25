@@ -6,14 +6,14 @@ ms.date: 11/16/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 28d8036f-9df2-4dff-835b-9424bfe988a2
-ms.openlocfilehash: 9de1656e3e1fc3d64daf745eaa56e107bad82253
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c21f9693b20fb435f6e46014e09e1c6c97e2744a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492168"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371280"
 ---
 # <a name="access-the-domains-page"></a>Öppna sidan för domäner
 

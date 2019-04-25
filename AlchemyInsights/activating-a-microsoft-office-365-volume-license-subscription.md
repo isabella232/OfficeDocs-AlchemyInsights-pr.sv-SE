@@ -7,16 +7,16 @@ ms.date: 2/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 11941c07ea7185b8fe3f23b0d64d8634890fc60b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 25a501f6c07bfee15c18b0cce4f27dd2e6ec3e47
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492591"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389967"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Aktivera en prenumeration för Microsoft Office 365 volym licens
 

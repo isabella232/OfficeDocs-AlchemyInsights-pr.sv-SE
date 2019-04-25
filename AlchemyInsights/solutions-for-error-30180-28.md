@@ -7,14 +7,14 @@ ms.date: 5/26/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 2caadb7a-3b1e-4332-b928-03c1d51da8d3
-ms.openlocfilehash: ca07417328e726cbcb4c4e619982b32e133292db
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 5f67fb6d67c634e2b792a430709b4b664a4eedc2
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491882"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32369984"
 ---
 # <a name="solutions-for-error-30180-28"></a>Lösningar för fel 30180 28
 

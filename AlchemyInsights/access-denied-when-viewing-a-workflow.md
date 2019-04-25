@@ -6,14 +6,14 @@ ms.date: 11/27/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: cced887b03876eef527e0166a5a3c9be4b553029
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 43369c600687d6ac253f70a8535dc2bd0d41687e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492296"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389905"
 ---
 # <a name="access-denied-when-viewing-a-workflow"></a>Åtkomst nekad när du visar ett arbetsflöde
 

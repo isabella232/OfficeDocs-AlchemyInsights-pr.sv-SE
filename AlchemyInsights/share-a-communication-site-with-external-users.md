@@ -6,14 +6,14 @@ ms.date: 1/3/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: b25eb4b5d093e78db23dfab499f0cf9da519e7fa
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 17a7c692ae98bca407b9313fa9c9f21014d159fa
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492453"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370183"
 ---
 # <a name="share-a-communication-site-with-external-users"></a>Dela en webbplats för kommunikation med externa användare
 

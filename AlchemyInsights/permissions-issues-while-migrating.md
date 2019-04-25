@@ -6,14 +6,14 @@ ms.date: 9/18/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 0b375c3054d6ebd8638b167770fb73f12c7e95ef
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3cdf5909595b5b1fac9aeb00865546c1dcff5f09
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491978"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372182"
 ---
 # <a name="user-profile-and-photo-synchronization"></a>Synkronisering av användarprofil och foto
 
@@ -25,6 +25,6 @@ Mer information om synkroniseringsprocessen foto finns [Information om synkronis
   
 Mer information om synkroniseringsprocessen profil finns [Information om synkronisering av användarprofiler i SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **Uppdatera profil i Office ger dig** - Delve användare kan hantera sin profil för Office 365. Mer information finns i [Visa och uppdatera din profil i Office ger dig](https://support.office.com/en-us/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
+- **Uppdatera profil i Office ger dig** - Delve användare kan hantera sin profil för Office 365. Mer information finns i [Visa och uppdatera din profil i Office ger dig](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
     
 
