@@ -3,31 +3,30 @@ title: Ta bort grupp webbplats
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 6/8/2018
+ms.date: 1/24/2019
 ms.audience: Admin
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 521e61b64be253be1eee3d7d41f930d55e1492a3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f72c1d59dba7d742945ea5db0842f696825eb660
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492838"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405207"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Ta bort en SharePoint-webbplats som tillhör en grupp av Office 365
 
-När användare skapar en ny gruppwebbplats SharePoint hemifrån (eller du skapar en ny gruppwebbplats i nya SharePoint admin center preview), skapas automatiskt en motsvarande Office 365-grupp. Office 365 grupp anslutna gruppwebbplatser skapas också när du skapar en Office 365-grupp eller en grupp i Microsoft Teams. Om du vill ta bort en SharePoint-webbplats som tillhör en grupp av Office 365, måste du ta bort gruppen Office 365. 
+Globala administratörer och SharePoint-administratörer kan nu ta bort platser som hör till en grupp i Office 365. Tar bort dessa webbplatser tas bort gruppen och alla dess resurser, inklusive Outlook-postlåda och kalender och team kanaler.
   
-1. Gå till [sidan för Office 365 administratörscenter](https://portal.office.com/adminportal/home#/groups).
-    
-2. Markera kryssrutan bredvid gruppen.
-    
-3. Välj **Ta bort**.
-    
-Anmärkning: När du tar bort en grupp kan det finnas en fördröjning innan webbplatsen tas bort från SharePoint.
+Viktigt:
+- Du kan återställa borttagna platser för 93 dagar. Mer information finns i Visa och återställa borttagna platser. Observera att du måste återställa borttagna grupper inom 30 dagar. 
+- Om webbplatsen är en del av en bevarandeprincip, du kanske inte kan ta bort tills webbplatsen tas bort från den [säkerhet &amp; Admin regelefterlevnadscentret](https://protection.office.com/?rfr=AdminCenter#/retention). Mer information finns i [Översikt över bevarandeprinciper](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
+  
+Välj **bort platser**att [Visa och återställa borttagna platser i nya SharePoint administratörscenter](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center). Välj den site som har tagits bort och välj Återställ eller ta bort (som tar bort permanent på webbplatsen). Om du vill ta bort en aktiv webbplats, Välj **aktiva** platser, välj platsen och välj **Ta bort**. Mer information finns i [Hantera platser i nya SharePoint administratörscenter](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
 

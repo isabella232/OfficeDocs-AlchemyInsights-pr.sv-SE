@@ -6,14 +6,14 @@ ms.date: 11/27/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
-ms.openlocfilehash: 6ccbb205dfe3ac0ecf175ac77973f04f09f3f5e4
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9e92b484e36e3fcc6a84dd655385b6e8d21434b
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491822"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405826"
 ---
 # <a name="delete-a-communication-site"></a>Ta bort en webbplats för kommunikation
 

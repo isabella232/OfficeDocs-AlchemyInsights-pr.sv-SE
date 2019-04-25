@@ -7,16 +7,16 @@ ms.date: 5/18/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b6d51993-c6dd-4721-a41f-5c4edcf7c3c7
-ms.openlocfilehash: 18dadbdbfb216522924ddadf6ff019084e3bf93d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 7a4c54e158f0bdd08e6f0b216b298133ec05ebdb
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492191"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32377866"
 ---
 # <a name="share-a-file-or-folder-in-onedrive-or-sharepoint"></a>Dela en fil eller mapp i OneDrive eller SharePoint
 

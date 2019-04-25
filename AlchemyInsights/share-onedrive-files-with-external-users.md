@@ -7,16 +7,16 @@ ms.date: 4/10/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 2de3ea135b137253e025ff417235b81afbb109cf
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 9b920dff8facdec51f005489e7433db738447e5e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492609"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32377974"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Dela filer i OneDrive med personer utanför organisationen
 
@@ -31,7 +31,7 @@ ms.locfileid: "29492609"
   - **Vissa personer** får åtkomst endast till personerna som du anger, även om andra personer kanske redan har. Om personer som vidarebefordrar delningsinbjudan, kommer personer som redan har åtkomst till objektet att kunna använda länken. 
     
     > [!NOTE]
-    > Om något av dessa alternativ inte är tillgängligt, eller om du vill använda en annan länktyp ska visas som standard, kan du ändra inställningarna för hela organisationen genom att gå till administratörscentret OneDrive och klicka på **Dela** i det vänstra fönstret. [Lär dig mer](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Om något av dessa alternativ inte är tillgängligt, eller om du vill använda en annan länktyp ska visas som standard, kan du ändra inställningarna för hela organisationen genom att gå till administratörscentret OneDrive och klicka på **Dela** i det vänstra fönstret. [Lära sig mer](https://go.microsoft.com/fwlink/?linkid=871961)
   
 4. **Tillåt redigering** är aktiverat som standard. Avmarkera kryssrutan om du vill att användare endast kan se dina filer. 
     
@@ -39,6 +39,6 @@ ms.locfileid: "29492609"
     
 6. Klicka på **Skicka**när du är redo att skicka länken. 
     
-Läs mer
+[Lära sig mer](https://go.microsoft.com/fwlink/?linkid=871861)
   
 

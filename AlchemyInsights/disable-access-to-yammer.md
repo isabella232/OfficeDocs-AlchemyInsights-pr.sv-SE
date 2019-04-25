@@ -6,14 +6,14 @@ ms.date: 5/1/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
-ms.openlocfilehash: 2033fdd2b3cfbb9dd3da0ac5666366ee28a9d6f9
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 0ffb6b6290fe49b5bb0c59c215b285c5f9901397
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491839"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404747"
 ---
 # <a name="disable-access-to-yammer"></a>Inaktivera åtkomst till Yammer
 

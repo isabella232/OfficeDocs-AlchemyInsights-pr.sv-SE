@@ -6,14 +6,14 @@ ms.date: 5/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: fd97c1c7-fc0a-466d-87d4-cbdaf6310ca1
-ms.openlocfilehash: 5c436f9f7d76434bb9c9e5e3dc539379b5eaa0b6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 0c2cdfd057122fa4215d06318701d46c7527a330
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492606"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406856"
 ---
 # <a name="creating-inbox-rules-for-shared-mailboxes"></a>Skapa regler för Inkorgen för delade postlådor
 

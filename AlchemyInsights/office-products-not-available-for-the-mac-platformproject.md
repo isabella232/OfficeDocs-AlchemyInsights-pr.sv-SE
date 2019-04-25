@@ -7,14 +7,14 @@ ms.date: 4/26/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 7a81baab-dca5-463f-9c1b-336dff507d49
-ms.openlocfilehash: 50942ece199224fc9d16c17b11732d3b50b63127
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 38d1c36019a2ca135ff94e196d3c356ee19f1a77
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491828"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419746"
 ---
 # <a name="office-products-not-available-for-the-mac-platform"></a>Office-produkter är inte tillgänglig för Mac-plattformen
 
