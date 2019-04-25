@@ -7,14 +7,14 @@ ms.date: 4/26/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 0123668d-e18b-4186-9c58-4325168d8aec
-ms.openlocfilehash: 6c6ada4126c9623b99fca701905744f1d8ef51ad
-ms.sourcegitcommit: 89964a2e3834c9eefc07f8a3822494d7bbe7b39e
+ms.openlocfilehash: 1ebcbc27f1a508f56c82c7706be9209c22baa1c6
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29505922"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372830"
 ---
 # <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a>Lösning inte för felmeddelande ”du kommer att kunna ta emot e-post från aktuella brevlådan”
 Du får följande fel om du försöker använda Outlook 365/2016 med Exchange 2007-server:

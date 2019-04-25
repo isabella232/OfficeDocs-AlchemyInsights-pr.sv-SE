@@ -6,14 +6,14 @@ ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: a8343f03-1b8c-4c29-be84-72b025e51d72
-ms.openlocfilehash: d24e4730532f6f922315c2d56c799266fd6c952a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 95911bd58f39ff45e68313a18f167e8ba91b0070
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492107"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370210"
 ---
 # <a name="site-is-not-available"></a>Webbplatsen är inte tillgänglig
 

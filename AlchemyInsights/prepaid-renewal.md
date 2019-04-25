@@ -7,16 +7,16 @@ ms.date: 4/16/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 3b8b2e0d14a6e7ab794e53c399139d9aace8373f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 2ebf127b0c66b34e2a9cc492542c48e2f854c3c9
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491842"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371894"
 ---
 # <a name="prepaid-renewal"></a>Förutbetalda förnyelse
 

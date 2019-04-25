@@ -5,17 +5,20 @@ author: Techwriter40
 ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: a1c1c035-87ad-4d7a-a347-98522429c7aa
-ms.openlocfilehash: 453386c96848dc2dcebc4fc835f80db9b55f2368
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: dbe6616e25fbd5cca9d5feb77239f487ca760919
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492370"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32369624"
 ---
 # <a name="supported-version-of-the-sharepoint-migration-tool"></a>Version som stöds av SharePoint Migration Tool
+
+
 
 SharePoint Migration Tool stöder för närvarande endast migreringar från SharePoint 2013. Versioner 2010 och 2016 stöds inte för tillfället.
   

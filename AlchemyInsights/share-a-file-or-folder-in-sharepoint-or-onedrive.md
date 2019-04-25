@@ -6,14 +6,14 @@ ms.date: 5/24/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: a7bcfa9ea64d11032fdd738484a16810c965c96e
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492099"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370416"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Dela en fil eller mapp i SharePoint eller OneDrive
 
@@ -28,7 +28,7 @@ ms.locfileid: "29492099"
   - **Vissa personer** får åtkomst endast till personerna som du anger, även om andra personer kanske redan har. Om personer som vidarebefordrar delningsinbjudan, kommer personer som redan har åtkomst till objektet att kunna använda länken. 
     
     > [!NOTE]
-    > Om något av dessa alternativ inte är tillgängligt, eller om du vill använda en annan länktyp ska visas som standard, kan du ändra inställningarna för hela organisationen genom att gå till klassiska SharePoint administratörscenter och klicka på **Dela** i det vänstra fönstret. [Lär dig mer](https://go.microsoft.com/fwlink/?linkid=866426)
+    > Om något av dessa alternativ inte är tillgängligt, eller om du vill använda en annan länktyp ska visas som standard, kan du ändra inställningarna för hela organisationen genom att gå till den nya SharePoint administratörscenter och klicka på **Dela** i det vänstra fönstret. [Lära sig mer](https://go.microsoft.com/fwlink/?linkid=866426)
   
 3. **Tillåt redigering** är aktiverat som standard. Avmarkera kryssrutan om du vill att användare endast kan se dina filer. 
     

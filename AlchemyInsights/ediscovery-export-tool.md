@@ -7,16 +7,16 @@ ms.date: 8/3/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: f3c184cb19f61d8d294cef4f4c06fd972d2fda8c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 51e010dd19419f21c67d589b9833821b1e5075c0
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492281"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404139"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Det går inte att installera eller köra e-informationsavslöjande Exportverktyg för Windows?
 
@@ -30,9 +30,9 @@ Om du inte kan installera eller köra det Office 365 e-informationsavslöjande E
     
   - En webbläsare som stöds:
     
-  - Microsoft Edge
+  - Microsoft kant
     
-    eller
+    Eller
     
   - Internet Explorer 10 och senare versioner
     

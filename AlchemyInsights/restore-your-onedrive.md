@@ -1,22 +1,22 @@
 ---
 title: Återställa din OneDrive
 ms.author: matteva
-author: matteva
+author: pebaum
 manager: scotv
 ms.date: 4/25/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: 2eb2803f5f414302cf0bb8c88380746a3bca4bdf
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: aa8fce9a3666e875efe0260f3604e13292dd4a26
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29491837"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370488"
 ---
 # <a name="restore-your-onedrive"></a>Återställa din OneDrive
 

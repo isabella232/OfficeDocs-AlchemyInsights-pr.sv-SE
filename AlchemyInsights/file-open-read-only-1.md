@@ -7,14 +7,14 @@ ms.date: 4/26/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 69705825-723a-4c1e-ae85-d16b5051d2fe
-ms.openlocfilehash: 45078e83f86f34386a7a2a2c0409f225122a598d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 117b1e24d6250a1d5eb092a01a0d5146d09ea2e5
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492054"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401655"
 ---
 # <a name="file-open-read-only"></a>Filen öppnas i skrivskyddat läge
 
@@ -30,7 +30,7 @@ Du kan kontrollera egenskaperna genom att högerklicka på filen och välja egen
   
  **Innehållet är i skyddad vy**
   
-Filer från Internet och andra potentiellt osäkra platser kan innehålla virus, maskar och andra typer av skadlig kod som kan skada din dator. Detta gäller även ofta med bifogade filer eller filer som du har hämtat. Om du vill skydda datorn öppnas filer från dessa potentiellt osäkra platser i skyddad vy. Du kan läsa en fil och se innehållet samtidigt som det minskar riskerna med hjälp av skyddad vy. Mer information om skyddad vy och hur du ändrar inställningarna läser du följande artikel: [Vad är skyddad vy?](https://support.office.com/en-us/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Filer från Internet och andra potentiellt osäkra platser kan innehålla virus, maskar och andra typer av skadlig kod som kan skada din dator. Detta gäller även ofta med bifogade filer eller filer som du har hämtat. Om du vill skydda datorn öppnas filer från dessa potentiellt osäkra platser i skyddad vy. Du kan läsa en fil och se innehållet samtidigt som det minskar riskerna med hjälp av skyddad vy. Mer information om skyddad vy och hur du ändrar inställningarna läser du följande artikel: [Vad är skyddad vy?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **Är OneDrive full?**
   
@@ -38,7 +38,7 @@ Om filen lagras på OneDrive och OneDrive-lagringsutrymme är full, du inte spar
   
  **Är aktiverat för Office**
   
-Om Office inte är aktiverad, eller om din prenumeration har gått ut, kan du vara i skrivskyddat läge läget Nedsatt funktionalitet. Mer information om hur du aktiverar Office finns: [Ej licensierad produkt och Aktiveringsfel i Office](https://support.office.com/en-us/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Om Office inte är aktiverad, eller om din prenumeration har gått ut, kan du vara i skrivskyddat läge läget Nedsatt funktionalitet. Mer information om hur du aktiverar Office finns: [Ej licensierad produkt och Aktiveringsfel i Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Om allt annat misslyckas...**
   

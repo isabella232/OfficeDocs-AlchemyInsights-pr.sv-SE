@@ -1,5 +1,5 @@
 ---
-title: Information om betalning
+title: Uppdatera betalningsinformation
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f8d8b8d1-aed2-47df-b9bc-5f71b3c109dd
-ms.openlocfilehash: 366a29a2d3c0345ce857904bdceb8250ea88dc0f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: a20d332a32514e7c7608e825883b9e85f7d1a093
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29492277"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390264"
 ---
-# <a name="update-payment-details"></a>Information om betalning
+# <a name="update-payment-details"></a>Uppdatera betalningsinformation
 
-1. Gå till sidan [Betalningsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806) administratörscenter eller välj **Billing** \> **Betalningsmetoder**.
+1. I administrationscentret går du till sidan [Betalningsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806) eller väljer **Fakturering** \> **Betalningsmetoder**.
     
     > [!NOTE]
-    > Om det uppstår en loop som skickar du tillbaka till startsidan Admin innan uppdateringarna är klara försök Inprivate eller Incognito läge. 
+    > Om du hamnar i en loop som skickar tillbaka dig till administratörshemsida innan uppdateringarna är klara kan du prova läget Inprivate eller Inkognito. 
   
-2. Välj det kreditkort som du vill uppdatera.
+2. Välj ett kreditkort du vill uppdatera.
     
     > [!NOTE]
-    > Om en annan admin lagt till betalningsmetoden kan du inte uppdatera informationen för det kreditkort eller bankkonto. Om kreditkortet ska upphöra att gälla och andra administratören inte kan uppdatera den, kan du förhindra avbrott genom att lägga till ett nytt kreditkort eller nytt bankkonto för prenumerationen genom att välja **Lägg till betalningsmetod**. 
+    > Om betalningsmetoden har lagts till av en annan administratör kan du inte uppdatera kreditkorts- eller bankkontoinformationen för den. Om kreditkortet håller på att gå ut och den andra administratören inte har möjlighet att uppdatera det, kan du förhindra att tjänsten avbryts genom att lägga till ett annat kreditkort eller ett nytt bankkonto för prenumerationen genom att välja **Lägg till betalningsmetod**. 
   
-3. Välj **Redigera betalningsinformation**på sidan **betalningsinformation** .
+3. På sidan **Betalningsinformation** väljer du **Redigera betalningsinformation**.
     
-4. Uppdatera och välj sedan **Spara**.
+4. Gör uppdateringarna och välj sedan **Spara**.
     
-5. Välj **Ta bort**om du vill ta bort den här betalningsmetoden.
+5. Välj **Ta bort** om du vill ta bort betalningsmetoden.
     
-Mer information finns i [lägga till, uppdatera eller ta bort ett kreditkort eller bankkonto i Office 365 för företag](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) och [Felsökning kreditkort och bankkonton](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Mer information finns i [Lägga till, uppdatera eller ta bort ett kreditkort eller bankkonto i Office 365 för företag](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) och [Felsöka kreditkort och bankkonton](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
 
