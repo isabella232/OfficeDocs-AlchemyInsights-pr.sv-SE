@@ -7,18 +7,43 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 48259de7b605f667ce424d3c8be00362b08ea716
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 2432b84a06dbf3e5efd69945516174a1f70e0a9f
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34719884"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760675"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Aktivera extern delning i SharePoint Online
 
-Om din organisation utför arbete som innebär att dela dokument och samarbeta direkt med leverantörer, kunder eller kunder och du kan använda den <a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview">externa Delade funktioner i SharePoint Online</a> för att dela innehåll med personer utanför din organisation.
+Om din organisation utför arbete som innebär att dela dokument och samarbeta direkt med leverantörer, kunder eller kunder och du kan använda den [externa Delade funktioner i SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) för att dela innehåll med personer utanför din organisation.
 
-För mer information om extern delning (gäster) finns på länkarna nedan.</span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-is-an-external-user">Vad är en extern användare?</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document">Vad händer när jag delar en webbplats eller ett dokument?</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/turn-external-sharing-on-or-off">Aktivera eller inaktivera extern delning för SharePoint Online</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/change-external-sharing-site">Aktivera extern delning eller inaktivera för en webbplats</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide">Hantera gästbehörighet i Office 365-grupper</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/create-b2b-extranet">Använda Sharepoint Online som ett extranet lösning för business-to-business (B2B)</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/en-us/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c">Dela mapp eller SharePoint-filer</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/en-us/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US">Sluta dela OneDrive eller SharePoint-filer eller mappar eller ändra behörigheter</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center"><span style="color: #0066cc; background: #BFE6FF;">Ta bort en extern användare
+För mer information om extern delning (gäster) finns på länkarna nedan.
 
-Får ett fel med en extern användare (Gäst)? &nbsp;Kontrollera länkarna nedan. </span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><a href="https://docs.microsoft.com/en-us/sharepoint/sharepoint-onedrive-error-message">OSE dela fel i Sharepoint eller OneDrive</a></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/en-us/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0">Felmeddelande när en extern användare accepterar en inbjudan om SharePoint Online med hjälp av ett annat konto</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f">Åtkomst nekad till en delad mapp</a>&nbsp;</span></li> </ul>
+[Vad är en extern användare?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
+[Vad händer när jag delar en webbplats eller ett dokument?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+
+[Aktivera eller inaktivera extern delning för SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+
+[Aktivera extern delning eller inaktivera för en webbplats](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+
+[Hantera gästbehörighet i Office 365-grupper](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+
+[Använda Sharepoint Online som ett extranet lösning för business-to-business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+
+[Dela mapp eller SharePoint-filer](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[Sluta dela OneDrive eller SharePoint-filer eller mappar eller ändra behörigheter](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+
+[Ta bort en extern användare](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+
+Får ett fel med en extern användare (Gäst)?
+
+Kontrollera länkarna nedan. 
+
+- [OSE dela fel i Sharepoint eller OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+
+- [Felmeddelande när en extern användare accepterar en inbjudan om SharePoint Online med hjälp av ett annat konto](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+
+- [Åtkomst nekad till en delad mapp](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)

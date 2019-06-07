@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6e99da1c-e61d-40ba-855e-1a8f346e42fd
-ms.openlocfilehash: c51e48fe5694f964aef74c2973f774b44415ebb8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 76f0b5ed67d3220559d25dfd72c7535181a4513b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422193"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761777"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>Begränsa SharePoint Online till klassiskt läge
 
-Vissa organisationer kräver fortfarande klassiskt läge erfarenhet. Det finns inga planer på att ta bort klassiska läget på en grundläggande nivå, startar April 1,2019, det kommer inte längre vara möjligt att begränsa en hel organisation (innehavare) till klassiskt läge för listor och bibliotek.
+Vissa organisationer kräver fortfarande klassiskt läge erfarenhet. Det finns inga planer på att ta bort klassiska läget på en grundläggande nivå, är det inte längre möjligt att begränsa en hel organisation (innehavare) till klassiskt läge för listor och bibliotek.
 
 Admin har följande alternativ för att hantera enskilda listor och bibliotek i klassiskt läge med detaljerad Slipp växlar som vi tillhandahåller på följande nivåer:
 
@@ -28,6 +28,6 @@ Admin har följande alternativ för att hantera enskilda listor och bibliotek i 
 
 Dessutom kommer listor som använder vissa funktioner och anpassningar som inte stöds av modern fortfarande automatiskt slås till klassiskt läge.
 
-Efter den 1 April hanteras listor och bibliotek som är i klassiskt läge på grund av hyresgästen välja bort automatiskt på webbplatsnivå och nivå.
+Börjar 1 April 2019, processen att inaktivera arrendator nivå av moderna lista och bibliotek börjar och fortsätter genom den 31 maj 2019.  Listor och bibliotek som är i klassiskt läge på grund av hyresgästen Slipp kommer automatiskt flyttas till modern.
 
-Om du vill ha klassiskt läge finns mer information här och PnP Powershell instruktion här som beskriver verktyg och alternativ du kan använda för att förbereda för borttagning av en arrendator nivå Slipp den 1 April.
+Om du vill ha klassiskt läge finns mer information [här](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) och PnP Powershell instruktion [här](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) som beskriver alternativ och verktyg som du kan använda för att använda den klassiska problem.
