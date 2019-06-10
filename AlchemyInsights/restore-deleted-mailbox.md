@@ -14,12 +14,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: d3808cdee54b748abec16035ecb5c093ec6d37f3
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 760587c0e58662283c3c1a647d1cc5fb81187545
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370560"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770756"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Återställa en borttagen postlåda
 
@@ -33,6 +33,6 @@ Förlorar sin Exchange Online-licens, deras postlåda finns kvar i 30 dagar och 
     
 3. Tilldela Exchange Online-licens och tryck på **Spara**
     
-Om du försöker återställa en delad postlåda är också återvinningsbara i 30 dagar. Du hittar dem under **användare** \> **borttagna** användare. delade postlådor kräver inte en licens. Om du upptäcker att du behöver återställa en borttagen användare, finns i [återställa en användare i Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user).
+Om du försöker återställa en delad postlåda är också återvinningsbara i 30 dagar. Du hittar dem under **användare** \> **borttagna** användare. delade postlådor kräver inte en licens. Om du upptäcker att du behöver återställa en borttagen användare, finns i [återställa en användare i Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).
   
 

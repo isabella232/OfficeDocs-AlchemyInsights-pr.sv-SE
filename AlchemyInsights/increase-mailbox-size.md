@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f30db7cdb083356b0ad02348b7c5188280dc88f0
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412517"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769913"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Växla planer för att öka storleken på postlådan
 
@@ -34,4 +34,4 @@ Om postlådans storlek är 50 GB kan öka du till 100 GB genom att växla till [
     
 Mer information finns i [Växla till en annan plan för Office 365](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-Du kan också få ytterligare e-lagring genom att aktivera en Arkivera postlåda om du har en [plan för O365 som stöder ett arkiv på plats](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description).  En postlåda i arkivet ger ytterligare lagringsutrymme och du kan flytta, kopiera och söka efter meddelanden i både primärt och arkivera postlåda. Anvisningar om hur du aktiverar en Arkiv-postlåda finns i [Aktivera en Arkivera postlåda](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).
+Du kan också få ytterligare e-lagring genom att aktivera en Arkivera postlåda om du har en [plan för O365 som stöder ett arkiv på plats](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description).  En postlåda i arkivet ger ytterligare lagringsutrymme och du kan flytta, kopiera och söka efter meddelanden i både primärt och arkivera postlåda. Anvisningar om hur du aktiverar en Arkiv-postlåda finns i [Aktivera en Arkivera postlåda](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).

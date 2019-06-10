@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096646"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770826"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Återkalla eller ersätta ett e-postmeddelande
 
@@ -36,7 +36,7 @@ För mer information, inklusive hur du kontrollerar återkallelsen finns [återk
 
 ***Söka efter och ta bort e-postmeddelanden i organisationen*** Om du vill söka efter och ta bort e-postmeddelanden i organisationen, är det enklast om du är en global administratör. Om du inte är en global administratör måste ditt konto läggas till e-informationsavslöjande Manager roll gruppen eller rollen management att söka. Om du vill ta bort meddelanden, måste du ansluta till organisationshantering roll gruppen eller rollen för sökning och rensa. Dessa roller behörigheter i [regelefterlevnadscentret för säkerhet &](https://protection.office.com/).
 
-1. [Skapa ett innehåll söka](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) efter meddelandet om du vill ta bort.
-2. [Ansluta till regelefterlevnadscentret PowerShell för säkerhet &](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Skapa ett innehåll söka](https://docs.microsoft.com/office365/securitycompliance/content-search) efter meddelandet om du vill ta bort.
+2. [Ansluta till regelefterlevnadscentret PowerShell för säkerhet &](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Om du använder MFA finns i [Anslut till Office 365 säkerhet & Center PowerShell för att använda autentisering på flera plan](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Om du använder MFA finns i [Anslut till Office 365 säkerhet & Center PowerShell för att använda autentisering på flera plan](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
