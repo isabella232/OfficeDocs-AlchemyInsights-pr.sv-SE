@@ -9,12 +9,13 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7b5b4e06-6943-4b2f-b8e4-cdaf13e65c77
-ms.openlocfilehash: ed76b06d20bdaa74708ac6d95902f4c726838071
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.custom: ''
+ms.openlocfilehash: 3fa5fe283ebc89faff984e85731cdd3d70f5a7e6
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761813"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34899567"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Återställa en borttagen postlåda
 
@@ -23,11 +24,10 @@ När en användare förlorar sin Exchange Online-licens, finns deras postlåda k
 I Admin Portal:
   
 - Gå till **Användare** \> **Aktiva användare**. Markera användaren i fråga.
-    
-- Välj ** Redigera ** ändra produktlicenser. 
-    
+
+- Välj **Redigera** för att ändra produktlicenser.
+
 - Tilldela användare till Exchange Online-licens och välj sedan **Spara**.
-    
+
 Delade postlådor kan också återställas inom 30 dagar. Du kan söka efter delade postlådor under **användare** \> **borttagna användare**. Delade postlådor kräver inte en Exchange Online-licens.
   
-
