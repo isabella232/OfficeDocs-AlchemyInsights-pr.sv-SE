@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 99927bf4f17ff7fac1e4c61d17ab4ee706c4d891
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.openlocfilehash: 81a0ef4df7b64878d2611c7d31256b9f3babd85e
+ms.sourcegitcommit: 20a3cfa10114176f8997fd151e83d167a81945e4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643652"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34273633"
 ---
 # <a name="how-to-sign-out-of-outlook-on-the-web"></a>Hur du logga ut från Outlook på webben
 
-1. Välj ditt namn eller bild i det övre högra hörnet.
-    
-    Om du inte ser bilden längst upp på skärmen, kontrollerar du om annonsblockering är aktiverad. Ibland Detta förhindrar att bilden visas.
-    
-2. Välj **Logga ut**. 
-    
-    Avmarkera kryssrutan om du vill sluta logga automatiskt in på ditt arbete eller skolan konto för **Håll mig inloggad** på sidan där du anger ditt lösenord. 
-    
+Om du vill logga ut från Outlook på webben, Välj ditt namn eller bild i det övre högra hörnet och välj **Logga ut**.
+
+Så här stoppar automatiskt logga in på ditt arbete eller skolan konto:
+
+1. Välj ditt namn eller bild och välj **Logga ut**.
+1. Gå till [Outlook.office.com](https://outlook.office.com/) och välj **Använd ett annat konto**.
+1. Logga in med den e-postadress som du vill använda.
+
 Mer information finns i [hur du loggar in till eller ut från Outlook på webben](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
