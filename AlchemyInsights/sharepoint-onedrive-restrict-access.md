@@ -8,40 +8,40 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 3227f10270148c0e515b687c48058affa4d2be70
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: db84f77208dca60c6dee98cdb0c7f1ea7fa8fe17
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34759098"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223730"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>Begränsa åtkomsten i SharePoint eller OneDrive
 
 Det finns många sätt att begränsa åtkomsten till tjänster i SharePoint Online/OneDrive. Nedan beskrivs dessa olika åtkomstmetoder för begränsning. 
 
-Begränsning av behörighet
+**Begränsning av behörighet**
 
 I SharePoint Online och OneDrive för företag kan begränsa vi åtkomsten till objekt som webbplatser, filer och mappar genom att bara bevilja åtkomst till de grupper/personer som ska ha åtkomst.
 
-[Anpassa behörigheter för en SharePoint-lista eller ett bibliotek](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [Anpassa behörigheter för en SharePoint-lista eller ett bibliotek](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-[Anpassa behörigheter för SharePoint-webbplats](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+- [Anpassa behörigheter för SharePoint-webbplats](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
-[Ändra behörigheterna för en undermapp](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
+- [Ändra behörigheterna för en undermapp](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
 
-[Styra åtkomsten från ohanterade enheter](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Styra åtkomsten från ohanterade enheter](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
 Som en SharePoint- eller global administratör i Office 365 kan du spärra eller begränsa åtkomst till SharePoint och OneDrive-innehåll från ohanterade enheter (de inte hybrid AD kopplade eller kompatibla i Intune).
 
-Plats nätverksbegränsning
+**Plats nätverksbegränsning**
 
 Som IT-administratör kan du styra åtkomsten till SharePoint och OneDrive resurser baserat på definierade nätverksplatser som du litar på. Detta kallas även för plats-baserade principen. Mer information finns i [Kontrollera åtkomst till SharePoint Online och OneDrive data baserat på nätverksplats](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-Lås webbplatsbegränsning 
+**Lås webbplatsbegränsning** 
 
 I SharePoint Online har du möjlighet att låsa en webbplatssamling så att ingen har tillträde. Det här värdet via PowerShell och [SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) med hjälp av egenskapen [Set SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) - LockState.
 
-Begränsa användare från att skapa webbplatser och underwebbplatser
+**Begränsa användare från att skapa webbplatser och underwebbplatser**
 
 Du kan låta användarna skapa och administrera sina egna SharePoint-webbplatser, fastställa vilken typ av platser som de kan skapa, som en SharePoint-administratör eller Office 365 global administratör och ange platsen för webbplatser. Mer information finns i [Hantera webbplatsutveckling i SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
 
