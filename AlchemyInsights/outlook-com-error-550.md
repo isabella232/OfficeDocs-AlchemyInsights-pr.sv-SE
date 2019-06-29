@@ -6,18 +6,21 @@ manager: joallard
 ms.date: 4/15/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 8000081
+ms.custom:
+- "1328"
+- "8000081"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d3e94779ebbc6d7e6b1ba1d3f445e6f34f2274e1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7f2ee8a5b8a027433d3ecf150ab9f7bd8bdcba47
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419066"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375267"
 ---
 # <a name="error-550553-in-outlookcom"></a>Fel 550/553 i Outlook.com
 
 När du är hemma och skicka ett e-postmeddelande från ditt anslutna konto med Outlook.com kan e-postmeddelande returneras med en 550, 553 och förbjuden felmeddelande.
-1. Kontrollera dina [Inställningar för synkronisering av e-post](https://go.microsoft.com/fwlink/?linkid=2031283) så standard från adressen är samma som ditt domännamn för e-post. Om du har din egen e-domän ingår, kan du ändra det till outlook.com/live.com/hotmail.com-adress.
-2. Kontrollera dina [anslutna kontoinställningar](https://go.microsoft.com/fwlink/?linkid=875264&clcid=0x409) för att se till att du har autentisering aktiverad.
+
+1. Kontrollera dina [Inställningar för synkronisering av e-post](https://go.microsoft.com/fwlink/?linkid=2031283) **Inställningar** > **Visa alla Outlook-inställningar** > **e** > **synkronisera e-post**.
+1. Kontrollera att din standard från adress är detsamma som domännamnet för e-post. Om du har din egen e-domän ingår, kan du ändra den till din outlook.com, live.com eller hotmail.com adress.

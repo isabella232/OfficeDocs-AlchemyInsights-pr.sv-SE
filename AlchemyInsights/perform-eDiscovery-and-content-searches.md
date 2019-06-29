@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1488
+ms.custom:
+- "1488"
+- "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5830f4ce5be6a5c10e0696a57f0b83b4c5606f2b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373334"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371451"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Hur du utför innehåll sökningar och e-informationsavslöjande sökningar
 
@@ -26,8 +28,8 @@ ms.locfileid: "32373334"
 2. Klicka på **Sök & undersökning > innehåll sökning**.
 3. Klicka på **Ny sökning** om du vill skapa en ny sökning.
 4. Ange de obligatoriska sökvillkor inklusive nyckelord och innehållsplatser.  
-5. Klicka på **Spara & kör** om du vill namnge sökningen, starta den och förhandsgranska resultaten. 
- 
+5. Klicka på **Spara & kör** om du vill namnge sökningen, starta den och förhandsgranska resultaten.
+
 Detaljerade instruktioner om att skapa sökningar och exportera resultat finns i [den här artikeln](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 **e-informationsavslöjande sökningar**

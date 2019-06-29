@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ed36ddd74a4d8a92b1743fe75574993e7de2e193
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 5d4ee6859fef7cd91630e12eab5a5c7206c13dde
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34914124"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381891"
 ---
 # <a name="install-visio"></a>Installera Visio
 
 Visio säljs som en fristående program så om du inte har det ännu [köpa eller försök Visio](https://products.office.com/visio). 
 
-Om du har en prenumeration på Visio Online Plan 2 ser användare möjlighet att installera Visio från **Mina installationer** i [mitt konto-portal](https://portal.office.com/account#installs) om du inte har [tilldelat dem en licens](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764).
-
 **Anmärkning**: Visio Online Plan 1 saknar en stationär version av Visio, så ingen installation är möjlig.
 
-Specifika instruktioner om att hämta och installera Visio finns i [Installera Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764). 
+Om du har en prenumeration på Visio Online Plan 2, måste du [tilldela en licens](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) till en användare eller de har inte möjlighet att installera Visio från **Mina installationer** i [mitt konto-portal](https://portal.office.com/account#installs). 
 
-Om du har en giltig prenumerationslicens och kör till problem under installationen, kan du försöka installera Visio med [Support och återställning assistenten](https://aka.ms/SaRA-VisioSetupScenario).
+Icke-volymlicensmedia versioner av Visio Standard eller Visio Professional är associerade med Microsoft-konton och kan inte hanteras i administratörscenter. Om du vill installera dessa versioner måste användare logga in på [account.microsoft.com](https://account.microsoft.com) med Microsoft-kontot som associeras med den här versionen av Visio.
+
+Mer information finns i [Installera Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) och följ instruktionerna för din version av Visio.
 
 Mer information finns:<br>
 [Distributionsguide för Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
