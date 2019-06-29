@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "472"
+- "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: c5a36dab129523d54109f761343ed2adb5ef7f5f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f9635956184ed2bb46772b7a2f25c4798a1aa082
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408270"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35362231"
 ---
 # <a name="compare-office-365-plans"></a>Jämför Office 365-planer
 
@@ -26,8 +28,7 @@ Office 365-planer är tillgängliga för [företag](https://products.office.com/
   
 Om din organisation är intresserad av att jämföra alla planer och prissättning, granska [Jämför alla Office 365-planer](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Om din organisation har redan köpt en Office 365-plan och är intresserade av att växla till ett annat schema som du kan så från Microsoft 365 administratörscenter, gå till [abonnemang](https://go.microsoft.com/fwlink/p/?linkid=842054)eller välj **Billing** \> **abonnemang**. Visa listan över nya scheman som är tillgängliga genom att välja **Växla planer** . 
+Om din organisation har redan köpt en Office 365-plan och är intresserade av att växla till ett annat schema som du kan så från Microsoft 365 administratörscenter, gå till [abonnemang](https://go.microsoft.com/fwlink/p/?linkid=842054)eller välj **Billing** \> **abonnemang**. Visa listan över nya scheman som är tillgängliga genom att välja **Växla planer** .
   
 Din organisation kan också mixa och matcha Office 365 planer för att möta behoven och funktionskraven av användare. Gå till sidan [Tjänster för inköp](https://go.microsoft.com/fwlink/p/?linkid=868433) från Office 365 Admin, eller välj **Billing** \> **Inköp tjänster**.
   
-

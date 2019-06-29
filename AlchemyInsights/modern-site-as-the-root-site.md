@@ -6,22 +6,20 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: ''
-ms.openlocfilehash: 6166493f79379f44b1a9bbbaca6becfe624fe912
-ms.sourcegitcommit: 22ce2315c8cf643137ab3420cdc1cda41433d44a
+ms.custom:
+- "1874"
+- "9000265"
+ms.openlocfilehash: 8b45766e920fa5bd6eab8abc6ef808ae978808dc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/14/2019
-ms.locfileid: "34057783"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379659"
 ---
 # <a name="modern-site-as-root-site"></a>Modern webbplats som rotplats
 
-[Målet Release](https://docs.microsoft.com/en-us/office365/admin/manage/release-options-in-office-365?view=o365-worldwide) -kunder kan nu modern kommunikations webbplats erfarenhet på klassiska rotwebbplatsen för sina SharePoint-innehavare.
+Vid denna tidpunkt har utifrån Förhandsgranska feedback vi beslutat att senarelägga introducera funktionen om du vill aktivera en webbplats för kommunikation som en rotplats. Vi ber om ursäkt för eventuella besvär och kommunicerar ett nytt schema via Message Center när det är tillgängligt.
 
-Den här funktionen kan aktiveras genom att köra en enkel PowerShell-cmdlet. I PowerShell-kommandon att utföra har rotplatsen en ny hemsida för kommunikation webbplats. Information om krav för PowerShell-cmdlet och funktionen finns i artikeln [Aktivera SPOCommSite](https://docs.microsoft.com/en-us/powershell/module/sharepoint-online/Enable-SPOCommSite?view=sharepoint-ps). 
+För närvarande kan inte aktiveras kommunikationen platser som rotplatsen.
 
-Vi kommer gradvis rullande detta, av som standard till riktade Release kunder i tidiga maj 2019 och rulle ut blir tillgänglig över hela världen i slutet av juni 2019. Fortsätta att referera till [Meddelandecenter](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter) för andra nya funktioner med Modern. 
-
-**Viktigt**: ta inte bort klassiska rot-webbplats om du vill skapa en webbplats för modern kommunikation. Detta stöds inte av Microsoft. Ta bort rotwebbplatsen blir alla SharePoint-webbplatser i organisationen inte tillgänglig för alla användare förrän du återställer en webbplats eller skapa en ny webbplats med samma URL. 
- 
- 
+**Viktigt**: ta inte bort klassiska rot-webbplats om du vill skapa en webbplats för modern kommunikation. Detta stöds inte av Microsoft. Ta bort rotwebbplatsen blir alla SharePoint-webbplatser i organisationen inte tillgänglig för alla användare förrän du återställer en webbplats eller skapa en ny webbplats med samma URL.

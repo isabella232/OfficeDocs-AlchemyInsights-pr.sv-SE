@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 646
+ms.custom:
+- "646"
+- "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 2dc4ae7d6809c24ce599ac128570e9354c9f2b30
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 0569cb10c1d1dd422709de5d2569e43ee9d75386
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752579"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35385392"
 ---
 # <a name="configure-sync-features"></a>Konfigurera synkroniseringsfunktioner
 
@@ -23,7 +25,7 @@ Azure AD Anslut innehåller flera funktioner som har aktiverats som standard ell
 
 - Gränser för [filtrera](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) objekten synkroniseras till Azure AD. Som standard alla användare, kontakter, grupper, och Windows 10 är datorkonton synkroniserade. Du kan inkludera eller exkludera objekt baserat på andra attribut, domäner eller organisationsenheter.
 
-- [Synkronisering av lösenord hash-](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) synkroniserar lösenord hash från lokal Active Directory till Azure AD. Detta kan lösenordshantering på en plats, men användning av samma lösenord i båda lokal och moln miljöer. Eftersom Active Directory är den auktoritära källan, kan du använda din egen lösenordsprinciper.
+- [Hash Lösenordssynkronisering](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) synkroniseras lösenord hash från lokal Active Directory till Azure AD. Detta kan lösenordshantering på en plats, men användning av samma lösenord i båda lokal och moln miljöer. Eftersom Active Directory är den auktoritära källan, kan du använda din egen lösenordsprinciper.
 
 - [(SSPR) för återställning av lösenord för självbetjäning](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) kan användare återställa sina egna lösenord i molnet samtidigt som du fortfarande använder din lokala lösenordsprincip.
 
