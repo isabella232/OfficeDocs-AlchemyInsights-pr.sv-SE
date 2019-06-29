@@ -9,37 +9,38 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
-ms.openlocfilehash: aa2262ed487ae4160f13490e92163a145e657862
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "784"
+- "6200002"
+ms.openlocfilehash: fa48b76fb49cdeef0734e77520c9bf95c150f317
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32390661"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353555"
 ---
 # <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Felsöka problem med att registrera Windows-enheter i Microsoft Intune
 
-Granska resurserna i listan nedan för att åtgärda problemet nu. 
+Granska resurserna i listan nedan för att åtgärda problemet nu.
   
 Vissa vanliga felmeddelanden och stegen:
   
- **Går inte att installera programvaran, 0x80cf4017:** Konto-certifikatet har upphört att gälla. Hämta igen programpaketet PC-klient i Intune-administratörskonsolen. Läs dokumentationen för mer information. 
+ **Går inte att installera programvaran, 0x80cf4017:** Konto-certifikatet har upphört att gälla. Hämta igen programpaketet PC-klient i Intune-administratörskonsolen. Läs dokumentationen för mer information.
   
- **Felkod 0x801c0003:** Felet kan uppstå i följande scenarier: 
+ **Felkod 0x801c0003:** Felet kan uppstå i följande scenarier:
   
 1. Användaren har fler enheter som registrerats än gränsen för enheten. Granska dessa dokument om du vill [Ta bort en enhet](https://docs.microsoft.com/intune/devices-wipe) eller [Ändra gränsen för enheten](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
-    
-2. ”Användare kan ansluta enheter till Azure AD” anges till ”none”. Ange alla eller Välj användare. Läs [dokumentationen](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) för mer information. 
-    
+
+2. ”Användare kan ansluta enheter till Azure AD” anges till ”none”. Ange alla eller Välj användare. Läs [dokumentationen](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) för mer information.
+
 3. Enheten är redan registrerats av en annan användare. Om så är fallet, ta bort enheten från konsolen Azure Intune eller unenroll enheten manuellt innan du försöker igen.
-    
+
 4. Enheten är Windows 10 Home. Endast Windows 10 Pro, utbildning och Enterprise SKU: er kan ansluta till Azure Active Directory.
-    
+
 Ytterligare resurser för att lösa problemet:
   
-1. Du kan använda [Intune felsökning Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) för att diagnostisera och åtgärda vanliga fel i anmälan. Granska [dokumentet](https://docs.microsoft.com/intune/help-desk-operators) för mer information. 
-    
-2. Granska dokumenten för en lista över vanliga fel som förhindrar registrering och lösningar till varje: [guide för felsökning](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) och [Felsökning doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
-    
-[Lär dig hur du registrerar Windows-enheter i Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).
-  
+1. Du kan använda [Intune felsökning Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) för att diagnostisera och åtgärda vanliga fel i anmälan. Granska [dokumentet](https://docs.microsoft.com/intune/help-desk-operators) för mer information.
 
+2. Granska dokumenten för en lista över vanliga fel som förhindrar registrering och lösningar till varje: [guide för felsökning](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) och [Felsökning doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+
+[Lär dig hur du registrerar Windows-enheter i Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).

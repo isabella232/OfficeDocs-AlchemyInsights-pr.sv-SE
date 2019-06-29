@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1860
+ms.custom:
+- "1860"
+- "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770826"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356615"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Återkalla eller ersätta ett e-postmeddelande
 
@@ -25,12 +27,13 @@ ms.locfileid: "34770826"
 - Om du är en administratör kan **Återkalla meddelanden för användare med hjälp av PowerShell**. Du kan inte återkalla meddelanden från administratörscenter. Rulla ned till ”Sök efter och ta bort e-postmeddelanden i organisationen” för mer information.
 
 ***Återkalla eller ersätta ett e-postmeddelande som skickades***
+
 1. Välj mappen Skickat i mappfönstret till vänster i Outlook-fönstret.
 2. Öppna det meddelande som du vill återkalla. Du måste dubbelklicka om du vill öppna meddelandet. Markera meddelandet så att det visas i läsfönstret kan du återkalla meddelandet inte.
 3. Välj fliken meddelande **åtgärder** > **Återkalla detta meddelande**.
 4. Välj **Ta bort olästa exemplar av meddelandet** eller **Ta bort olästa exemplar och ersätta med ett nytt meddelande**och klicka på **OK**.
 5. Om du skickar ett meddelande med ersättning, skriva meddelandet och sedan **Skicka**.
-6. Lyckades eller inte återkalla ett meddelande beror på mottagarens inställningar i Outlook. 
+6. Lyckades eller inte återkalla ett meddelande beror på mottagarens inställningar i Outlook.
 
 För mer information, inklusive hur du kontrollerar återkallelsen finns [återkalla eller ersätta ett e-postmeddelande som du har skickat](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
