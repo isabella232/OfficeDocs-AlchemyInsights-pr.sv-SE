@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: f74846f805789731305fa321799007c151309033
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883178"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358919"
 ---
 # <a name="activate-visio"></a>Aktivera Visio
 
@@ -27,8 +27,8 @@ Innan en användare kan installera och aktivera Fjärrskrivbord Visio stationär
 
 Aktivera Visio:
 
-1. [Installera Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) om den inte redan är installerad.
-2. När installationen är klar kan du öppna Visio. I många fall aktiverar appen automatiskt och du kan börja använda Visio direkt. Om du uppmanas att logga in, måste du logga in med samma arbete eller skolan konto som har tilldelats en licens för Visio. 
+1. Installera Visio från din [portal mitt konto](https://portal.office.com/account#installs) om det inte redan är installerat. Mer information finns i [Installera Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. När installationen är klar kan du öppna Visio-app. Visio kan aktiveras automatiskt och du kan börja använda direkt. Om det inte är uppmanas du att logga in. Glöm inte att logga in med samma arbete eller skolan konto som har tilldelats en licens för Visio. Följ instruktionerna för att fortsätta med aktivering. 
 
 Köra [felsökaren för aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy) för aktivering problem på datorn.
 

@@ -6,13 +6,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "9000356"
+- "2009"
 ms.assetid: ''
-ms.openlocfilehash: f5a1e88e4443fdf43cdd4f07cf9e784810df7540
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5f171050479f34077f3dc155bec40437f86b84c0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769480"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359387"
 ---
 # <a name="access-services-retirement"></a>Access services-pension
 
@@ -24,7 +27,7 @@ Från juni 2019 kan vi avbryta skapandet av nya Access-databaser i SharePoint On
 
 **Vad behöver jag göra för att förbereda för den här ändringen?**
 
-Vi rekommenderar att du skapar en plan för övergång för organisationens Access web-databaser. Administratörer kan använda [skanner för åtkomst till SharePoint-app](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) för att hämta en inventering av Access apps webbplatser använder. 
+Vi rekommenderar att du skapar en plan för övergång för organisationens Access web-databaser. Administratörer kan använda [skanner för åtkomst till SharePoint-app](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) för att hämta en inventering av Access apps webbplatser använder.
 
 Det finns flera sätt att migrera data för Access web-databaser:
 

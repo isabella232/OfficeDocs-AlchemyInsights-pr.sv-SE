@@ -8,17 +8,20 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1403"
+- "5200024"
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: 7c8fc4811deb7169c6521fb75d459099161a26bc
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 8ff512b1c5571c783ef56fff986533f3a4b4db68
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769383"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35361367"
 ---
 # <a name="cant-add-default-2010-approval-workflow"></a>Det går inte att lägga till standard 2010 arbetsflöde för godkännande
 
-Du kan inte lägga till ett globalt återanvändbart arbetsflöde (till exempel ”godkännande - SharePoint 2010”) i en Microsoft SharePoint-webbplatssamling till en lista eller ett bibliotek. Arbetsflöde för godkännande kan saknas. Lös det här problemet finns i [kan inte lägga till ett globalt återanvändbart arbetsflöde till en SharePoint-lista eller ett bibliotek](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library). 
+Du kan inte lägga till ett globalt återanvändbart arbetsflöde (till exempel ”godkännande - SharePoint 2010”) i en Microsoft SharePoint-webbplatssamling till en lista eller ett bibliotek. Arbetsflöde för godkännande kan saknas. Lös det här problemet finns i [kan inte lägga till ett globalt återanvändbart arbetsflöde till en SharePoint-lista eller ett bibliotek](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).
 
 Mer information om arbetsflödesgodkännanden finns [allt om godkännandearbetsflöden] (https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742). 
  
