@@ -8,24 +8,26 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 932
+ms.custom:
+- "932"
+- "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: 210f230929db72027a0f729b17901fe88eb45709
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 07de6f8df7bfda2060977c7d5bc6a01766bf3c0a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757309"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365931"
 ---
 # <a name="upgrade-azure-ad-connect"></a>Uppgradering av Azure AD Anslut
 
-Som standard aktiveras automatisk uppgradering för Azure AD Connect, som hjälper till att se till att du kör den senaste versionen. Om du vill kontrollera inställningarna för automatisk uppgradering använder du cmdlet **Get-ADSyncAutoUpgrade** i Azure AD PowerShell. Cmdlet returnerar ett av följande värden: 
+Som standard aktiveras automatisk uppgradering för Azure AD Connect, som hjälper till att se till att du kör den senaste versionen. Om du vill kontrollera inställningarna för automatisk uppgradering använder du cmdlet **Get-ADSyncAutoUpgrade** i Azure AD PowerShell. Cmdlet returnerar ett av följande värden:
 
 - **Aktiverad**: automatisk uppgradering är aktiverad.
 
 - **Inaktiverad**: automatisk uppgradering har inaktiverats.
 
-- **Suspended**: systemet inte längre är berättigad till automatiska uppgraderingar. Du kan inte konfigurera den här värde. den anges av systemet. 
+- **Suspended**: systemet inte längre är berättigad till automatiska uppgraderingar. Du kan inte konfigurera den här värde. den anges av systemet.
 
 Mer information finns i [automatisk uppgradering](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
 

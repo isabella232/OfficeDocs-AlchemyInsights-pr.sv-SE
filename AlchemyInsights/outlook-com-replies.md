@@ -8,25 +8,27 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000240
-ms.openlocfilehash: b9bac51c32cecf6f4c5f86a4dd1be55225f8ef1d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1825"
+- "9000240"
+ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392569"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372567"
 ---
 # <a name="replying-in-outlookcom"></a>Svara i Outlook.com
 
 Att svara på ett meddelande i taget:
 
-1. Välj det meddelande som du vill vidarebefordra i meddelandelistan.
+1. Välj som du vill svara på meddelandet i meddelandelistan.
 2. Överst i meddelandefönstret, markerar du på **Svara** eller **Svara alla** pilar.
 3. Skriv meddelandet och klicka på **Skicka**.
 
 Som automatiskt svarar på alla meddelanden:
 
-1. Öppna [inställningarna för autosvar](https://outlook.live.com/mail/options/mail/automaticReplies/automaticRepliesOption).
+1. Gå till **Inställningar** > **Visa alla Outlook-inställningar** > **e** > **autosvar** att öppna [inställningarna för autosvar](https://outlook.live.com/mail/options/mail/automaticReplies).
 2. Välj Växla **Aktivera autosvar** .
 3. Markera kryssrutan **Skicka svar endast under en viss tidsperiod** kan du:
     - Endast skicka svar när du väljer. Om du inte anger en tidsperiod, förblir din autosvar på tills du stänger av den.

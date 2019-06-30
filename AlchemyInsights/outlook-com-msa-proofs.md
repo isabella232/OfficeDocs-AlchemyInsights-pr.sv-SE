@@ -1,38 +1,38 @@
 ---
-title: 8000060 Outlook.com MSA korrektur
+title: Outlook.com MSA korrektur
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 9/14/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000060
+ms.custom:
+- "1006"
+- "1008"
+- "1009"
+- "1010"
+- "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 14d32dbc4180d3dd7a20830ae9fdc918570aa359
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392390"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373899"
 ---
 # <a name="security-info-and-security-codes"></a>Säkerhetsinformation och säkerhetskoder
 
-1. Logga in på sidan [grundläggande säkerhet](https://account.microsoft.com/security) med ditt Microsoft-konto. 
-    
-2. Välj **Uppdatera info**. 
-    
-3. Du kan uppmanas att ange en säkerhetskod för att fortsätta. Om du inte har tillgång till din alternativa e-post eller telefonnummer, väljer du **något av följande har inte** och följ instruktionerna för att ersätta din säkerhetsinformation. 
-    
-4. Välj **Lägg till säkerhetsinformation** och följ sedan instruktionerna för att ange en ny e-post eller telefonnummer. 
-    
-5. Vi skickar en säkerhetskod till det nya numret för e-post eller telefon. Ange den säkerhetskoden och välj **Nästa**. Din nya säkerhetsinformation visas i listan. 
-    
-6. Välj **Ta bort** för alla du vill ta bort. 
-    
-7. Om du vill uppdatera vilken säkerhetsinformation som vi skickar aviseringar till, väljer **notifieringsalternativ ändring** och avmarkerar du kryssrutan för det du inte längre vill få aviseringar om, om de inte är viktiga. 
-    
-Läs mer om [säkerhetsinformation och säkerhetskoder](https://support.microsoft.com/help/12428/).
-  
+Lägga till säkerhetsinformation i ditt konto:
 
+1. Logga in i [grundläggande säkerhet](https://account.microsoft.com/security) med ditt Microsoft-konto.
+1. Välj **säkerhet kontaktinformation**.
+1. Välj **Lägg till säkerhetsinformation** och följ instruktionerna för att ange ett telefonnummer eller e-postadress.
+1. Du får en säkerhetskod på den telefonnummer eller e-postadressen. Ange säkerhetskod som du fått i fönstret **Lägg till information om säkerhet** och välj **Nästa**.
+
+Om du vill ta bort ett telefonnummer eller e-postadress markerar du **Ta bort** bredvid den.
+
+Om du vill ändra vilket telefonnummer eller e-postadress får säkerhetsvarningar, Välj **Ändra alternativ för aviseringar**.
+
+Om du vill veta mer läser du [Microsoft security info och kontroll koder](https://support.microsoft.com/help/12428/).

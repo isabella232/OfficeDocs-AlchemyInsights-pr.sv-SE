@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "488"
+- "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 17c8cb304a8f2009279cf9646d8e0026f1f967e8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: beed41b96dde1b120a98391187424367e868071e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32390338"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35366767"
 ---
 # <a name="trying-to-find-a-trial"></a>Försök att hitta en utvärderingsversion?
 
 Om du vill prova en ny tjänst hittar du en lista över tillgängliga prenumerationer för prövningen i Microsoft 365 administratörscenter.
   
 1. Gå till sidan [Tjänster för inköp](https://go.microsoft.com/fwlink/p/?linkid=868433) eller välj **Billing** \> **Inköp tjänster**.
-    
+
 2. Hitta den prenumeration som motsvarar dina behov, musen över den, och välj **Starta kostnadsfri testversion**.
-    
+
     > [!NOTE]
-    > Inte alla abonnemang är tillgängliga som en prövning. Om du inte ser knappen **Start provversion** när du placerar muspekaren över en prenumeration, som innebär en prövning inte är tillgänglig. 
+    > Inte alla abonnemang är tillgängliga som en prövning. Om du inte ser knappen **Start provversion** när du placerar muspekaren över en prenumeration, som innebär en prövning inte är tillgänglig.
   
 3. Du kan uppmanas att ange ett kreditkort eller andra betalningssätt för att tillhandahålla ytterligare verifiering som en säkerhetsåtgärd. Du kommer inte att debiteras för den här kostnadsfria testversionen. Vi kommer att hålla din betalningsinformation på filen och använda inte det för alla inköp utan ditt godkännande.
-    
-4. Välj **Placera order**.
-    
 
+4. Välj **Placera order**.
