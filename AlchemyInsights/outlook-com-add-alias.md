@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1821"
 - "9000238"
-ms.openlocfilehash: b964252af07e990bd0802484a3b042448c931b57
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9553fc152c12fd4b1799b781707588f977bcc53d
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377715"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614116"
 ---
 # <a name="add-an-email-alias-in-outlookcom"></a>Lägga till ett e-postalias i Outlook.com
 
@@ -30,6 +30,6 @@ Lägga till en e-postadress:
     2. Lägga till en befintlig e-postadress som ett alias.
 3. Välj **Lägg till alias**.
 
-Läs mer om hur du [lägger till eller tar bort ett e-postalias i Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2).  
+Läs mer om hur du [lägger till eller tar bort ett e-postalias i Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
 
-Läsa om [hur du ansluter en annan e-postkonto](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba) Outlook.com-konto.
+Läsa om [hur du ansluter en annan e-postkonto](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) Outlook.com-konto.
