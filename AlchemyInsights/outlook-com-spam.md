@@ -3,7 +3,7 @@ title: Hantera skräppost och skräppost i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 7/19/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: ac3f7a268d69959ed1d0feb06bc0e9434ef1d2ce
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 7544b0453f05de5f4d3edc2bdbbc139995343047
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697137"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800099"
 ---
-# <a name="mark-email-messages-as-junk"></a>Markera e-postmeddelanden som skräppost
+# <a name="spam-and-junk-email-in-outlookcom"></a>Spam och skräppost e-post i Outlook.com
 
-Om du vill markera ett meddelande som skräppost eller spam, markera meddelandet i meddelandelistan och välj **skräp** > **skräppost**.
+Om du får för mycket skräppost eller spam, Prova dessa metoder:
 
-Om du vill blockera alla meddelanden från en viss e-postadress, markera det meddelande eller meddelanden i meddelandelistan och välj sedan **skräp** > **Block**.
+1. **Markera ett e-postmeddelande som skräppost**
+    1. Markera meddelandet.
+    1. Markera **skräppost** > **skräppost** för att flytta meddelandet till mappen Skräppost.
+    1. [Mer information om hur du skyddar spam och skräppost från Inkorgen.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Om du av misstag markerar ett meddelande som skräppost, markerar du meddelandet i [mappen Skräppost](https://outlook.live.com/mail/junkemail) och markera som **inte skräppost** > **inte skräppost**. (*Anmärkning:* objekt i mappen Skräppost tas bort efter 30 dagar.)
+1. **Spärra en avsändare från Inkorgen**
+    1. Markera meddelandet.
+    1. Markera **skräppost** > **Block** > **OK**.
+    1. [Mer information om hur du blockerar eller tillåter avsändare.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Om du vill veta mer läser du [Markera e-post som skräppost eller spärra avsändare i Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+1. **Lägga till en avsändare i listan Spärrade avsändare**
+    1. Öppna dina [Inställningar för skräppost e-post](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).
+    1. Välj **Lägg till**under **Spärrade avsändare och domäner**.
+    1. Skriv e-postadressen eller domänen du vill blockera och tryck på RETUR.
+    1. Välj om du vill lita på e-post från adresser under betrodda avsändare och domäner och säkra e-postlistor under **filter**.
+    1. Välj **Spara**.
+
+1. **Skapa en Inkorgsregel för**
+    1. Högerklicka på meddelandet i meddelandelistan och välj **Skapa regeln**.
+    1. Välj den mapp där du vill att alla meddelanden från den avsändaren som ska flyttas och välj **OK** > **OK**.
+    1. [Läs mer om regler för Inkorgen i Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)

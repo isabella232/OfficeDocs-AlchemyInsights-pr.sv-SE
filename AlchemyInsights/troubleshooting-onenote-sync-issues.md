@@ -11,14 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000555"
 - "2405"
-ms.openlocfilehash: 07b60aa96a42511f3bfbfe0d63b8107a0cfd87e2
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 5387aeaff7be7df4dc44723f420ff2c5784cd260
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752905"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800135"
 ---
 # <a name="troubleshoot-onenote-sync-issues"></a>Felsöka synkroniseringsproblem med OneNote
+
+* För att lösa de flesta vanliga problem som är relaterade till OneNote-synkronisering, följ instruktionerna i [problem när du inte kan synkronisera OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
 
 Om anteckningsboken inte synkroniseras lagras på OneDrive eller nyare versioner av SharePoint, kan du försöka öppna anteckningsboken i OneNote Online (på www.onenote.com). Detta hjälper dig att avgöra om problemet orsakas av servern eller OneNote.
 
@@ -33,5 +35,3 @@ Om anteckningsboken inte synkroniseras lagras på OneDrive eller nyare versioner
 Om du inte kan öppna anteckningsboken i OneNote Online och ändringarna visas, problemet kan orsakas av den stationära versionen av OneNote. Stänga och öppna den bärbara datorn rensar oftast och återställer anslutningen lyckas.
 
 * Vi rekommenderar följande steg i [installera Office-uppdateringar](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) att installera de senaste uppdateringarna för OneNote på datorn. Om du är på en Mac, åtgärderna i [Sök efter Office för Mac-uppdateringar automatiskt](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1).
-
-* För att lösa de flesta vanliga problem som är relaterade till OneeNote synkronisering, följ instruktionerna i [problem när du inte kan synkronisera OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
