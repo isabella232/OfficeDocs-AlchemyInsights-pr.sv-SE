@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: ebafb4ec807f6e6b9c26935e766456414212de81
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 5da4914548348418c42e1e1b52d1428c0ed0af9b
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132740"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903956"
 ---
 # <a name="edit-a-read-only-file"></a>Redigera en skrivskyddad fil
 
@@ -25,7 +25,7 @@ Här beskrivs hur du öppnar office-filer för redigering.
 
 Anteckningar:
 
-- Om du i stället skulle ha dokument öppna för redigering i Office Online när du klickar på rubriken, kan du ställa in biblioteket att göra detta (förutsatt att du har behörighet att ändra inställningar för dokumentbibliotek).
+- Om du i stället skulle ha dokument öppna för redigering i Office när du klickar på rubriken, kan du ställa in biblioteket att göra detta (förutsatt att du har behörighet att ändra inställningar för dokumentbibliotek).
 
 - Om du har bibliotek med kassan, obligatoriska kolumner eller när bara användare som kan redigera i inställningarna för Version av ett SharePoint-dokumentbibliotek synkroniseras objekten med skrivskydd.
 
