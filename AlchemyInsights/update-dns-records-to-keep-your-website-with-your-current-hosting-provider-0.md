@@ -14,37 +14,37 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 62f49038cf541c2185ed6a60c6cb58fe2889342d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e437015d476c1417fa37e1b1c250e2205e9ce4d9
+ms.sourcegitcommit: b825ced7b66d452b0f3874a57e033e690ec41c93
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353195"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "35925303"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="8fd06-102">Uppdatera DNS-poster för att behålla din webbplats hos ditt nuvarande webbhotell</span><span class="sxs-lookup"><span data-stu-id="8fd06-102">Update DNS records to keep your website with your current hosting provider</span></span>
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="be2d3-102">Uppdatera DNS-poster för att behålla din webbplats hos ditt nuvarande webbhotell</span><span class="sxs-lookup"><span data-stu-id="be2d3-102">Update DNS records to keep your website with your current hosting provider</span></span>
 
-1. <span data-ttu-id="8fd06-103">På sidan [Domäner](https://portal.office.com/adminportal/home#/Domains), i listan över domäner, väljer du den domän du använder för webbplatsen och väljer sedan **DNS-inställningar** i hanteringsfönstret.</span><span class="sxs-lookup"><span data-stu-id="8fd06-103">On the [Domains](https://portal.office.com/adminportal/home#/Domains) page, in the list of domains, select the domain you're using for your website, and then select **DNS settings** in the management pane.</span></span>
+1. <span data-ttu-id="be2d3-103">Markera den domän som du använder för din webbplats i listan över domäner på sidan [domäner](https://portal.office.com/adminportal/home#/Domains) .</span><span class="sxs-lookup"><span data-stu-id="be2d3-103">On the [Domains](https://portal.office.com/adminportal/home#/Domains) page, in the list of domains, select the domain you're using for your website.</span></span>
 
-2. <span data-ttu-id="8fd06-104">Välj **+ Ny anpassad post** och ange följande:</span><span class="sxs-lookup"><span data-stu-id="8fd06-104">Select **+ New custom record** and enter the following:</span></span>
+2. <span data-ttu-id="be2d3-104">Välj **+ Ny anpassad post** och ange följande:</span><span class="sxs-lookup"><span data-stu-id="be2d3-104">Select **+ New custom record** and enter the following:</span></span>
 
-  - <span data-ttu-id="8fd06-105">Ange följande för **DNS-typ**: **A (adress)**</span><span class="sxs-lookup"><span data-stu-id="8fd06-105">For **DNS type** enter: **A (Address)**</span></span>
+  - <span data-ttu-id="be2d3-105">Ange följande för **DNS-typ**: **A (adress)**</span><span class="sxs-lookup"><span data-stu-id="be2d3-105">For **DNS type** enter: **A (Address)**</span></span>
 
-  - <span data-ttu-id="8fd06-106">I **Värdnamn eller alias** skriver du in **@**</span><span class="sxs-lookup"><span data-stu-id="8fd06-106">For **Host name or Alias**, type the following: **@**</span></span>
+  - <span data-ttu-id="be2d3-106">I **Värdnamn eller alias** skriver du in **@**</span><span class="sxs-lookup"><span data-stu-id="be2d3-106">For **Host name or Alias**, type the following: **@**</span></span>
 
-  - <span data-ttu-id="8fd06-107">I **IP-adress** skriver du in den statiska IP-adress där webbplatsen finns för närvarande (till exempel 172.16.140.1).</span><span class="sxs-lookup"><span data-stu-id="8fd06-107">For **IP Address**, type the static IP address for your website where it's currently hosted (for example, 172.16.140.1).</span></span>
+  - <span data-ttu-id="be2d3-107">I **IP-adress** skriver du in den statiska IP-adress där webbplatsen finns för närvarande (till exempel 172.16.140.1).</span><span class="sxs-lookup"><span data-stu-id="be2d3-107">For **IP Address**, type the static IP address for your website where it's currently hosted (for example, 172.16.140.1).</span></span>
 
-    <span data-ttu-id="8fd06-p101">Det måste vara en  *statisk*  IP-adress för webbplatsen, inte en  *dynamisk*  IP-adress.Kontrollera med webbplatsen som är värd för din webbplats för att se till att du kan få en statisk IP-adress till din offentliga webbplats.</span><span class="sxs-lookup"><span data-stu-id="8fd06-p101">This must be a  *static*  IP address for the website, not a  *dynamic*  IP address. Check with site where your website is hosted to make sure you can get a static IP address for your public website.</span></span>
+    <span data-ttu-id="be2d3-p101">Det måste vara en  *statisk*  IP-adress för webbplatsen, inte en  *dynamisk*  IP-adress.Kontrollera med webbplatsen som är värd för din webbplats för att se till att du kan få en statisk IP-adress till din offentliga webbplats.</span><span class="sxs-lookup"><span data-stu-id="be2d3-p101">This must be a  *static*  IP address for the website, not a  *dynamic*  IP address. Check with site where your website is hosted to make sure you can get a static IP address for your public website.</span></span>
 
-3. <span data-ttu-id="8fd06-110">Välj **Spara**.</span><span class="sxs-lookup"><span data-stu-id="8fd06-110">Select **Save**.</span></span>
+3. <span data-ttu-id="be2d3-110">Välj **Spara**.</span><span class="sxs-lookup"><span data-stu-id="be2d3-110">Select **Save**.</span></span>
 
-<span data-ttu-id="8fd06-111">Du kan dessutom skapa en CNAME-post för att kunderna lättare ska kunna hitta till webbplatsen.</span><span class="sxs-lookup"><span data-stu-id="8fd06-111">In addition, you can create a CNAME record to help customers find your website.</span></span>
+<span data-ttu-id="be2d3-111">Du kan dessutom skapa en CNAME-post för att kunderna lättare ska kunna hitta till webbplatsen.</span><span class="sxs-lookup"><span data-stu-id="be2d3-111">In addition, you can create a CNAME record to help customers find your website.</span></span>
   
-1. <span data-ttu-id="8fd06-112">Välj **+ Ny anpassad post** och ange följande:</span><span class="sxs-lookup"><span data-stu-id="8fd06-112">Select **+ New custom record** and enter the following:</span></span>
+1. <span data-ttu-id="be2d3-112">Välj **+ Ny anpassad post** och ange följande:</span><span class="sxs-lookup"><span data-stu-id="be2d3-112">Select **+ New custom record** and enter the following:</span></span>
 
-  - <span data-ttu-id="8fd06-113">Ange följande för **DNS-typ**: **CNAME (alias)**</span><span class="sxs-lookup"><span data-stu-id="8fd06-113">For **DNS type** enter: **CNAME (Alias)**</span></span>
+  - <span data-ttu-id="be2d3-113">Ange följande för **DNS-typ**: **CNAME (alias)**</span><span class="sxs-lookup"><span data-stu-id="be2d3-113">For **DNS type** enter: **CNAME (Alias)**</span></span>
 
-  - <span data-ttu-id="8fd06-114">I **Värdnamn eller alias** skriver du in **www**</span><span class="sxs-lookup"><span data-stu-id="8fd06-114">For **Host name or Alias**, type the following: **www**</span></span>
+  - <span data-ttu-id="be2d3-114">I **Värdnamn eller alias** skriver du in **www**</span><span class="sxs-lookup"><span data-stu-id="be2d3-114">For **Host name or Alias**, type the following: **www**</span></span>
 
-  - <span data-ttu-id="8fd06-115">I **Pekar på adress** skriver du in det fullständiga domännamnet (FQDN) för webbplatsen (till exempel contoso.com).</span><span class="sxs-lookup"><span data-stu-id="8fd06-115">For **Points to address**, type the fully qualified domain name (FQDN) for your website (for example, contoso.com).</span></span>
+  - <span data-ttu-id="be2d3-115">I **Pekar på adress** skriver du in det fullständiga domännamnet (FQDN) för webbplatsen (till exempel contoso.com).</span><span class="sxs-lookup"><span data-stu-id="be2d3-115">For **Points to address**, type the fully qualified domain name (FQDN) for your website (for example, contoso.com).</span></span>
 
-2. <span data-ttu-id="8fd06-116">Välj **Spara**.</span><span class="sxs-lookup"><span data-stu-id="8fd06-116">Select **Save**.</span></span>
+2. <span data-ttu-id="be2d3-116">Välj **Spara**.</span><span class="sxs-lookup"><span data-stu-id="be2d3-116">Select **Save**.</span></span>
