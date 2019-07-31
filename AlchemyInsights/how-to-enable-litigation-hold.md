@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 84889f9e2ee72197f5ebd0f3a5bf337d0af563d4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5d88e5bf12d244943e1d985522deb2443f6bb844
+ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384771"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35937876"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Placera en postlåda juridiska stoppad
 
@@ -26,4 +26,4 @@ ms.locfileid: "35384771"
 
 - Så här aktiverar du rättstvist håller för en enskild användare, [gör du så här](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). När rättstvist håller är aktiverad bevaras allt innehåll i postlådan.
 
-- Du kan använda en bevarandeprincip för Office 365 genom att [följa de här stegen](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)om du vill placera ett undantag för alla postlådor i din organisation. Observera att för hela organisationen lagringsprinciper nya användare automatiskt tilldelas till principen.
+- Du kan använda en bevarandeprincip för Office 365 genom att [följa de här stegen](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-litigation-hold)om du vill placera ett undantag för alla postlådor i din organisation. Observera att för hela organisationen lagringsprinciper nya användare automatiskt tilldelas till principen.
