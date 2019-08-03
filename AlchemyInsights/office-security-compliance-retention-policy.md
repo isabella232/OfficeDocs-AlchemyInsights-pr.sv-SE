@@ -1,25 +1,24 @@
 ---
-title: Den nya kvarhållande etiketter automatiskt
-ms.author: kirks
-author: Techwriter40
-manager: pamgreen
+title: Mer information om principer för bevarande
+ms.author: stephow
+author: msft-stephow
+manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0b52b56da0f23ca410f930eb7f719f6933e6135b
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
+ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223010"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35448853"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Den nya kvarhållande etiketter automatiskt
+# <a name="more-info-about-retention-policies"></a>Mer information om principer för bevarande
 
 För de flesta organisationer, volym och komplexiteten hos deras data ökar dagligen - e-post, dokument, snabbmeddelanden och mycket mer.
-
-Effektivt hantera eller om denna information är viktig, en bevarandeprincip kan hjälpa dig att uppnå dessa mål. Mer information om lagringsprinciper finns på länkarna nedan.
+Effektivt hantera eller om informationen är viktig och en bevarandeprincip kan hjälpa dig att uppnå dessa mål. Mer information om lagringsprinciper finns dessa länkar:
 
 - [Översikt över bevarandeprinciper](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
