@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: 4b007c66a20bd923f41f9767aead82f613097358
-ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
+ms.openlocfilehash: 385865b4ff8827a2f26dac5ba61af9a12a555f5c
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35701341"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36166098"
 ---
 # <a name="see-your-own-email-address"></a>Se e-postadress
 
@@ -25,7 +25,8 @@ Gå till dina [synkroniseringsinställningar för e-post](https://outlook.live.c
 
 Om du har anslutit en annan e-postkonto Outlook.com-konto, kan du skicka e-post från adressen.
 
-1. Välj de tre punkterna längst ned i meddelandefönstret och välj **Visa** att se raden från.
+1. Välj tre punkter <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ längst ned i meddelandefönstret och välj **Visa från** att se raden från.
 2.  **Ovanför raden, Välj** och välj vilken e-postadress som du vill använda.
 
 Mer information om hur du [skickar e-post från en annan adress i Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
