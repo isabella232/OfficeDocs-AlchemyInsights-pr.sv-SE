@@ -1,20 +1,24 @@
 ---
-title: Aktivera versionshantering i en lista eller ett bibliotek
-ms.author: kirks
-author: Techwriter40
+title: Versionshantering i SharePoint och OneDrive
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: d75ce74f32e4d51fa18e49a853c7a6a3da641240
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.custom:
+- "5300025"
+- "1702"
+ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223622"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232676"
 ---
-# <a name="enable-versioning-for-a-sharepoint-list-or-library"></a>Aktivera versionshantering för en SharePoint-lista eller ett bibliotek
+# <a name="versioning-in-sharepoint-and-onedrive"></a>Versionshantering i SharePoint och OneDrive 
 
 
 När versioner är aktiverade i din SharePoint-lista eller ett bibliotek kan du lagra, spåra och återställa objekt i en lista och filer i ett bibliotek när de ändrar. Versionshantering, i kombination med andra inställningar, till exempel utcheckning, ger mycket kontroll över vad som bokförs på webbplatsen och kan ge ett verkligt värde om du någonsin behöver titta på eller återställa en tidigare version av ett objekt eller en fil.
