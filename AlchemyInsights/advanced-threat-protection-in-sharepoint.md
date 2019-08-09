@@ -1,32 +1,34 @@
 ---
 title: Avancerat skydd i SharePoint och OneDrive
-ms.author: kirks
-author: Techwriter40
-ms.date: 6/20/2019
+ms.author: efrene
+author: efrene
+ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9000650"
+- "2489"
 ms.assetid: ''
-ms.openlocfilehash: 957bea0075dbb2f1c535cad11bca63fea826235c
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 295097b12716d666b70dce94186c61bc77d6710b
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132110"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270510"
 ---
-# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a><span data-ttu-id="6dba6-102">Avancerade Threat Protection (ATP) i SharePoint och OneDrive</span><span class="sxs-lookup"><span data-stu-id="6dba6-102">Advanced Threat Protection (ATP) in SharePoint and OneDrive</span></span>
+# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a><span data-ttu-id="68c6e-102">Avancerade Threat Protection (ATP) i SharePoint och OneDrive</span><span class="sxs-lookup"><span data-stu-id="68c6e-102">Advanced Threat Protection (ATP) in SharePoint and OneDrive</span></span>
 
-<span data-ttu-id="6dba6-103">Om du behöver mer information om avancerade hot Proection finns [tillgängligt att LOVA för SharePoint, OneDrive och team](https://docs.microsoft.com/en-us/office365/securitycompliance/atp-for-spo-odb-and-teams)
-[Hot vyer i Utforskaren](https://docs.microsoft.com/en-us/office365/securitycompliance/threat-explorer-views)</span><span class="sxs-lookup"><span data-stu-id="6dba6-103">If you are looking for more about Advanced Threat Proection, see [ATP for SharePoint, OneDrive and Teams](https://docs.microsoft.com/en-us/office365/securitycompliance/atp-for-spo-odb-and-teams)
-[Threat Explorer Views](https://docs.microsoft.com/en-us/office365/securitycompliance/threat-explorer-views)</span></span>
+<span data-ttu-id="68c6e-103">Se följande exempel:</span><span class="sxs-lookup"><span data-stu-id="68c6e-103">See the following:</span></span>
+- [<span data-ttu-id="68c6e-104">Tillgängligt att LOVA för SharePoint, OneDrive och team</span><span class="sxs-lookup"><span data-stu-id="68c6e-104">ATP for SharePoint, OneDrive and Teams</span></span>](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [<span data-ttu-id="68c6e-105">Påvisande av hot Explorer och Realtime</span><span class="sxs-lookup"><span data-stu-id="68c6e-105">Threat Explorer and Realtime detections</span></span>](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
-<span data-ttu-id="6dba6-104">Ytterligare Information:</span><span class="sxs-lookup"><span data-stu-id="6dba6-104">Additional Information:</span></span>
 
-<span data-ttu-id="6dba6-105">[Virusskyddet i SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/virus-detection-in-spo)
-[Datakryptering i ODB och SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/data-encryption-in-odb-and-spo)
-[skydda data i SharePoint](https://docs.microsoft.com/en-us/sharepoint/safeguarding-your-data) ][Ransomware Threat Protection](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/ransomware-malware)
-[Ransomware identifiering och återställning av filer](https://support.office.com/en-ie/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</span><span class="sxs-lookup"><span data-stu-id="6dba6-105">[Virus Detection in SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/virus-detection-in-spo)
-[Data Encryption in ODB and SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/data-encryption-in-odb-and-spo)
-[Safeguarding your data in SharePoint](https://docs.microsoft.com/en-us/sharepoint/safeguarding-your-data) ][Ransomware Threat Protection](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/ransomware-malware)
-[Ransomware Detection and recovering files](https://support.office.com/en-ie/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</span></span>
+<span data-ttu-id="68c6e-106">Ytterligare Information:</span><span class="sxs-lookup"><span data-stu-id="68c6e-106">Additional Information:</span></span>
+
+- [<span data-ttu-id="68c6e-107">Virusskyddet i SPO</span><span class="sxs-lookup"><span data-stu-id="68c6e-107">Virus Detection in SPO</span></span>](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
+- [<span data-ttu-id="68c6e-108">Datakryptering i ODB och SPO</span><span class="sxs-lookup"><span data-stu-id="68c6e-108">Data Encryption in ODB and SPO</span></span>](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [<span data-ttu-id="68c6e-109">Skydda dina data i SharePoint</span><span class="sxs-lookup"><span data-stu-id="68c6e-109">Safeguarding your data in SharePoint</span></span>](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
+- [<span data-ttu-id="68c6e-110">Ransomware identifiering och återställning av filer</span><span class="sxs-lookup"><span data-stu-id="68c6e-110">Ransomware Detection and recovering files</span></span>](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
