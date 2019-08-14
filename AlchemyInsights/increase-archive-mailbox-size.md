@@ -1,0 +1,32 @@
+---
+title: 305 öka Arkivera postlådans storlek
+ms.author: chrisda
+author: chrisda
+manager: dansimp
+ms.date: ''
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.custom: 305
+ms.assetid: ''
+ms.openlocfilehash: 28086145d8769bd06ef6352257a820146c5f237d
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.translationtype: MT
+ms.contentlocale: sv-SE
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36391569"
+---
+# <a name="increase-the-archive-mailbox-size"></a><span data-ttu-id="fcfa3-102">Öka Arkivera postlådans storlek</span><span class="sxs-lookup"><span data-stu-id="fcfa3-102">Increase the archive mailbox size</span></span>
+
+<span data-ttu-id="fcfa3-103">Office 365 [gränser](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) storleken på arkivet postlådor baserat på den licens som tilldelats användarkontot.</span><span class="sxs-lookup"><span data-stu-id="fcfa3-103">Office 365 [limits](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) the size of archive mailboxes based on the license that's assigned to the user account.</span></span> <span data-ttu-id="fcfa3-104">När arkivet postlåda når 90% av den tillåtna storleken, får användaren ett e-postmeddelande.</span><span class="sxs-lookup"><span data-stu-id="fcfa3-104">When the archive mailbox reaches 90% of its allowed size, the user receives an email notification.</span></span> <span data-ttu-id="fcfa3-105">När en Arkivera postlåda uppnår storleksgränsen, kan inte användaren flytta flera objekt till arkivet postlåda.</span><span class="sxs-lookup"><span data-stu-id="fcfa3-105">When an archive mailbox reaches its size limit, the user can't move more items to the archive mailbox.</span></span> <span data-ttu-id="fcfa3-106">Office 365 kommer inte att öka storleken på en Arkivera postlåda när gränsen har nåtts.</span><span class="sxs-lookup"><span data-stu-id="fcfa3-106">Office 365 won't increase the size of an archive mailbox once the size limit is reached.</span></span> <span data-ttu-id="fcfa3-107">Användare kan i stället vidta följande åtgärder för att frigöra utrymme i postlådan arkivera:</span><span class="sxs-lookup"><span data-stu-id="fcfa3-107">Instead, users can take the following actions to free up space in the archive mailbox:</span></span>
+
+- <span data-ttu-id="fcfa3-108">Exportera de objekt till en PST-fil i Outlook</span><span class="sxs-lookup"><span data-stu-id="fcfa3-108">Export the the items to a .pst file using Outlook</span></span>
+
+- <span data-ttu-id="fcfa3-109">Ta bort objekt från postlådan arkivera.</span><span class="sxs-lookup"><span data-stu-id="fcfa3-109">Delete items from the archive mailbox.</span></span>
+
+<span data-ttu-id="fcfa3-110">Office 365 ger **obegränsad arkivering** för licenser för Office 365 Enterprise E3 och E5.</span><span class="sxs-lookup"><span data-stu-id="fcfa3-110">Office 365 provides **unlimited archiving** for Office 365 Enterprise E3 and E5 licenses.</span></span> <span data-ttu-id="fcfa3-111">En administratör måste aktivera funktionen innan Arkivera postlåda når sin maximala storlek.</span><span class="sxs-lookup"><span data-stu-id="fcfa3-111">An admin must enable this feature before the archive mailbox reaches its maximum size.</span></span> <span data-ttu-id="fcfa3-112">Det kan ta upp till 30 dagar innan ledigt utrymme läggs till arkivet postlåda när obegränsat arkivering aktiveras.</span><span class="sxs-lookup"><span data-stu-id="fcfa3-112">When unlimited archiving is enabled, it can take up to 30 days before free space is added to the archive mailbox.</span></span> <span data-ttu-id="fcfa3-113">Därför rekommenderar vi att administratörer kontrollera ledigt utrymme i arkivet postlådan, som gör att användaren kan fortsätta att använda Arkivera postlåda medan den expanderas.</span><span class="sxs-lookup"><span data-stu-id="fcfa3-113">Therefore, we recommend that admins verify the free space in the archive mailbox, which allows the user to continue using the archive mailbox while it expands.</span></span> <span data-ttu-id="fcfa3-114">Mer information finns i [Översikt över obegränsad arkivering i Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving) och [Aktivera obegränsad arkivering i Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).</span><span class="sxs-lookup"><span data-stu-id="fcfa3-114">For more information, see [Overview of unlimited archiving in Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving) and [Enable unlimited archiving in Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).</span></span>
+
+<span data-ttu-id="fcfa3-115">Mer information om åtkomst till Arkiv-postlåda i Outlook finns i [Outlook krav för åtkomst till objekt i ett Arkiv expanderas automatiskt](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive).</span><span class="sxs-lookup"><span data-stu-id="fcfa3-115">For more information on accessing the archive mailbox from Outlook, see [Outlook requirements for accessing items in an auto-expanded archive](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive).</span></span> <span data-ttu-id="fcfa3-116">Om du vill konfigurera en bevarandeprincip som automatiskt flyttar objekt till arkivet postlåda finns i [Konfigurera en arkivera och ta bort princip för postlådor i Office 365-organisation](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="fcfa3-116">To configure a retention policy that automatically moves items to the archive mailbox, see [Set up an archive and deletion policy for mailboxes in your Office 365 organization](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes).</span></span>
+
+<span data-ttu-id="fcfa3-117">**Anmärkning**: Arkiv utökas automatiskt stöds inte för primära postlådor i Exchange 2010.</span><span class="sxs-lookup"><span data-stu-id="fcfa3-117">**Note**: Auto-expanding archives aren't supported for primary mailboxes on Exchange 2010.</span></span>
