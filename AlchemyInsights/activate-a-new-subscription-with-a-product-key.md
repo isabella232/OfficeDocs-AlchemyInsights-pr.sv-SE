@@ -13,17 +13,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: 7907f873e6873239c0a981432036899c5b917728
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1e1a822ddcb382d21dc6045b12db9762cecd4e5f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359495"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385774"
 ---
 # <a name="activate-a-new-subscription-with-a-product-key"></a>Aktivera ett nytt abonnemang med en produktnyckel
 
-1. Om du vill aktivera ett nytt abonnemang med produktnyckeln går du till den [https://office.com/setupkey](https://office.com/setupkey) sida. 
-    
-2. Ange Office 365-produktnyckeln och följ anvisningarna för att aktivera abonnemanget. Om du får problem med aktiveringen kan du läsa i den här [listan med vanliga fel och lösningar angående produktnycklar](https://support.office.com/article/88d337ab-e7b1-43eb-a25e-7d6204e91099).
-    
+1. Om du vill aktivera ett nytt abonnemang med produktnyckeln går du till den [https://office.com/setupkey](https://office.com/setupkey) sida.
 
+2. Ange Office 365-produktnyckeln och följ anvisningarna för att aktivera abonnemanget. Om du får problem med aktiveringen kan du läsa i den här [listan med vanliga fel och lösningar angående produktnycklar](https://docs.microsoft.com/en-us/office365/admin/misc/product-key-errors-and-solutions).

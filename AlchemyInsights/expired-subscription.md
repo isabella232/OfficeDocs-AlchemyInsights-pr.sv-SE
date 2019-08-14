@@ -13,28 +13,30 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: a32b3df7df1975b69d3c618195ab3dab3a8da51c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5ac8c629c98f6dbd716b0076f2e203a95263fe4f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388047"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389103"
 ---
 # <a name="expired-subscription"></a>Utgångna abonnemang
 
 Det visas att du har en eller flera utgångna prenumerationer. Om du vill fortsätta att använda tjänsten måste du återaktivera abonnemanget eller göra nya inköp.
   
- **Återaktivera**
+**Återaktivera**
   
-1. I administrationscentret öppnar du sidan [Prenumerationer](https://go.microsoft.com/fwlink/p/?linkid=842054) eller så väljer du **Fakturering** \> **Prenumerationer**.
+1. Gå till **Fakturering** i administratörscenter, \> sidan [serviceabonnemang](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Välj abonnemanget aktiveras.
 
 3. Välj **Aktivera**till höger.
 
- **Skapa en ny inköpsorder**
+Använder du den nya administratörscenter? Nytt steg finns i [Aktivera din prenumeration](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+
+**Skapa en ny inköpsorder**
   
-1. Gå till sidan [Tjänster för inköp](https://go.microsoft.com/fwlink/p/?linkid=868433) i administratörscenter eller välj **Billing** \> **Inköp tjänster**.
+1. Gå till **Fakturering** i administratörscenter, \> [Inköp](https://go.microsoft.com/fwlink/p/?linkid=868433) tjänster.
 
 2. Välj en prenumeration som du vill köpa.
 

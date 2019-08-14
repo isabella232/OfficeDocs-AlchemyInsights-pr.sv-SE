@@ -13,12 +13,12 @@ ms.custom:
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: f9635956184ed2bb46772b7a2f25c4798a1aa082
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2bc74bf0d2bbb12a0973abf045020ce9b39014cf
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35362231"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386638"
 ---
 # <a name="compare-office-365-plans"></a>Jämför Office 365-planer
 
@@ -28,7 +28,6 @@ Office 365-planer är tillgängliga för [företag](https://products.office.com/
   
 Om din organisation är intresserad av att jämföra alla planer och prissättning, granska [Jämför alla Office 365-planer](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Om din organisation har redan köpt en Office 365-plan och är intresserade av att växla till ett annat schema som du kan så från Microsoft 365 administratörscenter, gå till [abonnemang](https://go.microsoft.com/fwlink/p/?linkid=842054)eller välj **Billing** \> **abonnemang**. Visa listan över nya scheman som är tillgängliga genom att välja **Växla planer** .
+Om din organisation har redan köpt en Office 365-plan och är intresserad av att byta till ett annat schema kan du göra det från Microsoft 365 administratörscenter. Gå till **Fakturering** \> [prenumerationer på](https://go.microsoft.com/fwlink/p/?linkid=842054) sidan och sedan välja **växel planer** att visa listan över nya scheman som är tillgängliga.
   
-Din organisation kan också mixa och matcha Office 365 planer för att möta behoven och funktionskraven av användare. Gå till sidan [Tjänster för inköp](https://go.microsoft.com/fwlink/p/?linkid=868433) från Office 365 Admin, eller välj **Billing** \> **Inköp tjänster**.
-  
+Din organisation kan också mixa och matcha Office 365 planer för att möta behoven och funktionskraven av användare. Gå till **Fakturering** från administratörscenter, \> [Inköp](https://go.microsoft.com/fwlink/p/?linkid=868433) tjänster.

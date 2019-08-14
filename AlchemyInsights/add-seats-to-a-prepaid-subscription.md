@@ -13,18 +13,18 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 91b2ddf5a121595ecec8790ae625849894b01875
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358559"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385630"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Lägga till platser i ett förbetalt abonnemang
 
-1. I administrationscentret öppnar du sidan [Prenumerationer](https://go.microsoft.com/fwlink/p/?linkid=842054) eller så väljer du **Fakturering** \> **Prenumerationer**.
+1. Gå till **Fakturering** i administratörscenter, \> sidan [serviceabonnemang](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Välj förbetalt abonnemang som du vill lägga till användare.
+2. Välj förbetalt abonnemang som du vill lägga till.
 
 3. Välj **Fler åtgärder** -menyn **Förnya eller Lägg till licens med token**.
 
@@ -35,3 +35,5 @@ ms.locfileid: "35358559"
 6. Ange produktnyckeln och välj sedan **Nästa**.
 
 7. Välj alternativet om du vill lägga till fler användare, Välj **Nästa**och välj **lösa in**.
+
+Använder du den nya administratörscenter? Nytt steg finns i [lägga till licenser till eller utöka en prenumeration som betalas med en produktnyckel](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
