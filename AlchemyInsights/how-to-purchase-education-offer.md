@@ -14,23 +14,21 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: f2603b0ae3d739de43c1ed6bcf7703fcd4c5379c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 208eb40788fcf27332245e4590ad204709b32371
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384248"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390206"
 ---
 # <a name="how-to-purchase-education-offer"></a>Hur du köper erbjuder utbildning
 
 Du har godkänts för Office 365-utbildning. Så här köper du:
   
-1. I administrationscentret öppnar du sidan [Prenumerationer](https://go.microsoft.com/fwlink/p/?linkid=842054) eller så väljer du **Fakturering** \> **Prenumerationer**.
-    
-2. Välj test för **studenter och lärare**.
-    
-3. Välj **Köp nu** på test som du vill köpa. 
-    
-Om du vill köpa en prenumeration än vad som finns i testversionen, gå till sidan [Köpa tjänster](https://go.microsoft.com/fwlink/p/?linkid=868433) eller välj **Fakturering** \> **Köpa tjänster**och välj i listan under **Utbildning planer**.
-  
+1. Gå till **Fakturering** i administratörscenter, \> sidan [serviceabonnemang](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
+2. Välj test för **studenter och lärare**.
+
+3. Välj **Köp nu** på test som du vill köpa. 
+
+Gå till **Fakturering** om du vill köpa en prenumeration än vad som finns i trial \> [Köpa tjänster](https://go.microsoft.com/fwlink/p/?linkid=868433) sida och välj i listan under **Utbildning planer**.
