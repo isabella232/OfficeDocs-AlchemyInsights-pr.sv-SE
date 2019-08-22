@@ -9,14 +9,14 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: aced684777ef82860b969aea8825699b78b04c5a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389793"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496129"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Återkalla eller ersätta ett e-postmeddelande
+# <a name="recall-or-replace-an-outlook-email-message"></a>Återkalla eller ersätta ett e-postmeddelande i Outlook
 
 - Som administratör kan du **Återkalla meddelanden för användare med hjälp av PowerShell**. Du kan inte återkalla meddelanden från administratörscenter.
 - Du kan **bara återkalla meddelanden som skickas till personer i din organisation**. Om meddelandet har skickats till en Gmail-adress, till exempel du inte kommer ihåg den.

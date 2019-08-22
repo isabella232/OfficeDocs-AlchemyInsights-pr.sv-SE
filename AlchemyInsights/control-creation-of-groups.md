@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 20e3110c61599ebd8548f0aedc53c644132c7766
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5af9236bfb208dd4c2f2a60e8122b3392a4eb222
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364031"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516689"
 ---
-# <a name="control-creation-of-o365-groups"></a>Skapa grupper för O365
+# <a name="control-creation-of-office-365-groups"></a>Skapa grupper för Office 365
 
-Som standard är alla användare inom företaget kan skapa grupper för O365. Om det behövs, kan du ändra detta och tilldela behörigheten att skapa O365-grupper till en uppsättning med personer i företaget. Observera att detta har inverkan på skapandet av grupper från alla O365-tjänster (till exempel Outlook, team, Planner och så vidare).
+Som standard kan alla användare inom företaget att skapa grupper. Om det behövs, kan du ändra detta och tilldela rättigheten att skapa grupper för personer inom företaget. Observera att detta har inverkan på skapandet av grupper från alla Office 365-tjänster (till exempel Outlook, team, Planner och så vidare).
   
 Instruktioner: [Hantera vem som kan skapa Office 365-grupper](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
