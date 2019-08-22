@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: 994d71ca6f140008336d7edb8387f6e044c22d2d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: fc718d6a5907fd97d0a7fc55c5dc8a31d4959d13
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422733"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531049"
 ---
 # <a name="who-has-a-file-checked-out"></a>Vem har en utcheckad fil?
 
-Om du vill se vem som har filen är utcheckad kan du göra något av följande:
+Om du vill se vem som har filen är utcheckad i SharePoint, kan du göra något av följande:
   
 1. Hovra över **Utcheckad** visas som talar om vem som har checkat ut filen. 
     
-2. Lägg till de ** utcheckad av ** kolumnen till standardvyn för biblioteket. På så sätt kan se alla enkelt vem som har checkat ut dokumentet. 
+2. Lägg till kolumnen **Utcheckad av** standardvyn för biblioteket. På så sätt kan se alla enkelt vem som har checkat ut dokumentet. 
     
 Om du vill veta hur du lägger till en utcheckad av kolumn i SharePoint finns i [Skapa en kolumn i en lista eller ett bibliotek](https://go.microsoft.com/fwlink/?linkid=2019591). 
   
