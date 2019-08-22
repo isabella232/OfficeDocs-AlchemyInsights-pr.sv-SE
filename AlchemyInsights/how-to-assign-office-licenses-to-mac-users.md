@@ -13,24 +13,24 @@ ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.custom:
 - "651"
 - "2000017"
-ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bde7f68684003b551297f8befc52e438a6fa5e58
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385418"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522521"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Hur du tilldelar licenser för Office för Mac-användare
 
-- Gå till sidan [aktiv användare](https://go.microsoft.com/fwlink/p/?linkid=834822) i Microsoft 365 administratörscenter, eller välj **användare** \> **aktiva användare**.
+1. Gå till **användare** i administratörscenter, \> sidan [aktiv användare](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
-- Markera kryssrutan bredvid namnet på den användare som du vill tilldela en licens.
+2. Markera namnet på användaren som du vill tilldela, ändra eller ta bort en licens.
 
-- Till höger väljer du **Redigera** på raden **Produktlicenser**.
+3. Välj den licensserver som du vill tilldela användaren på fliken **licenser och appar** .
 
-- Växla på Växla till **på** -läge för den licens som du vill tilldela användaren i rutan **produktlicens**s.
+    Som standard är tilldelas alla tjänster som är associerade till den licensen automatiskt till användaren. Om du vill begränsa vilka tjänster som är tillgängliga för användaren, avmarkerar du kryssrutan för de tjänster som du inte vill att användaren ska ha.
 
-- Längst ned i fönstret **Produktlicenser** väljer du **Spara** \> **Stäng** \> **Stäng**.
+4. Välj **Spara ändringar**längst ned i fönstret.
 
 Mer information: [tilldela licenser till användare i Office 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   
