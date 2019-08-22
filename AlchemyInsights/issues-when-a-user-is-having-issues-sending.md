@@ -12,13 +12,13 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 66c651d2-7e58-4bd8-a009-05065e644043
-ms.openlocfilehash: 72f21dcaf5cfc8aa742a6eb49e342e5937f613e4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f9190d0fcf2a37eb570d5253fe1b21a998d399a8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381531"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498073"
 ---
-# <a name="a-user-is-having-issues-sending-email-messages"></a><span data-ttu-id="0c700-102">En användare har problem att skicka e-postmeddelanden</span><span class="sxs-lookup"><span data-stu-id="0c700-102">A user is having issues sending email messages</span></span>
+# <a name="a-user-is-having-issues-sending-email-messages"></a><span data-ttu-id="5f6eb-102">En användare har problem att skicka e-postmeddelanden</span><span class="sxs-lookup"><span data-stu-id="5f6eb-102">A user is having issues sending email messages</span></span>
 
-<span data-ttu-id="0c700-103">Det verkar som om du har ett problem med e-flöde.</span><span class="sxs-lookup"><span data-stu-id="0c700-103">It looks like you have a mail flow issue.</span></span> <span data-ttu-id="0c700-104">Vi har diagnostik som hjälper till att identifiera många vanliga e-flöde problem.</span><span class="sxs-lookup"><span data-stu-id="0c700-104">We have diagnostics that will help identify many common mail flow problems.</span></span> <span data-ttu-id="0c700-105">Klicka på **Kör diagnostik** nedan.</span><span class="sxs-lookup"><span data-stu-id="0c700-105">Click **Run Diagnostics** below.</span></span>
+<span data-ttu-id="5f6eb-103">Det verkar som om du har ett problem med e-flöde.</span><span class="sxs-lookup"><span data-stu-id="5f6eb-103">It looks like you have a mail flow issue.</span></span> <span data-ttu-id="5f6eb-104">Vi har diagnostik som hjälper till att identifiera många vanliga e-flöde problem.</span><span class="sxs-lookup"><span data-stu-id="5f6eb-104">We have diagnostics that will help identify many common mail flow problems.</span></span> <span data-ttu-id="5f6eb-105">Klicka på **Kör diagnostik** nedan.</span><span class="sxs-lookup"><span data-stu-id="5f6eb-105">Click **Run Diagnostics** below.</span></span>

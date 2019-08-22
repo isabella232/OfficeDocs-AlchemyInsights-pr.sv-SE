@@ -13,19 +13,17 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: bd058a965dfc0f014ab8efca1f330ec7180f8696
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3583bf871a7325f0bb2a28d3ac1641fd5525d403
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387781"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506137"
 ---
-# <a name="view-my-bill"></a><span data-ttu-id="01d74-102">Visa min räkning</span><span class="sxs-lookup"><span data-stu-id="01d74-102">View my bill</span></span>
+# <a name="view-my-bill"></a><span data-ttu-id="6d396-102">Visa min räkning</span><span class="sxs-lookup"><span data-stu-id="6d396-102">View my bill</span></span>
 
-1. <span data-ttu-id="01d74-103">Gå till **Fakturering** i administratörscenter, \> [växlar](https://go.microsoft.com/fwlink/p/?linkid=848039) sida.</span><span class="sxs-lookup"><span data-stu-id="01d74-103">In the admin center, go to the **Billing** \> [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page.</span></span>
+1. <span data-ttu-id="6d396-103">Gå till **Fakturering** i Microsoft 365 administratörscenter, \> [växlar & betalningar](https://go.microsoft.com/fwlink/p/?linkid=848039) sida.</span><span class="sxs-lookup"><span data-stu-id="6d396-103">In the Microsoft 365 admin center, go to the **Billing** \> [Bills & payments](https://go.microsoft.com/fwlink/p/?linkid=848039) page.</span></span>
 
-2. <span data-ttu-id="01d74-104">Välj månad och datum för fakturan och klicka sedan på **Visa**.</span><span class="sxs-lookup"><span data-stu-id="01d74-104">Choose the month and date of the invoice you want, and then choose **View**.</span></span>
+2. <span data-ttu-id="6d396-104">Välj ett datumintervall nedrullningsbara listan och klicka på den ordning som du vill visa.</span><span class="sxs-lookup"><span data-stu-id="6d396-104">Select a date range from the drop-down list, and then choose the order you want to view.</span></span>
 
-3. <span data-ttu-id="01d74-105">Välj en order och välj sedan **Visa information**.</span><span class="sxs-lookup"><span data-stu-id="01d74-105">Choose an order, and then choose **View Details**.</span></span>
-
-<span data-ttu-id="01d74-106">Mer information finns i [Visa din faktura eller en faktura](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span><span class="sxs-lookup"><span data-stu-id="01d74-106">For more information see [View your bill or invoice](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span></span>
+<span data-ttu-id="6d396-105">Mer information finns i [Visa din faktura eller en faktura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span><span class="sxs-lookup"><span data-stu-id="6d396-105">For more information see [View your bill or invoice](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span></span>

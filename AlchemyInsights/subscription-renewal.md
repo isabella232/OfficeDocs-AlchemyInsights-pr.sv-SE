@@ -13,25 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388222"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501383"
 ---
-# <a name="subscription-recurring-billing"></a><span data-ttu-id="bbf37-102">Återkommande prenumerationsärenden</span><span class="sxs-lookup"><span data-stu-id="bbf37-102">Subscription recurring billing</span></span>
+# <a name="subscription-recurring-billing"></a><span data-ttu-id="ef194-102">Återkommande prenumerationsärenden</span><span class="sxs-lookup"><span data-stu-id="ef194-102">Subscription recurring billing</span></span>
 
-<span data-ttu-id="bbf37-103">Om du vill veta när din månatliga eller årliga prenumeration debiteras (om **återkommande fakturering** är aktiverad) eller upphöra att gälla (om **återkommande fakturering** är avstängd):</span><span class="sxs-lookup"><span data-stu-id="bbf37-103">If you want to know when your monthly or yearly subscription will be billed (if **Recurring billing** is turned on) or expire (if **Recurring billing** is turned off):</span></span>
+<span data-ttu-id="ef194-103">Om du vill veta när din månatliga eller årligen Office 365-abonnemang debiteras (om **återkommande fakturering** är aktiverad) eller upphöra att gälla (om **återkommande fakturering** är avstängd):</span><span class="sxs-lookup"><span data-stu-id="ef194-103">If you want to know when your monthly or yearly Office 365 subscription will be billed (if **Recurring billing** is turned on) or expire (if **Recurring billing** is turned off):</span></span>
   
-1. <span data-ttu-id="bbf37-104">Gå till **Fakturering** i administratörscenter, \> sidan [serviceabonnemang](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="bbf37-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="ef194-104">Gå till **Fakturering** i administratörscenter, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjänster.</span><span class="sxs-lookup"><span data-stu-id="ef194-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="bbf37-105">Välj den prenumeration som du vill veta mer om.</span><span class="sxs-lookup"><span data-stu-id="bbf37-105">Choose the subscription that you want to know more about.</span></span>
+2. <span data-ttu-id="ef194-105">Se **Renews på** eller **upphör på** datumet för den prenumeration som du vill veta mer om, under **Fakturering**.</span><span class="sxs-lookup"><span data-stu-id="ef194-105">For the subscription that you want to know more about, under **Billing**, see the **Renews on** or **Expiring on** date.</span></span>
 
-3. <span data-ttu-id="bbf37-106">På höger sida av kortet prenumeration är information om prenumerationsstatus inställningen **återkommande fakturering** och nästa fakturerings- eller datum.</span><span class="sxs-lookup"><span data-stu-id="bbf37-106">On the right side of the subscription card is information about the subscription status, the **Recurring billing** setting, and the next billing or expiration date.</span></span>
+4. <span data-ttu-id="ef194-106">Välj **Redigera** och markera sedan i fönstret **återkommande fakturering** inställningar **Inaktivera** stänga av om du vill göra en ändring.</span><span class="sxs-lookup"><span data-stu-id="ef194-106">To make a change, select **edit** and then, in the **Recurring billing** settings pane, select **Turn OFF** to turn it off.</span></span> <span data-ttu-id="ef194-107">Om återkommande fakturering är redan avstängd, markerar du **varje månad** eller **när** den aktiveras.</span><span class="sxs-lookup"><span data-stu-id="ef194-107">If recurring billing is already turned off, select **Monthly** or **Once** to turn it on.</span></span>
 
-4. <span data-ttu-id="bbf37-107">Om du vill fortsätta använda tjänsten efter detta datum, växla **Inställningar för återkommande fakturering** växla till **på**.</span><span class="sxs-lookup"><span data-stu-id="bbf37-107">To continue using the service past this date, switch the **Recurring billing settings** toggle to **On**.</span></span> <span data-ttu-id="bbf37-108">Status visas nästa fakturering datum för abonnemanget.</span><span class="sxs-lookup"><span data-stu-id="bbf37-108">The status will show the next billing date for the subscription.</span></span>
-
-5. <span data-ttu-id="bbf37-109">Växla **återkommande fakturering** växla **till**om du vill stoppa tjänsten på detta datum.</span><span class="sxs-lookup"><span data-stu-id="bbf37-109">To stop service on this date, switch the **Recurring billing** toggle to **Off**.</span></span> <span data-ttu-id="bbf37-110">Status visas det datum då prenumerationen upphör att gälla.</span><span class="sxs-lookup"><span data-stu-id="bbf37-110">The status will show the date the subscription expires.</span></span>
-
-<span data-ttu-id="bbf37-111">Använder du den nya administratörscenter?</span><span class="sxs-lookup"><span data-stu-id="bbf37-111">Are you using the new admin center?</span></span> <span data-ttu-id="bbf37-112">Nytt steg finns i [Aktivera återkommande fakturering eller inaktivera](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="bbf37-112">For new steps, see [Turn recurring billing off or on](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).</span></span>
+<span data-ttu-id="ef194-108">Mer information finns i [Aktivera återkommande fakturering eller inaktivera](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="ef194-108">For more information, see [Turn recurring billing off or on](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).</span></span>
