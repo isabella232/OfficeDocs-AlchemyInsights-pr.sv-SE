@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 6417ff45a94c7b8fb50c8a1f9f84873714e3eaaf
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 30f4b30a86f6c65ff1dc348c279341e299b0275b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059198"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507901"
 ---
-# <a name="external-sharing-settings-for-sharepoint--onedrive"></a>Externa delningsinställningar för SharePoint & OneDrive
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Varning: organisationens principer inte tillåter dig att dela med dessa användare
 
 Användare kan få ett varningsmeddelande när du försöker dela med externa användare i din organisation. Meddelandet är **organisationens principer inte tillåter dig att dela med dessa användare. Gå till extern delning i Office 365 administratörscenter för att den**. Detta händer ofta första gången försöker dela med externa användare eller när du delar med nya externa användare.
 

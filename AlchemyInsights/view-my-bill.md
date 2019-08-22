@@ -13,19 +13,17 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: bd058a965dfc0f014ab8efca1f330ec7180f8696
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3583bf871a7325f0bb2a28d3ac1641fd5525d403
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387781"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506137"
 ---
 # <a name="view-my-bill"></a>Visa min räkning
 
-1. Gå till **Fakturering** i administratörscenter, \> [växlar](https://go.microsoft.com/fwlink/p/?linkid=848039) sida.
+1. Gå till **Fakturering** i Microsoft 365 administratörscenter, \> [växlar & betalningar](https://go.microsoft.com/fwlink/p/?linkid=848039) sida.
 
-2. Välj månad och datum för fakturan och klicka sedan på **Visa**.
+2. Välj ett datumintervall nedrullningsbara listan och klicka på den ordning som du vill visa.
 
-3. Välj en order och välj sedan **Visa information**.
-
-Mer information finns i [Visa din faktura eller en faktura](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+Mer information finns i [Visa din faktura eller en faktura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).

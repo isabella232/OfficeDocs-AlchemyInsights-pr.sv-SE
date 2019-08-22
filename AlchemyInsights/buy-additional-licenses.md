@@ -13,28 +13,28 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: 1dbf7035b3c21e744904a026d62c5cf3475cadc2
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a9c2f53ff074d548659757cae9456c3c4633d4ec
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387070"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36518057"
 ---
-# <a name="buy-additional-licenses"></a>Köpa ytterligare licenser
+# <a name="buy-additional-office-365-licenses"></a>Köpa ytterligare licenser för Office 365
 
-1. Gå till **Fakturering** i administratörscenter, \> sidan [serviceabonnemang](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Gå till **Fakturering** i administratörscenter, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjänster.
 
-2. Välj den prenumeration som du vill lägga till licenser till på sidan **prenumerationer** och välj **Lägg till/ta bort licenser**.
+2. Hitta den prenumeration som du vill lägga till licenser för och välj sedan **Lägg till/ta bort licenser**.
 
-    [Vad händer om jag ser länken Lägg till/ta bort?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
+    [Vad händer om jag ser länken Lägg till/ta bort?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
 
-3. Ange det totala antalet licenser som du behöver för den här prenumerationen **Totalt licenser** i rutan och välj sedan **Skicka** \> **Stäng**. Om du till exempel har 100 licenser och behöver lägga till ytterligare 5 skriver du 105.
+3. Ange det totala antalet licenser som du behöver för den här prenumerationen och välj sedan i rutan **licenser sammanlagt** **Skicka* ändringen **. Om du till exempel har 100 licenser och behöver lägga till ytterligare 5 skriver du 105.
 
     > [!NOTE]
     > Om du betalar för prenumerationen med kontokort eller via bankkonto får du direkt tillgång till nya licenser som du köper när du väl har tagit emot orderbekräftelsen. Om du betalar med faktura kan du behöva vänta på en kreditkontroll innan de nya licenserna är tillgängliga för användning.
   
 **Ytterligare resurser**
 
-- [Tilldela licenser till användare i Office 365 för företag](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Tilldela licenser till användare i Office 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-Använder du den nya administratörscenter? Nytt steg finns i [köpa licenser för din Office 365 för business-prenumeration](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses).
+Mer information finns i [köpa licenser för din Office 365 för business-prenumeration](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).

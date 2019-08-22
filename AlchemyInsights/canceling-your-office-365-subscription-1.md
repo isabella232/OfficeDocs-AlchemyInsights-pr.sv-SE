@@ -13,12 +13,12 @@ ms.custom:
 - "53"
 - "1400001"
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: b1535e88e2c3a48da904b226509f4dd9c4988cc7
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 58c4de02cf6833b05cc0579e1e9df11226acb298
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387322"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520325"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Avbryta din Office 365-prenumeration?
 
@@ -26,4 +26,4 @@ Vi beklagar att du gå, men här är dina alternativ för att avbryta prenumerat
   
 - **Utifrån dina organisationsdata tror vi dina aktuella prenumerationer är provversion prenumerationer. Behöver du inte explicit avbryta en testversion prenumeration eftersom prövningen abonnemang kräver inga utbetalningar och det finns ingen förpliktelse när testversionen upphör.**
 
-- Om du vill veta mer om hur du avbryter en prenumeration eller stegvisa anvisningar finns i den här artikeln: [avbryta prenumerationen](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- Om du vill veta mer om hur du avbryter en prenumeration eller stegvisa anvisningar finns i den här artikeln: [avbryta prenumerationen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

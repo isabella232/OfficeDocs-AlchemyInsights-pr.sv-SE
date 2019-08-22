@@ -13,25 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388222"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501383"
 ---
 # <a name="subscription-recurring-billing"></a>Återkommande prenumerationsärenden
 
-Om du vill veta när din månatliga eller årliga prenumeration debiteras (om **återkommande fakturering** är aktiverad) eller upphöra att gälla (om **återkommande fakturering** är avstängd):
+Om du vill veta när din månatliga eller årligen Office 365-abonnemang debiteras (om **återkommande fakturering** är aktiverad) eller upphöra att gälla (om **återkommande fakturering** är avstängd):
   
-1. Gå till **Fakturering** i administratörscenter, \> sidan [serviceabonnemang](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Gå till **Fakturering** i administratörscenter, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjänster.
 
-2. Välj den prenumeration som du vill veta mer om.
+2. Se **Renews på** eller **upphör på** datumet för den prenumeration som du vill veta mer om, under **Fakturering**.
 
-3. På höger sida av kortet prenumeration är information om prenumerationsstatus inställningen **återkommande fakturering** och nästa fakturerings- eller datum.
+4. Välj **Redigera** och markera sedan i fönstret **återkommande fakturering** inställningar **Inaktivera** stänga av om du vill göra en ändring. Om återkommande fakturering är redan avstängd, markerar du **varje månad** eller **när** den aktiveras.
 
-4. Om du vill fortsätta använda tjänsten efter detta datum, växla **Inställningar för återkommande fakturering** växla till **på**. Status visas nästa fakturering datum för abonnemanget.
-
-5. Växla **återkommande fakturering** växla **till**om du vill stoppa tjänsten på detta datum. Status visas det datum då prenumerationen upphör att gälla.
-
-Använder du den nya administratörscenter? Nytt steg finns i [Aktivera återkommande fakturering eller inaktivera](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Mer information finns i [Aktivera återkommande fakturering eller inaktivera](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

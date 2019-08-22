@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 617
 ms.assetid: 35a22eeb-a426-4839-85b1-13745ed1d2c2
-ms.openlocfilehash: c17970359168a0ab90e2a0e424d4dcef37ea8637
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 121618982dbecd9c01b7082ed7f544386a5bf3aa
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34751541"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497785"
 ---
 # <a name="learn-about-external-calendar-sharing-options"></a>Lär dig mer om externa alternativ för kalenderdelning
 
-[Dela kalendrar med externa användare](https://support.office.com/article/FB00DD4E-2D5F-4E8D-8FF4-94B2CF002BDD)
+Om du behöver schemalägga möten med personer utanför organisationen Office 365 kan du göra kalendrar tillgängliga för ”externa användare”, de som behöver kunna se ledig/upptagen tid men inte har användarkonton för Office 365-miljö. Mer information finns i [Dela kalendrar med externa användare](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).
