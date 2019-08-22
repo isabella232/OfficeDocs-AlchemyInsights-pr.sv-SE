@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: 682fa0950a0816fec0c3989dc92a10137e7e7b11
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 7addbbe8aa0eea80d063601c8e2b0be73e2aded2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697457"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526229"
 ---
 # <a name="export-user-account-information"></a>Exportera information om användarkonto
 
-Så här exporterar du användarkontot information, inklusive information om licenser, lösenordsprincip, spärrade konton, Ledsagardokumentet synkroniseringsstatus och mer, gå till **användare** > [aktiva användare](https://go.microsoft.com/fwlink/p/?linkid=834822) sidan och välj **Exportera användare**.
+Exportera information om användarkonton i Microsoft 365 admin center, bland annat information om licenser, lösenordsprincip, spärrade konton, Ledsagardokumentet synkroniseringsstatus och mer, gå till **användare** > sidan[aktiv användare](https://go.microsoft.com/fwlink/p/?linkid=834822) och markera sedan **Export Användare**.

@@ -13,21 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: 3641fb38fa95173a6367c1c0754c26bd3ee3eb0f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386386"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527849"
 ---
-# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Har en anställd lämnar och behöver blockera åtkomst till data och e-post?
+# <a name="block-access-to-a-former-employee"></a>Blockera åtkomst till en tidigare anställd
+
+Har en anställd lämnar och behöver blockera åtkomst till data i Office 365 och e-post? Gör på följande sätt.
   
 1. Gå till **användare** i administratörscenter, \> sidan [Aktiv användare](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
-2. Markera den användare du vill spärra.
+2. Markera namnet på användaren som du vill blockera.
 
-3. Välj **Redigera**bredvid logga in status.
+3. Markera **Blockera den här användaren**under användarens namn.
 
-4. Välj **Blockera användaren från att logga in** \> **Spara**.
+4. Välj **Blockera användaren från att logga in** \> **Spara ändringar**.
 
-**Anmärkning**: utloggning för vissa program är inte kanske omedelbart. Följa upp med fler åtgärder i den här artikeln: [Ta bort en tidigare anställd från Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/remove-former-employee)
+**Anmärkning**: utloggning för vissa program är inte kanske omedelbart. Följa upp med fler åtgärder i den här artikeln: [Ta bort en tidigare anställd från Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)

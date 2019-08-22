@@ -13,21 +13,21 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 261936877f149670ace8c70fd2be68d6b4fc0273
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: d4e4548ab943ffdbe1117f333c64f2c95a5985da
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386866"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519245"
 ---
 # <a name="change-payment-method"></a>Ändra betalningsmetod
 
-Du kan kontrollera den betalningsmetod som konfigureras genom att gå till **Fakturering** \> **abonnemang**. Välj den prenumeration du vill verifiera. Den betalningsmetod som är konfigurerad för prenumerationen visas under **betalningsmetod**. Välj **Uppdatera betalningsinformation**om du vill uppdatera information om befintliga betalningsmetoden.
+Du kan kontrollera den betalningsmetod som är konfigurerad i Microsoft 365 administratörscenter. Välj den prenumeration du vill verifiera. Den betalningsmetod som är konfigurerad för prenumerationen visas under **Fakturering**. 
   
-1. Gå till **Fakturering** i administratörscenter, \> sidan [serviceabonnemang](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Gå till **Fakturering** i administratörscenter, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjänster.
 
-2. Välj den prenumeration som du vill ändra betalningsmetod för och välj **Ändra betalningsmetod**.
+2. Välj **Redigera**bredvid den betalningsmetod som du vill ändra betalningsmetod för prenumerationen.
 
 3. Följ instruktionerna på skärmen för att slutföra ändringen.
 
-Steg-för-steg-instruktioner finns: [ändra betalningsmetoden för Office 365 för företag](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/change-payment-method)
+Steg-för-steg-instruktioner finns: [ändra betalningsmetoden för Office 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)

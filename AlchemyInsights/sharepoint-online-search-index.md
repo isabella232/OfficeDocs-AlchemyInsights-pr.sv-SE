@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: fc49978fbd2c07381dae83061b1a1868cd1df0d0
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059270"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507649"
 ---
-# <a name="search-in-sharepoint-online"></a>Sök i SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Spindlar och indexering i SharePoint Online-innehåll
 
 Innehållet måste crawlas och lagts till i sökindexet för användare att hitta vad de söker i SharePoint Online. Innehållet crawlas automatiskt baserat på en fördefinierad crawlningsschema (crawlningsschema inte kan ändras). Crawlern hämtar innehåll som har ändrats sedan den senaste crawlningen och uppdaterar indexet. Tänk på följande om du vill kontrollera innehållet crawlas och indexet uppdateras:
 
@@ -30,7 +30,8 @@ Innehållet måste crawlas och lagts till i sökindexet för användare att hitt
 
     Om mer än 24 timmar har gått sedan du påbörjade crawla och fullständig indexera, logga ett supportärende. I många fall kan arbetar vi redan på en lösning. Ge oss minst 24 timmar att slutföra en lösning.
 
->[! Viktigt!]: om en webbplats, dokument (bibliotek) eller en lista var borttagna och fortfarande visas i sökresultaten, användare får ett **Fel 404 filen inte hittas** när du försöker komma åt den. Det här problemet ska loggas som ett supportärende för vidare utredning. 
+> [!IMPORTANT]
+> Om en webbplats har tagits bort (bibliotek)-dokument eller en lista och fortfarande visas i sökresultat, användare får ett **Fel 404 filen inte hittas** när du försöker komma åt den. Det här problemet ska loggas som ett supportärende för vidare utredning. 
 
 
 

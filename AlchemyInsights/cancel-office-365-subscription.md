@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 353e0b4bb3ac1e0ecd9b7436dde6860ba8950925
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 19f21e93419a208229c64c874748f5f94acfe8b4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386193"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494169"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>Om du avbryter din prenumeration på Office 365?
 
@@ -28,4 +28,4 @@ Vi beklagar att du gå, men här är dina alternativ för att avbryta prenumerat
 
 - Om du har mer än 25 tilldelade licenser kan du antingen ta bort användare förrän du har färre än 25 eller använda alternativet ”Låt oss ringa dig” tala med en supporttekniker.
 
-- Om du vill veta mer om hur du avbryter en prenumeration eller steg för steg-instruktioner finns i [avbryta prenumerationen](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Om du vill veta mer om hur du avbryter en prenumeration eller steg för steg-instruktioner finns i [avbryta prenumerationen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
