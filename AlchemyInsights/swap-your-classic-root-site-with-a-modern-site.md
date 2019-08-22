@@ -12,19 +12,19 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 0f6f962314d9099bd21c281a23ad2e95742da4a8
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270762"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501097"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Byt plats på webbplatsen klassisk rot med en Modern webbplats
 
 Om din miljö har registrerat före April 2019 ändra du webbplatsens rot till en modern webbplats med hjälp av Microsoft PowerShell:
 
 - Om du har en annan plats som du vill använda som din rotwebbplats kan ersätta du webbplats (swap) roten med den. 
-    - Använd [Invoke-SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) för att byta en plats till en annan site under arkivering den ursprungliga webbplatsen. Tillgängligt för både gruppwebbplats (inte ansluten till en grupp) och kommunikation. 
+    - Använd [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) för att byta en plats till en annan site under arkivering den ursprungliga webbplatsen. Tillgängligt för både gruppwebbplats (inte ansluten till en grupp) och kommunikation. 
 
 - Ytterligare funktioner kommer att införas snart som gör att du kan fortsätta använda innehållet på webbplatsen, men konvertera den befintliga webbplatsen till en webbplats för kommunikation. 
 >[!Important]

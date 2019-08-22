@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 6dfccf70f1d200a57b916b8aa7bea1a154a7cfad
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 062a0d9bfbd83ed40457f603cc739e3a916c7045
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35696971"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511937"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>STOP-meddelanden skickas till mappen Skräppost
 
-Om du upptäcker att ett e-postmeddelande i mappen Skräppost inte är skräppost:
+Om du upptäcker att ett e-postmeddelande i mappen Skräppost i Outlook.com inte är skräppost:
 
 1. Öppna din [mapp för skräppost](https://outlook.live.com/mail/junkemail).
 1. Markera meddelandet. (*Anmärkning:* objekt i mappen Skräppost tas bort efter 30 dagar.)

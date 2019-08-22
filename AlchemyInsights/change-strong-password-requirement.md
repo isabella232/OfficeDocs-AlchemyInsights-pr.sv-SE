@@ -3,7 +3,6 @@ title: Ändra lösenord krav
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000105"
 - "1600"
-ms.openlocfilehash: 53affd2a347c004e7b21b353c2b3df98bc30a585
-ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
+ms.openlocfilehash: f8790a26ec7c5de57f5dbfc9e1c162767c599f03
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35701601"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36518777"
 ---
 # <a name="change-strong-password-requirement"></a>Ändra lösenord krav
 
-Starka lösenord krävs som standard. 
+Microsoft kräver starka lösenord som standard. 
 
-Du kan inaktivera starka lösenord för användare med det här kommandot med hjälp av PowerShell:<br>
+Med hjälp av PowerShell kan inaktivera du starka lösenord för användare med det här kommandot:<br>
 *Set-MsolUser – UserPrincipalName <UserPrincipalName> – StrongPasswordRequired $false*
 
 - [Mer information om lösenordsprincip](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
-- [Hur du ansluter till O365 med PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
+- [Hur du ansluter till Office 365 med PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
 - [Mer information om PowerShell MsolUser-kommandon](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)

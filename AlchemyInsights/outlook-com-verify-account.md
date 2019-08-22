@@ -13,14 +13,14 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 70b09fc739d5967f40b7fa7a036e0721ff614e95
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5456a07a919b6344206deb2847aaf3843182b63b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35390171"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511537"
 ---
-# <a name="how-to-verify-your-account"></a>Så här kontrollerar du ditt konto
+# <a name="how-to-verify-your-outlookcom-account"></a>Så här kontrollerar du ditt Outlook.com-konto
 
 Två steg kontroll skyddar dig genom att göra det svårare för någon annan att logga in på ditt Microsoft-konto. Den använder två olika former av identitet: ditt lösenord och kontaktmetod (kallas även säkerhetsinformation).
   
