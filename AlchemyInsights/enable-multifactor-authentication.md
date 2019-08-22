@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403693"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527489"
 ---
-# <a name="enable-multi-factor-authentication"></a><span data-ttu-id="45c1f-102">Aktivera autentisering på flera plan</span><span class="sxs-lookup"><span data-stu-id="45c1f-102">Enable multi-factor authentication</span></span>
+# <a name="enable-multi-factor-authentication"></a><span data-ttu-id="0d0b0-102">Aktivera autentisering på flera plan</span><span class="sxs-lookup"><span data-stu-id="0d0b0-102">Enable multi-factor authentication</span></span>
 
-1. <span data-ttu-id="45c1f-103">Navigera till **användare** \> **aktiva användare**</span><span class="sxs-lookup"><span data-stu-id="45c1f-103">Navigate to **Users** \> **Active users**</span></span>
+<span data-ttu-id="0d0b0-103">För att aktivera autentisering på flera plan i Microsoft 365 administratörscenter:</span><span class="sxs-lookup"><span data-stu-id="0d0b0-103">To enable multi-factor authentication in the Microsoft 365 admin center:</span></span>
+
+1. <span data-ttu-id="0d0b0-104">Gå till **användare** \> sidan **aktiv användare** .</span><span class="sxs-lookup"><span data-stu-id="0d0b0-104">Go to the **Users** \> **Active users** page.</span></span>
     
-2. <span data-ttu-id="45c1f-104">Klicka på **fler** \> **installationsprogrammet Azure flera faktor autentisering**.</span><span class="sxs-lookup"><span data-stu-id="45c1f-104">Click **More** \> **Setup Azure multi-factor auth**.</span></span> 
+2. <span data-ttu-id="0d0b0-105">Överst på sidan, markera **autentisering i flera steg**.</span><span class="sxs-lookup"><span data-stu-id="0d0b0-105">At the top of the page, select **Multi-factor authentication**.</span></span> 
     
-3. <span data-ttu-id="45c1f-105">Sök användare eller användare som du vill aktivera för MFA.</span><span class="sxs-lookup"><span data-stu-id="45c1f-105">Find the user or users who you want to enable for MFA.</span></span> <span data-ttu-id="45c1f-106">Du kan behöva ändra vyn med flera faktor autentisering status längst upp om du vill se alla användare.</span><span class="sxs-lookup"><span data-stu-id="45c1f-106">In order to see all the users, you might need to change the Multi-Factor Auth status view at the top.</span></span>
+3. <span data-ttu-id="0d0b0-106">Sök användare eller användare som du vill aktivera autentisering på flera plan.</span><span class="sxs-lookup"><span data-stu-id="0d0b0-106">Find the user or users who you want to enable for multi-factor authentication.</span></span> <span data-ttu-id="0d0b0-107">Om du vill se alla användare kan du behöva ändra **Flera faktor autentisering** statusfilter överst.</span><span class="sxs-lookup"><span data-stu-id="0d0b0-107">To see all the users, you might need to change the **Multi-Factor Auth status** filter at the top.</span></span>
     
-4. <span data-ttu-id="45c1f-107">Markera kryssrutan bredvid de användare som du vill aktivera.</span><span class="sxs-lookup"><span data-stu-id="45c1f-107">Check the check box next to the users you want to enable.</span></span>
+4. <span data-ttu-id="0d0b0-108">Markera kryssrutan bredvid de användare som du vill aktivera.</span><span class="sxs-lookup"><span data-stu-id="0d0b0-108">Select the check box next to the users you want to enable.</span></span>
     
-5.  <span data-ttu-id="45c1f-108">I informationsfönstret för rätt användare under **snabbsteg** du finns i Aktivera och hantera användarinställningar.</span><span class="sxs-lookup"><span data-stu-id="45c1f-108">On the right user info pane, under **quick steps** you'll see Enable and Manage user settings.</span></span> <span data-ttu-id="45c1f-109">Välj **Aktivera**.</span><span class="sxs-lookup"><span data-stu-id="45c1f-109">Choose **Enable**.</span></span> 
+5.  <span data-ttu-id="0d0b0-109">Markera **Aktivera**i informationsfönstret för rätt användare, under **snabbsteg**.</span><span class="sxs-lookup"><span data-stu-id="0d0b0-109">In the right user info pane, under **quick steps**, select **Enable**.</span></span> 
     
-6. <span data-ttu-id="45c1f-110">I dialogrutan öppnas som **klickar du på Aktivera flera faktor autentisering**.</span><span class="sxs-lookup"><span data-stu-id="45c1f-110">In the dialog box that opens, **click enable multi-factor auth**.</span></span> 
+6. <span data-ttu-id="0d0b0-110">I dialogrutan som öppnas väljer du **Aktivera flera faktor autentisering**.</span><span class="sxs-lookup"><span data-stu-id="0d0b0-110">In the dialog box that opens, select **enable multi-factor auth**.</span></span> 
     
 
