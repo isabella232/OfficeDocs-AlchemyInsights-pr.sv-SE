@@ -13,13 +13,13 @@ ms.custom:
 - "597"
 - "3800001"
 ms.assetid: 99cf97b6-0ecb-4e38-a2c6-4b59c702c978
-ms.openlocfilehash: ff684984060e71cdcabe600d3a083db5816d432a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 080605b91f6efd2caf510f0086519bf6c78e3969
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380307"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544917"
 ---
-# <a name="microsoft-bookings-app"></a><span data-ttu-id="5856e-102">Microsoft bokningar app</span><span class="sxs-lookup"><span data-stu-id="5856e-102">Microsoft Bookings app</span></span>
+# <a name="microsoft-bookings-app"></a><span data-ttu-id="52e50-102">Microsoft bokningar app</span><span class="sxs-lookup"><span data-stu-id="52e50-102">Microsoft Bookings app</span></span>
 
-<span data-ttu-id="5856e-103">Se [artiklarna bokningar](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092)för att felsöka problem i appen bokningar.</span><span class="sxs-lookup"><span data-stu-id="5856e-103">For troubleshooting issues in the new Bookings app, see [Bookings articles](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span></span>
+<span data-ttu-id="52e50-103">Microsoft Bookings är en avtalad tid planering app som hjälper dig att hålla reda på dina bokningar, din personal och dina kunder.</span><span class="sxs-lookup"><span data-stu-id="52e50-103">Microsoft Bookings is an appointment scheduling app that helps you keep track of your bookings, your staff, and your customers.</span></span> <span data-ttu-id="52e50-104">Information och felsökning i appen bokningar finns [bokningar artiklarna](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span><span class="sxs-lookup"><span data-stu-id="52e50-104">For information or troubleshooting in the Bookings app, see [Bookings articles](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span></span>

@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
-ms.openlocfilehash: ba0fdd7f59d566a8f214cc57d63aa637665cb770
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f4a005bc2a0938d1d0a79f904164716e8a36fcf1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32391384"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538579"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a><span data-ttu-id="18f36-102">Inte ta emot e-post i Outlook.com</span><span class="sxs-lookup"><span data-stu-id="18f36-102">Not receiving mail in Outlook.com</span></span>
+# <a name="not-receiving-mail-in-outlookcom"></a><span data-ttu-id="3e133-102">Inte ta emot e-post i Outlook.com</span><span class="sxs-lookup"><span data-stu-id="3e133-102">Not receiving mail in Outlook.com</span></span>
 
-<span data-ttu-id="18f36-103">Om du inte får e-post från en viss avsändare som ditt bankutdrag eller lösenord kan du återställa meddelanden, måste du kontakta avsändaren och låta dem veta att du inte får e-post på Outlook.com-konto.</span><span class="sxs-lookup"><span data-stu-id="18f36-103">If you're not receiving email from a specific sender, such as your bank statements or password reset messages, you'll need to contact the sender and let them know you aren't receiving email at your Outlook.com account.</span></span> <span data-ttu-id="18f36-104">Avsändaren finns i [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), där de kan hitta information om bästa praxis, Rekommenderad felsökning och en länk till Kontakta supportteamet avsändaren.</span><span class="sxs-lookup"><span data-stu-id="18f36-104">Please refer the sender to [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), where they can find information about best practices, recommend troubleshooting, and a link to contact our sender support team.</span></span>
+<span data-ttu-id="3e133-103">Om du inte får e-post från en viss avsändare som ditt bankutdrag eller lösenord kan du återställa meddelanden, måste du kontakta avsändaren och låta dem veta att du inte får e-post på Outlook.com-konto.</span><span class="sxs-lookup"><span data-stu-id="3e133-103">If you're not receiving email from a specific sender, such as your bank statements or password reset messages, you'll need to contact the sender and let them know you aren't receiving email at your Outlook.com account.</span></span> <span data-ttu-id="3e133-104">Avsändaren finns i [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), där de kan hitta information om bästa praxis, Rekommenderad felsökning och en länk till Kontakta supportteamet avsändaren.</span><span class="sxs-lookup"><span data-stu-id="3e133-104">Please refer the sender to [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), where they can find information about best practices, recommend troubleshooting, and a link to contact our sender support team.</span></span>
   
-<span data-ttu-id="18f36-105">Om ditt Outlook.com-konto inte ta emot e-post alls, se [åtgärda Outlook.com e-synkroniseringsproblem](https://go.microsoft.com/fwlink/p/?linkid=874363).</span><span class="sxs-lookup"><span data-stu-id="18f36-105">If your Outlook.com account isn't receiving email at all, see [Fix Outlook.com email sync issues](https://go.microsoft.com/fwlink/p/?linkid=874363).</span></span>
+<span data-ttu-id="3e133-105">Om ditt Outlook.com-konto inte ta emot e-post alls, se [åtgärda Outlook.com e-synkroniseringsproblem](https://go.microsoft.com/fwlink/p/?linkid=874363).</span><span class="sxs-lookup"><span data-stu-id="3e133-105">If your Outlook.com account isn't receiving email at all, see [Fix Outlook.com email sync issues](https://go.microsoft.com/fwlink/p/?linkid=874363).</span></span>
   
 

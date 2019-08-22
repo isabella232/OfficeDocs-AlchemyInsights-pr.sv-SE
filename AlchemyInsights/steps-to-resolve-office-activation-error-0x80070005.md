@@ -12,18 +12,18 @@ ms.custom:
 - "914"
 - "2000021"
 ms.assetid: d291c13a-723e-4425-8e49-baa465ec2505
-ms.openlocfilehash: 6408a266ca34b237f020aeb0c1b83a3d10d39a5f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 92c18207d676a42b86c5a11c6f4ae9001bbe9107
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367991"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534545"
 ---
-# <a name="steps-to-resolve-office-activation-error-0x80070005"></a><span data-ttu-id="559b3-102">Åtgärder för att lösa office Aktiveringsfel 0x80070005</span><span class="sxs-lookup"><span data-stu-id="559b3-102">Steps to resolve office activation error 0x80070005</span></span>
+# <a name="steps-to-resolve-office-activation-error-0x80070005"></a><span data-ttu-id="5844a-102">Åtgärder för att lösa office Aktiveringsfel 0x80070005</span><span class="sxs-lookup"><span data-stu-id="5844a-102">Steps to resolve office activation error 0x80070005</span></span>
 
-<span data-ttu-id="559b3-103">Om felet 0x80070005 startar efter uppdatering av Windows, kan du lösa problemet genom att uppdatera registret.</span><span class="sxs-lookup"><span data-stu-id="559b3-103">If the 0x80070005 error started after updating Windows, you can fix the issue by updating the registry.</span></span>
+<span data-ttu-id="5844a-103">Om felet 0x80070005 startar efter uppdatering av Windows, kan du lösa problemet genom att uppdatera registret.</span><span class="sxs-lookup"><span data-stu-id="5844a-103">If the 0x80070005 error started after updating Windows, you can fix the issue by updating the registry.</span></span>
   
-<span data-ttu-id="559b3-104">Hämta och installera den [Support och återställning assistenten](https://aka.ms/SARA-OfficeActivation-Alchemy) och köra **Felsökaren för aktivering**.</span><span class="sxs-lookup"><span data-stu-id="559b3-104">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>
+<span data-ttu-id="5844a-104">Hämta och installera den [Support och återställning assistenten](https://aka.ms/SARA-OfficeActivation-Alchemy) och köra **Felsökaren för aktivering**.</span><span class="sxs-lookup"><span data-stu-id="5844a-104">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>
   
-<span data-ttu-id="559b3-105">Mer hjälp finns: [Office felkoden 0x80070005 när du aktiverar Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)</span><span class="sxs-lookup"><span data-stu-id="559b3-105">For additional help, see: [Office error code 0x80070005 when activating Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)</span></span>
+<span data-ttu-id="5844a-105">Mer hjälp finns: [Office felkoden 0x80070005 när du aktiverar Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)</span><span class="sxs-lookup"><span data-stu-id="5844a-105">For additional help, see: [Office error code 0x80070005 when activating Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)</span></span>
   
