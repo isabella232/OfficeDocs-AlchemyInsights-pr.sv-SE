@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 49c510668f4c73a71495b89ee9f810d4e7244da3
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 261fe1b1bc815dd4ad568051cfefad1e214b957e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270690"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530908"
 ---
-# <a name="workflow-email-is-not-being-sent"></a>Arbetsflöde för e-post skickas inte
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Arbetsflöde för e-post skickas inte för en SharePoint-lista eller ett bibliotek
 
 1. Skickas inte e-post från arbetsflöden för alla användare eller bara vissa användare, eller om du ser felet **e-postmeddelandet inte kan skickas. Kontrollera att e-postmeddelandet har en giltig mottagare**.
 
@@ -30,10 +30,10 @@ ms.locfileid: "36270690"
     - Om användaren finns i gruppen behörigheter kontrollera e-postadressen är korrekt.
     - Om användare e-postadress har angetts här, skapar du aviseringen för användaren vilket tvingar synkronisering av användarkontot från profiler av SharePoint för den här webbplatssamlingen.
  
-2. E-post från arbetsflöden skickas till webbplatssamlingens administratörer men inte till andra användare och se felet **http-förbjudet att <spam> <spam> ** <spam> <spam>.
+2. E-post från arbetsflöden skickas till webbplatssamlingens administratörer men inte till andra användare och se felet **http-förbjudet att <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    Se [Åtkomst nekad när du skickat e-brev till grupper](https://docs.microsoft.com/sharepoint/support/server-admin/access-denied-when-send-an-email-to-groups).
+    Se [Åtkomst nekad när du skickar ett e-postmeddelande till en SharePoint-grupp](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
     Kontrollera också att **begränsad åtkomst användarläge behörighet låsning** webbplatssamling funktionen inte är aktiv.
 

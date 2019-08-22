@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 956cf333f83dc681b7d74e984fdeb4c6c273d703
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5cf8c1b3e632fdf5c454d8b2d393d0a98d5a3989
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769525"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544629"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Problem med en moln-tjänst?
 
-Du kan kontrollera [service hälsa](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) att avgöra om det är ett känt problem med upplösningen pågår innan du kontaktar support eller tillbringar tid felsökning om du har problem med en tjänst i molnet. Problemet kan vara mycket tillfälliga och redan identifieras av Microsoft, men det kan finnas upphör mellan problemidentifiering och bokföring till tjänsten hälsa instrumentpanelen. Fortsätt att kontrollera instrumentpanelen service för ytterligare uppdateringar.
+Om du har problem med en tjänst i molnet kan du kontrollera att [tjänsten hälsa](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) i Microsoft 365 administratörscenter för att avgöra om det är ett känt problem med upplösningen pågår innan du kontaktar support eller tillbringar tid felsökning. Problemet kan vara mycket tillfälliga och redan identifieras av Microsoft, men det kan finnas upphör mellan problemidentifiering och bokföring till tjänsten hälsa instrumentpanelen. Fortsätt att kontrollera instrumentpanelen service för ytterligare uppdateringar.
 
 **Anmälan princip**
 
