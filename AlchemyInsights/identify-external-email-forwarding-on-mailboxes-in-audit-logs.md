@@ -12,20 +12,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 43b6a26bc05892e71d41c4b47522785245cb4851
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383115"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539119"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identifiera när externa e-vidarebefordran har konfigurerats på postlådor
 
-När en användare konfigurerar externa e-vidarebefordring på en postlåda, granskade aktiviteten som en del av cmdlet **Set-postlåda** . Du kan se aktiviteten med Granska loggen Sök i säkerhet & regelefterlevnadscentret.
+När en Office 365-användare konfigurerar externa e-vidarebefordring på en postlåda, granskade aktiviteten som en del av cmdlet **Set-postlåda** . Du kan se aktiviteten med Granska loggen Sök i säkerhet & regelefterlevnadscentret.
 
-1. Logga in på [Office 365 & överensstämmelse Säkerhetscenter](https://protection.office.com/)
+1. Logga in på [Office 365 säkerhet & regelefterlevnadscentret](https://protection.office.com/).
 
-2. Klicka på **Sök och undersökningen** och välj **Granska loggen Sök**.
+2. Gå till **Sök** > **Granska loggen** söksida.
 
 3. Välj datumintervall i fälten **startdatum** och **slutdatum** . Du behöver inte ange ett användarnamn. Kontrollera fältet **verksamhet** är att **Visa resultat för alla aktiviteter**.
 
