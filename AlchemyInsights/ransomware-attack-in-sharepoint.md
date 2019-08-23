@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: 2dc5a497fdb59acb58068e2db3f25293ee63995f
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 3ebb86895c65e1acd91d552ad28b8d5a44ef8335
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36269502"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553414"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ransomware-attack i SharePoint eller OneDrive
 
@@ -36,12 +36,12 @@ Mer information om hur du återställer finns:
 - [Återställa ett dokumentbibliotek](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&rs=en-US&ad=US)
 
 Mer information om avancerade hot skydd (ATP) finns:
-- [Tillgängligt att LOVA för SharePoint, OneDrive och team](https://docs.microsoft.com/en-us/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [Hot vyer i Utforskaren](https://docs.microsoft.com/en-us/office365/securitycompliance/threat-explorer-views)
+- [Tillgängligt att LOVA för SharePoint, OneDrive och team](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [Hot vyer i Utforskaren](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
 Ytterligare Information:
 
-- [Virusskyddet i SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/virus-detection-in-spo)</br>
-- [Datakryptering i ODB och SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [Virusskyddet i SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
+- [Datakryptering i ODB och SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
 - [Ransomware identifiering och återställning av filer](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [Påvisande av hot Explorer och Realtime](https://docs.microsoft.com/en-us/office365/securitycompliance/threat-explorer-views)
+- [Påvisande av hot Explorer och Realtime](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)

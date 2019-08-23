@@ -13,14 +13,14 @@ ms.custom:
 - "8000016"
 - "2004"
 ms.assetid: ''
-ms.openlocfilehash: d6ae972c6d95b33612290b4ee20464e53f60327f
-ms.sourcegitcommit: 3ddd01d693d306d47509da7a2fd44737b3059dd0
+ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "34423070"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556547"
 ---
-# <a name="how-to-delete-a-folder"></a>Hur du tar bort en mapp
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Hur du tar bort en mapp i Outlook på webben
 
 1. Högerklicka på den mapp eller undermapp som du vill ta bort i mappfönstret.
 2. Välj **Ta bort mappen**.

@@ -12,20 +12,20 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a91778c006531371b85116f5c97485d42e6cc5be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382971"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539047"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identifiera IP-adressen och klienten i granskningsloggar
 
-IP-adress som motsvarar en aktivitet av en användare eller administratör visas i granskningsloggarna. Klientinformation loggas också. Här är stegen för att identifiera sådan information
+IP-adress som motsvarar en aktivitet av Office 365-användare eller administratör visas i granskningsloggarna. Klientinformation loggas också. Här är stegen för att identifiera sådan information
 
-1. Logga in på [Office 365 & överensstämmelse Säkerhetscenter](https://protection.office.com/)
+1. Logga in på [Office 365 säkerhet & regelefterlevnadscentret](https://protection.office.com/).
 
-2. Klicka på **Sök och undersökningen** och välj **Granska loggen Sök**.
+2. Gå till **Sök** > **Granska loggen** söksida.
 
    Om du är intresserad av en viss aktivitet, markerar du den i listan **aktiviteter** . Annars returneras alla aktiviteter för den valda användaren (standardinställning).
 

@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356615"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553450"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Återkalla eller ersätta ett e-postmeddelande
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Återkalla eller ersätta ett e-postmeddelande i Office 365
 
 - Du kan **bara återkalla meddelanden som skickas till personer i din organisation**. Om meddelandet har skickats till en Gmail-adress, till exempel du inte kommer ihåg den.
 - Du kan **bara återkalla meddelanden som skickas från Outlook 2016 för PC**. Om en användare skickar ett meddelande med hjälp av Outlook för Mac eller Outlook på webben, du kan inte återkalla den.
 - Om du är en administratör kan **Återkalla meddelanden för användare med hjälp av PowerShell**. Du kan inte återkalla meddelanden från administratörscenter. Rulla ned till ”Sök efter och ta bort e-postmeddelanden i organisationen” för mer information.
 
-***Återkalla eller ersätta ett e-postmeddelande som skickades***
+**Återkalla eller ersätta ett e-postmeddelande som skickades**
 
 1. Välj mappen Skickat i mappfönstret till vänster i Outlook-fönstret.
 2. Öppna det meddelande som du vill återkalla. Du måste dubbelklicka om du vill öppna meddelandet. Markera meddelandet så att det visas i läsfönstret kan du återkalla meddelandet inte.

@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000289"
-ms.openlocfilehash: ce55ab1025bd4b3f22c7313cc8cc91cef6e726f6
-ms.sourcegitcommit: c65fb26afcaa8446c3e5490ed14c4f403b9d0945
+ms.openlocfilehash: d9f199035251c8b4f8041fc8530d1eca2eb3c7e8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34683348"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556628"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>Hur du arbetar med ett phishing-e-post
+# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Hur du arbetar med ett phishing-e-postmeddelande i Outlook på webben
 
 Ett phishing-bedrägeri är ett e-postmeddelande som visas legitima men är egentligen ett försök att stjäla din personliga information eller pengar. Scammers kan också använda en teknik som kallas falsk identitet så att det visas som om du har fått ett e-postmeddelande från dig.
 
