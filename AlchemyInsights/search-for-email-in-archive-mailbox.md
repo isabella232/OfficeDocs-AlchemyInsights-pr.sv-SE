@@ -12,14 +12,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 6a40c421d89d1caf89007ff25ed51712773e073e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3b6c15fccd375324583bf8249ad42879306a258c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369575"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551613"
 ---
-När en Arkivera postlåda är aktiverad, kan du använda **e-informationsavslöjande sökning och exportera** för att upptäcka innehållet i både primär och arkivera postlådan. Följ de steg disponerade [här](https://docs.microsoft.com/office365/securitycompliance/export-search-results)för information om hur du använder **e-informationsavslöjande sökningen exportera** för att hitta innehållet.
+# <a name="search-for-email-in-the-archive-mailbox"></a>Söka efter e-post i Arkiv-postlåda
+
+När en Arkivera postlåda är aktiverad för Office 365, kan du använda **e-informationsavslöjande sökning och exportera** för att upptäcka innehållet i både primär och arkivera postlådan. Följ de steg disponerade [här](https://docs.microsoft.com/office365/securitycompliance/export-search-results)för information om hur du använder **e-informationsavslöjande sökningen exportera** för att hitta innehållet.
   
 Du kan också behålla innehållet genom att lägga till postlådan till en bevarandeprincip. Detta placerar innehåll i både primär och arkivera postlåda i ett undantag. Mer information om hur du skapar lagringsprinciper om du vill behålla e-post finns i den här disponerade [här](https://docs.microsoft.com/Office365/securitycompliance/retention-policies).
   

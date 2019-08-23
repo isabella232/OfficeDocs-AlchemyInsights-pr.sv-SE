@@ -13,29 +13,25 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 142a0ada8caa410228562aad4549a5d75b313b7e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386314"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522485"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Tilldela en licens till en användare
 
-En användare måste ha en licens för att få tillgång till tjänster. Här följer stegen för att lägga till, ändra eller ta bort en licens från en användare.
+En användare behöver en licens för Office 365 att få tillgång till tjänster. Här följer stegen för att lägga till, ändra eller ta bort en licens från en användare.
   
-1. Gå till **användare** i administratörscenter, \> sidan [Aktiv användare](https://go.microsoft.com/fwlink/p/?linkid=834822) .
+1. Gå till **användare** i administratörscenter, \> sidan [aktiv användare](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
-2. Markera kryssrutan bredvid namnet på den användare som du vill tilldela, ändra eller ta bort en licens.
+2. Markera namnet på användaren som du vill tilldela, ändra eller ta bort en licens.
 
-3. Till höger väljer du **Redigera** på raden **Produktlicenser**.
+3. Välj den licensserver som du vill tilldela användaren på fliken **licenser och appar** .
 
-4. I fönstret **Produktlicenser** flyttar du reglaget till positionen **På** för den licens du vill tilldela användaren.
+    Som standard är tilldelas alla tjänster som är associerade till den licensen automatiskt till användaren. Om du vill begränsa vilka tjänster som är tillgängliga för användaren, avmarkerar du kryssrutan för de tjänster som du inte vill att användaren ska ha.
 
-    Som standard tilldelas alla tjänster som är associerade till den licensen automatiskt till användaren. Om du vill begränsa vilka tjänster som är tillgängliga för användaren drar du reglaget till positionen **Av** för de tjänster som du inte vill att användaren ska ha tillgång till.
+4. Välj **Spara ändringar**längst ned i fönstret.
 
-    Växla till växla till positionen **av** att ta bort en licens.
-
-5. Längst ned i fönstret **Produktlicenser** väljer du **Spara** \> **Stäng** \> **Stäng**.
-
-Mer information finns i [tilldela licenser till användare i Office 365 för företag](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)och [Ta bort licenser från användare i Office 365 för företag](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+Mer information finns i [tilldela licenser till användare i Office 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)och [Ta bort licenser från användare i Office 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).

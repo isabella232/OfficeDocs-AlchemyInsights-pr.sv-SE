@@ -12,16 +12,16 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: cc01e0cef157ad41f5a972f434c69fa3af208c9b
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: d156c414d741003f2ebddc63b2bc95167027169d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36272143"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558095"
 ---
 # <a name="workflow-troubleshooting"></a>Felsökning av arbetsflöde
 
-Arbetsflöde för felsökning och felsökning:
+Läs följande information om felsökning av SharePoint-arbetsflöden:
 - Felsökning av arbetsflöden liknar det i tidigare versioner.  Mer information finns i [Felsöka SharePoint-arbetsflöden](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 - Mer information om felsökning finns i [Felsöka SharePoint Server arbetsflöde valideringsfel](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
  
