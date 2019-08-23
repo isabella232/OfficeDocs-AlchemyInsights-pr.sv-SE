@@ -12,16 +12,16 @@ ms.custom:
 - "1332"
 - "3700002"
 ms.assetid: 383d1c77-5e4b-4a69-92d6-c404d890b6b7
-ms.openlocfilehash: 218a05a8d321b76dd07345ea48d6b3e158cc120e
-ms.sourcegitcommit: 77f704672b7c7de541899e25c022ff10c111e304
+ms.openlocfilehash: 901237d4dc7b99695097142c61a4bfef7c09750d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "36204078"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555791"
 ---
 # <a name="an-inbox-rule-doesnt-work-as-expected"></a>En Inkorgsregel fungerar inte som förväntat
 
-Kontrollera följande inställningar:
+Kontrollera följande inställningar i Outlook på webben:
 
 - Ett meddelande kan omdirigeras, vidarebefordrade eller besvarade automatiskt baserat på regler för Inkorgen bara en gång. En regel som omdirigerar (en inkorg eller e-flöde regel, även kallad transport-regeln) kan lägga till högst tio mottagare för vidarebefordran till ett meddelande. Mer information finns i [Journal, Transport, och Inkorgen gränserna](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).
 

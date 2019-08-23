@@ -13,23 +13,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 8e64c5f315fd52a34d735ba653e9cb28821f2031
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391070"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553378"
 ---
-# <a name="reactivate-a-subscription"></a>Aktivera en prenumeration
+# <a name="reactivate-an-office-365-subscription"></a>Aktivera en prenumeration i Office 365
 
 Om prenumerationen upphör inaktiverades av Microsoft, eller du avbröt mitt i en prenumerationsvillkoren, kan du återaktivera den i administratörscenter.
   
-1. Gå till **Fakturering** i administratörscenter, \> sidan [serviceabonnemang](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Gå till **Fakturering** i administratörscenter, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjänster.
 
-2. Välj den prenumeration som du vill aktivera och välj **Aktivera**.
+2. Välj den prenumeration som du vill återaktivera. Markera **Aktivera**under fakturering.
 
-    Om du inte ser **återaktivera** som en åtgärd som är tillgänglig, kan du använda alternativet ”Låt oss ringa dig” tala med en supporttekniker att återaktivera din prenumeration.
+    Om du inte ser **återaktivera** som en åtgärd som är tillgänglig, [Kontakta support](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) för att återaktivera din prenumeration.
 
-3. Ange din betalningsinformation. Du kan uppdatera din befintliga betalningsinformation här.
+3. Bekräfta din betalningsinformation. Du kan uppdatera din befintliga betalningsinformation här. När du är klar med att ange din betalningsmetod, Välj **Aktivera**.
 
-Använder du den nya administratörscenter? Nytt steg finns i [Aktivera din prenumeration](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Mer information finns i [Aktivera din prenumeration](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

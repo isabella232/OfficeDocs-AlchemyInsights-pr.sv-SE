@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 2a9f35dc83e82bc169e89404ae5e697792821b79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171376"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557519"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>Ändra utseendet på din postlåda
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Ändra utseendet på Outlook-postlådan
 
 Du kan ändra utseendet på listan och läsa meddelandefönstret så att den ser ut och fungerar på det sätt du vill. Välj om meddelanden ska visas individuellt eller som konversationer, om nya meddelanden ska visas överst eller längst ned på listan och mycket mer.
 
