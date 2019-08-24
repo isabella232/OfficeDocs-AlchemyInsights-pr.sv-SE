@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 15cdb1130674e92d8a673453921dddb291c5971f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: bd83dc5bbab9fb39abb751246795cd7d7895ce2b
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385883"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574488"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Aktivera en prenumeration för Microsoft Office 365 volym licens
 
@@ -32,4 +32,4 @@ ms.locfileid: "36385883"
 
 5. Logga in på Office 365 ([https://portal.office.com](https://portal.office.com)) med din befintliga Office 365-administratörsbehörighet. När du har loggat in får du ett annat e-postmeddelande som bekräftar ditt köp.
 
-6. När du har loggat in kan du gå till **Fakturering** \> [prenumerationssidan för att kontrollera att dina inköpta Office 365-prenumerationer är aktiverade i din innehavare](https://go.microsoft.com/fwlink/p/?linkid=842054) . (Du kan också välja fliken **abonnemang** i VLSC Visa detaljer verifiera prenumerationen har deponerats.)
+6. När du har loggat in kan du gå till **Fakturering** \> [produkter & tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054) -sidan för att kontrollera att dina inköpta Office 365-prenumerationer är aktiverade i din innehavare. (Du kan också välja fliken **abonnemang** i VLSC Visa detaljer verifiera prenumerationen har deponerats.)

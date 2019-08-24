@@ -12,18 +12,24 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840533"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620741"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Skrivskyddad för underhåll meddelande när du försöker använda SharePoint eller OneDrive
 
-Användare får ett meddelande **Skrivskyddad för underhåll** vid försök att använda SharePoint- eller OneDrive.  I så fall kan du kontrollera om det finns aktiva Underhåll uppstår på din hyresgäst genom att navigera till [Message center](https://portal.office.com/adminportal/home#/MessageCenter). Kontrollera också att kontrollera [Tjänsten hälsa](https://portal.office.com/adminportal/home#/servicehealth) instrumentpanelen för alla rekommendationerna/olyckor som kan ske.
+Användare får ett meddelande **Skrivskyddad för underhåll** vid försök att använda SharePoint- eller OneDrive för något av följande scenarier. 
 
-Om varken Message Center eller tjänsten hälsa instrumentpanelen har antecknat något om löpande underhåll för din innehavare, kan det vara en webbläsare caching problemet.
+-   Planerade eller aktiva underhållsåtgärd.  Kontrollera dem genom att navigera till [Message Center](https://portal.office.com/adminportal/home#/messagecenter).
+-   En hög prioritet, aktiv tjänst tillbud som kan ske. Kontrollera alla rekommendationerna/incidenter genom att navigera till [Tjänsten hälsa](https://portal.office.com/adminportal/home#/servicehealth).
+-   En mindre smart automatisk återställningsscenario som kan bero på grund av oväntade händelser på servrar som kan pågå i minst 30 min eller så. 
+    
+    Det finns inga Message Center eller tjänsten hälsa bokförs för dessa mindre återställningar, men du bör vara tillbaka till normal mycket snart.
+
+Vid mycket få tillfällen observerade vi att en av tre scenarier som anges ovan har varit orsaken, och tjänsten har återställts, men användare webbläsarens cacheminne har rensats.
 
 Försök att rensa webbläsarens cacheminne innan navigera till webbplatsen.
 

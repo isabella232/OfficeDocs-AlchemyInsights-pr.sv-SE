@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 19f21e93419a208229c64c874748f5f94acfe8b4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4400fa666e0f4485286793a8703f82606702e6cf
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494169"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36576074"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>Om du avbryter din prenumeration på Office 365?
 
@@ -24,8 +24,8 @@ Vi beklagar att du gå, men här är dina alternativ för att avbryta prenumerat
   
 - Om du är en utvärderingsversion kund, finns det inget att avbryta. Prova abonnemang upphör automatiskt om du inte anger en betalningsmetod.
 
-- Om du har färre än 25 tilldelade licenser kan du avbryta prenumerationen online. Gå till **Fakturering** \> [abonnemang](https://go.microsoft.com/fwlink/p/?linkid=842054)och välj **Fler åtgärder** \> **Avbryt prenumeration**.
+- Om du har färre än 25 tilldelade licenser kan du avbryta prenumerationen online. Gå till **Fakturering** \> [produkter & tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054). Välj **Avbryt prenumeration**i avsnittet **Inställningar för & åtgärder** .
 
 - Om du har mer än 25 tilldelade licenser kan du antingen ta bort användare förrän du har färre än 25 eller använda alternativet ”Låt oss ringa dig” tala med en supporttekniker.
 
-- Om du vill veta mer om hur du avbryter en prenumeration eller steg för steg-instruktioner finns i [avbryta prenumerationen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Använder du det gamla administratörscenter? För gamla steg eller mer information finns i [avbryta prenumerationen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

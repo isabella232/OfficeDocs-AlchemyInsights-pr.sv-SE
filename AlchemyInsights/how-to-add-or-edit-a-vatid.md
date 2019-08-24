@@ -12,16 +12,16 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 870f81742c13b143a0b99e2ce126d9b696e72d28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ff90ca14e4036b9a3b470e08cf749fd437ba6d78
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522629"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575016"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Lägga till eller redigera en VatID
 
-1.  Gå till **Fakturering** i Microsoft 365 administratörscenter, \> [produkter & servicces](https://go.microsoft.com/fwlink/p/?linkid=842054) sida.
+1.  Gå till **Fakturering** i Microsoft 365 administratörscenter, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjänster.
 
 2. Hitta abonnemangskort för abonnemanget som du vill uppdatera.
 
@@ -31,4 +31,8 @@ ms.locfileid: "36522629"
 
     När du är färdig kommer du inte debiteras moms på din nästa faktura.
 
-Mer information finns i [vilken moms ska jag debiteras för Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) eller [Lägg till moms-ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+Använder du det gamla administratörscenter? För gamla steg eller mer, se [vilken moms ska jag debiteras för Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+
+**Ytterligare resurser**
+
+[Lägga till moms-ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
