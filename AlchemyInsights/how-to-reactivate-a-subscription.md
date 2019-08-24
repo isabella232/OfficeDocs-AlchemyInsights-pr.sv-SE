@@ -13,27 +13,23 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 886f6933daed7fc21c858591286b05b7093d627e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390854"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539947"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Återaktivera en prenumeration
 
 Om prenumerationen har gått ut, avbrutits eller inaktiverats av Microsoft, kan du återaktivera den i administrationscentret för Microsoft 365.
   
-1. Gå till sidan **Fakturering** \> [Prenumerationer](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrationscentret.
+1. I administrationscentret går du till sidan **Fakturering** \> [Produkter och tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Välj den prenumeration som du vill återaktivera.
+2. Under **Fakturering** bredvid **Förnyas den** eller **Gäller till** väljer du **Redigera**. 
 
-3. Välj knappen **Återaktivera** till höger.
+3. Välj det alternativ du vill använda i fönstret **Inställningar för återkommande fakturering**. Om du redan har stängt av återkommande fakturering väljer du **Varje månad** eller **En gång** för att aktivera funktionen.
 
-4. Du uppmanas att uppdatera betalningsinformationen. När all information är korrekt väljer du **Skicka**.
+4. Välj **Skicka ändring**.
 
-5. Ett bekräftelsemeddelande visas längst ned på skärmen. Välj **Stäng** för att återgå till sidan **Prenumerationer**.
-
-6. Om prenumerationen inte visas som Aktiv efter några minuter uppdaterar du sidan.
-
-Mer information finns i: [Förnya Office 365 för företag](https://docs.microsoft.com/sv-SE/office365/admin/subscriptions-and-billing/renew-your-subscription)
+Mer information finns i: [Förnya Office 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)
