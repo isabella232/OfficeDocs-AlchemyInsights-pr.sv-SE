@@ -13,23 +13,23 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539947"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574780"
 ---
-# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="42aea-102">Återaktivera en prenumeration</span><span class="sxs-lookup"><span data-stu-id="42aea-102">How to reactivate a subscription</span></span>
+# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="b89ce-102">Återaktivera en prenumeration</span><span class="sxs-lookup"><span data-stu-id="b89ce-102">How to reactivate a subscription</span></span>
 
-<span data-ttu-id="42aea-103">Om prenumerationen har gått ut, avbrutits eller inaktiverats av Microsoft, kan du återaktivera den i administrationscentret för Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="42aea-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="b89ce-103">Om prenumerationen har gått ut, avbrutits eller inaktiverats av Microsoft, kan du återaktivera den i administrationscentret för Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="b89ce-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="42aea-104">I administrationscentret går du till sidan **Fakturering** \> [Produkter och tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="42aea-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="b89ce-104">I administrationscentret går du till sidan **Fakturering** \> [Produkter och tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="b89ce-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="42aea-105">Under **Fakturering** bredvid **Förnyas den** eller **Gäller till** väljer du **Redigera**. </span><span class="sxs-lookup"><span data-stu-id="42aea-105">Under **Billing**, next to **Renews on** or **Expiring on**, select **Edit**.</span></span>
+2. <span data-ttu-id="b89ce-105">Leta reda på den prenumeration som du vill återaktivera.</span><span class="sxs-lookup"><span data-stu-id="b89ce-105">Choose the subscription that you want to renew.</span></span> <span data-ttu-id="b89ce-106">I avsnittet **Fakturering** väljer du **Återaktivera**.</span><span class="sxs-lookup"><span data-stu-id="b89ce-106">In the **Billing** section, choose **Reactivate**.</span></span>
 
-3. <span data-ttu-id="42aea-106">Välj det alternativ du vill använda i fönstret **Inställningar för återkommande fakturering**.</span><span class="sxs-lookup"><span data-stu-id="42aea-106">In the **Recurring billing settings** pane, select the option you want.</span></span> <span data-ttu-id="42aea-107">Om du redan har stängt av återkommande fakturering väljer du **Varje månad** eller **En gång** för att aktivera funktionen.</span><span class="sxs-lookup"><span data-stu-id="42aea-107">If recurring billing is already turned off, select **Monthly** or **Once** to turn it on.</span></span>
+    <span data-ttu-id="b89ce-107">Om inte **Återaktivera** är tillgängligt kontaktar du supporten för att återaktivera prenumerationen.</span><span class="sxs-lookup"><span data-stu-id="b89ce-107">If you don't see **Reactivate** as an available action, call support to reactivate your subscription.</span></span>
 
-4. <span data-ttu-id="42aea-108">Välj **Skicka ändring**.</span><span class="sxs-lookup"><span data-stu-id="42aea-108">Select **Submit change**.</span></span>
+3. <span data-ttu-id="b89ce-108">Bekräfta din betalningsinformation.</span><span class="sxs-lookup"><span data-stu-id="b89ce-108">Confirm your payment details.</span></span> <span data-ttu-id="b89ce-109">Du kan uppdatera den befintliga betalningsinformationen här.</span><span class="sxs-lookup"><span data-stu-id="b89ce-109">You can update your existing payment information here.</span></span> <span data-ttu-id="b89ce-110">När du har angett din betalningsmetod väljer du **Återaktivera**.</span><span class="sxs-lookup"><span data-stu-id="b89ce-110">When you're finished entering your payment method, choose **Reactivate**.</span></span>
 
-<span data-ttu-id="42aea-109">Mer information finns i: [Förnya Office 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="42aea-109">For more information, see: [Renew Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)</span></span>
+<span data-ttu-id="b89ce-111">Använder du det gamla administrationscentret?</span><span class="sxs-lookup"><span data-stu-id="b89ce-111">Are you using the old admin center?</span></span> <span data-ttu-id="b89ce-112">Se [Återaktivera prenumerationen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription) för gamla steg eller för mer information.</span><span class="sxs-lookup"><span data-stu-id="b89ce-112">For old steps, or to learn more, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
