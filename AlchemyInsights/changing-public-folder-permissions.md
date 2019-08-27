@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: edcbab6f-09f6-44d7-9426-a2fcdda265db
-ms.openlocfilehash: 0573a98b82539865d9ed1b16e12896e2e7879961
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bc08ef6df1afb98653bb682302433d532d64c6ea
+ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520613"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631681"
 ---
 # <a name="changing-public-folder-permissions"></a>Ändra behörigheter för delade mappar
 
 Du och dina användare kan ändra behörighet för gemensamma mappar i Outlook. Se [Ange eller ändra behörigheter för en gemensam mapp](https://support.office.com/article/set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005). Administratörer kan också ändra behörigheter i Exchange administratörscenter:
   
-- Gå till **Admin Centrerar** i Microsoft 365 administratörscenter, \> **Exchange**.
+1.  Gå till **Admin Centrerar** i Microsoft 365 administratörscenter, \> **Exchange**.
     
-- Välj **gemensamma mappar**.
+2. Välj **gemensamma mappar**.
     
 Härifrån kan ändra du behörigheter för enskilda delade mappar genom att tilldela behörigheter användare av säkerhetsgrupper. Om du vill ändra behörigheter för en gemensam mapp måste du vara ägare till den.
   
