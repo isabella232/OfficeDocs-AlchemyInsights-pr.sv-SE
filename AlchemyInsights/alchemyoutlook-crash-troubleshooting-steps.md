@@ -1,9 +1,8 @@
 ---
-title: Alkemi - Outlook kraschar felsökning
+title: Alchemy-felsökningssteg för Outlook krasch
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -14,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: f5caf2c49bc9967d17376159cf93a16930d30982
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bcc23c54e38c0e3f06c243c53a6cc7fd1f8e7c0e
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505417"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664590"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>Outlook kraschar felsökning
+# <a name="outlook-crash-troubleshooting-steps"></a>Felsökningssteg för Outlook-krasch
 
-Om du har problem med fjärrskrivbord kraschar Outlook startar enligt instruktionerna 3 nedan, som listas i detalj i den här artikeln: [Felsökning av problem som kan medföra att Outlook kraschar eller låser sig när det används med Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+Om du har problem med Outlook-skrivbordet krasch, börja med att följa de tre stegen nedan, som alla anges i detalj i den här artikeln: [Felsökning av problem som medför att Outlook kraschar eller slutar svara när det används med Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
   
-Steg 1: Undersöka möjliga problem med tillägg.
+Steg 1: Undersök möjliga problem med tillägg.
   
-Steg 2: Reparera Outlook och kör [Support och återställning assistenten för att felsöka eventuella startfel för Outlook](https://aka.ms/SaRA-OutlookWontStart) på datorn.
+Steg 2: reparera Outlook och kör [verktyget support och återställning assistenten](https://aka.ms/SaRA-OutlookWontStart) för att felsöka start fel i Outlook på den aktuella datorn.
   
-Steg 3: Skapa en ny Outlook-profil eller du kan använda [verktyget för Outlook-profil](https://aka.ms/SaRA-OutlookSetupProfile) på datorn.
+Steg 3: skapa en ny Outlook-profil eller kör [Outlook-profilverktyget](https://aka.ms/SaRA-OutlookSetupProfile) på den aktuella datorn.
   
-Om problemet uppstod efter en uppdatering och stegen ovan inte fungerar, kan du behöva återgå till en tidigare version. Lär dig mer om [du vill återgå till en tidigare version av Office 2013 eller Office 2016 Klicka-och-kör](https://support.microsoft.com/help/2770432).
+Om problemet uppstod efter en uppdatering och stegen ovan inte fungerar, kan du behöva återgå till en tidigare version. Se [hur du återgår till en tidigare version av Office 2016 Klicka-och-kör](https://support.microsoft.com/help/2770432).
   

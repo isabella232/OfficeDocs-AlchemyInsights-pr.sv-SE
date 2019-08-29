@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574560"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663978"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Aktivera och hantera återkommande fakturering
 
@@ -32,7 +32,7 @@ Ser ut som du har en prenumeration har gått ut. Om du vill återaktivera det, h
 
 3. Bekräfta din betalningsinformation. Du kan uppdatera din befintliga betalningsinformation här. När du är klar med att ange din betalningsmetod, Välj **Aktivera**.
 
-Använder du det gamla administratörscenter? För gamla steg eller mer finns i [Aktivera din prenumeration](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Mer information finns i [Reaktivera din prenumeration](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Om du vill hantera årsvis eller månadsvis fakturering du kan växla **återkommande fakturering** eller inaktivera.
   
@@ -46,4 +46,4 @@ Om du vill hantera årsvis eller månadsvis fakturering du kan växla **återkom
 
 5. Välj **Skicka ändra**.
 
-Använder du det gamla administratörscenter? För gamla steg eller mer finns i [Aktivera återkommande fakturering eller inaktivera](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Se [Aktivera återkommande fakturering eller inaktivera](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)om du vill veta mer.

@@ -13,30 +13,28 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495049"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661026"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Lägga till platser i ett förbetalt abonnemang
 
-Förutbetalda Office 365-licenser utfärdas till dig som en alfanumerisk kod på 25 tecken. När du har köpt licenser måste du lägga till dem i prenumerationen. 
+Förutbetalda Office 365 licenser utfärdas till dig som en alfanumerisk kod på 25 tecken. När du har köpt de licenser du behöver kan du lägga till dem i din prenumeration. 
 
-1. Gå till **Fakturering**i administratörscenter, > [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjänster.
+1. Gå till sidan **fakturering** > [produkter _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) i administratörscenter.
 
-2. Hitta det abonnemang som du vill lägga till licenser. Markera listan **Fler åtgärder** och välj sedan **Förnya eller Lägg till licens med token**.
+2. Leta reda på prenumerationen som du vill lägga till licenser för. I avsnittet **licenser** väljer du **Lägg till fler licenser**.
 
-3. På den **Förnya eller lägga till användarlicenser** sidan, markerar du **Använd en ny och oanvänd produktnyckel**, och välj sedan **Nästa**.
+3. I fönstret **Lägg till fler licenser** väljer du **Använd en ny och oanvänd produkt nyckel och**väljer sedan **Nästa**.
 
 4. Ange produktnyckeln och välj sedan **Nästa**.
 
     > [!NOTE]
-    > Om du har mer än en produktnyckel väljer du **Lägg till en annan produktnyckel för** att ange dem.
+    > Om du har mer än en produkt nyckel kan du välja **Lägg till en annan produkt nyckel** för att ange dem.
 
-5. Välja att lägga till användare till abonnemanget, och välj sedan **Nästa**.
+5. Granska din orderinformation och välj sedan **Lös in**.
 
-6. Granska dina beställningsuppgifter och sedan **lösa in**.
-
-Mer information finns i [lägga till licenser till eller utöka en prenumeration som betalas med en produktnyckel](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Mer information finns i [lägga till licenser till eller utöka en prenumeration som betalats för att använda en produkt nyckel](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

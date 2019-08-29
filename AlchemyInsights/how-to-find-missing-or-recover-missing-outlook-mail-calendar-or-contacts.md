@@ -1,9 +1,8 @@
 ---
-title: 204 hur du hittar saknas eller återställa Outlook e-post, kalender eller kontakter saknas
+title: 204 hur du hittar saknade eller återställa saknas Outlook e-post, kalender eller kontakter
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 9/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: ffedca61f5915c0a32a7e0ca903703802667b64e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b9e602538d3c3e83b681cf644fd63c223bdbac93
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540667"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664189"
 ---
-# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Hitta och återställa saknade meddelanden, kontakter och kalenderobjekt i Outlook
+# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Så här hittar och återställer du saknade meddelanden, kontakter eller kalenderobjekt i Outlook
 
-- Du kan använda som [jag har problem med att skicka, ta emot, eller för att hitta verktyg för e-postmeddelanden](https://aka.ms/SaRA-OutlookSendReceive) på datorn. Det här verktyget kontrolleras för ett antal problem och möjliga lösningar föreslås.
+- Du kan använda [verktyget jag har problem med att skicka, ta emot eller hitta e-postmeddelanden](https://aka.ms/SaRA-OutlookSendReceive) på den aktuella datorn. Detta verktyg kommer att kontrollera om ett antal frågor och kommer att föreslå möjliga lösningar.
 
-- [Avgöra om kontot är komprometterat](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Om äventyras, följer du stegen i [svarar på en avslöjade e-postkonto i Office 365.](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account)
+- [Avgöra om kontot är komprometterat](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Om komprometteras följer du stegen i [svara på ett komprometterat e-postkonto i Office 365.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
 
-- [Sök efter meddelandet eller objekt med Snabbsökning](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+- [Hitta meddelandet eller objektet med Snabbsökning](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
 
 - [Återskapa borttagna objekt i Outlook för Windows](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)

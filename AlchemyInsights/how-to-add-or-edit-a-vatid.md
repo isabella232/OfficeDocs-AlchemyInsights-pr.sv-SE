@@ -1,5 +1,5 @@
 ---
-title: Lägga till eller redigera en VatID
+title: Så här lägger du till eller redigerar en VatID
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,27 +12,27 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff90ca14e4036b9a3b470e08cf749fd437ba6d78
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575016"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664338"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a>Lägga till eller redigera en VatID
+# <a name="how-to-add-or-edit-a-vatid"></a>Så här lägger du till eller redigerar en VatID
 
-1.  Gå till **Fakturering** i Microsoft 365 administratörscenter, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjänster.
+1. I Microsoft 365 administratörscenter går du till sidan **fakturerings** \> [produkter _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Hitta abonnemangskort för abonnemanget som du vill uppdatera.
+2. Leta reda på prenumerationskortet för prenumerationen som du vill uppdatera.
 
-3. Välj **Redigera-adress för användning**i avsnittet **Inställningar för & åtgärder** .
+3. I avsnittet **Inställningar _ amp _ åtgärder** väljer du **Redigera Tjänstanvändningsadress**.
 
-4. På sidan **Redigera-användning-adress** ange moms-ID i rutan **momsnummer** och välj **Spara**.
+4. På sidan **Redigera din Tjänstanvändningsadress** anger du ditt moms-ID i rutan **momsnummer** och väljer sedan **Spara**.
 
-    När du är färdig kommer du inte debiteras moms på din nästa faktura.
+    När du är klar kommer MOMSEN inte att debiteras på din nästa faktura.
 
-Använder du det gamla administratörscenter? För gamla steg eller mer, se [vilken moms ska jag debiteras för Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+Om du vill veta mer, se [vilken skatt kommer jag att debiteras för Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
 
 **Ytterligare resurser**
 
-[Lägga till moms-ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+[Lägg till ditt momsregistreringsnummer](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).

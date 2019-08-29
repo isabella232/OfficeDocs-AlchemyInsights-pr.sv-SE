@@ -2,7 +2,6 @@
 title: Aktivera en Arkivera postlåda
 ms.author: markjjo
 author: markjjo
-ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 9007c4ee7484cb6fdf80e76c08720a5723bfa20a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f7b18ebd330c764c73a8f760a0d837686b9c5c72
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527814"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665168"
 ---
 # <a name="enable-an-archive-mailbox"></a>Aktivera en Arkivera postlåda
 
-Arkivera e-postlådor i Office 365 (kallas även *Online Arkiv* ) ger användarna ytterligare e-lagring. Användare kan flytta eller kopiera objekt till deras Arkivera postlåda och administratörer kan skapa en arkiveringsprincip som automatiskt flyttar objekt att arkivera e-postlådor.
+Arkivera e-postlådor i Office 365 (kallas även *Online Arkiv*) ger användarna ytterligare e-lagring. Användare kan flytta eller kopiera objekt till deras Arkivera postlåda och administratörer kan skapa en arkiveringsprincip som automatiskt flyttar objekt att arkivera e-postlådor.
   
 Här är hur du skapar en postlåda i arkivet:
   
@@ -28,13 +27,13 @@ Här är hur du skapar en postlåda i arkivet:
 
 2. Logga in på Office 365 med ditt administratörskonto.
 
-3. I den vänstra delen av säkerheten &amp; regelefterlevnadscentret, klickar du på **Data governance** \> **Arkiv**.
+3. I den vänstra delen av säkerheten &amp; regelefterlevnadscentret, Välj **Data governance** \> **Arkiv**.
 
 4. Markera den användare vars Arkivera postlåda som du vill aktivera.
 
-5. Klicka på **Aktivera** i informationsfönstret till höger och klicka sedan på **Ja** i varningsmeddelandet om att arkivera postlåda.
+5. Markera **Aktivera** i informationsfönstret till höger och välj sedan **Ja** i varningsmeddelandet om att arkivera postlåda.
 
-Du kan också bulk-aktivera Arkivera e-postlådor genom att markera flera användare (med hjälp av tangenterna **SKIFT** eller **Ctrl** ) och sedan klicka på **Aktivera** i informationsfönstret.
+Du kan också bulk-aktivera Arkivera e-postlådor genom att markera flera användare (med hjälp av tangenterna **SKIFT** eller **Ctrl** ) och sedan välja **Aktivera** i informationsfönstret.
   
 Mer information finns i:
   

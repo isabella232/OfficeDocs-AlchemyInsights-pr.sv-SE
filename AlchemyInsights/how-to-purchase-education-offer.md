@@ -1,5 +1,5 @@
 ---
-title: Hur du köper erbjuder utbildning
+title: Så här köper du utbildningserbjudande
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,25 +14,25 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: e83c61a479e438d50e5592b4930edc71ae797784
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 8a93e783c590559b850c53841a61e2afb57f9eba
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574816"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663942"
 ---
-# <a name="how-to-purchase-education-offer"></a>Hur du köper erbjuder utbildning
+# <a name="how-to-purchase-education-offer"></a>Så här köper du utbildningserbjudande
 
-Du har godkänts för Office 365-utbildning. Så här köper du:
+Du har godkänts för Office 365 Education. Att köpa:
   
-1. Gå till **Fakturering** i administratörscenter, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjänster.
+1. Gå till sidan **fakturering** \> [produkter _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) i administratörscenter.
 
-2. Välj test för **studenter och lärare**.
+2. Välj provperiod för **studenter eller fakultet**.
 
-3. Välj **köp prenumeration**i avsnittet **licenser** .
+3. I avsnittet **licenser** väljer du **Köp prenumeration**.
 
-4. Följ de återstående instruktionerna för att checka ut.
+4. Följ de återstående stegen för att checka ut.
 
-Gå till **Fakturering** om du vill köpa en prenumeration än vad som finns i trial \> [Köpa tjänster](https://go.microsoft.com/fwlink/p/?linkid=868433) sida och välj i listan under **Utbildning planer**.
+Om du vill köpa ett annat abonnemang än det som ingår i utvärderingsversionen går du till sidan **fakturering** \> [Köp tjänster](https://go.microsoft.com/fwlink/p/?linkid=868433) och väljer från listan under **utbildningsplaner**.
 
-Använder du det gamla administratörscenter? För gamla steg eller mer information finns i [köpa samma plan som din provperiod](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).
+Mer information finns [i köpa samma plan som din utvärderingsversion](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).
