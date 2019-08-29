@@ -1,5 +1,5 @@
 ---
-title: Lägga till eller redigera en VatID
+title: Så här lägger du till eller redigerar en VatID
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,27 +12,27 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff90ca14e4036b9a3b470e08cf749fd437ba6d78
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575016"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664338"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a><span data-ttu-id="8eeca-102">Lägga till eller redigera en VatID</span><span class="sxs-lookup"><span data-stu-id="8eeca-102">How to add or edit a VatID</span></span>
+# <a name="how-to-add-or-edit-a-vatid"></a><span data-ttu-id="e5fa2-102">Så här lägger du till eller redigerar en VatID</span><span class="sxs-lookup"><span data-stu-id="e5fa2-102">How to add or edit a VatID</span></span>
 
-1.  <span data-ttu-id="8eeca-103">Gå till **Fakturering** i Microsoft 365 administratörscenter, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjänster.</span><span class="sxs-lookup"><span data-stu-id="8eeca-103">In the Microsoft 365 admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="e5fa2-103">I Microsoft 365 administratörscenter går du till sidan **fakturerings** \> [produkter _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="e5fa2-103">In the Microsoft 365 admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="8eeca-104">Hitta abonnemangskort för abonnemanget som du vill uppdatera.</span><span class="sxs-lookup"><span data-stu-id="8eeca-104">Find the subscription card for the subscription you want to update.</span></span>
+2. <span data-ttu-id="e5fa2-104">Leta reda på prenumerationskortet för prenumerationen som du vill uppdatera.</span><span class="sxs-lookup"><span data-stu-id="e5fa2-104">Find the subscription card for the subscription you want to update.</span></span>
 
-3. <span data-ttu-id="8eeca-105">Välj **Redigera-adress för användning**i avsnittet **Inställningar för & åtgärder** .</span><span class="sxs-lookup"><span data-stu-id="8eeca-105">In the **Settings & Actions** section, select **Edit service usage address**.</span></span>
+3. <span data-ttu-id="e5fa2-105">I avsnittet **Inställningar _ amp _ åtgärder** väljer du **Redigera Tjänstanvändningsadress**.</span><span class="sxs-lookup"><span data-stu-id="e5fa2-105">In the **Settings & Actions** section, select **Edit service usage address**.</span></span>
 
-4. <span data-ttu-id="8eeca-106">På sidan **Redigera-användning-adress** ange moms-ID i rutan **momsnummer** och välj **Spara**.</span><span class="sxs-lookup"><span data-stu-id="8eeca-106">On the **Edit your service usage address** page, enter your VAT ID in the **VAT number** box, and then select **Save**.</span></span>
+4. <span data-ttu-id="e5fa2-106">På sidan **Redigera din Tjänstanvändningsadress** anger du ditt moms-ID i rutan **momsnummer** och väljer sedan **Spara**.</span><span class="sxs-lookup"><span data-stu-id="e5fa2-106">On the **Edit your service usage address** page, enter your VAT ID in the **VAT number** box, and then select **Save**.</span></span>
 
-    <span data-ttu-id="8eeca-107">När du är färdig kommer du inte debiteras moms på din nästa faktura.</span><span class="sxs-lookup"><span data-stu-id="8eeca-107">When complete, VAT will not be charged on your next bill.</span></span>
+    <span data-ttu-id="e5fa2-107">När du är klar kommer MOMSEN inte att debiteras på din nästa faktura.</span><span class="sxs-lookup"><span data-stu-id="e5fa2-107">When complete, VAT will not be charged on your next bill.</span></span>
 
-<span data-ttu-id="8eeca-108">Använder du det gamla administratörscenter?</span><span class="sxs-lookup"><span data-stu-id="8eeca-108">Are you using the old admin center?</span></span> <span data-ttu-id="8eeca-109">För gamla steg eller mer, se [vilken moms ska jag debiteras för Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)</span><span class="sxs-lookup"><span data-stu-id="8eeca-109">For old steps, or to learn more,see [What tax will I be charged for Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)</span></span>
+<span data-ttu-id="e5fa2-108">Om du vill veta mer, se [vilken skatt kommer jag att debiteras för Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)</span><span class="sxs-lookup"><span data-stu-id="e5fa2-108">To learn more,see [What tax will I be charged for Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)</span></span>
 
-<span data-ttu-id="8eeca-110">**Ytterligare resurser**</span><span class="sxs-lookup"><span data-stu-id="8eeca-110">**Additional resources**</span></span>
+<span data-ttu-id="e5fa2-109">**Ytterligare resurser**</span><span class="sxs-lookup"><span data-stu-id="e5fa2-109">**Additional resources**</span></span>
 
-<span data-ttu-id="8eeca-111">[Lägga till moms-ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span><span class="sxs-lookup"><span data-stu-id="8eeca-111">[Add your VAT ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span></span>
+<span data-ttu-id="e5fa2-110">[Lägg till ditt momsregistreringsnummer](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span><span class="sxs-lookup"><span data-stu-id="e5fa2-110">[Add your VAT ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).</span></span>
