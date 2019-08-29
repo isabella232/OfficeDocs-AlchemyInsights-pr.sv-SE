@@ -1,9 +1,8 @@
 ---
-title: 1385-office-365-varning-principer
+title: 1385-Office-365-Alert-policies
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,36 +12,36 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 46a029f262fa05edffa6f681c7205e289fe448c5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496370"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661314"
 ---
-# <a name="office-365-alert-policies"></a>Alert principer för Office 365
+# <a name="office-365-alert-policies"></a>Office 365 Alert principer
 
-_AMP_ Office 365 säkerhet regelefterlevnadscentret erbjuder [standardprinciper för aviseringar](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) som utlöser varningar för organisationer med Office 365 Enterprise eller Office 365 oss regering E1/G1, E3/G3 eller E5/G5-prenumeration. Administratörer kan därför få en avisering e-postmeddelanden som skickas av Office365Alerts@microsoft.com med en ämnesrad som ”en låg allvarlighetsgrad varning:*namnet på alert principen*”. En varning skickas meddelanden när Notifieringar initieras för vanliga aktiviteter, till exempel när användare:
+Office 365 Security _ amp _ Compliance Center erbjuder [standard aviserings principer](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) som utlöser aviseringar för organisationer med en Office 365 Enterprise eller Office 365 US Government E1/G1, E3/G3 eller E5/G5-prenumeration. Administratörer kan därför få en avisering e-postmeddelande som skickas av Office365Alerts@microsoft.com med en ämnesrad som "en varning för låg allvarlighetsgrad: *namnet på aviserings principen*". Varningsmeddelanden skickas när aviseringar utlöses för vanliga aktiviteter, till exempel när användare:
 
-- Skapa regler för Inkorgen som vidarebefordrar e-post.
-- Tilldela behörigheter till sin postlåda.
+- Skapa inkorgsregler som vidarebefordrar e-post.
+- Tilldela behörigheter deras postlåda.
 - Dela eller ta bort ett stort antal filer i SharePoint-fildelning.
-- Skapa e-informationsavslöjande sökningar och exportera sökresultat.
+- Skapa e-informationsavslöjande sökningar och Exportera sökresultat.
 
-Granska och vidta åtgärder för en varning:
+Så här granskar och agerar du på en avisering:
 
-1. Gå till [säkerhet & regelefterlevnadscentret](https://protection.office.com) och logga in.
-2. Klicka på **varningar > Visa notifieringar**.
+1. Gå till [Security _ amp _ Compliance Center](https://protection.office.com) och logga in.
+2. Klicka på **aviseringar** > **Visa aviseringar**.
 3. Klicka på en avisering om du vill visa en utfällbar sida med information om aviseringen.
 
-Du kan utföra åtgärder på en avisering, till exempel [Ta bort en Inkorgsregel misstänkta](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Eller du kan bara stänga varningen genom att klicka på **Matcha** på sidan alert utfällbar.
+Du kan vidta åtgärder för en avisering, till exempel [ta bort en misstänkt inkorgsregel](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Eller du kan helt enkelt stänga aviseringen genom att klicka på **Lös** på den utfällbara aviseringssidan.
 
-Mer information om att konfigurera och hantera aviseringar principer finns i [denna artikel](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+Mer information om hur du konfigurerar och hanterar aviserings principer finns i [den här artikeln](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
 
-**Viktigt**: Alert e-postmeddelanden från Microsoft aldrig ber dig göra följande:
+**Viktigt**: Alert e-postaviseringar från Microsoft kommer aldrig att be dig att göra följande:
 
-- Ange ett lösenord.
-- Kontrollera säkerhetsinformation för ditt konto.
-- Verifiera dig igen.
+- Ange ett lösenord
+- Kontrollera säkerhetsdetaljerna för ditt konto
+- Omautentisera dig själv
 
-Om du får ett e-postmeddelande så här skickades inte av Microsoft och bör betraktas som ett phishing-bedrägeri. Om detta inträffar du [Rapportera det till Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Om du får ett e-postmeddelande som detta, skickades det inte av Microsoft och bör betraktas som ett phishing-bedrägeri. Om det händer [ska du anmäla det till Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).

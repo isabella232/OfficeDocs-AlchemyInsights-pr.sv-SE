@@ -1,9 +1,8 @@
 ---
-title: Lägga till eller minska antalet licenser
+title: Så här lägger du till eller minskar licenser
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,33 +12,33 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 64a7566ff4e1759e8687179d49bac47f7e28bf6a
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574960"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664302"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Lägga till eller minska antalet licenser
+# <a name="how-to-add-or-reduce-licenses"></a>Så här lägger du till eller minskar licenser
 
-Här beskrivs hur du tar bort eller köpa fler licenser för Office 365.
+Så här tar du bort Office 365-licenser eller köper fler licenser.
   
-1. Gå till **Fakturering** i administratörscenter, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjänster.
+1. Gå till sidan **fakturering** \> [produkter _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) i administratörscenter.
 
-2. Välj den prenumeration som du vill lägga till eller ta bort licenser.
+2. Välj den prenumeration som du vill lägga till/ta bort licenser från.
 
 3. Välj **Lägg till/ta bort licenser**.
 
 4. Ange det totala antalet användare som behövs.
 
-    Om du har för närvarande 25 licenser och du vill ta bort 5, anger du bara 20 i det här fältet.
+    Om du till exempel har 25 licenser och vill ta bort 5 anger du 20 i det här fältet.
 
-5. Välj **Skicka ändra**.
+5. Välj **Skicka ändring**.
 
 > [!NOTE]
-> En ny avgift (licens ökning) eller kredit (licens minskning) kommer att visas på din nästa faktura.
+> Alla nya avgifter (licens ökning) eller kredit (licens minskning) kommer att dyka upp på din nästa faktura.
 
-Använder du det gamla administratörscenter? För gamla steg eller mer information finns i [köpa licenser för din Office 365 för business-prenumeration](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Mer information finns i [köpa licenser för din Office 365 för Business-prenumeration](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
  **Ytterligare resurser**
   

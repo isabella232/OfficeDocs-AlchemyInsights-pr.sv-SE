@@ -2,7 +2,6 @@
 title: Ställa in projekt
 ms.author: pebaum
 author: pebaum
-ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +11,17 @@ ms.custom:
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
 description: Mer än 500 ord för en artikel som mål.
-ms.openlocfilehash: 551ccbb34135b415fa90893ac3e6230762e718b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0a9d519b34dad0519cc2a1dbf6a8ed26e73b04d8
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508873"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666210"
 ---
 # <a name="setting-up-project"></a>Ställa in projekt
 
-Ser ut som om du behöver hjälp med att konfigurera Project med Office 365-prenumeration.
-För Mac-användare: The Project-produkten är inte tillgänglig för MacOS just nu. Om du har en dator bör du kunna installera programvara med stegen nedan.
+ Följ stegen i [den här artikeln](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)om du vill installera Microsoft Project.
+
+**För Mac-användare:** Projekt-produkten är inte tillgänglig för MacOS. 
   
-Du kan följa instruktionerna i [denna artikel](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)att installationen slutförts.
-  
-Om du kör i fel under installationen, [Installera Project med Support och återställning assistenten](https://aka.ms/SaRA-ProjectSetupScenario)
+Om du kör i fel under installationen, [Installera Project med Support och återställning assistenten](https://aka.ms/SaRA-ProjectSetupScenario).

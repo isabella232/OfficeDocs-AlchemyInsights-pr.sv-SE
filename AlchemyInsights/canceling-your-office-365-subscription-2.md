@@ -1,5 +1,5 @@
 ---
-title: Avbryta din Office 365-prenumeration?
+title: Avbryter du prenumerationen på Office 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,19 +13,19 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 75ce59fedadc22291062affd2220b08057910966
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576110"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665490"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Avbryta din Office 365-prenumeration?
+# <a name="canceling-your-office-365-subscription"></a>Avbryter du prenumerationen på Office 365?
 
-Vi beklagar att du går!
+Vi är ledsna att se dig gå!
   
-Utifrån dina organisationsdata tror vi dina aktuella prenumerationer har mer än 25 tilldelade licenser. Du kan ta bort användare förrän du har färre än 25 och sedan gå till **Fakturering** \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjänster. Välj **Avbryt prenumeration**i avsnittet **Inställningar för & åtgärder** .
+Baserat på dina organisations data anser vi att alla dina aktuella prenumerationer har fler än 25 tilldelade licenser. Du kan ta bort användare tills du har färre än 25 och sedan gå till sidan **fakturerings** \> [produkter _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) . I avsnittet **Inställningar _ amp _ åtgärder** väljer du **Avbryt prenumeration**.
   
-Du kan också välja **behöver hjälp** att tala med en supporttekniker.
+Du kan också välja **behöver hjälp** för att prata med en supporttekniker.
   
-Använder du det gamla administratörscenter? För gamla steg eller mer information finns i [avbryta prenumerationen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Mer information finns i [avbryta prenumerationen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

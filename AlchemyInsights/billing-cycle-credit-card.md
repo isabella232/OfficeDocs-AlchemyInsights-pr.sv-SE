@@ -1,9 +1,8 @@
 ---
-title: Fakturering cykel kreditkort
+title: Kreditkort för faktureringscykel
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 12/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +12,17 @@ ms.custom:
 - "485"
 - "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: c3d553d5ba7693a1bc2e8b74b5ba850b05167c53
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fc8d7dce6fdd1afc51424ecfd6e8359d2b793b6f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517769"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664806"
 ---
-# <a name="billing-cycle-credit-card"></a>Fakturering cykel kreditkort
+# <a name="payment-methods-for-office-365-for-business"></a>Betalningsmetoder för Office 365 för företag
 
-När du köper en Office 365 business abonnemang direkt från Microsoft kan du betala med ett kort med kredit- eller debetkonton. I vissa länder eller regioner kan du även betala med ett bankkonto.
+När du köper en Office 365 för Business-prenumeration direkt från Microsoft kan du betala med ett kredit-eller betalkort. I vissa länder eller regioner kan du också betala med ett bankkonto.
   
-Om du väljer att använda ett kreditkort som betalningsmetod kan du lära dig hur du hanterar och felsöker från att [lägga till, uppdatera eller ta bort ett kreditkort eller bankkonto i Office 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Om du väljer att använda ett kreditkort som betalningsmetod kan du lära dig hur du hanterar och felsöker från [Lägg till, uppdatera eller ta bort ett kreditkort eller bankkonto i Office 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
   
-Detta inkluderar att lösa problem när ditt kreditkort avvisas och ändra kreditkortsinformation så att kortet accepteras.
+Den här artikeln innehåller också felsökningsförslag för när ditt kreditkort avvisas och information om hur du ändrar kreditkortsinformation så att kortet accepteras.

@@ -1,9 +1,8 @@
 ---
-title: Växla till en annan Office 365 för Business Plan
+title: Växla till ett annat Office 365 för affärs plan
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +12,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 8177f08163c85856cf4446592d10177170ba1e28
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 2374f8e0c38b63bb45921ba78a2b56ad065ed49c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576002"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665994"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Växla till en annan Office 365 för Business Plan
+# <a name="switch-to-a-different-office-365-for-business-plan"></a>Växla till ett annat Office 365 för affärs plan
 
-När verksamheten ändras, eller om du behöver fler funktioner i Office 365, kan du uppgradera till en ny plan.
+När ditt företag ändras, eller om du behöver fler Office 365-funktioner, kan du uppgradera till en ny plan.
   
-1. Gå till **Fakturering** i administratörscenter, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjänster.
+1. Gå till sidan **fakturering** \> [produkter _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) i administratörscenter.
 
 2. Välj den prenumeration som du vill uppgradera.
 
-3. Välj **Uppgradera**på informationssidan för prenumerationer.
+3. På sidan Prenumerationsinformation väljer du **Uppgradera**.
 
-4. Hitta den plan som du vill uppgradera och sedan klicka på knappen **Uppgradera** .
+4. Leta reda på den plan som du vill uppgradera och välj sedan knappen **Uppgradera** .
 
-5. Ange antalet licenser som du behöver, Välj om du vill betala varje månad eller för hela året och sedan **Checka ut**.
-   
-Använder du det gamla administratörscenter? För gamla steg eller mer information finns i [Uppgradera till en annan plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+5. Ange antalet licenser som du behöver, Välj om du vill betala varje månad eller för hela året och välj sedan **kassan**.
+
+Mer information finns i [Uppgradera till en annan plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
