@@ -13,12 +13,12 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 62f7af474db4eb99563744cfe266e1eac92bf53d
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574780"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664014"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Återaktivera en prenumeration
 
@@ -32,4 +32,4 @@ Om prenumerationen har gått ut, avbrutits eller inaktiverats av Microsoft, kan 
 
 3. Bekräfta din betalningsinformation. Du kan uppdatera den befintliga betalningsinformationen här. När du har angett din betalningsmetod väljer du **Återaktivera**.
 
-Använder du det gamla administrationscentret? Se [Återaktivera prenumerationen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription) för gamla steg eller för mer information.
+Mer information finns i [Återaktivera prenumerationen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
