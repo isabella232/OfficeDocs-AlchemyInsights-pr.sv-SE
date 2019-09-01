@@ -13,23 +13,23 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 62f7af474db4eb99563744cfe266e1eac92bf53d
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574780"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664014"
 ---
-# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="b89ce-102">Återaktivera en prenumeration</span><span class="sxs-lookup"><span data-stu-id="b89ce-102">How to reactivate a subscription</span></span>
+# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="d6379-102">Återaktivera en prenumeration</span><span class="sxs-lookup"><span data-stu-id="d6379-102">How to reactivate a subscription</span></span>
 
-<span data-ttu-id="b89ce-103">Om prenumerationen har gått ut, avbrutits eller inaktiverats av Microsoft, kan du återaktivera den i administrationscentret för Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="b89ce-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="d6379-103">Om prenumerationen har gått ut, avbrutits eller inaktiverats av Microsoft, kan du återaktivera den i administrationscentret för Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="d6379-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="b89ce-104">I administrationscentret går du till sidan **Fakturering** \> [Produkter och tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="b89ce-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="d6379-104">I administrationscentret går du till sidan **Fakturering** \> [Produkter och tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="d6379-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="b89ce-105">Leta reda på den prenumeration som du vill återaktivera.</span><span class="sxs-lookup"><span data-stu-id="b89ce-105">Choose the subscription that you want to renew.</span></span> <span data-ttu-id="b89ce-106">I avsnittet **Fakturering** väljer du **Återaktivera**.</span><span class="sxs-lookup"><span data-stu-id="b89ce-106">In the **Billing** section, choose **Reactivate**.</span></span>
+2. <span data-ttu-id="d6379-105">Leta reda på den prenumeration som du vill återaktivera.</span><span class="sxs-lookup"><span data-stu-id="d6379-105">Choose the subscription that you want to renew.</span></span> <span data-ttu-id="d6379-106">I avsnittet **Fakturering** väljer du **Återaktivera**.</span><span class="sxs-lookup"><span data-stu-id="d6379-106">In the **Billing** section, choose **Reactivate**.</span></span>
 
-    <span data-ttu-id="b89ce-107">Om inte **Återaktivera** är tillgängligt kontaktar du supporten för att återaktivera prenumerationen.</span><span class="sxs-lookup"><span data-stu-id="b89ce-107">If you don't see **Reactivate** as an available action, call support to reactivate your subscription.</span></span>
+    <span data-ttu-id="d6379-107">Om inte **Återaktivera** är tillgängligt kontaktar du supporten för att återaktivera prenumerationen.</span><span class="sxs-lookup"><span data-stu-id="d6379-107">If you don't see **Reactivate** as an available action, call support to reactivate your subscription.</span></span>
 
-3. <span data-ttu-id="b89ce-108">Bekräfta din betalningsinformation.</span><span class="sxs-lookup"><span data-stu-id="b89ce-108">Confirm your payment details.</span></span> <span data-ttu-id="b89ce-109">Du kan uppdatera den befintliga betalningsinformationen här.</span><span class="sxs-lookup"><span data-stu-id="b89ce-109">You can update your existing payment information here.</span></span> <span data-ttu-id="b89ce-110">När du har angett din betalningsmetod väljer du **Återaktivera**.</span><span class="sxs-lookup"><span data-stu-id="b89ce-110">When you're finished entering your payment method, choose **Reactivate**.</span></span>
+3. <span data-ttu-id="d6379-108">Bekräfta din betalningsinformation.</span><span class="sxs-lookup"><span data-stu-id="d6379-108">Confirm your payment details.</span></span> <span data-ttu-id="d6379-109">Du kan uppdatera den befintliga betalningsinformationen här.</span><span class="sxs-lookup"><span data-stu-id="d6379-109">You can update your existing payment information here.</span></span> <span data-ttu-id="d6379-110">När du har angett din betalningsmetod väljer du **Återaktivera**.</span><span class="sxs-lookup"><span data-stu-id="d6379-110">When you're finished entering your payment method, choose **Reactivate**.</span></span>
 
-<span data-ttu-id="b89ce-111">Använder du det gamla administrationscentret?</span><span class="sxs-lookup"><span data-stu-id="b89ce-111">Are you using the old admin center?</span></span> <span data-ttu-id="b89ce-112">Se [Återaktivera prenumerationen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription) för gamla steg eller för mer information.</span><span class="sxs-lookup"><span data-stu-id="b89ce-112">For old steps, or to learn more, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
+<span data-ttu-id="d6379-111">Mer information finns i [Återaktivera prenumerationen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="d6379-111">To learn more, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
