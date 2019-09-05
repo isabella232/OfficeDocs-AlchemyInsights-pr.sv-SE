@@ -1,5 +1,5 @@
 ---
-title: Återställa borttagna användare
+title: Återställ borttagen användare
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,23 +13,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: be4ce067ba017a66aaff2e5808a904397c366bf5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551829"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745091"
 ---
 # <a name="restore-a-user-in-office-365"></a>Återställa en användare i Office 365
 
-Återställa en användare i Office 365 med hjälp av de här stegen:
+Återställa en användare i Office 365 med dessa steg:
   
-1. Gå till [användare \> bort användare](https://admin.microsoft.com/adminportal/home#/deletedusers).
+1. Gå till [användare \> borttagna användare](https://admin.microsoft.com/adminportal/home#/deletedusers).
 
-2. Välj användaren och sedan **återställa**.
+2. Välj användaren och sedan **Återställ**.
 
 3. Följ anvisningarna för att ange lösenordet.
 
-4. Klicka på **Skicka e-post och stänga**, och du är klar!
+4. Klicka på **skicka e-post och Stäng**, och du är klar!
 
-Inte enkelt? Checka ut den här artikeln för mer information och steg med skärmdumpar: [återställa en användare i Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx). Om du upptäcker att du i stället behöver återställa användarens postlåda finns: [Ta bort eller återställa användarnas postlådor i Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Var inte så lätt? För mer information och steg med skärmdumpar, kolla in den här artikeln: [återställa en användare i Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user). Om du inser att du i stället behöver återställa användarens postlåda, se: [ta bort eller återställa användarpostlådor i Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
