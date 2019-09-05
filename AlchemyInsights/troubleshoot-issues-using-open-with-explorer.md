@@ -1,5 +1,5 @@
 ---
-title: Felsöka problem med att öppna Explorer
+title: Felsöka problem med öppna med Utforskaren
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,26 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 6e67c2916e0c5739f6126064d45e175a7fd6f8d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a9ab7dd27e4dc1bd76c93cc81260616063e638ed
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500233"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742751"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>Åtgärda problem med att öppna med Explorer
+# <a name="fix-problems-with-open-with-explorer"></a>Åtgärda problem med öppna med Utforskaren
 
-Åtgärda vanliga problem med att öppna ett dokumentbibliotek i SharePoint eller OneDrive med hjälp av kommandot **Öppna med Utforskaren** : 
+Åtgärda vanliga problem med att öppna ett dokumentbibliotek i SharePoint eller OneDrive med kommandot **Öppna med Utforskaren** : 
   
-- Använda Internet Explorer 10 eller 11 för Internet Explorer. **Öppna med Utforskaren** inte är kompatibel med Microsoft Edge, Google Chrome, Firefox och andra. **Öppna med Utforskaren** är inaktiverat i alla webbläsare utom Internet Explorer. 
+- Använd Internet Explorer 10 eller 11 i Internet Explorer. **Öppna med Utforskaren** är inte kompatibel med Microsoft Edge, Google Chrome, Firefox och andra. **Öppna med Utforskaren** är inaktiverat i alla webbläsare utom Internet Explorer. 
     
-- **Öppna med Utforskaren** är inte tillgänglig i den moderna upplevelsen för SharePoint-bibliotek. Använd **vyn i File Explorer** istället. Välj **Visa alternativ** \> **Visa i File Explorer**. Visa i File Explorer är inte kompatibel med Microsoft Edge, Google Chrome, Firefox och andra. **Visa i File Explorer** i endast i Internet Explorer. 
+- **Öppna med Utforskaren** är inte tillgänglig i den moderna upplevelsen för SharePoint-bibliotek. Använd **Visa i Utforskaren** i stället. Välj **Visa alternativ** \> **i Utforskaren**. Visa i Utforskaren är inte kompatibel med Microsoft Edge, Google Chrome, Firefox och andra. **Visa i Utforskaren** i endast tillgänglig i Internet Explorer. 
     
-- Kontrollera att WebClient-tjänsten körs. Markera appen som kör Fjärrskrivbord i rutan Windows Sök, kör, Skriv, Skriv services.msc och tryck sedan på RETUR. Rulla ned till WebClient-tjänsten och kontrollera att kolumnen **Status** visar ”kör”. Om den inte dubbelklicka på tjänsten, klicka på **Start**och klicka sedan på **OK**. (Du kanske måste först aktivera tjänsten genom att välja **Manuell** eller **automatisk** i rutan **Startmetod** .) 
+- Kontrollera att WebClient-tjänsten körs. I Windows-sökrutan skriver du kör, väljer Kör skrivbordsapp, skriver Services. msc och trycker på RETUR. Rulla ned till WebClient-tjänsten och kontrollera att kolumnen **status** visar "löpning". Om den inte gör det dubbelklickar du på tjänsten, klickar på **Start**och sedan på **OK**. (Du måste kanske först aktivera tjänsten genom att välja antingen **manuell** eller **Automatisk** i rutan **Startmetod** .) 
     
 > [!NOTE]
-> Öppna ett bibliotek i File Explorer är praktiskt om du vill kopiera eller flytta flera filer och mappar när, men om du regelbundet arbetar i biblioteket, rekommenderar vi synkroniserar den. Felsökning av problem med öppna i File Explorer finns i [Öppna i Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Information om hur du konfigurerar synkronisering finns i [synkronisera SharePoint-filer med den nya OneDrive sync-klienten](https://go.microsoft.com/fwlink/?linkid=871666).
+> Att öppna ett bibliotek i Utforskaren är praktiskt om du behöver kopiera eller flytta flera filer och mappar en gång, men om du vill arbeta regelbundet i biblioteket rekommenderar vi att du synkroniserar den. Om du vill felsöka problem med att öppna i Utforskaren, se [Öppna i Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Information om hur du konfigurerar synkronisering finns [i Synka SharePoint-filer med den nya OneDrive-synkroniseringsklienten](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Se artikel [hur du använder kommandot ”Öppna med Utforskaren” felsökning av problem i SharePoint Online](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) för mer information. 
+Se artikeln [hur du använder kommandot "öppna med Utforskaren" för att felsöka problem i SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) för mer information. 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Förslag för att lösa fel ”Ej licensierad produkt”
+title: Förslag för att lösa "olicensierad produkt" fel
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501061"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743291"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Förslag för att lösa fel ”Ej licensierad produkt”
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Förslag för att lösa "olicensierad produkt" fel
 
-Kontrollera att du har en prenumeration där klient-licenser som Office 365 Business eller Business Premium och [Se till att användaren har en licens](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). Kontrollera om du har överskridit antalet installationer som stöds av din prenumeration genom att [Inaktivera en installation](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) .
+Se till att du har en prenumeration som tillåter klientlicenser, till exempel Office 365 Business eller Business Premium, och [Se till att användaren har en tilldelad licens](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). [Inaktivera en installation](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) för att kontrollera om du har överskridit antalet installationer som stöds av din prenumeration.
   
-Se till att användaren loggar in med samma konto som du har licens.
+Se till att användaren loggar in med samma konto som har tilldelats licensen.
   
-Köra [felsökaren för aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy).
+Kör [felsökaren för aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy).
   
-Kontrollera om prenumerationsstatus för din har gått ut
+Kontrollera om din prenumerationsstatus har upphört att gälla
   
-Kontrollera om det finns några kända problem med tjänsten [Office 365 Service hälsa sida](https://docs.microsoft.com/office365/enterprise/view-service-health) .
+Kontrollera [Office 365 service Health-sidan](https://docs.microsoft.com/office365/enterprise/view-service-health) för att se om det finns några kända problem med tjänsten.
   
-[En Online reparation av Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
+[Utför en onlinereparation av Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   
-Ytterligare felsökning lösningar finns: [Ej licensierad produkt och Aktiveringsfel i Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
+För ytterligare felsökningslösningar, se: [olicensierad produkt och aktiveringsfel i Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
   

@@ -1,5 +1,5 @@
 ---
-title: SharePoint-aviseringar inte levereras
+title: SharePoint-aviseringarna har inte levererats
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f389785fcd1029ae5a47e07c723874f9f214109d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d01d985f34d782fe14b3e2e6e6696c0101002db1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504481"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744659"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint-aviseringar inte levereras
+# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint-aviseringarna har inte levererats
 
-Kontrollera mappen Skräppost i ditt e-postmeddelande som aviseringar kan ibland gå dit.
+Vänligen kontrollera skräppostmappen i din e-post, eftersom ibland kan varningar gå dit.
 
-Ta reda på om **alla notifieringar inte levereras** eller om **ett enskilt meddelande** från en specifik fil eller biblioteket inte har levererats.
+Ta reda på om **alla aviseringar inte levereras** eller om **en enskild avisering** från en viss fil eller ett visst bibliotek inte levereras.
 
-- **Enskilda meddelanden levereras inte**: om en enskild avisering från en specifik fil eller biblioteket inte levereras, du kan försöka ta bort och återskapa den. Se [Hantera, visa, eller ta bort avisering](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online) att skapa aviseringen.
-- **Alla notifieringar inte levereras**: Besök [tjänsten hälsa instrumentpanelen](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) för alla rekommendationerna/händelser som sker med SharePoint- eller om alla aviseringar från flera filer och bibliotek inte har levererats. Problemet kan bero på SharePoint alert kapacitet eller fördröjningar i e-postmeddelanden via Exchange. Det blir också viktigt att notera om annan e-post levereras och inte problemet sannolikt på förseningar i Exchange.
+- **Enskilda aviseringar levereras inte**: om en enskild avisering från en viss fil eller ett visst bibliotek inte levereras kan du försöka ta bort och återskapa den. Se [Hantera, Visa eller ta bort SharePoint-aviseringar](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) för att återskapa aviseringen.
+- **Alla aviseringar levereras inte**: om alla aviseringar från flera filer eller bibliotek inte levereras, gå till [instrumentpanelen för tjänstens hälsa](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) för att kontrollera om det finns några bulletiner/incidenter som kan inträffa med SharePoint eller Exchange. Problemet kan vara med SharePoint alert-funktionen eller fördröjningar i e-postmeddelanden via Exchange. Det kommer också att vara viktigt att notera om andra e-post levereras, och om inte, är problemet sannolikt med Exchange förseningar.
 
-Vanliga frågor och svar om aviseringar:
+FAQ om varningar:
 
-- Det är inte möjligt att skicka aviseringar till distributionsgruppen endast säkerhet och O365 grupper stöds.
-- Du kan inte anpassa alert e-mallar. Du måste använda Microsoft FLOW eller arbetsflödet i SharePoint Designer för att uppnå de.
+- Det går inte att skicka aviseringar till distributionsgruppen, endast säkerhets-och O365-grupper stöds.
+- Du kan inte anpassa e-postmallar för notifieringar. Du måste använda Microsoft FLOW eller SharePoint Designer arbetsflöde för att uppnå dessa.
 
-Mer Information:
+Mer information:
 
-- **Notifieringsinställningar**: Mer information om hur du ställer in notifieringar finns i [Skapa en avisering om du vill bli meddelad när en fil eller mapp ändras i SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Felsöka varningar**: Mer information om felsökning av meddelanden finns i [användare får inte SharePoint Online aviseringar](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Avancerade O365 överensstämmelse Alert principer**: Mer information om hur du konfigurerar dessa aviseringar finns i [Alert principer för överensstämmelse](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **SharePoint och OneDrive granska loggar**: Mer information om hur du hämtar dessa händelser finns i [söka granskningsloggen](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Meddelanden som skickas av Advanced Threat Protection**: finns [tillgängligt att LOVA för SharePoint och OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Principer för notifieringar som skickas av förhindra dataförlust**: se [e-postmeddelanden för DLP-principer](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- **Aviseringsinställning**: Mer information om hur du ställer in aviseringar finns [i skapa en avisering för att få ett meddelande när en fil eller mapp ändras i SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
+- **Felsöka aviseringar**: Mer information om felsökning av aviseringar finns i [användare får inte SharePoint Online varningsmeddelanden](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
+- **Avancerad O365-efterlevnad varnings principer**: Mer information om hur du ställer in dessa aviseringar finns i [efterlevnad aviserings principer](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+- **SharePoint och OneDrive granskningsloggar**: Mer information om hur du hämtar dessa händelser finns [i Sök i granskningsloggen](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+- **Aviseringar som skickas av Advanced Threat Protection**: se [ATP för SharePoint och OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+- **Aviseringar som skickas av data förlust förebyggande principer**: se [e-POSTAVISERINGAR för DLP-principer](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
-## <a name="related-topics"></a>Närliggande information
+## <a name="related-topics"></a>Närliggande ämnen
 
 Vill du prova Microsoft Flow i SharePoint Online?
 
-- [Skapa flöde](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+- [Skapa flöde](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint och flöde](https://flow.microsoft.com/en-us/blog/sharepoint-and-flow/)
+- [SharePoint och Flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)

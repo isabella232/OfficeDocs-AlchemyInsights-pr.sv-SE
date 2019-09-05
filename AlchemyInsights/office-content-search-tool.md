@@ -1,6 +1,6 @@
 ---
-title: 1491-Search-not-returning-Expected-Results
-ms.author: kirks
+title: 1491-Sök-inte-returnera-förväntat-resultat
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: ce55961326ca15fbe15386455be94f800b5861bf
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 9432ba267e423ea5bbcfbc40f4ea914901207140
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132705"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753884"
 ---
-# <a name="content-search-tool-to-find-relevant-info"></a>Innehåll sökverktyget för att hitta relevant information
+# <a name="content-search-tool-to-find-relevant-info"></a>Content search Tool för att hitta relevant information
 
-Använd verktyget innehåll Sök i säkerhet & regelefterlevnadscentret snabbt hitta e-post i Exchange-postlådor, dokument i SharePoint-webbplatser och OneDrive platser och snabbmeddelanden konversationer i Skype för företag. Du kan använda innehåll sökverktyget för att söka efter e-post, dokument och snabbmeddelanden konversationer i Office 365 samarbetsverktyg som Microsoft Teams och Office 365-grupper.
+Använd verktyget innehållssökning i Security _ amp _ Compliance Center för att snabbt hitta e-post i Exchange-postlådor, dokument på SharePoint-webbplatser och OneDrive-platser och snabbmeddelandekonversationer i Skype för företag. Du kan använda verktyget innehållssökning för att söka efter e-post, dokument och snabbmeddelandekonversationer i Office 365 samarbetsverktyg som Microsoft Teams och Office 365-grupper.
 
 
-Innan du använder [Sök innehåll](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) från [Security & regelefterlevnadscentret](https://sip.protection.office.com/homepage)ska du slutföra konfigurationsinställningarna, inklusive [Konfigurera behörigheter](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [inställningen Nedladdningshastigheterna](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) och [exportinställningar](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
+Innan du använder [innehållssökning](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) från [Security _ amp _ Compliance Center](https://sip.protection.office.com/homepage), vill du slutföra konfigurationsinställningar inklusive [Konfigurera behörigheter](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [Ange nedladdningshastigheter](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) och [exportinställningar](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
 
-Förstå mer om innehåll sökning genom att granska de [krav och begränsningar](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [utredande delvis indexerade artiklar](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) och andra resultat ska vara medveten om.
+Lär dig mer om innehållssökning genom att granska [kraven och begränsningarna](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [undersöka delvis indexerade objekt](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) och andra resultat som ska vara medvetna om.
 
-När du har granskat konfigurationsinställningar och begränsningar av innehåll sökning finns i [med innehåll Sök</a> söka efter objekt på samma plats som e-post, dokument och snabbmeddelanden konversationer i organisationen Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search).
+När du har granskat konfigurationsinställningarna och begränsningarna för innehållssökning, se [använda innehållssökning</a> för att söka efter objekt på plats, till exempel e-post, dokument och Instant Messaging-konversationer i Office 365-organisationen](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
-För en komplett steg för steg av innehåll sökning finns i [söka efter innehåll i Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) för mer information.
+För en fullständig steg-för-steg av innehållssökning, se [söka efter innehåll i Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) för mer information.

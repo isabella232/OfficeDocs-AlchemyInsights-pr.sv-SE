@@ -1,6 +1,6 @@
 ---
-title: Felsökning - användare som inte finns i katalogen
-ms.author: kirks
+title: Felsöka problem-användare hittades inte i katalogen
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: ITPro
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 537b27d06acd17cbb3fe99bcb89e153099e92bb4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544881"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754210"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Felsökning - användare som inte finns i katalogen
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Felsöka problem-användare hittades inte i katalogen
 
-Om användarna får fel meddelande ”användaren kan inte hittas” i katalogen. Försök igen om den typ av fråga användaren inte är i katalogen.
+Om användare får felmeddelandet "användaren kan inte hittas" i katalogen. Försök igen där problemtypen är användare inte i katalogen.
 
-Följande åtgärder kan utföras för felsökning av problemet.
+Följande steg kan slutföras för att felsöka problemet.
 
-- Se till att det konto som har accepterat postinbjudan e-är samma konto som används för att logga in senare. Kontrollera att användaren använder samma konto för att acceptera inbjudan och logga in på webbplatsen. 
+- Se till att kontot som accepterade e-postinbjudan är samma konto som används för att logga in senare. Kontrollera att användaren använder samma konto för att acceptera inbjudan och logga in på webbplatsen. 
 
-Mer information finns i [hur du hanterar alias för ditt Microsoft-konto</a> att hantera Office 365-inloggning](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
+Mer information finns i hantera [alias för ditt Microsoft-konto</a> för att hantera Office 365-inloggningen](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
 
-- Bläddra till varje plats där användaren får felet. 
+- Bläddra till varje plats (er) där användaren får felet. 
 
-Lägga till ”/ _layouts/15/people.aspx/membershipgroupid=0” (inom citattecken) i slutet av webbplatsens URL. 
+Lägg till "/_layouts/15/People.aspx/MembershipGroupId = 0" (inom dubbla citationstecken) i slutet av webbplatsens URL. 
 
-Exempel: https://_lT _"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
+Exempel: https://_ lt _ "contoso">. SharePoint. com/_ Layouts/15/People. aspx/membershipGroupId = 0.
 
 - Markera användaren i listan.
 
-- Klicka på **Ta bort användarbehörigheter** från menyfliken. 
--  Lägg tillbaka till användaren och skicka inbjudan till användaren.
+- Klicka på **ta bort användarbehörigheter** från menyfliksområdet. 
+-  Lägg tillbaka användaren och skicka inbjudan till användaren igen.
 

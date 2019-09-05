@@ -1,26 +1,26 @@
 ---
-title: Plats och innehåll struktur tas bort
-ms.author: kirks
+title: Webbplats-och innehållsstruktur borttagen
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 55060d5c-fb1c-4812-bc66-181a7aa2cdea
-ms.openlocfilehash: 4cb7bd92ab2833d746da308277e3b2117fa1bb57
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c4301fd892e82f2d41c69f0e65b319b92f676be2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502285"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749494"
 ---
-# <a name="site-and-content-structure-removed"></a>Plats och innehåll struktur tas bort
+# <a name="site-and-content-structure-removed"></a>Webbplats-och innehållsstruktur borttagen
 
-Från och med oktober 2018, webbplatsinnehåll och struktur sidan kommer inte längre att stödjas eller funktionen uppdateringar. Inställningar-länk till sidan SiteManager.aspx tas bort från SharePoint Online och direkt åtkomst begränsas till webbplatssamling Admins tills mars 2019, då sidan webbplatsinnehåll och struktur kommer helt dras in. 
+Från och med oktober 2018 kommer sidan webbplats innehåll och struktur inte längre att stödjas eller ta emot funktionsuppdateringar. Den inställningar länk till SiteManager. aspx sidan kommer att tas bort från SharePoint Online och direkt åtkomst kommer att begränsas till webbplatssamling admins fram till 2019 mars, då sidan webbplats innehåll och struktur kommer att vara helt pensionerad. 
 
-Anmärkning: Som en lösning tills funktionen helt gått i pension administratörer för webbplatssamlingar kan gå till Office 365 Portal-> klickar du på SharePoint sida vid sida - > lägga till eller redigera URL-Adressen genom att ersätta ' / Sharepoint.aspx' med ' / Sitemanager.aspx'. 
+Anmärkning: som en lösning tills funktionen är helt tillbakadragen, webbplatssamling administratörer kan navigera till Microsoft 365 administratörscenter, Välj den SharePoint-panelen och lägga till eller redigera URL: en genom att ersätta '/SharePoint.aspx ' med '/sitemanager.aspx '. 
 
 
-Använd filen flytta och kopiera för att hantera webbplatsens innehåll och struktur. Mer information finns i [Kopiera filer och mappar mellan OneDrive och SharePoint-webbplatser](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f). 
+Använd fil flytt och kopiera för att hantera webbplatsens innehåll och struktur. Mer information finns i [Kopiera filer och mappar mellan OneDrive och SharePoint-webbplatser](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f). 
 
-Mer information finns i [arbeta med webbplatsens innehåll och struktur](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).
+För mer information, se [arbeta med webbplatsens innehåll och struktur](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).

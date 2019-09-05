@@ -11,18 +11,18 @@ ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.custom:
 - "28"
 - "9"
-ms.openlocfilehash: 9dffa6c2284e1960cadd851b197c7afaf66b2704
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a1ea38d29ff31e13fbcee0f18acb5627599a4be6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533321"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742571"
 ---
 # <a name="trying-to-remove-your-domain"></a>Försöker du ta bort din domän?
 
-Följ stegen i den här artikeln om du vill ta bort en domän från Office 365: [Ta bort en domän från Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
+Om du vill ta bort din domän från Office 365 följer du stegen i den här artikeln: [ta bort en domän från office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
   
-Du måste uppdatera de användare eller grupper som tilldelas till domännamnet innan du tar bort domänen.
+Du måste uppdatera alla användare eller grupper som är tilldelade till det domännamnet innan du tar bort domänen.
   
-[Läs Vanliga frågor och svar om domäner](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) för andra vanliga lösningar.
+[Kontrollera den Domains artikeln](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) för andra vanliga lösningar.
   

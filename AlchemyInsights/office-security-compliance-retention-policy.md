@@ -1,7 +1,7 @@
 ---
-title: Mer information om principer för bevarande
+title: Mer information om bevarandeprinciper
 ms.author: stephow
-author: msft-stephow
+author: stephow-msft
 manager: laurawi
 ms.date: 08/14/2019
 ms.audience: admin
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: ff9daf0489fb5feeb22bda19d55136caaea024cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521693"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753778"
 ---
-# <a name="more-info-about-retention-policies"></a>Mer information om principer för bevarande
+# <a name="more-info-about-retention-policies"></a>Mer information om bevarandeprinciper
 
-För de flesta organisationer, volym och komplexiteten hos deras data ökar dagligen - e-post, dokument, snabbmeddelanden och mycket mer. Effektivt hantera eller om informationen är viktig och en bevarandeprincip kan hjälpa dig att uppnå dessa mål. Mer information om lagringsprinciper finns dessa länkar:
+För de flesta organisationer ökar volymen och komplexiteten hos deras data dagligen-e-post, dokument, snabbmeddelanden och mycket mer. Att effektivt hantera eller reglera denna information är viktigt och en bevarande policy kan hjälpa dig att uppnå dessa mål. För mer information om lagringsprinciper, vänligen besök dessa länkar:
 
-## <a name="a-from-security-and-compliance-center"></a>A) från säkerhet och regelefterlevnadscentret
+## <a name="a-from-security-and-compliance-center"></a>A) från säkerhets-och Efterlevnadscenter
 
-- Gå till säkerhet och överensstämmelse > Data governance > bevarande
+- Gå till säkerhet och efterlevnad _ Gt_ data styrning _ Gt_ retention
   - Se [den här](https://docs.microsoft.com/office365/securitycompliance/retention-policies) artikeln
 
-- Gå till säkerhet och överensstämmelse > eDiscovery> Avancerade e-informationsavslöjande 
+- Gå till säkerhet och efterlevnad _ eDiscovery> Advanced eDiscovery 
   - Se [den här](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) artikeln
 
-- Gå till säkerhet och regelefterlevnad > klassificeringar > bevarande
+- Gå till säkerhet och efterlevnad _ Gt_ klassificeringar _ Gt_ retention
   - Se dessa artiklar
-    - [Säkerhetsetiketter](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [Etiketter: översikt](https://docs.microsoft.com/office365/securitycompliance/labels)
+    - [Känslighet etiketter](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+    - [Översikt över etiketter](https://docs.microsoft.com/office365/securitycompliance/labels)
 
-## <a name="b-legacy-ediscovery-policies"></a>B) äldre e-informationsavslöjande principer
+## <a name="b-legacy-ediscovery-policies"></a>B) policyer för äldre e-informationsavslöjande
 
 - Se [den här](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) artikeln
 
-## <a name="c-site-closure-and-deletion-policies"></a>C) webbplats avslutning och borttagning av principer
+## <a name="c-site-closure-and-deletion-policies"></a>C) policyer för stängning och radering av webbplatser
 
 - Se [den här](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) artikeln  
 
-## <a name="d-information-rights-management-irm"></a>D) information Rights Management (IRM)
+## <a name="d-information-rights-management-irm"></a>D) Information Rights Management (IRM)
 
 - Se dessa artiklar
-  - [IRM på en listbibliotek](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
-  - [IRM-översikt](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+  - [IRM på en lista/ett bibliotek](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [Översikt över IRM](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
-> Vi rekommenderar starkt att säkerhet och regelefterlevnad principer om du fortfarande använder äldre e-informationsavslöjande eller IRM eller nedläggning av webbplatsen och borttagning av principer.
+> Vi rekommenderar att du flyttar till säkerhets-och efterlevnadsprinciper om du fortfarande använder äldre eDiscovery-eller IRM-eller plats stängnings-och borttagnings principer.

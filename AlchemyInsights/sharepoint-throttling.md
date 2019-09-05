@@ -1,30 +1,30 @@
 ---
-title: SharePoint Online-begränsning
-ms.author: kirks
+title: Begränsning av SharePoint Online
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: 6c940f3277e39c955adc24f22d5d9ef1591561ba
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cbe6799e5b7f415e560449485ce09518c6ac2999
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502749"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749962"
 ---
-# <a name="sharepoint-online-throttling"></a>SharePoint Online-begränsning
+# <a name="sharepoint-online-throttling"></a>Begränsning av SharePoint Online
 
-SharePoint Online använder begränsning för att bibehålla optimal prestanda och tillförlitlighet i SharePoint Online-tjänsten. Begränsning begränsningar anrop antal användaråtgärder eller samtidiga (genom skript eller kod) för att förhindra felaktig användning av resurser. Mer information finns på länkarna nedan.
+SharePoint Online använder begränsning för att bibehålla optimala prestanda och tillförlitlighet för SharePoint Online-tjänsten. Begränsning begränsar antalet användaråtgärder eller samtidiga anrop (med skript eller kod) för att förhindra överanvändning av resurser. För mer information, vänligen besök länkarna nedan.
 
-- [Undvika begränsats eller blockeras i SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [Undvik att begränsas eller blockeras i SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
-- [Migrering av data och begränsning av SPO](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)
+- [Datamigrering och SPO-begränsning](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)
 
-- [SharePoint Online och OneDrive migrering hastighet](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [Migreringshastighet för SharePoint Online och OneDrive](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
- - [Hantera SharePoint Online begränsning med exponentiell undantagsläge](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
+ - [Hantera SharePoint Online-begränsning med hjälp av exponentiell backoff](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
 
-- [Planera kapaciteten och ladda testning SharePoint Online](https://support.office.com/article/Capacity-planning-and-load-testing-SharePoint-Online-c932bd9b-fb9a-47ab-a330-6979d03688c0)
+- [Kapacitetsplanering och Belastningstestning SharePoint Online](https://docs.microsoft.com/office365/enterprise/capacity-planning-and-load-testing-sharepoint-online)
 

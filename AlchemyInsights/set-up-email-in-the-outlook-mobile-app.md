@@ -1,5 +1,5 @@
 ---
-title: 1800014 ställa in e-post i Outlook mobile app
+title: 1800014 konfigurera e-post i Outlook-mobilappen
 ms.author: anahitab
 author: anahitab
 manager: dansimp
@@ -15,31 +15,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509235"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734183"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a>Konfigurera e-post i Outlook mobile app
+# <a name="set-up-email-in-the-outlook-mobile-app"></a>Konfigurera e-post i Outlook-mobilappen
 
-1. Välj **Kom igång** om det är första gången du in e-post i mobila app. Annars Knacka på **menyn** och sedan på **Inställningar** \> **Lägg till konto** \> **Lägga till e-postkonto**.
+1. Välj **Kom igång** om det är första gången du konfigurerar e-post i mobilappen. Annars knackar du på **meny** och sedan **på Inställningar** \> **Lägg till konto** \> **Lägg till e-postkonto**.
 
-2. Ange din fullständiga e-postadress och knacka på **Fortsätt** eller **Lägg till konto**.
+2. Ange din fullständiga e-postadress och tryck på **Fortsätt** eller **Lägg till konto**.
 
-3. Ange lösenordet för ditt e-postkonto och knacka på **Logga In** eller **Nästa**.
+3. Ange lösenordet för ditt e-postkonto och tryck på **Logga in** eller **Nästa**.
 
-4. Om [flera faktor autentisering](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) har aktiverats, kontrollerar du med hjälp av den metod som du ställer in (6 siffrig kod, telefonsamtal eller Microsoft Authenticator-app).
+4. Om [multifaktorautentisering](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) är aktiverad, kontrollera med den metod som du ställer in (6 siffrig kod, telefonsamtal eller Microsoft Authenticator-appen).
 
-5. Knacka på **Aktivera** om du vill aktivera dem om ytterligare principer för IT-admin på plats.
+5. Om ytterligare IT-adminpolicyer finns på plats trycker du på **Aktivera** för att aktivera dem.
 
-6. Outlook kan begära åtkomst till din kalender, kontakter och annan information. Välj **Ja** eller **tillåta**.
+6. Outlook kan begära behörighet att komma åt din kalender, kontakter och annan information. Välj **Ja** eller **Tillåt**.
 
-Få detaljerade instruktioner för [Outlook för Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) eller [Outlook för iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) här som inrättats.
+Här kan du få detaljerade instruktioner för [Outlook för Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) eller [Outlook för iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) .
   
  **Behöver du hjälp?**
   
-- [Felsöka e-inställningen för mobile](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [Felsöka e-postinställningar på mobilen](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [Hjälp för Outlook för iOS och Android-app](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [Få hjälp i appen för Outlook för iOS och Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

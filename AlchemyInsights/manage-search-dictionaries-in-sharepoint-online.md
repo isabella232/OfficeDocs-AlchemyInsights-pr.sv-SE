@@ -1,6 +1,6 @@
 ---
-title: Hantera search ordlistor i SharePoint Online
-ms.author: kirks
+title: Hantera Sök ordlistor i SharePoint Online
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 78aaf013c3fa8f5ed4c91b1c651ba2328ed73402
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d375ed80ba4c58b32a830f140a8f18ba50008bd6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542136"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754426"
 ---
-# <a name="manage-search-dictionaries"></a>Hantera search ordlistor
+# <a name="manage-search-dictionaries"></a>Hantera Sök ordlistor
 
-Sök ordlistor i SharePoint online hanteras i SharePoint Online termlagringsplatsen som finns i det nya SharePoint administratörscenter. Mer information om hur du lägger till eller redigerar Sök ordlistor finns i [Hantera Sök ordlistor](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
+Sök ordlistor i SharePoint Online hanteras i SharePoint Online term Store som finns i den nya SharePoint administratörscenter. Mer information om hur du lägger till eller redigerar Sök lexikon finns i [Hantera Sök ordlistor](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
   
-Om du inte ser en sökterm ordlista som visas på termlagringsplatsen, vänta 24 timmar. Om ordlistan fortfarande inte visas efter 24 timmar logga en biljett stöd.
+Om du inte ser en termuppsättning för Sök ordlista visas i termlagringsplatsen, vänta 24 timmar. Om ordlistan fortfarande inte visas efter 24 timmar, vänligen logga ett supportärende.
   

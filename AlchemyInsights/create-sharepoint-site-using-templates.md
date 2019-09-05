@@ -1,6 +1,6 @@
 ---
 title: Skapa en webbplats i SharePoint Online
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,39 +10,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 7c24a0cf3bcae0f2780c1cb33c911cb38c1ca5cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 42430c8dadc17b87dc7741f3fa045ba7c25fab84
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515016"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755326"
 ---
 # <a name="create-sharepoint-sites-using-templates"></a>Skapa SharePoint-webbplatser med hjälp av mallar
 
-Mallar för SharePoint-webbplatser finns fördefinierade definitioner uppbyggd runt specifika behov. Mer information finns i [använda mallar för att skapa olika typer av SharePoint-webbplatser](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+SharePoint-webbplatsmallar är fördefinierade definitioner som utformats kring ett visst affärsbehov. Mer information finns [i använda mallar för att skapa olika typer av SharePoint-webbplatser](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
 
-Här är några vanliga problem/lösningar om du sparar en webbplats eller lista som en mall i Sharepoint Online. 
+Här är några vanliga problem/lösningar när du sparar en webbplats eller lista som en mall i SharePoint Online. 
 
-**Spara platslista/mall-knappen är inte tillgänglig eller saknas**
+**Knappen Spara webbplats/listmall är inte tillgänglig eller saknas**
 
-Administratörer måste tillåta anpassat skript ska aktivera Mallfunktioner. Detaljerade anvisningar finns exempel och överväganden 
+Administratörer måste tillåta anpassade skript för att aktivera mallfunktionerna. För detaljerade steg, exempel och överväganden, se 
 
-- [Tillåta eller förhindra att anpassade skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+- [Tillåt eller förhindra anpassat skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- Spara webbplats som mall-kommando stöds inte och kan orsaka problem på platser som använder SharePoint Server Publishing infrastruktur.
+- Kommandot Spara webbplats som mall stöds inte och kan orsaka problem på webbplatser som använder SharePoint Server Publishing-infrastrukturen.
 
-**Mallen kan inte skapas eller fungerar inte korrekt**
+**Det går inte att skapa webbplatsmallen eller fungerar inte korrekt**
 
-Mallen saknar en [funktion](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) och aktivera inte. Om funktionen inte är tillgänglig i den aktuella webbplatssamlingen aktivera kan du inte använda mallen för att skapa en webbplats.
+Mallen kan sakna en [funktion](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) och kommer inte att aktiveras. Om funktionen inte är tillgänglig för aktivering i den aktuella webbplatssamlingen kan du inte använda webbplatsmallen för att skapa en webbplats.
 
-- Kontrollera om eventuella listor eller bibliotek överskrider [Listvyns tröskel som gränsen](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) 5000 artiklar som detta kan blockera skapandet av en webbplatsmall.
+- Kontrollera om några listor eller bibliotek överskrider tröskelvärdet för [Listvygränsen](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) på 5000 objekt eftersom detta kan blockera skapandet av en webbplatsmall.
 
-- Webbplatsen kanske använder för många resurser och därför webbplatsmallen överskrider gränsen på 50 MB.
+- Webbplatsen kan använda för många resurser och därför överskrider webbplatsmallen gränsen på 50 MB.
 
 
-- Det finns problem med visning av data från en lista som använder en uppslagskolumn. Mer information finns i [listan mall skapas inte visar data från rätt söklistan i SharePoint Online](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a).
+- Det finns problem med att visa data från en lista som använder en uppslagskolumn. Mer information finns [i mallgenererade listan visas inte data från rätt uppslagslistan i SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
 
-Mer detaljerad information om vanliga problem och lösningar finns i [Skapa och använda mallar för webbplatser](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
+För mer detaljerad information om vanliga problem och lösningar, vänligen kontrollera [skapa och Använd webbplatsmallar](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
 
 
 

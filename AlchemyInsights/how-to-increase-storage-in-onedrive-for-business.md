@@ -1,6 +1,6 @@
 ---
-title: Hur du ökar lagring i OneDrive för företag
-ms.author: kirks
+title: Hur du ökar lagringen i OneDrive för företag
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/14/2018
 ms.audience: ITPro
@@ -8,27 +8,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: ab43df8415f84d2cb289d8f3f93fa002faf783c2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2cf4b8c4e2cd2e5e6b91d609b34fde700c408fba
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540739"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755830"
 ---
-# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Hur du ökar lagring i OneDrive för företag
+# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Hur du ökar lagringen i OneDrive för företag
 
-Om du vill ändra standardlager för nya och befintliga OneDrive-användare:
+Så här ändrar du standardlagringen för nya och befintliga OneDrive-användare:
   
-- Gå till [sidan för lagring av OneDrive administratörscenter](https://admin.onedrive.com/?v=StorageSettings)och ange ett nytt belopp i GB.
+- Gå till [sidan lagring i Administrationscenter för OneDrive](https://admin.onedrive.com/?v=StorageSettings)och ange ett nytt belopp i GB.
     
-Inställningen lagring utrymme gäller alla användare som inte har angett särskilda lagringsbegränsningar. Om du vill ändra lagringsutrymme för specifika användare, måste du använda Microsoft PowerShell. Information om hur du gör detta finns i [Ändra lagringsutrymme för dina användare OneDrive med hjälp av PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). 
+Den här inställningen för lagringsutrymme gäller för alla användare som du inte har angett specifika Lagringsgränser för. Om du vill ändra lagringsutrymme för specifika användare, måste du använda Microsoft PowerShell. Information om hur du gör detta finns i [ändra användarnas OneDrive-lagringsutrymme med hjälp av PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). 
   
- **Anmärkning**: Det verkar som om du inte har en plan som omfattar obegränsad lagring. Info om lagringsenheterna som följer med varje plan finns i [OneDrive för Business tjänstbeskrivning](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+ **** Det verkar som om du inte har en plan som innehåller obegränsat lagringsutrymme. Information om lagringen som följer med varje plan finns i [OneDrive för Business Service Description](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
-Om du vill öka ditt lagringsutrymme i OneDrive för företag väljer du en Office 365-plan som innehåller **OneDrive för Business Plan 2** eller **Office 365 Enterprise E3**. 
+Om du vill öka lagringen i OneDrive för företag väljer du en Office 365-plan som innehåller antingen **OneDrive för Business plan 2** eller **Office 365 Enterprise E3**. 
   
-Om du vill ändra planer i Microsoft 365 administratörscenter, gå till **Fakturering** \> **abonnemang**och välj **Växla planer.**
+Om du vill ändra planer, i Microsoft 365 administratörscenter, gå till **fakturering** \> **prenumerationer**, och välj sedan **växla planer.**
   
-Mer information om att växla planer och OneDrive för Business-lagring finns i [Växla till en annan Office 365 för business plan](https://go.microsoft.com/fwlink/?LinkId=2031117) och [OneDrive för Business tjänstbeskrivning](https://go.microsoft.com/fwlink/?LinkId-2031122).
+Mer information om hur du växlar planer och OneDrive för företag-lagring finns i [Växla till en annan Office 365 för affärsplan](https://go.microsoft.com/fwlink/?LinkId=2031117) och [OneDrive för Business Service Beskrivning](https://go.microsoft.com/fwlink/?LinkId-2031122).
   
 

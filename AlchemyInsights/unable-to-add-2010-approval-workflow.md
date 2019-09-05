@@ -1,6 +1,6 @@
 ---
-title: Det går inte att lägga till arbetsflöde för godkännande av 2010
-ms.author: kirks
+title: Det gick inte att lägga till 2010 Godkännandearbetsflöde
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/3/2018
 ms.audience: ITPro
@@ -8,37 +8,37 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: 1f564c5d1e689dcf41b22fab5a05ab1b488c2b0b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 13e3ed6db8c31adb1eb5a556c0e5fbc437b3fdb1
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558635"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748702"
 ---
-# <a name="unable-to-add-2010-approval-workflow"></a>Det går inte att lägga till arbetsflöde för godkännande av 2010
+# <a name="unable-to-add-2010-approval-workflow"></a>Det gick inte att lägga till 2010 Godkännandearbetsflöde
 
-Du kan inte lägga till ett globalt återanvändbart arbetsflöde (till exempel ”godkännande - SharePoint 2010”) i en Microsoft SharePoint-webbplatssamling till en lista eller ett bibliotek.
+I en Microsoft SharePoint-webbplatssamling kan du inte lägga till ett globalt återanvändbart arbetsflöde (till exempel "godkännande-SharePoint 2010") i en lista eller ett bibliotek.
   
 Lös problemet så här: 
   
-1. Öppna webbplatsen för webbplatssamlingen rot i SharePoint Designer 2013.
+1. Öppna rotwebbplatsen för webbplatssamlingen i SharePoint Designer 2013.
   
-2. Välj **arbetsflöden**under **Platsobjekt**. 
+2. Under **platsobjekt**väljer du **arbetsflöden**. 
   
-3. Välj **Återanvändbart arbetsflöde**i avsnittet **Nytt** i menyfliksområdet för **arbetsflöden** . 
+3. I det **nya** avsnittet i menyfliksområdet för **arbetsflöden** väljer du **återanvändbart arbetsflöde**. 
   
-4. Ange namnet på formuläret **Skapa återanvändbart arbetsflöde** ** *Repair2010* **. Klicka på **SharePoint 2010 arbetsflöde**för **Plattformstyp**och klicka på **OK**. 
+4. I formuläret **skapa återanvändbart arbetsflöde** anger du namnet * * *Repair2010* * *. För **plattformstyp**klickar du på **SharePoint 2010 Workflow**och sedan på **OK**. 
   
-1. Välj **Publicera**i avsnittet **Spara** i menyfliksområdet för **arbetsflöde** . 
+1. Välj **publicera**i avsnittet **Spara** i menyfliksområdet för **arbetsflöde** . 
   
-2. Välj **Publicera globalt**i avsnittet **Hantera** i menyfliksområdet för **arbetsflöde** . Välj **OK**i dialogrutan för bekräftelse. 
+2. Välj **publicera globalt**i avsnittet **Hantera** i menyfliksområdet för **arbetsflöde** . I bekräftelsedialogrutan som visas väljer du **OK**. 
   
-3. Hitta webbplatssamlingen rot webbplats i en webbläsare och tillgång till **Webbplatsinställningar** \> **Webbplatssamlingens funktioner**. Växla funktionen **arbetsflöden** : 
+3. Leta reda på webbplatssamlingens rotwebbplats i en webbläsare och öppna sedan webbplats **samlingens funktioner**för webbplats **Inställningar** \> . Växla funktionen **arbetsflöden** : 
   
-· Om funktionen är *aktiverad* , klickar du på **inaktivera,** och klicka sedan på **Aktivera**. 
+· Om funktionen är *aktiverad* klickar du på **inaktivera** och sedan på **Aktivera**. 
   
-· Om funktionen är *Inaktiverad* kan du klicka på **Aktivera**. 
+· Om funktionen är *inaktive* rad klickar du på **Aktivera**. 
   
-Mer information finns i följande [artikel](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
+För mer information hänvisas till följande [artikel](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
   
 

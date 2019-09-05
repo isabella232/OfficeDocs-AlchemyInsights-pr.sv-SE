@@ -1,5 +1,5 @@
 ---
-title: Exportverktyg för e-informationsavslöjande
+title: exportverktyg för e-informationsavslöjande
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,36 +15,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: d6ffd69cdc02331ecd1290fa3b0cb5a542c8bd58
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528281"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736343"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Det går inte att installera eller köra e-informationsavslöjande Exportverktyg för Windows?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Kan du inte installera eller köra e-informationsavslöjande export verktyg?
 
-Om du inte kan installera eller köra det Office 365 e-informationsavslöjande Export verktyg för att hämta sökresultat, kontrollerar du följande:
+Om du inte kan installera eller köra Office 365 e-informationsavslöjande export verktyg för att hämta sökresultat, kontrollera följande saker:
   
-- Datorn som du använder uppfyller dessa bestämmelser:
+- Den dator du använder uppfyller dessa förutsättningar:
 
-  - 32 - eller 64-bitars versioner av Windows 7 och senare versioner
+  - 32-eller 64-bitars versioner av Windows 7 och senare versioner
 
-  - Microsoft.NET Framework-4.7
+  - Microsoft.NET Framework 4,7
 
   - En webbläsare som stöds:
 
-  - Microsoft kant
+  - Microsoft Edge
 
     Eller
 
   - Internet Explorer 10 och senare versioner
 
-    Andra webbläsare som Google Chrome och Mozilla Firefox stöds inte.
+    Andra webbläsare, till exempel Google Chrome och Mozilla Firefox stöds inte.
 
-- Din organisation kan ansluta till slutpunkten i Azure som är ** \*. blob.core.windows.net** (jokertecken representerar en unik identifierare för exportjobbet).
+- Din organisation kan ansluta till slutpunkten i Azure, vilket är ** \*. blob.Core.Windows.net** (jokertecknet representerar en unik identifierare för ditt exportjobb).
 
-- Du är tilldelad rollen Export i Office 365 säkerhet &amp; regelefterlevnadscentret. Som standard tilldelas den här rollen endast e-informationsavslöjande Manager roll grupp. I avsnittet [tilldela behörigheter för e-informationsavslöjande](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).
+- Du har tilldelats rollen export i säkerhets &amp; regelefterlevnadscentret för Office 365. Som standard är den här rollen endast tilldelad till rollgruppen eDiscovery Manager. Se [tilldela eDiscovery-behörigheter](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
-Mer information finns i [Exportera innehåll sökresultat](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).
+Mer information finns i [Exportera innehåll sökresultat](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

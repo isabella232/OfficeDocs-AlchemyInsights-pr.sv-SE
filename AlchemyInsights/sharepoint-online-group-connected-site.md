@@ -1,6 +1,6 @@
 ---
-title: Lägga till en grupp till en SharePoint-webbplats
-ms.author: kirks
+title: Lägga till en grupp på en SharePoint-webbplats
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,30 +10,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 6aea12d44a44a3e11eaf3fb1bd47ff3e9dbfd9e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 423db4e5bbb85e75aee3548d5b6b46a64ebc6fa0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507865"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750538"
 ---
-# <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>Problem när du skapar eller grupp anslutna webbplatser i SharePoint Online
+# <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>Problem när du skapar eller grupperar anslutna platser i SharePoint Online
 
-Det finns några vanliga problem som kan uppstå när Skapa eller återskapa en grupp ansluten plats.
+Det finns ett par vanliga problem som uppstår när du skapar eller återskapar en grupp ansluten webbplats.
 
- Om du har tagit bort en grupp och dess anslutna platsen och vill skapa en annan webbplats med samma URL, måste du ta bort den tidigare webbplatsen.
+ Om du har raderat en grupp och dess anslutna webbplats och vill skapa en annan webbplats med samma webbadress måste du ta bort den tidigare webbplatsen permanent.
 
 Hämta [SPO Management Shell](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
 
- Mer information om att komma igång med powershell finns i [komma igång med SharePoint Online Management Shell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps)
+ Mer information om att komma igång med PowerShell finns i [komma igång med SharePoint Online Management Shell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps)
 
-Ta bort webbplatsen från bort platser med hjälp av powershell-cmdlet för [Ta bort SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) .
+Ta bort webbplatsen från borttagna webbplatser med hjälp av [denTa bort SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) PowerShell-cmdlet.
 
-Om du skapar en grupp ansluten plats och en varning redan finns en annan grupp med samma alias, kontrollera befintliga grupper från [Office 365 Admin Center](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups). Kopplad till problemet, ta bort den befintliga gruppen om den inte längre behövs eller skapa webbplatsen med ett annat alias.
+Om du skapar en grupp ansluten webbplats och får en varning en annan grupp med samma alias redan finns, kontrollera befintliga grupper från [Office 365 från administratörs Center](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups). Lös problemet genom att ta bort den befintliga gruppen om den inte längre behövs eller skapa webbplatsen med ett annat alias tilldelat.
 
 Det finns olika sätt att skapa och använda moderna grupper med SharePoint.
 
-Du kan ansluta befintliga webbplatser till en Office 365-grupp. Mer information finns i [ansluta en Office 365-grupp med hjälp av ineterface för SharePoint-användare](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+Du kan ansluta befintliga webbplatser till en Office 365-grupp. Mer information finns [i ansluta en Office 365-grupp med hjälp av SharePoint-användaren ineterface](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
 
-Om du vill skapa en Office 365-grupp ansluten plats måste du skapa en gruppwebbplats. Mer information finns i [Skapa en gruppwebbplats i SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d).
+Om du vill skapa en Office 365-grupp ansluten webbplats måste du skapa en gruppwebbplats. Mer information finns [i skapa en gruppwebbplats i SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d).
 

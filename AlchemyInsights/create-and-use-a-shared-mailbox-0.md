@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 3e2f6e33c105ecc271b8c8e68898658801d5db22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 37ac75c7aa0bac4e9f037d6cfa44b93a526977aa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515969"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736523"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>Skapa och använda en delad postlåda
 
-En delad postlåda kan flera personer skicka och ta emot e-post för ett alias, som **sales@contoso.com**, utan att tilldela ytterligare en licens.
+En delad postlåda kan mer än en person skicka och ta emot e-post för ett alias, som **Sales@contoso.com**, utan att tilldela en annan licens.
   
-[Skapa en delad postlåda](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) som förklarar hur du: 
+[Skapa en delad postlåda](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) förklarar hur du: 
   
 - Skapa en delad postlåda
     
-- Ge användarna behörighet att använda en delad postlåda
+- Ge dina användare behörighet att använda en delad postlåda
     
-- Komma åt en delad postlåda i Outlook eller Outlook på webben
+- Komma åt delad postlåda i Outlook eller Outlook på webben
     
 

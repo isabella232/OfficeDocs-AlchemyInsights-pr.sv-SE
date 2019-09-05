@@ -1,6 +1,6 @@
 ---
-title: Ångra en utcheckning
-ms.author: kirks
+title: Ignorera en utcheckning
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/7/2018
 ms.audience: ITPro
@@ -8,21 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: 2d4bd517c122e5ddbafd99e43471f29dffbfe157
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6ca494779e43ac84f5243d69ab579d8bc919be5f
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512693"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755650"
 ---
-# <a name="discard-a-check-out-from-a-document-library"></a>Ignorera utcheckning från ett dokumentbibliotek
+# <a name="discard-a-check-out-from-a-document-library"></a>Ignorera en utcheckning från ett dokumentbibliotek
 
-1. Högerklicka på filen som du vill ignorera utcheckningen.
+1. Högerklicka på filen som du vill ignorera utcheckning.
     
-2. Klicka på **mer**och sedan klicka på **Ignorera utcheckning**. 
+2. Klicka på **mer**och sedan på **Ignorera utcheckning**. 
     
-3. Klicka på **Ignorera utcheckning** om du vill rensa checken från dialogrutan. 
+3. Klicka på **Ignorera utcheckning** i dialogrutan för att ta bort utcheckningen. 
     
-Ytterligare frågor om incheckning och utcheckning finns i [övre frågor om checka ut checka in, och versioner](https://go.microsoft.com/fwlink/?linkid=2018786).
+För ytterligare frågor om checka in och checka ut, se [de bästa frågorna om utcheckning, incheckning och versioner](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Aktivera en Arkivera postlåda
+title: Aktivera en arkivpostlåda
 ms.author: markjjo
 author: markjjo
 ms.audience: ITPro
@@ -10,33 +10,33 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: f7b18ebd330c764c73a8f760a0d837686b9c5c72
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5ee3bcc9ea1c4734958d5c404ce89e2bda6f5e63
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665168"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736307"
 ---
-# <a name="enable-an-archive-mailbox"></a>Aktivera en Arkivera postlåda
+# <a name="enable-an-archive-mailbox"></a>Aktivera en arkivpostlåda
 
-Arkivera e-postlådor i Office 365 (kallas även *Online Arkiv*) ger användarna ytterligare e-lagring. Användare kan flytta eller kopiera objekt till deras Arkivera postlåda och administratörer kan skapa en arkiveringsprincip som automatiskt flyttar objekt att arkivera e-postlådor.
+Arkivera postlådor i Office 365 (även kallad *online-arkiv*) förse användare med ytterligare e-lagring. Användare kan flytta eller kopiera objekt till sin arkivpostlåda, och administratörer kan skapa en arkivprincip som automatiskt flyttar objekt till arkivpostlådor.
   
-Här är hur du skapar en postlåda i arkivet:
+Så här skapar du en arkivpostlåda:
   
 1. Gå till [https://protection.office.com](https://protection.office.com).
 
 2. Logga in på Office 365 med ditt administratörskonto.
 
-3. I den vänstra delen av säkerheten &amp; regelefterlevnadscentret, Välj **Data governance** \> **Arkiv**.
+3. I den vänstra rutan &amp; i Security Compliance Center väljer du **Arkiv**för **data styrning** \> .
 
-4. Markera den användare vars Arkivera postlåda som du vill aktivera.
+4. Markera den användare vars arkivpostlåda du vill aktivera.
 
-5. Markera **Aktivera** i informationsfönstret till höger och välj sedan **Ja** i varningsmeddelandet om att arkivera postlåda.
+5. I informationsfönstret till höger väljer du **Aktivera** och väljer sedan **Ja** i varningsmeddelandet för att aktivera arkivpostlådan.
 
-Du kan också bulk-aktivera Arkivera e-postlådor genom att markera flera användare (med hjälp av tangenterna **SKIFT** eller **Ctrl** ) och sedan välja **Aktivera** i informationsfönstret.
+Du kan också massaktivera arkivera postlådor genom att markera flera användare (med hjälp av **SKIFT** -eller **CTRL** -tangenterna) och sedan välja **Aktivera** i informationsfönstret.
   
 Mer information finns i:
   
-- [Aktivera Arkivera postlådor i Office 365](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
+- [Aktivera arkivpostlådor i Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Skapa ett Arkiv och borttagning av princip i Office 365](https://support.office.com/article/Set-up-an-archive-and-deletion-policy-for-mailboxes-in-your-Office-365-organization-ec3587e4-7b4a-40fb-8fb8-8aa05aeae2ce)
+- [Konfigurera en princip för arkivering och borttagning i Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

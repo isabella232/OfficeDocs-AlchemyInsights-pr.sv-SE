@@ -1,5 +1,5 @@
 ---
-title: Ändra domänen för Office 365-grupp
+title: Ändra domän för Office 365 grupp
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 2d08c3b4091274daee8e47527b14865574715176
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d897efdfb03832179e46f04f5ae6a1986d60e86f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519749"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736847"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>Ändra domänen för Office 365-grupp
+# <a name="change-the-domain-for-office-365-group"></a>Ändra domänen för Office 365 grupp
 
-Om du vill ändra domänen för en Office 365-grupp under skapandet åtgärderna i [väljer du domänen som ska användas när du skapar Office 365-grupper](https://support.office.com/article/7cf5655d-e523-4bc3-a93b-3ccebf44a01a.aspx).
+Om du vill ändra domänen för en Office 365-grupp under skapandet följer du stegen i [Välj domänen som ska användas när du skapar Office 365-grupper](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
   
-När Office 365-grupp skapas finns för närvarande inget sätt att ändra domänen. Det enda sättet är att skapa en ny grupp i Office 365 och ta bort det gamla om det behövs (ytterligare e-postadresser kan läggas till via [Exchange Admin Center](https://outlook.office365.com/ecp.aspx)).
+När Office 365-gruppen redan har skapats finns det för närvarande inget sätt att ändra domänen. Det enda sättet är att skapa en ny Office 365-grupp och ta bort den gamla om det behövs (ytterligare e-postadresser kan läggas till via [Exchange Admin Center](https://outlook.office365.com/ecp.aspx)).

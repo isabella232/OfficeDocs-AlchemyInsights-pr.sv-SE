@@ -1,6 +1,6 @@
 ---
-title: Ändra domännamnet i SharePoint Online
-ms.author: kirks
+title: Ändra domännamn i SharePoint Online
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/16/2018
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: f5fa4509542dd28fa4749ab995350ce876195ee8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 33c6f6c5906cd9a2a8f3a5a6e66e13fdaba392f2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519209"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747658"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a>Ändra domännamnet i SharePoint Online
+# <a name="change-domain-name-in-sharepoint-online"></a>Ändra domännamn i SharePoint Online
 
-Tyvärr, det går inte att ändra SharePoint Online domännamnet för din organisation i Office 365. Till exempel, om namnet på din organisation ändras från ”Contoso” till ”Fourth Coffee”, kan inte du ändra contoso.sharepoint.com till fourthcoffee.sharepoint.com.
+Tyvärr är det inte möjligt att ändra SharePoint Online-domännamnet för din organisation i Office 365. Om namnet på din organisation till exempel ändras från "contoso" till "fjärde kaffe" kan du inte ändra contoso.sharepoint.com till fourthcoffee.sharepoint.com.
   
-Om du vill använda domänen namn fourthcoffee.sharepoint.com, skulle du behöva köpa en prenumeration på Office 365 och flytta alla e-post, filer och andra data som du vill behålla till den nya prenumerationen.
+Om du vill använda domännamnet fourthcoffee.sharepoint.com måste du köpa ett nytt Office 365-abonnemang och flytta alla e-postmeddelanden, filer och andra data som du vill behålla till den nya prenumerationen.
   
- **Anmärkning**: Om du vill byta namn på en webbplats från https://contoso.sharepoint.com/sites/sample1 till https://contoso.sharepoint.com/sites/sample2, skapa en ny plats och sedan flytta allt innehåll från den gamla webbplatsen till den nya.
+ Om **du till**exempel vill ändra namnet på en webbplats från https://contoso.sharepoint.com/sites/sample1 till https://contoso.sharepoint.com/sites/sample2skapar du en ny webbplats och flyttar sedan allt innehåll från den gamla webbplatsen till det nya.
   
 Information om hur du flyttar objekt i dokumentbibliotek finns i [Flytta eller kopiera objekt från ett SharePoint-dokumentbibliotek](https://go.microsoft.com/fwlink/?linkid=2025831).
   

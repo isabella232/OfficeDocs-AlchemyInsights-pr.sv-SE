@@ -1,6 +1,6 @@
 ---
-title: Felmeddelande när du delar filer från Utforskaren
-ms.author: kirks
+title: Felmeddelande vid delning av filer från Utforskaren
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/19/2018
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 1460a73a0365c4fd170f6aea3a30cc4d6dcefce2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a8fe007084883b125b0ca538156a1576deb1c28e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527276"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756010"
 ---
-# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Felmeddelande när du delar filer från Utforskaren
+# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Felmeddelande vid delning av filer från Utforskaren
 
-När du försöker dela från Utforskaren i Windows kan det hända att följande felmeddelande visas:
+När du försöker dela från Utforskaren kan du få följande felmeddelande:
   
-”Tyvärr, vi gick inte att nå servern just nu. Försök igen senare ”
+"Tyvärr, vi kan inte nå servern just nu. Vänligen försök igen senare "
   
-Lösa fel meddelande från Internet Explorer går du till **Verktyg** \> **Internet-alternativ** \> Klicka på fliken **Avancerat** och avmarkerar sedan kryssrutan med rubriken **Spara inte krypterade sidor på disken**.
+För att lösa felmeddelandet, från Internet Explorer gå till **verktyg** \> **Internet alternativ** \> Klicka på fliken **Avancerat** och avmarkera kryssrutan **Spara inte krypterade sidor på disk**.
   
- **Obs**: du kan behöva starta om webbläsaren för att inställningen ska börja gälla. Ytterligare information finns i [”Det går inte att nå servern just nu” felmeddelande när du delar filer](https://go.microsoft.com/fwlink/?linkid=2022914).
+ **Obs**: du kan behöva starta om webbläsaren för att inställningen ska träda i kraft. Mer information finns [i "det går inte att nå servern just nu" felmeddelande när du delar filer](https://go.microsoft.com/fwlink/?linkid=2022914).
   

@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: d4bfdb44c04eb6838f4a265e55a4873d14c78f6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558005"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738107"
 ---
 # <a name="workflow-is-not-starting"></a>Arbetsflödet startar inte
 
-- Arbetsflöden för SharePoint 2010 och SharePoint 2013 startar inte.
+- SharePoint 2010 och SharePoint 2013 arbetsflöden startar inte.
 
-    - Om arbetsflödet inte startar, kan det finnas en tillfällig service problem där användare kan drabbas av återkommande förseningar med arbetsflödet. Kontrollera att [Tjänsten hälsa instrumentpanelen](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) för att se om din organisation påverkas.
+    - Om ditt arbetsflöde inte startar kan det finnas ett tillfälligt tjänstproblem där användare kan drabbas av återkommande fördröjningar med arbetsflödes förloppet. Kontrollera den [service Health instrumentpanelen](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) för att se om din organisation påverkas.
 
-    - Om mer än 24 timmar har gått sedan du först såg problemet, logga en biljett stöd. I många fall kan arbetar vi redan på en lösning. Ge oss minst 24 timmar att slutföra en lösning.
+    - Om mer än 24 timmar har gått sedan du först såg detta problem, vänligen logga ett supportärende. I många fall arbetar vi redan på en lösning. Vänligen ge oss minst 24 timmar för att slutföra en lösning.
 
-- SharePoint 2010 arbetsflöden fördröjda på start.
+- SharePoint 2010 arbetsflöden fördröjs på Start.
 
-    - Detta inträffar om arbetsflödet ska utlösas i stora grupper. (till exempel när flera artiklar läggs till på en gång).
+    - Detta inträffar om arbetsflödet utlöses i stora partier. (till exempel när flera objekt läggs till på en gång).
 
-    - Arbetsflöden är inte avsett att köras i realtid, så att en fördröjning är avsiktlig beteende.
+    - Arbetsflöden är inte utformade för att köras i realtid, så en fördröjning är avsiktligt beteende.
 
-   -  Om arbetsflödet är komplexa Extensible Object Markup Language (XMOL), kan kompilering vara långsam. Kontrollera [den här](https://support.microsoft.com/en-us/kb/3043697) artikeln.
+   -  Om arbetsflödet är komplext Extensible Object Markup Language (XMOL), kan kompilering vara långsam. Kontrollera [den här](https://support.microsoft.com//kb/3043697) artikeln.
 
-    - Du bör förenkla arbetsflödet eller modifiera den med hjälp av Microsoft SharePoint 2013 arbetsflöde-plattformstyp.
+    - Du bör förenkla arbetsflödet eller omforma det med hjälp av Microsoft SharePoint 2013 arbetsflödestypen plattform.
 
-    - Om din arbetsflödeshistorik har blivit stort, kanske du vill rensa objekten eller skapa en ny historiklista.
+    - Om arbetsflödeshistoriken har blivit stor kanske du vill rensa objekten eller skapa en ny historiklista.
 
-        Mer Information: [Rensa arbetsflödeshistorik](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Mer information: [Rensa arbetsflödeshistoriken](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Relaterade ämnen
 Vill du prova Microsoft Flow i SharePoint Online?
 - [Skapa flöde](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint och flöde](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [SharePoint och Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

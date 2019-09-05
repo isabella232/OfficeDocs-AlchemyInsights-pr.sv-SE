@@ -1,5 +1,5 @@
 ---
-title: 912 konfigurera Focused inkorg för alla i organisationen
+title: 912 konfigurera fokuserad inkorg för alla i organisationen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "912"
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: d5b8825bede8ff17a10dba09f269320e17b13354
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504733"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738431"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Aktivera fokuserar Inkorgen eller inaktivera för alla
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Aktivera eller inaktivera fokuserad inkorg för alla
 
-Instruktioner finns i [Konfigurera fokuserar Inkorgen för alla i organisationen](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).
+Anvisningar finns [i Konfigurera fokuserad inkorg för alla i organisationen](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).
 
-**Anmärkning**: denna procedur kräver Exchange Online PowerShell. Vill du i stället göra detta i Microsoft 365 administratörscenter? [Rösta här!](https://go.microsoft.com/fwlink/p/?linkid=862489)
+**Anmärkningar**: den här proceduren kräver Exchange Online PowerShell. Vill du göra detta i Microsoft 365 administratörscenter i stället? [Rösta här!](https://go.microsoft.com/fwlink/p/?linkid=862489)

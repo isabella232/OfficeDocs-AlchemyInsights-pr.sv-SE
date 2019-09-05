@@ -14,27 +14,27 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 96780bd2f4182c1385406ec2a31cd62745137985
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30c51d84005534cc1de9e8b8136da1a07be57b73
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515825"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738215"
 ---
 # <a name="create-a-sharepoint-site"></a>Skapa en SharePoint-webbplats
 
-Du kan se följande information om skapande av SharePoint-webbplats:
-- [Hantera platser i nya SharePoint administratörscenter](https://docs.microsoft.com/sharepoint/manage-site-creation): Lär dig mer om webbplatsen Skapandealternativ, inklusive hur du skapar en klassisk eller en Team-webbplats som inte innehåller en Office 365-grupp.
-- [Skapa en gruppwebbplats i SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US): Lär dig hur du skapar en gruppwebbplats.
-- [Skapa en webbplats för kommunikation i SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): Lär dig hur du skapar en webbplats för kommunikation.
-- [Hantera platser i nya SharePoint administratörscenter](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): Lär dig hur du skapar en klassisk eller en gruppwebbplats som inte innehåller en Office 365-grupp.
+Du kan se följande information om hur du skapar SharePoint-webbplatser:
+- [Hantera platser i det nya SharePoint-administratörscenter](https://docs.microsoft.com/sharepoint/manage-site-creation): Lär dig mer om alternativ för att skapa webbplatser, inklusive hur du skapar en klassisk webbplats eller en Teams-webbplats som inte innehåller en Office 365-grupp.
+- [Skapa en gruppwebbplats i SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d): Lär dig hur du skapar en gruppwebbplats.
+- [Skapa en kommunikations plats i SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): Lär dig hur du skapar en kommunikations plats.
+- [Hantera platser i det nya SharePoint-administratörscenter](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): Lär dig hur du skapar en klassisk webbplats eller en gruppwebbplats som inte innehåller en Office 365-grupp.
 
 
   
-> [! Tips]
-> - Du kan inte skapa en webbplats med samma URL-Adressen till en befintlig webbplats. Om du ta bort en webbplats och önskar att återanvända URL kan webbplatsen borttagen kvarstår under **borttagna platser**. Ta bort platser finns i [Ta bort en webbplats](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)att hantera. Om du vill ta bort en webbplats med Powershell, se [Ta bort SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) -cmdlet exempel.
+> [! Tips
+> - Du kan inte skapa en webbplats med samma URL för en befintlig plats. Om du har tagit bort en webbplats och vill återanvända URL-adressen är det möjligt att den borttagna webbplatsen fortfarande finns under **borttagna webbplatser**. Om du vill hantera borttagna webbplatser se, [ta bort en webbplats](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Om du vill ta bort en webbplats med PowerShell helt, se [ta bort SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet exempel.
 > - Vissa användare kanske inte kan skapa en webbplats. Se [Hantera webbplats skapas i SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-> - Det är möjligt att webbplatsen visas fast vid **Skapa** längre tid än förväntat. Om mer än 24 timmar har gått sedan du först såg problemet, logga en biljett stöd. I många fall kan arbetar vi redan på en lösning. Ge oss minst 24 timmar att slutföra en lösning.
-> - Om du behöver skapa en ny gruppwebbplats som inte innehåller en Office 365-grupp 
+> - Det är möjligt att webbplatsen visas fast på **att skapa** längre än förväntat. Om mer än 24 timmar har gått sedan du först såg detta problem, vänligen logga ett supportärende. I många fall arbetar vi redan på en lösning. Vänligen ge oss minst 24 timmar för att slutföra en lösning.
+> - Om du behöver skapa en ny gruppwebbplats som inte innehåller en Office 365-grupp, 
 
 

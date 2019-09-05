@@ -11,25 +11,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519821"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736739"
 ---
-# <a name="change-your-display-name"></a>Ändra ditt visningsnamn
+# <a name="change-your-display-name"></a>Ändra visningsnamn
   
 Använd följande steg om du vill ändra ditt visningsnamn i Outlook.
   
-1. Markera **filen** i Outlook \> **Inställningar** \> **Kontoinställningar**.
+1. I Outlook väljer du **Kontoinställningar**för **fil** \> **Kontoinställningar** \> .
 
-2. Markera e-postkontot och välj **Ändra**.
+2. Välj e-postkontot och välj sedan **ändra**.
 
     > [!NOTE]
-    > Om du inte ser alternativet för att ändra ditt visningsnamn använder du förmodligen ett Microsoft Exchange-e-postkonto. I detta fall måste du kontakta administratören om du vill ändra ditt visningsnamn. Se [Ändra användarnamn och e-postadress i Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).
+    > Om du inte ser alternativet för att ändra ditt visningsnamn använder du antagligen ett Microsoft Exchange-e-postkonto. I det här fallet måste du kontakta administratören om du vill ändra ditt visningsnamn. Se [ändra ett användarnamn och en e-postadress i Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
-3. Klicka på **OK** om du vill spara ändringarna när du har ändrat ditt namn. Det kan ta några timmar för att ändringarna ska återspegla i hela organisationen.
+3. När du har ändrat visningsnamnet klickar du på **OK** för att spara ändringarna. Det kan ta några timmar innan ändringarna återspeglas i hela organisationen.
 
-Mer information finns i [ändra visningsnamnet som e-postmottagare finns](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
+Mer information finns [i ändra det visningsnamn som e-postmottagarna ser](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
   

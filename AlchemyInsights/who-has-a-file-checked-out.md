@@ -1,6 +1,6 @@
 ---
-title: Vem har en utcheckad fil?
-ms.author: kirks
+title: Vem har en fil utcheckad?
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: fc718d6a5907fd97d0a7fc55c5dc8a31d4959d13
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 56aa04f7866227c4b5a1e1828d3c10ea3746d00a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531049"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748342"
 ---
-# <a name="who-has-a-file-checked-out"></a>Vem har en utcheckad fil?
+# <a name="who-has-a-file-checked-out"></a>Vem har en fil utcheckad?
 
-Om du vill se vem som har filen är utcheckad i SharePoint, kan du göra något av följande:
+Om du vill se vem som har en fil utcheckad i SharePoint, kan du göra något av följande steg:
   
-1. Hovra över **Utcheckad** visas som talar om vem som har checkat ut filen. 
+1. Hovra över **utcheckad** om du vill se en knappbeskrivning som anger vem som har checkat ut filen. 
     
-2. Lägg till kolumnen **Utcheckad av** standardvyn för biblioteket. På så sätt kan se alla enkelt vem som har checkat ut dokumentet. 
+2. Lägg till kolumnen **Utcheckad av** i standardvyn för biblioteket. På så sätt kan alla enkelt se vem som har ett dokument utcheckat. 
     
-Om du vill veta hur du lägger till en utcheckad av kolumn i SharePoint finns i [Skapa en kolumn i en lista eller ett bibliotek](https://go.microsoft.com/fwlink/?linkid=2019591). 
+Mer information om hur du lägger till en utcheckad av kolumn i SharePoint finns i [skapa en kolumn i en lista eller ett bibliotek](https://go.microsoft.com/fwlink/?linkid=2019591). 
   
-Se mer ofta frågor och svar om checka in eller checka ut, [Checka ut checka in övre](https://go.microsoft.com/fwlink/?linkid=2018786)frågor.
+Se fler vanliga frågor om checka in eller checka ut, se [de vanligaste frågorna om utcheckning, incheckning](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

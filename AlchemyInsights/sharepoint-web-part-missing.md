@@ -1,6 +1,6 @@
 ---
-title: Project Web App saknas från SharePoint-webbplatssamling
-ms.author: kirks
+title: Project Web App saknas i SharePoint-webbplatssamling
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -9,19 +9,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000207
-ms.openlocfilehash: a68fefa2f92ee43a6e26807fe89d034589b2476b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8c749ce5f7e6a00b990ca387833fac90f4e2ce17
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502602"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749674"
 ---
-# <a name="missing-web-part-in-sharepoint-site-collection"></a>Saknade webbdel i SharePoint-webbplatssamling
+# <a name="missing-web-part-in-sharepoint-site-collection"></a>Webbdelen saknas i SharePoint-webbplatssamling
 
-Om du saknar en webbdel som används för att se, är det möjligt att du försöker lägga till en [Klassisk webbdel på en modern sida](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). Det är viktigt att Observera att moderna sidor kan bara använda moderna webbdelar och klassiska sidor kan bara använda klassiska webbdelar. Många moderna webbdelar uppfylla samma ändamål som klassiska webbdelar, men du kommer att se skillnader i utseende och funktioner.
+Om du saknar en webbdel som du är van vid att se är det möjligt att du försöker lägga till en [klassisk webbdel på en modern sida](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). Det är viktigt att notera att moderna sidor endast kan använda moderna webbdelar och klassiska sidor kan bara använda klassiska webbdelar. Många moderna webbdelar uppfyller samma syften som klassiska webbdelar, men du kommer att se skillnader i utseende och funktionalitet.
 
-Det finns många webbdelar som inte visar beror på [inställningen för anpassade skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script), som är inaktiverat som standard i moderna webbplatser. 
+Det finns många webbdelar som inte visas på grund av den [anpassade skript inställningen](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script), som är inaktiverad som standard på moderna webbplatser. 
 
-En lista över webbdelar som är tillgängliga finns i, [funktioner som påverkas när skriptet är spärrad](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
+En lista över webbdelar som inte är tillgängliga finns i, [funktioner som påverkas när anpassade skript blockeras](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
 
- Mer information om säkerhetsaspekter för anpassade skript finns i [säkerhetsaspekter för att möjliggöra anpassat skript](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
+ Mer information om säkerhetskonsekvenserna av anpassade skript finns i avsnittet [säkerhetsöverväganden för att tillåta anpassade skript](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
