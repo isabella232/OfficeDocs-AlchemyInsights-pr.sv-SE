@@ -1,6 +1,6 @@
 ---
-title: Dela en webbplats för kommunikation med externa användare
-ms.author: kirks
+title: Dela en kommunikations plats med externa användare
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 0bdcc0c42cf73f6538de1613d710dd2143dbf887
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e41b296f3ac02d766c55133c1d31f687f7854641
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508729"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751978"
 ---
-# <a name="share-a-communication-site-with-external-users"></a>Dela en webbplats för kommunikation med externa användare
+# <a name="share-a-communication-site-with-external-users"></a>Dela en kommunikations plats med externa användare
 
-Gör följande om du vill aktivera extern användare delar kommunikation webbplatser: 
+Så här aktiverar du delning av externa användare för kommunikations platser: 
   
-1. Öppna **Modern Admin Center** - om du är i klassiskt Admin Center visas en **Testa nu** eller ** försök förhandsgranskningen ** knappen från höger överkant. Detta leder till Modern Admin Center. 
+1. Öppna det **moderna administrationscentret** -om du är i det klassiska administrationscentret ser du ett **försök nu** eller * * prova förhandsgranskningsknappen * * längst upp till höger. Detta tar dig till det moderna administrationscentret. 
   
 2. Välj **aktiva platser.**
   
-3. Välj en plats som har en **mall för kommunikation**. 
+3. Välj en plats som har en **mall för kommunikationsmall**. 
   
-4. Klicka på knappen **Dela** från huvudmenyn. 
+4. Välj **delnings** knappen på den översta menyn. 
   
- **Observera:** Om du har mer än en plats som valts visas knappen **Dela** inaktiverad. Välj endast en plats. 
+ **Anmärkning:** Om du har fler än en plats markerad kommer **delnings** knappen att visas inaktiverad. Välj endast en webbplats. 
   
 

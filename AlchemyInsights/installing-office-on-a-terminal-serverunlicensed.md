@@ -1,5 +1,5 @@
 ---
-title: Installera office på en Terminal Server - olicensierade
+title: Installera Office på en terminalserver-olicensierad
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -11,44 +11,44 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498433"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735407"
 ---
-# <a name="installing-office-on-a-terminal-server"></a>Installera Office på en Terminal-Server
+# <a name="installing-office-on-a-terminal-server"></a>Installera Office på en terminalserver
 
-För distribution av Office 365 ProPlus på en Windows-Server med hjälp av Remote Desktop Services (RDS), tidigare kallad Terminal Services:
+För distribution av Office 365 ProPlus på en Windows-Server med hjälp av Remote Desktop Services (RDS), tidigare namngivna Terminal Services:
   
-- Du måste ha en Office 365-plan som innehåller Office 365 ProPlus, till exempel Office 365 Enterprise E3 eller Enterprise E5. Ta inte med Office 365 ProPlus Office 365 Business och Office 365 Business Premium planer.
+- Du måste ha en Office 365-plan som innehåller Office 365 ProPlus, till exempel Office 365 Enterprise E3 eller Enterprise E5. Office 365 Business och Office 365 Business Premium-abonnemang innehåller inte Office 365 ProPlus.
 
-- Du måste aktivera [delad dator](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Du måste aktivera [delad datoraktivering](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Gör följande om du vill installera Office 365 ProPlus på klientåtkomstlicenser från Office 365-portalen, ***som använder standardinställningarna för installationen***:
+Om du vill installera Office 365 ProPlus på RDS från Microsoft 365 Admin Center, ***som använder standardinställningarna för installation***, så här:
   
-1. Kontrollera vilken Office 365-plan du har. [Lär dig hur](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Kontrollera vad Office 365 plan du har. [Lära sig](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Om det behövs, växla till en annan Office 365-plan. [Lär dig hur](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Om det behövs växlar du till en annan Office 365-plan. [Lära sig](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
 
-3. Om Office har installerats på RDS-server med hjälp av andra Office 365-planer, avinstallera den. Till exempel Gå till Kontrollpanelen genom att \> avinstallera ett program. Avinstallera med hjälp av [Microsoft Support och återställning assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) om du kör till problem.
+3. Om Office redan är installerat på RDS-servern med andra Office 365-abonnemang avinstallerar du det. Till exempel, genom att gå till kontroll \> panelen Avinstallera ett program. Avinstallera med hjälp av [Microsoft support och Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) om du kör i problem.
 
-4. Logga in på Office 365-portalen med ditt administratörskonto och [installera Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx)på RDS-server.
+4. På RDS-servern loggar du in på Microsoft 365 administratörscenter med ditt administratörskonto och [installerar Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. När Office har installerats kan ***inte öppna eller logga in*** till alla Office-program.
+5. När Office har installerats ska ***du inte öppna eller logga in*** på några Office-program.
 
-6. Aktivera delade aktivering på RDS-server genom att redigera registret så här:
+6. Aktivera delad datoraktivering genom att redigera registret på RDS-servern genom att följa dessa steg:
 
-1. Högerklicka på Windows-knappen i det nedre vänstra hörnet av skärmen och välj kör. Skriv **regedit**i rutan Öppna och klicka sedan på OK.
+1. Högerklicka på Windows-knappen i det nedre vänstra hörnet av skärmen och välj Kör. Skriv **regedit**i rutan Öppna och välj sedan OK.
 
-2. Välj Ja när du uppmanas att tillåta Registereditorn att göra ändringar i din enhet.
+2. Välj Ja när du tillfrågas om du vill tillåta att Registereditorn gör ändringar på enheten.
 
-3. I Registereditorn kan du lägga till ett strängvärde av **SharedComputerLicensing** med inställningen 1 under HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
+3. I Registereditorn lägger du till ett strängvärde för **Sharedcomputerlicensing** med en inställning på 1 under HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. På RDS-server, ***Logga in som en användare*** och [Kontrollera att delade aktivering är aktiverat för Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. ***Logga in som en slutanvändare*** på RDS-servern och [Kontrollera att aktivering av delade datorer är aktiverat för Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
-Mer information om förutsättningar, instruktioner och riktlinjer för anpassade installationer med hjälp av verktyget Office Deployment finns i [Distribuera Office 365 ProPlus med hjälp av Remote Desktop Services](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Mer information om förutsättningar, installationsanvisningar och vägledning om anpassade installationer med hjälp av Office Deployment Tool finns i [distribuera office 365 ProPlus med hjälp av Fjärrskrivbordstjänster](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
-Åtgärda fel som är relaterade till delade aktivering finns i [Felsöka problem med delade aktivering för Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Om du vill åtgärda fel i samband med aktivering av delade datorer läser du [Felsöka problem med aktivering av delade datorer för Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
   

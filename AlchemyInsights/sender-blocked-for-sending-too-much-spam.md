@@ -12,12 +12,12 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 05b961cec364bce694a8f39d9de245062bfdb859
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7e977f1393bb47cd2a4cb27ddef18f48105214a9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666354"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744947"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>Kontot har blockerats för att ha skickat för mycket skräppost
 
@@ -27,5 +27,5 @@ Om ett Office 365-konto har blockerats för att ha skickat för mycket skräppos
 
 2. Gå till Begränsade användare och **[avblockera kontot](https://protection.office.com/?hash=/restrictedusers)** i Säkerhets- och&amp; efterlevnadscentret. När det är gjort bör du kunna skicka meddelanden igen *inom en timme*.
 
-3. Om du vill förhindra framtida kontointrång följer du rekommendationerna i [Metodtips för säkerhet i Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).
+3. Om du vill förhindra framtida kontointrång ska du följa rekommendationerna i [Säkerhetsöversikt för Office 365](https://docs.microsoft.com/office365/securitycompliance/security-roadmap).
   

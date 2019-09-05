@@ -1,6 +1,6 @@
 ---
-title: Inställningar för Outlook.com
-ms.author: kirks
+title: Outlook.com inställningar
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 3/21/2019
@@ -9,13 +9,24 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a86cd709a86199c1db427faff74fb1270d217eee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b710fdd2f258b8142bb536205ce7e969c4669e2c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535409"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752914"
 ---
-# <a name="settings-in-outlookcom"></a>Inställningarna i Outlook.com
+# <a name="settings-in-outlookcom"></a>Inställningar i Outlook.com
 
-<ul type="disc"> <li><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Om mottagaren är intern eller extern för din organisation och om de använder ett Office 365 eller Outlook.com e-postkonto följande klienter bör inte behöver göra något speciellt för att öppna meddelandet: <strong>Outlook 2016, Outlook på webben / Outlook Web App</strong> <strong>Outlook mobile app</strong></span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Ombud</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">användare att skyddade e-postmeddelandet skickades till, går inte att öppna skyddade meddelanden. Endast de ursprungliga mottagare (person som skyddat e-postmeddelande skickades till) kan visa informationen i e-postmeddelandet.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Om mottagaren är på en annan internet-tjänstprovider och de&nbsp;det gick inte att öppna meddelandet och se en &lsquo;rpmsg&rsquo; bilaga, du råd följer du anvisningarna nedan:</span> <ul type="circle"> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Markera <strong style="mso-bidi-font-weight: normal;">Läs</strong> den meddelandet.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">De omdirigeras till en sida där de ska välja &lsquo; <strong style="mso-bidi-font-weight: normal;">Logga in med en engångs-kod</strong>&rsquo;</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">En enkel användning kod skickas till samma e-postadress. Ange koden i webbläsarfönstret och välj <strong style="mso-bidi-font-weight: normal;">Fortsätt</strong> om du vill läsa meddelandet.</span></li> </ul> </li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Om det inte går att krypterade meddelanden från en annan organisation för Office 365, anvisningarna upplösning anges i denna <a href="https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">artikel</span></a> .</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Om mottagarens postlåda på <strong>Yahoo eller Gmail </strong> <span style="mso-bidi-font-weight: bold;">följer du instruktionerna</span> i denna <a href="https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">artikel</span></a>.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Skydd principer gäller endast för <a href="https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types"><span style="color: blue;">kända filformat</span></a>. PDF- och OneDrive för Business bifogad fil stöds inte för kryptering.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Delade postlådor</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">kan inte öppna krypterade meddelanden för närvarande via valfri klient.</span></li> </ul>
+Om mottagaren är intern eller extern för din organisation och om de använder ett Office 365 eller Outlook.com e-postkonto, bör följande klienter inte behöver göra något speciellt för att öppna meddelandet: **outlook 2016, Outlook på webben/Outlook Web App, Outlook Mobile App**
+
+**Ombud** för användare som skyddade e-post skickades till, kan inte öppna skyddade meddelanden. Endast de ursprungliga mottagarna (personen som skyddade e-postmeddelandet skickades till) kan visa informationen i e-postmeddelandet.
+
+- Om mottagaren är på en annan Internet-leverantör och de&nbsp;inte kan öppna meddelandet och se en "rpmsg" bifogad fil, följ instruktionerna nedan:
+    - Välj **Läs** meddelandet.
+    - De omdirigeras till en sida där de ska välja **Logga in med en engångskod**.
+    - En engångskod skickas till samma e-postadress. Ange koden i webbläsarfönstret och välj sedan **Fortsätt** för att läsa meddelandet.
+- Om du inte kan kryptera meddelanden från en annan organisation i Office 365, följer du de Lösningssteg som anges i den här [artikeln](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164).
+- Om mottagarens postlåda finns på **Yahoo eller Gmail**följer du anvisningarna</span> i den här [artikeln](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098).
+- Skyddsprinciper gäller endast för [kända filformat](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types). PDF-och OneDrive för företag-bilagor stöds inte för kryptering.
+- Delade postlådor **kan inte öppna krypterade meddelanden för närvarande via en klient**. 

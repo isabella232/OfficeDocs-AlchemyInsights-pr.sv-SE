@@ -12,12 +12,12 @@ ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: fca4150c6dbeed2d83d7d6d6503b9f8742a1ff6b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: c70374055d650e5673c1110bcf7b8b8b9ceaff66
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665178"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740411"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Markeras riktiga meddelanden som skräppost?
 
@@ -27,7 +27,7 @@ Det bästa sättet att rapportera dessa problem är att:
   
 1. [Aktivera rapporteringsinlägget](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) för användaren.
 
-2. Användaren [rapporterar meddelandet som Inte skräppost](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).
+2. Användaren [rapporterar meddelandet som Inte skräppost](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2).
 
 Om du vill öppna ett supportärende bifogar du de fullständiga e-postsidhuvudena från minst **ett helt originalmeddelande** nedan.
   

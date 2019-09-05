@@ -14,15 +14,15 @@ ms.custom:
 - "3500013"
 - "3800012"
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
-ms.openlocfilehash: 6b5c7f7e349f7124002ad15d3986b12458153ff3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: aaa7203c4879b65ec551374a911878556e44ed9a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664190"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735623"
 ---
 # <a name="how-to-create-and-manage-room-mailboxes"></a>Skapa och hantera rumspostlådor
 
 Om du vill skapa och ändra rumspostlådor, se [skapa och hantera rumspostlådor](https://technet.microsoft.com/library/jj215781.aspx).
 
-Mer information om postlådor för rum och utrustning (kallas även resurspostlådor) finns i [rums-och utrustningspostlådor](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).
+Mer information om postlådor för rum och utrustning (kallas även resurspostlådor) finns i [rums-och utrustningspostlådor](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).

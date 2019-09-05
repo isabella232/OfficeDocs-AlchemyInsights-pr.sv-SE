@@ -10,12 +10,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: 08a59e9ebcae5ab0daff6089b54a73339fea6fc9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: fab71b234088b54a684f43dca5533dd0332da48d
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661566"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739079"
 ---
 # <a name="issue-with-skype-for-business"></a>Har du problem med Skype för företag?
 
@@ -23,11 +23,10 @@ Vi har upptäckt att följande domäner har problem som kan göra att Skype för
   
 {HealthCheckString}
   
-NS-, CNAME- eller SRV-posterna för domäninställningarna (DNS) är inte korrekt konfigurerade för Skype för företag. I [Uppdatera DNS-poster i Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) hittar du detaljerade anvisningar.
+NS-, CNAME- eller SRV-posterna för domäninställningarna (DNS) är inte korrekt konfigurerade för Skype för företag. Detaljerade instruktioner finns i [Skapa DNS-poster på vilken DNS-värd som helst för Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
   
 Du kan lösa problemet genom att gå till sidan [Domäner](https://admin.microsoft.com/adminportal/home#/Domains) i administrationscentret för Microsoft 365, så hjälper vi dig.
   
 Om du har problem med att kommunicera med användare som finns utanför din organisation kan du gå till [Konfigurera extern kommunikation i Skype för företag – Online](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) och få detaljerade anvisningar.
-  
-[Läs Vanliga frågor och svar om domäner](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) för andra vanliga lösningar.
+
   
