@@ -1,6 +1,6 @@
 ---
-title: Ändra domännamnet i SharePoint Online
-ms.author: kirks
+title: Ändra domännamn i SharePoint Online
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/16/2018
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: f5fa4509542dd28fa4749ab995350ce876195ee8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 33c6f6c5906cd9a2a8f3a5a6e66e13fdaba392f2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519209"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747658"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a><span data-ttu-id="ad8db-102">Ändra domännamnet i SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="ad8db-102">Change domain name in SharePoint Online</span></span>
+# <a name="change-domain-name-in-sharepoint-online"></a><span data-ttu-id="03eeb-102">Ändra domännamn i SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="03eeb-102">Change domain name in SharePoint Online</span></span>
 
-<span data-ttu-id="ad8db-103">Tyvärr, det går inte att ändra SharePoint Online domännamnet för din organisation i Office 365.</span><span class="sxs-lookup"><span data-stu-id="ad8db-103">Unfortunately, it isn't possible to change the SharePoint Online domain name for your organization in Office 365.</span></span> <span data-ttu-id="ad8db-104">Till exempel, om namnet på din organisation ändras från ”Contoso” till ”Fourth Coffee”, kan inte du ändra contoso.sharepoint.com till fourthcoffee.sharepoint.com.</span><span class="sxs-lookup"><span data-stu-id="ad8db-104">For example, if the name of your organization changes from "Contoso" to "Fourth Coffee," you can't change contoso.sharepoint.com to fourthcoffee.sharepoint.com.</span></span>
+<span data-ttu-id="03eeb-103">Tyvärr är det inte möjligt att ändra SharePoint Online-domännamnet för din organisation i Office 365.</span><span class="sxs-lookup"><span data-stu-id="03eeb-103">Unfortunately, it isn't possible to change the SharePoint Online domain name for your organization in Office 365.</span></span> <span data-ttu-id="03eeb-104">Om namnet på din organisation till exempel ändras från "contoso" till "fjärde kaffe" kan du inte ändra contoso.sharepoint.com till fourthcoffee.sharepoint.com.</span><span class="sxs-lookup"><span data-stu-id="03eeb-104">For example, if the name of your organization changes from "Contoso" to "Fourth Coffee," you can't change contoso.sharepoint.com to fourthcoffee.sharepoint.com.</span></span>
   
-<span data-ttu-id="ad8db-105">Om du vill använda domänen namn fourthcoffee.sharepoint.com, skulle du behöva köpa en prenumeration på Office 365 och flytta alla e-post, filer och andra data som du vill behålla till den nya prenumerationen.</span><span class="sxs-lookup"><span data-stu-id="ad8db-105">To use the domain name fourthcoffee.sharepoint.com, you would need to purchase a new Office 365 subscription and move all email, files, and any other data you want to keep to the new subscription.</span></span>
+<span data-ttu-id="03eeb-105">Om du vill använda domännamnet fourthcoffee.sharepoint.com måste du köpa ett nytt Office 365-abonnemang och flytta alla e-postmeddelanden, filer och andra data som du vill behålla till den nya prenumerationen.</span><span class="sxs-lookup"><span data-stu-id="03eeb-105">To use the domain name fourthcoffee.sharepoint.com, you would need to purchase a new Office 365 subscription and move all email, files, and any other data you want to keep to the new subscription.</span></span>
   
- <span data-ttu-id="ad8db-106">**Anmärkning**: Om du vill byta namn på en webbplats från https://contoso.sharepoint.com/sites/sample1 till https://contoso.sharepoint.com/sites/sample2, skapa en ny plats och sedan flytta allt innehåll från den gamla webbplatsen till den nya.</span><span class="sxs-lookup"><span data-stu-id="ad8db-106">**Note**: For example, to change the name of a site from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2, create a new site, and then move all the content from the old site to the new one.</span></span>
+ <span data-ttu-id="03eeb-106">Om **du till**exempel vill ändra namnet på en webbplats från https://contoso.sharepoint.com/sites/sample1 till https://contoso.sharepoint.com/sites/sample2skapar du en ny webbplats och flyttar sedan allt innehåll från den gamla webbplatsen till det nya.</span><span class="sxs-lookup"><span data-stu-id="03eeb-106">**Note**: For example, to change the name of a site from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2, create a new site, and then move all the content from the old site to the new one.</span></span>
   
-<span data-ttu-id="ad8db-107">Information om hur du flyttar objekt i dokumentbibliotek finns i [Flytta eller kopiera objekt från ett SharePoint-dokumentbibliotek](https://go.microsoft.com/fwlink/?linkid=2025831).</span><span class="sxs-lookup"><span data-stu-id="ad8db-107">For info about moving items in document libraries, see [Move or copy items from a SharePoint document library](https://go.microsoft.com/fwlink/?linkid=2025831).</span></span>
+<span data-ttu-id="03eeb-107">Information om hur du flyttar objekt i dokumentbibliotek finns i [Flytta eller kopiera objekt från ett SharePoint-dokumentbibliotek](https://go.microsoft.com/fwlink/?linkid=2025831).</span><span class="sxs-lookup"><span data-stu-id="03eeb-107">For info about moving items in document libraries, see [Move or copy items from a SharePoint document library](https://go.microsoft.com/fwlink/?linkid=2025831).</span></span>
   

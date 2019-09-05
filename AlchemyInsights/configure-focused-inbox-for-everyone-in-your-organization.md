@@ -1,5 +1,5 @@
 ---
-title: 912 konfigurera Focused inkorg för alla i organisationen
+title: 912 konfigurera fokuserad inkorg för alla i organisationen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "912"
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: d5b8825bede8ff17a10dba09f269320e17b13354
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504733"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738431"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="c01ff-102">Aktivera fokuserar Inkorgen eller inaktivera för alla</span><span class="sxs-lookup"><span data-stu-id="c01ff-102">Turn Focused Inbox on or off for everyone</span></span>
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="07575-102">Aktivera eller inaktivera fokuserad inkorg för alla</span><span class="sxs-lookup"><span data-stu-id="07575-102">Turn Focused Inbox on or off for everyone</span></span>
 
-<span data-ttu-id="c01ff-103">Instruktioner finns i [Konfigurera fokuserar Inkorgen för alla i organisationen](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).</span><span class="sxs-lookup"><span data-stu-id="c01ff-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).</span></span>
+<span data-ttu-id="07575-103">Anvisningar finns [i Konfigurera fokuserad inkorg för alla i organisationen](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span><span class="sxs-lookup"><span data-stu-id="07575-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
 
-<span data-ttu-id="c01ff-104">**Anmärkning**: denna procedur kräver Exchange Online PowerShell.</span><span class="sxs-lookup"><span data-stu-id="c01ff-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="c01ff-105">Vill du i stället göra detta i Microsoft 365 administratörscenter?</span><span class="sxs-lookup"><span data-stu-id="c01ff-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="c01ff-106">Rösta här!</span><span class="sxs-lookup"><span data-stu-id="c01ff-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)
+<span data-ttu-id="07575-104">**Anmärkningar**: den här proceduren kräver Exchange Online PowerShell.</span><span class="sxs-lookup"><span data-stu-id="07575-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="07575-105">Vill du göra detta i Microsoft 365 administratörscenter i stället?</span><span class="sxs-lookup"><span data-stu-id="07575-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="07575-106">Rösta här!</span><span class="sxs-lookup"><span data-stu-id="07575-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)

@@ -1,5 +1,5 @@
 ---
-title: Förslag för att lösa fel ”Ej licensierad produkt”
+title: Förslag för att lösa "olicensierad produkt" fel
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501061"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743291"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a><span data-ttu-id="89212-102">Förslag för att lösa fel ”Ej licensierad produkt”</span><span class="sxs-lookup"><span data-stu-id="89212-102">Suggestions for solving "Unlicensed Product" errors</span></span>
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a><span data-ttu-id="93e49-102">Förslag för att lösa "olicensierad produkt" fel</span><span class="sxs-lookup"><span data-stu-id="93e49-102">Suggestions for solving "Unlicensed Product" errors</span></span>
 
-<span data-ttu-id="89212-103">Kontrollera att du har en prenumeration där klient-licenser som Office 365 Business eller Business Premium och [Se till att användaren har en licens](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="89212-103">Ensure you have a subscription that allows client licenses, such as Office 365 Business or Business Premium, and [ensure the user has a license assigned](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span></span> <span data-ttu-id="89212-104">Kontrollera om du har överskridit antalet installationer som stöds av din prenumeration genom att [Inaktivera en installation](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) .</span><span class="sxs-lookup"><span data-stu-id="89212-104">[Deactivate an install](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) to check if you have exceeded the number of installs supported by your subscription.</span></span>
+<span data-ttu-id="93e49-103">Se till att du har en prenumeration som tillåter klientlicenser, till exempel Office 365 Business eller Business Premium, och [Se till att användaren har en tilldelad licens](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="93e49-103">Ensure you have a subscription that allows client licenses, such as Office 365 Business or Business Premium, and [ensure the user has a license assigned](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span> <span data-ttu-id="93e49-104">[Inaktivera en installation](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) för att kontrollera om du har överskridit antalet installationer som stöds av din prenumeration.</span><span class="sxs-lookup"><span data-stu-id="93e49-104">[Deactivate an install](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) to check if you have exceeded the number of installs supported by your subscription.</span></span>
   
-<span data-ttu-id="89212-105">Se till att användaren loggar in med samma konto som du har licens.</span><span class="sxs-lookup"><span data-stu-id="89212-105">Ensure the user is signing in with the same account that has the license assigned.</span></span>
+<span data-ttu-id="93e49-105">Se till att användaren loggar in med samma konto som har tilldelats licensen.</span><span class="sxs-lookup"><span data-stu-id="93e49-105">Ensure the user is signing in with the same account that has the license assigned.</span></span>
   
-<span data-ttu-id="89212-106">Köra [felsökaren för aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="89212-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy).</span></span>
+<span data-ttu-id="93e49-106">Kör [felsökaren för aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="93e49-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy).</span></span>
   
-<span data-ttu-id="89212-107">Kontrollera om prenumerationsstatus för din har gått ut</span><span class="sxs-lookup"><span data-stu-id="89212-107">Check if your subscription status has expired</span></span>
+<span data-ttu-id="93e49-107">Kontrollera om din prenumerationsstatus har upphört att gälla</span><span class="sxs-lookup"><span data-stu-id="93e49-107">Check if your subscription status has expired</span></span>
   
-<span data-ttu-id="89212-108">Kontrollera om det finns några kända problem med tjänsten [Office 365 Service hälsa sida](https://docs.microsoft.com/office365/enterprise/view-service-health) .</span><span class="sxs-lookup"><span data-stu-id="89212-108">Check the [Office 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
+<span data-ttu-id="93e49-108">Kontrollera [Office 365 service Health-sidan](https://docs.microsoft.com/office365/enterprise/view-service-health) för att se om det finns några kända problem med tjänsten.</span><span class="sxs-lookup"><span data-stu-id="93e49-108">Check the [Office 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
   
-<span data-ttu-id="89212-109">[En Online reparation av Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="89212-109">[Perform an Online Repair of Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="93e49-109">[Utför en onlinereparation av Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="93e49-109">[Perform an Online Repair of Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
-<span data-ttu-id="89212-110">Ytterligare felsökning lösningar finns: [Ej licensierad produkt och Aktiveringsfel i Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="89212-110">For additional troubleshooting solutions, see: [Unlicensed Product and activation errors in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="93e49-110">För ytterligare felsökningslösningar, se: [olicensierad produkt och aktiveringsfel i Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="93e49-110">For additional troubleshooting solutions, see: [Unlicensed Product and activation errors in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span></span>
   

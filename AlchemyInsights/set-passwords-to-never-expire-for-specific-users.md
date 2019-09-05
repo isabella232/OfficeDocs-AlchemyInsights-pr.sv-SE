@@ -1,5 +1,5 @@
 ---
-title: Ställ in SPF i Office 365
+title: Konfigurera SPF i Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,18 +15,18 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 166c7ab10e51d309b79ae8ef1a58116e90d4380b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d11c1c637761429c684875096397d03ac64a1b6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509126"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744803"
 ---
-# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="e2aa2-102">Här anger du lösenord aldrig upphör att gälla</span><span class="sxs-lookup"><span data-stu-id="e2aa2-102">Set passwords to never expire</span></span>
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="3255c-102">Ange lösenord som aldrig upphör att gälla</span><span class="sxs-lookup"><span data-stu-id="3255c-102">Set passwords to never expire</span></span>
 
-<span data-ttu-id="e2aa2-103">Om du vill ange alla lösenord aldrig upphör att gälla, i Microsoft 365 administratörscenter, går du till **Inställningar** > [säkerhet &amp; integritet](https://portal.office.com/adminportal/home#/settings/security) sida.</span><span class="sxs-lookup"><span data-stu-id="e2aa2-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > [Security &amp; privacy](https://portal.office.com/adminportal/home#/settings/security) page.</span></span> <span data-ttu-id="e2aa2-104">Välj **Redigera** bredvid **lösenordsprincip**och omvandla reglaget till **på**.</span><span class="sxs-lookup"><span data-stu-id="e2aa2-104">Select **Edit** next to **Password policy**, and turn the slider to **On**.</span></span>
+<span data-ttu-id="3255c-103">Om du vill ange att alla lösenord aldrig ska upphöra att gälla går du till sidan[ &amp; säkerhets sekretess](https://portal.office.com/adminportal/home#/settings/security) **Inställningar** > i Microsoft 365 administratörscenter.</span><span class="sxs-lookup"><span data-stu-id="3255c-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > [Security &amp; privacy](https://portal.office.com/adminportal/home#/settings/security) page.</span></span> <span data-ttu-id="3255c-104">Välj **redigera** bredvid **Lösenordsprincip**och Vrid reglaget till **på**.</span><span class="sxs-lookup"><span data-stu-id="3255c-104">Select **Edit** next to **Password policy**, and turn the slider to **On**.</span></span>
   
-<span data-ttu-id="e2aa2-105">För mer information se: [Ange förfallodatum för lösenordsprincipen för din organisation.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span><span class="sxs-lookup"><span data-stu-id="e2aa2-105">For more detailed information see: [Set the password expiration policy for your organization.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span></span>
+<span data-ttu-id="3255c-105">Mer detaljerad information finns i: [Ange lösenordets förfalloprincip för din organisation.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)</span><span class="sxs-lookup"><span data-stu-id="3255c-105">For more detailed information see: [Set the password expiration policy for your organization.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)</span></span>
   
-[<span data-ttu-id="e2aa2-106">Ange lösenord aldrig upphör att gälla för specifika användare</span><span class="sxs-lookup"><span data-stu-id="e2aa2-106">Set password to never expire for specific users</span></span>](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[<span data-ttu-id="3255c-106">Ange att lösenordet aldrig ska upphöra för specifika användare</span><span class="sxs-lookup"><span data-stu-id="3255c-106">Set password to never expire for specific users</span></span>](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
   
