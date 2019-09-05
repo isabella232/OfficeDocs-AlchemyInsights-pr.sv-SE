@@ -1,6 +1,6 @@
 ---
 title: Begränsa SharePoint Online till klassiskt läge
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 3/27/2018
 ms.audience: ITPro
@@ -12,26 +12,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: e7ecfd8c2f1a532355bfb8c2c0a846fc0d6e88b1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18d263593d99f24c3020336ae601df14dbbf5411
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551577"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752086"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>Begränsa SharePoint Online till klassiskt läge
 
-Vissa organisationer kräver fortfarande klassiskt läge erfarenhet. Det finns inga planer på att ta bort klassiska läget på en grundläggande nivå, är det inte längre möjligt att begränsa en hel organisation (innehavare) till klassiskt läge för listor och bibliotek.
+Vissa organisationer kräver fortfarande den klassiska läges upplevelsen. Det finns inga planer på att ta bort klassiskt läge på en detaljerad nivå, men det är inte längre möjligt att begränsa en hel organisation (klient) till klassiskt läge för listor och bibliotek.
 
-Admin har följande alternativ för att hantera enskilda listor och bibliotek i klassiskt läge med detaljerad Slipp växlar som vi tillhandahåller på följande nivåer:
+Administratören kommer att ha följande alternativ för att hantera enskilda listor och bibliotek i klassiskt läge med hjälp av detaljerade opt-out-växlar som vi tillhandahåller på följande nivåer:
 
-- webbplatssamlingen
-- webbplats
-- listan
-- bibliotek
+- webbplatssamling
+- Webbplats
+- Lista
+- Bibliotek
 
-Dessutom kommer listor som använder vissa funktioner och anpassningar som inte stöds av modern fortfarande automatiskt slås till klassiskt läge.
+Dessutom växlar listor som använder vissa funktioner och anpassningar som inte stöds av modern fortfarande automatiskt till klassiskt läge.
 
-Börjar 1 April 2019, processen att inaktivera arrendator nivå av moderna lista och bibliotek börjar och fortsätter genom den 31 maj 2019.  Listor och bibliotek som är i klassiskt läge på grund av hyresgästen Slipp kommer automatiskt flyttas till modern.
+Från och med den 1 april 2019, processen för att inaktivera klientnivå välja bort moderna listan och bibliotek startar och fortsätter genom den 31 maj 2019.  Listor och bibliotek som är i klassiskt läge som ett resultat av arrendator opt-out kommer automatiskt att flyttas till modern.
 
-Om du vill ha klassiskt läge finns mer information [här](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) och PnP Powershell instruktion [här](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) som beskriver alternativ och verktyg som du kan använda för att använda den klassiska problem.
+Om du behöver klassiskt läge se mer information [här](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) och PnP PowerShell-instruktion [här](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) som beskriver alternativ och verktyg som du kan använda i dag för att använda klassisk mode-upplevelse.
