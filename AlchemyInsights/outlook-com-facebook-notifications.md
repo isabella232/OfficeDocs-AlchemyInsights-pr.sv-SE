@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: 80ddadfedb5a8a0dff2a7b9cf371e03fae58bdff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9e389deb7347e13c0e4ba658da4d355ffe11049c
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536993"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822135"
 ---
-# <a name="facebook-notifications-using-outlookcom"></a>Facebook-meddelanden med hjälp av Outlook.com
+# <a name="facebook-notifications-using-outlookcom"></a>Facebook-meddelanden med Outlook.com
 
-Du kan ändra dina [Facebook-inställningar](https://www.facebook.com/settings?tab=notifications) eller Ställ in en regel i Inkorgen om du inte vill ta emot meddelanden från Facebook.
+Om du inte vill få aviseringar från Facebook kan du ändra dina [Facebook-inställningar](https://aka.ms/facebook-notifications-settings) eller ställa in en inkorgsregel.
 
-1. Gå till [inställningarna för regler](https://outlook.live.com/mail/options/mail/rules/inboxRules).
+1. Gå till [regler inställningar](https://outlook.live.com/mail/options/mail/rules/inboxRules).
 1. Välj **Lägg till ny regel**.
-1. Namnge regeln ”Facebook”.
-1. Lägga till ett villkor för ”från” och ange ”notification@facebookmail.com”
-1. Lägga till en åtgärd för ”ta bort”. Om du väljer Ta bort innebär meddelandena kvar i din Borttaget och kan återställas. Om du väljer ”Markera som skräppost” meddelanden ska tas bort automatiskt och kan inte återställas.
+1. Namnge regeln "Facebook".
+1. Lägg till ett villkor för "från" och ange "notification@facebookmail.com"
+1. Lägg till en åtgärd av "Delete". Om du väljer Radera innebär det att meddelandena finns kvar i dina borttagna objekt och kan återställas. Om du väljer "Markera som skräppost" kommer meddelandena att raderas automatiskt och kan inte återställas.
 1. Välj **Spara**.

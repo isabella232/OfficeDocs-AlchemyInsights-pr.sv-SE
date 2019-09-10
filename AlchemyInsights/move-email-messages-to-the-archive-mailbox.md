@@ -1,5 +1,5 @@
 ---
-title: Flytta e-postmeddelanden till arkivet postlåda
+title: Flytta e-postmeddelanden till arkivpostlådan
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,26 +12,26 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: ce52df446fc4c23c06476e8836ade6a6810d158f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5592bc7d4566e3498c33bbf9488db7f46ec58842
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549022"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822180"
 ---
-# <a name="move-email-to-the-archive-mailbox"></a>Flytta e-post till arkivet postlåda
+# <a name="move-email-to-the-archive-mailbox"></a>Flytta e-post till arkivpostlådan
 
-1. Bekräfta att en **Arkivera postlåda** har aktiverats. Om så inte är fallet, följ instruktionerna i [den här artikeln](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) för att arkivera postlåda.
+1. Bekräfta att en **arkivpostlåda** har aktiverats. Om inte, Använd stegen i [den här artikeln](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) för att aktivera arkivpostlådan.
 
-2. Om du vill arkivera meddelanden automatiskt till arkivet postlåda måste du ange taggen bevarande med åtgärden **Flytta Arkivera** tillämpas **automatiskt på hela postlådan (standard)-tagg**. Använd stegen här för att skapa taggen: [Arkivera standard tagg](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Foffice365%2Fsecuritycompliance%2Fset-up-an-archive-and-deletion-policy-for-mailboxes%23create-a-custom-archive-default-policy-tag&data=04%7C01%7Cstephow%40microsoft.com%7C89934e16dbd84ebdef6708d6b319b348%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636893320296576506%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C-1&sdata=UibWi%2BtrO3ITZ6iF%2FtKQj5JyxzEb9Mu9frBJPT6FNFI%3D&reserved=0).
+2. Om du vill arkivera meddelanden automatiskt till arkivpostlådan måste en kvarhållningstagg med åtgärden **Flytta till Arkiv** vara inställd på **tillämpas automatiskt på hela postlådan (standard)-taggen**. Använd stegen här för att skapa taggen: [Arkiv standard tagg](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
 
-3. Lägg sedan till taggen **arkivet** princip för loggperiod. Välj **Lagringsprinciper** i Exchange administratörscenter, > lägga till **Flytta Arkivera-taggen** i princip-> **Spara**.
+3. Lägg sedan till **arkivtaggen** i din bevarandeprincip. I Exchange administratörscenter, Välj **bevarandeprinciper** > Lägg till **Flytta till arkivtagg** till principen > **Spara**.
 
-4. Nu [tilldela lagringsprincipen](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) för användarens postlåda. Samma princip tillämpas på både det **primärt** och **Arkivera** postlåda.
+4. [Tilldela nu bevarandeprincipen](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) till den specifika användarens postlåda. Samma princip kommer att tillämpas på både den **primära** och **arkivera** postlådan.
 
-Det kan vara nödvändigt att tvinga den hanterade mappen assistenten (MFA) att köra och använda de nya inställningarna till användarens postlåda. Kör följande kommando när [anslutet till EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) att starta hanteras Mapphanteraren för en viss postlåda:
+Det kan vara nödvändigt att tvinga assistenten för hanterade mappar (MFA) att köra och tillämpa de nya inställningarna på användarens postlåda. Kör följande kommando när du [är ansluten till EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) för att starta assistenten för hanterade mappar för en viss postlåda:
   
 Start-ManagedFolderAssistant-identitet<name of the mailbox>
 
-Mer information om hur du konfigurerar en arkiveringsprincip finns i [Konfigurera en arkivera och ta bort princip för postlådor](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
+Mer information om hur du konfigurerar en arkivprincip finns [i ställa in en Arkiv-och Borttagningsprincip för postlådor](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
   

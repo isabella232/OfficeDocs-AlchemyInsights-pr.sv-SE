@@ -1,5 +1,5 @@
 ---
-title: 9000198 Outlook.com-kalendern Beta
+title: 9000198 Outlook.com kalender beta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 8e76edd920a86445b2edc4745d39538233413c04
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75622ce992347e11dee57b3ba1b080bc498cda5b
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548157"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822000"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Den nya kalendern upplevelser kommer till Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Nya kalender upplevelser kommer till Outlook.com
 
-Nytt utseende ger bästa design och drabbas av learnings från e-postmeddelandet till kalendern.
+Det nya utseendet ger den bästa designen och lärdomar från e-postupplevelsen till kalendern.
 
-Du njuta av en modern design som minskar röran och ger dig snabbare sätt att navigera i kalendern. Det är också lättare att hitta intressanta kalendrar för dina favorit aktiviteter – från TV visar sportklubbar och händelser.
+Du får en modern design som minskar den visuella röran och ger dig snabbare sätt att navigera i kalendern. Det är också lättare att hitta intressanta kalendrar för dina favoritaktiviteter – från TV-program till idrottslag och evenemang.
 
-Vi utökat vår samling händelse ikoner och uppdaterade befintliga utseende, och vi nu automatiskt lägga till relevanta ikoner för dina händelser så att du enkelt kan se vad som händer i korthet.
+Vi utökade vår samling av händelseikoner och uppdaterade utseendet och känslan hos befintliga – och vi lägger nu automatiskt till relevanta ikoner i dina händelser, så att du enkelt kan se vad som händer på ett ögonblick.
 
-Du kan ge feedback om nya funktioner via [Outlook.com kalender UserVoice kanal](https://outlook.uservoice.com/forums/601444-new-experiences-in-outlook-com?category_id=209197).
+Du kan ge feedback om nya funktioner via [kanalen Outlook.com calendar UserVoice](https://go.microsoft.com/fwlink/?linkid=2103075).
