@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1621b58ca82f91645c7b46d962bd76290161b39f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7e6586f4ba0b7f65fe16a040208ff56ec4ca1985
+ms.sourcegitcommit: 52605656a92e31d3bf65f90ba427f56e87d6a221
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664096"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36851738"
 ---
 # <a name="how-to-verify-your-domain-with-office-365"></a>Så här verifierar du din domän med Office 365
 
-Om du vill verifiera domänen måste du lägga till en TXT-post i domänregistratorn för att verifiera att du äger domänen. Följ först [guiden Lägg till domän](https://portal.office.com/adminportal/home#/Domains) genom att välja **Inställningar** \> **domaisn**, och sedan **lägga till domän**.
+Om du vill verifiera domänen måste du lägga till en TXT-post i domänregistratorn för att verifiera att du äger domänen. Följ först [guiden Lägg till domän](https://portal.office.com/adminportal/home#/Domains) genom att välja **Inställningar** \> **domäner**och sedan **Lägg till domän**.
   
 Följ instruktionerna i [Skapa DNS-poster hos valfri DNS-Värdleverantör för Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) för att lägga till en TXT-post för att verifiera din domän.
   
