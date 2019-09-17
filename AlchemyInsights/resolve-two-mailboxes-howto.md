@@ -1,5 +1,5 @@
 ---
-title: 1374 löser två postlådor ta
+title: 1374 lösa två postlådor howto
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,16 @@ ms.custom:
 - "1374"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 10fae9040b1d5d75a318721f0300ba722361e8c7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1307e13bf76e0b2afc9038333533d708f5d12f7f
+ms.sourcegitcommit: 16f08d051afca3c6d0de32826324f91cf63ab5ba
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369863"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36992087"
 ---
 # <a name="a-user-has-two-mailboxes"></a>En användare har två postlådor
 
-Hybrid-miljöer som använder Azure Active Directory ansluta (Ledsagardokumentet ansluta) eller DirSync oavsiktligt kan orsaka användaren har två postlådor: en i lokal organisation och en i molnet.
+Hybrid miljöer som använder Azure Active Directory Connect (AAD Connect) eller DirSync kan oavsiktligt orsaka att en användare har två postlådor: en på plats och en i molnet. En dubblettpostlåda kan skapas på endera plats.
 
-Lös det här problemet finns i [Permanent Radera tidigare postlåda Info](https://blogs.technet.microsoft.com/exchange/2018/01/17/permanently-clear-previous-mailbox-info/).
+Lös problemet genom att se [hur du återställer när en postlåda finns i både Exchange Online och lokalt](https://docs.microsoft.com/en-us/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Om du vill veta mer om hur du undviker detta från att hända i framtiden kan du se [min användare har en postlåda både lokalt och i Exchange Online. Hjälp!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+
