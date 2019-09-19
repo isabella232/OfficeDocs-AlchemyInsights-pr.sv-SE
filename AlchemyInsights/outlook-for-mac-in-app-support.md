@@ -1,5 +1,5 @@
 ---
-title: 1800009 outlook för Mac i app-stöd
+title: 1800009 stöd för Outlook för Mac i appen
 ms.author: supravee
 author: supravee
 manager: scotv
@@ -12,15 +12,15 @@ ms.custom:
 - "135"
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: 676c725f93432ef2086f378c0ddb21acd1815084
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b151c74c0b35361b6edc91e3b68874717d8a2ba2
+ms.sourcegitcommit: a1af40d92fa9c6c0dda9ec5da3b4776400fbb857
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666822"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37035773"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a>I app-stöd i Outlook för Mac
+# <a name="in-app-support-in-outlook-for-mac"></a>Stöd för in-app i Outlook för Mac
 
-Om du vill få stöd i app för Outlook för Mac-problem, öppna Outlook och klicka på **Hjälp om** \> **Stöd för kontakten**. Skriv din fråga och medlem i Outlook för Mac supportgrupp kontoansvarige er. 
+Om du vill få support i appen för Outlook för Mac-problem öppnar du Outlook och klickar på **Hjälp** \> **kontakta supporten**. Skriv din fråga och en medlem av Outlook för Mac-supportteamet kommer att kontakta dig. 
 
-[Kontakta support i Outlook för Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
+Läs mer: [kontakta supporten i Outlook för Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)
