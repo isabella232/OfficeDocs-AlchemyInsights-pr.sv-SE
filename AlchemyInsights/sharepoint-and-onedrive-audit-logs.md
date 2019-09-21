@@ -1,5 +1,5 @@
 ---
-title: Klassiska Granskningsloggrapporter för SharePoint
+title: Klassiska SharePoint-granskningsloggrapporter
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,35 +12,38 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: dea8f2ab0f99e493d68aa074532f26f7ed8026aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
+ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504409"
+ms.lasthandoff: 09/20/2019
+ms.locfileid: "37068041"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>Granska loggarna för SharePoint och OneDrive
+# <a name="sharepoint-and-onedrive-audit-logs"></a>Granskningsloggar för SharePoint och OneDrive
 
-**SharePoint och OneDrive moderna Unified granska loggar från överensstämmelse**
+**SharePoint och OneDrive moderna enhetliga granskningsloggar från efterlevnad**
 
-- [Aktivera/inaktivera Unified granskningsloggning](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+- [Aktivera/inaktivera enhetlig granskningsloggning](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
 
-Det krävs ingen ytterligare konfiguration i SharePoint eller OneDrive.
+Ingen ytterligare konfiguration krävs i SharePoint eller OneDrive.
 
-- Använda Sök granskningsloggning för att kontrollera aktiviteten för filer, mappar, användare, behörigheter:
+- Använd granskningsloggning Sök för att kontrollera aktiviteten för filen (s), mapp (ar), användare (s), behörigheter:
 
-    - [Fil- och aktiviteter](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-    - [Mappen aktiviteter](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-    - [Delning och åtkomst begäran aktiviteter](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-    - [Synkronisering av aktiviteter](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-    - [Aktiviteter för administration av webbplatsen](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
-- Mer information om hur du hämtar dessa händelser finns i [söka granskningsloggen](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+    - [Fil-och sid aktiviteter](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+    - [Mappaktiviteter](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+    - [Aktiviteter för delning och åtkomstbegäran](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+    - [Synkroniseringsaktiviteter](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+    - [Aktiviteter för Webbplatsadministration](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+- Mer information om hur du hämtar dessa händelser finns [i söka i granskningsloggen](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
-**SharePoint loggas klassiska**
+**Klassiska SharePoint-granskningsloggar**
 
-- [Visa och Aktivera klassiskt SharePoint granskningsloggar](https://support.office.com/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+Vi migrerade SPO Legacy Auditing till Unified audit log (UAL). Detta innebär i huvudsak att alla SPO äldre granskningsrapporter nu kommer att drivas via UAL och att de äldre gransknings signalerna har migrerats till UAL.
 
-Granskning behöver aktiveras per varje webbplatssamling. 
+Viktiga ändringar:
 
-**Obs**: Vi rekommenderar att du använder moderna Unified granska loggarna för bättre och avancerade granskningsalternativ än de klassiska granskningsloggarna.
+- Trimning som en funktion är inte tillgänglig.
+- Avsnittet där du väljer specifika händelser för granskning är inte tillgängligt. Se [detta dokument](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) för en fullständig lista över granskade händelser som är tillgängliga som standard.
+- Alternativet "plats" under **anpassade rapporter** är inte tillgängligt. 
+- "Öppna eller ladda ned dokument" händelser är inte tillgängliga. 
 
