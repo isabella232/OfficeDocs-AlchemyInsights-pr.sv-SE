@@ -2,7 +2,6 @@
 title: Installera Office på en terminalserver-olicensierad
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 51d1a66fdf9774bbe58bfdbe89317bc93834be09
+ms.sourcegitcommit: 5e6a805fb0b41d714ca1cf90e23b8e2daa90f90e
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735407"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37205427"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Installera Office på en terminalserver
 
@@ -26,7 +25,10 @@ För distribution av Office 365 ProPlus på en Windows-Server med hjälp av Remo
 
 - Du måste aktivera [delad datoraktivering](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Om du vill installera Office 365 ProPlus på RDS från Microsoft 365 Admin Center, ***som använder standardinställningarna för installation***, så här:
+Om du vill installera Office 365 ProPlus på RDS från Microsoft 365 Admin Center, ***som använder standardinställningarna för installation***, använder du följande steg.
+
+> [!TIP]
+> Du kan också hämta och köra [Microsoft support och återställning assistenten](https://aka.ms/SaRA_OfficeSCA_M365Portal) för att installera Office 365 ProPlus i läget för delad datoraktivering.
   
 1. Kontrollera vad Office 365 plan du har. [Lära sig](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
