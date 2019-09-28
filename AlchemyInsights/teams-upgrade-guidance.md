@@ -1,8 +1,7 @@
 ---
-title: Team uppgradera vägledning
+title: Vägledning för Teams-uppgradering
 ms.author: heidip
 author: microsoftheidi
-ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,14 +11,24 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: fcea046a2ccd03c88fcbfe57a3980b70bd720072
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79c956bd01844d4234500d93d6e5458cc3bb84ad
+ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533897"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37305139"
 ---
-# <a name="upgrade-to-teams"></a>Uppgradera till team
+# <a name="microsoft-teams-upgrade"></a>Uppgradering av Microsoft Teams
 
-Du kan hitta stegvisa instruktioner för att flytta från Skype för företag i Microsoft Teams [här](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams).
-  
+Oavsett om du precis har börjat med Teams, redan använder Teams tillsammans med Skype för företag eller är redo att uppgradera, vill vi se till att du har allt du behöver för att navigera en lyckad resa till Teams. För mer information, vänligen besök länkarna nedan.
+
+[Komma igång med uppgraderingen av Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+
+[Planera för uppgraderingen](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+
+[Förstå Microsoft Teams och Skype för företag-samexistens](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+
+[Utföra uppgraderingen från Skype för Business Online till Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+
+[Utföra uppgraderingen från Skype för företag lokalt till Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+ 
