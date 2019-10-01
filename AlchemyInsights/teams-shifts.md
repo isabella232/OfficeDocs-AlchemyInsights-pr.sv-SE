@@ -1,5 +1,5 @@
 ---
-title: Team SKIFT
+title: Lag skiftar
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1686
-ms.openlocfilehash: fe1d3d099cdd94923d4010b11c12af878f5b0348
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1686"
+- "9000161"
+ms.openlocfilehash: 7c5e736d0ac66fb5a1398494b9ffe1164324e344
+ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34771324"
+ms.lasthandoff: 09/30/2019
+ms.locfileid: "37328688"
 ---
-# <a name="using-teams-shifts"></a>Med hjälp av team SKIFT
+# <a name="using-teams-shifts"></a>Använda lag skiften
 
-SKIFT-app i team kan tiden för snabb och effektiv hantering och kommunikation för frontline team. Det kan chefer och medarbetare använda sina mobila enheter för att hantera scheman och hålla kontakten.
+Mer information om SKIFT för team, inklusive hur du migrerar från Microsoft Staffhub, finns i [SKIFT för team](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page). 
 
-Om du vill veta finns mer [SKIFT för team](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page). Du får information om hur du får SKIFT och hur du ställer in.
-
-Om du redan har aktiverat SKIFT kan du läsa [komma igång i SKIFT](https://support.office.com/article/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6) om du vill lära dig att skapa scheman.
+Microsoft Staffhub kommer att dras [tillbaka](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) den 31 december 2019. 
 
