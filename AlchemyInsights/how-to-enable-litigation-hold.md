@@ -1,5 +1,5 @@
 ---
-title: 976-How-to-Enable-litigation-Hold
+title: 976-hur-till-möjliggöra-rättstvister-Hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
+ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540775"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37398645"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Placera en postlåda juridiska stoppad
+# <a name="place-a-mailbox-on-legal-hold"></a>Placera en postlåda i juridiskt spärr
 
-- Om du vill placera en postlåda på rättstvist håller eller på plats håller krävs en licens för Exchange Online Plan 2 [Exchange Online Plan 2 licens](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Om en postlåda har tilldelats en licens för Plan 1, kan du tilldela en separat Exchange Online-arkivering tilläggslicens [tilläggslicens för Exchange Online-arkivering](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
+- Om du vill placera en postlåda i rättstvist håller eller på plats håller en Exchange Online plan 2 licens [Exchange Online plan 2-licens](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) krävs. Om en postlåda har tilldelats en plan 1-licens, kan du tilldela en separat Exchange Online arkivering tilläggslicens [Exchange Online arkivering tilläggslicens](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
 
-- Så här aktiverar du rättstvist håller för en enskild användare, [gör du så här](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). När rättstvist håller är aktiverad bevaras allt innehåll i postlådan.
+- Om du vill aktivera rättstvist håller för en enskild användare, [Följ dessa steg](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). När rättstvist håller är aktiverad bevaras allt innehåll i postlådan.
 
-- Du kan använda en bevarandeprincip för Office 365 genom att [följa de här stegen](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold)om du vill placera ett undantag för alla postlådor i din organisation. Observera att för hela organisationen lagringsprinciper nya användare automatiskt tilldelas till principen.
+- Om du vill bevara innehållet i alla postlådor i organisationen, kan du använda en [organisationsomfattande Office 365 bevarandeprincip](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Observera att för organisationsomfattande bevarandeprinciper kommer nya användare automatiskt att tilldelas principen.
