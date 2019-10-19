@@ -1,5 +1,5 @@
 ---
-title: Alkemi - Sök Outlook inte idexing
+title: Alchemy-Outlook Sök inte idexing
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
 ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36505849"
 ---
-# <a name="outlook-search-not-indexing"></a>Outlook sökindexering inte
+# <a name="outlook-search-not-indexing"></a>Outlook-sökning indexerar inte
 
-Vi är medvetna om Outlook sökning problem relaterade till tidigare säkerhetsuppdateringar för Windows.
+Vi är medvetna om problem med Outlook-sökning relaterade till de senaste säkerhetsuppdateringarna för Windows.
   
-När du söker i Outlook kan du få något av dessa fel: **något gick fel och det gick inte att slutföra sökningen**eller **sökresultaten kan vara ofullständiga eftersom objekt fortfarande indexeras**. Korrigeringsfilen har utfärdats som en valfri uppdatering i Windows. Du måste installera den som motsvarar versionen av Windows som du ser det här problemet: 
+När du söker i Outlook kan du få något av följande fel: **något gick fel och sökningen kunde inte slutföras**, eller så **kan sökresultaten vara ofullständiga eftersom objekten fortfarande indexeras**. Korrigeringsfilen utfärdades som en valfri Windows-uppdatering. Installera den som motsvarar den version av Windows du ser det här problemet på: 
   
-> [Windows 7 - 27 juni 2017 uppdatera](https://support.microsoft.com/kb/4022168.aspx)
+> [Windows 7-27 juni 2017 uppdatering](https://support.microsoft.com/kb/4022168.aspx)
     
-> [Uppdatering för Windows 8.1 - 27 juni 2017](https://support.microsoft.com/kb/4022720.aspx)
+> [Windows 8,1-27 juni 2017 uppdatering](https://support.microsoft.com/kb/4022720.aspx)
     
-> [Windows 10-versionen 1703 - uppdatering 27 juni 2017](https://support.microsoft.com/kb/4022716.aspx)
+> [Windows 10 version 1703-27 juni 2017 uppdatering](https://support.microsoft.com/kb/4022716.aspx)
     
-Den senaste informationen finns i artikeln: [Outlook kända problem i säkerhetsuppdateringarna för juni 2017](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) problemet #5. 
+Den senaste informationen finns i artikeln: [kända problem i Outlook i juni 2017 säkerhetsuppdateringar](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) problemet #5. 
   
 

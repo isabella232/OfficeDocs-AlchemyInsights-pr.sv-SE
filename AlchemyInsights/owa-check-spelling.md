@@ -13,12 +13,12 @@ ms.custom:
 - "8000007"
 - "1992"
 ms.openlocfilehash: 945d3168352bd00259a14508434243028720d6f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510569"
 ---
-# <a name="use-your-browser-to-check-spelling"></a>Använd webbläsaren för att kontrollera stavning
+# <a name="use-your-browser-to-check-spelling"></a>Använd din webbläsare för att kontrollera stavningen
 
-Det finns inget alternativ för kontroll av stavningskontroll i Outlook på webben. Om du vill kontrollera stavningen, måste du använda webbläsaren. Stavningskontrollen är tillgänglig i Microsoft Edge, Internet Explorer 10 och senare versioner och aktuella versioner av Firefox, Chrome och Safari. Kontrollera inställningarna för din webbläsare om du vill veta mer om hur du kontrollerar stavning.
+Det finns inget stavningskontroll alternativ i Outlook på webben. Om du vill kontrollera stavningen måste du använda webbläsaren. Stavningskontroll är tillgängligt i Microsoft Edge, Internet Explorer 10 och senare versioner och aktuella versioner av Firefox, Chrome och Safari. Kontrollera alternativen för webbläsaren om du vill veta mer om hur du kontrollerar stavningen.

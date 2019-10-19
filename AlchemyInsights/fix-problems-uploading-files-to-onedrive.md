@@ -1,5 +1,5 @@
 ---
-title: Åtgärda problem med att överföra filer till OneDrive
+title: Åtgärda problem med att ladda upp filer till OneDrive
 ms.author: matteva
 author: pebaum
 ms.date: 5/18/2018
@@ -9,19 +9,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
 ms.openlocfilehash: d06445cf609b70e83701699082c43203270a0962
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525185"
 ---
-# <a name="fix-problems-uploading-files-to-onedrive"></a>Åtgärda problem med att överföra filer till OneDrive
+# <a name="fix-problems-uploading-files-to-onedrive"></a>Åtgärda problem med att ladda upp filer till OneDrive
 
-Prova detta om inte en filöverföring:
+Prova detta om en fil inte laddas upp:
   
 - Byt namn på filen och försök igen. Vissa filnamn och tecken i filnamn är inte tillåtna. 
     
-- Om filen synkroniseras flyttar du från OneDrive-mappen (till exempel flytta den till skrivbordet), och när din OneDrive synkroniseringsstatus visas som ”uppdaterad” flytta tillbaka. 
+- Om du synkroniserar filen flyttar du den från din OneDrive-mapp (till exempel flyttar den till skrivbordet) och när synkroniseringsstatusen för OneDrive visas som "uppdaterad" flyttar du tillbaka den. 
     
 [Fler felsökningstips](https://go.microsoft.com/fwlink/?linkid=873155)
   
