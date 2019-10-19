@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 01ebbe085c0f8585171be8ff71fbf5c09eddc8a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557231"
 ---
 # <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Ändra din profilbild i Outlook på webben
 
-1. Välj ditt namn eller din profil bild överst på sidan.
-1. Välj din profilbild i rutan **mitt konto** .
-1. I dialogrutan **Ändra fotot** väljer du **Överför ett nytt foto**.
-1. Välj en bild att ladda upp och välj **Använd**.
+1. Välj ditt namn eller din profilbild högst upp på sidan.
+1. I fönstret **mitt konto** väljer du din profilbild.
+1. I dialogrutan **ändra din bild** väljer du **Ladda upp ett nytt foto**.
+1. Välj ett foto att ladda upp och välj **Verkställ**.
 
-*Observera:* Det nya fotot visas nästa gång du loggar in på Office 365.
+*Anmärkning:* Ditt nya foto visas nästa gång du loggar in på Office 365.
 
-Mer information finns i [Ändra foto- och informationen i Outlook på webben](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Mer information finns [i ändra foto-och kontoinformation i Outlook på webben](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).

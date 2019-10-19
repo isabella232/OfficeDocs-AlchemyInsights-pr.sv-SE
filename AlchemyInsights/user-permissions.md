@@ -9,33 +9,33 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
 ms.openlocfilehash: e3e18f7ee5315b076e9059feaeda8b445d89c476
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36531953"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Användarbehörigheter i SharePoint och OneDrive
 
-Om en användare i organisationen inte komma åt SharePoint- eller OneDrive, kontrollera att de har en licens som innehåller SharePoint och OneDrive. 
+Om en användare i din organisation inte kan komma åt SharePoint eller OneDrive, kontrollera att de har en licens som innehåller SharePoint och OneDrive. 
   
-1. Gå till [sidan i Microsoft 365 administratörscenter i aktiva användare](https://portal.office.com/adminportal/home#/users) och Välj användaren. 
+1. Gå till [sidan aktiva användare i Microsoft 365 administratörscenter](https://portal.office.com/adminportal/home#/users) och välj användaren. 
     
-2. Se till att **licenser**tilldelas en licens och **SharePoint Online** är markerad. 
+2. Kontrollera att under **produktlicenser**tilldelas en licens och **SharePoint Online** är markerat. 
     
- Att ge en användarbehörighet att komma åt en SharePoint-webbplats: 
+ Så här ger du en användare behörighet att komma åt en SharePoint-webbplats: 
   
 1. Öppna webbplatsen i en webbläsare.
     
-2. Om webbplatsen tillhör en grupp av Office 365, klickar du på ikonen inställningar i det övre högra hörnet och klicka sedan på **behörigheter**. Klicka på **Bjud in personer**och sedan välja att lägga till medlemmar i gruppen Office 365 eller dela endast webbplats. 
+2. Om webbplatsen tillhör en Office 365-grupp klickar du på ikonen Inställningar uppe till höger och sedan på **webbplatsbehörigheter**. Klicka på **Bjud in personer**och välj sedan att lägga till medlemmar i gruppen Office 365 eller dela endast webbplatsen. 
     
-    Klicka på **Dela webbplats** i övre högra för en plats för kommunikation, ange personens namn och välj behörighetsnivå (läsa, redigera eller fullständig behörighet). 
+    För en kommunikations plats klickar du på **dela webbplats** uppe till höger, anger personens namn och väljer sedan behörighetsnivå (läsa, redigera eller fullständig behörighet). 
     
-    Klicka på **Dela** i det övre högra hörnet för klassiska gruppwebbplats. Ange namnet på den person du vill bjuda in eller Skriv alla dela med alla i din organisation. Klicka på **Dela**.
+    För en klassisk gruppwebbplats klickar du på **dela** uppe till höger. Ange namnet på den person som du vill bjuda in eller Skriv alla att dela med alla i organisationen. Klicka på **dela**.
     
 > [!NOTE]
-> Om du är medlem av en webbplats men inte en ägare kan du bjuda in personer till webbplatsen, men din inbjudan kommer att generera en åtkomstbegäran som antingen godkännas eller avböjt en av webbplatsens ägare. 
+> Om du är medlem på en webbplats men inte som ägare kan du bjuda in personer till webbplatsen, men din inbjudan kommer att generera en åtkomstbegäran som antingen kan godkännas eller avvisas av en webbplatsägare. 
   
-[Lär dig hur du delar en fil eller mapp till en användare](https://go.microsoft.com/fwlink/?linkid=533408)
+[Läs om hur du delar en fil eller mapp med en användare](https://go.microsoft.com/fwlink/?linkid=533408)
   
 

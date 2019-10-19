@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
 ms.openlocfilehash: e9b05de875969ac8fa1876898069f134e2bd96bb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549489"
 ---
-# <a name="how-to-share-in-sharepoint-online"></a>Hur du delar i SharePoint Online
+# <a name="how-to-share-in-sharepoint-online"></a>Så här delar du i SharePoint Online
 
 Så här delar du en webbplats:
   
 1. Öppna webbplatsen i en webbläsare.
     
-2. Om webbplatsen tillhör en grupp av Office 365, klickar du på ikonen inställningar i det övre högra hörnet och klicka sedan på **behörigheter**. Klicka på **Bjud in personer**och sedan välja att lägga till medlemmar i gruppen Office 365 eller dela endast webbplats. 
+2. Om webbplatsen tillhör en Office 365-grupp klickar du på ikonen Inställningar uppe till höger och sedan på **webbplatsbehörigheter**. Klicka på **Bjud in personer**och välj sedan att lägga till medlemmar i gruppen Office 365 eller dela endast webbplatsen. 
     
-    Klicka på **Dela webbplats** i övre högra för en plats för kommunikation, ange personens namn och välj behörighetsnivå (läsa, redigera eller fullständig behörighet). 
+    För en kommunikations plats klickar du på **dela webbplats** uppe till höger, anger personens namn och väljer sedan behörighetsnivå (läsa, redigera eller fullständig behörighet). 
     
-    Klicka på **Dela** i det övre högra hörnet för klassiska gruppwebbplats. Ange namnet på den person du vill bjuda in eller Skriv alla dela med alla i din organisation. Klicka på **Dela**.
+    För en klassisk gruppwebbplats klickar du på **dela** uppe till höger. Ange namnet på den person som du vill bjuda in eller Skriv alla att dela med alla i organisationen. Klicka på **dela**.
     
-[Lär dig hur du delar en fil eller mapp](https://go.microsoft.com/fwlink/?linkid=511430)
+[Läs om hur du delar en fil eller mapp](https://go.microsoft.com/fwlink/?linkid=511430)
   
 

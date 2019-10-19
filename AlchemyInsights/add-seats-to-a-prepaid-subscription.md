@@ -14,17 +14,17 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661026"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Lägga till platser i ett förbetalt abonnemang
 
 Förutbetalda Office 365 licenser utfärdas till dig som en alfanumerisk kod på 25 tecken. När du har köpt de licenser du behöver kan du lägga till dem i din prenumeration. 
 
-1. Gå till sidan **fakturering** > [produkter _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) i administratörscenter.
+1. I administratörscenter går du till sidan **fakturerings** > [produkter & tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Leta reda på prenumerationen som du vill lägga till licenser för. I avsnittet **licenser** väljer du **Lägg till fler licenser**.
 

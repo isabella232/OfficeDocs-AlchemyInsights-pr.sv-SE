@@ -1,5 +1,5 @@
 ---
-title: Ogiltigt filnamn i OneDrive
+title: Ogiltiga filnamn i OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
 ms.openlocfilehash: 0cbf05f9c0121867aa3b24a10c7037d3a189ad22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36498217"
 ---
-# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Ogiltigt namn på filer och mappar i OneDrive och SharePoint
+# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Ogiltiga fil-och mappnamn i OneDrive och SharePoint
 
-Dessa tecken är inte tillåtna i fil-och mappnamn ” \* : \< \> ? / \ | 
+Dessa tecken är inte tillåtna i fil-och mappnamn \< \> " \* :? / \ | 
   
-Vissa organisationer ännu har inte stöd för # och % aktiverat. Om du vill veta hur du tillåter dessa tecken i din organisation finns i [Aktivera # och % stöd](https://go.microsoft.com/fwlink/?linkid=862611). 
+Vissa organisationer har ännu inte stöd för # och% aktiverat. Information om hur du tillåter dessa tecken i din organisation finns i [Aktivera stöd för # och%](https://go.microsoft.com/fwlink/?linkid=862611). 
   
-[Mer information om begränsningar för filer och mappar](https://go.microsoft.com/fwlink/?linkid=866430)
+[Mer information om begränsningar för fil-och mappnamn](https://go.microsoft.com/fwlink/?linkid=866430)
   
 

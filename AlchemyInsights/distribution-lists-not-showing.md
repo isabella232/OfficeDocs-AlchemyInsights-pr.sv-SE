@@ -1,5 +1,5 @@
 ---
-title: Distributionslistor som inte visas
+title: Distributionslistor visas inte
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ccb3e76a-557e-42fa-a9fc-95e396a1a74d
 ms.openlocfilehash: a44e4ccd61d34c2514d23e93b202b47c39ac48d0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530477"
 ---
-# <a name="distribution-group-not-showing-in-groups-list"></a>Distributionsgrupp som inte visas i listan grupper
+# <a name="distribution-group-not-showing-in-groups-list"></a>Distributionsgruppen visas inte i grupplistan
 
-Det kan ta upp till 60 minuter innan den nya distributionslistan visas i för Exchange administratörscenter.
+Det kan ta upp till 60 minuter innan den nya distributionslistan visas i Exchange Admin Center Center.
   
-Om du vill lägga till medlemmar eller göra andra ändringar just nu använder du funktionen Gruppera i [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
+Om du vill lägga till medlemmar eller göra andra redigeringar just nu kan du använda funktionen grupper i [Exchange administratörs Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
   
 

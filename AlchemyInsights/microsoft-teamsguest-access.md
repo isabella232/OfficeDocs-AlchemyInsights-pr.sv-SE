@@ -1,5 +1,5 @@
 ---
-title: Microsoft team - gäståtkomst
+title: Microsoft Teams-gäståtkomst
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -7,25 +7,24 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
-- "311"
+- "2679"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 114b6402f7b2a6f33671cf90415ec142df096f67
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0f46024ed7460579da0095f437dfccc1ffa7cdda
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36667002"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37590404"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft team - gäståtkomst
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams-gäståtkomst
 
-Behöver du hjälp att aktivera och ställa in funktionen för gästbehörighet i Microsoft Teams?
+Behöver du hjälp med att aktivera och konfigurera gäståtkomst funktionen i Microsoft Teams?  
 
-Det här behöver du göra:
+Kontrollera först att du har följt alla steg i [gäståtkomst checklistan](https://docs.microsoft.com/en-us/microsoftteams/guest-access-checklist). När alla dessa steg har slutförts, måste du [vänta upp till 24 timmar](https://docs.microsoft.com/en-us/microsoftteams/manage-guests#guest-access-latencies) för att inställningarna ska börja gälla.
 
-1. Tillåta gäståtkomst.
-1. Lägg till gästanvändare i ditt team.
-1. Ställ in gäst användarbehörigheter.
+Om du är säker på att du har slutfört alla steg i checklistan, och det har gått mer än 24 timmar, kan du gå vidare och försöka [lägga till en gäst i ditt team](https://support.office.com/en-us/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
-För mer information, inklusive instruktioner – videoklipp finns [gästbehörighet i Microsoft team](https://docs.microsoft.com/microsoftteams/guest-access).
+Mer information, inklusive instruktionsvideor, finns [i gäståtkomst i Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).

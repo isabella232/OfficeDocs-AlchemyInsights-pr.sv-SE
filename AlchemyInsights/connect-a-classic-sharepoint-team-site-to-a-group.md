@@ -1,5 +1,5 @@
 ---
-title: Ansluta en klassisk SharePoint team-webbplats till en grupp
+title: Ansluta en klassisk SharePoint-gruppwebbplats till en grupp
 ms.author: kaarins
 author: kaarins
 ms.date: 6/29/2018
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1f6b170-bead-4e1c-b119-f6affd2b2264
 ms.openlocfilehash: 389880415621b7623c9f7ea9f43417eab878806a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36504799"
 ---
-# <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>Ansluta klassiska SharePoint-baserade gruppwebbplatser till nya Office 365-grupper
+# <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>Anslut klassiska SharePoint-gruppwebbplatser till nya Office 365-grupper
 
-Använd [SharePoint modernisering skanner verktyget](https://go.microsoft.com/fwlink/?linkid=873066)för att bedöma om SharePoint-webbplatssamlingar är redo att ansluta till Office 365-grupper. Det här verktyget kan hjälpa dig att planera ut din strategi för modernisering av webbplats och skapar en detaljerad rapport, inklusive områden som behöver uppmärksamhet.
+Om du vill bedöma om dina SharePoint-webbplatssamlingar är redo att ansluta till Office 365-grupper använder du [SharePoint-verktyget modernisering Scanner](https://go.microsoft.com/fwlink/?linkid=873066). Detta verktyg kan hjälpa dig att planera din webbplats modernisering strategi och kommer att skapa en fördjupad rapport, inklusive områden som behöver uppmärksamhet.
   
-Om du vill tillåta administratörer för webbplatssamlingar kan ansluta klassiska gruppwebbplatser till nya grupper från ett nytt kommando som vi lägger till behöver du inte göra någonting. Om du vill inaktivera det här alternativet om behöver du ändra standardinställningen. [Läs mer](https://go.microsoft.com/fwlink/?linkid=2004316). Observera att globala och SharePoint-administratörer i Office 365 kommer alltid att ansluta platser till nya grupper med hjälp av PowerShell-cmdlet eller API.
+Om du vill tillåta administratörer av webbplatssamlingar att ansluta klassiska gruppwebbplatser till nya grupper från ett nytt menykommando som vi lägger till behöver du inte göra något. Om du vill inaktivera det här alternativet måste du dock ändra standardinställningen. [Läs mer](https://go.microsoft.com/fwlink/?linkid=2004316). Observera att globala och SharePoint-administratörer i Office 365 alltid kommer att kunna ansluta platser till nya grupper med hjälp av PowerShell-cmdlet eller API.
   
 

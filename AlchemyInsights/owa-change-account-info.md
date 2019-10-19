@@ -1,5 +1,5 @@
 ---
-title: Ändra din kontoinfo i Outlook på webben
+title: Ändra din kontoinformation i Outlook på webben
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 71895ba9ab1f2ac78bbe59415dd59099c4270cc1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510605"
 ---
-# <a name="change-account-information-in-outlook-on-the-web"></a>Ändra kontoinformationen i Outlook på webben
+# <a name="change-account-information-in-outlook-on-the-web"></a>Ändra kontoinformation i Outlook på webben
 
-1. Välj ditt namn eller din profil bild överst på sidan.
+1. Välj ditt namn eller din profilbild högst upp på sidan.
 1. Välj **mitt konto**.
-1. Välj **personlig info**.
+1. Välj **personlig information**.
 1. Ändra eller lägga till information om dig själv.
 
-*Observera:* Viss information, som namn och befattning, kan tillhandahållas av IT eller personalavdelningen. Om du vill uppdatera dessa uppgifter, kontakta dem eller din administratör.
+*Anmärkning:* Vissa detaljer, som ditt namn och befattning, kan tillhandahållas av din IT-eller personalavdelning. Om du vill uppdatera dessa uppgifter kan du kontakta dem eller din administratör.
 
-Mer information finns i [Ändra foto- och informationen i Outlook på webben](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Mer information finns [i ändra foto-och kontoinformation i Outlook på webben](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).

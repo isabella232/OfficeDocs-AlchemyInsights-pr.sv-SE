@@ -1,5 +1,5 @@
 ---
-title: Modern webbplats som rotwebbplatsen
+title: Modern sajt som root site
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -7,22 +7,36 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ''
-ms.openlocfilehash: 7f481110d37bed6660c5a220ac230284d613c976
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.assetid:
+- "9000153"
+- "1692"
+ms.openlocfilehash: 6f55f1c63551027cc5522d296cb3f3f342356d95
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503509"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36576704"
 ---
-# <a name="modernize-your-classic-sharepoint-site"></a>Modernisera klassiska SharePoint-webbplatsen
+# <a name="modernize-your-classic-sharepoint-site"></a>Modernisera din klassiska SharePoint-webbplats
 
-Se nedan för mer information om hur du använder den nya moderna upplevelsen:
+Om du vill byta till ett modernt användargränssnitt måste du fokusera på följande:
 
-- En steg för steg-översikt över modernizing dina SharePoint-webbplatser som klassiska till moderna erfarenhet finns [Modernize klassiska SharePoint-webbplatser](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- Övergår dina **listor och bibliotek** för att använda det moderna användargränssnittet (även kallad modern lista och biblioteks erfarenhet).
+- Omvandla dina **webbplatssidor** från klassiska wiki-och webbdelssidor till moderna sidor på klientsidan.
+- Skapa **moderna webbplatser** (gruppwebbplats eller kommunikations plats).
 
-- Om du vill maximera användningen av moderna användargränssnittet för din webbplatssidor och sidor för listor och bibliotek finns i [användargränssnittet för Modernize](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface). 
+Modernisera din upplevelse genom att:
+- [Aktivera listor och bibliotek för att visa i det moderna användargränssnittet genom att](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries) ersätta anpassningar, ta bort inkompatibla kolumner från de använda vyerna, eller (som en sista utväg) flytta data till en modern användargränssnittskompatibel listtyp.
+- [Ansluta din webbplats till en Office 365-grupp](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group), vilket ger din webbplats en modern hemsida och gör att din webbplats kan använda, till exempel en postlåda eller Microsoft Planner. På så sätt kan du använda en modern version av en kalender och uppgiftslista.
+- [Skapa moderna sidor](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec), är ett bra sätt att dela idéer med hjälp av bilder, Excel, Word-och PowerPoint-dokument, video och mycket mer.
+- [Skapa moderna sidor på klientsidan](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) och konfigurera dessa för att vara "liknande" till din viktiga klassiska wiki och webbdelssidor. Programmässig sida omvandling bör göras för viktiga sidor på dina webbplatser, som att omvandla alla sidor är resurskrävande och ofta inte behövs. För att hjälpa till i denna triage kan SharePoint-Moderniseringsskannern ge dig användningsinformation om aktuella wiki-och webbdelssidor.
+- [Skapa moderna webbplatser](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d). Ska jag skapa en gruppwebbplats eller en kommunikations plats?
 
-- Om du vill veta mer om hur du avblockerar bibliotek och listor när du använder moderna användargränssnittet finns i [Maximera användningen av moderna listor och bibliotek](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+Ytterligare info: 
+- En steg-för-steg-översikt över hur du moderniserar dina klassiska SharePoint-webbplatser till den moderna upplevelsen finns i [modernisera dina klassiska SharePoint-webbplatser](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- Se en guide till [modern upplevelse](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).
+- Se [SharePoint klassiska och moderna upplevelser](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f). 
 
-- Mer information om hur du ansluter till en Office 365-grupp och utföra en grupp-anslutning finns i [ansluta till en grupp i Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+
+
+

@@ -9,27 +9,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
 ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497209"
 ---
 # <a name="manage-user-profiles-in-delve"></a>Hantera användarprofiler i Delve
 
-Office Delve kan användarna hantera sin användarprofil för Office 365. Användare kan:
+Med Office Delve kan användarna hantera sin Office 365-användarprofil. Användare kan:
   
-- Visa och uppdatera sin information
+- Visa och uppdatera deras information
     
-- Hålla viss information privat
+- Håll lite information privat
     
-- Ändra deras profil eller försättsblad bild
+- Ändra profil eller omslagsbild
     
-- Ändra språk- och för Delve
+- Ändra språk-och tidsformat för Delve
     
 > [!NOTE]
-> Om en användare har uppdaterat sin profilbild och ändringen inte visas i SharePoint eller OneDrive, be dem att öppna webbläsaren och [Gå till Office.com](https://www.office.com), logga in med sitt arbete eller skolan konto och klicka sedan på sida vid sida med OneDrive eller SharePoint. Då profilbild för synkronisering. Användaren måste kanske försöka utföra dessa steg med den privata versionen av webbläsaren. 
+> Om en användare har uppdaterat sin profilbild och ändringen inte visas i SharePoint eller OneDrive, be dem att öppna en webbläsare, [gå till Office.com](https://www.office.com), logga in med sitt arbets-eller skolkonto och klicka sedan på OneDrive eller SharePoint-panelen. Detta kommer att uppmana profilbilden att synkroniseras. Användaren kan behöva prova att slutföra dessa steg med den privata versionen av webbläsaren. 
   
-[Lär dig mer om hur du uppdaterar profiler i Delve](https://go.microsoft.com/fwlink/?linkid=735070)
+[Läs mer om att uppdatera profiler i Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
 

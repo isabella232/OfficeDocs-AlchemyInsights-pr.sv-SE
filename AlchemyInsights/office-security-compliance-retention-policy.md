@@ -14,10 +14,10 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753778"
 ---
 # <a name="more-info-about-retention-policies"></a>Mer information om bevarandeprinciper
@@ -26,13 +26,13 @@ För de flesta organisationer ökar volymen och komplexiteten hos deras data dag
 
 ## <a name="a-from-security-and-compliance-center"></a>A) från säkerhets-och Efterlevnadscenter
 
-- Gå till säkerhet och efterlevnad _ Gt_ data styrning _ Gt_ retention
+- Gå till säkerhet och efterlevnad > data styrning > lagring
   - Se [den här](https://docs.microsoft.com/office365/securitycompliance/retention-policies) artikeln
 
-- Gå till säkerhet och efterlevnad _ eDiscovery> Advanced eDiscovery 
+- Gå till säkerhet och efterlevnad > eDiscovery> Avancerad eDiscovery 
   - Se [den här](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) artikeln
 
-- Gå till säkerhet och efterlevnad _ Gt_ klassificeringar _ Gt_ retention
+- Gå till säkerhet och efterlevnad > klassificeringar > lagring
   - Se dessa artiklar
     - [Känslighet etiketter](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [Översikt över etiketter](https://docs.microsoft.com/office365/securitycompliance/labels)

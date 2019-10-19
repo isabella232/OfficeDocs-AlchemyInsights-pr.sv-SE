@@ -1,5 +1,5 @@
 ---
-title: XLS-filen öppnas inte genom att dubbelklicka
+title: XLS-filen inte öppnas VidDubbelklickning
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,38 +12,38 @@ ms.custom:
 - "776"
 - "2100015"
 ms.openlocfilehash: 7d2356ff2c688dd4f1ec1ca3751c45246eae1ba0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530765"
 ---
-# <a name="excel-file-doesnt-open"></a>Excel-filen öppnas inte
+# <a name="excel-file-doesnt-open"></a>Excel fil inte öppnas
 
-Försök med något av följande:
+Prova något av följande förslag:
 
 **Välj Excel som standard**
 
-* Högerklicka på kalkylbladet, väljer **Öppna med**och välj **Excel**
+* Högerklicka på kalkylbladet, Välj **Öppna med**och välj sedan **Excel**
 
-**Kör en Snabbreparation**
+**Kör en snabb reparation**
 
-1. Gå till **kontroll Panel > program > program och funktioner**.
+1. Gå till **Kontrollpanelen > program > program och funktioner**.
 
-2. Markera den Office-produkt som du vill reparera och klicka på **Ändra**.
+2. Markera den Office-produkt som du vill reparera och välj sedan **ändra**.
 
-3. Välj alternativet för **Snabbreparation** och sedan **Reparera**.
+3. Välj alternativet **snabb reparation** och välj sedan **Reparera**.
 
-**Avinstallera versioner av Office som du inte använder**
+**Avinstallera Office-versioner som du inte använder**
 
-1. Gå till **Kontrollpanelen > avinstallera ett Program**och välj versionen av Office som du vill ta bort.
+1. Gå till **Kontrollpanelen > Avinstallera ett program**och välj sedan den version av Office som du vill ta bort.
 
 2. Klicka på **Avinstallera**.
 
 3. Starta om datorn.
 
-**Kör felsökaren om du vill ange filtillägg för Office för att öppna i Office**
+**Kör den här felsökaren för att ange Office-filtillägg som ska öppnas i Office**
 
-1. Kör felsökaren: https://aka.ms/diag_officefile.
+1. Kör den här fel https://aka.ms/diag_officefilesökaren:.
 
-2. Beroende på din webbläsare, **Öppna** eller **Spara** felsökaren till skrivbordet och sedan **köra** den.
+2. Beroende på din webbläsare, **Öppna** eller **Spara** felsökaren på skrivbordet och **Kör** den.

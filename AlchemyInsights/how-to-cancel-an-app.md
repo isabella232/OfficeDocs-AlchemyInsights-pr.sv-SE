@@ -1,5 +1,5 @@
 ---
-title: Hur du makulerar en app
+title: Så här avbryter du en app
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "9000566"
 - "2424"
 ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542141"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Hur du avbryter apps programvara som en tjänst 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Så här avbryter du programvara som en tjänst-appar 
 
-1. I Microsoft 365 administratörscenter till **Fakturering** > [produkter & tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054) sidan och sedan välja fliken **appar** .
+1. I Microsoft 365 administratörscenter, på sidan **fakturerings** > [produkter & tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054) och välj sedan fliken **appar** .
 
-2. Sök efter och markera appen som du vill hantera.
+2. Leta reda på och välj den app som du vill hantera.
 
-3. Välj **Avbryt prenumeration**under **Inställningar & åtgärder**.
+3. Under **inställningar & åtgärder**väljer du **Avbryt prenumeration**.

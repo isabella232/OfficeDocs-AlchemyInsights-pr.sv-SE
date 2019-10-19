@@ -12,24 +12,24 @@ ms.custom:
 - "1821"
 - "9000238"
 ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542719"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a>Lägga till ett e-postalias i Outlook.com
+# <a name="add-an-email-alias-in-outlookcom"></a>Lägg till ett e-postalias i Outlook.com
 
-Ett alias är en ytterligare e-postadress som används i samma inkorg, kontaktlista och kontoinställningar som din primära e-postadress. Du kan välja vilken e-postadress för att skicka e-post från, och du kan logga in på ditt Outlook.com-konto med ditt alias – alla använder samma lösenord.
+Ett alias är en ytterligare e-postadress som använder samma inkorg, kontaktlista och kontoinställningar som din primära e-postadress. Du kan välja vilken e-postadress du vill skicka e-post från och du kan logga in på ditt Outlook.com-konto med någon av dina alias – alla använder samma lösenord.
 
-Lägga till en e-postadress:
+Så här lägger du till en e-postadress:
 
-1. Gå till [Lägg till ett alias](https://go.microsoft.com/fwlink/p/?linkid=864833). Logga in på ditt Microsoft-konto om du blir ombedd.
+1. Gå till [Lägg till ett alias](https://go.microsoft.com/fwlink/p/?linkid=864833). Logga in på ditt Microsoft-konto om du uppmanas till det.
 2. Under **Lägg till ett alias**, antingen:
-    1. Skapa en ny e-postadress för Outlook.com och lägga till den som ett alias.
-    2. Lägga till en befintlig e-postadress som ett alias.
+    1. Skapa en ny Outlook.com e-postadress och Lägg till den som ett alias.
+    2. Lägg till en befintlig e-postadress som ett alias.
 3. Välj **Lägg till alias**.
 
 Läs mer om hur du [lägger till eller tar bort ett e-postalias i Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
 
-Läsa om [hur du ansluter en annan e-postkonto](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) Outlook.com-konto.
+Läs om [hur du ansluter ett annat e-postkonto](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) till ditt Outlook.com konto.

@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000079
 ms.openlocfilehash: 136b349c374518e2b130184f2dc64d1bf9a7f7b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36494365"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problem med skräppost utge sig för att vara från LinkedIn
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problem med skräppost som påstår sig vara från LinkedIn
 
-Om du får skräppost som påstås vara från LinkedIn, kan du skapa en regel om du vill filtrera de e-postmeddelandena.
-Mer information finns i [använda regler för Inkorgen i Outlook.com](https://aka.ms/OutlookComInboxRules) .
+Om du får skräppost som påstår sig vara från LinkedIn kan du skapa en regel för att filtrera dessa e-postmeddelanden.
+Mer information finns [i använda inkorgsregler i Outlook.com](https://aka.ms/OutlookComInboxRules) .
 
 

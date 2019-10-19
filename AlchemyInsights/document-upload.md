@@ -1,5 +1,5 @@
 ---
-title: Överföra dokument
+title: Uppladdning av dokument
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
 ms.openlocfilehash: 6a2559521b4160dc337796ed8d4721ec49acf703
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529468"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Överföra filer till OneDrive eller SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Ladda upp filer till OneDrive eller SharePoint
 
-1. Gå till den plats där du vill överföra filer i din webbläsare.
+1. I webbläsaren går du till den plats där du vill ladda upp filer.
     
-2. Öppna File Explorer och bläddra till de filer du vill överföra.
+2. Öppna Utforskaren och bläddra till de filer du vill ladda upp.
     
-3. Markera filerna och dra dem till önskad plats i OneDrive eller SharePoint. Anmärkning: Om du använder Microsoft Edge, Mozilla FireFox eller Google Chrome, du kan också överföra en mapp och alla filer i den.
+3. Markera filerna och dra dem till platsen i OneDrive eller SharePoint. Obs: om du använder Microsoft Edge, Mozilla FireFox eller Google Chrome kan du också ladda upp en mapp och alla filer i den.
     
 > [!NOTE]
->  Du kan överföra filer upp till 15 GB i storlek. > den fullständiga sökvägen för en fil (inklusive filnamnet) får inte vara mer än 400 tecken. > om du behöver överföra mer än 100 filer, [använda OneDrive sync-klient](https://go.microsoft.com/fwlink/?linkid=866427). 
+>  Du kan ladda upp filer upp till 15 GB i storlek. > den fullständiga sökvägen till en fil (inklusive filnamnet) får inte vara längre än 400 tecken långt. > om du behöver ladda upp fler än 100 filer [använder du OneDrive sync-klienten](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
 ms.openlocfilehash: 90dfe7323b5f0ae37e963b413327bee2bc6b3d33
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542514"
 ---
 # <a name="manage-access-requests"></a>Hantera åtkomstbegäranden
 
-När en användare försöker komma åt ett element i SharePoint och de har inte rättigheter, ser de ett meddelande om att de måste ha behörighet att komma åt objektet. Användaren kan begära åtkomst (i vissa fall, till särskilda objekt eller att delta i gruppen) och en webbplatsägare kan godkänna eller Avvisa begäran. Om någon som inte är ägaren delar en plats med en annan person får webbplatsens ägare också en åtkomstbegäran för den nya användaren. Att godkänna eller avvisa förfrågningar:
+När en användare försöker komma åt ett objekt i SharePoint och de inte har behörighet, visas ett meddelande om att de behöver behörighet att komma åt objektet. Användaren kan begära åtkomst (i vissa fall till det specifika objektet eller gå med i gruppen) och en webbplatsägare kan godkänna eller avvisa begäran. Om någon som inte är webbplatsägare delar en webbplats med en annan person får webbplatsens ägare också en åtkomstbegäran för den nya användaren. Så här godkänner eller nekar du åtkomstbegäranden:
   
-1. Gå till webbplatsen, klicka på ikonen inställningar i det övre högra hörnet och klicka sedan på **Webbplatsinställningar**. (Om du inte ser Webbplatsinställningar, klicka på **webbplatsbehörigheter**och klicka sedan på **Inställningar för avancerade behörigheter**. Leta efter en banderoll med en länk som heter ”Visa förfrågningar och inbjudningar”.)
+1. Gå till webbplatsen, klicka på ikonen Inställningar uppe till höger och klicka sedan på **Webbplatsinställningar**. (Om du inte ser Webbplatsinställningar klickar du på **webbplatsbehörigheter**och sedan på **avancerade behörighetsinställningar**. Leta efter en banderoll som har en länk som heter "Visa åtkomstbegäran och inbjudningar".)
     
-2. Klicka på **Förfrågningar och inbjudningar**under **användare och behörigheter**. (Om det inte visas några förfrågningar har gjorts.)
+2. Klicka på **åtkomstbegäranden och inbjudningar**under **användare och behörigheter**. (Om detta inte visas har inga åtkomstbegäranden gjorts.)
     
-3. Klicka på **Godkänn** eller **Avböj**om du vill ge användarbehörighet individuellt. Klicka på punkter (...) bredvid personens namn om du vill välja en specifik behörighetsnivå. Du kan också lägga till användaren till en grupp som har behörighet till webbplatsen. För kommunikation och klassiska team platser, kan du göra detta på sidan Webbplatsinställningar. Du kan lägga till användaren till gruppen för webbplatser som tillhör en grupp av Office 365.
+3. Om du vill ge användarbehörigheten individuellt klickar du på **Godkänn** eller **avvisa**. Om du vill välja en viss behörighetsnivå klickar du först på ellipsen (...) bredvid personens namn. Du kan också lägga till användaren i en grupp som har behörighet till webbplatsen. För kommunikationswebbplatser och klassiska gruppwebbplatser kan du göra detta på sidan Webbplatsinställningar. För webbplatser som tillhör en Office 365-grupp kan du lägga till användaren i gruppen.
     
     [Hantera åtkomstbegäranden](https://go.microsoft.com/fwlink/?linkid=2008747)
     

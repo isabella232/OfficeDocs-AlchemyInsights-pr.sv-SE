@@ -1,5 +1,5 @@
 ---
-title: 9000215 Outlook.com-prenumerationer
+title: 9000215 Outlook.com prenumerationer
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
 ms.openlocfilehash: 03a76b467d24c1a4e7e478d9ecc2bd4dad8aff7c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511829"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>Prenumerationer och abonnemang
+# <a name="subscriptions-and-unsubscribing"></a>Prenumerationer och avbryta prenumerationen
 
-Om du vill få nyhetsbrev och erbjudanden, finns det två sätt du kan avsluta prenumerationen i Outlook.com:
+Om du vill sluta ta emot nyhetsbrev eller kampanjer, finns det två sätt du kan avsluta prenumerationen på Outlook.com:
 
-1. Välj ett nyhetsbrev eller säljfrämjande e-post i Inkorgen. Välj **Avbryt prenumeration**längst upp i läsfönstret.
-2. Öppna din [Outlook.com abonnemang inställningar](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Inställningar** > **Visa alla Outlook-inställningar** > **e** > **abonnemang**) och väljer **Avbryt prenumeration**.
+1. Välj ett nyhetsbrev eller ett kampanjmejl i Inkorgen. Överst i läsrutan väljer du **Avbryt prenumeration**.
+2. Öppna dina [Outlook.com prenumerationsinställningar](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Inställningar** > **Visa alla Outlook** > **-Inställningar e-** > **prenumerationer**) och välj **unsubscribe**.
 
 Anteckningar:
 
-- Inte alla kunder kan dra nytta av den här funktionen just nu.
-- Den här funktionen visas endast om du har fått ett e-postmeddelande från företaget prenumererar på e-postmeddelandet.
+- Inte alla kunder kan dra nytta av den här funktionen för tillfället.
+- Den här funktionen visas bara om du har fått ett e-postmeddelande från företaget som skickar prenumererat e-postmeddelande.

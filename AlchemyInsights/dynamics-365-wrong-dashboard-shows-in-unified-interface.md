@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 - fel instrumentpanelen visas i Dynamics 365 enhetligt gränssnitt
+title: Dynamics 365-fel instrumentpanel visas i Dynamics 365 enhetligt gränssnitt
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,34 +10,34 @@ ms.custom:
 - "1484"
 - "6200024"
 ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528569"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Fel instrumentpanelen visas i Dynamics 365 enhetligt gränssnitt
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Fel instrumentpanel visas i Dynamics 365 enhetligt gränssnitt
 
-Det finns flera orsaker till varför du kan se en annan instrumentpanel än förväntat:
+Det finns flera anledningar till att du kan se en annan instrumentpanel än den du förväntar dig:
 
-## <a name="the-user-has-set-a-user-default-dashboard"></a>Användaren har angett en standard 
+## <a name="the-user-has-set-a-user-default-dashboard"></a>Användaren har angett en standardinstrumentpanel för användare 
 
-Vanligtvis kan du identifiera en användare standardinstrumentpanel anges om knappen **Ange som standard** inte visas i kommandofältet instrumentpanelen. Användaren standardinstrumentpanel åsidosätts alla standard-instrumentpaneler även om användarinstrumentpanel standard inte är den aktuella appen.
+Vanligtvis kan du identifiera en standardinstrumentpanel för användare anges om knappen **Ange som standard** inte visas i instrumentpanelens kommandofält. Standardinstrumentpanelen för användare åsidosätter alla andra standardinstrumentpaneler, även om användarens standardinstrumentpanel inte finns i den aktuella appen.
 
-Använd följande lösning ta bort deras standardinstrumentpanel.
+Använd följande lösning för att ta bort deras standardinstrumentpanel.
 
 1. Skapa en ny personlig instrumentpanel.
 
-2. Ange den nya instrumentpanelen som standard.
+2. Ange den nya instrumentpanelen som Användarstandard.
 
-3. Ta bort den här instrumentpanelen.
+3. Ta bort den instrumentpanelen.
 
-## <a name="the-dashboard-is-set-in-the-sitemap"></a>Instrumentpanelen är inställd i Webbplatsöversikt
+## <a name="the-dashboard-is-set-in-the-sitemap"></a>Instrumentpanelen anges i webbplatsöversikten
 
-Du kan ha angett en standardinstrumentpanel för organisationen genom att välja en instrumentpanel och välja 'Ange som standard ”under” Anpassa systemet ”. Men instrumentpanelen som definierats i sitemap designer har högre prioritet än den här instrumentpanelen om användaren har åtkomst till den.
+Du kan ha ställt in en standardinstrumentpanel för organisationen genom att välja en instrumentpanel och välja "Ange som standard" under "anpassa systemet". Men instrumentpanelen som definierats i sitemap-designern kommer att ha företräde framför den här instrumentpanelen, om användaren har åtkomst till den.
 
-Om du vill att användare kan visa på instrumentpanelen som du angett som Organisationsstandard, kan du antingen:
+Om du vill att användarna ska se den instrumentpanel som du har angett som standard för organisationen kan du antingen:
 
-* Ange att instrumentpanelen i Webbplatsöversikt
+* Ange den instrumentpanelen i webbplatsöversikten
 
-* Ta bort åtkomst till instrumentpanelen sitemap definieras för dessa användare
+* Ta bort åtkomsten till webbplatsöversikten definierad instrumentpanel för dessa användare

@@ -1,5 +1,5 @@
 ---
-title: Lägga till en grupp till en SharePoint-webbplats
+title: Lägga till en grupp på en SharePoint-webbplats
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
 ms.openlocfilehash: c2bb1ce655e994054278927dfe346c0decd09f19
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36495229"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a>Lägga till en grupp till en SharePoint-webbplats
+# <a name="add-a-group-to-a-sharepoint-site"></a>Lägga till en grupp på en SharePoint-webbplats
 
-Vissa SharePoint-gruppwebbplatser (inklusive de som har skapats i Microsoft Teams) hanteras av Office 365 gruppägarna. SharePoint-webbplatser och innehåll kan också delas med grupper i Office 365 och SharePoint-grupper. En SharePoint-grupp är en samling av användare som har samma uppsättning behörigheter till webbplatser och innehåll. Klassiska platser rekommenderar vi att du använder grupper för att ge samma behörighetsnivå till många personer samtidigt i stället för tilldela behörighet en person i taget.
+Vissa SharePoint-gruppwebbplatser (inklusive de som skapats i Microsoft Teams) hanteras av Office 365-gruppägare. SharePoint-webbplatser och-innehåll kan också delas med Office 365-grupper och med SharePoint-grupper. En SharePoint-grupp är en samling användare som alla har samma uppsättning behörigheter till webbplatser och innehåll. För klassiska webbplatser rekommenderar vi att du använder grupper för att bekvämt tilldela samma behörighetsnivå till många personer samtidigt i stället för att tilldela behörigheter en person åt gången.
   
-Hantera Office 365 medlemmar:
+Hantera Office 365 gruppmedlemmar:
   
-1. Gå till [sidan i Microsoft 365 administratörscenter](https://portal.office.com/adminportal/home#/groups).
+1. Gå till [sidan grupper i Microsoft 365 administratörscenter](https://portal.office.com/adminportal/home#/groups).
     
-2. Välj en grupp att visa dess ägare och medlemmar. Om du vill lägga till eller ta bort personer, klickar du på länken **Redigera** i raden **ägare** eller **medlemmar** . 
+2. Välj en grupp för att se dess ägare och medlemmar. Om du vill lägga till eller ta bort personer klickar du på länken **Redigera** i raden **ägare** eller **medlemmar** . 
     
-Dela en webbplats för kommunikation med Office 365-grupp:
+Dela en kommunikationswebbplats med en Office 365-grupp:
   
-1. Gå till webbplatsen i en webbläsare och klicka på **Dela plats** i det övre högra hörnet. 
+1. Gå till webbplatsen i en webbläsare och klicka på **dela webbplats** uppe till höger. 
     
-2. Ange gruppnamnet och välj behörighetsnivå (läsa, redigera eller fullständig behörighet).
+2. Ange gruppnamnet och välj sedan behörighetsnivå (Läs, redigera eller fullständig behörighet).
     
-Skapa en SharePoint-grupp som ska användas med en klassisk plats:
+Skapa en SharePoint-grupp som ska användas med en klassisk webbplats:
   
-1. Gå till webbplatsen i en webbläsare och klicka på ikonen inställningar i det övre högra hörnet.
+1. Gå till webbplatsen i en webbläsare och klicka på ikonen Inställningar uppe till höger.
     
-2. Klicka på **Webbplatsinställningar**och klicka sedan på **behörigheter**under **användare och behörigheter**.
+2. Klicka på **Webbplatsinställningar**och klicka sedan på **webbplatsbehörigheter**under **användare och behörigheter**.
     
 3. Klicka på **Skapa grupp**på fliken behörigheter.
     
-[Ansluta ett klassiskt team-webbplats till en ny grupp i Office 365](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Anslut en klassisk gruppwebbplats till en ny Office 365-grupp](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[Lär dig mer om att arbeta med SharePoint-grupper](https://go.microsoft.com/fwlink/?linkid=874658)
+[Läs mer om att arbeta med SharePoint-grupper](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

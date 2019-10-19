@@ -1,5 +1,5 @@
 ---
-title: Word-filen öppnas inte genom att dubbelklicka
+title: Word-filen kunde inte öppnas VidDubbelklickning
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,38 +12,38 @@ ms.custom:
 - "850"
 - "2100002"
 ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558203"
 ---
-# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word-dokument öppnas i appen fel eller öppnas inte
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word-dokument öppnas i fel app eller inte öppna
 
-Försök med något av följande:
+Prova något av följande förslag:
 
 **Välj Word som standard**
 
-- Högerklicka på dokumentet, Välj **Öppna med**och välj **Word**
+- Högerklicka på dokumentet, Välj **Öppna med**och välj sedan **Word**
 
-**Kör en Snabbreparation**
+**Kör en snabb reparation**
 
-1. Gå till **kontroll Panel > program > program och funktioner**.
+1. Gå till **Kontrollpanelen > program > program och funktioner**.
 
-2. Markera den Office-produkt som du vill reparera och klicka på **Ändra**.
+2. Markera den Office-produkt som du vill reparera och välj sedan **ändra**.
 
-3. Välj alternativet för **Snabbreparation** och sedan **Reparera**.
+3. Välj alternativet **snabb reparation** och välj sedan **Reparera**.
 
-**Avinstallera versioner av Office som du inte använder**
+**Avinstallera Office-versioner som du inte använder**
 
-1. Gå till **Kontrollpanelen > avinstallera ett Program**och välj versionen av Office som du vill ta bort.
+1. Gå till **Kontrollpanelen > Avinstallera ett program**och välj sedan den version av Office som du vill ta bort.
 
 2. Klicka på **Avinstallera**.
 
 3. Starta om datorn.
 
-**Kör felsökaren om du vill ange filtillägg för Office för att öppna i Office**
+**Kör den här felsökaren för att ange Office-filtillägg som ska öppnas i Office**
 
-1. Kör felsökaren: https://aka.ms/diag_officefile.
+1. Kör den här fel https://aka.ms/diag_officefilesökaren:.
 
-2. Beroende på din webbläsare, **Öppna** eller **Spara** felsökaren till skrivbordet och sedan **köra** den.
+2. Beroende på din webbläsare, **Öppna** eller **Spara** felsökaren på skrivbordet och **Kör** den.

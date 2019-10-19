@@ -1,5 +1,5 @@
 ---
-title: Behörigheter 8000093 Outlook.com ansluten
+title: 8000093 Outlook.com anslutna kontobehörigheter
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ ms.custom:
 - "1431"
 - "8000093"
 ms.openlocfilehash: 86200f95686e9249499e3c387776d26fdbbd8fc1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546915"
 ---
-# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Åtgärda ”det verkar som om vi inte har behörigheten”
+# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Hur fixar "det ser ut som vi inte har tillåtelse"
 
-Om du ser felmeddelandet ”det ser ut som vi inte har behörighet att hämta e-post för...” Gör på följande sätt:
+Om du ser felmeddelandet "det verkar som om vi inte har behörighet att hämta e-post för..." gör följande:
 
-1. Öppna dina [Kontoinställningar ansluten](https://outlook.live.com/mail/options/mail/accounts) och ta bort eller ta bort anslutet konto som anges i filen error.
-2. Lägg till anslutet konto igen.
-3. Gå [tillbaka till din postlåda](https://outlook.live.com/mail/inbox).
+1. Öppna inställningarna för det [anslutna kontot](https://outlook.live.com/mail/options/mail/accounts) och ta bort eller ta bort det anslutna kontot som anges i felet.
+2. Lägg till det anslutna kontot igen.
+3. Gå [tillbaka till din brevlåda](https://outlook.live.com/mail/inbox).
 
-Det kan ta lite tid för alla e-postmeddelanden igen synkroniseras från ditt anslutna konto.
+Det kan ta lite tid för alla e-postmeddelanden att synkronisera igen från ditt anslutna konto.
 
-Läs mer om [Ta bort](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) och [lägga till](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) anslutna konton.
+Läs mer om att [ta bort](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) och [lägga till](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) anslutna konton.

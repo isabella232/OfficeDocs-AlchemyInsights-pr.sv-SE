@@ -13,15 +13,15 @@ ms.custom:
 - "3200002"
 ms.assetid: ''
 ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661314"
 ---
 # <a name="office-365-alert-policies"></a>Office 365 Alert principer
 
-Office 365 Security _ amp _ Compliance Center erbjuder [standard aviserings principer](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) som utlöser aviseringar för organisationer med en Office 365 Enterprise eller Office 365 US Government E1/G1, E3/G3 eller E5/G5-prenumeration. Administratörer kan därför få en avisering e-postmeddelande som skickas av Office365Alerts@microsoft.com med en ämnesrad som "en varning för låg allvarlighetsgrad: *namnet på aviserings principen*". Varningsmeddelanden skickas när aviseringar utlöses för vanliga aktiviteter, till exempel när användare:
+Säkerhets & Efterlevnadscenter för Office 365 erbjuder [standard aviserings principer](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) som utlöser aviseringar för organisationer med ett Office 365 Enterprise-eller Office 365 US Government E1/G1-, E3/G3-eller E5/G5-abonnemang. Administratörer kan därför få en avisering e-postmeddelande som skickas av Office365Alerts@microsoft.com med en ämnesrad som "en varning för låg allvarlighetsgrad: *namnet på aviserings principen*". Varningsmeddelanden skickas när aviseringar utlöses för vanliga aktiviteter, till exempel när användare:
 
 - Skapa inkorgsregler som vidarebefordrar e-post.
 - Tilldela behörigheter deras postlåda.
@@ -30,7 +30,7 @@ Office 365 Security _ amp _ Compliance Center erbjuder [standard aviserings prin
 
 Så här granskar och agerar du på en avisering:
 
-1. Gå till [Security _ amp _ Compliance Center](https://protection.office.com) och logga in.
+1. Gå till [säkerhets & Efterlevnadscenter](https://protection.office.com) och logga in.
 2. Klicka på **aviseringar** > **Visa aviseringar**.
 3. Klicka på en avisering om du vill visa en utfällbar sida med information om aviseringen.
 

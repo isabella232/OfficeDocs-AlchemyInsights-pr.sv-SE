@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
 ms.openlocfilehash: 3d612b3e729b471cafd8304d8afe0f569f257e49
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36552369"
 ---
 # <a name="restore-a-previous-file-version"></a>Återställa en tidigare filversion
 
-Du kan visa och återställa tidigare versioner av dina filer i OneDrive eller SharePoint med online versionshistorik. Tidigare versioner fungerar med alla filtyper, inklusive PDF-filer, CAD-filer, foton och videor. Så här återställer du en tidigare version:
+Med versionshistoriken online kan du se och återställa äldre versioner av dina filer i OneDrive eller SharePoint. Versionshistoriken fungerar med alla filtyper, inklusive PDF, CAD-filer, foton och videor. Så här återställer du en tidigare filversion:
   
-1. Öppna SharePoint-dokumentbibliotek eller platsen för OneDrive.
+1. Öppna SharePoint-dokumentbiblioteket eller OneDrive-platsen.
     
-2. Klicka till vänster om filen så att den markeras och klicka sedan på **versionshistorik**. Om du inte ser tidigare versioner i kommandofältet, klicka på mer ( **** ). 
+2. Klicka till vänster om filen för att markera den och klicka sedan på **versionshistorik**. Om du inte ser versionshistoriken i kommandofältet klickar du på mer ( **...** ). 
     
-3. Klicka på den version som du vill visa, eller klicka på mer ( **** ) till höger om en version och klicka sedan på **Återställ**.
+3. Klicka på den version du vill visa eller klicka på mer ( **...** ) till höger om en version och klicka sedan på **Återställ**.
     
 

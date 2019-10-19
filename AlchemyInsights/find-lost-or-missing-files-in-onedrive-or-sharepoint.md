@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
 ms.openlocfilehash: 911b8fffa673e578a7afb83cfff305e4f1806013
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525437"
 ---
 # <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Hitta förlorade eller saknade filer i OneDrive eller SharePoint
 
-- Kontrollera Papperskorgen genom att bläddra till din OneDrive eller SharePoint-webbplatsen på webben och klicka på Papperskorgen i det vänstra fönstret. (Om du inte ser Papperskorgen bin i det vänstra fönstret klickar du på ikonen inställningar och markera **innehållet på webbplatsen**. **Papperskorgen** är längst till höger på kommandofältet överst.) 
+- Kontrollera papperskorgen genom att bläddra till din OneDrive eller SharePoint-webbplatsen på webben och klicka på papperskorgen i den vänstra rutan. (Om du inte ser papperskorgen i den vänstra rutan klickar du på ikonen Inställningar och väljer sedan **webbplats innehåll**. **Papperskorgen** finns längst till höger i kommandofältet högst upp.) 
     
-- Kontrollera Papperskorgen på din dator om du synkronisera filer på din dator. 
+- Om du synkroniserar filerna på datorn kontrollerar du papperskorgen på datorn. 
     
-- Om du inte hittar objektet du letar efter, och den nyligen togs bort, administratör för en webbplatssamling kan kanske återställa från webbplatssamlingens papperskorg. Om du är administratör för webbplatssamlingen kan du se [Återskapa borttagna objekt från webbplatssamlingens papperskorg](https://go.microsoft.com/fwlink/?linkid=866439).
+- Om du inte ser det objekt som du letar efter, och det har tagits bort nyligen, kanske en administratör för en webbplatssamling kan återställa den från webbplatssamlingens papperskorg. Om du är administratör för webbplatssamlingen, se [återställa borttagna objekt från webbplatssamlingens pappers](https://go.microsoft.com/fwlink/?linkid=866439)korg.
     
-[Mer hjälp återställa borttagna filer och mappar i OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
+[Mer hjälp med att återställa raderade filer och mappar i OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

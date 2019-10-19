@@ -1,5 +1,5 @@
 ---
-title: '8000016: hur du tar bort en mapp'
+title: '8000016: ta bort en mapp'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,17 +14,17 @@ ms.custom:
 - "2004"
 ms.assetid: ''
 ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36556547"
 ---
-# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Hur du tar bort en mapp i Outlook på webben
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Ta bort en mapp i Outlook på webben
 
-1. Högerklicka på den mapp eller undermapp som du vill ta bort i mappfönstret.
-2. Välj **Ta bort mappen**.
+1. Högerklicka på mappen eller undermappen som du vill ta bort i mappfönstret.
+2. Välj **ta bort mapp**.
 3. Välj **OK** för att bekräfta.
 
-Mer information finns i [arbeta med meddelandemappar i Outlook på webben](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Mer information finns [i arbeta med meddelandemappar i Outlook på webben](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
 
