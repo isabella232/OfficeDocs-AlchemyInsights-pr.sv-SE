@@ -12,15 +12,15 @@ ms.custom:
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
 ms.openlocfilehash: d375ed80ba4c58b32a830f140a8f18ba50008bd6
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754426"
 ---
-# <a name="manage-search-dictionaries"></a><span data-ttu-id="89213-102">Hantera Sök ordlistor</span><span class="sxs-lookup"><span data-stu-id="89213-102">Manage search dictionaries</span></span>
+# <a name="manage-search-dictionaries"></a><span data-ttu-id="17fef-102">Hantera Sök ordlistor</span><span class="sxs-lookup"><span data-stu-id="17fef-102">Manage search dictionaries</span></span>
 
-<span data-ttu-id="89213-103">Sök ordlistor i SharePoint Online hanteras i SharePoint Online term Store som finns i den nya SharePoint administratörscenter.</span><span class="sxs-lookup"><span data-stu-id="89213-103">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the new SharePoint admin center.</span></span> <span data-ttu-id="89213-104">Mer information om hur du lägger till eller redigerar Sök lexikon finns i [Hantera Sök ordlistor](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="89213-104">For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
+<span data-ttu-id="17fef-103">Sök ordlistor i SharePoint Online hanteras i SharePoint Online term Store som finns i den nya SharePoint administratörscenter.</span><span class="sxs-lookup"><span data-stu-id="17fef-103">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the new SharePoint admin center.</span></span> <span data-ttu-id="17fef-104">Mer information om hur du lägger till eller redigerar Sök lexikon finns i [Hantera Sök ordlistor](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="17fef-104">For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
   
-<span data-ttu-id="89213-105">Om du inte ser en termuppsättning för Sök ordlista visas i termlagringsplatsen, vänta 24 timmar.</span><span class="sxs-lookup"><span data-stu-id="89213-105">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours.</span></span> <span data-ttu-id="89213-106">Om ordlistan fortfarande inte visas efter 24 timmar, vänligen logga ett supportärende.</span><span class="sxs-lookup"><span data-stu-id="89213-106">If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
+<span data-ttu-id="17fef-105">Om du inte ser en termuppsättning för Sök ordlista visas i termlagringsplatsen, vänta 24 timmar.</span><span class="sxs-lookup"><span data-stu-id="17fef-105">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours.</span></span> <span data-ttu-id="17fef-106">Om ordlistan fortfarande inte visas efter 24 timmar, vänligen logga ett supportärende.</span><span class="sxs-lookup"><span data-stu-id="17fef-106">If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
   
