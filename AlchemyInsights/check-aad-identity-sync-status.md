@@ -14,21 +14,21 @@ ms.custom:
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
 ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36738539"
 ---
-# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="561fb-102">Kontrollera AAD Identity-synkroniseringsstatus</span><span class="sxs-lookup"><span data-stu-id="561fb-102">Check AAD Identity Sync status</span></span>
+# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="84840-102">Kontrollera AAD Identity-synkroniseringsstatus</span><span class="sxs-lookup"><span data-stu-id="84840-102">Check AAD Identity Sync status</span></span>
 
-<span data-ttu-id="561fb-103">Kontrollera synkroniseringsstatus är enkelt:</span><span class="sxs-lookup"><span data-stu-id="561fb-103">Checking sync status is easy:</span></span>
+<span data-ttu-id="84840-103">Kontrollera synkroniseringsstatus är enkelt:</span><span class="sxs-lookup"><span data-stu-id="84840-103">Checking sync status is easy:</span></span>
   
-- <span data-ttu-id="561fb-104">Logga in på Microsoft 365 administratörscenter och välj **DirSync-status** på startsidan.</span><span class="sxs-lookup"><span data-stu-id="561fb-104">Sign in to the Microsoft 365 admin center and choose **DirSync Status** on the home page.</span></span>
+- <span data-ttu-id="84840-104">Logga in på Microsoft 365 administratörscenter och välj **DirSync-status** på startsidan.</span><span class="sxs-lookup"><span data-stu-id="84840-104">Sign in to the Microsoft 365 admin center and choose **DirSync Status** on the home page.</span></span>
 
-- <span data-ttu-id="561fb-105">Alternativt kan du gå till användare \> aktiva användare och på sidan aktiva användare väljer du mer \> katalogsynkronisering.</span><span class="sxs-lookup"><span data-stu-id="561fb-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
+- <span data-ttu-id="84840-105">Alternativt kan du gå till användare \> aktiva användare och på sidan aktiva användare väljer du mer \> katalogsynkronisering.</span><span class="sxs-lookup"><span data-stu-id="84840-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
 
-- <span data-ttu-id="561fb-106">I fönstret katalogsynkronisering väljer du gå till DirSync-hantering.</span><span class="sxs-lookup"><span data-stu-id="561fb-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span>
+- <span data-ttu-id="84840-106">I fönstret katalogsynkronisering väljer du gå till DirSync-hantering.</span><span class="sxs-lookup"><span data-stu-id="84840-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span>
 
-<span data-ttu-id="561fb-107">Om det finns ett problem med katalogsynkroniseringen visas felen på den här sidan.</span><span class="sxs-lookup"><span data-stu-id="561fb-107">If there is a problem with your directory synchronization, the errors are listed on this page.</span></span> <span data-ttu-id="561fb-108">Mer information om olika fel som kan uppstå finns [i Visa Katalogsynkroniseringsfel i Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).</span><span class="sxs-lookup"><span data-stu-id="561fb-108">For more information about different errors you might encounter, see [View directory synchronization errors in Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).</span></span>
+<span data-ttu-id="84840-107">Om det finns ett problem med katalogsynkroniseringen visas felen på den här sidan.</span><span class="sxs-lookup"><span data-stu-id="84840-107">If there is a problem with your directory synchronization, the errors are listed on this page.</span></span> <span data-ttu-id="84840-108">Mer information om olika fel som kan uppstå finns [i Visa Katalogsynkroniseringsfel i Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).</span><span class="sxs-lookup"><span data-stu-id="84840-108">For more information about different errors you might encounter, see [View directory synchronization errors in Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).</span></span>
   

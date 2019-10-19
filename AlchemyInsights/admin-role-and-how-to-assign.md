@@ -14,19 +14,19 @@ ms.custom:
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
 ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36737106"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a><span data-ttu-id="6108a-102">Vad är administratörsroller och hur tilldelar du dem?</span><span class="sxs-lookup"><span data-stu-id="6108a-102">What are admin roles and how do you assign them?</span></span>
+# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a><span data-ttu-id="c991c-102">Vad är administratörsroller och hur tilldelar du dem?</span><span class="sxs-lookup"><span data-stu-id="c991c-102">What are admin roles and how do you assign them?</span></span>
 
-<span data-ttu-id="6108a-103">Ser ut som du har några frågor om admin roller.</span><span class="sxs-lookup"><span data-stu-id="6108a-103">Looks like you have some questions about admin roles.</span></span> <span data-ttu-id="6108a-104">Dessa artiklar bör besvara alla dina frågor.</span><span class="sxs-lookup"><span data-stu-id="6108a-104">These articles should answer all your questions.</span></span>
+<span data-ttu-id="c991c-103">Ser ut som du har några frågor om admin roller.</span><span class="sxs-lookup"><span data-stu-id="c991c-103">Looks like you have some questions about admin roles.</span></span> <span data-ttu-id="c991c-104">Dessa artiklar bör besvara alla dina frågor.</span><span class="sxs-lookup"><span data-stu-id="c991c-104">These articles should answer all your questions.</span></span>
   
-- [<span data-ttu-id="6108a-105">Om administratörsroller</span><span class="sxs-lookup"><span data-stu-id="6108a-105">About admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
+- [<span data-ttu-id="c991c-105">Om administratörsroller</span><span class="sxs-lookup"><span data-stu-id="c991c-105">About admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
 
-- [<span data-ttu-id="6108a-106">Tilldela administratörsroller</span><span class="sxs-lookup"><span data-stu-id="6108a-106">Assign admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
+- [<span data-ttu-id="c991c-106">Tilldela administratörsroller</span><span class="sxs-lookup"><span data-stu-id="c991c-106">Assign admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
 
-<span data-ttu-id="6108a-107">Svarade du inte på din fråga?</span><span class="sxs-lookup"><span data-stu-id="6108a-107">Didn't answer your question?</span></span> <span data-ttu-id="6108a-108">Inga problem!</span><span class="sxs-lookup"><span data-stu-id="6108a-108">No problem!</span></span> <span data-ttu-id="6108a-109">Använd alternativet "Låt oss ringa dig" för att prata med en supporttekniker.</span><span class="sxs-lookup"><span data-stu-id="6108a-109">Use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="c991c-107">Svarade du inte på din fråga?</span><span class="sxs-lookup"><span data-stu-id="c991c-107">Didn't answer your question?</span></span> <span data-ttu-id="c991c-108">Inga problem!</span><span class="sxs-lookup"><span data-stu-id="c991c-108">No problem!</span></span> <span data-ttu-id="c991c-109">Använd alternativet "Låt oss ringa dig" för att prata med en supporttekniker.</span><span class="sxs-lookup"><span data-stu-id="c991c-109">Use the "Let us call you" option to talk to a support engineer.</span></span>
   
