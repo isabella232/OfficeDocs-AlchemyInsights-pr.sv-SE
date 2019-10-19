@@ -1,5 +1,5 @@
 ---
-title: Granska resultaten är tom
+title: Granskningsresultaten är tomma
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
 ms.openlocfilehash: befbb9d2de29231f5346284485aa55613d4f687b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36517445"
 ---
-# <a name="auditing-results-are-blank"></a>Granska resultaten är tom
+# <a name="auditing-results-are-blank"></a>Granskningsresultaten är tomma
 
- **Granskningsrapporter för klassiska platser**
+ **Granskningsrapporter för klassiska webbplatser**
   
-Du måste vara administratör för webbplatssamlingen om du vill visa en revisionsrapport för en SharePoint-webbplatssamling. Om du vill lägga till dig själv som administratör finns i [Lägg till webbplatssamling administratörer som en global eller SharePoint-administratör](https://go.microsoft.com/fwlink/?linkid=869390). För information om hur du arbetar med granskningsloggen visa [Granska loggen rapporter](https://go.microsoft.com/fwlink/?linkid=395237). 
+Om du vill visa en granskningsrapport för en SharePoint-webbplatssamling måste du vara administratör för webbplatssamlingen. Om du vill lägga till dig själv som administratör, se [Lägg till webbplatssamlingsadministratörer som global eller SharePoint-administratör](https://go.microsoft.com/fwlink/?linkid=869390). Information om hur du arbetar med granskningsloggen finns i [Visa granskningsloggrapporter](https://go.microsoft.com/fwlink/?linkid=395237). 
   
- **Sök granskningsloggen för Office 365**
+ **Sök i granskningsloggen för Office 365**
   
-Du måste vara en global administratör i Office 365 att arbeta med granskningsloggen i den [säkerhet &amp; regelefterlevnadscentret](https://protection.office.com). Innan du kan aktivera granskningsloggning. Kör sedan en granskning loggen sökning. 
+Du måste vara en global administratör i Office 365 för att arbeta med granskningsloggen i [ &amp; Security Compliance Center](https://protection.office.com). Innan du börjar aktiverar du granskningsloggning. Sedan kan du köra en sökning i granskningsloggen. 
   
-[Lär dig söka i granskningsloggen](https://go.microsoft.com/fwlink/?linkid=708432).
+[Läs om hur du söker i granskningsloggen](https://go.microsoft.com/fwlink/?linkid=708432).
   
 

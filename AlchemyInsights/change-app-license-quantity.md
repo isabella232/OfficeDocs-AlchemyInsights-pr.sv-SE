@@ -1,5 +1,5 @@
 ---
-title: Ändra licensantal app
+title: Ändra Licenskvantitet för app
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,30 +13,30 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.openlocfilehash: 86a61336da218fb64876401741f4babe8958f64c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519785"
 ---
-# <a name="change-app-license-quantity"></a>Ändra licensantal app
+# <a name="change-app-license-quantity"></a>Ändra Licenskvantitet för app
 
-Du kan visa eller ändra antalet licenser du har och tilldela dem till användarna i Microsoft 365 administratörscenter. 
+Du kan visa eller ändra antalet licenser som du har och tilldela dem till användare i Microsoft 365 administratörscenter. 
 
-## <a name="to-change-license-quantity"></a>Om du vill ändra licensantal
+## <a name="to-change-license-quantity"></a>Så här ändrar du Licenskvantitet
 
-1. Gå till **Fakturering** > [produkter & tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054) sidan och sedan välja fliken **appar** .
+1. Gå till sidan **fakturerings** > [produkter & tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054) och välj fliken **appar** .
 
-2. Sök efter och markera appen som du vill hantera.  
+2. Leta reda på och välj den app som du vill hantera.  
 
 3. Välj **Lägg till/ta bort licenser**.
 
-4. Ange det nya antalet licenser som behövs. Till exempel om du har för närvarande 5 licenser och bara behöver 4 Ange 4 i rutan **licenser sammanlagt** . Om du för närvarande har 5 licenser och behöver licenser för 10 totalt, ange 10 i rutan **licenser sammanlagt** .
+4. Ange det nya antalet licenser som behövs. Om du till exempel har 5 licenser och bara behöver 4 anger du 4 i rutan **Totalt antal licenser** . Om du för närvarande har 5 licenser och behöver 10 totala licenser anger du 10 i rutan **Totalt antal licenser** .
 
-## <a name="to-assign-app-licenses"></a>Tilldela licenser app
+## <a name="to-assign-app-licenses"></a>Så här tilldelar du applicenser
 
-1. Gå till **Fakturering** > [produkter & tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054) sidan och sedan välja fliken **appar** .
+1. Gå till sidan **fakturerings** > [produkter & tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054) och välj fliken **appar** .
 
-2. Sök efter och markera appen som du vill hantera.  
+2. Leta reda på och välj den app som du vill hantera.  
 
-3. Markera länken för att **Hantera i publisher portal**under **Inställningar & åtgärder**.
+3. Under **inställningar & åtgärder**, Välj länken för att **Hantera i Publisher Portal**.

@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
 ms.openlocfilehash: 7c9170093797d7bdb27ef1c9ee3519ae228a54dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36534905"
 ---
 # <a name="sharepoint-online-permission-levels"></a>Behörighetsnivåer för SharePoint Online
 
-SharePoint innehåller vissa standard behörighetsnivåer som du kan använda Contribute och visa endast. Om de inte uppfyller dina behov kan du skapa ytterligare behörighetsnivåer. Det är enklast att hålla reda på behörigheter om du inte redigera eller ta bort standardnivåer och om du vill lägga till användare i grupper och tilldela behörighetsnivåer till dessa grupper i stället för att tilldela behörighet till enskilda användare.
+SharePoint levereras med vissa standardbehörighetsnivåer som du kan använda, till exempel Contribute och Visa endast. Om de inte uppfyller dina behov kan du skapa ytterligare behörighetsnivåer. Det är enklast att hålla reda på behörigheter om du inte redigerar eller tar bort standard nivåerna, och om du lägger till personer i grupper och tilldelar behörighetsnivåer till dessa grupper i stället för att tilldela behörighetsnivåer till enskilda användare.
   
 - [Förstå behörighetsnivåer](https://go.microsoft.com/fwlink/?linkid=867071)
     

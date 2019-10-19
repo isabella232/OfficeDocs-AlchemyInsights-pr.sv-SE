@@ -1,5 +1,5 @@
 ---
-title: Ã ndra MDM myndigheten
+title: Ändra MDM-utfärdare
 ms.author: sirkkuw
 author: Sirkkuw
 ms.date: 12/4/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
 ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519317"
 ---
-# <a name="change-intune-mdm-authority"></a>Ändra Intune MDM myndigheten
+# <a name="change-intune-mdm-authority"></a>Ändra Intune MDM-utfärdaren
 
-Du kan ändra MDM-myndigheten utan att öppna ett supportärende. Se instruktioner för följande dokument:
+Du kan ändra din MDM-utfärdare utan att öppna ett supportärende. Se följande dokument för instruktioner:
   
-- [Ändra MDM myndigheten från Konfigurationshanteraren till Intune fristående](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [Ändra MDM-utfärdaren från Configuration Manager till fristående Intune](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [Ã ndra MDM myndigheten från Intune fristående till Konfigurationshanteraren](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [Ändra MDM-utfärdaren från fristående Intune till Configuration Manager](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
     
- **MDM myndigheten existens**
+ **Samexistens för MDM-utfärdare**
   
-- Du kan ha både aktiva MDM myndigheterna samtidigt om du redan har Office 365 MDM är aktiverat, men du vill prova Intune MDM.
+- Du kan ha båda MDM-utfärdare aktiva samtidigt om du redan har Office 365 MDM aktiverat men du vill prova Intune MDM.
     
-- Administratörer som redan har O365 MDM aktiva kan bara markera Intune MDM som aktiv från Azure portal.
+- Administratörer som redan har O365 MDM aktiv kan helt enkelt markera Intune MDM som aktiv från Azure Portal.
     
-- Om du har Intune MDM men vill använda Office 365 MDM: öppna en biljett nedan och hjälper supportpersonalen att göra detta åt dig.
+- Om du har Intune MDM men vill använda Office 365 MDM: vänligen öppna en biljett nedan och en support agent hjälper dig att göra det åt dig.
     
 
