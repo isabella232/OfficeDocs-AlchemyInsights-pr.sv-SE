@@ -14,18 +14,26 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661062"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658311"
 ---
 # <a name="manage-your-onedrive-storage"></a>Hantera OneDrive-lagring
 
-Så här ändrar du standardlagringen för nya och befintliga OneDrive-användare:
-  
-- Gå till [sidan lagring i Administrationscenter för OneDrive](https://admin.onedrive.com/?v=StorageSettings)och ange ett nytt belopp i GB.
+Lagringsutrymmet på OneDrive räknas inte gentemot den totala Innehavarkvoten. 
 
-Den här inställningen för lagringsutrymme gäller för alla användare som du inte har angett specifika Lagringsgränser för. Om du vill ändra lagringsutrymme för specifika användare, måste du använda Microsoft PowerShell. Information om hur du gör detta finns i [ändra användarnas OneDrive-lagringsutrymme med hjälp av PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). Om du vill kontrollera hur mycket lagringsutrymme du använder i din egen OneDrive, se [Hantera OneDrive för företag-lagring](https://go.microsoft.com/fwlink/?linkid=866429). Information om lagringen som följer med varje plan finns i [OneDrive för Business Service Description](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Läs om [hur lagringsutrymmet för OneDrive allokeras per användare/plan](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).
+
+Läs om [hur mycket lagringsutrymme du använder i OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
+
+Lär dig [hur du får lagringskvoten för OneDrive med PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).
+
+Microsoft kommer inledningsvis att tillhandahålla 1 TB per användare, vilka administratörer kan öka till upp till 5 TB per användare. Lär dig hur du [ställer in standardlagringsutrymme för OneDrive-användare](https://docs.microsoft.com/onedrive/set-default-storage-space).
+
+Lär dig [hur du ändrar en viss användares lagringsutrymme på OneDrive](https://docs.microsoft.com/onedrive/change-user-storage).
+
+Lär dig [hur globala administratörer kan ange lagringskvoten för OneDrive för alla användare som använder PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).
   

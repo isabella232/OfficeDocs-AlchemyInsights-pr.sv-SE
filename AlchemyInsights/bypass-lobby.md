@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
+ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637795"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37654274"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Kontrollera Lobbyinställningar och deltagarnivå
 
@@ -24,7 +24,7 @@ Om du vill tillåta alla, inklusive fjärråtkomst, externa och anonyma använda
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Denna cmdlet kräver för närvarande användning av Skype för Business PowerShell-modulen. Om du vill få installationsprogrammet att använda denna cmdlet, checka ut hantera principer via PowerShell.
+Denna cmdlet kräver för närvarande användning av Skype för Business PowerShell-modulen. Om du vill få installationsprogrammet att använda denna cmdlet, checka ut [Hantera principer via PowerShell](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
 Du kan ställa in en ny princip, som du sedan måste använda den för användare. Om du ändrar den globala policyn tillämpas den automatiskt på användare. För alla principändringar måste du vänta minst 4 timmar och upp till 24 timmar för att policyerna ska börja gälla.
 
