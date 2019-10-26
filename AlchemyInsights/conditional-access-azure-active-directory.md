@@ -8,19 +8,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: b0f2a7bd2d28a05ea192747c5b8c95bc16d7b8fb
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36755578"
 ---
-# <a name="conditional-access"></a><span data-ttu-id="bbdfa-102">Villkorlig åtkomst</span><span class="sxs-lookup"><span data-stu-id="bbdfa-102">Conditional Access</span></span>
+# <a name="conditional-access"></a><span data-ttu-id="6ce37-102">Villkorlig åtkomst</span><span class="sxs-lookup"><span data-stu-id="6ce37-102">Conditional Access</span></span>
 
-<span data-ttu-id="bbdfa-103">Villkorlig åtkomst är en funktion i Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="bbdfa-103">Conditional access is a capability of Azure Active Directory.</span></span> <span data-ttu-id="bbdfa-104">Med villkorlig åtkomst kan du implementera automatiserade åtkomstkontrollbeslut för åtkomst till dina molnappar som baseras på villkor.</span><span class="sxs-lookup"><span data-stu-id="bbdfa-104">With conditional access, you can implement automated access control decisions for accessing your cloud apps that are based on conditions.</span></span> <span data-ttu-id="bbdfa-105">Mer information finns i [Konfigurera platsbaserade principer](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).</span><span class="sxs-lookup"><span data-stu-id="bbdfa-105">For more information, please visit [Configuring Location-Based Policies](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).</span></span>
+<span data-ttu-id="6ce37-103">Villkorlig åtkomst är en funktion i Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="6ce37-103">Conditional access is a capability of Azure Active Directory.</span></span> <span data-ttu-id="6ce37-104">Med villkorlig åtkomst kan du implementera automatiserade åtkomstkontrollbeslut för åtkomst till dina molnappar som baseras på villkor.</span><span class="sxs-lookup"><span data-stu-id="6ce37-104">With conditional access, you can implement automated access control decisions for accessing your cloud apps that are based on conditions.</span></span> <span data-ttu-id="6ce37-105">Mer information finns i [Konfigurera platsbaserade principer](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).</span><span class="sxs-lookup"><span data-stu-id="6ce37-105">For more information, please visit [Configuring Location-Based Policies](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).</span></span>
 
-<span data-ttu-id="bbdfa-106">Som IT-administratör kan du även styra åtkomsten till SharePoint-och OneDrive-resurser baserat på definierade nätverksplatser eller enheter som du litar på.</span><span class="sxs-lookup"><span data-stu-id="bbdfa-106">As an IT admin, you can also control access to SharePoint and OneDrive resources based on defined network locations or devices you trust.</span></span> <span data-ttu-id="bbdfa-107">För mer information, vänligen besök länkarna nedan.</span><span class="sxs-lookup"><span data-stu-id="bbdfa-107">For more information, please visit the links below.</span></span>
+<span data-ttu-id="6ce37-106">Som IT-administratör kan du även styra åtkomsten till SharePoint-och OneDrive-resurser baserat på definierade nätverksplatser eller enheter som du litar på.</span><span class="sxs-lookup"><span data-stu-id="6ce37-106">As an IT admin, you can also control access to SharePoint and OneDrive resources based on defined network locations or devices you trust.</span></span> <span data-ttu-id="6ce37-107">För mer information, vänligen besök länkarna nedan.</span><span class="sxs-lookup"><span data-stu-id="6ce37-107">For more information, please visit the links below.</span></span>
 
-- [<span data-ttu-id="bbdfa-108">Hantera åtkomst till SharePoint Online och OneDrive data baserat på nätverksplats</span><span class="sxs-lookup"><span data-stu-id="bbdfa-108">Control access to SharePoint Online and OneDrive data based on network location</span></span>](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [<span data-ttu-id="6ce37-108">Hantera åtkomst till SharePoint Online och OneDrive data baserat på nätverksplats</span><span class="sxs-lookup"><span data-stu-id="6ce37-108">Control access to SharePoint Online and OneDrive data based on network location</span></span>](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-- [<span data-ttu-id="bbdfa-109">Styra åtkomsten från ohanterade enheter</span><span class="sxs-lookup"><span data-stu-id="bbdfa-109">Control access from unmanaged devices</span></span>](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [<span data-ttu-id="6ce37-109">Styra åtkomsten från ohanterade enheter</span><span class="sxs-lookup"><span data-stu-id="6ce37-109">Control access from unmanaged devices</span></span>](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
