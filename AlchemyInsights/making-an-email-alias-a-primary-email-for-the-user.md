@@ -14,14 +14,14 @@ ms.custom:
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
 ms.openlocfilehash: 3e22655c7408863915ab22389f70d10956839ad8
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36735263"
 ---
-# <a name="make-an-email-alias-the-primary-address-for-a-user"></a><span data-ttu-id="aa75e-102">Skapa ett e-postalias den primära adressen för en användare</span><span class="sxs-lookup"><span data-stu-id="aa75e-102">Make an email alias the primary address for a user</span></span>
+# <a name="make-an-email-alias-the-primary-address-for-a-user"></a><span data-ttu-id="414eb-102">Skapa ett e-postalias den primära adressen för en användare</span><span class="sxs-lookup"><span data-stu-id="414eb-102">Make an email alias the primary address for a user</span></span>
 
-<span data-ttu-id="aa75e-103">Instruktioner finns i [lägga till ytterligare ett e-postalias för en användare](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).</span><span class="sxs-lookup"><span data-stu-id="aa75e-103">For instructions, see [Add another email alias for a user](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).</span></span>
+<span data-ttu-id="414eb-103">Instruktioner finns i [lägga till ytterligare ett e-postalias för en användare](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).</span><span class="sxs-lookup"><span data-stu-id="414eb-103">For instructions, see [Add another email alias for a user](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).</span></span>
 
-<span data-ttu-id="aa75e-104">\*\*\*\* Om din organisation är i hybrid läge måste du ändra den primära e-postadressen i den lokala Exchange-organisationen.</span><span class="sxs-lookup"><span data-stu-id="aa75e-104">**Note**: If your organization is in Hybrid mode, you need to change the primary email address in your on-premises Exchange organization.</span></span> <span data-ttu-id="aa75e-105">Mer information finns i [lägga till eller ta bort e-postadresser för en postlåda](https://technet.microsoft.com/library/bb123794.aspx).</span><span class="sxs-lookup"><span data-stu-id="aa75e-105">For more information, see [Add or remove email addresses for a mailbox](https://technet.microsoft.com/library/bb123794.aspx).</span></span>
+<span data-ttu-id="414eb-104">\*\*\*\* Om din organisation är i hybrid läge måste du ändra den primära e-postadressen i den lokala Exchange-organisationen.</span><span class="sxs-lookup"><span data-stu-id="414eb-104">**Note**: If your organization is in Hybrid mode, you need to change the primary email address in your on-premises Exchange organization.</span></span> <span data-ttu-id="414eb-105">Mer information finns i [lägga till eller ta bort e-postadresser för en postlåda](https://technet.microsoft.com/library/bb123794.aspx).</span><span class="sxs-lookup"><span data-stu-id="414eb-105">For more information, see [Add or remove email addresses for a mailbox](https://technet.microsoft.com/library/bb123794.aspx).</span></span>

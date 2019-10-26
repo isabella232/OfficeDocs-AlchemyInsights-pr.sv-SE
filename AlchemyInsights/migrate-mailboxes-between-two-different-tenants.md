@@ -14,15 +14,15 @@ ms.custom:
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
 ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36734471"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="e32cc-102">Migrera postlådor mellan två olika klienter</span><span class="sxs-lookup"><span data-stu-id="e32cc-102">Migrate mailboxes between two different tenants</span></span>
+# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="1be41-102">Migrera postlådor mellan två olika klienter</span><span class="sxs-lookup"><span data-stu-id="1be41-102">Migrate mailboxes between two different tenants</span></span>
 
-<span data-ttu-id="e32cc-103">Du kan behöva migrera postlådor mellan två olika klienter i Office 365, till exempel när det finns organisation fusioner.</span><span class="sxs-lookup"><span data-stu-id="e32cc-103">You may need to migrate mailboxes between two different tenants in Office 365, for example, when there are organization mergers.</span></span> <span data-ttu-id="e32cc-104">Dessa migreringar bör planeras noggrant.</span><span class="sxs-lookup"><span data-stu-id="e32cc-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="e32cc-105">Vänligen se följande vägledning:</span><span class="sxs-lookup"><span data-stu-id="e32cc-105">Please see the following guidance:</span></span>
+<span data-ttu-id="1be41-103">Du kan behöva migrera postlådor mellan två olika klienter i Office 365, till exempel när det finns organisation fusioner.</span><span class="sxs-lookup"><span data-stu-id="1be41-103">You may need to migrate mailboxes between two different tenants in Office 365, for example, when there are organization mergers.</span></span> <span data-ttu-id="1be41-104">Dessa migreringar bör planeras noggrant.</span><span class="sxs-lookup"><span data-stu-id="1be41-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="1be41-105">Vänligen se följande vägledning:</span><span class="sxs-lookup"><span data-stu-id="1be41-105">Please see the following guidance:</span></span>
   
-[<span data-ttu-id="e32cc-106">Så här migrerar du postlådor från en Office 365-klient till en annan</span><span class="sxs-lookup"><span data-stu-id="e32cc-106">How to migrate mailboxes from one Office 365 tenant to another</span></span>](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+[<span data-ttu-id="1be41-106">Så här migrerar du postlådor från en Office 365-klient till en annan</span><span class="sxs-lookup"><span data-stu-id="1be41-106">How to migrate mailboxes from one Office 365 tenant to another</span></span>](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   
