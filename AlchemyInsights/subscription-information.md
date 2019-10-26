@@ -13,29 +13,29 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 25d5379245e325eadf329a658f3718a17cd5937a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5b24fbd56cb410265f19a0c06a37c40392c72731
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501270"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "36576894"
 ---
 # <a name="subscription-information"></a>Prenumerationsinformation
 
-Mer information om Office 365-prenumerationer som du äger i administratörscenter, gå till **Fakturering** \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjänster.
+Information om prenumerationer som du äger går du till sidan **fakturerings** \> [produkter & tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054) .
   
-Viktig information om varje prenumeration:
+Nyckelinformation om varje prenumeration:
   
-- Status för alla
+- Status för varje
 
-- Antal licenser
+- Köpta licenser
 
-- Användarlicenser
+- Licenser tilldelade
 
-- Återkommande faktureringsstatus
+- Återkommande fakturerings status
 
 - Balans
 
-- Betalningssätt
+- Betalningsmetod
 
-- Datum för nästa fakturerings- eller
+- Nästa fakturerings-eller förfallodatum
