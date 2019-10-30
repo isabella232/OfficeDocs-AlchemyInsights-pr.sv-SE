@@ -2,7 +2,6 @@
 title: 1800021 hur du skapar en regel i Outlook för Mac
 ms.author: supravee
 author: supravee
-ms.date: 7/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +10,22 @@ ms.custom:
 - "923"
 - "1800021"
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
-ms.openlocfilehash: 117abe766b7831d38b861a218a539c7487c5a67a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 80e1bba8b07b13077a984699353adfca9d56f0e0
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541135"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769105"
 ---
 # <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Så här skapar du en regel i Outlook för Mac
 
-1. Om du vill skapa en mapp för att lagra e-postmeddelanden som skickas av regeln markerar rot-postlåda på fliken **Ordna** , klicka på **Ny mapp**, Skriv namnet på mappen och tryck på RETUR.
+1. Om du vill skapa en mapp som ska rymma de e-postmeddelanden som skickas av regeln markerar du rot postlådan, klickar på **ny mapp**på fliken **ordna** , skriver namnet på mappen och trycker på RETUR.
 
-    Om du 
+2. I meddelandelistan klickar du på ett e-postmeddelande som du vill o skapa en regel för.
 
-2. Klicka på ett e-postmeddelande som du vill ha o i meddelandelistan, skapa en regel.
+3. På fliken **Start** klickar du på **regler**och sedan på **Skapa regel**.
 
-3. Klicka på **regler**på fliken **Start** och klicka sedan på **Skapa regel**.
+4. Under **när ett nytt meddelande anländer** redigera kriterierna för att passa dina behov. 
 
-4. Redigera kriterier så att de passar dina behov under **när ett nytt meddelande anländer** . 
-
-Detaljerade instruktioner om hur du skapar egna regler finns i [Skapa en regel i Outlook för Mac](https://aka.ms/AA1uy0v)
+Detaljerade instruktioner om hur du skapar anpassade regler finns [i skapa en regel i Outlook för Mac](https://aka.ms/AA1uy0v)
   

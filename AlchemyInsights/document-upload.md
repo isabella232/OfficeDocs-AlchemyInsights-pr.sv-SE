@@ -3,7 +3,6 @@ title: Uppladdning av dokument
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 2/28/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
-ms.openlocfilehash: 6a2559521b4160dc337796ed8d4721ec49acf703
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ff7000773a628001c71debf1c4365f1f551a91df
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36529468"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769429"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>Ladda upp filer till OneDrive eller SharePoint
 
@@ -26,7 +25,10 @@ ms.locfileid: "36529468"
     
 3. Markera filerna och dra dem till platsen i OneDrive eller SharePoint. Obs: om du använder Microsoft Edge, Mozilla FireFox eller Google Chrome kan du också ladda upp en mapp och alla filer i den.
     
-> [!NOTE]
->  Du kan ladda upp filer upp till 15 GB i storlek. > den fullständiga sökvägen till en fil (inklusive filnamnet) får inte vara längre än 400 tecken långt. > om du behöver ladda upp fler än 100 filer [använder du OneDrive sync-klienten](https://go.microsoft.com/fwlink/?linkid=866427). 
+**Anteckningar:**
+
+- Du kan ladda upp filer upp till 15 GB i storlek. 
+- Den fullständiga sökvägen för en fil (inklusive filnamnet) får inte vara längre än 400 tecken långt. 
+- Om du behöver ladda upp fler än 100 filer [använder du OneDrive sync-klienten](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

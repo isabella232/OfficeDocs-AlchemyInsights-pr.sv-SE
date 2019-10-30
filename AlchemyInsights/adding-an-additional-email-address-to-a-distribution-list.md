@@ -1,9 +1,8 @@
 ---
-title: Lägga till en ytterligare e-postadress till en distributionslista 713
+title: 713 lägga till ytterligare en e-postadress i en distributionslista
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "713"
 - "3"
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: 5bf91d9ff6824fd5ee10510c4a5f0c85edf4be7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c51ed54fcbdf131605995b95bd0619d877e96b29
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494797"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766225"
 ---
-# <a name="add-an-email-address-for-a-distribution-group"></a>Lägga till en e-postadress för distributionsgrupp
+# <a name="add-an-email-address-for-a-distribution-group"></a>Lägga till en e-postadress för en distributionsgrupp
 
-Så här lägger du till e-postadresser till en befintlig distributionsgrupp:
+Så här lägger du till e-postadresser för en befintlig distributionsgrupp:
 
-1. Gå till **mottagare** i [Exchange administratörscenter](https://outlook.office365.com/ecp/) \> **grupper**.
+1. Gå till **mottagar** \> **grupper**i [Exchange administratörscenter](https://outlook.office365.com/ecp/).
 
-2. Välja den distributionsgrupp som du vill ändra och klicka sedan på **Redigera**.
+2. Välj den distributionsgrupp som du vill ändra och klicka sedan på **Redigera**.
 
-3. Gå till fliken **e-postalternativ** för att lägga till e-postadresser i egenskaperna för gruppen. 
+3. I gruppens egenskaper går du till fliken **e-postalternativ** för att lägga till e-postadresser. 
 
 Mer information finns i [e-postalternativ](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).

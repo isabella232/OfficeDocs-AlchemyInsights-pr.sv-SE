@@ -2,7 +2,6 @@
 title: Skapa en SharePoint-webbplats
 ms.author: efrene
 author: efrene
-ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
 ms.collection: Adm_O365
@@ -14,12 +13,12 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 30c51d84005534cc1de9e8b8136da1a07be57b73
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ac894195d847dfc009bc0b57647e1a474361f1c1
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36738215"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769609"
 ---
 # <a name="create-a-sharepoint-site"></a>Skapa en SharePoint-webbplats
 
@@ -31,10 +30,10 @@ Du kan se följande information om hur du skapar SharePoint-webbplatser:
 
 
   
-> [! Tips
-> - Du kan inte skapa en webbplats med samma URL för en befintlig plats. Om du har tagit bort en webbplats och vill återanvända URL-adressen är det möjligt att den borttagna webbplatsen fortfarande finns under **borttagna webbplatser**. Om du vill hantera borttagna webbplatser se, [ta bort en webbplats](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Om du vill ta bort en webbplats med PowerShell helt, se [ta bort SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet exempel.
-> - Vissa användare kanske inte kan skapa en webbplats. Se [Hantera webbplats skapas i SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-> - Det är möjligt att webbplatsen visas fast på **att skapa** längre än förväntat. Om mer än 24 timmar har gått sedan du först såg detta problem, vänligen logga ett supportärende. I många fall arbetar vi redan på en lösning. Vänligen ge oss minst 24 timmar för att slutföra en lösning.
-> - Om du behöver skapa en ny gruppwebbplats som inte innehåller en Office 365-grupp, 
+**Tips:**
+- Du kan inte skapa en webbplats med samma URL för en befintlig plats. Om du har tagit bort en webbplats och vill återanvända URL-adressen är det möjligt att den borttagna webbplatsen fortfarande finns under **borttagna webbplatser**. Om du vill hantera borttagna webbplatser se, [ta bort en webbplats](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Om du vill ta bort en webbplats med PowerShell helt, se [ta bort SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet exempel.
+- Vissa användare kanske inte kan skapa en webbplats. Se [Hantera webbplats skapas i SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- Det är möjligt att webbplatsen visas fast på **att skapa** längre än förväntat. Om mer än 24 timmar har gått sedan du först såg detta problem, vänligen logga ett supportärende. I många fall arbetar vi redan på en lösning. Vänligen ge oss minst 24 timmar för att slutföra en lösning.
+- Om du behöver skapa en ny gruppwebbplats som inte innehåller en Office 365-grupp, 
 
 

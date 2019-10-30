@@ -1,5 +1,5 @@
 ---
-title: Blockera eller Tillåt avsändare i Outlook.com
+title: Blockera eller avblockera avsändare i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,29 +15,29 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643712"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768746"
 ---
-# <a name="block-or-unblock-senders"></a>Blockera eller Tillåt avsändare
+# <a name="block-or-unblock-senders"></a>Blockera eller avblockera avsändare
 
-Meddelanden från e-postadresser eller domäner i listan Spärrade avsändare gå direkt till mappen Skräppost. E-post bort automatiskt från mappen Skräppost efter 30 dagar och kan inte återställas. Se; ect ett objekt att se när den tas bort.
+Meddelanden från e-postadresser eller domäner på dina spärrade avsändare går direkt till Outlook-skräppostmappen. E-post tas automatiskt bort från mappen Skräppost efter 30 dagar och är inte ersättningsgilla. Välj ett objekt för att se när det kommer att tas bort.
 
-**Från Inkorgen:**
+**Från inkorgen:**
 
-- Markera meddelandet i meddelandelistan och välj **skräppost** > **Block**.
-- **Observera:** Blockera ett objekt som redan finns i mappen Skräppost tas det inte bort den.
+- Markera meddelandet i meddelandelistan och välj sedan **skräppost** > **block**.
+- **Anmärkning:** Om du blockerar ett objekt som redan finns i mappen skräppost tas det inte bort.
 
 **Från inställningar:**
 
 1. Öppna inställningar för [skräppost](https://outlook.live.com/mail/options/mail/junkEmail) .
-2. Välj **Lägg till**under **Spärrade avsändare och domäner**.
-3. Skriv e-postadressen för den domän som du vill blockera och tryck på RETUR.
+2. Under **blockerade avsändare och domäner**, Välj **Lägg till**.
+3. Skriv e-postadressen för domänen som du vill blockera och tryck på RETUR.
 4. Välj **Spara**.
 
-Markera ikonen Papperskorgen bredvid den e-postadress eller domän som du vill ta bort blockeringen för att låsa upp en avsändare.
+Om du vill häva blockeringen av en avsändare väljer du papperskorgen bredvid den e-postadress eller domän som du vill häva blockeringen för.
 
-Mer information finns i [Markera e-post som skräppost eller spärra avsändare i Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Mer information finns [i Markera e-post som skräppost eller blockera avsändare i Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

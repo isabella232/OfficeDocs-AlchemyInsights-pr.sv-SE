@@ -3,7 +3,6 @@ title: Fråga om licenser
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: bc7a921e107b0514e7b922dc146196dc1aff537b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f4a3aa0f932f9f87175b1b67e16c8186e90d1c7b
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666678"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768638"
 ---
-# <a name="questions-about-your-office-365-license"></a>Frågor om Office 365-licens
+# <a name="questions-about-your-office-365-license"></a>Frågor om din Office 365-licens
 
-Om du vill veta hur många licenser du har köpt eller hur många licenser tilldelas från en prenumeration:
+Om du vill veta hur många licenser du har köpt eller hur många licenser som tilldelas från en prenumeration:
   
-1. Gå till **Fakturering** i administratörscenter, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjänster.
+1. I administrationscentret går du till sidan **Fakturering** \> [Produkter och tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Hitta det abonnemang du vill veta mer om. Du kan se antalet licenser som du betalar för och hur många som är tillgängliga för tilldelning.
+2. Leta reda på prenumerationen du vill veta mer om. Du kan se antalet licenser som du betalar för och hur många som är tillgängliga för att tilldelas.
 
-Om du vill lägga till fler licenser eller om du har för många, Välj **Lägg till/ta bort licenser** att justera beloppet har köpt.
+Om du vill lägga till fler licenser, eller om du har för många, väljer du **Lägg till/ta bort licenser** för att justera det köpta beloppet.
