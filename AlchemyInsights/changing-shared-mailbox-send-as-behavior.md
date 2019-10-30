@@ -3,7 +3,6 @@ title: Ändra delad postlåda skicka som-beteende
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/22/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +12,18 @@ ms.custom:
 - "623"
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: c44983a73e90961835f447ef1ae9714cc29059fb
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 712419d44253a08c2ffc7627d7767fd67d6b4a00
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36738575"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769645"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="e8631-102">Ändra delad postlåda skicka som-beteende</span><span class="sxs-lookup"><span data-stu-id="e8631-102">Changing shared mailbox Send As behavior</span></span>
+# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="01b8a-102">Ändra delad postlåda skicka som-beteende</span><span class="sxs-lookup"><span data-stu-id="01b8a-102">Changing shared mailbox Send As behavior</span></span>
 
-<span data-ttu-id="e8631-p101">Standardinställningen är att e-post skickad från den delade postlådan inte sparas i den gemensamma Skickat-mappen. Den sparas istället hos den person som skickade meddelandet, i mappen Skickat.</span><span class="sxs-lookup"><span data-stu-id="e8631-p101">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox. Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
+<span data-ttu-id="01b8a-p101">Standardinställningen är att e-post skickad från den delade postlådan inte sparas i den gemensamma Skickat-mappen. Den sparas istället hos den person som skickade meddelandet, i mappen Skickat.</span><span class="sxs-lookup"><span data-stu-id="01b8a-p101">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox. Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
   
-<span data-ttu-id="e8631-105">Om du vill att alla medlemmar ska kunna se det skickade e-postmeddelandet redigerar du informationen för den delade postlådan i Microsoft 365 administratörscenter och väljer **Redigera** **skickade objekt** \> .</span><span class="sxs-lookup"><span data-stu-id="e8631-105">If you want to all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
+<span data-ttu-id="01b8a-105">Om du vill att alla medlemmar ska se det skickade e-postmeddelandet redigerar du informationen för den delade postlådan i Microsoft 365 administratörscenter och väljer sedan **Redigera** **skickade objekt** \> .</span><span class="sxs-lookup"><span data-stu-id="01b8a-105">If you want all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
   
-<span data-ttu-id="e8631-106">Mer information finns i [skapa en delad postlåda](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="e8631-106">To read more, see [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
+<span data-ttu-id="01b8a-106">Mer information finns i [skapa en delad postlåda](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="01b8a-106">To read more, see [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
   

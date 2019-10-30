@@ -1,9 +1,8 @@
 ---
-title: 714 Allowing externa avsändare för e-postdistributionslistor
+title: 714 tillåta externa avsändare e-postdistributionslistor
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 1978e27e605c124299e5737315e7e2926e7238c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506569"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768242"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a><span data-ttu-id="e2814-102">Tillåt externa avsändare skickar meddelanden till distributionsgrupper</span><span class="sxs-lookup"><span data-stu-id="e2814-102">Allow external senders to send messages to distribution groups</span></span>
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a><span data-ttu-id="56967-102">Tillåt externa avsändare att skicka meddelanden till distributionsgrupper</span><span class="sxs-lookup"><span data-stu-id="56967-102">Allow external senders to send messages to distribution groups</span></span>
 
-<span data-ttu-id="e2814-103">Om användare utanför organisationen får fel när de skickar meddelanden till din distributionsgrupper, eller om du vill kontrollera att din distributionsgrupper är konfigurerad att ta emot e-post från externa avsändare, så här:</span><span class="sxs-lookup"><span data-stu-id="e2814-103">If users outside of your organization receive errors when they send messages to your distribution groups, or you want to verify that your distribution groups are configured to receive mail from external senders, follow these steps:</span></span>
+<span data-ttu-id="56967-103">Om användare utanför organisationen får fel när de skickar meddelanden till dina distributionsgrupper, eller om du vill kontrollera att dina distributionsgrupper är konfigurerade för att ta emot e-post från externa avsändare, gör du så här:</span><span class="sxs-lookup"><span data-stu-id="56967-103">If users outside of your organization receive errors when they send messages to your distribution groups, or you want to verify that your distribution groups are configured to receive mail from external senders, follow these steps:</span></span>
 
-1. <span data-ttu-id="e2814-104">Gå till noden **grupper** i [administrationsportalen för Office 365](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="e2814-104">Go to the **Groups** node in the [Office 365 admin portal](https://portal.office.com/adminportal/home#/groups).</span></span>
+1. <span data-ttu-id="56967-104">I Office 365 administratörscenter, gå till den **grupper** > [grupper](https://portal.office.com/adminportal/home#/groups) sidan.</span><span class="sxs-lookup"><span data-stu-id="56967-104">In the Office 365 admin center, go to the **Groups** > [Groups](https://portal.office.com/adminportal/home#/groups) page.</span></span>  
 
-2. <span data-ttu-id="e2814-105">Välja distributionsgruppen och i den gruppen egenskaper Lägg ut som visas, klickar du på **Redigera** i avsnittet som innehåller **Tillåt externa avsändare**.</span><span class="sxs-lookup"><span data-stu-id="e2814-105">Select the distribution group, and in the group properties fly out that appears, click **Edit** in the section that contains **Allow external senders**.</span></span>
+2. <span data-ttu-id="56967-105">Välj distributionsgruppen och i fönstret gruppegenskaper väljer du fliken **Inställningar** .</span><span class="sxs-lookup"><span data-stu-id="56967-105">Select the distribution group, and in the group properties pane, select the **Settings** tab.</span></span>
 
-3. <span data-ttu-id="e2814-106">I den **Redigera detaljer** Lägg ut som visas, kontrollerar du att **tillåter personer utanför organisationen att skicka e-post till den här distributionsgruppen.**</span><span class="sxs-lookup"><span data-stu-id="e2814-106">In the **Edit details** fly out that appears, verify that **Allow people outside of my organization to send email to this distribution group.**</span></span> <span data-ttu-id="e2814-107">är **på**och klicka sedan på **Spara**.</span><span class="sxs-lookup"><span data-stu-id="e2814-107">is **On**, and then click **Save**.</span></span>
+3. <span data-ttu-id="56967-106">Välj **Tillåt externa avsändare att skicka e-post till den här gruppen**och välj sedan **Spara**.</span><span class="sxs-lookup"><span data-stu-id="56967-106">Select **Allow external senders to email this group**, and then select **Save**.</span></span>
