@@ -12,25 +12,29 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 98713a0d9d62b6eabb857ea8391cb7dff75b4da3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7f741a9aae0c4549f811b05b36498e7a201b7704
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664157"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921868"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a><span data-ttu-id="55ea4-102">Hur man gör ett Office 365 köp</span><span class="sxs-lookup"><span data-stu-id="55ea4-102">How to make an Office 365 purchase</span></span>
+# <a name="how-to-make-an-office-365-purchase"></a><span data-ttu-id="cb8fd-102">Hur man gör ett Office 365 köp</span><span class="sxs-lookup"><span data-stu-id="cb8fd-102">How to make an Office 365 purchase</span></span>
 
-<span data-ttu-id="55ea4-103">Inköp i Office 365 kan göras i administratörscenter.</span><span class="sxs-lookup"><span data-stu-id="55ea4-103">Purchases in Office 365 can be made in the admin center.</span></span>
+<span data-ttu-id="cb8fd-103">Inköp i Office 365 kan göras i administratörscenter.</span><span class="sxs-lookup"><span data-stu-id="cb8fd-103">Purchases in Office 365 can be made in the admin center.</span></span>
   
-- <span data-ttu-id="55ea4-104">Om du vill köpa en Office 365-prenumeration går du till sidan **fakturering** \> [Köp tjänster](https://go.microsoft.com/fwlink/p/?linkid=868433) .</span><span class="sxs-lookup"><span data-stu-id="55ea4-104">To purchase an Office 365 subscription, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
+- <span data-ttu-id="cb8fd-104">Om du vill köpa en Office 365-prenumeration går du till sidan **fakturering** \> [Köp tjänster](https://go.microsoft.com/fwlink/p/?linkid=868433) .</span><span class="sxs-lookup"><span data-stu-id="cb8fd-104">To purchase an Office 365 subscription, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
 
-- <span data-ttu-id="55ea4-105">Om du vill köpa ytterligare licenser går du till sidan **fakturerings** \> [produkter _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="55ea4-105">To purchase additional licenses, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="55ea4-106">Välj den prenumeration som du vill lägga till licenser till och välj sedan **Lägg till/ta bort licenser**.</span><span class="sxs-lookup"><span data-stu-id="55ea4-106">Choose the subscription that you want to add licenses to, and then select **Add/Remove licenses**.</span></span>
+- <span data-ttu-id="cb8fd-105">Om du vill köpa ytterligare licenser går du till sidan **fakturerings** \> [produkter & tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="cb8fd-105">To purchase additional licenses, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="cb8fd-106">Välj den prenumeration som du vill lägga till licenser till och välj sedan **Lägg till/ta bort licenser**.</span><span class="sxs-lookup"><span data-stu-id="cb8fd-106">Choose the subscription that you want to add licenses to, and then select **Add/Remove licenses**.</span></span>
   
-<span data-ttu-id="55ea4-107">Mer information finns i [köpa licenser för din Office 365 för Business-prenumeration](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="55ea4-107">To learn more, see [Buy licenses for your Office 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span></span>
+<span data-ttu-id="cb8fd-107">Mer information finns i [köpa licenser för din Office 365 för Business-prenumeration](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="cb8fd-107">To learn more, see [Buy licenses for your Office 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span></span>
 
-<span data-ttu-id="55ea4-108">**Ytterligare resurser**</span><span class="sxs-lookup"><span data-stu-id="55ea4-108">**Additional Resources**</span></span>
+<span data-ttu-id="cb8fd-108">**Felsökning**</span><span class="sxs-lookup"><span data-stu-id="cb8fd-108">**Troubleshooting**</span></span>
+
+<span data-ttu-id="cb8fd-109">Om du får problem med att ladda sidan kan du prova att öppna webbsidan i en annan webbläsare eller försöka öppna sidan ett privat webbläsarfönster, till exempel ett InPrivate-fönster i Microsoft Edge eller ett inkognitofönster i Google Chrome.</span><span class="sxs-lookup"><span data-stu-id="cb8fd-109">If you experience problems with the page loading, try opening the web page in a different browser, or try opening the page a private browser window, such as an InPrivate window in Microsoft Edge or an incognito window in Google Chrome.</span></span> 
+
+<span data-ttu-id="cb8fd-110">**Ytterligare resurser**</span><span class="sxs-lookup"><span data-stu-id="cb8fd-110">**Additional Resources**</span></span>
   
-- [<span data-ttu-id="55ea4-109">Tilldela användare licenser i Office 365 för företag</span><span class="sxs-lookup"><span data-stu-id="55ea4-109">Assign licenses to users in Office 365 for business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [<span data-ttu-id="cb8fd-111">Tilldela användare licenser i Office 365 för företag</span><span class="sxs-lookup"><span data-stu-id="cb8fd-111">Assign licenses to users in Office 365 for business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [<span data-ttu-id="55ea4-110">Avbryt Office 365 för företag</span><span class="sxs-lookup"><span data-stu-id="55ea4-110">Cancel Office 365 for Business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [<span data-ttu-id="cb8fd-112">Avbryt Office 365 för företag</span><span class="sxs-lookup"><span data-stu-id="cb8fd-112">Cancel Office 365 for Business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
