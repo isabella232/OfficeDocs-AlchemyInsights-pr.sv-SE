@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 768b2bcdc6b34b4448b7985863b77d525ee849fb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660954"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921832"
 ---
 # <a name="update-payment-details"></a>Uppdatera betalningsinformation
 
@@ -35,5 +35,9 @@ ms.locfileid: "36660954"
 4. Gör uppdateringarna och välj sedan **Spara**.
 
 5. Välj **Ta bort** om du vill ta bort betalningsmetoden.
+
+**Felsökning**
+
+Om du får problem med att läsa in sidan kan du försöka att öppna webbsidan i en annan webbläsare eller öppna sidan i ett privat webbläsarfönster, t. ex. ett InPrivate-fönster i Microsoft Edge eller ett inkognitofönster i Google Chrome. 
 
 Mer information finns i [Lägga till, uppdatera eller ta bort ett kreditkort eller bankkonto i Office 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) och [Felsöka kreditkort och bankkonton](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
