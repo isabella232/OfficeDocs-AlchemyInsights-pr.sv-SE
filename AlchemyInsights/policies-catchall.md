@@ -1,0 +1,34 @@
+---
+title: Policyer catchall
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9000734"
+- "3207"
+ms.openlocfilehash: c4694399b9ae5aa459357ed1610cccae762c0374
+ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.translationtype: MT
+ms.contentlocale: sv-SE
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38274991"
+---
+# <a name="teams-policies"></a><span data-ttu-id="0ae96-102">Teams-policyer</span><span class="sxs-lookup"><span data-stu-id="0ae96-102">Teams policies</span></span>
+
+<span data-ttu-id="0ae96-103">Microsoft Teams-inställningar styrs av principer.</span><span class="sxs-lookup"><span data-stu-id="0ae96-103">Microsoft Teams settings are controlled by policies.</span></span> <span data-ttu-id="0ae96-104">Om du vill göra en ändring måste du konfigurera lämplig princip och sedan tillämpa den på användare.</span><span class="sxs-lookup"><span data-stu-id="0ae96-104">To make a change, you must configure the appropriate policy, and then apply it to users.</span></span> <span data-ttu-id="0ae96-105">Det snabbaste sättet att göra detta för alla användare är att ändra standardprincipen global.</span><span class="sxs-lookup"><span data-stu-id="0ae96-105">The quickest way to do this for all your users is to modify the default policy named Global.</span></span> 
+
+<span data-ttu-id="0ae96-106">**Notera** Principändringar tar ***minst 4 upp till 48 timmar att***träda i kraft.</span><span class="sxs-lookup"><span data-stu-id="0ae96-106">**NOTE** Policy changes take ***at least 4 up to 48 hours to take effect***.</span></span> <span data-ttu-id="0ae96-107">Om du skapar en anpassad princip måste du vänta minst 4 timmar innan du kan göra ytterligare ändringar i den.</span><span class="sxs-lookup"><span data-stu-id="0ae96-107">If you create a custom policy, you need to wait at least 4 hours before you can make additional changes to it.</span></span> <span data-ttu-id="0ae96-108">Sedan kan du använda principen för användare.</span><span class="sxs-lookup"><span data-stu-id="0ae96-108">Then you can apply that policy to users.</span></span> <span data-ttu-id="0ae96-109">Det innebär att anpassade principer kan ta upp till 48 timmar att träda i kraft.</span><span class="sxs-lookup"><span data-stu-id="0ae96-109">This means that custom policies can take up to 48 hours to take effect.</span></span> <span data-ttu-id="0ae96-110">Globala principer anges som standard för alla användare och ändringar i den globala principen kan ta upp till 24 timmar att träda i kraft.</span><span class="sxs-lookup"><span data-stu-id="0ae96-110">Global policies are set as default for all users, and changes to the Global policy can take up to 24 hours to take effect.</span></span> <span data-ttu-id="0ae96-111">Om du har skapat en anpassad princip, tillämpat den på användare och den fortfarande inte har tagit effekt efter 48 timmar, eller om du har ändrat den globala policyn och väntat minst 24 timmar, öppnar du ett supportärende.</span><span class="sxs-lookup"><span data-stu-id="0ae96-111">If you have created a custom policy, applied it to users, and it still hasn't taken effect after 48 hours, or you've modified the Global policy and waited at least 24 hours, please open a support case.</span></span>
+
+<span data-ttu-id="0ae96-112">Teams-policyer är indelade i följande områden:</span><span class="sxs-lookup"><span data-stu-id="0ae96-112">Teams policies are divided into the following areas:</span></span>
+
+- <span data-ttu-id="0ae96-113">[Teams-principer](https://docs.microsoft.com/MicrosoftTeams/teams-policies) styr användarnas upptäckt av privata team i sökning och skapandet av privata kanaler.</span><span class="sxs-lookup"><span data-stu-id="0ae96-113">[Teams policies](https://docs.microsoft.com/MicrosoftTeams/teams-policies) control user discovery of private teams in search and creation of private channels.</span></span>  
+- <span data-ttu-id="0ae96-114">[Mötes principer](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) styr vad användare kan göra med Teams möten, inklusive att styra lobbyn.</span><span class="sxs-lookup"><span data-stu-id="0ae96-114">[Meeting policies](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) control what users can do with Teams meetings, including controlling the lobby.</span></span> <span data-ttu-id="0ae96-115">Om du vill ha hjälp med lobby frågor, som att konfigurera team för att erkänna alla, se [Kontrollera Lobbyinställningar och deltagar nivåer](https://docs.microsoft.com/en-us/alchemyinsights/bypass-lobby).</span><span class="sxs-lookup"><span data-stu-id="0ae96-115">For help with lobby issues, like configuring Teams to admit everyone, see [Control lobby settings and levels of participation](https://docs.microsoft.com/en-us/alchemyinsights/bypass-lobby).</span></span>
+- <span data-ttu-id="0ae96-116">[Meddelande principer](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) styr vad användare kan göra med chatt och meddelanden, inklusive att slå på eller av chatten, ta bort chattar, begära läskvitton, använda giffar och klistermärken med mera.</span><span class="sxs-lookup"><span data-stu-id="0ae96-116">[Messaging policies](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) control what users can do with chat and messages, including turning chat on or off, deleting chats, requesting read receipts, using giphys and stickers, and more.</span></span>
+- <span data-ttu-id="0ae96-117">[Appinstallationsprinciper](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) styr vilka appar som är tillgängliga för användare, inklusive anpassade appar och program från tredje part, och i vilken ordning de visas.</span><span class="sxs-lookup"><span data-stu-id="0ae96-117">[App setup policies](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) control which apps are available to users, including custom and third-party apps, and the order in which they appear.</span></span>  
+- <span data-ttu-id="0ae96-118">Data [lagringsprinciper](https://docs.microsoft.com/microsoftteams/retention-policies) för team finns i säkerhets-och Efterlevnadscenter för Office 365.</span><span class="sxs-lookup"><span data-stu-id="0ae96-118">Data [retention policies](https://docs.microsoft.com/microsoftteams/retention-policies) for Teams are found in the Office 365 Security and Compliance Center.</span></span>
+- <span data-ttu-id="0ae96-119">Teams adressbok principer anges via [begränsad katalogsökning](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).</span><span class="sxs-lookup"><span data-stu-id="0ae96-119">Teams address book policies are set via [scoped directory search](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).</span></span>
