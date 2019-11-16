@@ -13,14 +13,14 @@ ms.custom:
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
 ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36738431"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="5f519-102">Aktivera eller inaktivera fokuserad inkorg för alla</span><span class="sxs-lookup"><span data-stu-id="5f519-102">Turn Focused Inbox on or off for everyone</span></span>
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="34e4a-102">Aktivera eller inaktivera fokuserad inkorg för alla</span><span class="sxs-lookup"><span data-stu-id="34e4a-102">Turn Focused Inbox on or off for everyone</span></span>
 
-<span data-ttu-id="5f519-103">Anvisningar finns [i Konfigurera fokuserad inkorg för alla i organisationen](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span><span class="sxs-lookup"><span data-stu-id="5f519-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
+<span data-ttu-id="34e4a-103">Anvisningar finns [i Konfigurera fokuserad inkorg för alla i organisationen](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span><span class="sxs-lookup"><span data-stu-id="34e4a-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
 
-<span data-ttu-id="5f519-104">**Anmärkningar**: den här proceduren kräver Exchange Online PowerShell.</span><span class="sxs-lookup"><span data-stu-id="5f519-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="5f519-105">Vill du göra detta i Microsoft 365 administratörscenter i stället?</span><span class="sxs-lookup"><span data-stu-id="5f519-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="5f519-106">Rösta här!</span><span class="sxs-lookup"><span data-stu-id="5f519-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)
+<span data-ttu-id="34e4a-104">**Anmärkningar**: den här proceduren kräver Exchange Online PowerShell.</span><span class="sxs-lookup"><span data-stu-id="34e4a-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="34e4a-105">Vill du göra detta i Microsoft 365 administratörscenter i stället?</span><span class="sxs-lookup"><span data-stu-id="34e4a-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="34e4a-106">Rösta här!</span><span class="sxs-lookup"><span data-stu-id="34e4a-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)
