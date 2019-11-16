@@ -12,10 +12,10 @@ ms.custom:
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
 ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36734939"
 ---
 # <a name="managing-yammer-users"></a>Hantera Yammer-användare

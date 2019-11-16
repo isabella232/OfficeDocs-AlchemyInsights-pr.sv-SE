@@ -14,10 +14,10 @@ ms.custom:
 - "6500003"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
 ms.openlocfilehash: 23491c2c6fbe51c0c2b6cdce112b59f00a8b868a
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36736127"
 ---
 # <a name="enable-and-use-microsoft-teams"></a>Aktivera och använda Microsoft Teams

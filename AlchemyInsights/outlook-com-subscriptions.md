@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
 ms.openlocfilehash: 03a76b467d24c1a4e7e478d9ecc2bd4dad8aff7c
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36511829"
 ---
 # <a name="subscriptions-and-unsubscribing"></a>Prenumerationer och avbryta prenumerationen
