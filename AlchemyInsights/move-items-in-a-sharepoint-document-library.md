@@ -13,24 +13,31 @@ ms.custom:
 - "453"
 - "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: 6e68e021525b9bff1c9666d0db5b44ea5d72c753
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63d2115c6c167ade1d39f8cdeca08de1a2e12d17
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549057"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711738"
 ---
 # <a name="move-items-in-a-sharepoint-document-library"></a>Flytta objekt i ett SharePoint-dokumentbibliotek
 
-Du kan flytta artiklar till en annan plats i ett dokumentbibliotek. Du kan också flytta objekt mellan platser om du har [Ställ in alternativet Targeted release](https://go.microsoft.com/fwlink/?linkid=622980). När du flyttar dokument flyttas även deras historia.
+Du kan flytta objekt till olika platser i ett dokumentbibliotek.
   
-1. Bläddra till de filer, mappar eller länkar som du vill flytta och klicka sedan på **Flytta till**i en webbläsare.
+1. Bläddra till de filer, mappar eller länkar som du vill flytta i en webbläsare och klicka sedan på **Flytta till**.
 
     > [!NOTE]
-    > **Flytta till** är inte tillgänglig om du använder den klassiska erfarenheten av SharePoint Online.
+    > **Flytta till** är inte tillgängligt om du använder den klassiska upplevelsen av SharePoint Online.
   
-2. Välj den plats som du vill flytta artiklar under **Välj ett mål**. Om du flyttar till en annan webbplats eller underwebbplats och inte visas, klickar du på **Bläddra webbplatser** om du vill se en fullständig lista över webbplatser som du kan flytta till.
+2. Välj den plats som du vill flytta objekten till under **Välj en destination**. Om du flyttar till en annan webbplats eller underwebbplats och inte ser den i listan klickar du på **Bläddra bland webbplatser** för att se hela listan med webbplatser som du kan flytta till.
 
-    Om du vill skapa en ny mapp om du vill flytta filerna till, Välj en plats i mapphierarkin klickar du på **Ny mapp**, ange ett namn för mappen och klicka på Markera om du vill spara namnet.
+    Om du vill skapa en ny mapp för att flytta filerna till väljer du en plats i mapphierarkin, klickar på **ny mapp**, anger ett namn för mappen och klickar på bockmarkeringen för att spara namnet.
 
 3. Klicka på **Flytta hit**.
+
+ När en fil flyttas, kommer den fortfarande att visas i källkatalogen tills dess helt flyttat till destinationen, och sedan kommer det att tas bort. Filen finns kvar i käll platsers papperskorg när flytten är slutförd och omfattas av det normala återvinnings schemat om inte en användare återställer den från papperskorgen.
+
+Mer information finns i:
+
+ - [Flytta eller kopiera filer i SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office Support-artikel)
+ - [Flytta filer från valfri mapp i Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech community blogg artikel) 

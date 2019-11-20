@@ -13,29 +13,33 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 3b63262a289261bc1e040f745096645e7f2c784c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5f9e1fdc74d4d2264d6daacbb96d03cd1b98bd82
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516375"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711810"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>Kopiera objekt i ett SharePoint-dokumentbibliotek
 
-1. Bläddra till de filer, mappar eller länkar som du vill kopiera och klicka sedan på **Kopiera till**i en webbläsare.
+1. Bläddra till de filer, mappar eller länkar som du vill kopiera i en webbläsare och klicka sedan på **Kopiera till**.
 
     > [!NOTE]
-    > **Kopiera till** är inte tillgänglig om du använder den klassiska erfarenheten av SharePoint Online.
+    > **Kopiera till** är inte tillgängligt om du använder den klassiska upplevelsen av SharePoint Online.
   
-2. Markera den plats som du vill kopiera objekten under **Välj ett mål**. Om du kopierar till en annan webbplats eller underwebbplats och inte visas, klickar du på **Bläddra webbplatser** om du vill se en fullständig lista över webbplatser som du kan kopiera till.
+2. Under **Välj en destination**väljer du den plats som du vill kopiera objekten till. Om du kopierar till en annan webbplats eller underwebbplats och inte ser den i listan klickar du på **Bläddra bland webbplatser** för att se hela listan med webbplatser som du kan kopiera till.
 
     > [!NOTE]
-    > Om du inte ser andra webbplatser som visas när du kopierar objekt har inte kopiera flera webbplatser konfigurerats. Gå till inställningssidan för SharePoint administratörscenter och klicka på **OK**om du vill aktivera den.
+    > Om du inte ser andra webbplatser som visas när du kopierar objekt har kopieringen över webbplatser inte konfigurerats. Om du vill aktivera det går du till sidan Inställningar i SharePoint administratörscenter och klickar på **OK**.
   
-    Om du vill skapa en ny mapp om du vill kopiera filer till, Välj en plats i mapphierarkin klickar du på **Ny mapp**, ange ett namn för mappen och klicka på Markera om du vill spara namnet.
+    Om du vill skapa en ny mapp att kopiera filerna till väljer du en plats i mapphierarkin, klickar på **ny mapp**, anger ett namn för mappen och klickar på bockmarkeringen för att spara namnet.
 
-3. Klicka på **Kopiera hit**.
+3. Klicka på **Kopiera här**.
 
 > [!NOTE]
-> Du kan kopiera upp till 500 MB filer och mappar på en gång. > när du använder **Kopiera till** med dokument som har tidigare versioner, bara den senaste versionen kopieras.
+> Du kan kopiera upp till 500 MB filer och mappar på en gång. > när du använder **Kopiera till** med dokument som har versionshistorik kopieras endast den senaste versionen.
   
+Mer information finns i:
+
+ - [Flytta eller kopiera filer i SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office Support-artikel)
+ - [Flytta filer från valfri mapp i Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech community blogg artikel)   
