@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000702"
 - "2601"
-ms.openlocfilehash: 893a37e16d9582e1dade8b5cd708dd37cb7b1036
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
+ms.openlocfilehash: 2cc76aee6e904c055fdf2a18a61a9263ecd0ddc0
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37317042"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627340"
 ---
 # <a name="skype-for-business-common-issues-and-resolutions"></a>Vanliga problem och lösningar för Skype för företag 
 
@@ -34,4 +34,4 @@ Här är några ofta efterfrågade ämnen:
 
 **Kommunicera med Skype-kontakter:** [Låt Skype för företag-användare lägga till Skype-kontakter](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts).
 
-**Uppgradera Skype för företag till Microsoft Teams:** Granska [komma igång med din Microsoft Teams-uppgradering](https://docs.microsoft.com/en-us/microsoftteams/upgrade-start-here) och lär dig mer om [samexistens](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) med Microsoft Teams när du antar team i din organisation. 
+**Uppgradera Skype för företag till Microsoft Teams:** Granska [komma igång med din Microsoft Teams-uppgradering](https://docs.microsoft.com/microsoftteams/upgrade-start-here) och lär dig mer om [samexistens](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) med Microsoft Teams när du antar team i din organisation. 

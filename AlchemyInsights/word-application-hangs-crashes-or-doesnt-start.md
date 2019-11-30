@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 94fd306d7eb0de5f7a9eb90b92ae49bd80c50d38
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: 6c807dc8b05788baa71b302275523b64a311157a
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37027183"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39628188"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Word kraschar eller svarar inte
 
@@ -31,7 +31,7 @@ Om Word inte startar provar du följande:
 1.   På ett Windows-skrivbord stänger du Outlook och trycker på CTRL + ALT + DEL för att öppna Aktivitetshanteraren. 
 2. Om Word-processer körs på fliken **processer** markerar du dem och väljer **Avsluta aktivitet**. Det är också rekommenderar att du startar om för att rensa allt från minnet.
 
-    Om Word fortsätter att krascha eller hänga under lanseringen, se [öppna Office-appar i felsäkert läge på en Windows-dator](https://support.office.com/en-us/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) för att starta den i felsäkert läge.
+    Om Word fortsätter att krascha eller hänga under lanseringen, se [öppna Office-appar i felsäkert läge på en Windows-dator](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) för att starta den i felsäkert läge.
 
 Om du fortfarande har problem finns i följande artiklar: 
 - [Jag får ett "slutat fungera"-fel när jag startar Office-program på min dator](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)

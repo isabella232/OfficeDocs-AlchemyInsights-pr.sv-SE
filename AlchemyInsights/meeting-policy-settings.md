@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2657"
 - "9000734"
-ms.openlocfilehash: dac06690b51459ca166c15a5ef0f4c7e7a6d36f0
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376856"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627592"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Hantera Mötes principer i Microsoft Teams
 
@@ -24,7 +24,7 @@ Mötes principer används för att styra de funktioner som är tillgängliga fö
 
 Mer information om Mötes principer finns i följande resurser:
 
-- Mer information om hur du skapar principer, gör ändringar och tilldelar användare till principen finns [i hantera Mötes principer i Teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams).
+- Mer information om hur du skapar principer, gör ändringar och tilldelar användare till principen finns [i hantera Mötes principer i Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
 - Om du vill göra principändringar med hjälp av PowerShell-cmdlets, se [Teams PowerShell-översikt](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
     - Du måste använda [Skype för Business PowerShell-modulen](https://www.microsoft.com/download/details.aspx?id=39366) för team Mötes principer. 
