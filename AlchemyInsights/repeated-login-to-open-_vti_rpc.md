@@ -1,7 +1,7 @@
 ---
-title: Upprepade logga in för att öppna _vti_rpc
-ms.author: dludwig
-author: dludwig
+title: Upprepad inloggning för att öppna _vti_rpc
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.date: 2/26/2018
 ms.audience: Admin
@@ -14,14 +14,14 @@ ms.custom:
 - "280"
 - "2200009"
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: ef59ee1085bbd163eaa31845036619322038fa34
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d28370db130278074beb06a5379553f26b2c684c
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552332"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054251"
 ---
-# <a name="repeated-login-to-open-_vti_rpc"></a>Upprepade logga in för att öppna _vti_rpc
+# <a name="repeated-login-to-open-_vti_rpc"></a>Upprepad inloggning för att öppna _vti_rpc
 
-När du arbetar på OneDrive-filer med Office 2016 får meddelandet: ”berätta det konto som du vill använda för att öppna _vti_rpc”. Det här problemet korrigerades i version 1708 (16.0.8431.2094). Lös problemet genom att uppdatera till den senaste versionen av Office. Markera **filen** \> **konto** \> **Uppdatera alternativ** \> **Uppdatera nu**.
+När du arbetar med OneDrive-filer med Office 2016 kan du se meddelandet: "berätta för oss vilket konto du vill använda för att öppna _vti_rpc." Det här problemet har korrigerats i version 1708 (16.0.8431.2094). Åtgärda detta genom att uppdatera till den senaste versionen av Office. Välj **** \> **** \> uppdaterings **** alternativ \> för fil konto **Uppdatera nu**.
   

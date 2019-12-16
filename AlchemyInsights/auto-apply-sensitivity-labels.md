@@ -1,7 +1,7 @@
 ---
-title: Tillämpa automatiskt säkerhetsetiketter
-ms.author: stephow
-author: stephow-MSFT
+title: Använd känslighets etiketter automatiskt
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: b095426d780033f6c1c7eeb320d923f6c484b078
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517409"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050327"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Tillämpa automatiskt säkerhetsetiketter
+# <a name="auto-apply-sensitivity-labels"></a>Använd känslighets etiketter automatiskt
 
-Säkerhetsetiketter kan användas manuellt till innehåll av användare eller du kan konfigurera dem automatiskt tillämpas på innehåll.
+Känslighets etiketter kan användas manuellt på innehåll av användare, eller så kan du konfigurera dem så att de automatiskt tillämpas på innehåll.
 
-Använda säkerhetsetiketter tar bort behovet av att utbilda användarna om hur att klassificera innehåll och behovet av att underrätta dem om principkonfigurationer.
+Automatiskt tillämpa känslighets etiketter tar bort behovet av att utbilda användare om hur du klassificerar innehåll och behovet av att meddela dem om principkonfigurationer.
 
 Om du vill använda etiketter automatiskt krävs följande:
 
-- Azure prenumeration för P2 för skydd av Information
-- [Hämta och installera Azure informationsskydd enhetlig märkning klienten](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Azure information Protection P2-prenumeration
+- [Hämta och installera den Azure information Protection Unified etikettering klienten](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Vi arbetar med inbyggt stöd som inte kräver Azure informationsskydd enhetlig märkning klienten i framtiden.
+Vi arbetar med inbyggt stöd som inte kräver Azure information Protection Unified etikettering klienten i framtiden.
 
-För närvarande stöder endast Windows enhetlig märkning klienten.  Funktionen stöds inte på Mac, iOS och Android ännu.
+För närvarande stöder endast Windows Unified etikettering klienten.  Funktionen stöds inte ännu på Mac, iOS och Android.
 
-Mer information om säkerhetsetiketter och tillämpar dem automatiskt till innehåll finns:
+Mer information om känslighets etiketter och hur du använder dem automatiskt på innehåll finns i:
 
-- [Översikt över säkerhetsetiketter](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-- [Tillämpa en känslighet etikett till innehåll automatiskt](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Översikt över känslighets etiketter](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Använda en känslighetsetikett på innehåll automatiskt](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
