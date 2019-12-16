@@ -1,36 +1,36 @@
 ---
 title: Anonym delning
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 9/18/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: c2b06cc64d071a80fa6cafe0f066a3885e388d6b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8a007821fb44544512ae5b9bf22ee9aba16e618c
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768314"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050399"
 ---
-# <a name="anonymous-sharing"></a><span data-ttu-id="ea74f-102">Anonym delning</span><span class="sxs-lookup"><span data-stu-id="ea74f-102">Anonymous sharing</span></span>
+# <a name="anonymous-sharing"></a><span data-ttu-id="928f2-102">Anonym delning</span><span class="sxs-lookup"><span data-stu-id="928f2-102">Anonymous sharing</span></span>
 
- <span data-ttu-id="ea74f-103">**Aktivera anonym åtkomst**</span><span class="sxs-lookup"><span data-stu-id="ea74f-103">**Enable anonymous access**</span></span>
+ <span data-ttu-id="928f2-103">**Aktivera anonym åtkomst**</span><span class="sxs-lookup"><span data-stu-id="928f2-103">**Enable anonymous access**</span></span>
   
-<span data-ttu-id="ea74f-104">I det nya administrationscentret för SharePoint klickar du på **delning** i den vänstra rutan.</span><span class="sxs-lookup"><span data-stu-id="ea74f-104">In the new SharePoint admin center, click **sharing** in the left pane.</span></span> 
+<span data-ttu-id="928f2-104">I det nya administrationscentret för SharePoint klickar du på **delning** i den vänstra rutan.</span><span class="sxs-lookup"><span data-stu-id="928f2-104">In the new SharePoint admin center, click **sharing** in the left pane.</span></span> 
   
-- <span data-ttu-id="ea74f-105">Välj följande: **Tillåt delning till autentiserade externa användare och med anonym åtkomst.**</span><span class="sxs-lookup"><span data-stu-id="ea74f-105">Select the following: **Allow sharing to authenticated external users and using anonymous access.**</span></span>
+- <span data-ttu-id="928f2-105">Välj följande: **Tillåt delning till autentiserade externa användare och med anonym åtkomst.**</span><span class="sxs-lookup"><span data-stu-id="928f2-105">Select the following: **Allow sharing to authenticated external users and using anonymous access.**</span></span>
   
-<span data-ttu-id="ea74f-106">(Du kan också ange att länkar ska upphöra att gälla under ett visst antal dagar och välja hur mottagarna kan använda länkarna.)</span><span class="sxs-lookup"><span data-stu-id="ea74f-106">(Optionally, you can set links to expire in a specific number of days, and select how recipients can use the links.)</span></span>
+<span data-ttu-id="928f2-106">(Du kan också ange att länkar ska upphöra att gälla under ett visst antal dagar och välja hur mottagarna kan använda länkarna.)</span><span class="sxs-lookup"><span data-stu-id="928f2-106">(Optionally, you can set links to expire in a specific number of days, and select how recipients can use the links.)</span></span>
     
- <span data-ttu-id="ea74f-107">**Dela en fil eller mapp anonymt**</span><span class="sxs-lookup"><span data-stu-id="ea74f-107">**Share a file or folder anonymously**</span></span>
+ <span data-ttu-id="928f2-107">**Dela en fil eller mapp anonymt**</span><span class="sxs-lookup"><span data-stu-id="928f2-107">**Share a file or folder anonymously**</span></span>
   
-- <span data-ttu-id="ea74f-108">Markera filen eller mappen som du vill dela och klicka sedan på **dela**.</span><span class="sxs-lookup"><span data-stu-id="ea74f-108">Select the file or folder you want to share, and then click **Share**.</span></span> 
+- <span data-ttu-id="928f2-108">Markera filen eller mappen som du vill dela och klicka sedan på **dela**.</span><span class="sxs-lookup"><span data-stu-id="928f2-108">Select the file or folder you want to share, and then click **Share**.</span></span> 
     
-- <span data-ttu-id="ea74f-109">Vem vill du att den här länken ska fungera för? Klicka på **någon.**</span><span class="sxs-lookup"><span data-stu-id="ea74f-109">Who would you like this link to work for? click **Anyone.**</span></span>
+- <span data-ttu-id="928f2-109">Vem vill du att den här länken ska fungera för? Klicka på **någon.**</span><span class="sxs-lookup"><span data-stu-id="928f2-109">Who would you like this link to work for? click **Anyone.**</span></span>
   
- <span data-ttu-id="ea74f-110">\*\*\*\* **Alla** som skapar en länk som alla kan använda för att komma åt dokumentet eller mappen, även om de inte är inloggade på Office 365 eller OneDrive.</span><span class="sxs-lookup"><span data-stu-id="ea74f-110">**Note**: **Anyone** creates a link that anyone can use to access the document or folder, even if they're not logged in to Office 365 or OneDrive.</span></span> <span data-ttu-id="ea74f-111">Använd detta för att dela med vem som helst, inom eller utanför företaget.</span><span class="sxs-lookup"><span data-stu-id="ea74f-111">Use this to share with anyone, inside or outside your company.</span></span> <span data-ttu-id="ea74f-112">Denna länk kan också vidarebefordras runt till vem som helst.</span><span class="sxs-lookup"><span data-stu-id="ea74f-112">This link can also be forwarded around to anyone.</span></span> 
+ <span data-ttu-id="928f2-110">\*\*\*\* **Alla** som skapar en länk som alla kan använda för att komma åt dokumentet eller mappen, även om de inte är inloggade på Office 365 eller OneDrive.</span><span class="sxs-lookup"><span data-stu-id="928f2-110">**Note**: **Anyone** creates a link that anyone can use to access the document or folder, even if they're not logged in to Office 365 or OneDrive.</span></span> <span data-ttu-id="928f2-111">Använd detta för att dela med vem som helst, inom eller utanför företaget.</span><span class="sxs-lookup"><span data-stu-id="928f2-111">Use this to share with anyone, inside or outside your company.</span></span> <span data-ttu-id="928f2-112">Denna länk kan också vidarebefordras runt till vem som helst.</span><span class="sxs-lookup"><span data-stu-id="928f2-112">This link can also be forwarded around to anyone.</span></span> 
     
 
