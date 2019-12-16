@@ -1,7 +1,7 @@
 ---
-title: OneDrive-lagring och borttagning
-ms.author: efrene
-author: efrene
+title: Lagring och radering av OneDrive
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,26 +12,26 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 50a75073339f1903f2f843e301441c90e795d2f1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521585"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053351"
 ---
-# <a name="onedrive-retention-and-deletion"></a>OneDrive-lagring och borttagning
+# <a name="onedrive-retention-and-deletion"></a>Lagring och radering av OneDrive
 
-- Du kan [återställa en borttagen användare OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) själv. De finns i Papperskorgen för 93 dagar. 
+- Du kan [återställa en borttagen användare OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) själv. De är i papperskorgen för 93 dagar. 
 
-- Finns [i den här artikeln](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) och lär dig mer:
-    - Så att ge en annan användaråtkomst till en borttagen användare OneDrive.
-    - Vad händer med en användare OneDrive när du tar bort användarkontot Office 365 för din organisation.
+- Se [den här artikeln](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) för att lära dig:
+    - Hur du ger en annan användare åtkomst till en borttagen användares OneDrive.
+    - Vad händer med en användares OneDrive när du tar bort användarens Office 365-konto för din organisation.
     - Så här konfigurerar du automatisk åtkomst delegering.
-    - Hur fungerar OneDrive borttagningsprocessen.
+    - Hur OneDrive borttagningsprocessen fungerar.
 
-- Intresserad av säkerhet och regelefterlevnadscentret bevarande och håll?
+- Intresserad av säkerhet och efterlevnad Center retention och Hold?:
     - [Bevarandeprinciper för OneDrive och SharePoint-webbplatser](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
-    - [e-informationsavslöjande spärr för OneDrive och SharePoint-webbplatser](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+    - [e-informationsavslöjande håll för OneDrive och SharePoint-webbplatser](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
 
 
 

@@ -1,7 +1,7 @@
 ---
-title: Avancerat skydd i SharePoint och OneDrive
-ms.author: efrene
-author: efrene
+title: Avancerat skydd mot hot i SharePoint och OneDrive
+ms.author: pebaum
+author: pebaum
 ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,23 +12,23 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 74ab1bc37c43bdb48ff44f3073c3df4adf8c4f3d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f4043e9716ebdf5236df7ec0ead32d1a738fbc23
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493897"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050435"
 ---
-# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Avancerade Threat Protection (ATP) i SharePoint och OneDrive
+# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Avancerat skydd mot hot (ATP) i SharePoint och OneDrive
 
 Se följande exempel:
-- [Tillgängligt att LOVA för SharePoint, OneDrive och team](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [Påvisande av hot Explorer och Realtime](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [ATP för SharePoint, OneDrive och Teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [Hot Explorer och Realtime identifieringar](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
 
-Ytterligare Information:
+Ytterligare information:
 
-- [Virusskyddet i SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [Datakryptering i ODB och SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [Virus detektering i SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
+- [Data kryptering i ODB och SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
 - [Skydda dina data i SharePoint](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
-- [Ransomware identifiering och återställning av filer](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+- [Ransomware upptäckt och återställa filer](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)

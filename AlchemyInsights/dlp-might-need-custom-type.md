@@ -1,7 +1,7 @@
 ---
 title: DLP kan behöva en anpassad typ
-ms.author: stephow
-author: stephow-MSFT
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: ITPro
@@ -13,27 +13,27 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 612b6652b445914063ac825847f5698d3afc3a00
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 872fca326065ada002300061c951620b3d9a8d0e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530369"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052919"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP kan behöva en anpassad typ
 
-Du kan identifiera och skydda känsliga data i din organisation med data förlust prevention (DLP) principen. I vissa fall kan behöva du skapa en egen **anpassad** typ känslig information för att skydda företagets data.
+Med en princip för dataförlustskydd (DLP) kan du identifiera och skydda känsliga data i din organisation. I vissa fall kan du behöva skapa en egen **anpassad** känslig informationstyp för att skydda organisationens data.
 
-Till exempel kan din organisation behöva identifiera och skydda anställnings-ID eller andra data i vissa format som är specifika för din org. Om så är fallet finns i följande artiklar för mer information.
+Din organisation kan till exempel behöva identifiera och skydda medarbetar-ID eller andra data i vissa format som är specifika för din org. I så fall finns i följande artiklar för mer information.
   
- **Anpassa en inbyggd känslig information-typ**
+ **Anpassa en inbyggd känslig informationstyp**
   
-Om en typ inbyggda känslig information skulle uppfylla dina behov med bara några få justeringar, kan du [Anpassa en typ inbyggda känslig information](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Till exempel kan lägga till eller ta bort nyckelord, eller tillägg eller borttagning av bevis som ett datum eller en adress.
+Om en inbyggd känslig informationstyp uppfyller dina behov med bara några få tweaks, kan du [Anpassa en inbyggd känslig informationstyp](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Du kan till exempel lägga till eller ta bort nyckelord eller lägga till eller ta bort stödjande bevis, till exempel ett datum eller en adress.
   
- **Skapa en anpassad känslig information**
+ **Skapa en anpassad känslig informationstyp**
   
-Men om du behöver identifiera och skydda en annan typ av känslig information helt kan du [Skapa en anpassad känslig information](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) i Användargränssnittet för säkerhet & regelefterlevnadscentret.
+Men om du behöver identifiera och skydda en annan typ av känslig information helt och hållet, kan du [skapa en anpassad känslig informationstyp](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) i användargränssnittet för säkerhets & Efterlevnadscenter.
   
-**Skapa en anpassad känslig information i säkerhet & Compliance Center PowerShell**
+**Skapa en anpassad känslig informationstyp i Security & Efterlevnadscenter PowerShell**
 
-Om Användargränssnittet inte ger de alternativ du behöver, kan du dessutom [Skapa en anpassad känslig information i säkerhet & Compliance Center PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Genom att starta med en XML-fil kan du använda alla alternativ som finns.
+Slutligen, om ANVÄNDARGRÄNSSNITTET inte innehåller alla alternativ som du behöver, kan du [skapa en anpassad känslig informationstyp i Security & Efterlevnadscenter PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Genom att börja med en XML-fil kan du använda alla tillgängliga alternativ.

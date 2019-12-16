@@ -1,7 +1,7 @@
 ---
-title: Problem när data migreras till SharePoint Online
-ms.author: efrene
-author: efrene
+title: Problem vid migrering av data till SharePoint Online
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: d8bdf0ac6c3a65b72e8c92a3f5960cb72b6cfd99
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504373"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051767"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problem när data migreras till SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problem vid migrering av data till SharePoint Online
 
-Det verkar du migrerar över 100TB data till SharePoint Online. Följ stegen nedan så att vi kan hjälpa dig så snart som möjligt. 
+Det verkar som om du migrerar över 100TB data till SharePoint Online. Följ stegen nedan så att vi kan hjälpa dig så snart som möjligt. 
 
-1. Välj **Ny serviceförfrågan**och sedan **Ny serviceförfrågan**. 
-2. Lämna in titeln och beskrivningen som **SharePoint migration över 100 TB**.
-3. När biljetten har skickats kan du uppdatera den med följande information: 
+1. Välj **ny tjänstbegäran**och sedan **ny tjänstbegäran**. 
+2. Lämna titeln och beskrivningen som **SharePoint-migrering över 100TB**.
+3. När biljetten har skickats, vänligen uppdatera den med följande information: 
 
     - Uppskattad storlek på migreringen.
     - En uppskattning av när du vill starta och slutföra migreringen.
-    - Beskriv var du migrerar innehållet från, till exempel SharePoint Server, ruta, GDrive, filresurser, m.m...
+    - Beskriv var du migrerar ditt innehåll från, till exempel SharePoint Server, Box, GDrive, filresurser, etc..
 
 
   
