@@ -1,7 +1,7 @@
 ---
-title: Arbetsflöde för e-post skickas inte
-ms.author: efrene
-author: efrene
+title: Arbetsflödes e-post skickas inte
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.date: 7/25/2019
 ms.audience: Admin
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 261fe1b1bc815dd4ad568051cfefad1e214b957e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 76b64323c9d34d49e9c6bd77c2cc7eff6d7c5402
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530908"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049391"
 ---
-# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Arbetsflöde för e-post skickas inte för en SharePoint-lista eller ett bibliotek
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Arbetsflödes e-post skickas inte för en SharePoint-lista eller bibliotek
 
-1. Skickas inte e-post från arbetsflöden för alla användare eller bara vissa användare, eller om du ser felet **e-postmeddelandet inte kan skickas. Kontrollera att e-postmeddelandet har en giltig mottagare**.
+1. E-post från arbetsflöden skickas inte till alla användare eller endast till vissa användare, eller så visas felmeddelandet **det går inte att skicka e-postmeddelandet. Kontrollera att e-postmeddelandet har en giltig mottagare**.
 
-    Kontrollera om användaren finns i **Alla** behörigheter gruppen (listan med användarinformation) för webbplatssamlingen.  Exempel på direkt URL: https://<tenant>.sharepoint.com/sites/<sitename>/_layouts/15/people.aspx? MembershipGroupId = 0
+    Kontrollera om användaren finns i gruppen **alla personer** behörigheter (användarinformation lista) för webbplatssamlingen.  Exempel på direkt URL:<tenant>https://.<sitename>SharePoint.com/Sites//_layouts/15/People.aspx? MembershipGroupId = 0
 
-    - Om användaren inte finns, kontrollera att användaren har loggat in på sidan. 
-    - Om det är en extern användare kontrollerar du att deras inbjudan har accepterats.
-    - Om användaren finns i gruppen behörigheter kontrollera e-postadressen är korrekt.
-    - Om användare e-postadress har angetts här, skapar du aviseringen för användaren vilket tvingar synkronisering av användarkontot från profiler av SharePoint för den här webbplatssamlingen.
+    - Om användaren inte finns kontrollerar du att användaren är inloggad på sidan. 
+    - Om det är en extern användare, se till att deras inbjudan har accepterats.
+    - Om användaren finns i gruppen behörigheter, kontrollera att e-postadressen är korrekt.
+    - Om användarnas e-postadress inte anges här, skapa en exempel avisering för användaren som tvingar synkronisering av användarkontot från användarprofiler i SharePoint till den här webbplatssamlingen.
  
-2. E-post från arbetsflöden skickas till webbplatssamlingens administratörer men inte till andra användare och se felet **http-förbjudet att <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
+2. E-post från arbetsflöden skickas till administratörer för webbplatssamlingen, men inte till andra användare och se felet **http förbjuden till <span>https:</span>//url/_vti_bin/client.XVC.sp.Utilities.Utility.sendemail**.
  
 
-    Se [Åtkomst nekad när du skickar ett e-postmeddelande till en SharePoint-grupp](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
+    Se [åtkomst nekad när du skickar ett e-postmeddelande till en SharePoint-grupp](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
-    Kontrollera också att **begränsad åtkomst användarläge behörighet låsning** webbplatssamling funktionen inte är aktiv.
+    Kontrollera också att den **begränsad åtkomst användare behörighet låsning läge** webbplatssamling funktionen inte är aktiv.
 
 
 ## <a name="related-topics"></a>Relaterade ämnen
 Vill du prova Microsoft Flow i SharePoint Online?
 - [Skapa flöde](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint och flöde](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [SharePoint och Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

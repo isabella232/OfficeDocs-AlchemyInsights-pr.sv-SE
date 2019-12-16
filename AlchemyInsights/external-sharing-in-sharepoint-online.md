@@ -1,7 +1,7 @@
 ---
 title: Extern delning i SharePoint Online
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: d4342c203dd60bea0a26ef9f5f281a62a0abf20e
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+- "2389"
+ms.openlocfilehash: 867727395a5e0653a12cb0ea091bf841c6f4f84f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735983"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049787"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>Extern delning i SharePoint Online
 
-Om din organisation utför arbete som innebär att dela dokument eller samarbeta direkt med leverantörer, klienter eller kunder, kan du använda de [externa delningsfunktionerna i SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) för att dela innehåll med personer utanför ditt Organisation.
+Om din organisation utför arbete som innebär att dela dokument eller samarbeta direkt med leverantörer, klienter eller kunder, kan du använda de [externa delningsfunktionerna i SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) för att dela innehåll med personer utanför organisationen.
 
 För mer information om extern delning, vänligen besök länkarna nedan:
 
