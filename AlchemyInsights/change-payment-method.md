@@ -12,21 +12,21 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 9d89cb375475bfaff1f3a3a34ff7cefb9d9d42d5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 9408ea841ec142450c6a796b703021e0e2835543
+ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665376"
+ms.lasthandoff: 12/17/2019
+ms.locfileid: "40068316"
 ---
 # <a name="change-payment-method"></a>Ändra betalningsmetod
 
-Du kan kontrollera och ändra den betalningsmetod som är konfigurerad i Microsoft 365 administratörscenter. Välj den prenumeration du vill verifiera. Den betalningsmetod som är konfigurerad för prenumerationen visas under **Fakturering**. 
+Du kan kontrollera och ändra betalningsmetod som har konfigurerats i Microsoft 365 administratörscenter. Välj den prenumeration du vill verifiera. Betalningsmetoden som har konfigurerats för prenumerationen visas under **fakturering**.
   
-1. Gå till **Fakturering** i administratörscenter, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjänster.
+1. I administrationscentret går du till sidan **Fakturering** \> [Produkter och tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Välj **Redigera**bredvid den betalningsmetod som du vill ändra betalningsmetod för prenumerationen.
+2. Leta reda på prenumerationen som du vill ändra betalningsmetod för. Välj **Redigera**bredvid betalningsmetoden.
 
-3. Följ instruktionerna på skärmen för att slutföra ändringen.
+3. Slutför ändringen genom att följa stegen på skärmen.
 
-Använder du det gamla administratörscenter? För gamla steg eller mer information finns i [ändra betalningsmetoden för Office 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
+Mer information finns i [ändra betalningsmetod för Office 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
