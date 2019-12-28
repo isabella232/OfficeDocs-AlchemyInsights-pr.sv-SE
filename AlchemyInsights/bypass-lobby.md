@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
+ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626366"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889100"
 ---
-# <a name="control-lobby-settings-and-level-of-participation"></a>Kontrollera Lobbyinställningar och deltagarnivå
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Kontrollera Lobbyinställningar och deltagarnivå i Teams
 
-Om du vill tillåta alla, inklusive fjärråtkomst, externa och anonyma användare att kringgå lobbyn i Microsoft Teams, kan du använda PowerShell för att göra det. Här är ett exempel på hur du ändrar den globala Mötes policyn för din organisation:
+Om du vill tillåta alla, inklusive fjärråtkomst, externa och anonyma användare, att **kringgå lobbyn**, kan du använda PowerShell för att utföra den här uppgiften. Här är ett exempel på hur du ändrar den globala Mötes policyn för din organisation.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Denna cmdlet kräver för närvarande användning av Skype för Business PowerShell-modulen. Om du vill få installationsprogrammet att använda denna cmdlet, checka ut [Hantera principer via PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Denna cmdlet kräver för närvarande användning av Skype för Business PowerShell-modulen. För att få ställa in att använda denna cmdlet, checka ut [Hantera principer via PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-Du kan ställa in en ny princip, som du sedan måste använda den för användare. Om du ändrar den globala policyn tillämpas den automatiskt på användare. För alla principändringar måste du vänta minst 4 timmar och upp till 24 timmar för att policyerna ska börja gälla.
+När du har konfigurerat en princip måste du använda den för användare. eller, om du har ändrat den globala principen, kommer den automatiskt att gälla för användare. För alla principändringar måste du vänta minst **4 timmar upp till 24 timmar** för att policyerna ska börja gälla. 
 
 Se till att granska dokumentationen nedan innan du gör dessa ändringar för att förstå exakt vad detta tillåter.
 
+
 ## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Förstå team som uppfyller lobby policykontroller
+
+Dessa inställningar styr vilka mötesdeltagare som väntar i lobbyn innan de är antagna till mötet och vilken deltagarnivå de är tillåtna i ett möte. Du kan använda PowerShell för att uppdatera Mötes principinställningar som ännu inte har implementerats (märkt "kommer snart") i Teams administratörscenter. Se nedan för ett exempel PowerShell-cmdlet som tillåter alla användare att kringgå lobbyn.
 
 - Ta [automatiskt emot personer](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) är en per organisatör-princip som styr om personer ansluter till ett möte direkt eller väntar i lobbyn tills de är antagna av en autentiserad användare.
 
