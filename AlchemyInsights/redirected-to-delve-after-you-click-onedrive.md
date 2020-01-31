@@ -1,5 +1,5 @@
 ---
-title: OneDrive för Business Web OneDrive omdirigeringar till Delve
+title: OneDrive för Business Web OneDrive omdirigerar till Delve
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 8ba296c6986c767939ef51076551f95719d11aa2
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 74151ed149c57ceebc841902796189f6638795a9
+ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752266"
+ms.lasthandoff: 01/28/2020
+ms.locfileid: "41571251"
 ---
-# <a name="redirected-to-delve-after-you-click-onedrive"></a>Omdirigeras till Delve när du klickar på OneDrive
+# <a name="redirected-to-delve-after-you-click-onedrive"></a>Omdirigerad till Delve när du har klickat på OneDrive
 
-För att lösa problemet måste Office 365-administratören ge användarna rätt att skapa webbplatsen mina webbplatser. Detta beror på att OneDrive för företag-sidan skapas på mina webbplatser.
+Se vår detaljerade [felsökningsguide](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning).
 
-Om du vill bevilja den här rättigheten följer du dessa steg:
+LÃ¶s problemet genom att Office 365-administratÃ¶ren ge anvÃ¤ndare rätt att skapa webbplatsen Mina webbplatser. Detta beror på att OneDrive för företag-sidan skapas på Mina webbplatser.
 
-1. Klicka på **användarprofiler**i SharePoint administratörscenter.
+Så här beviljar du denna rättighet:
 
-2. I avsnittet **personer** klickar du på **hantera användarbehörigheter**.
+1. Klicka på **användarprofiler**i Administrationscenter för SharePoint.
 
-3. Lägg till användare som behöver behörigheter för att skapa webbplatsen mina webbplatser. Som standard är den här inställningen inställd på **alla utom externa användare**.
+2. Klicka på Hantera **användarbehörigheter**i avsnittet **Personer.**
 
-4. När du har lagt till användaren, användarna eller gruppen kontrollerar du att den tillagda användaren, användarna eller gruppen är markerad, bläddrar till avsnittet **behörigheter** och markerar sedan kryssrutan bredvid **skapa personlig webbplats (krävs för personligt lagringsutrymme, nyhetsflöde och följt innehållet)**.
+3. Lägg till användare som behöver behörighet för att skapa sin webbplats för Mina webbplatser. Som standard är den här inställningen inställd på **Alla utom externa användare**.
 
-5. Klicka på **OK**och sedan har användaren Bläddra till sidan OneDrive för att skapa webbplatsen.
+4. När du har lagt till användaren, användarna eller gruppen kontrollerar du att den tillagda användaren, användarna eller gruppen är markerad, bläddrar till **behörighetsavsnittet** och markerar sedan kryssrutan **bredvid Skapa personlig webbplats (krävs för personligt lagringsutrymme, nyhetsfeed och följt innehåll).**
+
+5. Klicka på **OK**och sedan låta användaren bläddra till OneDrive-sidan för att skapa webbplatsen.
