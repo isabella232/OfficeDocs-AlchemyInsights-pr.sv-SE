@@ -14,22 +14,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0f3389fad573908fa80bd0c861b656f268446e61
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050939"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770477"
 ---
 # <a name="workflows-in-sharepoint"></a>Arbetsflöden i SharePoint
 
-SharePoint-arbetsflöden är förprogrammerade miniprogram som effektiviserar och automatiserar en mängd olika affärsprocesser. Arbetsflöden kan variera från insamling av signaturer, feedback eller godkännanden för en plan eller ett dokument för att spåra aktuell status för en rutin procedur.
+SharePoint-arbetsflöden är förprogrammerade appar som effektiviserar en mängd olika affärsprocesser. Se länkarna nedan för mer info.
 
-**Komma igång:** Om du precis har börjat med SharePoint-arbetsflöden, se [Introduktion till SharePoint-arbetsflöden för mer information](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+## <a name="getting-started"></a>Komma igång
 
-**Microsoft Flow**: Överväg att använda Microsoft Flow i stället för de klassiska SharePoint-arbetsflödeslösningarna. Mer information finns [i skapa ett flöde för en lista eller ett bibliotek i SharePoint Online eller OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+Om du precis har börjat med SharePoint-arbetsflöden läser du [Introduktion till SharePoint-arbetsflöden](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
 
-**Felsökning och felsökning av arbetsflöden**:
+## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>Felsöka och felsöka ett SharePoint-arbetsflöde
 
-Felsökning arbetsflöden liknar tidigare versioner. Mer information finns i [Felsöka SharePoint-arbetsflöden](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows). Mer information om felsökning finns i [Felsöka arbetsflödes valideringsfel i SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Se [Felsöka valideringsfel i SharePoint-arbetsflöde](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) och [Felsökning av SharePoint-arbetsflöden](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
+## <a name="power-automate"></a>Power Automatisera
+
+Överväg att använda [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) i stället för de klassiska SharePoint-arbetsflödeslösningarna.

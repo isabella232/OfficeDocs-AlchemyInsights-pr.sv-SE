@@ -1,8 +1,8 @@
 ---
 title: Skapa en SharePoint-webbplats
 ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+author: todmccoy
+ms.audience: Admin
 ms.topic: article
 ms.collection: Adm_O365
 ms.prod: office-online-server
@@ -10,30 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "5200004"
+- "3911416"
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 2611c3ed9cfe78c82c9b123ea26b6fe8f951b458
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e1e71ae9401448ed18058f6307302dcbaf773649
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049895"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770873"
 ---
 # <a name="create-a-sharepoint-site"></a>Skapa en SharePoint-webbplats
 
-Du kan se följande information om hur du skapar SharePoint-webbplatser:
-- [Hantera platser i det nya SharePoint-administratörscenter](https://docs.microsoft.com/sharepoint/manage-site-creation): Lär dig mer om alternativ för att skapa webbplatser, inklusive hur du skapar en klassisk webbplats eller en Teams-webbplats som inte innehåller en Office 365-grupp.
-- [Skapa en gruppwebbplats i SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d): Lär dig hur du skapar en gruppwebbplats.
-- [Skapa en kommunikations plats i SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): Lär dig hur du skapar en kommunikations plats.
-- [Hantera platser i det nya SharePoint-administratörscenter](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): Lär dig hur du skapar en klassisk webbplats eller en gruppwebbplats som inte innehåller en Office 365-grupp.
+Skapa eller hantera webbplatser från [aktiva webbplatser](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) i SharePoint-administrationscenter. Mer information finns i [Hantera webbplatser i det nya Administrationscentret](https://docs.microsoft.com/sharepoint/manage-site-creation)för SharePoint . 
 
+## <a name="tips"></a>Tips:
 
-  
-**Tips:**
-- Du kan inte skapa en webbplats med samma URL för en befintlig plats. Om du har tagit bort en webbplats och vill återanvända URL-adressen är det möjligt att den borttagna webbplatsen fortfarande finns under **borttagna webbplatser**. Om du vill hantera borttagna webbplatser se, [ta bort en webbplats](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Om du vill ta bort en webbplats med PowerShell helt, se [ta bort SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet exempel.
-- Vissa användare kanske inte kan skapa en webbplats. Se [Hantera webbplats skapas i SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-- Det är möjligt att webbplatsen visas fast på **att skapa** längre än förväntat. Om mer än 24 timmar har gått sedan du först såg detta problem, vänligen logga ett supportärende. I många fall arbetar vi redan på en lösning. Vänligen ge oss minst 24 timmar för att slutföra en lösning.
-- Om du behöver skapa en ny gruppwebbplats som inte innehåller en Office 365-grupp, 
-
-
+- Du **kan inte** skapa en webbplats med samma URL för en befintlig webbplats. Om du har tagit bort en webbplats och vill använda URL:en igen, är det möjligt att den borttagna webbplatsen fortfarande finns under [Borttagna webbplatser](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true). Webbplatsen måste tas bort permanent för att återanvända URL:en. Information om hur du tar bort en webbplats med Powershell finns i exempel på [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet.
+- Vissa användare kanske inte kan skapa en webbplats. [Mer information finns i Hantera webbplatsskapande i SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- Det är möjligt att webbplatsen verkar fast på **att skapa** längre än väntat. Om mer än 24 timmar har gått sedan du först såg detta problem, vänligen logga en supportbiljett. I många fall arbetar vi redan på en lösning. Vänligen ge oss minst 24 timmar att slutföra en lösning.
