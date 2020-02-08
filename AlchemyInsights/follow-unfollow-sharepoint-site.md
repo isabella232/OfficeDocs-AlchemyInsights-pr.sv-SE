@@ -1,5 +1,5 @@
 ---
-title: Följ eller un-Följ en SharePoint-webbplats
+title: Följ eller avfölja en SharePoint-webbplats
 ms.author: pebaum
 author: v-miegge
 ms.date: 6/20/2019
@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611715"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855569"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>Följ eller un-Följ en SharePoint-webbplats
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>Följ eller avfölja en SharePoint-webbplats
 
-Det finns flera sätt att hitta och följa webbplatser, nyheter och innehåll som intresserar dig i SharePoint. Detta gör att du kan hitta informationen enkelt i din lista och gör att du kan se aktivitet från SharePoint.
+Om användare har problem med att följa eller ta bort följande SharePoint-resurser slutför du följande steg:
 
-Titta på videon för att [hitta och följa webbplatser och nyheter](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).
-
-Om du inte kan följa eller un-följa en webbplats, nyheter eller innehåll och känner att resultaten är inte vad som förväntas, se om problemet är relaterat till en enskild användare eller alla användare i din organisation. Om problemet uppstår för alla användare, kan det finnas ett tillfälligt problem med tjänsten.
-
-Kontrollera den [service Health instrumentpanelen](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) för att se om din organisation påverkas.
+* Be användaren logga ut och logga in igen i SharePoint och prova samma steg för att följa/sluta följa SharePoint-resursen.
+* Ta reda på om problemet är med en viss plats eller alla webbplatser. Om problemet uppstår med specifika webbplatser kontrollerar du att funktionen "Efterinnehåll" är aktiv för webbplatsen genom att gå till **webbplatsinställningar > Hantera webbplatsfunktioner > Följande innehåll**. Om funktionen är inställd på Aktiv kan du prova att inaktivera och aktivera funktionen igen för webbplatsen.
+* Be användaren att prova en annan webbläsare för att se om problemet är specifikt för användarens webbläsare.
+* Om alla användare och alla webbplatser har samma problem kontrollerar du instrumentpanelen för [tjänsthälsa](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) för att se om din organisation påverkas.
