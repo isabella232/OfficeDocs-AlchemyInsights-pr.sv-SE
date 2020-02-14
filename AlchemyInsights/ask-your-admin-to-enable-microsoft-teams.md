@@ -12,17 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 0e96a1296193e33240aaed5947010d91b9351a51
-ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
+ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
+ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37328853"
+ms.lasthandoff: 02/13/2020
+ms.locfileid: "41962315"
 ---
 # <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Du missar! Be administratören att aktivera Microsoft Teams
 
-Är fakultet och personal kan få tillgång till lag men eleverna kan inte, eller är din F1 licensierade användare inte kan komma åt team?
+Kan lärare och personal komma åt Teams men det går inte att komma åt deltagare eller har dina F1-licensierade användare inte tillgång till Teams?
 
-Team måste vara explicit aktiverat för studenter och F1-licenser. Anvisningar finns [i Office 365 student-och tjänstkonton kan inte logga in på Microsoft Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/office-365-accounts-cannot-sign-in). 
-
-Du hittar mer detaljerade instruktioner om hur du aktiverar team för din skola i [Konfigurera team för utbildning](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
+Team måste uttryckligen aktiveras för deltagare och F1-licenser. Du hittar mer detaljerade instruktioner om hur du aktiverar Teams för din skola i [Konfigurera team för utbildning](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
