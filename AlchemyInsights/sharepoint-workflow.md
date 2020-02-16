@@ -1,5 +1,5 @@
 ---
-title: Kom igång med SharePoint Online
+title: Felsöka arbetsflöden i SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,25 +14,19 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 7f8879360d90c30d5986831f6a537b1471eb8b6a
+ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770477"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42056152"
 ---
-# <a name="workflows-in-sharepoint"></a>Arbetsflöden i SharePoint
+# <a name="troubleshoot-workflows-in-sharepoint"></a>Felsöka arbetsflöden i SharePoint
 
-SharePoint-arbetsflöden är förprogrammerade appar som effektiviserar en mängd olika affärsprocesser. Se länkarna nedan för mer info.
+## <a name="troubleshoot-and-debug-workflows-in-sharepoint"></a>Felsöka och felsöka arbetsflöden i SharePoint
 
-## <a name="getting-started"></a>Komma igång
+Se [Felsöka valideringsfel för SharePoint-arbetsflöden](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) och [felsöka SharePoint-arbetsflöden](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
-Om du precis har börjat med SharePoint-arbetsflöden läser du [Introduktion till SharePoint-arbetsflöden](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+## <a name="power-automate"></a>Power Automate
 
-## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>Felsöka och felsöka ett SharePoint-arbetsflöde
-
-Se [Felsöka valideringsfel i SharePoint-arbetsflöde](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) och [Felsökning av SharePoint-arbetsflöden](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-
-## <a name="power-automate"></a>Power Automatisera
-
-Överväg att använda [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) i stället för de klassiska SharePoint-arbetsflödeslösningarna.
+Om du precis har börjat med arbetsflöden kan du överväga att använda [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) i stället för de klassiska SharePoint-arbetsflödeslösningarna.
