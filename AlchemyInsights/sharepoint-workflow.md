@@ -14,19 +14,19 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 7f8879360d90c30d5986831f6a537b1471eb8b6a
-ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
+ms.openlocfilehash: 16ca9e18db31ddc2418c629e34f47f4ea0784feb
+ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42056152"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42162994"
 ---
 # <a name="troubleshoot-workflows-in-sharepoint"></a>Felsöka arbetsflöden i SharePoint
 
-## <a name="troubleshoot-and-debug-workflows-in-sharepoint"></a>Felsöka och felsöka arbetsflöden i SharePoint
+**Felsöka och felsöka arbetsflöden i SharePoint**
 
 Se [Felsöka valideringsfel för SharePoint-arbetsflöden](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) och [felsöka SharePoint-arbetsflöden](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
-## <a name="power-automate"></a>Power Automate
+**Power Automate**
 
 Om du precis har börjat med arbetsflöden kan du överväga att använda [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) i stället för de klassiska SharePoint-arbetsflödeslösningarna.
