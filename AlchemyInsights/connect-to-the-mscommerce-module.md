@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: 95721f9bb554dcf1c45c1e444b59ec431a7e27b2
-ms.sourcegitcommit: 9db3be25d088b8d4b2d476aeace79e653ca0a421
+ms.openlocfilehash: 0589f698958d4e26bba92f4feca455cf2fd7ecb5
+ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/17/2020
-ms.locfileid: "42093639"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42158651"
 ---
 # <a name="connect-to-the-mscommerce-module"></a>Ansluta till MSCommerce-modulen
 
@@ -24,7 +24,7 @@ Du måste vara ansluten till MSCommerce-modulen innan du kan visa eller ange pol
 
 Om du vill ansluta till MSCommerce-modulen anger\)du följande kommando vid PowerShell-prompten (PS C::
 
-    Connect-MSCommerce
+`Connect-MSCommerce`
 
 Då öppnas en inloggningsdialogruta. Ange ditt användarnamn och lösenord för att logga in.
 
