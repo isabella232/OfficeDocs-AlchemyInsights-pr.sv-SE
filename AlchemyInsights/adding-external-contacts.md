@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000007"
 - "1430"
-ms.openlocfilehash: 90c33249ee17ff65ece33d38f4722d57f214939c
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: a1c4f18633765c4990d2c0866a28f100555862e4
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305384"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42264998"
 ---
 # <a name="enable-external-communications-and-add-contacts"></a>Aktivera extern kommunikation och lägga till kontakter
 
-I Skype för företag kan du lägga till personer i din kontaktlista så att de bara är ett klick bort. Varje kontakt som du lägger till tilldelas medlemskap i en eller flera kontaktgrupper. Granska [Lägg till en kontakt i för Skype för företag](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) för mer information. 
+I Skype för företag kan du lägga till personer i din kontaktlista så att de bara blir ett klick bort. Varje kontakt som du lägger till tilldelas medlemskap i en eller flera kontaktgrupper. Läs [Lägg till en kontakt i Skype för företag](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) för mer information. 
 
-Kontrollera att din innehavaradministration har följt stegen för att [tillåta extern kommunikation](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
+Kontrollera att klientadministratören har följt stegen för att [tillåta extern kommunikation](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
 
-Vill du bara att användarna ska kunna kontakta Skype-konsumentanvändare? Se [Låt Skype för företag-användare lägga till Skype-kontakter](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
+Vill du bara göra det möjligt för användarna att kontakta Skypes konsumentanvändare? Se [Låt Skype för företag-användare lägga till Skype-kontakter](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 

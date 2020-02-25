@@ -12,19 +12,24 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: e8eefb9c0f01ad42f725f178fa23b15850364a44
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 46da02a7a2ae1be92698f376be404a76bd4f23e6
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305174"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265106"
 ---
 # <a name="allow-external-communications-with-skype-for-business"></a>Tillåt extern kommunikation med Skype för företag 
 
-Vill du tillåta att dina Skype för företag-användare kontaktar användare utanför organisationen? 
+Vill du tillåta att skype för företag-användare kontaktar användare utanför organisationen? Se [Tillåt användare att kontakta externa Skype för företag-användare](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
 
-[Låt användare kontakta externa Skype för företag-användare](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
+DNS-posterna måste ställas in korrekt för att extern kommunikation ska fungera korrekt. Kolla [här](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) för att se om vi har specifika instruktioner om hur du ställer in DNS-poster med din leverantör. 
 
-DNS-posterna måste vara korrekt inställda för att extern kommunikation ska fungera korrekt. Kolla [här](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) för att se om vi har specifika instruktioner om hur du ställer in DNS-poster hos din leverantör. 
+Vill du bara göra det möjligt för skype för företag-användare att kontakta Skype-konsumentanvändare? Se:
 
-Om du vill att dina team-användare ska kunna kontakta användare utanför organisationen (inklusive Skype för företag-användare) kan du granska [Hantera extern åtkomst i Microsoft Teams](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people). 
+- [Låt Skype för företag-användare lägga till Skype-kontakter](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
+
+- [Lägg till en kontakt i Skype för företag](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).
+
+
+Om du vill att dina teams-användare ska kunna kontakta användare utanför organisationen (inklusive Skype för företag-användare) läser du [Hantera extern åtkomst i Microsoft Teams](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people). 

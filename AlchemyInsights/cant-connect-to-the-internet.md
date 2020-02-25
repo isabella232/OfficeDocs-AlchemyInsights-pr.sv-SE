@@ -11,39 +11,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 222e4b1d282d9d75f08fa2739c13eb7a0ec072c9
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: c28ab39b88b4f088fb4c6e76450f79b16e1976ad
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627972"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265070"
 ---
-# <a name="fix-network-connection-issues"></a>Åtgärda problem med nätverksanslutningen
+# <a name="fix-network-connection"></a>Åtgärda nätverksanslutning
 
-Du kan lösa problem med nätverksanslutningen genom att först köra felsökaren för nätverk. 
+Om du vill lösa problem med nätverksanslutningen provar du först att köra felsökaren för nätverket. 
 
-Skriv **felsökaren för nätverk**i sökrutan i Aktivitetsfältet och välj sedan **identifiera och reparera nätverksproblem**.
+1. [Öppna felsöksinställningarna](ms-settings:troubleshoot).
 
-**Anmärkning:** Om du behöver hjälp med att ansluta till Internet med en dator som kör Windows 7 eller Windows 8,1, se [åtgärda problem med nätverksanslutning i Windows](https://support.microsoft.com/help/15287) 
+2. Välj **Kör felsökaren**under **Internet-anslutningar.**
 
-Om du använder en trådlös anslutning (Wi-Fi) kontrollerar du att Wi-Fi är aktiverat för enheten (inklusive alla fysiska Wi-Fi-växlar) och att flygplansläget inte är aktiverat.
+Om du använder en Wi-Fi-anslutning kontrollerar du att Wi-Fi är aktiverat för enheten (inklusive en fysisk Wi-Fi-switch) och att flygplansläget inte är aktiverat.
 
-Om du använder en kabelansluten anslutning (Ethernet) kontrollerar du att kabeln är ordentligt ansluten till datorn och routern eller modemet.
+Om du använder en Ethernet-anslutning kontrollerar du att kabeln är ordentligt ansluten till datorn och routern eller modemet.
 
-Om det inte fungerar provar du att starta om datorn, modemet och routern (om du har en sådan):
+Om det inte fungerar kan du prova att starta om datorn, modemet och routern (om du har en):
 
-1. Koppla bort strömmen från modemet och routern. Om modemet har en batteribackup, måste du ta bort batteriet för att helt stänga av strömmen.
-2. Vänta i cirka 30 sekunder. Om du har avlägsnat batteriet från modemet sätter du tillbaka det.
-3. Koppla in strömsladden för modemet och routern.
-4. Starta om datorn medan du väntar tills modemet och routern är helt påkopplat. Välj **Starta** > **** > **omstart**av strömmen. (Se till att du väljer **starta om**, inte **stänga av**.)
+1. Koppla från strömmen från modemet och routern. Om modemet har en batteribackup måste du ta bort batteriet för att helt stänga av strömmen.
+
+2. Vänta i 30 sekunder. Om du tog bort batteriet från modemet lägger du in det igen.
+
+3. Anslut strömkabeln till modemet och routern.
+
+4. Medan du väntar på att modemet och routern ska vara helt påslagning startar du om datorn: **Starta** > **omstart av****strömmen** > .
 
 **Avancerad felsökning**
 
-Mer avancerade felsökningssteg finns [i åtgärda problem med nätverksanslutning i Windows 10](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). Den här artikeln innehåller mer teknisk information om hur du åtgärdar din Internet anslutning, till exempel:
+Mer avancerade felsökningssteg finns [i Åtgärda problem med Wi-Fi-anslutning i Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
 
-- Använda Kommandotolken för att köra nätverkskommandon
-- Uppdatera nätverkskortets drivrutin
-- Kontrollera om brandväggen eller antivirusprogrammet stör din Internet anslutning
-- Använda nätverksåterställning för att installera om nätverksenheter
-
-**Anmärkning:** Om du inte känner dig bekväm med de mer tekniska felsökningsstegen kan du prata med en person om du vill ha mer hjälp genom att välja knappen **kontakta oss** .
+Om du inte är bekväm med de mer tekniska felsökningsstegen [kontaktar du oss](https://support.microsoft.com/contactus).

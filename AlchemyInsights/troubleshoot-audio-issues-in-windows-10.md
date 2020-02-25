@@ -11,53 +11,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 46b23f97c2e682258224dc95e7a76b1201991828
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: f51fd233db5ae068e719f1cf3bc94a0dac82444f
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796411"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265034"
 ---
-# <a name="troubleshooting-audio-problems-in-windows-10"></a>Felsöka ljudproblem i Windows 10
+# <a name="troubleshooting-audio-issues-in-windows-10"></a>Felsökning av ljudproblem i Windows 10
 
 **Kör felsökaren för ljud**
 
-Ljudfelsökaren kanske kan åtgärda ljudproblemen automatiskt: 
+1.  Öppna [felsöksinställningarna](ms-settings:troubleshoot).
 
-1. Välj **Start**, Skriv **Felsök**och välj sedan **Felsök** i listan med resultat. 
-2. Välj **spela upp ljud** > **Kör felsökaren**.
+2.  Välj **Spela upp ljud** > **Kör felsökaren**.
+
+**Ange standardenheten**
+
+Om du ansluter till en ljudenhet med USB eller HDMI kan du behöva ställa in enheten som standard:
+
+1. Öppna **Startljud** > **** och välj sedan **Ljud-** eller **ändringssystemljud** från resultatlistan.
+
+2.  Välj en enhet på fliken Uppspelning **** på fliken **Uppspelning** och välj sedan **OK**.
 
 **Kontrollera kablar, volym, högtalare och hörlurar**
 
-- Kontrollera högtalar-och hörlurs anslutningarna för lösa kablar och kontrollera att de är anslutna till rätt uttag.
-- Kontrollera ström-och volymnivåerna och försök att vrida alla volymkontrollerna uppåt.
-- Vissa högtalare och appar har egna volymkontroller, och du kan behöva kontrollera dem alla för att se till att de är på rätt nivå.
-- Prova att ansluta med en annan USB-port.
-- **Anmärkning:** Kom ihåg att högtalarna kanske inte fungerar när hörlurarna är anslutna.
+1. Kontrollera att högtalaren och hörlursanslutningarna är anslutna till rätt uttag.
+
+2. Kontrollera dina effekt- och volymnivåer och försök att vrida upp alla volymkontroller.
+
+3. Vissa högtalare och appar har sina egna volymkontroller. Du kanske måste kontrollera dem alla för att se till att de är på rätt nivåer.
+
+4. Prova att ansluta med en annan USB-port.
+
+**Kom ihåg**att högtalarna kanske inte fungerar när hörlurar är anslutna.
 
 **Kontrollera Enhetshanteraren**
 
 Så här kontrollerar du att drivrutinerna är uppdaterade:
 
-- Välj **Start**, Skriv **Enhetshanteraren**och välj sedan **Enhetshanteraren** i listan med resultat.
+1. Välj **Start,** skriv **Enhetshanteraren**och välj sedan **Enhetshanteraren** i resultatlistan.
 
-2. Under **ljud-, video-och spelenheter**väljer du ljudkortet, öppnar det, väljer fliken **drivrutin** och väljer **Uppdatera drivrutin**. 
+2. Under **Ljud-, video- och spelkontroller**väljer du ljudkortet, öppnar det, väljer fliken **Drivrutin** och väljer **Uppdatera drivrutinen**.
 
-**Anmärkning:** Om Windows inte hittar en ny drivrutin letar du efter en på enhetstillverkarens webbplats och följer deras instruktioner.
+**Om**Windows inte hittar en ny drivrutin letar du efter en på enhetstillverkarens webbplats och följer deras instruktioner.
 
 **Installera om drivrutinen**
 
-Om du inte kan uppdatera via Enhetshanteraren eller hitta en ny drivrutin på tillverkarens webbplats provar du dessa steg: 
+Om du inte kan uppdatera via Enhetshanteraren eller hitta en ny drivrutin på tillverkarens webbplats kan du prova följande:
 
-1. Högerklicka på (eller håll ned) ljuddrivrutinen i Enhetshanteraren och välj **Avinstallera**. Starta om enheten så försöker Windows att installera om drivrutinen.
+1. Högerklicka (eller håll ned) ljuddrivrutinen i Enhetshanteraren och välj **Avinstallera**. Starta om enheten och Windows försöker installera om drivrutinen.
 
-2. Om ominstallation av drivrutinen inte fungerar provar du att använda den generiska ljuddrivrutinen som medföljer Windows. I Enhetshanteraren, högerklicka (eller tryck och håll) ljuddrivrutinen > **Uppdatera drivrutinsprogramvara** > **Bläddra min dator för drivrutinsprogramvara** > **Låt mig välja från en lista över drivrutiner på min dator**, Välj **High Definition ljudenhet**, Välj **Nästa**, och följ instruktionerna för att installera den.
-
-**Ställa in standardenhet**
-
-Om du ansluter till en ljudenhet med USB eller HDMI kan du behöva ställa in den enheten som standard: 
-
-1. Välj **Start**, Skriv **ljud**och välj sedan **ljud** eller **ändra systemljud** i listan med resultat.
-
-2. Välj en enhet på fliken **uppspelning** , Välj **standard**och välj sedan **OK**.
-
+2. Om omduinstallerar drivrutinen inte fungerar kan du prova att använda den generiska ljuddrivrutinen som medföljer Windows. Högerklicka (eller håll ned) ljuddrivrutinen > **Uppdatera drivrutinsprogramvaran** > **Bläddra i datorn för drivrutinsprogram** > Låt mig välja från en lista över drivrutiner på**datorn,** välj **Hd-ljudenhet**, välj **Nästa**och följ instruktionerna för att installera den.
