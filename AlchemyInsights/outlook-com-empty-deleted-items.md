@@ -3,6 +3,7 @@ title: Töm mappen Borttaget i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768710"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277949"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Töm mappen Borttaget
 
-Till rensa all din utplånat utsikten meddelandena, gå till din [utplånat artikeln broschyren](https://outlook.live.com/mail/deleteditems) och välja **tom broschyren**, då välja **återvinna artikeln utplånat från här broschyren** över meddelande ta upp på en lista och välja **tom broschyren** igen.
+1. Öppna mappen Borttaget och välj **Tom mapp**.
+2. Välj **Återställningsbara objekt** högst upp på sidan och välj **Tom mapp** igen.
 
-Om du har tagit bort många meddelanden kan det ta en stund innan objekten flyttas till eller rensas från mappen Borttaget. Lämna webbläsarfönstret öppet tills objekten raderas.
+**Det går inte att tömma mappen Borttaget**
 
-Om meddelanden inte tas bort på rätt sätt kan du försöka ta bort ett mindre antal meddelanden.
+- Om du har tagit bort en hel del e-post kan det ta lite tid innan dessa objekt flyttas till eller tas bort från mappen Borttaget. Lämna webbläsarfönstret öppet medan borttagningen sker.
+- Om e-postmeddelandet fortfarande inte tar bort korrekt markerar du en mindre batch som ska tas bort.
+- Om borttagen e-post kommer tillbaka kan det bero på att du har tagit bort en hel del e-post nyligen. Försök igen senare.
