@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 3858a2cd2955f279aff77440abbd5e4642871bb8
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: dbd1cd9db4830278703a2dfb8d0541e9f706a326
+ms.sourcegitcommit: dc3f616893e02c72e8cdf4700b1c49ccfa12a975
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279051"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42365186"
 ---
 # <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Använd Snip & Skiss för att fånga, märka upp och dela bilder
 
@@ -27,9 +27,12 @@ Skärmskiss kallas nu **Snip & Sketch**. **För att snabbt ta ett klipp:**
 2. Välj en punkt vid kanten av det område som du vill kopiera och vänsterklicka på markören. 
 
 3. Flytta markören för att markera det område som du vill fånga. Området du fångar visas på skärmen.
+:::image type="content" source="media/snipone.png" alt-text="bild av markerat urval":::
 
 Bilden du snipped sparas på urklipp, redo för ingång i ett e-postmeddelande eller dokument. 
 
 **Om du vill redigera eller visa bilden:** 
 
 - Klicka på ikonen meddelanden längst till höger i Aktivitetsfältet. klicka sedan på bilden du just har fångat. Ditt klipp öppnas i appen Snip & Sketch.
+
+:::image type="content" source="media/sniptwo.png" alt-text="bildbild som visas i snipping app":::
