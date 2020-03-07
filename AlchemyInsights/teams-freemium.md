@@ -1,5 +1,5 @@
 ---
-title: Team Freemium
+title: Lag Freemium
 ms.author: heidip
 author: heidip
 ms.date: 3/6/2019
@@ -11,17 +11,19 @@ ms.custom:
 - "997"
 - "6500005"
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
-ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bac77a9b65dbcd57ee14a533e63ef95719356291
+ms.sourcegitcommit: 8a423159bb9bb8259357bbfa4ebc6e56a2c8ecb1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354023"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42556688"
 ---
-# <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Jag vill registrera dig för gratis team, men jag kan inte.
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Jag skulle vilja anmäla mig till Teams gratis
 
-- Om du använder ett Office 365 arbete eller skolan konto är det här kostnadsfria erbjudandet inte tillgänglig. Organisationen, men kanske redan använder team. Om inte, gå till [Microsoft-team](https://products.office.com/microsoft-teams/group-chat-software) är berättigad till en kostnadsfri testversion.
+Team är tillgängliga gratis genom ett par olika program. Eftersom du kontaktar supporten med den här begäran har du redan en befintlig Microsoft 365-klientorganisation, vilket innebär att du redan har Microsoft Teams.
 
-- Akademiska institutioner är inte berättigade till kostnadsfria erbjudandet. Lärare och elever, kan dock få en gratis version av Office 365, som innehåller en fullständig version av Microsoft-Teams. Se [Office 365 licensiering för Microsoft team](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+I de flesta fall är Teams aktiverat som standard för alla dina användare. När den är aktiverad kan användarna köra Teams, antingen genom att installera [stationära](https://office.visualstudio.com/MAX/_workitems/edit/desktop) och [mobila](https://office.visualstudio.com/MAX/_workitems/edit/desktop) klienter eller [från webbläsaren](https://docs.microsoft.com/en-us/MicrosoftTeams/get-clients#mobile-clients) på https://teams.microsoft.com.
 
-- Amerikanska statliga institutioner är inte berättigade till kostnadsfria erbjudandet. Om du vill veta mer om Office 365-planer för statliga organisationer (inklusive en provversion) kan du läsa [Office 365 licensiering för Microsoft team](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+Undantaget är Microsoft Teams for Education (EDU). Om du har en EDU-licens måste du aktivera Microsoft Teams manuellt. Det gör du genom att gå till **administrationscentret för Microsoft**365> Tjänster och tillägg > Microsoft Teams . Om du använder det nya administrationscentret för teams måste du inaktivera **Prova det nya administrationscentret** för att hitta **tjänster och tillägg.** VIKTIGT: Du kan behöva vänta upp till 24 timmar på att ändringarna ska börja gälla.
+
+Missa inte all vår vägledning för [att stödja fjärrarbetare med teams.](https://docs.microsoft.com/en-us/MicrosoftTeams/support-remote-work-with-teams)
