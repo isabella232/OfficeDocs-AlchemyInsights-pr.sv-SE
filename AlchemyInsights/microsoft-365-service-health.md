@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365-tjänstens hälsa
+title: Microsoft 365 Service Hälsa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: bd36391f0536b2fe951926eceab02e6411b54f3d
-ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
+ms.openlocfilehash: 14de391dd1f020e29beb4b432e288b46bee3dd9a
+ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42371708"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42558851"
 ---
-# <a name="microsoft-365-service-health"></a>Microsoft 365-tjänstens hälsa
+# <a name="microsoft-365-service-health"></a>Microsoft 365 Service Hälsa
 
 
-Kontrollera tjänstens hälsotillstånd för alla tjänster från instrumentpanelen för tjänsthälsa. Genom att välja **Det nya administrationscentret** längst upp till höger visas nya alternativ för servicehälsa.
+Kontrollera tjänstens hälsotillstånd för alla tjänster från instrumentpanelen för [tjänstens hälso- och sjukvård](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Genom att välja **Det nya administrationscentret** längst upp till höger visas nya alternativ för tjänstens hälsa.
 
-- Välj **Inställningar** för att ta emot **e-postmeddelanden**om tjänstens hälsa .
+- Välj **Inställningar** för att ta emot **e-postmeddelanden om tjänstens hälso- och sjukvård**.
 
 - Välj **Rapportera ett problem** om du har problem med tjänsten.
 
 - Välj **Historik** om du vill granska organisationens hälsohistorik för tjänsten. 
 
-Mer information finns i Så här kontrollerar du [Hälso- och sjukvården i Office 365](https://docs.microsoft.com/en-us/office365/enterprise/view-service-health). 
+Mer information finns i [Kontrollera office 365-tjänstens hälso- och sjukvård](https://docs.microsoft.com/en-us/office365/enterprise/view-service-health). 
