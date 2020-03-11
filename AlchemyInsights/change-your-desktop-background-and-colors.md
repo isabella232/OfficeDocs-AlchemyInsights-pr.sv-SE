@@ -11,15 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: d6baf8606dfca20c0fba1817b9531db915bdf7a8
-ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
+ms.openlocfilehash: 67a2b591c8556af1d5292d6480ed1ca27e384a6a
+ms.sourcegitcommit: 85c41ce0e11956e1865f8baec231cffa79d87ef4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42063762"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42581439"
 ---
 # <a name="change-your-desktop-background-and-colors"></a>Ändra skrivbordsbakgrund och färger
 
-Om du vill ändra färginställningen väljer du**Anpassa** > **** **färger för Startinställningar** > **** > och väljer sedan din egen färg eller låter Windows dra en accentfärg från bakgrunden.
+Om du vill ändra färginställningen går du**** > till**Anpassningsfärger** > för**** **startinställningar** > och väljer sedan din egen färg eller låter Windows dra en accentfärg från bakgrunden.
 
-Om du vill ändra skrivbordsbakgrunden väljer du**Anpassningsbakgrund** > **** för > **Startinställningar** > och väljer sedan en bild, enfärgad eller skapa ett bildspel med bilder. **** Vill du ha fler skrivbordsbakgrunder och färger? Besök [Microsoft Store](https://www.microsoft.com/en-us/store/collections/windowsthemes) för att välja mellan dussintals gratis teman.
+![Anpassa färgerna i Windows.](media/windows-personalization-colors.png)
+
+Om du vill ändra skrivbordsbakgrunden går du till**** > **Anpassningsbakgrund**för > **Startinställningar** > och väljer sedan en bild, enfärgad eller skapar ett bildspel med bilder. **** 
+
+![Ändra bakgrunden till skrivbordet i Windows.](media/windows-desktop-background.png)
+
+Vill du ha fler skrivbordsbakgrunder och färger? Besök [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) för att välja mellan dussintals kostnadsfria teman.

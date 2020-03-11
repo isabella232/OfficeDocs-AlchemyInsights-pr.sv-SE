@@ -1,5 +1,5 @@
 ---
-title: Använd Snip & Skiss för att fånga, märka upp och dela bilder
+title: Använd Snip & Sketch för att fånga, markera och dela bilder
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,28 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: dbd1cd9db4830278703a2dfb8d0541e9f706a326
-ms.sourcegitcommit: dc3f616893e02c72e8cdf4700b1c49ccfa12a975
+ms.openlocfilehash: 1aa8876dd56010f9b45c56c4bf7e8db9ca8539e6
+ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42365186"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42584495"
 ---
-# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Använd Snip & Skiss för att fånga, märka upp och dela bilder
+# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Använd Snip & Sketch för att fånga, markera och dela bilder
 
-Skärmskiss kallas nu **Snip & Sketch**. **För att snabbt ta ett klipp:**
+Skärmskiss kallas nu **Klipp & Sketch**. **För att snabbt ta ett klipp:**
 
-1. Tryck på **Windows-tangenten + Skift + S**. Skärmen mörknar och markören visas som ett kors. 
+1. Tryck på **Windows-tangenten + Skift + S**. Du ser skärmen mörkare och markören visas som ett kors. 
 
-2. Välj en punkt vid kanten av det område som du vill kopiera och vänsterklicka på markören. 
+2. Välj en punkt i kanten på det område som du vill kopiera och vänsterklicka på markören. 
 
 3. Flytta markören för att markera det område som du vill fånga. Området du fångar visas på skärmen.
-:::image type="content" source="media/snipone.png" alt-text="bild av markerat urval":::
 
-Bilden du snipped sparas på urklipp, redo för ingång i ett e-postmeddelande eller dokument. 
+   ![bild av markerad markering](media/snipone.png)
+
+Bilden du snappade sparas i urklipp, redo för klistra in i ett e-postmeddelande eller dokument. 
 
 **Om du vill redigera eller visa bilden:** 
 
-- Klicka på ikonen meddelanden längst till höger i Aktivitetsfältet. klicka sedan på bilden du just har fångat. Ditt klipp öppnas i appen Snip & Sketch.
+- Klicka på meddelandeikonen längst till höger i Aktivitetsfältet. klicka sedan på den bild du just har fångat. Ditt klipp öppnas i appen Snip & Sketch.
 
-:::image type="content" source="media/sniptwo.png" alt-text="bildbild som visas i snipping app":::
+   ![bild av bild som visas i snipping-appen](media/sniptwo.png)
