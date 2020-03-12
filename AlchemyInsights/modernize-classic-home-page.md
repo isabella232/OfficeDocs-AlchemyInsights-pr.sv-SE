@@ -11,23 +11,23 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: 92da79ff6f5fe3bdb7810abae35482c8ecfc5efe
-ms.sourcegitcommit: 3da9d729256b978a95034fcf64b868fcc0e8012b
+ms.openlocfilehash: e727f40b725cefa8a09c15fe2d65ab3307d4e3e1
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42322772"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600582"
 ---
 # <a name="modernize-the-classic-home-page"></a>Modernisera den klassiska hemsidan
 
-En nyligen uppdaterad till de klassiska Startsidorna för SharePoint-teamet påverkar startsidan för klassiska gruppwebbplatser (STS#0) när en startsida bara innehåller *standardwebbdelar* som att komma igång, dokumentbibliotek och nyhetsfeed.
+En nyligen genomförd uppdatering av de klassiska startsidorna för SharePoint-teamets webbplats påverkar startsidan för klassiska teamwebbplatser (STS#0) när en startsida bara innehåller *färdiga webbdelar* som att komma igång, dokumentbibliotek och nyhetsfeed.
 
-Visa en genomgång av ändringen [här](https://docs.microsoft.com/en-us/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
+Se en genomgång av förändringen [här](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
 
-**Klassiska gruppwebbplatser som innehåller anpassat innehåll uppdateras inte automatiskt.**
+**Klassiska teamwebbplatser som innehåller anpassat innehåll uppdateras inte automatiskt.**
 
-* Läs mer om uppdateringskriterier vid [klassisk modernisering på startsidan](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern).
+* Läs mer om uppdateringskriterier på [Classic sã¤nssida.](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern)
 
 * [Uppgradera andra hemsidor som inte ingick i den automatiska moderniseringen](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages).
 
-* Inaktivera den här uppgraderingen på specifika platser med hjälp av en [PnP-cmdlet (SharePoint Patterns and Practices)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets).
+* Inaktivera den här uppgraderingen på specifika webbplatser med en [PnP-cmdlet (SharePoint Patterns and Practices).](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)

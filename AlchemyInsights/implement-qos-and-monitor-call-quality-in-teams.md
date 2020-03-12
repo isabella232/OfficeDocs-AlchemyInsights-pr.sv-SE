@@ -1,5 +1,5 @@
 ---
-title: Implementera QoS och övervaka samtalskvaliteten i Team
+title: Implementera QoS och övervaka samtalskvaliteten i Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: 07df61fdc78cc66bff530b85239f10c4a7cde498
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: ce053dc513ab8aadfad13ce3c0bb812a844e6f92
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42164215"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600006"
 ---
-# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Implementera QoS och övervaka samtalskvaliteten i Team
+# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Implementera QoS och övervaka samtalskvaliteten i Teams
 
-Samtalsanalys och instrumentpanelen för samtalskvalitet kan användas för att felsöka problem med samtalskvaliteten i Microsoft Teams. Mer information om kvaliteten på tjänsten (QoS), Samtalsanalys och instrumentpanelen för samtalskvalitet (CQD) finns i [Implementera QoS och Övervaka samtalskvalitet i Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/monitor-call-quality-qos). 
+Call Analytics och instrumentpanelen för samtalskvalitet kan användas för att felsöka problem med samtalskvaliteten i Microsoft Teams. Mer information om QoS(Quality of Service), Call Analytics och CQD (Call Quality Dashboard) finns i [Implementera QoS- och monitorsamtalskvalitet i Microsoft Teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos). 

@@ -1,5 +1,5 @@
 ---
-title: Office 365 Video övergång till Microsoft Stream
+title: Övergången till Office 365 Video till Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001508"
 - "3568"
-ms.openlocfilehash: aaade66b49eb79326df778da08d2b59bb1b46b18
-ms.sourcegitcommit: b38a2b27006f63dc57b8b15d4d49ee442a6959ef
+ms.openlocfilehash: 9f338a2e222789adb757f38c77f65ab2e2c9b76c
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42179402"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600078"
 ---
-# <a name="office-365-video-transition-to-microsoft-stream"></a>Office 365 Video övergång till Microsoft Stream
+# <a name="office-365-video-transition-to-microsoft-stream"></a>Övergången till Office 365 Video till Microsoft Stream
 
 Detaljerad information om migrering från Office 365 Video till Microsoft Stream finns i:
 
-- [Migreringsöversikt](https://docs.microsoft.com/en-us/stream/migrate-from-office-365)
-- [Migrationsdetaljer](https://docs.microsoft.com/en-us/stream/migration-experience)
-- [Tidsinställning för migrering](https://docs.microsoft.com/en-us/stream/migration-o365video-timing-setting)
-- [Förberedelseskript vid migrering](https://docs.microsoft.com/en-us/stream/migration-o365video-prep)
+- [Migreringsöversikt](https://docs.microsoft.com/stream/migrate-from-office-365)
+- [Migrationsdetaljer](https://docs.microsoft.com/stream/migration-experience)
+- [Tidsinställning för migrering](https://docs.microsoft.com/stream/migration-o365video-timing-setting)
+- [Förberedelseskript vid migrering](https://docs.microsoft.com/stream/migration-o365video-prep)
