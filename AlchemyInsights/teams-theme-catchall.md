@@ -1,40 +1,49 @@
 ---
-title: Lag tema catchall
+title: Teams tema fånga allt
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: b5394249037e1ccfffa42206940369040eec273a
-ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
-ms.translationtype: MT
+ms.openlocfilehash: 02dacb9a6126d99c1c95637212d94c3266b230d6
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42371540"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707497"
 ---
-# <a name="teams-common-issues-and-resolutions"></a>Team gemensamma frågor och resolutioner
+# <a name="teams-common-issues-and-resolutions"></a>Vanliga problem och lösningar för Teams
 
-För ett mer specifikt svar om ett Microsoft Teams-problem, omformulera rã¤nsten kortfattat till och inkludera eventuella fel som du ser eller funktioner som du använder.
+Om du vill ha mer information kan du prova att formulera om frågan så att den innehåller fel som du kan se eller vilka Teams-funktioner du använder.
 
-Om du behöver hjälp med att stödja fjärrarbetare (WFH) med teams kan du granska [Support-fjärrarbetare med hjälp av Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
+Om du behöver hjälp med att distribuera Teams för att stödja distansarbete(WFH) på grund av COVID-19 kan du granska [Stödja fjärrarbetarna med Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). Du kan också vara berättigad till distributionsassistans från Microsoft 365 FastTrack-programmet. besök [Center för FastTrack](https://www.microsoft.com/fasttrack) för att skicka en begäran.
 
-Här är några ytterligare resurser:
+För alla teams kunder:
 
-- **Aktivera teams gäståtkomst:** Granska [checklistan Teams gäståtkomst](https://docs.microsoft.com/microsoftteams/guest-access-checklist) och se till att alla steg har slutförts.
-- **Felsöka team inloggning:** Kontrollera först att [Tjänsten Microsoft Teams är felfri](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Kontrollera sedan om det finns några vanliga felkoder och granska [Varför har jag problem med att logga in på Microsoft Teams?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)  Du kan också behöva granska [identitetsmodeller och autentisering i Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication).
-- **Återställa ett borttaget team eller en kanal:** 
-    - Se [Återställa ett borttaget team i Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/).
-    - Borttagna kanaler i ett team kan återställas i upp till 21 dagar efter att kanalen har tagits bort. 
-    - Information om hur du återställer en borttagen kanal finns i [Arkivera eller återställa ett team](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7).
-- **Återställa borttagna filer:** Se [Återställa borttagna filer i Teams](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e).
-- **Felsöka en saknad knappsats:**  
-    - Kontrollera att användaren har tilldelats en [teams-licens](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
-    - Kontrollera att användaren har tilldelat en [samtalsplan.](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)
-    - Aktivera användare för [Företagsröst](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
-- **Kända problem med teams:** Läs [kända problem för Microsoft Teams](https://docs.microsoft.com/microsoftteams/known-issues).
+- **Ny till Teams?** Se [Komma igång med Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
+
+- **Aktivera gäståtkomst i Teams:** Granska [Teams checklista för gäståtkomst](https://docs.microsoft.com/microsoftteams/guest-access-checklist) och se till att alla steg har slutförts.
+
+- **[Konfigurera ljudkonferenser för Teams](https://docs.microsoft.com/alchemyinsights/how-do-i-set-up-audio-conferencing-for-teams)**
+
+- **Felsöka en knappsats som saknas:**  
+
+    - Kontrollera att användaren har tilldelats en [Teams-licens](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
+
+    - Kontrollera att användaren har en [Samtalsplan](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) tilldelad.
+
+    - Aktivera användarna för [Enterprise Voice](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
+
+- **Felsöka inloggning i Teams:** Börja med att kontrollera att [Microsoft Teams-tjänsten är frisk](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Leta sedan efter vanliga felkoder och granska [Varför kan jag ha problem med att logga in på Microsoft Teams?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)  Du kan också behöva granska [identitetsmodeller och autentisering i Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication).
+
+**För utbildningskunder:**
+
+Om användarna ser meddelandet "Du missar detta!" Se till att du [Aktiverar Microsoft Teams för skolan](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams). I EDU-klientorganisationer är Microsoft Teams inte aktiverat som standard. Du måste aktivera den först.
+
+Gå sedan till [Utbildning och inlärning på distans i Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) för att få tillgång till de senaste anvisningarna för att konfigurera skolan, lektionsplanering, virtuella möten och dela innehåll med elever. 
