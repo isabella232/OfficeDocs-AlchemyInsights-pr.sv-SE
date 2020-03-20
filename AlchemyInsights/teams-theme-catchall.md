@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: c7f7e14b17b51b916b7acb4a485eaed07f5be53b
-ms.sourcegitcommit: 45b50760c00b5639b7199cb3812e44404ba04695
+ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
+ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/18/2020
-ms.locfileid: "42745022"
+ms.lasthandoff: 03/19/2020
+ms.locfileid: "42856485"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Vanliga problem och lösningar för Teams
 
@@ -36,11 +36,11 @@ För alla teams kunder:
 
     Kontrollera att användaren har en licens för ljudkonferenser och har ett avgiftsbelagt standardtelefonnummer:
     1.    Gå till Aktiva användare och markera den aktuella användaren.
-    2.    Beroende på version av administratörscenter väljer du antingen Licenser och appar eller klickar Redigera på Produktlicenser.
+    2.    Beroende på version av administratörscenter väljer du antingen **Licenser och appar** eller klickar **Redigera** på **Produktlicenser**.
     3.    Bekräfta att användaren har licenser valda för Ljudkonferens, Microsoft Teams och Skype för företag Online (abonnemang 2).
-    4.    Användarens Administratörscenter, klicka på Visa alla och sedan Teams.
-    5.    I administrationscentret för Microsoft Teams klickar du på Äldre portal.
-    6.    I administrationscentret för Skype för företag klickar du på Ljudkonferens och sedan Användare.
+    4.    Användarens Administratörscenter, klicka på **Visa alla** och sedan **Teams**.
+    5.    I administrationscentret för Microsoft Teams klickar du på **Äldre portal**.
+    6.    I administrationscentret för Skype för företag klickar du på **Ljudkonferens** och sedan **Användare**.
     7.    Välj användaren i fråga och kontrollera att användaren har ett Avgiftsbelagt standardnummer.
     
     För mer information i [Samtalsabonnemang för Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) eller ring Microsoft Commerce Billing-teamet för att få hjälp med licensrelaterade frågor.
