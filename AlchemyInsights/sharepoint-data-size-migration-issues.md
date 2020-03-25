@@ -1,5 +1,5 @@
 ---
-title: Problem vid migrering av data till SharePoint Online
+title: Problem när du migrerar data till SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b53a98480bab48497274c7358f7e606caa477f5a
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051767"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931712"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problem vid migrering av data till SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problem när du migrerar data till SharePoint Online
 
-Det verkar som om du migrerar över 100TB data till SharePoint Online. Följ stegen nedan så att vi kan hjälpa dig så snart som möjligt. 
+**Viktigt:** Många SharePoint Online- och OneDrive-kunder kör affärskritiska program mot tjänsten som körs i bakgrunden. Dessa inkluderar innehållsmigrering, DLP (Data Loss Prevention) och säkerhetskopieringslösningar. Under dessa exempellösa tider vidtar vi åtgärder för att se till att SharePoint Online- och OneDrive-tjänster förblir mycket tillgängliga och tillförlitliga för dina användare som är mer beroende av tjänsten i fjärrarbete.
 
-1. Välj **ny tjänstbegäran**och sedan **ny tjänstbegäran**. 
-2. Lämna titeln och beskrivningen som **SharePoint-migrering över 100TB**.
+Till stöd för detta mål har vi implementerat strängare begränsningsgränser för bakgrundsappar (migrering, DLP och säkerhetskopieringslösningar) under dagtid. Du bör förvänta dig att dessa appar kommer att uppnå mycket begränsad dataflöde under dessa tider. Under kvälls- och helgtimmar för regionen kommer tjänsten dock att vara redo att behandla en betydligt högre mängd förfrågningar från bakgrundsappar.
+
+**Migrera över 100 TB data**
+
+Det verkar som om du migrerar över 100 TB data till SharePoint Online. Följ stegen nedan så att vi kan hjälpa dig så snart som möjligt. 
+
+1. Välj **Ny tjänstbegäran**och sedan **ny servicebegäran**. 
+2. Lämna rubriken och beskrivningen som **SharePoint-migrering över 100 TB**.
 3. När biljetten har skickats, vänligen uppdatera den med följande information: 
 
-    - Uppskattad storlek på migreringen.
+    - Uppskattad storlek på din migrering.
     - En uppskattning av när du vill starta och slutföra migreringen.
-    - Beskriv var du migrerar ditt innehåll från, till exempel SharePoint Server, Box, GDrive, filresurser, etc..
+    - Beskriv var du migrerar ditt innehåll från, till exempel SharePoint Server, Box, GDrive, Filresurser osv..
 
 
   

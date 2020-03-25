@@ -8,22 +8,32 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: ed3598dc92a7c36c9c9b077db0ab31f63537ef60
-ms.sourcegitcommit: 14894a09db1c4101e48ff720d878d1c9f7b1dac8
+ms.custom:
+- "9000149"
+- "1662"
+- "3491"
+ms.openlocfilehash: 59104ef96c95de4e4bc7744825245bdafba97d7c
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/16/2019
-ms.locfileid: "40065576"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931244"
 ---
 # <a name="sharepoint-online-throttling"></a>Begränsning av SharePoint Online
 
-Användare kan få en 503 Server är upptagen fel när du försöker navigera till SharePoint eller OneDrive webbplatser. 
+**Viktigt:** Många SharePoint Online- och OneDrive-kunder kör affärskritiska program mot tjänsten som körs i bakgrunden. Dessa inkluderar innehållsmigrering, DLP (Data Loss Prevention) och säkerhetskopieringslösningar. Under dessa exempellösa tider vidtar vi åtgärder för att se till att SharePoint Online- och OneDrive-tjänster förblir mycket tillgängliga och tillförlitliga för dina användare som är mer beroende av tjänsten i fjärrarbete.
 
-Det här felet kan orsakas av begränsning i SharePoint-tjänsten. SharePoint Online använder begränsning för att bibehålla optimala prestanda och tillförlitlighet för SharePoint Online-tjänsten. Begränsning begränsar antalet användaråtgärder eller samtidiga anrop (med skript eller kod) för att förhindra överanvändning av resurser. 
+Till stöd för detta mål har vi implementerat strängare begränsningsgränser för bakgrundsappar (migrering, DLP och säkerhetskopieringslösningar) under dagtid. Du bör förvänta dig att dessa appar kommer att uppnå mycket begränsad dataflöde under dessa tider. Under kvälls- och helgtimmar för regionen kommer tjänsten dock att vara redo att behandla en betydligt högre mängd förfrågningar från bakgrundsappar.
 
-Mer information om begränsning se, [undvika att få begränsas eller blockeras i SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+**503-servern är upptagen fel**
 
-Om du tror att det här felet inte är relaterat till begränsning, kan du kontrollera om det finns aktivt underhåll som inträffar på din klient genom att navigera till [meddelandecentret](https://portal.office.com/adminportal/home#/MessageCenter).
+Användare kan få ett 503-server är upptaget när de försöker navigera till SharePoint- eller OneDrive-webbplatser. 
 
- Slutligen, se till att du besöker sidan för [tjänstens hälsa](https://portal.office.com/adminportal/home#/servicehealth) för att kontrollera eventuella bulletiner/incidenter som kan inträffa.
+Det här felet kan orsakas av begränsning i SharePoint-tjänsten. SharePoint Online använder begränsning för att upprätthålla optimal prestanda och tillförlitlighet för SharePoint Online-tjänsten. Begränsning begränsar antalet användaråtgärder eller samtidiga anrop (med skript eller kod) för att förhindra överanvändning av resurser. 
+
+Mer information om begränsning finns i [Undvik att bli begränsad eller blockerad i SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+
+Om du tror att det här felet inte har något samband med begränsningen kan du kontrollera om det finns aktivt underhåll på din klient genom att navigera till [meddelandecentret](https://portal.office.com/adminportal/home#/MessageCenter).
+
+ Se slutligen till att du besöker sidan [Service Health](https://portal.office.com/adminportal/home#/servicehealth) för att kontrollera eventuella råd/incidenter som kan inträffa.
 
