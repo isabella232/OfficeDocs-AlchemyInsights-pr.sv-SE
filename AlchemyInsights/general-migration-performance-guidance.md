@@ -11,18 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 10a0069c41d2e5128b2592425d815364a83b730f
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932496"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958556"
 ---
 # <a name="general-migration-performance-guidance"></a>Allmän prestandavägledning för migrering
 
-**Viktigt**: många SharePoint Online- och OneDrive-kunder kör företagskritiska applikationer mot den tjänst som körs i bakgrunden. Här ingår lösningar för migrering av innehåll, DLP (skydd mot dataförlust) och säkerhetskopiering. Under dessa tider som saknar motstycke tar vi stegen för att se till att SharePoint Online- och OneDrive-tjänsterna är mycket tillgängliga och tillförlitliga för dina användare som är beroende av tjänsten mer än någonsin i scenarier med distansarbete.
-
-För att stödja det målet har vi genomfört strängare begränsningar för bakgrundsprogram (lösningar för migrering, DLP och säkerhetskopiering) under dagtid på veckodagar. Du bör förvänta dig att programmen kommer att uppnå mycket begränsad genomströmning under dessa tider. Under kvällstid och de dagar som anses som helger i regionen står tjänster redo att ta hand om avsevärt högre volymer med förfrågningar från bakgrundsprogram.
+**Viktigt**: under denna extraordinära tid vidtar vi åtgärder för att se till att SharePoint Online- och OneDrive-tjänsterna har hög tillgänglighet. Mer information finns i [temporära funktionsjusteringar för SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 **Prestandavägledning för migrering**
 
