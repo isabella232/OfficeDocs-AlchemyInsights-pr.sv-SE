@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856485"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030418"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Vanliga problem och lösningar för Teams
+
+**Viktigt**: På grund av den nyliga ökningen av Teams-användningen kan det ta cirka 24 timmar innan en användare är helt aktiverad efter det att du tilldelat en Teams-licens. Du kan inte tilldela Teams-principer till dem och de kanske inte har tillgång till vissa Teams-funktioner som samtal och ljudkonferenser förrän de aktiverats helt.
+
+**Vanliga problem och lösningar**
 
 Om du vill ha mer information kan du prova att formulera om frågan så att den innehåller fel som du kan se eller vilka Teams-funktioner du använder.
 
