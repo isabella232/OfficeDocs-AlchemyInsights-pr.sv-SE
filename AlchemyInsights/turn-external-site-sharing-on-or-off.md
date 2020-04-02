@@ -1,5 +1,5 @@
 ---
-title: Så här anpassar du behörigheter för en SharePoint-lista eller-bibliotek
+title: Anpassa behörigheter för en SharePoint-lista eller ett SharePoint-bibliotek
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: 1220bbbcdd1316585746b6f0ad9f95f24373cb6e
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 738e17393af628d5b19aa7e047a736f78615ff57
+ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922511"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43100345"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-site"></a>Aktivera eller inaktivera extern delning för en webbplats
 
-Du måste vara global eller SharePoint-administratör i Office 365 om du vill ändra inställningen för extern delning för en webbplats (kallades tidigare en "webbplatssamling"). Webbplatsägare får inte ändra den här inställningen. 
+Du måste vara global administratör eller SharePoint-administratör i Office 365 för att ändra inställningen för extern delning för en webbplats (tidigare kallad webbplatssamling). Webbplatsägare får inte ändra den här inställningen. 
 
 Mer information finns i [Aktivera eller inaktivera extern delning för en webbplats](https://docs.microsoft.com/sharepoint/change-external-sharing-site).
