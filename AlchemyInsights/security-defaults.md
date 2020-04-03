@@ -1,5 +1,5 @@
 ---
-title: Säkerhetsstandarder
+title: Standardvärden för säkerhet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: f4bdee85b9afb9f89d2382441106ddd82394c16e
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 47bba526630d1d8c27ef264e7ceefa3e17b274dc
+ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682311"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43118393"
 ---
-# <a name="security-defaults"></a>Säkerhetsstandarder
+# <a name="security-defaults"></a>Standardvärden för säkerhet
 
-Det kan vara svårt att hantera säkerheten när vanliga identitetsrelaterade attacker blir mer och mer populära. Dessa attacker inkluderar lösenord spray, Replay, och phishing.
+Information om standardvärden för säkerhet finns i [Vad är standardvärden för säkerhet?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 
-Säkerhetsstandarder i Azure Active Directory (Azure AD) gör det enklare att vara säker och skydda din organisation. Säkerhetsstandarder innehåller förkonfigurerade säkerhetsinställningar för vanliga angrepp.
+Standardvärden för säkerhet i Azure Active Directory (Azure AD) gör det enklare att vara säker och skydda din organisation. Standardinställningar för säkerhet innehåller förkonfigurerade säkerhetsinställningar för vanliga attacker.
 
-Microsoft gör säkerhetsstandarder tillgängliga för alla. Målet är att säkerställa att alla organisationer har en grundläggande säkerhetsnivå aktiverad utan extra kostnad. Du aktiverar säkerhetsstandarder i Azure Portal. Mer information om säkerhetsstandarder [finns i vad är säkerhetsstandarder?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+Microsoft gör säkerhetsstandarder tillgängliga för alla. Målet är att se till att alla organisationer har en grundläggande säkerhetsnivå aktiverad utan extra kostnad. Du aktiverar säkerhetsstandarder i Azure-portalen.
