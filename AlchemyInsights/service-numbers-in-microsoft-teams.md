@@ -10,17 +10,19 @@ ms.custom:
 - "9002256"
 - "4359"
 ms.assetid: ''
-ms.openlocfilehash: d0eccaf7d953dd6ac9f80394314dbdd71a1bccf5
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
+ms.openlocfilehash: b1bccc3ccdcbccfdbc68bbfd4ed40560b45f1797
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42954021"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105329"
 ---
 # <a name="service-numbers-in-teams"></a>Servicenummer i Teams
 
 Servicetelefonnummer har en högre samtalskapacitet än telefonnummer för användare eller prenumeranter. 
 
-- [Granska de olika sätten att **få ett servicenummer på**](https://docs.microsoft.com/microsoftteams/getting-service-phone-numbers). 
+- [Granska de olika sätten att få ett servicenummer på](https://docs.microsoft.com/microsoftteams/getting-service-phone-numbers). 
 
-- [Granska hur man **konverterar ett användarnummer till ett servicenummer**](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-the-u-s).
+- [Granska hur du konverterar ett användarnummer till ett servicenummer](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-the-u-s).
+
+Mer information finns i [Hantera telefonnummer för organisationen](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization).
