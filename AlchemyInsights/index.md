@@ -1,5 +1,5 @@
 ---
-title: Alchemy Insights hem
+title: Alchemy Insights Hem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.openlocfilehash: 3f89d9ef2d6961db7bd2bc9bf68f6a59eb6da5f7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/15/2019
+ms.lasthandoff: 04/08/2020
 ms.locfileid: "32412553"
 ---
-# <a name="alchemy-insights"></a><span data-ttu-id="0efef-102">Alchemy Insights</span><span class="sxs-lookup"><span data-stu-id="0efef-102">Alchemy Insights</span></span>
+# <a name="alchemy-insights"></a><span data-ttu-id="f9532-102">Alkemi Insikter</span><span class="sxs-lookup"><span data-stu-id="f9532-102">Alchemy Insights</span></span>
 
-<span data-ttu-id="0efef-103">Det här biblioteket är reserverat för hjälpinnehåll i appen.</span><span class="sxs-lookup"><span data-stu-id="0efef-103">This library is reserved for in-app help content.</span></span>
+<span data-ttu-id="f9532-103">Det här biblioteket är reserverat för hjälpinnehåll i appen.</span><span class="sxs-lookup"><span data-stu-id="f9532-103">This library is reserved for in-app help content.</span></span>
