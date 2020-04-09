@@ -9,17 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
 - "1500025"
-ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: 28fbd9a375057e2daa15f9bf629e8b1ab2013c4e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: ed85b1053635a565ac2a00b1758c0df6ce5d7e63
+ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386919"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43195036"
 ---
 # <a name="change-how-often-you-pay"></a>Ändra hur ofta du betalar
 
- **Vill du ändra betalningsfrekvens?** Om du vill ändra hur ofta du betalar för din Office 365 business abonnemang från årliga varje månad eller varje månad till årliga, kan vi hjälpa dig med. Du måste köpa samma prenumerationen med ny utbetalning frekvens och avbryta prenumerationen gamla. Använd alternativet ”Låt oss ringa dig” tala med en supporttekniker.
+När du köper en prenumeration väljer du månads- eller årsfakturering. Om du vill ändra hur ofta du faktureras för en prenumeration följer du följande steg.
+
+1. Gå till sidan Fakturering **> [produkter & tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054) ** i administrationscentret.
+
+2. Leta reda på den prenumeration som du vill ändra. Klicka på **Redigera** **bredvid faktureras månadsvis** eller **faktureras varje månad**i avsnittet **Fakturering.**
+
+3. Välj alternativet för hur ofta du vill faktureras och välj sedan **Ändra**.
