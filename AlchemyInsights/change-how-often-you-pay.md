@@ -12,13 +12,14 @@ ms.collection: Adm_O365
 ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
+- "4552"
 - "1500025"
-ms.openlocfilehash: ed85b1053635a565ac2a00b1758c0df6ce5d7e63
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: ce85f413bab2725d82f7597ec46c5796374bc5d1
+ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195036"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "43217882"
 ---
 # <a name="change-how-often-you-pay"></a>Ändra hur ofta du betalar
 
@@ -28,4 +29,4 @@ När du köper en prenumeration väljer du månads- eller årsfakturering. Om du
 
 2. Leta reda på den prenumeration som du vill ändra. Klicka på **Redigera** **bredvid faktureras månadsvis** eller **faktureras varje månad**i avsnittet **Fakturering.**
 
-3. Välj alternativet för hur ofta du vill faktureras och välj sedan **Ändra**.
+3. Välj alternativet för hur ofta du vill faktureras och klicka sedan på **Ändra**.
