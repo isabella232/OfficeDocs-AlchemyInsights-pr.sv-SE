@@ -11,38 +11,41 @@ ms.collection: Adm_O365
 ms.custom:
 - "2713"
 - "9000768"
-ms.openlocfilehash: d5fb20fcc146be67c5a04de0640ed4efd625311a
-ms.sourcegitcommit: 8004ee243b5c68ff9532224a2e6c69dda0abbd0b
+- "9002385"
+- "4645"
+ms.openlocfilehash: 35fe9ae76ca77faa43796b288af09be8525cb6df
+ms.sourcegitcommit: 929f8accdca2b8e5be170e0fc8edd527581453d4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37441323"
+ms.lasthandoff: 04/12/2020
+ms.locfileid: "43232648"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Åtgärda meddelanden som har fastnat i Utkorgen
+# <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Åtgärda meddelanden som har fastnat i utkorgen
 
-Vi rekommenderar att du börjar med att köra scenariot ["Jag har problem med att skicka, ta emot eller hitta e-postmeddelanden"](https://aka.ms/SaRA-OutlookSendReceive) från verktyget [Microsoft support och återställning assistenten](https://diagnostics.office.com/#/) .
+Vi rekommenderar att du börjar med att köra scenariot ["Jag har problem med att skicka, ta emot eller hitta e-postmeddelanden"](https://aka.ms/SaRA-OutlookSendReceive) från microsoft [support- och återställningsassistenten](https://diagnostics.office.com/#/) på den berörda datorn.
 
-När ett meddelande fastnar i Utkorgen är de mest troliga orsakerna:
-- Stora bilagor.
-- Alternativet **Skicka omedelbart när anslutet** är inte aktiverat.
+När ett meddelande fastnar i utkorgen är den troligaste orsaken en stor bilaga eller alternativet "Skicka omedelbart när du är ansluten" är inte aktiverat.
 
-Så här tar du bort stora bilagor: 
+**Ta bort den stora bilagan**
 
-1. I Outlook väljer du **skicka och ta emot** > **arbete offline**. 
-2. Välj **Utkorg**i navigeringsfönstret. Härifrån kan du: 
-    - Ta bort meddelandet (Markera det och välj sedan **ta bort**).
-    - Dra meddelandet till mappen Utkast, dubbelklicka för att öppna det och ta bort bilagan Markera den och välj sedan **ta bort**).
-3. Om du får ett felmeddelande som säger att Outlook försöker skicka meddelandet stänger du Outlook. Det kan ta en stund att avsluta. Om Outlook inte stängs trycker du på Ctrl + Alt + Delete och väljer **Starta Aktivitetshanteraren**. I Aktivitetshanteraren väljer du fliken **processer** , bläddrar ned till Outlook. exe och väljer **Avsluta process**.
-4. När Outlook har stängts startar du om det och upprepar steg 2 och 3. 
-5. När du tar bort den bifogade filen klickar du på **skicka och ta emot** > **arbete offline** att återuppta arbeta online. 
+1. Klicka på **Skicka/ta emot** > **arbete offline**. 
+2. Klicka på Utkorgen i **navigeringsfönstret**. Härifrån kan du: 
+    - Ta bort meddelandet. Välj den och klicka på **Ta bort.**
+    - Dra meddelandet till **utkastmappen,** dubbelklicka för att öppna meddelandet och ta bort den bifogade filen (klicka på den och klicka på **Ta bort).**
+3. Om ett fel talar om för dig att Outlook försöker överföra meddelandet stänger du Outlook. Det kan ta en stund att avsluta. Om Outlook inte stängs trycker du på **Ctrl+Alt+Delete** och klickar på **Starta Aktivitetshanteraren**. I **Aktivitetshanteraren** väljer du fliken Processer, rullar ned till outlook.exe och klickar på **Avsluta process**.
+4. När Outlook har stängts startar du om Outlook och upprepar steg 2-3. 
+5. När du har tagit bort den bifogade filen klickar du på **Skicka/ta emot** > **arbete offline** för att avmarkera knappen och fortsätta arbeta online. 
 
-Meddelanden fastnar också i Utkorgen när du klickar på **Skicka**, men du är inte ansluten. Klicka på **skicka och ta emot** och titta på knappen **arbeta offline** . Om det är blått är du frånkopplad. Välj den för att ansluta (knappen blir vit) och klicka på **skicka alla**.
+Meddelanden fastnar också i utkorgen när du klickar på **Skicka**, men du är inte ansluten. Klicka på **Skicka/ta emot** och titta på knappen **Arbeta offline.** Om den är blå är du frånkopplad. Klicka på den för att ansluta (knappen blir vit) och klicka på **Skicka alla**.
  
-Så här aktiverar du **Skicka omedelbart vid anslutning**:
+**Aktivera Skicka direkt när du är ansluten**
  
-- Välj **fil** > **alternativ** >  **Avancerat**.
-I avsnittet **skicka och ta emot** väljer du **Skicka omedelbart när du är ansluten**och väljer sedan **OK**.
+1. Klicka på **Alternativ**på fliken Arkiv .
+
+2. Klicka på **Avancerat**i dialogrutan Outlook-alternativ .
+
+3. I avsnittet Skicka och ta emot klickar du för att aktivera **Skicka direkt när du är ansluten**. Klicka på **OK**.
  
-För fullständig information se:
-- [Video: skicka eller ta bort en fast e-post](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [E-post stannar i mappen Utkorg tills du manuellt initiera en skicka/ta emot-åtgärd i Outlook](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+För fullständig information, se:
+- [Video: Skicka eller ta bort ett fast e-postmeddelande](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+- [E-post finns kvar i mappen Utkorgen tills du initierar en skicka/ta-mottagning i Outlook manuellt](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
