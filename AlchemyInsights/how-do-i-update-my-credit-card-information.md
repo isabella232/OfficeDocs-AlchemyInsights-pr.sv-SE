@@ -13,12 +13,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: da09215ca846e34fa3f75fead99537c4808ec65a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7a2f2ae8bc80e3d66ab3227b8c675efcb23bc1e6
+ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664410"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "43231509"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Hur uppdaterar jag min kreditkortsinformation?
 
@@ -28,9 +28,8 @@ ms.locfileid: "36664410"
 
 3. Om du vill ändra kontokorts- eller bankkontoinformation väljer du **Redigera betalningsinformation**.
 
-> [!NOTE]
-> Om prenumerationen har köpts in av en annan administratör kan du inte uppdatera kreditkorts- eller bankkontoinformationen för den. Om kreditkortet håller på att gå ut och den andra administratören inte har möjlighet att uppdatera det, kan du förhindra att tjänsten avbryts genom att lägga till ett annat kreditkort eller ett nytt bankkonto för prenumerationen.
-
 4. Uppdatera kreditkorts- eller bankkontoinformationen (namnet på kreditkortet eller bankkontot, faktureringsadressen, telefonnumret eller utgångsdatumet) efter behov och välj sedan **Spara** > **Klart**.
 
 Mer information finns i [Lägga till, uppdatera eller ta bort ett kreditkort eller bankkonto i Office 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+
+**Obs!** Om prenumerationen har köpts in av en annan administratör kan du inte uppdatera kreditkorts- eller bankkontoinformationen för den. Om kreditkortet håller på att gå ut och den andra administratören inte har möjlighet att uppdatera det, kan du förhindra att tjänsten avbryts genom att lägga till ett annat kreditkort eller ett nytt bankkonto för prenumerationen.
