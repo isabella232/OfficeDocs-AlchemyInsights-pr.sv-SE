@@ -1,5 +1,5 @@
 ---
-title: Hur du köper Office 365 utbildningsplaner
+title: Så här köper du Office 365 Education-abonnemang
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,19 +14,25 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 366299790a5cae04c2b5eabd9d7f48a65210a50e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 0c949a6e611fadc19340711d7fa9aa19dd602c6f
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390926"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286281"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Hur du köper Office 365 utbildningsplaner
+# <a name="how-to-purchase-office-365-education-plans"></a>Så här köper du Office 365 Education-abonnemang
 
-Du har godkänts för Office 365-utbildning. Så här köper du:
-  
-1. Gå till **Fakturering** i administratörscenter, \> [Inköp](https://go.microsoft.com/fwlink/p/?linkid=868433) tjänster.
+Du har godkänts för Office 365 Education.  Så här genomför du ett köp:
 
-2. Välj i listan under **Utbildning planer**.
+1. Gå till **[Fakturering > Köptjänster](https://portal.office.com/AdminPortal/Home#/catalog)**.
 
-3. Hovra över den prenumeration som du vill köpa och välj **Köp nu**.
+2. Välj från listan med **abonnemang för akademiska institutioner**.
+
+3. Hovra över den prenumeration du vill köpa och klicka på **Köp nu**.
+
+**Distansutbildning**
+
+- Se [Utbildning och inlärning på distans i Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) för de senaste anvisningarna för att konfigurera skolan, lektionsplanering, virtuella möten och dela innehåll med elever.
+
+- Det finns mer IT-vägledning i [Komma igång med Microsoft Teams för distansinlärning](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) och [Göra övergången till inlärning på distans](https://www.microsoft.com/education/remote-learning).
