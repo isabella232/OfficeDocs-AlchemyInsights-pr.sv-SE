@@ -1,5 +1,5 @@
 ---
-title: Så här verifierar du din domän med Office 365
+title: Verifiera din domän med Office 365
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,16 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 7e6586f4ba0b7f65fe16a040208ff56ec4ca1985
-ms.sourcegitcommit: 52605656a92e31d3bf65f90ba427f56e87d6a221
+ms.openlocfilehash: ade67097172464fdf213b8af7af6639a25d48315
+ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36851738"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43529622"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a>Så här verifierar du din domän med Office 365
+# <a name="how-to-verify-your-domain-with-office-365"></a>Verifiera din domän med Office 365
 
-Om du vill verifiera domänen måste du lägga till en TXT-post i domänregistratorn för att verifiera att du äger domänen. Följ först [guiden Lägg till domän](https://portal.office.com/adminportal/home#/Domains) genom att välja **Inställningar** \> **domäner**och sedan **Lägg till domän**.
+För att verifiera din domän måste du lägga till en TXT-post i domänregistraren för att verifiera att du äger din domän. Följ först [guiden Lägg till domän](https://portal.office.com/adminportal/home#/Domains/Wizard) genom att klicka på **Konfigurera** \> **domäner**och sedan **lägga till domän**.
   
-Följ instruktionerna i [Skapa DNS-poster hos valfri DNS-Värdleverantör för Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) för att lägga till en TXT-post för att verifiera din domän.
-  
+Följ instruktionerna i [Skapa DNS-poster hos valfri DNS-värd för Office 365 för](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) att lägga till en TXT-post för att verifiera din domän.
+
+För andra domäner frågor prova [domäner FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
