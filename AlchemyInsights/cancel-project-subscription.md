@@ -12,12 +12,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 5ceae46c424222636367a4183740fdae353e92d1
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: 82719a4764e081733ad3edf7336584b979c5fb86
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198869"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552867"
 ---
 # <a name="cancel-project-subscription"></a>Avbryt projektprenumeration
 
@@ -30,3 +30,9 @@ Administratörer kan avbryta Project-prenumerationen för sin organisation från
 3. Leta reda på den projektplan som ska avbrytas.
 
 4. Klicka på **Avbryt prenumeration**.
+
+**Återbetalning: Eventuell proportionell kredit kommer att returneras till dig inom nästa faktureringsperiod.** 
+
+**Om**du inte ser alternativet att avbryta klickar du på prenumerationen för att visa informationen och du bör se alternativet **Avbryt prenumeration** i Inställningar **& Åtgärder**. 
+
+Mer information finns i [Avbryt prenumerationen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
