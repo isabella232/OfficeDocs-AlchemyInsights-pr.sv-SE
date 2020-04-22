@@ -1,24 +1,24 @@
 ---
-title: '2571 Nyhet: få feedback om domar som skräppost'
+title: '2571 Ny funktion: Få feedback om spam domar'
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2571
 ms.assetid: ''
-ms.openlocfilehash: a3ba1f5157242120c8690775125b5fbe04f7565f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 4eda7f42c01ddb8d40ab535c3db80b15ab17b632
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391557"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765034"
 ---
-# <a name="new-feature-get-feedback-about-spam-judgments"></a>Ny funktion: få feedback om domar som skräppost
+# <a name="get-feedback-about-spam-judgments"></a>Få feedback om bedömningar av skräppost
 
-Som en administratör kan du nu enkelt rapportera misstänkta e-postmeddelanden, URL: er och innehåll till Microsoft i [Explorer inlägg](https://protection.office.com/reportsubmission). Du kan även använda den för att förstå varför ett legitimt meddelande har flaggats felaktigt. Mer information finns i detta [meddelande](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).
+Som administratör kan du enkelt rapportera misstänkta e-postmeddelanden, webbadresser och innehåll till Microsoft i [Submissions Explorer](https://protection.office.com/reportsubmission). Du kan till och med använda den för att förstå varför ett legitimt meddelande har flaggats felaktigt. Mer information finns i det här [meddelandet](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).
 
-Om du vill göra det easer, kan användarna rapportera direkt till Microsoft via [tillägget rapportmeddelande](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Om du vill göra det enklare kan du låta användarna rapportera direkt till Microsoft via [tillägget Report Message.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)

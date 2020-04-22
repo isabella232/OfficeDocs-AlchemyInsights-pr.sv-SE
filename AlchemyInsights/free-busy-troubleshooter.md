@@ -1,5 +1,5 @@
 ---
-title: 607 felsökaren för ledig/upptagen
+title: 607 Ledig/upptagen felsökare
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,14 +12,14 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 707ead2a324374b6496c995855fd7d2400afaa17
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664878"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765070"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>Problem med att se kalenderns ledig/upptagen-information
+# <a name="issues-seeing-calendar-freebusy-information"></a>Problem med att visa ledig/upptagen-information i kalendern
 
-Om du inte kan sen ledig/upptagen-information i andra kalendrar, eller om andra användare inte kan se ledig/upptagen-information i din kalender använder du [Support- och återställningsassistenten för Microsoft Office 365](https://diagnostics.office.com/).
+Om du inte kan se ledig/upptagen-information i kalendern i andra kalendrar, eller om andra inte kan se ledig/upptagen-information i kalendern, använder du [Microsoft Support and Recovery Assistant](https://diagnostics.office.com/).
   

@@ -1,9 +1,9 @@
 ---
-title: Outlook.com Facebook-meddelanden
+title: Outlook.com Facebook-aviseringar
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/1/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: 9e389deb7347e13c0e4ba658da4d355ffe11049c
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.openlocfilehash: 737785e235389e211557b8055a561ec7a7d66692
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36822135"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760358"
 ---
-# <a name="facebook-notifications-using-outlookcom"></a>Facebook-meddelanden med Outlook.com
+# <a name="facebook-notifications-using-outlookcom"></a>Facebook-aviseringar med Outlook.com
 
-Om du inte vill få aviseringar från Facebook kan du ändra dina [Facebook-inställningar](https://aka.ms/facebook-notifications-settings) eller ställa in en inkorgsregel.
+Om du inte vill få aviseringar från Facebook kan du ändra dina [Facebook-inställningar](https://aka.ms/facebook-notifications-settings) eller konfigurera en inkorgsregel.
 
-1. Gå till [regler inställningar](https://outlook.live.com/mail/options/mail/rules/inboxRules).
+1. Gå till [Regelinställningar](https://outlook.live.com/mail/options/mail/rules/inboxRules).
 1. Välj **Lägg till ny regel**.
-1. Namnge regeln "Facebook".
-1. Lägg till ett villkor för "från" och ange "notification@facebookmail.com"
-1. Lägg till en åtgärd av "Delete". Om du väljer Radera innebär det att meddelandena finns kvar i dina borttagna objekt och kan återställas. Om du väljer "Markera som skräppost" kommer meddelandena att raderas automatiskt och kan inte återställas.
+1. Namnge din regel "Facebook".
+1. Lägg till ett villkor för "Från" och skriv "notification@facebookmail.com"
+1. Lägg till en åtgärd med "Ta bort". Om du väljer Ta bort betyder att meddelandena finns kvar i dina borttagna objekt och kan återställas. Om du väljer "Markera som skräppost" tas meddelandena bort automatiskt och kan inte återställas.
 1. Välj **Spara**.

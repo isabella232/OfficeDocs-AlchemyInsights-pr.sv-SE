@@ -1,9 +1,9 @@
 ---
-title: Felsökning av Intune principen och profiler
+title: Felsöka Intune-princip och -profiler
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 19d2bf0e85e83b9e1a7fbdc24a4b3d21abf34941
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533645"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766691"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>Felsökning av Intune principen och profiler
+# <a name="troubleshooting-intune-policy-and-profiles"></a>Felsöka Intune-princip och -profiler
 
-Följande guider kan hjälpa om du vill se befintliga principer, felsöka konflikter, granska loggdata och se vanliga frågor och problem.
+Om du vill visa befintliga principer, felsöka konflikter, granska loggdata och se vanliga frågor och problem kan följande guider hjälpa dig.
 
-- [Felsökning av principer och profiler i Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Felsöka principer och profiler i Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 
-- [Vanliga frågor, problem och lösningar med enheten principer och profiler i Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Vanliga frågor, problem och lösningar med enhetsprinciper och profiler i Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Övervaka enhetsprofiler konfiguration och visa konflikterna i Intune](https://docs.microsoft.com/intune/device-profile-monitor)
+- [Övervaka enhetskonfigurationsprofiler och visa konflikter i Intune](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [Felsöka enheten efterlevnad och villkorlig åtkomst i Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Felsöka enhetsefterlevnad och villkorlig åtkomst i Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [Övervaka att principer och visa konflikterna i Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Övervaka efterlevnadsprinciper och visa konflikter i Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [Skicka Intune data till Azure lagring, händelse hubbar eller logga analytics](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [Skicka Intune-loggdata till Azure-lagring, händelsehubbar eller logganalys](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-Se Översikt över att [Konfigurera enheter](https://docs.microsoft.com/intune/device-profiles) eller [använda principer för överensstämmelse](https://docs.microsoft.com/intune/device-compliance-get-started).
+Se översikten för att [konfigurera enheter](https://docs.microsoft.com/intune/device-profiles) eller [använda efterlevnadsprinciper](https://docs.microsoft.com/intune/device-compliance-get-started).

@@ -1,29 +1,29 @@
 ---
-title: Installationsprogrammet för Office 365 Advanced Threat Protection (ATP)
+title: Office 365 Atp-konfiguration (Advanced Threat Protection)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 8dde7236bdee2bd0b83087282ff32b32af8bae30
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: dfd6e900bc364699c7c19bda795408d87ccb4333
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419926"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761688"
 ---
-# <a name="office-365-advanced-threat-protection-atp"></a>Office 365 avancerade Threat Protection (ATP)
+# <a name="office-365-advanced-threat-protection-atp"></a>Office 365 Avancerat skydd mot hot (ATP)
 
-Office 365 ATP innehåller [Säkra bifogade filer](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [Säkra länkar](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [Avancerade Anti-Phishing](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)och mycket mer. 
+Office 365 ATP innehåller [säkra bilagor,](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments) [säkra länkar,](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links) [avancerad anti-phishing](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)med mera. 
 
-ATP ingår i abonnemang, Office 365 Enterprise E5, Office 365 Education A5 och Microsoft 365 Business. Om prenumerationen inte innehåller ATP kan du eventuellt köpa ATP som ett tillägg. Läs mer i [Office 365 ATP tjänstbeskrivning](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
+ATP ingår i prenumerationer, till exempel Office 365 Enterprise E5, Office 365 Education A5 och Microsoft 365 Business Premium. Om din prenumeration inte innehåller ATP kan du eventuellt köpa ATP som ett tillägg. Mer information finns i [Office 365 ATP Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
 
 ## <a name="set-up-office-365-atp"></a>Konfigurera Office 365 ATP
 
-ATP-skydd ska gälla, måste du konfigurera principer. Se [snabbstartguide: konfigurera Office 365 Advanced Threat Protection](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
+För att ATP-skydd ska gälla måste du konfigurera principer. Se [snabbstartsguide: Konfigurera avancerat skydd mot office 365](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
 
