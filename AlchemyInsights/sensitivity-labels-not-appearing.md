@@ -1,9 +1,9 @@
 ---
-title: Känslighets etiketter visas inte
+title: Känslighetsetiketter visas inte
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,30 +12,30 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 67719380aea0481f96c03fa591542e8e5a6e6993
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048670"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758533"
 ---
-# <a name="sensitivity-labels-not-appearing"></a><span data-ttu-id="a99a2-102">Känslighets etiketter visas inte</span><span class="sxs-lookup"><span data-stu-id="a99a2-102">Sensitivity labels not appearing</span></span>
+# <a name="sensitivity-labels-not-appearing"></a><span data-ttu-id="78908-102">Känslighetsetiketter visas inte</span><span class="sxs-lookup"><span data-stu-id="78908-102">Sensitivity labels not appearing</span></span>
 
-<span data-ttu-id="a99a2-103">Med hjälp av känslighets etiketter kan du klassificera och skydda känsligt innehåll.</span><span class="sxs-lookup"><span data-stu-id="a99a2-103">Sensitivity labels allow you to classify and help protect your sensitive content.</span></span> <span data-ttu-id="a99a2-104">De kan skapas i Microsoft 365 Efterlevnadscenter, Microsoft 365 Security Center eller Office 365 Security & regelefterlevnadscenter under klassificering > känslighets etiketter.</span><span class="sxs-lookup"><span data-stu-id="a99a2-104">They can be created in the Microsoft 365 compliance center, Microsoft 365 security center, or Office 365 Security & Compliance Center under Classification > Sensitivity labels.</span></span> <span data-ttu-id="a99a2-105">Mer information om den här funktionen finns [i Översikt över känslighets etiketter](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).</span><span class="sxs-lookup"><span data-stu-id="a99a2-105">To learn more about this feature, see [Overview of sensitivity labels](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).</span></span>
+<span data-ttu-id="78908-103">Med känslighetsetiketter kan du klassificera och skydda ditt känsliga innehåll.</span><span class="sxs-lookup"><span data-stu-id="78908-103">Sensitivity labels allow you to classify and help protect your sensitive content.</span></span> <span data-ttu-id="78908-104">De kan skapas i Microsoft 365 compliance center, Microsoft 365 security center eller Microsoft 365 security & Compliance Center under Klassificering > känslighetsetiketter.</span><span class="sxs-lookup"><span data-stu-id="78908-104">They can be created in the Microsoft 365 compliance center, Microsoft 365 security center, or Microsoft 365 security & Compliance Center under Classification > Sensitivity labels.</span></span> <span data-ttu-id="78908-105">Mer information om den här funktionen finns i [Översikt över känslighetsetiketter](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).</span><span class="sxs-lookup"><span data-stu-id="78908-105">To learn more about this feature, see [Overview of sensitivity labels](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).</span></span>
 
-<span data-ttu-id="a99a2-106">Om du har konfigurerat känslighets etiketterna men inte visas i Office-apparna kontrollerar du följande:</span><span class="sxs-lookup"><span data-stu-id="a99a2-106">If you configured your sensitivity labels but they aren't appearing in the Office apps, check the following:</span></span>
+<span data-ttu-id="78908-106">Om du har konfigurerat känslighetsetiketterna men inte visas i Office-programmen kontrollerar du följande:</span><span class="sxs-lookup"><span data-stu-id="78908-106">If you configured your sensitivity labels but they aren't appearing in the Office apps, check the following:</span></span>
 
-- <span data-ttu-id="a99a2-107">Kontrollera att känslighets etiketten har [publicerats](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) till de användare och grupper som du vill ha.</span><span class="sxs-lookup"><span data-stu-id="a99a2-107">Confirm that the sensitivity label has been [published](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) to the users and groups that you want.</span></span>
+- <span data-ttu-id="78908-107">Bekräfta att känslighetsetiketten har [publicerats](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) för de användare och grupper som du vill använda.</span><span class="sxs-lookup"><span data-stu-id="78908-107">Confirm that the sensitivity label has been [published](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) to the users and groups that you want.</span></span>
 
-- <span data-ttu-id="a99a2-108">Kontrollera att användaren använder en app som stöder känslighets etiketter-se [känslighets etiketter i dokumentet](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).</span><span class="sxs-lookup"><span data-stu-id="a99a2-108">Confirm that the user is using an app that supports sensitivity labels - see [sensitivity labels in your document](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).</span></span>
+- <span data-ttu-id="78908-108">Bekräfta att användaren använder en app som stöder känslighetsetiketter – se [känslighetsetiketter i dokumentet](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).</span><span class="sxs-lookup"><span data-stu-id="78908-108">Confirm that the user is using an app that supports sensitivity labels - see [sensitivity labels in your document](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).</span></span>
 
-- <span data-ttu-id="a99a2-109">Om du [migrerar Azure information Protection-etiketter](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), vara medveten om de överväganden som anges [här](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).</span><span class="sxs-lookup"><span data-stu-id="a99a2-109">If you're [migrating Azure Information Protection labels](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), be aware of the considerations listed [here](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).</span></span>
+- <span data-ttu-id="78908-109">Om du [migrerar Azure Information Protection-etiketter](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)bör du vara medveten om de överväganden som anges [här](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).</span><span class="sxs-lookup"><span data-stu-id="78908-109">If you're [migrating Azure Information Protection labels](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), be aware of the considerations listed [here](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).</span></span>
 
-- <span data-ttu-id="a99a2-110">Stöd för data förlust skydd (DLP): för närvarande kan endast lagrings etiketter användas som ett villkor i DLP-principer.</span><span class="sxs-lookup"><span data-stu-id="a99a2-110">Data loss prevention (DLP) support: Currently, only retention labels can be used as a condition in DLP policies.</span></span>  <span data-ttu-id="a99a2-111">Stöd för känslighet etiketter i en DLP-princip är inte tillgänglig ännu men vi arbetar på den.</span><span class="sxs-lookup"><span data-stu-id="a99a2-111">Support for sensitivity labels in a DLP policy is not available yet but we're working on it.</span></span>
+- <span data-ttu-id="78908-110">DLP-stöd (Data loss prevention) : För närvarande kan endast kvarhållningsetiketter användas som ett villkor i DLP-principer.</span><span class="sxs-lookup"><span data-stu-id="78908-110">Data loss prevention (DLP) support: Currently, only retention labels can be used as a condition in DLP policies.</span></span>  <span data-ttu-id="78908-111">Stöd för känslighetsetiketter i en DLP-princip är inte tillgängligt ännu, men vi arbetar på det.</span><span class="sxs-lookup"><span data-stu-id="78908-111">Support for sensitivity labels in a DLP policy is not available yet but we're working on it.</span></span>
 
-- <span data-ttu-id="a99a2-112">När kryptering är aktiverat på en känslighetsetikett kan du välja att antingen:</span><span class="sxs-lookup"><span data-stu-id="a99a2-112">When encryption is enabled on a sensitivity label, you can choose either to:</span></span>
-    - <span data-ttu-id="a99a2-113">Tilldela behörigheter nu</span><span class="sxs-lookup"><span data-stu-id="a99a2-113">Assign permissions now</span></span>
-    - <span data-ttu-id="a99a2-114">Låt användarna tilldela behörigheter</span><span class="sxs-lookup"><span data-stu-id="a99a2-114">Let users assign permissions</span></span>
+- <span data-ttu-id="78908-112">När kryptering är aktiverat på en känslighetsetikett kan du välja att antingen:</span><span class="sxs-lookup"><span data-stu-id="78908-112">When encryption is enabled on a sensitivity label, you can choose either to:</span></span>
+    - <span data-ttu-id="78908-113">Tilldela behörigheter nu</span><span class="sxs-lookup"><span data-stu-id="78908-113">Assign permissions now</span></span>
+    - <span data-ttu-id="78908-114">Låta användare tilldela behörigheter</span><span class="sxs-lookup"><span data-stu-id="78908-114">Let users assign permissions</span></span>
 
 
-<span data-ttu-id="a99a2-115">Mer information om möjliga problem finns i [kända problem med känslighets etiketter](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).</span><span class="sxs-lookup"><span data-stu-id="a99a2-115">For more information on possible issues, see [Known issues with sensitivity labels](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).</span></span>
+<span data-ttu-id="78908-115">Mer information om möjliga problem finns i [Kända problem med känslighetsetiketter](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).</span><span class="sxs-lookup"><span data-stu-id="78908-115">For more information on possible issues, see [Known issues with sensitivity labels](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).</span></span>

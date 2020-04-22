@@ -3,7 +3,7 @@ title: Uppgradera till Visio 2019
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1798"
 - "9000201"
-ms.openlocfilehash: 7870b63660a1f08b844c48d5f20ff96a336e63de
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 8baf4d27ed1c6c7f6b15c1221ddb9dbb8aea9c3b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903733"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720047"
 ---
-# <a name="upgrade-to-visio-2019"></a><span data-ttu-id="2a0e9-102">Uppgradera till Visio 2019</span><span class="sxs-lookup"><span data-stu-id="2a0e9-102">Upgrade to Visio 2019</span></span>
+# <a name="upgrade-to-visio-2019"></a><span data-ttu-id="023a4-102">Uppgradera till Visio 2019</span><span class="sxs-lookup"><span data-stu-id="023a4-102">Upgrade to Visio 2019</span></span>
 
-<span data-ttu-id="2a0e9-103">Användare som har installerat Visio desktop app som en del av en Visio Online-prenumeration redan har den senaste versionen.</span><span class="sxs-lookup"><span data-stu-id="2a0e9-103">Users who installed the Visio desktop app as part of a Visio Online subscription already have the latest version.</span></span> 
+<span data-ttu-id="023a4-103">Användare som har installerat Visio-skrivbordsappen som en del av en Visio Online-prenumeration har redan den senaste versionen.</span><span class="sxs-lookup"><span data-stu-id="023a4-103">Users who installed the Visio desktop app as part of a Visio Online subscription already have the latest version.</span></span> 
 
-<span data-ttu-id="2a0e9-104">Om du vill uppgradera en icke prenumerationsversion som Visio 2016 måste du köpa en Visio Online-prenumeration eller ett enstaka inköp av Visio Standard eller Professional 2019 för Vision.</span><span class="sxs-lookup"><span data-stu-id="2a0e9-104">To upgrade a non-subscription version such as Visio 2016, you need to buy a Visio Online subscription or a one-time purchase of Visio Standard or Vision Professional 2019.</span></span> <span data-ttu-id="2a0e9-105">Se [Jämför Visio-alternativ](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).</span><span class="sxs-lookup"><span data-stu-id="2a0e9-105">See [Compare Visio options](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).</span></span>
+<span data-ttu-id="023a4-104">Om du vill uppgradera en version som inte är prenumeration, till exempel Visio 2016, måste du köpa en Visio Online-prenumeration eller ett engångsköp av Visio Standard eller Vision Professional 2019.</span><span class="sxs-lookup"><span data-stu-id="023a4-104">To upgrade a non-subscription version such as Visio 2016, you need to buy a Visio Online subscription or a one-time purchase of Visio Standard or Vision Professional 2019.</span></span> <span data-ttu-id="023a4-105">Se [Jämföra Visio-alternativ](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).</span><span class="sxs-lookup"><span data-stu-id="023a4-105">See [Compare Visio options](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).</span></span>
 
-<span data-ttu-id="2a0e9-106">Om du redan har köpt en nyare version och du är redo att installera den, se [Installera Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) och följ anvisningarna för din version.</span><span class="sxs-lookup"><span data-stu-id="2a0e9-106">If you already purchased a newer version and you're ready to install it, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) and follow the steps for your version.</span></span> 
+<span data-ttu-id="023a4-106">Om du redan har köpt en nyare version och är redo att installera den läser du [Installera Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) och följer stegen för din version.</span><span class="sxs-lookup"><span data-stu-id="023a4-106">If you already purchased a newer version and you're ready to install it, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) and follow the steps for your version.</span></span> 
 
-<span data-ttu-id="2a0e9-107">Om du vill installera Visio sida vid sida med Office, se [stöds scenarier för hur du installerar olika versioner av Office, Project och Visio på samma dator](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).</span><span class="sxs-lookup"><span data-stu-id="2a0e9-107">To install Visio side-by-side with Office, see [Supported scenarios for installing different versions of Office, Project, and Visio on the same computer](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).</span></span>
+<span data-ttu-id="023a4-107">Om du vill installera Visio sida vid sida med Office finns i [Scenarier som stöds för installation av olika versioner av Office, Project och Visio på samma dator](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).</span><span class="sxs-lookup"><span data-stu-id="023a4-107">To install Visio side-by-side with Office, see [Supported scenarios for installing different versions of Office, Project, and Visio on the same computer](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).</span></span>
 
-<span data-ttu-id="2a0e9-108">Mer information finns i:</span><span class="sxs-lookup"><span data-stu-id="2a0e9-108">For more information, see:</span></span><br>
-[<span data-ttu-id="2a0e9-109">Distributionsguide för Visio</span><span class="sxs-lookup"><span data-stu-id="2a0e9-109">Deployment guide for Visio</span></span>](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[<span data-ttu-id="2a0e9-110">Det högre versionsnumret för Visio 2019 vistas på 16,0</span><span class="sxs-lookup"><span data-stu-id="2a0e9-110">The major version number of Visio 2019 is staying at 16.0</span></span>](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
-[<span data-ttu-id="2a0e9-111">År beteckning i Office 2016 och Office 365-klientprogram tas bort från Start-menyalternativ</span><span class="sxs-lookup"><span data-stu-id="2a0e9-111">Year designation in Office 2016 and Office 365 client apps will be removed from Start menu entries</span></span>](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
-[<span data-ttu-id="2a0e9-112">Vanliga frågor Office 2019 kommersiella för Windows och Mac</span><span class="sxs-lookup"><span data-stu-id="2a0e9-112">Office 2019 Commercial for Windows and Mac frequently asked questions</span></span>](https://support.microsoft.com/help/4133312) 
+<span data-ttu-id="023a4-108">Mer information finns i:</span><span class="sxs-lookup"><span data-stu-id="023a4-108">For more information, see:</span></span><br>
+[<span data-ttu-id="023a4-109">Distributionsguide för Visio</span><span class="sxs-lookup"><span data-stu-id="023a4-109">Deployment guide for Visio</span></span>](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[<span data-ttu-id="023a4-110">Huvudnumret för Visio 2019 bor på 16.0</span><span class="sxs-lookup"><span data-stu-id="023a4-110">The major version number of Visio 2019 is staying at 16.0</span></span>](https://docs.microsoft.com/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
+[<span data-ttu-id="023a4-111">Årsbeteckning i Office 2016 och klientappar tas bort från Start-menyns poster</span><span class="sxs-lookup"><span data-stu-id="023a4-111">Year designation in Office 2016 and client apps will be removed from Start menu entries</span></span>](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
+[<span data-ttu-id="023a4-112">Vanliga frågor och svar om Office 2019 Commercial för Windows och Mac</span><span class="sxs-lookup"><span data-stu-id="023a4-112">Office 2019 Commercial for Windows and Mac frequently asked questions</span></span>](https://support.microsoft.com/help/4133312) 
