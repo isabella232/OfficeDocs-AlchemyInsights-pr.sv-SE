@@ -1,9 +1,9 @@
 ---
-title: Alla prenumerationer är aktiv
+title: Alla prenumerationer är aktiva
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: b91e12002a58e206d03142b3ab8b9090dfafacd5
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b5db40da2928fb4c2775057822a714cf1136158b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386242"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708265"
 ---
-# <a name="all-subscriptions-are-active"></a>Alla prenumerationer är aktiv
+# <a name="all-subscriptions-are-active"></a>Alla prenumerationer är aktiva
 
-Din prenumeration är aktiv. Detta kan kontrolleras genom att gå till **Fakturering** \> sidan [serviceabonnemang](https://go.microsoft.com/fwlink/p/?linkid=842054) . Dina prenumerationer är ordnade efter status, med aktiva abonnemang överst. Ytterligare information, till exempel licens antal och betalning metod kan ses genom att välja prenumerationen.
+Dina prenumerationer är aktiva. Detta kan verifieras genom att gå till sidan \> [Faktureringsprenumerationer.](https://go.microsoft.com/fwlink/p/?linkid=842054) **Billing** Dina prenumerationer beställs efter status, med aktiva prenumerationer högst upp. Ytterligare information, till exempel antal licenser och betalningsmetod, kan ses genom att välja prenumerationen.
   
-Om du har problem med din tjänst, kan du använda alternativet ”Låt oss ringa dig” för att tala med en supporttekniker.
+Om du har problem med din tjänst använder du alternativet "Låt oss ringa dig" för att prata med en supporttekniker.

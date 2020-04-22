@@ -1,9 +1,9 @@
 ---
-title: 500 app-lösenord
+title: 500 App lösenord
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,25 +14,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 735e8f1db5107b502c5624689cb38abfbec04502
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6f924f15a29864543c221265e734a5eec7aa2ba2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517805"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707857"
 ---
-# <a name="app-passwords"></a>App-lösenord
+# <a name="app-passwords"></a>Lösenord för appar
 
-En app-lösenordet är en kod som ger en app eller enhet behörighet att komma åt ditt Office 365 arbete eller skolan konto. Om ditt konto kräver autentisering i flera steg (MFA) och appen ansluter till ditt konto, måste du generera ett app-lösenord så att programmet kan ansluta till Office 365. Outlook 2016 och tidigare versioner Outlook av kräver ett app-lösenord.
+Ett applösenord är en kod som ger en app eller enhet behörighet att komma åt ditt Microsoft-arbets- eller skolkonto. Om ditt konto kräver MFA (Multi factor Authentication) och appen ansluter till ditt konto måste du generera ett applösenord så att appen kan ansluta till Microsoft. Outlook 2016 och tidigare versioner Outlook kräver till exempel ett applösenord.
 
- **Observera**: innan du försöka med följande steg, kontrollera med din Office 365 admin MFA krävs för ditt konto. Om det inte är de alternativ som beskrivs i steg inte tillgängliga.
+ **Innan**du försöker med följande steg kontrollerar du med Microsoft 365-administratören att MFA krävs för ditt konto. Om den inte är det är alternativen som beskrivs i stegen inte tillgängliga för dig.
 
-1. Logga in på Office 365 med ditt arbete eller skolan konto och lösenord.
+1. Logga in med ditt arbets- eller skolkonto och ditt lösenord.
 
-2. Välj **Ställ in nu**.
+2. Välj **Ställ in den nu**.
 
-3. Välj autentiseringsmetod och följ instruktionerna.
+3. Välj din autentiseringsmetod och följ anvisningarna.
 
-4. Välj **Nästa**när du har kontrollerat dina alternativ kontaktmetod.
+4. När du har verifierat din alternativa kontaktmetod väljer du **Nästa**.
 
-5. Du får ett app-lösenord som du kan använda med Outlook, Apple Mail och andra program som behöver den. Välj **Kopiera** för att kopiera lösenord så att du kan klistra in det någon annanstans (du inte behöver komma ihåg det).
+5. Du får ett applösenord som du kan använda med Outlook, Apple Mail och andra appar som kräver det. Välj **Kopiera** för att kopiera lösenordet så att du kan klistra in det någon annanstans (du behöver inte memorera det).

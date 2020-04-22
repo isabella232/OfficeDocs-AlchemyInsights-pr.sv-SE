@@ -3,7 +3,7 @@ title: Ändra hur ofta du betalar
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,13 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: ce85f413bab2725d82f7597ec46c5796374bc5d1
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43217882"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706845"
 ---
 # <a name="change-how-often-you-pay"></a>Ändra hur ofta du betalar
 
-När du köper en prenumeration väljer du månads- eller årsfakturering. Om du vill ändra hur ofta du faktureras för en prenumeration följer du följande steg.
-
-1. Gå till sidan Fakturering **> [produkter & tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054) ** i administrationscentret.
-
-2. Leta reda på den prenumeration som du vill ändra. Klicka på **Redigera** **bredvid faktureras månadsvis** eller **faktureras varje månad**i avsnittet **Fakturering.**
-
-3. Välj alternativet för hur ofta du vill faktureras och klicka sedan på **Ändra**.
+ **Vill du ändra betalningsfrekvens?** Om du vill ändra hur ofta du betalar för din Microsoft 365 för företag-prenumeration, antingen från årsvis till månadsvis eller månadsvis till år, kan vi hjälpa dig med det. Du måste köpa samma prenumeration med den nya betalningsfrekvensen och avbryta den gamla prenumerationen. Använd alternativet "Låt oss ringa dig" för att prata med en supporttekniker.

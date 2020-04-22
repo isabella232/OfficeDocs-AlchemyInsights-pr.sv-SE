@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: 2d8f0be45b21db7295099b376959bfcafcd6ba38
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 88394297d391b7c8ec949cf2d82727f9def819c0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530440"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687420"
 ---
 # <a name="a1-license-for-microsoft-365"></a>A1-licens för Microsoft 365
 
@@ -25,9 +25,9 @@ ms.locfileid: "43530440"
 
 - Om din organisation ännu inte har konfigurerat Microsoft 365 Education, men du vill lägga till Office 365 kostnadsfritt, kan du [komma igång](https://www.microsoft.com/education/products/office) genom att ange din e-postadress. 
 
-- Om du vill **byta** från ett annat utbildningsabonnemang till A1-abonnemanget läser du [Byta till ett annat abonnemang](https://docs.microsoft.com/sv-SE/microsoft-365/commerce/subscriptions/switch-plans-manually). 
+- Om du vill **byta** från ett annat utbildningsabonnemang till A1-abonnemanget läser du [Byta till ett annat abonnemang](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually). 
 
-- Information om hur du tilldelar användare till ett A1-abonnemang finns i [Tilldela licenser till användare](https://docs.microsoft.com/sv-SE/microsoft-365/admin/manage/assign-licenses-to-users). 
+- Information om hur du tilldelar användare till ett A1-abonnemang finns i [Tilldela licenser till användare](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users). 
 
 **Viktigt**! Du kan behöva vänta upp till 24 timmar innan ändringarna träder i kraft. 
 

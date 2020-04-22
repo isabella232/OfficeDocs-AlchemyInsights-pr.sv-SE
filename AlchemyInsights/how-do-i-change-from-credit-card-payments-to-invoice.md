@@ -1,9 +1,9 @@
 ---
-title: Hur ändrar jag från kreditkortsbetalningar faktureras?
+title: Hur byter jag från kreditkortsbetalningar till faktura?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: fc469365c988c6c4fb754a2a0b85374a9d1ccd27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7269a60e2802d5ae884a918641873b71b1ad6fa3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523133"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710029"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hur ändrar jag från kreditkortsbetalningar faktureras?
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hur byter jag från kreditkortsbetalningar till faktura?
 
 > [!NOTE]
-> Alternativet att betala med faktura finns bara om din Office 365-prenumeration kostar mer än en viss summa (summan varierar beroende på plats). En kreditkontroll kan behövas för större fakturabetalningar. Mer information finns i [Betala för din prenumeration på Office 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
+> Alternativet att betala med faktura är endast tillgängligt om din prenumeration kostar över ett visst belopp (som varierar beroende på serviceplats). En kreditkontroll kan behövas för större fakturabetalningar. Mer information finns i [Betala för din prenumeration](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
   
-1. Gå till **Fakturering** i administratörscenter, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjänster.
+1. I administrationscentret går du till sidan **Fakturering** \> [Produkter och tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Välj den prenumeration som du vill ändra. Markera alternativet **Redigera** för aktuell betalningsmetod i avsnittet **Fakturering** .
+2. Välj den prenumeration som du vill ändra. Välj alternativet **Redigera** för din aktuella betalningsmetod i avsnittet **Fakturering.**
 
-3. **Ändra hur du betalar för prenumerationen** i rutan Välj **Ändra**, väljer eller lägga till en annan betalningsmetod och välj **Spara**.
+3. I rutan **Ändra hur du betalar för den här prenumerationen** väljer du **Ändra,** välj eller lägg till en annan betalningsmetod och väljer sedan **Spara**.
 
    > [!NOTE]
-   > Om alternativet inte visas innebär det att växla från kreditkort eller bankkonto att fakturera är inte tillgängligt för prenumerationen eftersom prenumerationen inte uppfyller minsta kostnadsbelopp för betalning av fakturan. Minimibeloppet som krävs för betalning via faktura skiljer sig för olika geografiska områden.
+   > Om det här alternativet inte visas betyder det att det inte är tillgängligt att byta från kreditkort eller bankkonto till faktura för prenumerationen eftersom prenumerationen inte uppfyller det lägsta kostnadsbeloppet för fakturering via faktura. Minimibeloppet som krävs för betalning via faktura skiljer sig för olika geografiska områden.
   

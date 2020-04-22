@@ -1,8 +1,8 @@
 ---
-title: Innehåll visas inte i sökresultaten i SharePoint
+title: Innehållet visas inte i SharePoint-sökresultat
 ms.author: tlarsen
 author: tklarsen
-ms.date: 1/8/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,26 +11,26 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: ffb6bf349f9e8c2323186a8fc3183325d1d7e1bf
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a21e0047b41390f740f9e13d31cba32b13990151
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517049"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705679"
 ---
-# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Innehåll visas inte i sökresultaten i SharePoint
+# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Innehållet visas inte i SharePoint-sökresultat
 
-Följ dessa felsökningsåtgärder förväntade innehåll inte visas i sökresultat:
+Följ de här felsökningsstegen när förväntat innehåll inte visas i sökresultaten:
   
-1. Kontrollera att **platsen** som innehåller det förväntade innehållet anges att innehållet ska visas i sökresultaten. Följ stegen i [Visa innehåll på en webbplats i sökresultaten](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results).
+1. Kontrollera att **webbplatsen** som innehåller det förväntade innehållet är inställd på att tillåta att innehåll visas i sökresultaten. Följ stegen i [Visa innehåll på en webbplats i sökresultaten](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results).
 
-2. Kontrollera att **listan** eller **biblioteket** som innehåller det förväntade innehållet anges att innehållet ska visas i sökresultaten. Följ stegen i [Visa innehåll från listor eller bibliotek i sökresultaten](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results).
+2. Kontrollera att **listan** eller **biblioteket** som innehåller det förväntade innehållet är inställt på att tillåta att innehåll visas i sökresultaten. Följ stegen i [Visa innehåll från listor eller bibliotek i sökresultaten](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results).
 
-3. Kontrollera sidan, dokumentet eller anpassad sidlayout har publicerats som en **huvudversion.** Följ steg 3 i [sökningen inte returnera alla resultat i SharePoint Online](https://go.microsoft.com/fwlink/?linkid=874525).
+3. Kontrollera att sidan, dokumentet eller den anpassade sidlayouten har publicerats som en **huvudversion.** Följ steg 3 i [Sök returnerar inte alla resultat i SharePoint Online](https://go.microsoft.com/fwlink/?linkid=874525).
 
-4. Kontrollera att användaren har **behörighet** att visa innehållet. Följ stegen i [Så här fungerar behörighetsnivåer i SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+4. Kontrollera att användaren har **behörighet** att visa innehållet. Följ stegen i [Förstå behörighetsnivåer i SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
     
-5. Om Sök-schemat har ändrats genom att lägga till en ny hanterad egenskap, redigera en hanterad egenskap eller ta bort en hanterad egenskap som begär en crawlning och indexera kommer att krävas. **Indexera** innehåll genom att följa stegen i [begäran manuellt och crawlning omindexering av en webbplats, ett bibliotek eller en lista](https://docs.microsoft.com/sharepoint/crawl-site-content). Detta kan ta en stund, vänta 24 timmar innan du kontrollerar resultatet igen.
+5. Om sökschemat har ändrats genom att lägga till en ny hanterad egenskap, genom att redigera en hanterad egenskap eller genom att ta bort en hanterad egenskap krävs det att begära en crawlning och indexera om. **Indexera** om innehållet genom att följa stegen i [Manuellt begära crawlning och omindexering av en webbplats, ett bibliotek eller en lista](https://docs.microsoft.com/sharepoint/crawl-site-content). Detta kan ta ett tag, vänta 24 timmar innan du kontrollerar resultaten igen.
 
-Mer information finns i [Aktivera innehåll på en webbplats ska vara sökbart](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
+Mer information finns i [Aktivera innehåll på en webbplats som ska vara sökbart](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
   

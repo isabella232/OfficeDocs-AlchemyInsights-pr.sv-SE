@@ -1,9 +1,9 @@
 ---
-title: Arbeta med behörighetsnivåer i SharePoint
+title: Arbeta med SharePoint-behörighetsnivåer
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/28/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3164"
-ms.openlocfilehash: be0b9373d5494ad1325b557a2b2e23eff8c8bfd4
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 924d8ed360c34c8cdcfba2651d1615ec1ca59c90
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922510"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705499"
 ---
-# <a name="working-with-sharepoint-permission-levels"></a>Arbeta med behörighetsnivåer i SharePoint
+# <a name="working-with-sharepoint-permission-levels"></a>Arbeta med SharePoint-behörighetsnivåer
 
-SharePoint levereras med standardbehörighetsnivåer som du kan använda, till exempel **Contribute** och **Visa endast**. Men om någon av dessa inte uppfyller dina behov kan du skapa en ny behörighetsnivå. Tänk på att det är lättare att hålla koll på behörighetsnivåer om du inte ändrar standardvärdena.
+SharePoint har standardbehörighetsnivåer som du kan använda, till exempel endast **Contribute** och **Visa**. Men om en av dessa inte uppfyller dina behov kan du skapa en ny behörighetsnivå. Tänk på att det är enklare att hålla reda på behörighetsnivåer om du inte ändrar standardinställningarna.
 
-[Skapa och redigera behörighetsnivåer](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
+[Så här skapar och redigerar du behörighetsnivåer](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)

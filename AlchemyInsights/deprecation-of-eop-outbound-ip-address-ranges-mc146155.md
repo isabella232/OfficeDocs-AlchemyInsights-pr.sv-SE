@@ -1,28 +1,28 @@
 ---
-title: 1065 utfasningen av EOP utgående IP-adress rangesMC146155
+title: 1065 Utfasning av EOP utgående IP-adressintervallMC146155
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1065
 ms.assetid: bd41784e-8002-428d-bc19-25671cfd34e8
-ms.openlocfilehash: 9860845dea444847833d4c5cd01d49ea93473778
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: f4854c32d970d84f3a0664a9e384dc6e3cd0bfa7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752973"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704615"
 ---
-# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>Utfasningen av EOP utgående IP-adressintervall
+# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>Utfasning av EOP-utgående IP-adressintervall
 
-Vi har upptäckt ett potentiella problem med organisationen som (om de inte åtgärdas genom den 26: e oktober 2018) kan dela e-postflödet i lokala eller externa mål. Som tidigare meddelas för att förenkla hantering av IP-adress område, konsoliderar vi Exchange Online skydd (EOP) IP-adressintervall som används för att skicka och ta emot e-post utanför Office 365. Vår analys visar att en eller flera av de externa e-källor och mål som har angetts i e-flöde kopplingar inte acceptera anslutningar från den IP-adress intervall visas [här](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+Vi har upptäckt ett potentiellt problem med din organisation som (om den inte korrigeras senast den 26 oktober 2018) kan bryta e-postflödet till dina lokala eller externa destinationer. Som tidigare kommunicerats, för att förenkla IP-adressintervallhantering, konsoliderar vi IP-adressintervallen (Exchange Online Protection) som används för att skicka och ta emot e-post utanför Microsoft 365. Vår analys visar att en eller flera av de externa e-postkällor eller destinationer som du har konfigurerat i e-postflödeskopplingar inte accepterar anslutningar från IP-adressintervallen som visas [här](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
 
-Handla före oktober 26: e så dessa källor och mål kommer att acceptera anslutningar till och från alla [publicerade EOP IP-adresser](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+Agera före den 26 oktober för att säkerställa att dessa källor och destinationer kommer att acceptera anslutningar till och från alla [publicerade EOP IP-adresser](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
 
-Mer information om den här förändringen finns i Message Center publicerar [MC146155](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155), [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)eller [MC149274](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274).
+Mer information om den här ändringen finns i Inlägg i Message Center som lägger in [MC146155](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155), [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)eller [MC149274](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274).
 
-**Anmärkning**: Om du tidigare har använt IP- eller URL-publicering via HTML-, XML och RSS för slutpunkten uppdateringar också migrera till nya webbtjänster för att automatisera dessa typer av uppdateringar. Mer information finns i [Office 365 slutpunkt kategorier och IP-adressen i Office 365 och URL-webbtjänsten](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638).
+**Om**du tidigare har använt IP- eller URL-publicering via HTML, XML och RSS för slutpunktsuppdateringar bör du också migrera till de nya webbtjänsterna för att automatisera dessa typer av uppdateringar. Mer information finns i [Microsoft 365-slutpunktskategorier och Microsoft 365 IP-adress- och URL-webbtjänst](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638).

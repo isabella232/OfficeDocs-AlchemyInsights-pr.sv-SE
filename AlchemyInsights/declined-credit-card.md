@@ -1,9 +1,9 @@
 ---
-title: Avvisade kreditkort
+title: Avvisat kreditkort
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,18 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: d02f2cfdc867e54896945a8c9efd119a9b87a5d3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665230"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705103"
 ---
-# <a name="declined-credit-card"></a>Avvisade kreditkort
+# <a name="declined-credit-card"></a>Avböjt kreditkort
 
-Om du betalar med kreditkort och kreditkortet nekas får du ett e-postmeddelande med information om att vi inte har kunnat bearbeta betalningen. Dubbelkolla att [kreditkortsuppgifterna](https://go.microsoft.com/fwlink/p/?linkid=842054) -kortnummer, utgångsdatum, namn på kreditkortet och adress, inklusive stad, delstat och postnummer-visas exakt som de gör på kreditkortet och ditt kreditkortsutdrag. Du kan uppdatera dina kreditkortsuppgifter och omedelbart skicka betalningen med hjälp av alternativet **kvitta saldo** på sidan [Products _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) . 
+Om du betalar med kreditkort och kreditkortet nekas får du ett e-postmeddelande med information om att vi inte har kunnat bearbeta betalningen. Dubbelkolla att [kreditkortsuppgifterna](https://go.microsoft.com/fwlink/p/?linkid=842054) - kortnummer, utgångsdatum, namn på kreditkortet och adress, inklusive ort, delstat och postnummer - visas precis som de gör på kreditkortet och ditt kreditkortsutdrag. Du kan uppdatera dina kreditkortsuppgifter och omedelbart skicka betalningen genom att använda alternativet **Kvitta saldo** på sidan [Produkter & tjänster.](https://go.microsoft.com/fwlink/p/?linkid=842054) 
 
-Om du vill veta mer, se "Vad händer om mitt kreditkort har löpt ut och min betalning är förfallna?" i [betala för din Office 365 för Business-prenumeration](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+Mer information finns i "Vad händer om mitt kreditkort har gått ut och min betalning förfaller?" i [Betala för din Microsoft 365 för företag-prenumeration](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
 Om meddelandet om nekat kort fortfarande visas kontaktar du banken. Det är möjligt att kreditkortet inte är aktivt - om du till exempel nyligen har fått kreditkortet via post med ett uppdaterat utgångsdatum kan du behöva aktivera det. Din bank kan också lämna information om kreditkortet inte är godkänt för onlinetransaktioner, internationella eller återkommande transaktioner.  
   

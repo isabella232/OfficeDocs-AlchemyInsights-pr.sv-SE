@@ -1,9 +1,9 @@
 ---
-title: Söka efter e-post i arkivet postlåda
+title: Sök efter e-post i arkivpostlåda
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 3b6c15fccd375324583bf8249ad42879306a258c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b6b829713cefd3c8b4bfe610e560469e6c646f59
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551613"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709281"
 ---
-# <a name="search-for-email-in-the-archive-mailbox"></a>Söka efter e-post i Arkiv-postlåda
+# <a name="search-for-email-in-the-archive-mailbox"></a>Sök efter e-post i arkivpostlådan
 
-När en Arkivera postlåda är aktiverad för Office 365, kan du använda **e-informationsavslöjande sökning och exportera** för att upptäcka innehållet i både primär och arkivera postlådan. Följ de steg disponerade [här](https://docs.microsoft.com/office365/securitycompliance/export-search-results)för information om hur du använder **e-informationsavslöjande sökningen exportera** för att hitta innehållet.
+När en arkivpostlåda är aktiverad för Microsoft 365 kan du använda **eDiscovery Search and Export** för att identifiera innehåll i både postlådan Primär och Arkiv. Om du vill ha information om hur du använder **eDiscovery Search Export** för att hitta innehållet följer du stegen som beskrivs [här](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   
-Du kan också behålla innehållet genom att lägga till postlådan till en bevarandeprincip. Detta placerar innehåll i både primär och arkivera postlåda i ett undantag. Mer information om hur du skapar lagringsprinciper om du vill behålla e-post finns i den här disponerade [här](https://docs.microsoft.com/Office365/securitycompliance/retention-policies).
+Du kan också behålla innehållet genom att lägga till postlådan i en bevarandeprincip. Då spärras innehållet av både postlådan Primär och Arkiv. Mer information om hur du skapar bevarandeprinciper för att behålla e-post finns i stegen som beskrivs [här](https://docs.microsoft.com/Office365/securitycompliance/retention-policies).
   

@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: fa226612a9b9bfa8e6ca0b287fc51969d95e3469
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36734399"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692531"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Ändra behörigheter för en postlåda
 
-Om användarna behöver åtkomst till postlådor i Office 365 än sina egna, måste de ges behörighet att arbeta med dessa postlådor. Hur du tilldelar dessa behörigheter beror på typen av postlåda. Om användarna behöver åtkomst till:
+Om användarna behöver åtkomst till andra postlådor än sina egna måste de få behörighet att arbeta med dessa postlådor. Hur du tilldelar dessa behörigheter beror på postlådetypen. Om användarna behöver tillgång till:
   
-- Andra användares postlådor-se [ge postlådebehörighet till en annan användare i Office 365](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
+- Andra användares postlådor - se [Ge postlådebehörighet till en annan användare](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
     
-- En delad postlåda-Se [lägga till eller ta bort medlemmar från en delad postlåda](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- En delad postlåda – se [Lägga till eller ta bort medlemmar från en delad postlåda](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     
-Om behörigheterna inte fungerar korrekt när du gör stegen ovan, gå till Exchange administratörscenter och försök att ange behörigheterna därifrån (se [Hantera behörigheter för mottagare](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Om behörigheterna inte fungerar korrekt när du har gjort ovanstående steg går du till administrationscentret för Exchange och försöker ange behörigheter därifrån (se [Hantera behörigheter för mottagare).](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)
   

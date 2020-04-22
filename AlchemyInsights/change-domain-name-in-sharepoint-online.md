@@ -10,20 +10,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: 7eb6e1463b95e01554722dd4790ab334371c86d9
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a1bb502f7afdbd700a6c247046dc2033a9ab065b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050255"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706917"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>Ändra domännamn i SharePoint Online
 
-Tyvärr är det inte möjligt att ändra SharePoint Online-domännamnet för din organisation i Office 365. Om namnet på din organisation till exempel ändras från "contoso" till "fjärde kaffe" kan du inte ändra contoso.sharepoint.com till fourthcoffee.sharepoint.com.
+Tyvärr går det inte att ändra SharePoint Online-domännamnet för din organisation. Om namnet på organisationen till exempel ändras från "Contoso" till "Fjärde kaffe" kan du inte ändra contoso.sharepoint.com till fourthcoffee.sharepoint.com.
   
-Om du vill använda domännamnet fourthcoffee.sharepoint.com måste du köpa ett nytt Office 365-abonnemang och flytta alla e-postmeddelanden, filer och andra data som du vill behålla till den nya prenumerationen.
+Om du vill använda domännamnet fourthcoffee.sharepoint.com måste du köpa en ny prenumeration och flytta all e-post, filer och andra data som du vill behålla till den nya prenumerationen.
   
- Om **du till**exempel vill ändra namnet på en webbplats https://contoso.sharepoint.com/sites/sample1 från till https://contoso.sharepoint.com/sites/sample2följer du instruktionerna i [den här artikeln](https://docs.microsoft.com/sharepoint/change-site-address). 
+ **Obs:** Om du till exempel vill https://contoso.sharepoint.com/sites/sample1 ändra https://contoso.sharepoint.com/sites/sample2namnet på en webbplats från till följer du instruktionerna i den [här artikeln](https://docs.microsoft.com/sharepoint/change-site-address). 
   
 Information om hur du flyttar objekt i dokumentbibliotek finns i [Flytta eller kopiera objekt från ett SharePoint-dokumentbibliotek](https://go.microsoft.com/fwlink/?linkid=2025831).
   

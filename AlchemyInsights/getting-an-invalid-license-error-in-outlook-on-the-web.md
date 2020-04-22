@@ -1,9 +1,9 @@
 ---
-title: 125 få felmeddelandet ogiltig licens i Outlook på webben?
+title: 125 Få ett ogiltigt licensfel i Outlook på webben?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: d0f3fa354eb63c5a5f92d017694623c36fc6df30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9324726709423aeb290fcc1866ade5517f71c1ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523817"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708849"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Få ett ogiltig licens-fel i Outlook på webben?
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Får du ett ogiltigt licensfel i Outlook på webben?
 
-Om du använder Outlook på webben och du får ett felmeddelande om **något gick fel** som innehåller **X-OWA-fel: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, Exchange Online-licens inte används på rätt sätt eller har nyligen upphört att gälla. Din administratör kan tilldela en licens till du så här:
+Om du använder Outlook på webben och får ett **något gick fel** fel som innehåller **X-OWA-Fel: Microsoft.Exchange.Data.Storage.InvalidLicenseException**är Exchange Online-licensen inte korrekt tilldelad eller nyligen har upphört att gälla. Administratören kan tilldela dig en licens genom att följa följande steg:
   
-1. Öppna [Microsoft 365 administratörscenter](https://portal.office.com/adminportal/home#/homepage) och välj **Redigera en användare**under **aktiva användare**.
+1. Öppna [administrationscentret för Microsoft 365](https://portal.office.com/adminportal/home#/homepage) och välj **Redigera en användare**under Aktiva **användare**.
 
-2. Markera användaren **Redigera en användare** på sidan som öppnas. Klicka på **Redigera** i egenskapssidan användare för **produktlicenser**.
+2. Välj användaren på sidan **Redigera en användare** som öppnas. Klicka på **Redigera** för **produktlicenser**på sidan Användaregenskaper som öppnas.
 
-3. Välj lämpligt värde för **plats** på sidan **licenser** som öppnas och tilldela en licens som innehåller Exchange Online (expandera licens om du vill se detaljerad information). Klicka på **Spara** när du är klar.
+3. På sidan **Produktlicenser** som öppnas väljer du lämpligt **platsvärde** och tilldelar en licens som innehåller Exchange Online (expandera licensen för att se dess information). Klicka på **Spara** när du är klar.

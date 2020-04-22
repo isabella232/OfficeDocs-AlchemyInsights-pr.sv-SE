@@ -1,5 +1,5 @@
 ---
-title: Efterlevnadpoäng
+title: Poäng för efterlevnad
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,30 +11,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: 304b50b9be50d42a4d54a1898773b458fca7eb4d
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e77bb9a93325b49cf0f45cc74109432badc481c5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600390"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706111"
 ---
-# <a name="compliance-score"></a>Efterlevnadpoäng
+# <a name="compliance-score"></a>Poäng för efterlevnad
 
-Microsoft Compliance Score (Preview) är en funktion i Microsoft 365 som hjälper dig att mäta organisationens efterlevnadshållning. Den använder en riskbaserad poäng baserat på dina framsteg med att genomföra efterlevnadsrelaterade åtgärder.   Efterlevnadspoäng är en förenklad version av [Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) och erbjuder ett enklare sätt att undersöka din efterlevnadsinställning och genomföra åtgärder för att förbättra den. 
+Microsoft Compliance Score (Preview) är en funktion i Microsoft 365 som hjälper dig att mäta organisationens efterlevnadshållning. Den använder en riskbaserad poäng baserat på dina framsteg med att implementera efterlevnadsrelaterade åtgärder.   Efterlevnadspoäng är en förenklad version av [Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) och erbjuder ett enklare sätt att undersöka din efterlevnadsinställning och implementera åtgärder för att förbättra den. 
 
-Den globala administratören måste ställa in rätt [behörigheter](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) i Microsoft Compliance Center för att komma åt efterlevnadspoäng.  Alla behörigheter som tidigare konfigurerats för Compliance Manager överförs inte till Efterlevnadspoäng.
+Den globala administratören måste konfigurera rätt behörigheter i Microsoft Compliance Center för att komma åt [efterlevnadspoäng.](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center)  Alla behörigheter som tidigare konfigurerats för Efterlevnadshanteraren överförs inte till efterlevnadspoäng.
 
-**Så här öppnar du efterlevnadspoäng**
+**Så här kommer du åt efterlevnadspoäng**
 
-1. Gå till Microsoft 365-efterlevnadscentret och **logga in** med ditt globala Microsoft 365-administratörskonto.
+1. Gå till Microsoft 365 compliance center och **logga in** med ditt globala microsoft 365-administratörskonto.
 
-2. Välj **Efterlevnadspoäng** i det vänstra navigeringsfönstret. Du bör sedan se [instrumentpanelen för efterlevnadspoäng med din poäng.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard)
+2. Välj **Efterlevnadspoäng** i det vänstra navigeringsfönstret. Du bör sedan se [instrumentpanelen för efterlevnadspoäng med din poäng](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
  
 
 **För mer information om:**
 
-- Konfigurera åtkomstbehörigheter för efterlevnadspoäng, se [Ge användarna åtkomst till Office 365 Security & Compliance Center](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
+- Konfigurera åtkomstbehörigheter för efterlevnadspoäng finns i [Ge användarna åtkomst till Microsoft 365 Security & Compliance Centers](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
 - Arbeta med förbättringsåtgärder i efterlevnadspoäng, se [Arbeta med efterlevnadspoäng](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
-- Hur efterlevnadspoäng beräknas läser du [metod för efterlevnadspoäng](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
-- Efterlevnadspoäng jämfört med efterlevnadshanteraren, se [Relation till Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
+- Hur efterlevnadspoäng beräknas, se [Metod för efterlevnadspoäng](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
+- Efterlevnadspoäng kontra Efterlevnadshanteraren, se [Relation till Efterlevnadshanteraren](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
 
