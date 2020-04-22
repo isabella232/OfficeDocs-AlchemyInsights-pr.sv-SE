@@ -1,9 +1,9 @@
 ---
-title: Microsoft flöde specialiserad Support
+title: Specialiserad support för Microsoft Flow
 ms.author: pebaum
 author: pebaum
 manager: mnirke
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: 59cfe196492f90ff18902b8678b4322a0135533c
-ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
+ms.openlocfilehash: 6d40629c1259a78803302d6a23a96b50236561b5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "35199255"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698580"
 ---
-# <a name="microsoft-flow-specialized-support"></a><span data-ttu-id="b9c17-102">Microsoft flöde specialiserad Support</span><span class="sxs-lookup"><span data-stu-id="b9c17-102">Microsoft Flow Specialized Support</span></span>
+# <a name="microsoft-flow-specialized-support"></a><span data-ttu-id="2bce4-102">Specialiserad support för Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="2bce4-102">Microsoft Flow Specialized Support</span></span>
 
-<span data-ttu-id="b9c17-103">Specialiserade Flow Microsoft support finns på nya [Power platform administratörscenter](https://aka.ms/flowadminsupport).</span><span class="sxs-lookup"><span data-stu-id="b9c17-103">For specialized Microsoft Flow support please go to the new [Power platform admin center](https://aka.ms/flowadminsupport).</span></span> <span data-ttu-id="b9c17-104">Den nya portalen ger en mer direkt sökväg till assisterad support som är optimerad för Microsoft Flow och andra Power-plattformen produkter.</span><span class="sxs-lookup"><span data-stu-id="b9c17-104">The new portal provides a more direct path to assisted support that is optimized for Microsoft Flow and other Power platform products.</span></span>
+<span data-ttu-id="2bce4-103">För specialiserat Microsoft Flow-stöd går du till det nya [administrationscentret för Power-plattformen](https://aka.ms/flowadminsupport).</span><span class="sxs-lookup"><span data-stu-id="2bce4-103">For specialized Microsoft Flow support please go to the new [Power platform admin center](https://aka.ms/flowadminsupport).</span></span> <span data-ttu-id="2bce4-104">Den nya portalen ger en mer direkt väg till assisterad support som är optimerad för Microsoft Flow och andra Power-plattformsprodukter.</span><span class="sxs-lookup"><span data-stu-id="2bce4-104">The new portal provides a more direct path to assisted support that is optimized for Microsoft Flow and other Power platform products.</span></span>
 
-<span data-ttu-id="b9c17-105">Lära sig mer:</span><span class="sxs-lookup"><span data-stu-id="b9c17-105">Learn more:</span></span>
-- [<span data-ttu-id="b9c17-106">Information om Microsoft Flow lediga licenser</span><span class="sxs-lookup"><span data-stu-id="b9c17-106">Information about the Microsoft Flow Free licenses</span></span>](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [<span data-ttu-id="b9c17-107">Flöde i organisationen FAQ</span><span class="sxs-lookup"><span data-stu-id="b9c17-107">Flow in your organization FAQ</span></span>](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [<span data-ttu-id="b9c17-108">Office 365 och Dynamics 365 planer som omfattar Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="b9c17-108">Office 365 and Dynamics 365 plans that include Microsoft Flow</span></span>](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [<span data-ttu-id="b9c17-109">Microsoft Flow debiterings- och mätning frågor</span><span class="sxs-lookup"><span data-stu-id="b9c17-109">Microsoft Flow billing and metering questions</span></span>](https://go.microsoft.com/fwlink/?linkid=2072612)
+<span data-ttu-id="2bce4-105">Lära sig mer:</span><span class="sxs-lookup"><span data-stu-id="2bce4-105">Learn more:</span></span>
+- [<span data-ttu-id="2bce4-106">Information om licenser för Microsoft Flow Free</span><span class="sxs-lookup"><span data-stu-id="2bce4-106">Information about the Microsoft Flow Free licenses</span></span>](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [<span data-ttu-id="2bce4-107">Vanliga frågor om flöde i organisationen</span><span class="sxs-lookup"><span data-stu-id="2bce4-107">Flow in your organization FAQ</span></span>](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [<span data-ttu-id="2bce4-108">Microsoft 365- och Dynamics 365-abonnemang som innehåller Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="2bce4-108">Microsoft 365 and Dynamics 365 plans that include Microsoft Flow</span></span>](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [<span data-ttu-id="2bce4-109">Frågor om fakturering och mätning av Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="2bce4-109">Microsoft Flow billing and metering questions</span></span>](https://go.microsoft.com/fwlink/?linkid=2072612)

@@ -1,9 +1,9 @@
 ---
-title: Pris ser inte rätt ut?
+title: Priset ser inte korrekt ut?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: d48e28a3166b3b7f55abdd1e25b830c6dbe0ee56
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 7bba6524807f17ddc786319f469bf22b50f4a845
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388510"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666723"
 ---
-# <a name="price-doesnt-look-correct"></a><span data-ttu-id="28e20-102">Pris ser inte rätt ut?</span><span class="sxs-lookup"><span data-stu-id="28e20-102">Price doesn't look correct?</span></span>
+# <a name="price-doesnt-look-correct"></a><span data-ttu-id="499a3-102">Priset ser inte korrekt ut?</span><span class="sxs-lookup"><span data-stu-id="499a3-102">Price doesn't look correct?</span></span>
 
-<span data-ttu-id="28e20-103">Om priset på din faktura ser inte rätt ut, kan detta bero på en prisförändring på förnyelse.</span><span class="sxs-lookup"><span data-stu-id="28e20-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="28e20-104">Om du inte tror det förklarar problemet, använder du alternativet ”Låt oss ringa dig” tala med en supporttekniker.</span><span class="sxs-lookup"><span data-stu-id="28e20-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="499a3-103">Om priset på fakturan inte ser korrekt ut kan det bero på en prisändring vid förnyelse.</span><span class="sxs-lookup"><span data-stu-id="499a3-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="499a3-104">Om du inte tror att detta förklarar problemet, använd alternativet "Låt oss ringa dig" för att prata med en supporttekniker.</span><span class="sxs-lookup"><span data-stu-id="499a3-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>

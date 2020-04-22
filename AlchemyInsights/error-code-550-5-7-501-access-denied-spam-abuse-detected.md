@@ -1,8 +1,8 @@
 ---
-title: Felkod 550 5.7.501 åtkomst nekad, skräppost missbruk upptäcktes
+title: Felkod 550 5.7.501 Åtkomst nekad, spam missbruk upptäckt
 ms.author: chrisda
 author: chrisda
-ms.date: 6/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7be23f02878d12aa08cb4970af6f99539a9cefab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36740159"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703044"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a><span data-ttu-id="80c08-102">550 5.7.501 åtkomst nekad, skräppost missbruk upptäcktes</span><span class="sxs-lookup"><span data-stu-id="80c08-102">550 5.7.501 Access denied, spam abuse detected</span></span>
+# <a name="550-57501-access-denied-spam-abuse-detected"></a><span data-ttu-id="41c14-102">550 5.7.501 Åtkomst nekad, spam missbruk upptäckt</span><span class="sxs-lookup"><span data-stu-id="41c14-102">550 5.7.501 Access denied, spam abuse detected</span></span>
 
-<span data-ttu-id="80c08-103">Det här meddelandet uppstår vanligtvis när användare skickar e-postmeddelanden från IP-adresser med hjälp av initial *. onmicrosoft.com* domän som är tilldelad till nya klienter i Office 365.</span><span class="sxs-lookup"><span data-stu-id="80c08-103">Typically, this message occurs when users send email messages from IP addresses using the initial *.onmicrosoft.com* domain that's assigned to new tenants in Office 365.</span></span> <span data-ttu-id="80c08-104">Det enklaste sättet att lösa problemet är att:</span><span class="sxs-lookup"><span data-stu-id="80c08-104">The easiest way to resolve this problem is to:</span></span>
+<span data-ttu-id="41c14-103">Det här meddelandet visas vanligtvis när användare skickar e-postmeddelanden från IP-adresser med den ursprungliga *.onmicrosoft.com-domänen* som har tilldelats nya klienter i Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="41c14-103">Typically, this message occurs when users send email messages from IP addresses using the initial *.onmicrosoft.com* domain that's assigned to new tenants in Microsoft 365.</span></span> <span data-ttu-id="41c14-104">Det enklaste sättet att lösa problemet är att:</span><span class="sxs-lookup"><span data-stu-id="41c14-104">The easiest way to resolve this problem is to:</span></span>
 
-1. <span data-ttu-id="80c08-105">[Lägg till en domän till din klient](https://docs.microsoft.com//office365/admin/setup/add-domain).</span><span class="sxs-lookup"><span data-stu-id="80c08-105">[Add a domain to your tenant](https://docs.microsoft.com//office365/admin/setup/add-domain).</span></span>
+1. <span data-ttu-id="41c14-105">[Lägg till en domän i din klient .](https://docs.microsoft.com//office365/admin/setup/add-domain)</span><span class="sxs-lookup"><span data-stu-id="41c14-105">[Add a domain to your tenant](https://docs.microsoft.com//office365/admin/setup/add-domain).</span></span>
 
-2. <span data-ttu-id="80c08-106">[Ändra användarnas primära e-postadress](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) till den nya anpassade domänen som du just har lagt till.</span><span class="sxs-lookup"><span data-stu-id="80c08-106">[Change your users' primary email address](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) to the new custom domain you just added.</span></span>
+2. <span data-ttu-id="41c14-106">[Ändra användarnas primära e-postadress](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) till den nya anpassade domän som du just har lagt till.</span><span class="sxs-lookup"><span data-stu-id="41c14-106">[Change your users' primary email address](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) to the new custom domain you just added.</span></span>
