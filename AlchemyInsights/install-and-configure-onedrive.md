@@ -2,28 +2,28 @@
 title: Installera och konfigurera OneDrive
 ms.author: matteva
 author: pebaum
-ms.date: 6/10/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- "844"
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: d732b8a0804d348a27e6d896e058806b3611034c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: becdd4dc3be4dbeb87ceff3700f60019873bef2d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499009"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711001"
 ---
-# <a name="install-and-configure-onedrive"></a><span data-ttu-id="bd347-102">Installera och konfigurera OneDrive</span><span class="sxs-lookup"><span data-stu-id="bd347-102">Install and configure OneDrive</span></span>
+# <a name="install-and-configure-onedrive"></a><span data-ttu-id="e31a2-102">Installera och konfigurera OneDrive</span><span class="sxs-lookup"><span data-stu-id="e31a2-102">Install and configure OneDrive</span></span>
 
-<span data-ttu-id="bd347-103">OneDrive sync-klient är förinstallerad med Windows 10.</span><span class="sxs-lookup"><span data-stu-id="bd347-103">The OneDrive sync client is pre-installed with Windows 10.</span></span> <span data-ttu-id="bd347-104">Installera OneDrive för Windows 7 eller Mac eller få mobil app för din telefon eller tablet, gå till [http://onedrive.com/download](http://onedrive.com/download).</span><span class="sxs-lookup"><span data-stu-id="bd347-104">To install OneDrive for Windows 7 or Mac, or to get the mobile app for your phone or tablet, go to [http://onedrive.com/download](http://onedrive.com/download).</span></span>
+<span data-ttu-id="e31a2-103">OneDrive-synkroniseringsklienten är förinstallerad med Windows 10.</span><span class="sxs-lookup"><span data-stu-id="e31a2-103">The OneDrive sync client is pre-installed with Windows 10.</span></span> <span data-ttu-id="e31a2-104">Om du vill installera OneDrive för Windows 7 eller Mac eller hämta [https://onedrive.com/download](https://onedrive.com/download)mobilappen för mobilen eller surfplattan går du till .</span><span class="sxs-lookup"><span data-stu-id="e31a2-104">To install OneDrive for Windows 7 or Mac, or to get the mobile app for your phone or tablet, go to [https://onedrive.com/download](https://onedrive.com/download).</span></span>
   
-<span data-ttu-id="bd347-105">Om du vill konfigurera OneDrive sync-klient i Windows finns:</span><span class="sxs-lookup"><span data-stu-id="bd347-105">To set up the OneDrive sync client in Windows, see:</span></span>
+<span data-ttu-id="e31a2-105">Information om hur du konfigurerar OneDrive-synkroniseringsklienten i Windows finns i:</span><span class="sxs-lookup"><span data-stu-id="e31a2-105">To set up the OneDrive sync client in Windows, see:</span></span>
   
-- [<span data-ttu-id="bd347-106">Ställ in datorn för att synkronisera din OneDrive för Business-filer i Office 365</span><span class="sxs-lookup"><span data-stu-id="bd347-106">Set up your computer to sync your OneDrive for Business files in Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=533375)
+- [<span data-ttu-id="e31a2-106">Konfigurera datorn så att din OneDrive för företag-filer synkroniseras</span><span class="sxs-lookup"><span data-stu-id="e31a2-106">Set up your computer to sync your OneDrive for Business files</span></span>](https://go.microsoft.com/fwlink/?linkid=533375)
 
-- [<span data-ttu-id="bd347-107">Synkronisera SharePoint-filer med den nya OneDrive-synkroniseringsklienten</span><span class="sxs-lookup"><span data-stu-id="bd347-107">Sync SharePoint files with the new OneDrive sync client</span></span>](https://go.microsoft.com/fwlink/?linkid=871666)
+- [<span data-ttu-id="e31a2-107">Synkronisera SharePoint-filer med den nya OneDrive-synkroniseringsklienten</span><span class="sxs-lookup"><span data-stu-id="e31a2-107">Sync SharePoint files with the new OneDrive sync client</span></span>](https://go.microsoft.com/fwlink/?linkid=871666)
