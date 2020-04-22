@@ -1,5 +1,5 @@
 ---
-title: exportverktyg för e-informationsavslöjande
+title: Exportera eDiscovery-exportverktyg
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,22 +14,22 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 7e2964ef0a44ddf421e4aae007acbdbda196e20f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769321"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714788"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Kan du inte installera eller köra e-informationsavslöjande export verktyg?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Kan du inte installera eller köra exportverktyget för eDiscovery?
 
-Om du inte kan installera eller köra Office 365 e-informationsavslöjande export verktyg för att hämta sökresultat, kontrollera följande saker:
+Om du inte kan installera eller köra exportverktyget för eDiscovery för att hämta sökresultaten kontrollerar du följande:
   
-- Den dator du använder uppfyller dessa förutsättningar:
+- Datorn du använder uppfyller dessa förutsättningar:
 
-  - 32-eller 64-bitars versioner av Windows 7 och senare versioner
+  - 32- eller 64-bitarsversioner av Windows 7 och senare versioner
 
-  - Microsoft.NET Framework 4,7
+  - Microsoft .NET Framework 4.7
 
   - En webbläsare som stöds:
 
@@ -41,9 +41,9 @@ Om du inte kan installera eller köra Office 365 e-informationsavslöjande expor
 
     Andra webbläsare, till exempel Google Chrome och Mozilla Firefox stöds inte.
 
-- Din organisation kan ansluta till slutpunkten i Azure, vilket är ** \*. blob.Core.Windows.net** (jokertecknet representerar en unik identifierare för ditt exportjobb).
+- Din organisation kan ansluta till slutpunkten i Azure, som är ** \*.blob.core.windows.net** (jokertecknet representerar en unik identifierare för ditt exportjobb).
 
-- Du har tilldelats rollen export i säkerhets &amp; regelefterlevnadscentret för Office 365. Som standard är den här rollen endast tilldelad till rollgruppen eDiscovery Manager. Se [tilldela eDiscovery-behörigheter](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+- Du har tilldelats rollen Exportera i Microsoft 365 Security &amp; Compliance Center. Som standard tilldelas den här rollen endast till rollgruppen eDiscovery Manager. Se [Tilldela eDiscovery-behörigheter](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
-Mer information finns i [Exportera innehåll sökresultat](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Mer information finns i [Exportera sökresultat för innehåll](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

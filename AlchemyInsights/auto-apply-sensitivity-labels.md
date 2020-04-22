@@ -1,9 +1,9 @@
 ---
-title: Använd känslighets etiketter automatiskt
+title: Använda känslighetsetiketter automatiskt
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d812b8ba6f80b61f48502df53c67a17c102d22b1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050327"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712404"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Använd känslighets etiketter automatiskt
+# <a name="auto-apply-sensitivity-labels"></a>Använda känslighetsetiketter automatiskt
 
-Känslighets etiketter kan användas manuellt på innehåll av användare, eller så kan du konfigurera dem så att de automatiskt tillämpas på innehåll.
+Känslighetsetiketter kan tillämpas manuellt på innehåll av användare, eller så kan du konfigurera dem så att de tillämpas automatiskt på innehåll.
 
-Automatiskt tillämpa känslighets etiketter tar bort behovet av att utbilda användare om hur du klassificerar innehåll och behovet av att meddela dem om principkonfigurationer.
+Om känslighetsetiketter tillämpas automatiskt tas behovet av att utbilda användare åt hur innehåll ska klassificeras och behovet av att meddela dem om principkonfigurationer.
 
-Om du vill använda etiketter automatiskt krävs följande:
+För att använda etiketter automatiskt krävs följande:
 
-- Azure information Protection P2-prenumeration
-- [Hämta och installera den Azure information Protection Unified etikettering klienten](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- P2-prenumeration för Azure Information Protection P2
+- [Ladda ned och installera enhetlig etikettklient för Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Vi arbetar med inbyggt stöd som inte kräver Azure information Protection Unified etikettering klienten i framtiden.
+Vi arbetar med inbyggt stöd som inte kräver Azure Information Protection unified labeling klient i framtiden.
 
-För närvarande stöder endast Windows Unified etikettering klienten.  Funktionen stöds inte ännu på Mac, iOS och Android.
+För närvarande stöder endast Windows den enhetliga märkningsklienten.  Funktionen stöds ännu inte på Mac, iOS och Android.
 
-Mer information om känslighets etiketter och hur du använder dem automatiskt på innehåll finns i:
+Mer information om känslighetsetiketter och automatisk användning av dem på innehåll finns i:
 
-- [Översikt över känslighets etiketter](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Översikt över känslighetsetiketter](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
 - [Använda en känslighetsetikett på innehåll automatiskt](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

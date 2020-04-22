@@ -1,9 +1,9 @@
 ---
-title: 744 skapa användare när organisationen är i Hybrid-läge
+title: 744 Skapa användare när organisationen är i hybridläge
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "744"
 - "1200022"
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 3300b746e60158db4feac5b1df9f9f95a30c0d9f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2ccad7ce9f2cdfa2c11dc020a0bcb84eec1cf096
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514925"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715286"
 ---
-# <a name="create-users-in-hybrid-deployments"></a>Skapa användare i hybrid distributioner
+# <a name="create-users-in-hybrid-deployments"></a>Skapa användare i hybriddistributioner
 
-När din organisation är en hybrid-distribution mellan en lokal miljö och Office 365, måste du skapa alla användarobjekt i Active Directory lokaler. Du kan skapa användarobjekt i lämpliga organisationsenheten (OU) så att de ska synkroniseras till Office 365-organisation.
+När din organisation är en hybriddistribution mellan en lokal miljö och Microsoft 365 måste du skapa alla användarobjekt i den lokala Active Directory. Du skapar användarobjekten i lämplig organisationsenhet så att de synkroniseras i organisationen.

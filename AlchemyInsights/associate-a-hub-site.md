@@ -1,8 +1,8 @@
 ---
-title: Associera en navplats
+title: Associera en hubbplats
 ms.author: pebaum
 author: pebaum
-ms.date: 8/7/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: ff623699d54700c781d64fb4e0d5df0edb675a37
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 32e49b8afc6ba63463faac3f258c96266db04941
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050363"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712548"
 ---
-# <a name="associate-a-hub-site"></a>Associera en navplats
+# <a name="associate-a-hub-site"></a>Associera en hubbplats
 
-Om du vill associera en befintlig plats till din navplats gör du följande:
+Så här associerar du en befintlig webbplats till hubbplatsen:
   
-1. Välj **Inställningar** (kugghjulsikonen i det övre högra hörnet) på din webbplats och välj sedan **platsinformation**.
+1. Välj **Inställningar** (kugghjulsikonen i det övre högra hörnet) på webbplatsen och välj sedan **Webbplatsinformation**.
 
-2. Välj den navplats som du vill associera din webbplats till i menyn för **webbplats information** på **navet** och välj sedan **Spara**. Utseendet på din webbplats ändras så att det stämmer överens med navplatsen och navigeringsfältet för navwebbplatsen visas högst upp.
+2. På panelen **Redigera webbplatsinformation** på **menyn Navplatsförening** väljer du den hubbplats som du vill associera till, och väljer sedan **Spara**. Webbplatsens utseende ändras så att den matchar hubbplatsen och navigeringsfältet för hubbwebbplatsen visas högst upp.
 
  > [!Note]
->Om alternativet nav plats Association inte finns eller inga platser finns där, kan inte navplatser aktiveras eller du kanske inte har behörighet att associera webbplatser med en navplats. Kontakta administratören om du vill ha mer information.
+>Om alternativet Hub-platsassociation inte finns eller om inga platser visas där kanske hubbplatser inte är aktiverade eller så kanske du inte har behörighet att associera platser med en hubbplats. Kontakta administratören för mer information.
 >
->Det finns ingen gräns för antalet platser som kan associeras med en navplats.
+>Det finns ingen gräns för hur många webbplatser som kan associeras med en hubbplats.
   

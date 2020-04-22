@@ -1,9 +1,9 @@
 ---
-title: Skicka e-postmeddelanden blockeras av SpamHaus fel
+title: Fel att skicka e-post blockeras av SpamHaus
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "255"
 - "3100003"
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: 39213f6f1b96c2bef9ea071f43c38766debf64d1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3ff4f7a155fe74f5b42a1bd43e67ef0a751d7fbd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527160"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714276"
 ---
-# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Fel vid överföring av e-post: Klientvärd blockeras med hjälp av Spamhaus
+# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Fel att skicka e-post: Klientvärden blockerad med Spamhaus
 
-IP-adressen som meddelandet är på en Blockeringslista som ägs av [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245). Skälen för att blockeras av Spamhaus inkludera avslöjade konton äventyras av datorer som delar en gemensam IP-adress och principer för Internet-leverantör (ISP). Det är möjligt korrigeringar:
+IP-adressen som skickade meddelandet finns på en blockeringslista som ägs av [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245). Orsaker till att blockeras av Spamhaus är komprometterade konton, komprometterade datorer som delar en offentlig IP-adress och Internet Service Provider-principer (ISP). Möjliga korrigeringar är:
   
-- För blockerade inkommande meddelanden till Office 365 där du kan bestämma källservern för e-post, måste du ta reda på orsaken och ta bort spärren från webbplatsen Spamhaus.
+- För blockerade inkommande meddelanden där du styr källmeddelandeservern måste du fastställa orsaken och ta bort blocket från Spamhaus webbplats.
 
-- Blockerade inkommande meddelanden till Office 365 där källans IP-adress hör till någon annan måste adress ägare ta bort spärren från webbplatsen Spamhaus. Om IP-adressen är i princip Block lista (PBL), ägaren tilldela en annan statisk IP-adress eller ta bort adressen från PBL.
+- För blockerade inkommande meddelanden där källans IP-adress tillhör någon annan måste adressägaren ta bort blocket från Spamhaus-webbplatsen. Om IP-adressen finns i PBL (Policy Block List) kan ägaren tilldela en annan statisk IP-adress eller ta bort adressen från PBL.
 
-- Du kan få felet om meddelanden dirigeras via en 3: e part tjänst för blockerade utgående meddelanden från din domän i Office 365. Du kan använda verktyget en WHOIS-sökning för att hitta den blockerade IP-adress ägaren.
+- För blockerade utgående meddelanden från din domän som är ansluten till Microsoft kan du få det här felet om meddelandena dirigeras via en tjänst från tredje part. Du kan använda ett WHOIS-uppslagsverktyg för att hitta ägaren till den blockerade IP-adressen.

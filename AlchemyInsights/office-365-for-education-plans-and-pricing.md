@@ -1,9 +1,9 @@
 ---
-title: Office 365 för utbildningsplaner och prissättning
+title: Abonnemang och priser för Office 365 för utbildning
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: d18a38cfd18c053313ed43ecfbf0f7fdc2a5dd19
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 01a75079f56c5ff91e54e2a085d9969521bab82c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389486"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713412"
 ---
-# <a name="get-office-365-free-for-your-entire-school"></a>Hämta Office 365 gratis för hela skola
+# <a name="get-microsoft-365-free-for-your-entire-school"></a>Få Microsoft 365 gratis för hela skolan
 
-Förbättra klassrummet och skolan samarbete med gratis produktivitetsverktyg. Du måste verifiera att du är en ackrediterade utbildningsinstitutioner att utnyttja dessa erbjudanden.
+Förbättra klassrums- och skolsamarbetet med kostnadsfria produktivitetsverktyg. Du måste kontrollera att du är en ackrediterad akademisk institution för att dra nytta av dessa erbjudanden.
   
-- [Granska utbildningsplaner](https://products.office.com/academic/compare-office-365-education-plans)
+- [Se över utbildningsplanerna](https://products.office.com/academic/compare-office-365-education-plans)
 
-- [Jämför alla Office 365-planer](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Jämför alla Microsoft 365-prenumerationer](https://products.office.com/business/compare-more-office-365-for-business-plans)

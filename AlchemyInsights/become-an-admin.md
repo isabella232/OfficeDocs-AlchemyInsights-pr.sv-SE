@@ -2,7 +2,7 @@
 title: Bli administratör
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 4/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: 33657fd68cdcbc4b9762e641156f9800b7b58f4b
-ms.sourcegitcommit: 4ba462af6cc00ea563f10c3f4a3d50e46962c166
+ms.openlocfilehash: 36e4d335972edb66f59e6589c4f725fcb852b931
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38715438"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712368"
 ---
 # <a name="become-an-admin"></a>Bli administratör
 
-Om du vill överta rollen admin för din organisation, måste du ta över klienten i Office 365.
+Om du vill axla administratörsrollen för din organisation måste du ta över klienten.
   
-Följ instruktionerna i den här guiden: [admin övertag](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover) Ande
+Följ instruktionerna i den här guiden: [Admin Takeover](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover)

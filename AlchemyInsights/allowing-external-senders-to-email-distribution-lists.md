@@ -1,5 +1,5 @@
 ---
-title: 714 tillåta externa avsändare e-postdistributionslistor
+title: 714 Tillåta externa avsändare att e-postdistributionslistor
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,19 +12,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 165c84715d38f46f076941ec9eb4a4624ffcd5a6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768242"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708229"
 ---
 # <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Tillåt externa avsändare att skicka meddelanden till distributionsgrupper
 
-Om användare utanför organisationen får fel när de skickar meddelanden till dina distributionsgrupper, eller om du vill kontrollera att dina distributionsgrupper är konfigurerade för att ta emot e-post från externa avsändare, gör du så här:
+Om användare utanför organisationen får felmeddelanden när de skickar meddelanden till distributionsgrupperna, eller om du vill kontrollera att distributionsgrupperna är konfigurerade för att ta emot e-post från externa avsändare, gör du så här:
 
-1. I Office 365 administratörscenter, gå till den **grupper** > [grupper](https://portal.office.com/adminportal/home#/groups) sidan.  
+1. Gå till sidan[Gruppergrupper i](https://portal.office.com/adminportal/home#/groups) **administrationscentret för** > Microsoft 365.  
 
-2. Välj distributionsgruppen och i fönstret gruppegenskaper väljer du fliken **Inställningar** .
+2. Markera distributionsgruppen och välj fliken Inställningar i fönstret **Gruppegenskaper.**
 
 3. Välj **Tillåt externa avsändare att skicka e-post till den här gruppen**och välj sedan **Spara**.

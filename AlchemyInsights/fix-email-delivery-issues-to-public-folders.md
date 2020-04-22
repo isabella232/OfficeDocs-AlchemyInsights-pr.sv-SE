@@ -1,9 +1,9 @@
 ---
-title: Åtgärda problem med e-post levereras till e-postfunktioner gemensamma mappar
+title: Åtgärda problem med e-postleverans på e-postaktiverade gemensamma mappar
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.custom:
 - "1956"
 - "3500007"
 ms.assetid: ''
-ms.openlocfilehash: f7b5e5a230d26870d5e95e8762b5874f73723c6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e261fe60843555fa45927b0a6b36e1ccf79fb028
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525156"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716370"
 ---
-# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Åtgärda problem med e-post levereras till e-postfunktioner gemensamma mappar
+# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Åtgärda problem med e-postleverans på e-postaktiverade gemensamma mappar
 
-Om externa avsändare kan inte skicka meddelanden till din e-postfunktioner gemensamma mappar och avsändare visas fel: **kunde inte hittas (550 5.4.1)**, verifiera e-domänen för den gemensamma mappen konfigureras som en intern relay domän i stället för en auktoritär domän:
+Om externa avsändare inte kan skicka meddelanden till dina e-postaktiverade gemensamma mappar och avsändarna får **felmeddelandet: det gick inte att hitta (550 5.4.1)** kontrollerar du att e-postdomänen för den gemensamma mappen är konfigurerad som en intern relay-domän i stället för en auktoritär domän:
 
-1. Öppna [Exchange administratörscenter (UK)](https://docs.microsoft.com/Exchange/exchange-admin-center).
+1. Öppna [Administrationscentret för Exchange (EAC)](https://docs.microsoft.com/Exchange/exchange-admin-center).
 
-2. Gå till **e-postflödet** \> **accepterade domäner**, markera accepterade domänen och klicka sedan på **Redigera**.
+2. Gå till **Domäner för** **e-postflöde** \> Accepterade, välj den accepterade domänen och klicka sedan på **Redigera**.
 
-3. I egenskaperna för sidan som öppnas om typen domän är **auktoritära**, ändra värdet till **interna relay** och klicka på **Spara**.
+3. Om domäntypen är inställd på **Auktoritär**på egenskapssidan som öppnas ändrar du värdet till **Internt relä** och klickar sedan på **Spara**.
 
-Om externa avsändare får fel **du inte har behörighet (550 5.7.13)**, kör du följande kommando i [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) Se behörigheter för anonyma användare i den delade mappen:
+Om externa avsändare får felet **som du inte har behörighet (550 5.7.13)** kör du följande kommando i Exchange Online [PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) för att se behörigheterna för anonyma användare i den gemensamma mappen:
 
 `Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous`Till exempel `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous`.
 
-Tillåt externa användare att skicka e-post till mappen genom att lägga till CreateItems access rätt till användaren Anonym. Till exempel `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`.
+Om du vill att externa användare ska kunna skicka e-post till den här gemensamma mappen lägger du till åtkomsten till CreateItems till användaren Anonym. Till exempel `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`.

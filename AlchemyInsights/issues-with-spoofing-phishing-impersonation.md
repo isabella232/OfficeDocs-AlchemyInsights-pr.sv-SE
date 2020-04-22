@@ -1,5 +1,5 @@
 ---
-title: Problem med spoofing, nätfiske eller personifiering?
+title: Problem med förfalskning, nätfiske eller personifiering?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 73a960d76802ccfee5500b1816f34a15b960c3f2
-ms.sourcegitcommit: 7398c9d81f00328d1edc515a195d779dd28f1bea
+ms.openlocfilehash: fa6503b7ec1c4e83030149ee460e6d84602d7f4d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36716121"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713988"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problem med spoofing, nätfiske eller personifiering?
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problem med förfalskning, nätfiske eller personifiering?
 
-Läs om hur Office 365 skyddar dig från:
+Läs om hur Microsoft skyddar dig från:
 
 - [Kapning](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
 
@@ -26,12 +26,12 @@ Läs om hur Office 365 skyddar dig från:
 
 Ytterligare rekommendationer:
 
-- För falska avsändare som verkar komma från din egen domän kan [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) och [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) hjälpa dig.
+- För förfalskade avsändare som verkar komma från din egen domän kan [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) och [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) hjälpa till.
 
-- Kontrollera att avsändare i din egen domän inte är konfigurerade för att kringgå skräppostfiltrering med e-postflödesregler (kallas även transportregler) eller Tillåt listposter. Mer information finns i [försiktighetsåtgärder mot kringgår Office 365 skräppostfilter](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+- Verifiera att avsändare i din egen domän inte är konfigurerade för att kringgå skräppostfiltrering med hjälp av regler för e-postflöde (kallas även transportregler) eller tillåta listposter. Mer information finns i [Försiktighetsåtgärder mot att kringgå Microsofts skräppostfilter](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
 
-- Kontrollera att användarna inte har konfigurerat [Betrodda avsändare List](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) poster som kan tillåta phishing-attacker.
+- Kontrollera att användare inte har konfigurerat listposter för [betrodda avsändare](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) som kan tillåta nätfiskeattacker.
 
-- Överväg att leverera skräppost-och phishing-meddelanden med hög tillförlitlighet till karantän i stället för skräppostmappen. Mer information finns [i karantän e-postmeddelanden i Office 365](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).
+- Överväg att leverera skräppost och nätfiskemeddelanden med högt förtroende till karantän i stället för mappen Skräppost. Mer information finns i [Karantän e-postmeddelanden](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).
 
-**Att [rapportera meddelanden till Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) är det bästa sättet att låta oss veta hur filtren presterar.**
+**[Att rapportera meddelanden till Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) är det bästa sättet att informera oss om hur filtren fungerar.**

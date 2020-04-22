@@ -1,5 +1,5 @@
 ---
-title: Öka storleken på postlådan
+title: Öka postlådans storlek
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,29 +12,29 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c6a2030eb7aa1cc47ce70725cbb07c8fac6a7175
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: 13c9448e19f11490182612ff627e72e38809752a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068331"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714060"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Växla planer för att öka storleken på postlådan
+# <a name="switch-subscriptions-to-increase-mailbox-size"></a>Växla prenumerationer för att öka postlådans storlek
 
-Om din Office 365 postlåda storlek är redan 100 GB, finns det inget sätt att öka den.
+Om postlådans storlek redan är 100 GB kan du inte öka den.
   
-Om postlådestorleken är 50 GB kan du öka den till 100 GB genom att byta till [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) eller [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Här är stegen för att byta till en annan Office 365 plan:
+Om postlådans storlek är 50 GB kan du öka den till 100 GB genom att byta till [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) eller [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Här är stegen för att växla till en annan prenumeration:
   
-1. I Microsoft 365 administratörscenter går du till sidan **fakturerings** \> [produkter & tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Gå till sidan [Faktureringsprodukter & tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrationscentret **för** \> Microsoft 365.
 
 2. Välj den prenumeration som du vill uppgradera.
 
-3. På sidan Prenumerationsinformation väljer du **Uppgradera**.
+3. På sidan prenumerationsinformation väljer du **Uppgradera**.
 
-4. Leta reda på den plan som du vill uppgradera och välj sedan knappen **Uppgradera** .
+4. Leta reda på det abonnemang som du vill uppgradera till och välj sedan **knappen Uppgradera.**
 
-5. Ange antalet licenser som du behöver, Välj om du vill betala varje månad eller för hela året och välj sedan **kassan**.
+5. Ange antalet licenser som du behöver, välj om du vill betala varje månad eller för hela året och välj sedan **Kassan**.
 
-Mer information finns i [Uppgradera till en annan plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+Mer information finns i [uppgradera till en annan plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
 
-Om du har ett [Office 365-abonnemang som stöder ett arkiv på plats](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)kan du också få ytterligare e-postlagring genom att aktivera en arkivpostlåda. En arkivpostlåda ger dig ytterligare lagringsutrymme och gör att du kan flytta, kopiera och söka efter meddelanden i både den primära och arkivera postlådan. Anvisningar om hur du aktiverar en arkivpostlåda finns i [Aktivera en arkivpostlåda](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Om du har en prenumeration som stöder ett arkiv på plats kan du också få ytterligare [e-postlagring](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)genom att aktivera en arkivpostlåda. En arkivpostlåda ger dig ytterligare lagringsutrymme och låter dig flytta, kopiera och söka efter meddelanden i både den primära postlådan och arkivpostlådan. Steg om hur du aktiverar en arkivpostlåda finns i [Aktivera en arkivpostlåda](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).

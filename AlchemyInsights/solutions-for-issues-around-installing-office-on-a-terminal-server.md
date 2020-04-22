@@ -1,43 +1,36 @@
 ---
-title: Lösningar för problem kring installation av Office på en terminalserver
+title: Lösningar på problem kring installation av kontor på en Terminal Server
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: bed91bf59219a19d5742d3ca4a61718c34b5c774
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: da69592fd0f55a4bfce45d271aeca5cde1f659b2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36501493"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712692"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Lösningar för problem kring installation av Office på en terminalserver
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Lösningar på problem kring installation av kontor på en Terminal Server
 
-Om du vill använda delad datoraktivering måste du ha en Office 365-plan som innehåller Office 365 ProPlus.
+Om du vill använda aktivering av delade datorer måste du ha en prenumeration som innehåller Microsoft 365 Apps för företag.
   
-- Kontrollera att aktivering av delade datorer är aktiverat för Office 365 ProPlus
-    
-- Kontrollera att aktiveringen för Office 365 ProPlus lyckades
-    
+- Kontrollera att aktivering av delad dator är aktiverad
+- Kontrollera att aktiveringen lyckades
 - Granska felmeddelanden för aktivering av delade datorer:
-    
-  - "De produkter som vi hittade på ditt konto kan inte användas för att aktivera Office i delade dator scenarier"
+- "De produkter vi hittade i ditt konto kan inte användas för att aktivera Office i scenarier för delade datorer"
   
-Det här felet innebär att du inte har en Office 365-plan som innehåller Office 365 ProPlus.
-    
-  - "Olicensierad produkt"
-    
-  - Kontrollera att användaren har tilldelats en licens för Office 365 ProPlus.
-    
-  - Kontrollera att användaren loggar in med sitt användarkonto för Office 365
-    
-  - Kontrollera att det finns en anslutning mellan den delade datorn och Internet.
-    
-För andra felsökningstips, se: [Felsöka problem med delad datoraktivering för Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
-  
+Det här felet innebär att du inte har en prenumeration som innehåller Microsoft 365 Apps för företag.
 
+"Olicensierad produkt"
+
+- Kontrollera att användaren har tilldelats en licens för Microsoft 365 Apps för företag.
+- Kontrollera att användaren loggar in med sitt användarkonto.
+- Kontrollera att det finns anslutning mellan den delade datorn och Internet.
+
+Fler felsökningstips finns i: [Felsöka problem med aktivering av delad dator](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)

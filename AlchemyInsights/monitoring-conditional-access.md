@@ -1,40 +1,40 @@
 ---
-title: Övervakning av villkorad tillgång
+title: Övervaka villkorlig åtkomst
 ms.author: pebaum
 author: pebaum
-ms.date: 8/1/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 374814f4eabd61433a15876ebf7f351819933c21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8b76d58791408037b5704b421d7afa166e3ea0be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538793"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713736"
 ---
-# <a name="monitoring-conditional-access-for-exchange"></a>Övervakning av villkorlig åtkomst för Exchange
+# <a name="monitoring-conditional-access-for-exchange"></a>Övervaka villkorlig åtkomst för Exchange
 
-Riktade med villkorad tillgång användare får ett e-postmeddelanden om de inte uppfyller kraven i din organisation åtkomst. Lös, rekommenderar vi en eller flera av följande lösningar:
+Användare som är inriktade på villkorlig åtkomst får ett e-postmeddelande om de inte uppfyller organisationens åtkomstkrav. För att lösa det rekommenderar vi en eller flera av följande lösningar:
   
-- Om enheten antas vara anmäld, informera användaren att gå till appen företagsportal och kontrollera att det visas i företagets Portal. Användaren bör registrera enheten om den inte.
+- Om enheten antas vara registrerad, råda användaren att gå till företagsportalappen och kontrollera att den visas i företagsportalen. Om den inte gör det bör användaren registrera enheten.
     
-- Gå till Azure portal **Intune \> överensstämmelse med enheten**. Klicka på **enheten överensstämmelse**under **Bildskärm** . Visa enheten överensstämmelse rapporten för att kontrollera att användarens enhet är markerad som kompatibla. 
+- Gå till **Intune \> Device compliance**i Azure-portalen . Klicka på **Enhetsefterlevnad**under **Bildskärm.** Visa enhetens efterlevnadsrapport för att kontrollera att användarens enhet är markerad som kompatibel. 
     
-- Gå till Azure portal **Intune \> överensstämmelse med enheten**. Klicka på **principer**under **Hantera**. I listan över principer för att kontrollera att en profil har tilldelats användarens enhet. Om ingen profil tilldelas Intune inte bekräfta överensstämmelse Enhetsstatus. 
+- Gå till **Intune \> Device compliance**i Azure-portalen . Klicka på **Principer**under **Hantera.** Kontrollera att en profil har tilldelats användarens enhet i listan över efterlevnadsprinciper. Om ingen profil har tilldelats kan Intune inte bekräfta enhetens efterlevnadsstatus. 
     
-- Redigera Användartilldelning villkorad tillgång.
+- Redigera användarens tilldelning av villkorlig åtkomst.
     
-1. Gå till Azure portal **Intune \> villkorad tillgång \> principer**
+1. Gå till **Intune-principer \> för \> villkorlig åtkomst i** Azure-portalen
     
 2. Välj en princip i listan
     
-3. Klicka på **användare och grupper**
+3. Klicka på **Användare och grupper**
     
-4. Om du vill ange en viss policy på någon att lägga till dem till **listan** . Om du vill säkerställa att en person utelämnas från principen att lägga till dem i listan **Exkludera** . 
+4. Om du vill rikta en viss princip mot någon lägger du till dem i listan **Inkludera.** Om du vill vara säkra på att en person utelämnas från principen lägger du till dem i listan **Uteslut.** 
     
-Läs mer: [hur du övervaka villkorad tillgång enheter](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
+Läs mer: [Så här övervakar du enheter med villkorlig åtkomst](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 

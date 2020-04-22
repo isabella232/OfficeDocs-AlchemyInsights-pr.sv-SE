@@ -2,7 +2,7 @@
 title: Felmeddelande vid delning av filer från Utforskaren
 ms.author: pebaum
 author: pebaum
-ms.date: 9/19/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,20 +11,20 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 67cb6bb5c36868715747556f33b51812017a7c12
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f7ea3b4c0695a10e8df930b415660b8bdf061e85
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052235"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714384"
 ---
 # <a name="error-message-when-sharing-files-from-windows-explorer"></a>Felmeddelande vid delning av filer från Utforskaren
 
-När du försöker dela från Utforskaren kan du få följande felmeddelande:
+NÃ¤r du fÃ¶rsÃ¶rsÃ¶r att dela frÃ¶r Utforskaren visas fÃ¶nde:
   
-"Tyvärr, vi kan inte nå servern just nu. Vänligen försök igen senare "
+"Tyvärr, vi kan inte nå servern just nu. Försök igen senare"
   
-För att lösa felmeddelandet, från Internet Explorer gå till **verktyg** \> **Internet alternativ** \> Klicka på fliken **Avancerat** och avmarkera kryssrutan **Spara inte krypterade sidor på disk**.
+LÃ¶s lÃ¶s felmeddelande frÃ¥n Internet Explorer **Tools** \> **Internet Options** \> klickar du pÃ¥ fliken Avancerade pÃ¥ fliken **Avancerade** och avmarkerar kryssrutan Spara **inte krypterade sidor pÃ¥ disk .**
   
- **Obs**: du kan behöva starta om webbläsaren för att inställningen ska träda i kraft. Mer information finns [i "det går inte att nå servern just nu" felmeddelande när du delar filer](https://go.microsoft.com/fwlink/?linkid=2022914).
+ **Du**kan behöva starta om webbläsaren för att inställningen ska börja gälla. Mer information finns i [felmeddelandet "Det går inte att nå servern just nu" när du delar filer](https://go.microsoft.com/fwlink/?linkid=2022914).
   

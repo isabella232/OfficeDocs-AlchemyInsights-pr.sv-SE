@@ -1,9 +1,9 @@
 ---
-title: Avbryta prenumerationen på Office 365
+title: Avsluta Microsoft 365-prenumeration
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 3aecd74ad35c7c9cfc799cc73434e57065f09fdf
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7d1e37d00876c117f7c83f960c05a350ed8a982c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665541"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711577"
 ---
-# <a name="cancelling-your-office-365-subscription"></a>Om du avbryter din prenumeration på Office 365?
+# <a name="cancelling-your-microsoft-365-subscription"></a>Vill du avbryta din Microsoft 365-prenumeration?
 
-Vi beklagar att du gå, men här är dina alternativ för att avbryta prenumerationen:
+Vi beklagar att du går, men här är dina alternativ för att avbryta din prenumeration:
   
-- Om du är en utvärderingsversion kund, finns det inget att avbryta. Prova abonnemang upphör automatiskt om du inte anger en betalningsmetod.
+- Om du är en provkund finns det inget att avbryta. Provprenumerationer upphör att gälla automatiskt om du inte anger en betalningsmetod.
 
-- Om du har färre än 25 tilldelade licenser kan du avbryta prenumerationen online. Gå till **Fakturering** \> [produkter & tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054). Välj **Avbryt prenumeration**i avsnittet **Inställningar för & åtgärder** .
+- Om du har färre än 25 tilldelade licenser kan du avbryta prenumerationen online. Gå till **Faktureringsprodukter** \> [& tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054). I avsnittet **Inställningar & Åtgärder** väljer du Avbryt **prenumeration**.
 
-- Om du har mer än 25 tilldelade licenser kan du antingen ta bort användare förrän du har färre än 25 eller använda alternativet ”Låt oss ringa dig” tala med en supporttekniker.
+- Om du har fler än 25 tilldelade licenser kan du antingen ta bort användare tills du har färre än 25 eller använda alternativet "Låt oss ringa dig" för att prata med en supporttekniker.
 
-Mer information finns i [avbryta prenumerationen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Mer information finns i [Avbryt prenumerationen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

@@ -1,9 +1,9 @@
 ---
-title: Skapa principer för Intune och profiler
+title: Skapa Intune-principer och profiler
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: 11516232e7ad1fb1d54f07bccd31d586d5c04d42
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fac2a9e41449b4eb9b87d21d4cba4f6f5192d9c6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514781"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715414"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>Skapa principer för Intune och profiler
+# <a name="creating-intune-policy-and-profiles"></a>Skapa Intune-princip och profiler
 
-I Intune, kan du skapa principer och profiler som gör olika saker.
+I Intune kan du skapa principer och profiler som gör olika saker.
 
-- **Registrering profiler**: förkonfigurera dina enheter av plattformen, aktivera användare tillhörighet, använda autentisering på flera plan och mycket mer.
+- **Registreringsprofiler**: Förkonfigurera dina enheter efter plattform, aktivera användartillhörighet, använd multifaktorautentisering med mera.
 
-  [Vad är registrering av enhet](https://docs.microsoft.com/intune/device-enrollment)och skapa profiler för registrering för [Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll)och [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) är bra resurser.
+  [Vad är enhetsregistrering](https://docs.microsoft.com/intune/device-enrollment)och skapa registreringsprofiler för [Android,](https://docs.microsoft.com/intune/android-enroll) [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll)och [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) är bra resurser.
 
-- **Principer för efterlevnad**: definiera regler och inställningar som enheter måste följa för att vara kompatibel. Du kan också använda principer för att övervaka enheter och meddela användare om överträdelsen.
+- **Efterlevnadsprinciper**: Definiera de regler och inställningar som enheter måste följa för att vara kompatibla. Du kan också använda efterlevnadsprinciper för att övervaka enheter och meddela användarna om bristande efterlevnad.
 
-  Komma igång med [principer för överensstämmelse av enheten](https://docs.microsoft.com/intune/device-compliance-get-started).
-- **Principer för villkorad tillgång**: att säkra företagsresurser beroende på villkor som du anger. Använd exempelvis villkorad tillgång för att begränsa åtkomst till e-post och SharePoint för enheter som inte är kompatibla.
+  Komma igång med [principer för enhetsefterlevnad](https://docs.microsoft.com/intune/device-compliance-get-started).
+- **Principer för villkorlig åtkomst**: Skydda organisationsresurser, beroende på de villkor som du anger. För enheter som inte är kompatibla använder du till exempel villkorlig åtkomst för att begränsa åtkomsten till e-post och SharePoint.
 
-  [Vad är villkorad tillgång](https://docs.microsoft.com/intune/conditional-access) och [olika sätt att använda villkorad tillgång](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) är bra resurser för att komma igång.
+  [Vad är villkorlig åtkomst](https://docs.microsoft.com/intune/conditional-access) och [vanliga sätt att använda villkorlig åtkomst](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) är bra resurser för att komma igång.
 
-- **Konfigurationsprofiler**: hantera funktioner och inställningar för enheter, inklusive postinställningar för e-, lägga till en WiFi-nätverk, använda inbyggda mallar och kontroll iOS och macOS enhetens funktioner.
+- **Konfigurationsprofiler**: Hantera funktioner och inställningar på enheter, inklusive e-postinställningar, lägg till ett WiFi-nätverk, använd inbyggda mallar, styra iOS- och macOS-enhetsfunktioner med mera.
 
-  Kom igång med [enhetsprofiler konfiguration](https://docs.microsoft.com/intune/device-profiles).
+  Kom igång vid [enhetskonfigurationsprofiler](https://docs.microsoft.com/intune/device-profiles).
 
 Användbara länkar:
 
-- [Vanliga frågor, problem och lösningar med enheten principer och profiler i Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Vanliga frågor, problem och lösningar med enhetsprinciper och profiler i Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Felsökning av principer och profiler i Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Felsöka principer och profiler i Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)

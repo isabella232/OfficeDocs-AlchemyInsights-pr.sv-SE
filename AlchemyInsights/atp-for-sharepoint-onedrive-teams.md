@@ -1,34 +1,34 @@
 ---
-title: Tillgängligt att LOVA för SharePoint, OneDrive och Microsoft-team
+title: ATP för SharePoint, OneDrive och Microsoft Teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: b304f6c7d9959e49a8152c03f11c6c864a154ea5
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 28046c61e1aedbb2c07cca3fc01b118d0dc3c143
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765454"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712476"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>Tillgängligt att LOVA för SharePoint, OneDrive och Microsoft-team
+# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP för SharePoint, OneDrive och Microsoft Teams
 
-Gör så här om du vill aktivera avancerade Threat Protection:
+Så här aktiverar du Avancerat skydd mot hot:
 
-1. Gå till [https://protection.office.com](https://protection.office.com) och logga in med en global administratör eller administratörskontot för säkerhet.
+1. Gå [https://protection.office.com](https://protection.office.com) till och logga in med ett globalt administratörs- eller säkerhetsadministratörskonto.
 
-2. Välj **principen** i det vänstra navigeringsfönstret under **hantering av hot** \> **Säkra bifogade filer**.
+2. Välj **Principsäkra** \> bilagor i det vänstra **navigeringsfönstret**under **Hothantering**.
 
-3. Markera **Aktivera ATP för SharePoint, OneDrive, och Microsoft team**.
+3. Välj **Aktivera ATP för SharePoint, OneDrive och Microsoft Teams**.
 
-4. [Skapa en avisering principen aktiviteten](https://docs.microsoft.com/office365/securitycompliance/create-activity-alerts) att ta emot meddelanden när vi identifiera skadliga filer.
+4. [Skapa en aktivitetsaviseringsprincip](https://docs.microsoft.com/office365/securitycompliance/create-activity-alerts) för att ta emot meddelanden när vi upptäcker skadliga filer.
 
 Fullständiga instruktioner finns i det här [avsnittet](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams).
 
-**Anmärkning**: avsiktligt ATP söker inte igenom varje enskild fil i SharePoint Online, OneDrive för företag eller Microsoft Teams. Skannade filer asynkront med en process som använder en delad aktivitet, Gäst aktivitet och hot signalerar att identifiera skadliga filer. Mer information finns i det här [avsnittet](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+**Atp**genom design söker inte igenom varenda fil i SharePoint Online, OneDrive för företag eller Microsoft Teams. Filer genomsöks asynkront av en process som använder delningsaktivitet, gästaktivitet och hotsignaler för att identifiera skadliga filer. Mer information finns i det här [avsnittet](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).

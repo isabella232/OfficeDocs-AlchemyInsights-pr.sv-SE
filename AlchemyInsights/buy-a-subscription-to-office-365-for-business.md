@@ -1,5 +1,5 @@
 ---
-title: Köpa en prenumeration på Office 365 för företag
+title: Köp en prenumeration på Microsoft 365 för företag från din kostnadsfria utvärderingsversion
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: a8f44428363a2e507003b524b98a94748bdf5505
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218313"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712225"
 ---
-# <a name="buy-a-subscription-to-office-365-for-business"></a>Köpa en prenumeration på Office 365 för företag
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Köpa en prenumeration på Microsoft 365 från din kostnadsfria utvärderingsversion
 
-Du har provat Office 365 och är nu redo att köpa det. Du har två alternativ när du köper Office 365 från testversionen:
+Du har provat Microsoft 365, och nu är du redo att köpa. Du har två alternativ när du köper Microsoft 365 från testversionen:
   
  **Köp samma abonnemang som din utvärderingsversion**.
   
@@ -35,7 +35,7 @@ Du har provat Office 365 och är nu redo att köpa det. Du har två alternativ n
 
 3. Leta reda på den prenumeration som du vill köpa, välj **Köp**och följ stegen för att checka ut.
 
-Mer information finns i [Köpa en prenumeration på Office 365 för företag från den kostnadsfria utvärderingsversionen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Mer information finns i [Köpa en prenumeration på Microsoft 365 för företag från den kostnadsfria utvärderingsversionen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
 
 **Felsökning**
 

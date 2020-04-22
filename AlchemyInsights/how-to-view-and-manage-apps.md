@@ -1,9 +1,9 @@
 ---
-title: Visa och hantera appar
+title: Så här visar och hanterar du appar
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: 5f337a9c4b40c13dcda79eb567c0e287d300dfb1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63c3b42c046efbcae0f509045a8f3e45e49002ac
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539515"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717142"
 ---
-# <a name="how-to-view-and-manage-apps"></a>Visa och hantera appar
+# <a name="how-to-view-and-manage-apps"></a>Så här visar och hanterar du appar
 
-Du kan visa dina appar i Microsoft 365 administratörscenter. 
+Du kan visa dina appar i administrationscentret för Microsoft 365. 
 
-1. Gå till **Fakturering**i administratörscenter, > [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjänster.
+1. Gå till sidan **Faktureringsprodukter** > [& tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrationscentret.
 
-2. Välj fliken **appar** på sidan **produkter & tjänster** .
+2. Välj fliken **Appar** på sidan **Produkter & tjänster.**

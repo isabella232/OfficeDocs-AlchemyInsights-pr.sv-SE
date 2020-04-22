@@ -1,24 +1,24 @@
 ---
-title: Din grupp visas inte i listan grupper
+title: Gruppen visas inte i grupplistan
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/8/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: 1708cc461888d903531422f9d272db12e8dd142f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75d411dd42d1abd8784695c0d1a9a16718fe6838
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530836"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715830"
 ---
-# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>Gruppen ”{AimKIObject}” inte visas i listan grupper
+# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>Gruppen {AimKIObject} visas inte i grupplistan
 
-Den distributionsgrupp som heter ”{AimKIObject}” skapades {AimKITimeElapsed} minuter sedan. Det kan ta upp till 60 minuter innan den nya gruppen visas i administratörscenter.
+Distributionsgruppen {AimKIObject} skapades {AimKITimeElapsed} för några minuter sedan. Det kan ta upp till 60 minuter innan den nya gruppen visas i administrationscentret.
   
-Om du vill lägga till medlemmar eller göra andra ändringar just nu använder du funktionen Gruppera i [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
+Om du vill lägga till medlemmar eller göra andra ändringar just nu använder du funktionen Grupper i [Administrationscenter](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx)för Exchange .
   
 

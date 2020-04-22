@@ -1,32 +1,32 @@
 ---
-title: Information om rättstvist håller eller på-plats-Håll
+title: Information om bevarande av rättstvister eller spärrat av tvister
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3ed8158c226d10926551514fa162f31ed7943464
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498973"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711037"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>Om tvist innehåller och lastrum på plats
+# <a name="about-litigation-holds-and-in-place-holds"></a>Om tvister och på plats innehar
 
-- Om du vill använda en rättstvist håller håller eller en direkt till en postlåda, krävs en [licens för Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Om du har en annan Plan, tilldela en separat licens för [Exchange Online-arkivering](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) till kontot. 
+- Om du vill tillämpa en bevarande av rättstvister eller spärras på en postlåda krävs en [Exchange Online Plan 2-licens.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Om du har något annat abonnemang tilldelar du kontot en separat [Exchange Online-arkiveringslicens.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) 
     
-- **Så här aktiverar du en rättstvist håller** för en enskild användare, Följ stegen som beskrivs [här](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). När rättstvist håller aktiveras är allt innehåll i postlådan spärrats.
+- **Så här aktiverar du en bevarande av rättstvister** för en enskild användare [.](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold) När bevarande av rättstvister är aktiverat placeras allt innehåll i postlådan spärrat.
     
-- Om du vill använda en **på plats håller på enstaka användare** eller en spärr för **alla postlådor i hela organisationen**, kan du använda lagringsprinciper i Office 365 säkerhet och överensstämmelse center genom att följa de steg disponerade [här](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
+- Om du vill använda ett **spärrat på plats för enskilda användare** eller spärra alla **postlådor i hela organisationen**kan du använda bevarandeprinciper i Microsoft 365-säkerhets- och efterlevnadscentret genom att följa stegen som beskrivs [här](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
     
     > [!NOTE]
-    > För hela Org lagringsprinciper läggs nya användare automatiskt till i undantaget. 
+    > För bevarandeprinciper för hela org-hela tiden läggs nya användare automatiskt till i spärren. 
   
-- Använd **e-informationsavslöjande sökning och exportera**om du vill visa eller Upptäck postlåda-innehåll som har spärrats. Följ de steg disponerade [här](https://docs.microsoft.com/office365/securitycompliance/export-search-results)för information om hur du använder **e-informationsavslöjande sökning och Export**.
+- Om du vill visa eller identifiera postlådeinnehållet som har spärrats av använder du **eDiscovery Search and Export**. Information om hur du använder **eDiscovery Search and Export**följer du stegen som beskrivs [här](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
     
 

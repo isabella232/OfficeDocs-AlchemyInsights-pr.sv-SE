@@ -12,17 +12,17 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 6a33ce3662680ed5940db94161b7f925670e397f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 833e4142356a02b23e2465273bf63c42ee7e4f5b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665418"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715794"
 ---
 # <a name="change-a-users-name-and-email-address"></a>Ändra en användares namn och e-postadress
 
-Det är enkelt att ändra en användares namn och e-postadress i Office 365. Gå till **användare** \> sidan [Aktiv användare](https://go.microsoft.com/fwlink/p/?linkid=834822) och Välj användaren att ändra sin information. Du kan också använda den här artikeln stegvisa instruktioner:
+Det är enkelt att ändra en användares namn och e-postadress i Microsoft 365. Gå till sidan Aktiva [användare](https://go.microsoft.com/fwlink/p/?linkid=834822) **för användare** \> och välj den användare som ska redigera deras information. Du kan också använda den här artikeln för steg-för-steg-instruktioner:
   
-[Ändra ett användarnamn och e-postadress i Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+[Ändra ett användarnamn och en e-postadress i Microsoft 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
- **Anmärkning**: Om du ändrar användarens primära e-postadress, deras gamla e-postadress fortfarande vara giltiga för att ta emot e-post (detta sker automatiskt). Om din organisation är Hybrid, måste också alla namnändringar för e-post och användaren gjort i lokal Active Directory och sedan synkroniseras till molnet.
+ **Obs:** Om du ändrar användarens huvudsakliga e-postadress, kommer deras gamla e-postadress fortfarande vara giltig för att ta emot e-post (detta sker automatiskt). Om din organisation är i hybridtillstånd måste alla ändringar av e-post och användarnamn göras i lokal Active Directory och sedan synkroniseras till molnet.
