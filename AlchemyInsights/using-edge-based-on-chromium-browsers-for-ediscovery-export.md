@@ -1,5 +1,5 @@
 ---
-title: Använda Microsoft Edge baserat på krom webbläsare för e-informationsavslöjande export
+title: Använda Microsoft Edge baserat på kromwebbläsare för Ediscovery-export
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: d4ccaf4928fb041ec7914b95520c4e7ccdac208c
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 5c247ab69c272d2d296f9602fc5246a08164da5e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741285"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726230"
 ---
-# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Använda Microsoft Edge baserat på krom webbläsare för e-informationsavslöjande export
+# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Använda Microsoft Edge baserat på kromwebbläsare för Ediscovery-export
 
-På grund av en nyligen ändrad kommer Microsoft Edge-webbläsare inte längre att ha ClickOnce-stöd aktiverat som standard. Om du vill fortsätta att använda Microsoft Office 365 e-informationsavslöjande export verktyg, måste du antingen använda Microsoft Internet Explorer eller aktivera ClickOnce stöd i Microsoft Edge. 
+På grund av en nyligen genomförd ändring har Microsoft Edge-webbläsare inte längre stöd för ClickOnce som standard. Om du vill fortsätta använda Microsoft 365 eDiscovery Export Tool måste du antingen använda Microsoft Internet Explorer eller aktivera ClickOnce-support i Microsoft Edge. 
 
-Så här aktiverar du ClickOnce-stöd i Microsoft Edge baserat på krom: 
-1. I webbläsaren Microsoft Edge, besök edge://flags/#edge-Klicka-en gång.
-2. För alternativet ClickOnce-stöd ändrar du värdet från **standard** eller **inaktive** rad till **aktiverad**. 
-3. Längst ned i webbläsarfönstret väljer du **starta om**. <br>
- Ändringen träder i kraft efter omstart av Microsoft Edge. 
+Så här aktiverar du ClickOnce-support i Microsoft Edge baserat på Krom: 
+1. Besök edge://flags/#edge-click-once i webbläsaren Microsoft Edge.
+2. För alternativet ClickOnce Support ändrar du värdet från **Standard** eller **Inaktiverad** till **Aktiverad**. 
+3. Längst ned i webbläsarfönstret väljer du **Starta om**. <br>
+ Ändringen börjar gälla när Microsoft Edge har startats om. 
 
-Mer information om detta och hur du installerar Exportverktyget finns i: [Exportera innehålls sökresultat](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Information om detta och anvisningar för hur du installerar exportverktyget finns i: [Exportera sökresultat för innehåll](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).

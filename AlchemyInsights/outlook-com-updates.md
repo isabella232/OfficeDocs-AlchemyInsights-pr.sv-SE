@@ -3,7 +3,7 @@ title: Outlook.com uppdateringar
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: 7b36780553b14043e2fb2e0ac5e8a9d65b9dc47f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1c60c12be4a9c63c9a077498ef68672d5466dd36
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511325"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719358"
 ---
 # <a name="outlookcom-updates"></a>Outlook.com uppdateringar
 
-**Senaste uppdateringar**
+**Senaste uppdateringarna**
 
-- Få ut mer av din e-post med nya Outlook.com. Vi har effektiv sökning som gör det enklare än någonsin för att hitta vad du letar efter. Nya funktioner som foton och förhandsgranskning av bifogad fil kan du se dina bilder och filer utan att lämna Inkorgen. Och nu kan du lägga till emojis och GIF-meddelanden.  [Lär dig mer om de nya Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+- Få ut mer av din e-post med den nya Outlook.com. Vi har effektiviserat sökningen för att göra det enklare än någonsin att hitta det du letar efter. Med nya funktioner som Foton och förhandsvisningar av bifogade filer kan du se dina bilder och filer utan att lämna inkorgen. Och nu kan du lägga till emojis och GIF-filer i dina meddelanden.  [Läs mer om den nya Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
 **E-postuppdateringar**
 
-- Om postlådan Outlook.com uppdateras, se [åtgärda Outlook.com e-synkroniseringsproblem](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+- Om din Outlook.com postlådan inte uppdateras läser du [Åtgärda Outlook.com synkroniseringsproblem för e-post](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).

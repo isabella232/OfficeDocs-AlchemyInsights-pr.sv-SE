@@ -1,9 +1,9 @@
 ---
-title: Klientpiloting i appen svar
+title: Klienten styr stöd i appen för Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/24/2020
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "3441"
 - "9001442"
-ms.openlocfilehash: b21174ceefb4a9222854f450ddef91f06e39157e
-ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
+ms.openlocfilehash: 646a65a4cb068b1c91c52c42d55fe09e62421f9d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/24/2020
-ms.locfileid: "42260465"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720450"
 ---
-# <a name="your-tenant-is-piloting-in-app-support-for-outlook"></a>Din klient piloting i app stöd för Outlook
+# <a name="your-tenant-is-piloting-in-app-support-for-outlook"></a>Din klient har pilotstöd i appen för Outlook
 
-Du kan vara berättigad att få support direkt i Outlook. Om du kör den senaste månadskanalsversionen öppnar du Outlook och väljer > **Hjälpkontaktsupport**. **** Skriv din fråga och en medlem i Outlook-supportteamet kontaktar dig.
+Du kan vara berättigad att få support direkt i Outlook. Om du kör det senaste månadsversionsformuläret öppnar du Outlook och väljer **Hjälp** > **kontakta support**. Skriv din fråga så kontaktar du en medlem i Outlook-supportteamet.
 
-Om du inte är säker på om du kör den senaste månadskanalsversionen läser du [Vilken version av Office använder jag?](https://support.office.com/article/932788B8-A3CE-44BF-BB09-E334518B8B19)
+Om du är osäker på om du kör det senaste monthly channel-bygget läser [du Vilken version av Office jag använder?](https://support.office.com/article/932788B8-A3CE-44BF-BB09-E334518B8B19)

@@ -1,9 +1,9 @@
 ---
-title: Ändra lösenord för Outlook.com - franska
+title: Outlook.com ändra lösenord - FRANSKA
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.custom:
 - "1153"
 - "1154"
 - "8000075"
-ms.openlocfilehash: b665e1385c77a59b8af96031ae3369d55bf0a737
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1ab7357250974c220a4f558b3a1f24c5c605872a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537437"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722019"
 ---
-# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>Växlare bärbara mot de passe dans Outlook.com
+# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>Växlare votre mot de passe dans Outlook.com
 
-Bärbara mot de passe Outlook.com est le dator Nilens bärbara mot de passe Compte Microsoft.
+Votre mot de passe Outlook.com est le même que votre mot de passe Compte Microsoft.
 
 1. Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **Sécurité du mot de passe**.
-2. Nominellt åtgärd de sécurité, Latitude pouvez with invité à confirmer bärbara identité à l'aide d'un kod de sécurité.
-3. Entrez bärbara mot de passe actuel, bärbara nouveau mot de passe, puis sélectionnez **Enregistrer**.
+2. Par mesure de sécurité, vous pouvez être invité à confirmer votre identité à l'aide d'un code de sécurité.
+3. Entrez votre mot de passe actuel, votre nouveau mot de passe, puis sélectionnez **Enregistrer**.
 
-Si Latitude avez oublié bärbara mot de passe, accédez à la [page de réinitialisation de mot de passe de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les bjuder in.
+Si vous avez oublié votre mot de passe, accédez à la [page de réinitialisation de mot de passe de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les invites.
 
-Si Latitude pensez Nilens bärbara Outlook.com en Cover piraté voir [Mon compte Outlook.com en Cover-piraté](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).
+Si vous pensez que votre Outlook.com a été piraté, voir [Mon compte Outlook.com a été piraté](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).

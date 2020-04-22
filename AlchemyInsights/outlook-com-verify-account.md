@@ -1,9 +1,9 @@
 ---
-title: Så här kontrollerar du ditt Outlook.com-konto
+title: Så här verifierar du ditt Outlook.com konto
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 5456a07a919b6344206deb2847aaf3843182b63b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: febcc9c770f6e81ee9bea084a229b530fdcc266a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511537"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743435"
 ---
-# <a name="how-to-verify-your-outlookcom-account"></a>Så här kontrollerar du ditt Outlook.com-konto
+# <a name="how-to-verify-your-outlookcom-account"></a>Så här verifierar du ditt Outlook.com konto
 
-Två steg kontroll skyddar dig genom att göra det svårare för någon annan att logga in på ditt Microsoft-konto. Den använder två olika former av identitet: ditt lösenord och kontaktmetod (kallas även säkerhetsinformation).
+Tvåstegsverifiering hjälper dig att skydda dig genom att göra det svårare för någon annan att logga in på ditt Microsoft-konto. Den använder två olika former av identitet: ditt lösenord och en kontaktmetod (kallas även säkerhetsinformation).
   
-Att aktivera och inaktivera verifiering i två steg:
+Så här aktiverar eller inaktiverar du tvåstegsverifiering:
   
-1. Gå till [sidan för grundläggande säkerhet](https://go.microsoft.com/fwlink/?linkid=842325) och logga in med ditt Microsoft-konto.
-2. Markera **flera säkerhetsalternativ**.
-3. Välj **Ställ in verifiering i två steg** **två kontroll**och följ instruktionerna.
+1. Gå till [sidan Grundläggande säkerhet](https://go.microsoft.com/fwlink/?linkid=842325) och logga in med ditt Microsoft-konto.
+2. Välj **Fler säkerhetsalternativ**.
+3. Under **Tvåstegsverifiering**väljer du **Konfigurera tvåstegsverifiering** och följer instruktionerna.
 
-Om du aktiverar verifiering i två steg, behöver du alltid två former av identifikation. Om du förlorar din kontaktmetod lösenordet enbart får du inte tillbaka till ditt konto - och det kan ta 30 dagar för att få åtkomst.
+Om du aktiverar tvåstegsverifiering behöver du alltid två former av identifiering. Om du förlorar din kontaktmetod, kommer ditt lösenord ensam inte få dig tillbaka till ditt konto - och det kan ta dig 30 dagar att få tillgång.
   
-Mer information om [verifiering i två steg](https://go.microsoft.com/fwlink/?linkid=872270).
+Läs mer om [tvåstegsverifiering](https://go.microsoft.com/fwlink/?linkid=872270).
   

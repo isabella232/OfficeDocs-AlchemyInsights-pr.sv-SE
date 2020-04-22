@@ -1,31 +1,31 @@
 ---
-title: Felsöka Flödesautentiseringsfel
+title: Felsöka fel vid flödesautentisering
 ms.author: pebaum
 author: pebaum
-ms.date: 6/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c15fed9f-65c6-422e-9d32-87e889a44b51
-ms.openlocfilehash: 3d49d15d243dd98afc6f78b9e75f0cfa74c2cd7c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 70451f074a65a4454faeadd188a31783be8e6c7e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050651"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759746"
 ---
-# <a name="troubleshoot-flow-authentication-errors"></a>Felsöka Flödesautentiseringsfel
+# <a name="troubleshoot-flow-authentication-errors"></a>Felsöka fel vid flödesautentisering
 
-I många fall misslyckas flöden på grund av ett autentiseringsfel. Om du har den här typen av fel, felmeddelandet innehåller "obehörig" eller en Felkod 401 eller 403 visas. Du kan vanligtvis åtgärda ett autentiseringsfel genom att uppdatera anslutningen:
+I många fall misslyckas flödena på grund av ett autentiseringsfel. Om du har den här typen av fel innehåller felmeddelandet "Obehörig" eller så visas en felkod på 401 eller 403. Du kan vanligtvis åtgärda ett autentiseringsfel genom att uppdatera anslutningen:
   
-1. Klicka eller knacka på kugghjulsikonen överst i webbportalen för att öppna menyn Inställningar och klicka eller tryck sedan på **anslutningar**.
+1. Högst upp i webbportalen klickar eller trycker du på kugghjulsikonen för att öppna menyn Inställningar och klickar eller trycker sedan på **Anslutningar**.
     
-2. Bläddra till den anslutning som du såg det obehöriga felmeddelandet.
+2. Bläddra till den anslutning som du såg felmeddelandet Obehörigt för.
     
-3. Bredvid anslutningen klickar eller knackar du på länken **Verifiera lösenord** i meddelandet om att anslutningen inte autentiseras. 
+3. Klicka eller tryck på länken **Verifiera lösenord** i meddelandet bredvid anslutningen. 
     
-4. Verifiera dina autentiseringsuppgifter genom att följa instruktionerna som visas, gå tillbaka till ditt Flow-Run-fel och klicka eller tryck på **Skicka igen**.
+4. Verifiera dina autentiseringsuppgifter genom att följa instruktionerna som visas, återgå till ditt **flödeskörningsfel**och klicka eller tryck sedan på Skicka om .
     
 Mer hjälp finns i [Felsöka ett flöde](https://go.microsoft.com/fwlink/?linkid=872110).
   

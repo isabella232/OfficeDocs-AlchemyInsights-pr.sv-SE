@@ -3,7 +3,7 @@ title: Födelsedagskalender i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1811"
 - "9000229"
-ms.openlocfilehash: 5b1285bb6e28d7e28bae1a8d02c796940acabb67
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3a4906f38f381110d5c53b33b5a18d980638f2d9
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548301"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760862"
 ---
-# <a name="add-a-birthday-calendar-in-outlookcom"></a>Lägg till en födelsedagskalender i Outlook.com
+# <a name="add-a-birthday-calendar-in-outlookcom"></a>Lägga till en födelsedagskalender i Outlook.com
 
-1. Markera Kalender-ikonen längst ned på sidan <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAASCAMAAAB/2U7WAAAA0lBMVEX///+Pj49ycnLW1tay9PT09LL09PSfy/T0y595ZoyMZnnN9PTl29b09M1mi7D0tpHu9PTX9PS49PSnxPSUuPT09O7W3+nW2eK3yOLu4tn09NectdeZvdavwNR5n8v09LhylLjiyLePnLXUwK/0xKdyhKXWvZlycpTEp4+1nI96iI94ZoxsZozOpYSPiHrLn3mMZnilhHKUcnJobG+MZmxvbGiyjGbi9PTA1PSMsvTZ4u709OKEpc6vt8j01MB4mb3It69meZ+9mXi4lHKqiGafeWYJ39x4AAAAp0lEQVQoz2OAATM5NijQ52NABvJGTEymxkxgAGGpC8ElWQ1kmF3smaHAiY9ZTZsFIcnFzqYsAeMpyrJxcCJJmmgxogA9HUKSCGPBtLiAKA8Dg6QYAwcnhiS/KjevoQiDrgKGJDLAkDSTY+B35OZ1tWTQ58OQ5LHCY6ezDR47gYFgZ2tu7WABDAQMSQ1pBhUlQSlNYSCfoCRKwCMDSMAjogwFgKOMEAAA2iERuleOm5wAAAAASUVORK5CYII=' /> [Gå till kalendern](https://outlook.live.com/mail/calendar).
-1. Högerklicka på **födelsedagar** i den vänstra rutan och välj **Nytt födelsedag**.
+1. Längst ned på sidan väljer du kalenderikonen <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAASCAMAAAB/2U7WAAAA0lBMVEX///+Pj49ycnLW1tay9PT09LL09PSfy/T0y595ZoyMZnnN9PTl29b09M1mi7D0tpHu9PTX9PS49PSnxPSUuPT09O7W3+nW2eK3yOLu4tn09NectdeZvdavwNR5n8v09LhylLjiyLePnLXUwK/0xKdyhKXWvZlycpTEp4+1nI96iI94ZoxsZozOpYSPiHrLn3mMZnilhHKUcnJobG+MZmxvbGiyjGbi9PTA1PSMsvTZ4u709OKEpc6vt8j01MB4mb3It69meZ+9mXi4lHKqiGafeWYJ39x4AAAAp0lEQVQoz2OAATM5NijQ52NABvJGTEymxkxgAGGpC8ElWQ1kmF3smaHAiY9ZTZsFIcnFzqYsAeMpyrJxcCJJmmgxogA9HUKSCGPBtLiAKA8Dg6QYAwcnhiS/KjevoQiDrgKGJDLAkDSTY+B35OZ1tWTQ58OQ5LHCY6ezDR47gYFgZ2tu7WABDAQMSQ1pBhUlQSlNYSCfoCRKwCMDSMAjogwFgKOMEAAA2iERuleOm5wAAAAASUVORK5CYII=' /> för att [gå till Kalender](https://outlook.live.com/mail/calendar).
+1. Högerklicka på **Födelsedagar** i den vänstra rutan och välj **Ny födelsedag**.
 1. Ange personens namn och födelsedatum och välj **Skapa**.
-1. Välj Aktivera påminnelser och inaktivera kalender **Födelsedag** .
+1. Välj **födelsedagskalendern** om du vill aktivera och inaktivera påminnelser.
 
-Läs mer om [att lägga till eller ta bort kalendrar för födelsedagar och helgdagar](https://support.office.com/article/b8e636da-fda8-413f-940e-68396efa49a6?wt.mc_id=Office_Outlook_com_Alchemy).
+Läs mer om [att lägga till eller ta bort födelsedags- och semesterkalendrar](https://support.office.com/article/b8e636da-fda8-413f-940e-68396efa49a6?wt.mc_id=Office_Outlook_com_Alchemy).

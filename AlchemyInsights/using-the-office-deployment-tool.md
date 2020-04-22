@@ -1,8 +1,8 @@
 ---
-title: Med hjälp av verktyget Office Deployment
+title: Använda distributionsverktyget för Office
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,35 +11,35 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: 874bb7883bca4f062e85963a6828a771cd2dad9b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531593"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726266"
 ---
-# <a name="using-the-office-deployment-tool-odt"></a>Med hjälp av Office Deployment Tool (ODT)
+# <a name="using-the-office-deployment-tool-odt"></a>Använda Office Deployment Tool (ODT)
 
-Du kan använda Office Deployment Tool (ODT) för att distribuera Office 365-versioner av Office. Office Deployment Tool (setup.exe) körs från kommandoraden och använder en XML-konfigurationsfil för att avgöra vilka inställningar som ska gälla när du distribuerar Office.
+Du kan använda OFFICE Deployment Tool (ODT) för att distribuera Office 365-versioner av Office. Office Deployment Tool (setup.exe) körs från kommandoraden och använder en XML-fil för konfiguration för att avgöra vilka inställningar som ska gälla vid distribution av Office.
   
-1. Hämta den senaste versionen av Office Deployment Tool på [Microsoft Download Center](http://go.microsoft.com/fwlink/p/?LinkID=626065).
+1. Hämta den senaste versionen av Distributionsverktyget för Office från [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).
 
-2. Använd [Verktyget Office-anpassning (ULT)](https://config.office.com) för att välja inställningar för distribution och skapa XML-konfigurationsfilen. Exportera konfigurationsfilen och placera den i samma mapp som setup.exe finns lokalt.
+2. Använd [Office Customization Tool (OCT)](https://config.office.com) för att välja distributionsinställningar och skapa konfigurations-XML-filen. Exportera konfigurationsfilen och placera den lokalt i samma mapp där setup.exe finns.
 
-    **Observera:** Office-installationen som ofta uppstår problem förfaller till felkonfigurerad eller konfigurationsfiler för malformatted. För att undvika sådana problem, rekommenderar vi att du använder verktyget Office-anpassning för att skapa konfigurationsfilen. Du kan också importera befintliga konfigurationsfiler till verktyget Office-anpassning.
+    **Anm.:** Problem med Office-installation uppstår ofta på grund av felkonfigurerade eller felformaterade konfigurationsfiler. För att undvika sådana problem rekommenderar vi att du använder Anpassningsverktyget för Office för att skapa konfigurationsfilen. Du kan också importera befintliga konfigurationsfiler till Anpassningsverktyget för Office.
 
-3. Växla till den plats där setup.exe finns från en kommandotolk och kör verktyget Office Deployment i download-läge och ange den konfigurationsfil som du just har sparat. I det här exemplet heter konfigurationsfilen Configuration.xml:
+3. Från en upphöjd kommandotolk växlar du till den plats där setup.exe finns och kör Office Deployment Tool i nedladdningsläge och anger konfigurationsfilen som du just sparade. I det här exemplet heter konfigurationsfilen Configuration.xml:
     
   ```
   setup.exe /download Configuration.xml  
   ```
 
-4. Kör verktyget Office Deployment i Konfigurera läge och ange konfigurationsfilen.
+4. Kör Office Deployment Tool i konfigurera läge och ange konfigurationsfilen.
     
   ```
   setup.exe /configure Configuration.xml
   ```
 
-    **Observera:** Du måste köra det här steget från klientdatorn som du vill installera Office och du måste ha lokal administratörsbehörighet på datorn.
+    **Anm.:** Du måste köra det här steget från klientdatorn där du vill installera Office och du måste ha lokala administratörsbehörigheter på den datorn.
 
-Se [Översikt över Office Deployment Tool](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)om du vill veta mer om hur du använder Office Deployment Tool för dina Office 365 ProPlus distributionsscenarier. Mer information om hur du använder verktyget Office-anpassning finns i [Översikt över verktyget Office-anpassning](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Mer information om hur du använder Distributionsverktyg för Office för microsoft 365-appar för företagsdistributionsscenarier finns [i Översikt över Distributionsverktyget för Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool). Mer information om hur du använder Anpassningsverktyget för Office finns i [Översikt över Anpassningsverktyget för Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).

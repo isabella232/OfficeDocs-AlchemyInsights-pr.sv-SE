@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: 6b3e7944a8035865fa8ef1a170b22a5aa39eb8b7
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: b78662e68e053b8b94349032d80ac9bb4fbc0d64
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305279"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43727305"
 ---
 # <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Uppgradera från Skype för företag lokalt till Teams
 
-Om du har distribuerat Skype för företag eller Microsoft Lync lokalt och din organisation vill uppgradera till Teams, följer du vägledningen i artikeln nedan. Du måste konfigurera hybridanslutning med din Office 365-klient och sedan flytta användarna till team och tilldela dem lämplig samexistens och uppgraderingsläge. 
+Om du har distribuerat Skype för företag eller Microsoft Lync lokalt och din organisation vill uppgradera till Teams följer du anvisningarna i artikeln nedan. Du måste konfigurera hybridanslutning med din klientorganisation och sedan flytta användarna till Teams och tilldela dem rätt samexistens och uppgraderingsläge. 
 
-[Uppgradera från Skype för företag lokalt till Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Uppgradera från Lokala Skype för företag till Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
 

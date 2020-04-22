@@ -3,7 +3,7 @@ title: Ändra e-postadress i Outlook på webben
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000010"
 - "1995"
-ms.openlocfilehash: 7afa86c3f2d9a00606cfd371b07243c85aa8bdb8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a56f88f09a8a3a14ce63cebabe0281ba68a359f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510533"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743111"
 ---
-# <a name="change-your-office-365-email-address"></a>Ändra din e-postadress i Office 365 
+# <a name="change-your-email-address"></a>Ändra din e-postadress 
 
-Om du vill ändra din e-postadress måste du ha administratörsbehörighet.
+Om du vill ändra din e-postadress behöver du administratörsbehörighet.
   
-Följ instruktionerna i [Ändra användarnamn och e-postadress i Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
+Följ instruktionerna i [Ändra användarnamn och e-postadress i Microsoft 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).

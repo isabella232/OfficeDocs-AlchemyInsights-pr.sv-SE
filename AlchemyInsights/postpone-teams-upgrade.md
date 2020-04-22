@@ -1,5 +1,5 @@
 ---
-title: 'Skjut upp lag uppgraderingen '
+title: 'Uppskjutning av teams-uppgradering '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: 28c3a376170aba0ae43929865200fc85cd1c41f4
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 27f3dc123590f3199d6a984d7e9a4db3918ac9cb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626762"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758880"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Hur man skjuter upp Microsoft-driven team uppgradering
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Så här skjuter du upp uppgraderingen av Microsoft-drivna team
 
-Om du har fått kommunikation om en Microsoft-driven automatisk uppgradering från Skype för företag till Microsoft Teams, och du vill senarelägga den automatiska uppgraderingen till ett senare datum, kan din Office 365 global administratör logga in på [Teams Administrationsportal](https://admin.teams.microsoft.com/dashboard) och välja knappen **senarelägga** . Om du vill se det nya datumet för din klient automatisk uppgradering till Microsoft Teams, uppdatera sidan Teams Admin Portal.
+Om du har fått meddelanden om en Microsoft-driven automatisk uppgradering från Skype för företag till Microsoft Teams och du vill skjuta upp den automatiska uppgraderingen till ett senare datum kan din globala administratör logga in på [Teams-administratörsportalen](https://admin.teams.microsoft.com/dashboard) och välja knappen **Vänta.** Om du vill se det nya datumet för din klients automatiska uppgradering till Microsoft Teams uppdaterar du portalsidan för Teams Admin.
 
-**Anmärkning:** Knappen **senarelägga** är bara tillgänglig om du har mottagit meddelandecenter meddelandet om den automatiska uppgraderingen. 
+**Anm.:** Knappen **Vänta kommer** bara att vara tillgänglig om du har fått meddelandet om den automatiska uppgraderingen. 
 
-Office 365 globala administratörer kan också köra [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) om du vill veta mer om deras aktuella uppgraderingsstatus. 
+Globala administratörer kan också köra [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) om du vill veta mer om deras aktuella uppgraderingsstatus. 

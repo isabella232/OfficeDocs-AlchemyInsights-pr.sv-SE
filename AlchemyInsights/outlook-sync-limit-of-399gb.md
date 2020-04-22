@@ -1,9 +1,9 @@
 ---
-title: Outlook sync gränsen på 3,99 GB
+title: Outlook-synkroniseringsgräns på 3,99 GB
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/29/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1773"
 - "9000169"
-ms.openlocfilehash: 8a31e9bfd325b395f142d0b34c927bdd97370a0d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7258056215713b5e6840f9d732f6b386db74574e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511457"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743255"
 ---
-# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Statusfältet i Outlook sync förblir 3,99 GB
+# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Statusfältet för Outlook-synkronisering ligger kvar på 3,99 GB
 
-Försök att minska storleken på innehållet eller skapa ett synkroniseringsfilter för stora mappar eller nära 4 GB.
+Prova att minska storleken på mappinnehållet eller skapa ett synkroniseringsfilter för stora mappar på eller nära 4 GB.
 
-Se framsteg i Status-fältet visar aldrig mer än 3,99 GB kvar på ursprunglig [synkronisering av stora mappar för mer information](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial).
+Se Statusfältets förlopp visar aldrig mer än 3,99 GB kvar på den första [synkroniseringen av stora mappar för mer information](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial).

@@ -1,5 +1,5 @@
 ---
-title: Hur man gör ett Office 365 köp
+title: Så här gör du ett Office 365-köp
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,29 +12,29 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 7f741a9aae0c4549f811b05b36498e7a201b7704
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 19e4a7ffd7f64f744eeba2a7a34390309bfe9bb8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921868"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759134"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a>Hur man gör ett Office 365 köp
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Så här gör du ett Microsoft 365-köp
 
-Inköp i Office 365 kan göras i administratörscenter.
+Köp i Microsoft 365 kan göras i administrationscentret.
   
-- Om du vill köpa en Office 365-prenumeration går du till sidan **fakturering** \> [Köp tjänster](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+- Om du vill köpa ett abonnemang går du till sidan \> [Faktureringsköpstjänster.](https://go.microsoft.com/fwlink/p/?linkid=868433) **Billing**
 
-- Om du vill köpa ytterligare licenser går du till sidan **fakturerings** \> [produkter & tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054) . Välj den prenumeration som du vill lägga till licenser till och välj sedan **Lägg till/ta bort licenser**.
+- Om du vill köpa ytterligare licenser går du till sidan **Faktureringsprodukter** \> [& tjänster.](https://go.microsoft.com/fwlink/p/?linkid=842054) Välj den prenumeration som du vill lägga till licenser i och välj sedan **Lägg till/ta bort licenser**.
   
-Mer information finns i [köpa licenser för din Office 365 för Business-prenumeration](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Mer information finns i [Köpa licenser för din Microsoft 365 för företag-prenumeration](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
 **Felsökning**
 
-Om du får problem med att ladda sidan kan du prova att öppna webbsidan i en annan webbläsare eller försöka öppna sidan ett privat webbläsarfönster, till exempel ett InPrivate-fönster i Microsoft Edge eller ett inkognitofönster i Google Chrome. 
+Om du får problem med att läsa in sidan kan du försöka att öppna webbsidan i en annan webbläsare eller öppna sidan i ett privat webbläsarfönster, t. ex. ett InPrivate-fönster i Microsoft Edge eller ett inkognitofönster i Google Chrome. 
 
 **Ytterligare resurser**
   
-- [Tilldela användare licenser i Office 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Tilldela licenser till användare i Microsoft 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Avbryt Office 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Avbryt Microsoft 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
