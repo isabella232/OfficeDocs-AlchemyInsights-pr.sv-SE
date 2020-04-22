@@ -1,9 +1,9 @@
 ---
-title: 500 app-lösenord
+title: 500 App lösenord
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,25 +14,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 735e8f1db5107b502c5624689cb38abfbec04502
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6f924f15a29864543c221265e734a5eec7aa2ba2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517805"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707857"
 ---
-# <a name="app-passwords"></a><span data-ttu-id="4caf7-102">App-lösenord</span><span class="sxs-lookup"><span data-stu-id="4caf7-102">App passwords</span></span>
+# <a name="app-passwords"></a><span data-ttu-id="be130-102">Lösenord för appar</span><span class="sxs-lookup"><span data-stu-id="be130-102">App passwords</span></span>
 
-<span data-ttu-id="4caf7-103">En app-lösenordet är en kod som ger en app eller enhet behörighet att komma åt ditt Office 365 arbete eller skolan konto.</span><span class="sxs-lookup"><span data-stu-id="4caf7-103">An app password is a code that gives an app or device permission to access your Office 365 work or school account.</span></span> <span data-ttu-id="4caf7-104">Om ditt konto kräver autentisering i flera steg (MFA) och appen ansluter till ditt konto, måste du generera ett app-lösenord så att programmet kan ansluta till Office 365.</span><span class="sxs-lookup"><span data-stu-id="4caf7-104">If your account requires multi-factor authentication (MFA), and the app connects to your account, you need to generate an app password so the app can connect to Office 365.</span></span> <span data-ttu-id="4caf7-105">Outlook 2016 och tidigare versioner Outlook av kräver ett app-lösenord.</span><span class="sxs-lookup"><span data-stu-id="4caf7-105">For example, Outlook 2016 and earlier versions Outlook of require an app password.</span></span>
+<span data-ttu-id="be130-103">Ett applösenord är en kod som ger en app eller enhet behörighet att komma åt ditt Microsoft-arbets- eller skolkonto.</span><span class="sxs-lookup"><span data-stu-id="be130-103">An app password is a code that gives an app or device permission to access your Microsoft work or school account.</span></span> <span data-ttu-id="be130-104">Om ditt konto kräver MFA (Multi factor Authentication) och appen ansluter till ditt konto måste du generera ett applösenord så att appen kan ansluta till Microsoft.</span><span class="sxs-lookup"><span data-stu-id="be130-104">If your account requires multi-factor authentication (MFA), and the app connects to your account, you need to generate an app password so the app can connect to Microsoft.</span></span> <span data-ttu-id="be130-105">Outlook 2016 och tidigare versioner Outlook kräver till exempel ett applösenord.</span><span class="sxs-lookup"><span data-stu-id="be130-105">For example, Outlook 2016 and earlier versions Outlook of require an app password.</span></span>
 
- <span data-ttu-id="4caf7-106">**Observera**: innan du försöka med följande steg, kontrollera med din Office 365 admin MFA krävs för ditt konto.</span><span class="sxs-lookup"><span data-stu-id="4caf7-106">**Note**: Before you try the following steps, verify with your Office 365 admin that MFA is required for your account.</span></span> <span data-ttu-id="4caf7-107">Om det inte är de alternativ som beskrivs i steg inte tillgängliga.</span><span class="sxs-lookup"><span data-stu-id="4caf7-107">If it isn't, the options described in the steps won't be available to you.</span></span>
+ <span data-ttu-id="be130-106">**Innan**du försöker med följande steg kontrollerar du med Microsoft 365-administratören att MFA krävs för ditt konto.</span><span class="sxs-lookup"><span data-stu-id="be130-106">**Note**: Before you try the following steps, verify with your Microsoft 365 admin that MFA is required for your account.</span></span> <span data-ttu-id="be130-107">Om den inte är det är alternativen som beskrivs i stegen inte tillgängliga för dig.</span><span class="sxs-lookup"><span data-stu-id="be130-107">If it isn't, the options described in the steps won't be available to you.</span></span>
 
-1. <span data-ttu-id="4caf7-108">Logga in på Office 365 med ditt arbete eller skolan konto och lösenord.</span><span class="sxs-lookup"><span data-stu-id="4caf7-108">Sign in to Office 365 with your work or school account and your password.</span></span>
+1. <span data-ttu-id="be130-108">Logga in med ditt arbets- eller skolkonto och ditt lösenord.</span><span class="sxs-lookup"><span data-stu-id="be130-108">Sign in with your work or school account and your password.</span></span>
 
-2. <span data-ttu-id="4caf7-109">Välj **Ställ in nu**.</span><span class="sxs-lookup"><span data-stu-id="4caf7-109">Choose **Set it up now**.</span></span>
+2. <span data-ttu-id="be130-109">Välj **Ställ in den nu**.</span><span class="sxs-lookup"><span data-stu-id="be130-109">Choose **Set it up now**.</span></span>
 
-3. <span data-ttu-id="4caf7-110">Välj autentiseringsmetod och följ instruktionerna.</span><span class="sxs-lookup"><span data-stu-id="4caf7-110">Select your authentication method and follow the prompts.</span></span>
+3. <span data-ttu-id="be130-110">Välj din autentiseringsmetod och följ anvisningarna.</span><span class="sxs-lookup"><span data-stu-id="be130-110">Select your authentication method and follow the prompts.</span></span>
 
-4. <span data-ttu-id="4caf7-111">Välj **Nästa**när du har kontrollerat dina alternativ kontaktmetod.</span><span class="sxs-lookup"><span data-stu-id="4caf7-111">After you verify your alternate contact method, choose **Next**.</span></span>
+4. <span data-ttu-id="be130-111">När du har verifierat din alternativa kontaktmetod väljer du **Nästa**.</span><span class="sxs-lookup"><span data-stu-id="be130-111">After you verify your alternate contact method, choose **Next**.</span></span>
 
-5. <span data-ttu-id="4caf7-112">Du får ett app-lösenord som du kan använda med Outlook, Apple Mail och andra program som behöver den.</span><span class="sxs-lookup"><span data-stu-id="4caf7-112">You'll get an app password that you can use with Outlook, Apple Mail, and other apps that require it.</span></span> <span data-ttu-id="4caf7-113">Välj **Kopiera** för att kopiera lösenord så att du kan klistra in det någon annanstans (du inte behöver komma ihåg det).</span><span class="sxs-lookup"><span data-stu-id="4caf7-113">Choose **Copy** to copy the password so you can paste it elsewhere (you don't need to memorize it).</span></span>
+5. <span data-ttu-id="be130-112">Du får ett applösenord som du kan använda med Outlook, Apple Mail och andra appar som kräver det.</span><span class="sxs-lookup"><span data-stu-id="be130-112">You'll get an app password that you can use with Outlook, Apple Mail, and other apps that require it.</span></span> <span data-ttu-id="be130-113">Välj **Kopiera** för att kopiera lösenordet så att du kan klistra in det någon annanstans (du behöver inte memorera det).</span><span class="sxs-lookup"><span data-stu-id="be130-113">Choose **Copy** to copy the password so you can paste it elsewhere (you don't need to memorize it).</span></span>

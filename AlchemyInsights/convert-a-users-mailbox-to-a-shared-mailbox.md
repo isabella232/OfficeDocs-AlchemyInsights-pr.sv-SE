@@ -1,5 +1,5 @@
 ---
-title: Konvertera en användares postlåda till en delad postlåda
+title: Konvertera en användarepostlåda till en delad postlåda
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 0a8ba0d7d74cacd34cbcea8dcab454d55c283280
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b1c44e0990d07686ef083d2045a164afc5f11033
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665310"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705571"
 ---
-# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a><span data-ttu-id="d1357-102">Konvertera en användarpostlåda till en delad postlåda</span><span class="sxs-lookup"><span data-stu-id="d1357-102">Convert a user mailbox to a shared mailbox</span></span>
+# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a><span data-ttu-id="f0b18-102">Konvertera en användarpostlåda till en delad postlåda</span><span class="sxs-lookup"><span data-stu-id="f0b18-102">Convert a user mailbox to a shared mailbox</span></span>
 
-<span data-ttu-id="d1357-103">När du konverterar en enskild användares Office 365 postlåda till en delad postlåda behålls alla befintliga e-post-och kalenderobjekt i en delad postlåda där flera personer kan komma åt.</span><span class="sxs-lookup"><span data-stu-id="d1357-103">When you convert an individual user's Office 365 mailbox to a shared mailbox, all of the existing email and calendar items are retained in a shared mailbox where multiple people can access.</span></span> <span data-ttu-id="d1357-104">Du kan också konvertera en delad postlåda tillbaka till en användare (privat) postlåda.</span><span class="sxs-lookup"><span data-stu-id="d1357-104">You can also convert a shared mailbox back to a user (private) mailbox.</span></span>
+<span data-ttu-id="f0b18-103">När du konverterar en enskild användares postlåda till en delad postlåda behålls alla befintliga e-post- och kalenderobjekt i en delad postlåda där flera personer kan komma åt.</span><span class="sxs-lookup"><span data-stu-id="f0b18-103">When you convert an individual user's mailbox to a shared mailbox, all of the existing email and calendar items are retained in a shared mailbox where multiple people can access.</span></span> <span data-ttu-id="f0b18-104">Du kan också konvertera en delad postlåda tillbaka till en användare (privat) postlåda.</span><span class="sxs-lookup"><span data-stu-id="f0b18-104">You can also convert a shared mailbox back to a user (private) mailbox.</span></span>
   
-<span data-ttu-id="d1357-105">Mer information finns i [konvertera en användarpostlåda till en delad postlåda](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="d1357-105">For more information, see [Convert a user mailbox to a shared mailbox](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).</span></span>
+<span data-ttu-id="f0b18-105">Mer information finns i [Konvertera en användarpostlåda till en delad postlåda](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="f0b18-105">For more information, see [Convert a user mailbox to a shared mailbox](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).</span></span>
   
