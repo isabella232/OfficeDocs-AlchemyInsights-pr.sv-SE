@@ -1,9 +1,9 @@
 ---
-title: Hur du köper Office 365 för icke-vinst
+title: Så här köper du Office 365 för ideella organisationer
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/21/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "343"
 - "1500010"
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: c67d3804fa752975e428e01b4ad012479fff9375
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a529d4cb278c0c732a603acea11310e47f90ec57
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390098"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763631"
 ---
-# <a name="how-to-purchase-office-365-for-nonprofits"></a><span data-ttu-id="d9a89-102">Hur du köper Office 365 för samhällens villkor</span><span class="sxs-lookup"><span data-stu-id="d9a89-102">How to purchase Office 365 for Nonprofits</span></span>
+# <a name="how-to-purchase-office-365-for-nonprofits"></a><span data-ttu-id="179d3-102">Så här köper du Office 365 för ideella organisationer</span><span class="sxs-lookup"><span data-stu-id="179d3-102">How to purchase Office 365 for Nonprofits</span></span>
 
-<span data-ttu-id="d9a89-103">Vi har granskat din begäran och bestämt den här organisationen inte är stödberättigande som en kvalificerad ideell organisation för Microsoft.</span><span class="sxs-lookup"><span data-stu-id="d9a89-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
+<span data-ttu-id="179d3-103">Vi granskade din begäran och bestämde att den här organisationen inte är kvalificerad som en organisation för en Microsoft-kvalificerad ideell organisation.</span><span class="sxs-lookup"><span data-stu-id="179d3-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
   
-<span data-ttu-id="d9a89-104">Om du vill köpa Office 365 kommersiellt finns [tillgängliga erbjudanden](https://portal.office.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="d9a89-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>
+<span data-ttu-id="179d3-104">Om du vill köpa Office 365 kommersiellt läser du [tillgängliga erbjudanden](https://portal.office.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="179d3-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>

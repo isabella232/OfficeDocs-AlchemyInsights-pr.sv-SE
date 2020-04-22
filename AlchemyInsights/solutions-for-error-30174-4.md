@@ -1,9 +1,9 @@
 ---
-title: Lösningar för fel 30174 4
+title: Lösningar för fel 30174-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,22 +14,22 @@ ms.custom:
 - "831"
 - "2000020"
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: f1edd7ebd61b46c601a53f7362d9e65acbc81701
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 57701b1a9a8575fe9307912f1e64b07ab2e6a282
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501637"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43757151"
 ---
-# <a name="error-code-30174-4-when-installing-office"></a><span data-ttu-id="23a06-102">Felkod 30174-4 vid installation av Office</span><span class="sxs-lookup"><span data-stu-id="23a06-102">Error code 30174-4 when installing Office</span></span>
+# <a name="error-code-30174-4-when-installing-office"></a><span data-ttu-id="ee55e-102">Felkod 30174-4 vid installation av Office</span><span class="sxs-lookup"><span data-stu-id="ee55e-102">Error code 30174-4 when installing Office</span></span>
 
-<span data-ttu-id="23a06-103">Det här felet kan visas om ditt antivirusprogram, brandvägg, proxy-inställningar eller anslutning förhindrar installation av Office.</span><span class="sxs-lookup"><span data-stu-id="23a06-103">You might see this error if your anti-virus software, firewall, proxy settings, or connection prevent you from installing Office.</span></span> <span data-ttu-id="23a06-104">Här är några saker du kan försöka lösa problemet.</span><span class="sxs-lookup"><span data-stu-id="23a06-104">Here are some things you can try to fix the problem.</span></span>
+<span data-ttu-id="ee55e-103">Det här felet kan visas om antivirusprogrammet, brandväggen, proxyinställningarna eller anslutningen hindrar dig från att installera Office.</span><span class="sxs-lookup"><span data-stu-id="ee55e-103">You might see this error if your anti-virus software, firewall, proxy settings, or connection prevent you from installing Office.</span></span> <span data-ttu-id="ee55e-104">Här är några saker du kan försöka åtgärda problemet.</span><span class="sxs-lookup"><span data-stu-id="ee55e-104">Here are some things you can try to fix the problem.</span></span>
   
-- <span data-ttu-id="23a06-105">Använda en trådbunden anslutning</span><span class="sxs-lookup"><span data-stu-id="23a06-105">Use a wired connection</span></span>
+- <span data-ttu-id="ee55e-105">Använda en trådbunden anslutning</span><span class="sxs-lookup"><span data-stu-id="ee55e-105">Use a wired connection</span></span>
 
-- <span data-ttu-id="23a06-106">Tillfälligt inaktivera proxyinställningar</span><span class="sxs-lookup"><span data-stu-id="23a06-106">Temporarily turn off proxy settings</span></span>
+- <span data-ttu-id="ee55e-106">Inaktivera proxyinställningar tillfälligt</span><span class="sxs-lookup"><span data-stu-id="ee55e-106">Temporarily turn off proxy settings</span></span>
 
-- <span data-ttu-id="23a06-107">Tillfälligt inaktivera antivirusprogram</span><span class="sxs-lookup"><span data-stu-id="23a06-107">Temporarily turn off antivirus software</span></span>
+- <span data-ttu-id="ee55e-107">Inaktivera antivirusprogram tillfälligt</span><span class="sxs-lookup"><span data-stu-id="ee55e-107">Temporarily turn off antivirus software</span></span>
 
-[<span data-ttu-id="23a06-108">Felkod 30174-4 vid installation av Office</span><span class="sxs-lookup"><span data-stu-id="23a06-108">Error code 30174-4 when installing Office</span></span>](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
+[<span data-ttu-id="ee55e-108">Felkod 30174-4 vid installation av Office</span><span class="sxs-lookup"><span data-stu-id="ee55e-108">Error code 30174-4 when installing Office</span></span>](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
   

@@ -1,5 +1,5 @@
 ---
-title: Ställa in O365 Business Premium-prenumeration
+title: Konfigurera din O365 Business Premium-prenumeration
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -10,14 +10,14 @@ ms.assetid: a9192d32-8a5a-459d-808a-d18ce0e397da
 ms.custom:
 - "31"
 - "1600002"
-ms.openlocfilehash: 8fa6b04cef7a7c9df72c1b51462f80e489622f0b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5abc69c06b71d9984ebcbcf948112bf3553219ac
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666174"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767771"
 ---
-# <a name="setting-up-your-o365-business-premium-subscription"></a><span data-ttu-id="eafe8-102">Ställa in O365 Business Premium-prenumeration</span><span class="sxs-lookup"><span data-stu-id="eafe8-102">Setting up your O365 Business Premium subscription</span></span>
+# <a name="setting-up-your-o365-business-premium-subscription"></a><span data-ttu-id="ebc73-102">Konfigurera din O365 Business Premium-prenumeration</span><span class="sxs-lookup"><span data-stu-id="ebc73-102">Setting up your O365 Business Premium subscription</span></span>
 
-<span data-ttu-id="eafe8-103">Om du behöver hjälp med att konfigurera Office 365-prenumeration, följ instruktionerna i [denna artikel](https://docs.microsoft.com/office365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) att installationen slutförts.</span><span class="sxs-lookup"><span data-stu-id="eafe8-103">If you need help setting up your Office 365 subscription, follow the steps in [this article](https://docs.microsoft.com/office365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) to get your setup completed.</span></span>
+<span data-ttu-id="ebc73-103">Om du behöver hjälp med att konfigurera din Microsoft 365-prenumeration följer du stegen i den [här artikeln](https://docs.microsoft.com/office365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) för att slutföra konfigurationen.</span><span class="sxs-lookup"><span data-stu-id="ebc73-103">If you need help setting up your Microsoft 365 subscription, follow the steps in [this article](https://docs.microsoft.com/office365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) to get your setup completed.</span></span>
   

@@ -1,5 +1,5 @@
 ---
-title: Åtgärda Office-appar tyvärr, vi har tillfälliga Server problem meddelande
+title: Åtgärda Office-appar Tyvärr har vi ett meddelande om tillfälliga serverproblem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: 4b90f843843416408d7f3091325fe436dc3ec9df
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: a1ac62f3587e318d563cfea1df8db23b720358a6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628008"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764135"
 ---
-# <a name="fixing-the-office-apps-sorry-we-are-having-temporary-server-issues-message"></a><span data-ttu-id="ec544-102">Fastställande av Office Apps "Tyvärr, vi har tillfälliga Server problem" meddelande</span><span class="sxs-lookup"><span data-stu-id="ec544-102">Fixing the Office apps "Sorry, we are having temporary server issues" message</span></span>
+# <a name="fixing-the-office-apps-sorry-we-are-having-temporary-server-issues-message"></a><span data-ttu-id="5cd31-102">Åtgärda meddelandet "Tyvärr, vi har tillfälliga serverproblem"</span><span class="sxs-lookup"><span data-stu-id="5cd31-102">Fixing the Office apps "Sorry, we are having temporary server issues" message</span></span>
 
-<span data-ttu-id="ec544-103">Om det här meddelandet visas provar du följande:</span><span class="sxs-lookup"><span data-stu-id="ec544-103">If you receive this message, try the following:</span></span>
+<span data-ttu-id="5cd31-103">Om du får det här meddelandet kan du prova följande:</span><span class="sxs-lookup"><span data-stu-id="5cd31-103">If you receive this message, try the following:</span></span>
 
-1. <span data-ttu-id="ec544-104">Kontrollera brandväggen, antivirusprogrammet och proxyinställningarna för att bekräfta att de inte blockerar Internet-åtkomst till Office-appar.</span><span class="sxs-lookup"><span data-stu-id="ec544-104">Check your firewall, antivirus software, and proxy settings to confirm that they are not blocking Internet access to Office apps.</span></span> <span data-ttu-id="ec544-105">Se [Office 365-URL: er och IP-adressintervall](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).</span><span class="sxs-lookup"><span data-stu-id="ec544-105">See [Office 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).</span></span>
+1. <span data-ttu-id="5cd31-104">Kontrollera brandväggen, antivirusprogrammet och proxyinställningarna för att bekräfta att de inte blockerar Internetåtkomst till Office-appar.</span><span class="sxs-lookup"><span data-stu-id="5cd31-104">Check your firewall, antivirus software, and proxy settings to confirm that they are not blocking Internet access to Office apps.</span></span> <span data-ttu-id="5cd31-105">Se [webbadresser och IP-adressintervall](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).</span><span class="sxs-lookup"><span data-stu-id="5cd31-105">See [URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).</span></span>
 
-2. <span data-ttu-id="ec544-106">Gå till **Start** > **Run**och skriv **Services. msc**.</span><span class="sxs-lookup"><span data-stu-id="ec544-106">Go to **Start** > **Run**, and then type **services.msc**.</span></span> <span data-ttu-id="ec544-107">Kontrollera att följande tjänster körs:</span><span class="sxs-lookup"><span data-stu-id="ec544-107">Make sure that the following services are all running:</span></span>
-    - <span data-ttu-id="ec544-108">Automatisk konfigurering av nätverksanslutna enheter</span><span class="sxs-lookup"><span data-stu-id="ec544-108">Network Connected Devices Auto-Setup</span></span>
-    - <span data-ttu-id="ec544-109">Network List Service</span><span class="sxs-lookup"><span data-stu-id="ec544-109">Network List Service</span></span>
-    - <span data-ttu-id="ec544-110">Nätverksplats medvetenhet</span><span class="sxs-lookup"><span data-stu-id="ec544-110">Network Location Awareness</span></span>
-    - <span data-ttu-id="ec544-111">Händelseloggen för Windows</span><span class="sxs-lookup"><span data-stu-id="ec544-111">Windows Event Log</span></span>
+2. <span data-ttu-id="5cd31-106">Gå till > **Startkörning**och skriv sedan **services.msc**. **Start**</span><span class="sxs-lookup"><span data-stu-id="5cd31-106">Go to **Start** > **Run**, and then type **services.msc**.</span></span> <span data-ttu-id="5cd31-107">Kontrollera att alla följande tjänster körs:</span><span class="sxs-lookup"><span data-stu-id="5cd31-107">Make sure that the following services are all running:</span></span>
+    - <span data-ttu-id="5cd31-108">Automatisk installation av nätverksanslutna enheter</span><span class="sxs-lookup"><span data-stu-id="5cd31-108">Network Connected Devices Auto-Setup</span></span>
+    - <span data-ttu-id="5cd31-109">Tjänsten Nätverkslista</span><span class="sxs-lookup"><span data-stu-id="5cd31-109">Network List Service</span></span>
+    - <span data-ttu-id="5cd31-110">Medvetenhet om nätverksplats</span><span class="sxs-lookup"><span data-stu-id="5cd31-110">Network Location Awareness</span></span>
+    - <span data-ttu-id="5cd31-111">Windows-händelselogg</span><span class="sxs-lookup"><span data-stu-id="5cd31-111">Windows Event Log</span></span>
 
-<span data-ttu-id="ec544-112">Om någon av dessa tjänster inte körs försöker du starta den.</span><span class="sxs-lookup"><span data-stu-id="ec544-112">If one of these services is not running, try to start it.</span></span> <span data-ttu-id="ec544-113">Om du har problem med att starta tjänsten kör du följande kommando genom att öppna en kommandotolk med förhöjda behörigheter:</span><span class="sxs-lookup"><span data-stu-id="ec544-113">If you have a problem starting the service, run the following command by opening a command prompt with elevated permissions:</span></span>
+<span data-ttu-id="5cd31-112">Om en av dessa tjänster inte körs försöker du starta den.</span><span class="sxs-lookup"><span data-stu-id="5cd31-112">If one of these services is not running, try to start it.</span></span> <span data-ttu-id="5cd31-113">Om du har problem med att starta tjänsten kör du följande kommando genom att öppna en kommandotolk med förhöjda behörigheter:</span><span class="sxs-lookup"><span data-stu-id="5cd31-113">If you have a problem starting the service, run the following command by opening a command prompt with elevated permissions:</span></span>
 
-<span data-ttu-id="ec544-114">**sfc/scannow**</span><span class="sxs-lookup"><span data-stu-id="ec544-114">**sfc /scannow**</span></span>
+<span data-ttu-id="5cd31-114">**sfc /scannow**</span><span class="sxs-lookup"><span data-stu-id="5cd31-114">**sfc /scannow**</span></span>
 
-<span data-ttu-id="ec544-115">När det här kommandot har slutförts startar du om datorn.</span><span class="sxs-lookup"><span data-stu-id="ec544-115">After this command finishes, restart the computer.</span></span>
+<span data-ttu-id="5cd31-115">När det här kommandot är klart startar du om datorn.</span><span class="sxs-lookup"><span data-stu-id="5cd31-115">After this command finishes, restart the computer.</span></span>
 
-<span data-ttu-id="ec544-116">Mer information finns i ["Tyvärr kan vi inte ansluta till ditt konto. Försök igen senare "felmeddelande när du aktiverar Office från Office 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).</span><span class="sxs-lookup"><span data-stu-id="ec544-116">For detailed information, see ["Sorry, we can't connect to your account. Please try again later" error when you activate Office from Office 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).</span></span>
+<span data-ttu-id="5cd31-116">Detaljerad information finns i ["Tyvärr, vi kan inte ansluta till ditt konto. Försök igen senare" fel när du aktiverar](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).</span><span class="sxs-lookup"><span data-stu-id="5cd31-116">For detailed information, see ["Sorry, we can't connect to your account. Please try again later" error when you activate](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).</span></span>

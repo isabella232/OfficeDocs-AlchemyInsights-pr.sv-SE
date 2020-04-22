@@ -3,7 +3,7 @@ title: Så här delar du en SharePoint-webbplats
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/31/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3171"
-ms.openlocfilehash: d14738c81e86d42cbcec4e8f75dbc97bf82e7b2a
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 9523c05ecb43efb723627cdc57439a1f434b48aa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627664"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763379"
 ---
-# <a name="how-to-share-a-sharepoint-site"></a><span data-ttu-id="0f152-102">Så här delar du en SharePoint-webbplats</span><span class="sxs-lookup"><span data-stu-id="0f152-102">How to share a SharePoint site</span></span>
+# <a name="how-to-share-a-sharepoint-site"></a><span data-ttu-id="b487a-102">Så här delar du en SharePoint-webbplats</span><span class="sxs-lookup"><span data-stu-id="b487a-102">How to share a SharePoint site</span></span>
 
-<span data-ttu-id="0f152-103">Om du är webbplatsägare kan du ge andra personer åtkomst till webbplatsen genom att lägga till dem som ägare, medlemmar eller besökare.</span><span class="sxs-lookup"><span data-stu-id="0f152-103">If you're a site owner, you can give other people access to the site by adding them as owners, members, or visitors.</span></span> <span data-ttu-id="0f152-104">([Vill du dela en fil eller mapp i stället?](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c))</span><span class="sxs-lookup"><span data-stu-id="0f152-104">([Want to share a file or folder instead?](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c))</span></span>
+<span data-ttu-id="b487a-103">Om du är webbplatsägare kan du ge andra personer åtkomst till webbplatsen genom att lägga till dem som ägare, medlemmar eller besökare.</span><span class="sxs-lookup"><span data-stu-id="b487a-103">If you're a site owner, you can give other people access to the site by adding them as owners, members, or visitors.</span></span> <span data-ttu-id="b487a-104">(Vill[du dela en fil eller mapp istället?](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c))</span><span class="sxs-lookup"><span data-stu-id="b487a-104">([Want to share a file or folder instead?](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c))</span></span>
 
-[<span data-ttu-id="0f152-105">Dela en webbplats</span><span class="sxs-lookup"><span data-stu-id="0f152-105">Share a site</span></span>](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658?ui=en-US&rs=en-US&ad=US)
+[<span data-ttu-id="b487a-105">Dela en webbplats</span><span class="sxs-lookup"><span data-stu-id="b487a-105">Share a site</span></span>](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)
