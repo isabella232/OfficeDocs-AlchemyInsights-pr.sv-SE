@@ -1,9 +1,9 @@
 ---
-title: Öppna ett SharePoint-bibliotek i File Explorer
+title: Öppna ett SharePoint-bibliotek i Utforskaren
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 381326b9edc8e3f56f443551b95f1410fd3752a8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 231b026c42fddd3957b01fc7e383d7161f525e91
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548733"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698508"
 ---
-# <a name="open-a-sharepoint-library-in-file-explorer"></a>Öppna ett SharePoint-bibliotek i File Explorer
+# <a name="open-a-sharepoint-library-in-file-explorer"></a>Öppna ett SharePoint-bibliotek i Utforskaren
 
-1. Bläddra till biblioteket i Internet Explorer 10 eller 11 i Internet Explorer. 
+1. Bläddra till biblioteket i Internet Explorer 10 eller Internet Explorer 11. 
     
-2. Klicka på Visa ikonen i det övre högra hörnet och klicka sedan på **Visa i File Explorer**.
+2. Klicka på visa-ikonen längst upp till höger och klicka sedan på **Visa i Utforskaren**.
     
 > [!NOTE]
-> Öppna ett bibliotek i File Explorer är praktiskt om du vill kopiera eller flytta flera filer och mappar när, men om du regelbundet arbetar i biblioteket, rekommenderar vi synkroniserar den. Felsökning av problem med öppna i File Explorer finns i [Öppna i Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Information om hur du konfigurerar synkronisering finns i [synkronisera SharePoint-filer med den nya OneDrive sync-klienten](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Det är praktiskt att öppna ett bibliotek i Utforskaren om du behöver kopiera eller flytta flera filer och mappar en gång, men om du vill arbeta regelbundet i biblioteket rekommenderar vi att du synkroniserar det. Mer om du vill felsöka problem som öppnas i Utforskaren finns [i Öppna i Utforskaren](https://go.microsoft.com/fwlink/?linkid=871665). Information om hur du konfigurerar synkronisering finns i [Synkronisera SharePoint-filer med den nya OneDrive-synkroniseringsklienten](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

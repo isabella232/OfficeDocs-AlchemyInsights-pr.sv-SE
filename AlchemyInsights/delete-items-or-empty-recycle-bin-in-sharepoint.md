@@ -1,9 +1,9 @@
 ---
-title: Ta bort objekt eller Töm papperskorgen på en SharePoint-webbplats
+title: Ta bort objekt eller töm papperskorgen på en SharePoint-webbplats
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/31/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000209"
 - "3175"
-ms.openlocfilehash: 1766b9c54c0c9eb1574ab70f672f2fdec8cc3959
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: f035104d3a9c2a3d5c82d9753497fa5f4c9e6319
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922512"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704887"
 ---
-# <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a>Ta bort objekt eller Töm papperskorgen på en SharePoint-webbplats 
+# <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a>Ta bort objekt eller töm papperskorgen på en SharePoint-webbplats 
 
-När du tar bort ett objekt från ett SharePoint-dokumentbibliotek eller en lista, tas det inte omedelbart bort från SharePoint. Borttagna objekt hamnar i webbplatsens papperskorg under en viss tidsperiod. Under den tiden kan du återställa objekten du raderade till deras ursprungliga plats, eller ta bort dem för att frigöra lagringsutrymme.
+När du tar bort ett objekt från ett SharePoint-dokumentbibliotek eller -lista tas det inte omedelbart bort från SharePoint. Borttagna objekt går till webbplatsens papperskorg under en viss tid. Under den tiden kan du återställa de objekt som du har tagit bort till deras ursprungliga plats eller ta bort dem för att frigöra lagringsutrymme.
 
-[Ta bort objekt eller Töm papperskorgen på en SharePoint-webbplats](https://support.office.com/article/delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site-2e713599-d13e-40d6-96dc-66f0a366f74e?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online)
+[Ta bort objekt eller töm papperskorgen på en SharePoint-webbplats](https://support.office.com/article/2e713599-d13e-40d6-96dc-66f0a366f74e)

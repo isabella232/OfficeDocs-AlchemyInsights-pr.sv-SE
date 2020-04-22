@@ -1,5 +1,5 @@
 ---
-title: "\"Felsöka saknade filer eller mappar"
+title: "\"Felsökning av filer eller mappar som saknas"
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,36 +10,36 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: 0987be6bed4bdc98d6f0162d333c2797fda6b559
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cebe43464aa6672057ea8d2fa3ec9e898918b184
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053855"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692855"
 ---
-# <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>Felsöka saknade filer eller mappar i OneDrive eller SharePoint
+# <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>Felsöka filer eller mappar som saknas i OneDrive eller SharePoint
 
-- [Kontrollera webbplatsens papperskorg](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+- [Kontrollera papperskorgen på webbplatsen](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
-- [Återställa objekt i papperskorgen på en SharePoint-webbplats](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
+- [Återställa objekt i Papperskorgen på en SharePoint-webbplats](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 
 
-**Funktionen Återskapa filer**
+**Funktionen Återställ filer**
 
-Om många av dina OneDrive-eller SharePoint-filer tas bort, skrivs över, skadas eller infekteras av skadlig programvara kan du återställa hela OneDrive-eller SharePoint-biblioteket till en tidigare tidpunkt med funktionen Återskapa filer.
+Om många av dina OneDrive- eller SharePoint-filer tas bort, skrivs över, skadas eller infekteras av skadlig kod kan du återställa hela OneDrive- eller Sharepoint-biblioteket till en tidigare gång med hjälp av funktionen för att återställa filer.
 
 - [Återställa ett OneDrive-bibliotek](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
 - [Återställa ett dokumentbibliotek](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-**Använd granskningsloggning eller fönstret Filaktivitet för att kontrollera filens historik**
+**Använda granskningsloggning eller filaktivitetsfönstret för att kontrollera filens historik**
 
-[Kontrollera granskningsrapporterna](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c) </a> genom att navigera [här](https://protection.office.com/#/unifiedauditlog)
+[Kontrollera granskningsrapporterna](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) </a> genom att navigera [här](https://protection.office.com/#/unifiedauditlog)
 
-Använd fönstret [Filaktivitet](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) för att kontrollera filens historik.
+Använd [filaktivitetsfönstret](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) för att kontrollera filens historik.
 
-Kontrollera OneDrive sync-klienten på den lokala datorn.  Om du synkroniserar filerna på datorn via OneDrive sync client kontrollerar du den lokala synkroniseringsmappen för att säkerställa att den har laddats upp korrekt. Kontrollera att du även kontrollerar papperskorgen på den lokala datorn.
+Kontrollera OneDrive Sync-klienten på den lokala datorn.  Om du synkroniserar filerna på datorn via OneDrive Sync-klienten kontrollerar du den lokala synkroniseringsmappen för att säkerställa att den har överförts korrekt. Se till att du också kontrollera papperskorgen på din lokala dator.
 
 
 

@@ -1,9 +1,9 @@
 ---
-title: Medarbetare lämnar
+title: Anställda lämnar
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 54b7dc2cceb75b71ad70bcc4e681cff2e68f61be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527849"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703733"
 ---
 # <a name="block-access-to-a-former-employee"></a>Blockera åtkomst till en tidigare anställd
 
-Har en anställd lämnar och behöver blockera åtkomst till data i Office 365 och e-post? Gör på följande sätt.
+Har en anställd lämnar och behöver blockera åtkomst till data och e-post? Gör följande.
   
-1. Gå till **användare** i administratörscenter, \> sidan [Aktiv användare](https://go.microsoft.com/fwlink/p/?linkid=834822) .
+1. Gå till sidan [Aktiva användare i](https://go.microsoft.com/fwlink/p/?linkid=834822) **administrationscentret.** \>
 
-2. Markera namnet på användaren som du vill blockera.
+2. Välj namnet på den användare som du vill blockera.
 
-3. Markera **Blockera den här användaren**under användarens namn.
+3. Under användarens namn väljer du **Blockera den här användaren**.
 
-4. Välj **Blockera användaren från att logga in** \> **Spara ändringar**.
+4. Välj **Blockera användaren från att logga in spara** \> **ändringar**.
 
-**Anmärkning**: utloggning för vissa program är inte kanske omedelbart. Följa upp med fler åtgärder i den här artikeln: [Ta bort en tidigare anställd från Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)
+**Logga**ut för vissa appar kanske inte är omedelbar. Följ upp med fler åtgärder i den här artikeln: [Ta bort en tidigare anställd](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)

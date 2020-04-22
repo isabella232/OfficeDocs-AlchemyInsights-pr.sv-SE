@@ -3,7 +3,7 @@ title: Lägga till en grupp på en SharePoint-webbplats
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 8/3/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,39 +11,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: c2bb1ce655e994054278927dfe346c0decd09f19
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 6ac4728c02471dd2640e0c516fee7cf5ebb12f54
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36495229"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676407"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>Lägga till en grupp på en SharePoint-webbplats
 
-Vissa SharePoint-gruppwebbplatser (inklusive de som skapats i Microsoft Teams) hanteras av Office 365-gruppägare. SharePoint-webbplatser och-innehåll kan också delas med Office 365-grupper och med SharePoint-grupper. En SharePoint-grupp är en samling användare som alla har samma uppsättning behörigheter till webbplatser och innehåll. För klassiska webbplatser rekommenderar vi att du använder grupper för att bekvämt tilldela samma behörighetsnivå till många personer samtidigt i stället för att tilldela behörigheter en person åt gången.
+Vissa SharePoint-gruppwebbplatser (inklusive de som har skapats i Microsoft Teams) hanteras av Office 365-gruppägare. SharePoint-webbplatser och -innehåll kan också delas med Office 365-grupper och med SharePoint-grupper. En SharePoint-grupp är en samling användare som alla har samma uppsättning behörigheter till webbplatser och innehåll. För klassiska webbplatser rekommenderar vi att du använder grupper för att enkelt tilldela samma behörighetsnivå till många personer samtidigt i stället för att tilldela behörigheter en person i taget.
   
-Hantera Office 365 gruppmedlemmar:
+Hantera Office 365-gruppmedlemmar:
   
-1. Gå till [sidan grupper i Microsoft 365 administratörscenter](https://portal.office.com/adminportal/home#/groups).
+1. Gå till [sidan Grupper i administrationscentret för Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
-2. Välj en grupp för att se dess ägare och medlemmar. Om du vill lägga till eller ta bort personer klickar du på länken **Redigera** i raden **ägare** eller **medlemmar** . 
+2. Välj en grupp om du vill visa dess ägare och medlemmar. Om du vill lägga till eller ta bort personer klickar du på länken **Redigera** på raden **Ägare** eller **Medlemmar.** 
     
 Dela en kommunikationswebbplats med en Office 365-grupp:
   
-1. Gå till webbplatsen i en webbläsare och klicka på **dela webbplats** uppe till höger. 
+1. Gå till webbplatsen i en webbläsare och klicka på **Dela webbplats** längst upp till höger. 
     
-2. Ange gruppnamnet och välj sedan behörighetsnivå (Läs, redigera eller fullständig behörighet).
+2. Ange gruppnamnet och välj sedan behörighetsnivån (Läs, Redigera eller Fullständig kontroll).
     
-Skapa en SharePoint-grupp som ska användas med en klassisk webbplats:
+Skapa en SharePoint-grupp som du vill använda med en klassisk webbplats:
   
-1. Gå till webbplatsen i en webbläsare och klicka på ikonen Inställningar uppe till höger.
+1. Gå till webbplatsen i en webbläsare och klicka på ikonen Inställningar längst upp till höger.
     
-2. Klicka på **Webbplatsinställningar**och klicka sedan på **webbplatsbehörigheter**under **användare och behörigheter**.
+2. Klicka på **Webbplatsinställningar**och klicka sedan på **Webbplatsbehörigheter**under **Användare och behörigheter**.
     
-3. Klicka på **Skapa grupp**på fliken behörigheter.
+3. Klicka på **Skapa grupp**på fliken Behörigheter.
     
-[Anslut en klassisk gruppwebbplats till en ny Office 365-grupp](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Ansluta en klassisk gruppwebbplats till en ny Office 365-grupp](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[Läs mer om att arbeta med SharePoint-grupper](https://go.microsoft.com/fwlink/?linkid=874658)
+[Läs mer om hur du arbetar med SharePoint-grupper](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

@@ -1,8 +1,8 @@
 ---
-title: Tjänsten samtal pågår
+title: Tjänstincident pågår
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 10/9/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.assetid: e63fd594-347a-4a07-8dbd-a7074d6398bf
 ms.custom:
 - "114"
 - "1600013"
-ms.openlocfilehash: 73545096f9f6c819162c82ff5c4d0e339fa4c6bd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 539ed1bdbfbea60124d8fe05885b00900a597e83
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550569"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43681662"
 ---
-# <a name="service-incident-in-progress"></a>Tjänsten samtal pågår
+# <a name="service-incident-in-progress"></a>Tjänstincident pågår
 
-Du kan påverkas av en olycka för tjänsten eller rådgivande som håller för närvarande på att undersökas. Du kan kontrollera senaste status genom att gå till sidan [Service hälsa](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Du kan påverkas av en tjänstincident eller en rådgivande som för närvarande utreds. Du kan kontrollera den senaste statusen genom att gå till sidan [Servicehälsa.](https://admin.microsoft.com/adminportal/home#/servicehealth)
   
-För din bekvämlighet hittar du en sammanfattning av denna olycka nedan:
+För din bekvämlighet kan du hitta en sammanfattning av denna incident nedan:
   
-> **Incident nummer:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Incidentnummer:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Påverka beskrivning: {ImpactDescription}
+> Effektbeskrivning: {ImpactDescription}

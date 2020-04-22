@@ -10,26 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: e652fc1ae0a7212f4c7f092fc3b184ef1bc13d0d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e39b8525fbcd43ee3778e5f3df9d3576fbd8924f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053927"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692891"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Varningsmeddelande: organisationens principer tillåter inte att du delar med dessa användare
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Varningsmeddelande: Organisationens principer tillåter inte att du delar med dessa användare
 
-Användare kan få ett varningsmeddelande när du försöker dela med externa användare av din organisation. Meddelandet är **organisationens principer tillåter inte att du kan dela med dessa användare. Gå till extern delning i Office 365 administratörscenter för att aktivera den**. Detta händer ofta första gången försöker dela med externa användare eller när du delar med nya externa användare.
+Användare kan få ett varningsmeddelande när de försöker dela med externa användare i organisationen. Meddelandet är **organisationens principer tillåter inte att du delar med dessa användare. Gå till Extern delning i Microsoft 365-administrationscentret för att aktivera det**. Detta händer ofta första gången du försöker dela med externa användare eller när du delar med nya externa användare.
 
-Kontrollera de **externa delningsinställningarna för SharePoint och OneDrive** för din organisation.
+Kontrollera **inställningarna för extern sharepoint- och OneDrive-delning** för din organisation.
 
-1. Välj **SharePoint**i [Microsoft 365 administratörs Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/).
-3. Välj **delning** för att visa de externa delningsinställningarna.
+1. Välj **SharePoint**i [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/).
+3. Välj **Delning** om du vill visa inställningarna för extern delning.
 
-Kontrollera de **externa delningsinställningarna** för en viss webbplats.
+Kontrollera **inställningarna** för extern delning för en viss webbplats.
 
-1. Välj **SharePoint**i [Microsoft 365 administratörs Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/).
-2. Välj **aktiva webbplatser** om du vill se vilka webbplatser som är tillgängliga.
-3. Välj den webbplats som du vill kontrollera och välj sedan **delnings** knappen som visas i menyraden för att kontrollera webbplatsens inställningar.
+1. Välj **SharePoint**i [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/).
+2. Välj **Aktiva webbplatser** om du vill visa tillgängliga webbplatser.
+3. Välj den webbplats som du vill kontrollera och välj sedan knappen **Delning** som visas i menyraden för att verifiera inställningarna för webbplatsen.
 
 Mer information finns i [Översikt över extern delning](https://docs.microsoft.com/sharepoint/external-sharing-overview).

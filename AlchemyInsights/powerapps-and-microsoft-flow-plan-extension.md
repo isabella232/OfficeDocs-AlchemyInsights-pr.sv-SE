@@ -1,9 +1,9 @@
 ---
-title: 1575 PowerApps och Microsoft Flow planerar tillägg
+title: 1575-PowerApps och Microsoft Flow-plantillägg
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 03/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: fbb0088756590e73d3236a46051e489b35e0ced5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18a73855a31cb1a701a3f3559156793ee5a80ecf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554747"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43667047"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps och Microsoft Flow plan-tillägg
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps och Microsoft Flow-plantillägg
 
-Om du vill begära ett plan-tillägg för **Microsoft flöde** eller **PowerApps** och din innehavare har redan aktiva användare av någon av följande funktioner, finns inget behov att en begäran om support-fil.
+Om du tänker begära ett plantillägg för **Microsoft Flow** eller **PowerApps** och din klient redan har aktiva användare av någon av följande funktioner behöver du inte lämna in en supportbegäran.
 
-- Skapandet och publiceringen av anpassade kopplingar i PowerApps och Microsoft Flow
-- Anpassade HTTP-åtgärder integreras i flödet utanför SharePoint och OneDrive
-- Integration av lokal data via lokal data gateway
+- Skapa och publicera anpassade anslutningsappar i PowerApps och Microsoft Flow
+- ANPASSADE HTTP-anpassade åtgärder integrerade i Flow utanför SharePoint och OneDrive
+- Integrering av lokala data via den lokala datagatewayen
 
-Kunder med aktiva användare av dessa funktioner får tillägget automatiskt fram till den 31 januari 2020, eller upphör att gälla deras befintliga Office 365-prenumeration, beroende på vilket som är längre.
+Kunder med aktiva användare av dessa funktioner får ett automatiskt tillägg fram till den 31 januari 2020 eller att deras befintliga Microsoft 365-prenumerationsperiod löper ut, beroende på vilket som är längst.

@@ -1,5 +1,5 @@
 ---
-title: Setup DKIM i Office 365
+title: Konfigurera DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,43 +9,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: dd908db6a4bc1739b3c1cff059387034d67e093d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666282"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43645690"
 ---
-# <a name="setup-dkim-in-office-365"></a>Setup DKIM i Office 365
+# <a name="setup-dkim"></a>Konfigurera DKIM
 
-Fullständiga instruktioner för hur du konfigurerar DKIM för anpassade domäner i Office 365 är [här](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+De fullständiga instruktionerna för att konfigurera DKIM för anpassade domäner i Microsoft 365 finns [här](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
 
-1. För **varje** egen domän måste du skapa **två** DKIM CNAME-poster i din domän DNS-värdtjänsten (vanligtvis domänregistrerare). Till exempel contoso.com och fourthcoffee.com kräver fyra DKIM CNAME-poster: två för contoso.com och två för fourthcoffee.com.
+1. För **varje** anpassad domän måste du skapa **två** DKIM CNAME-poster på domänens DNS-värdtjänst (vanligtvis domänregistratorer). Till exempel kräver contoso.com och fourthcoffee.com fyra DKIM CNAME-poster: två för contoso.com och två för fourthcoffee.com.
 
-   DKIM CNAME-poster för **varje** anpassad domän använder du följande format:
+   DKIM CNAME-posterna för **varje** anpassad domän använder följande format:
 
-   - **Värdnamn**:`selector1._domainkey.<CustomDomain>`
+   - **Värdnamn:**`selector1._domainkey.<CustomDomain>`
 
-     **Punkter till adressen eller värde**:`selector1-<DomainGUID>._domainkey.<InitialDomain>`
-
-     **TTL**: 3600
-
-   - **Värdnamn**:`selector2._domainkey.<CustomDomain>`
-
-     **Punkter till adressen eller värde**:`selector2-<DomainGUID>._domainkey.<InitialDomain>`
+     **Pekar på adress eller värde:**`selector1-<DomainGUID>._domainkey.<InitialDomain>`
 
      **TTL**: 3600
 
-   \<DomainGUID\> står till vänster om `.mail.protection.outlook.com` i anpassade MX-posten för den egna domänen (till exempel `contoso-com` för domänen contoso.com). \<InitialDomain\> är den domän som du använde när du registrerade dig för Office 365 (till exempel contoso.onmicrosoft.com).
+   - **Värdnamn:**`selector2._domainkey.<CustomDomain>`
 
-2. När du har skapat CNAME-poster för egna domäner, slutför du följande anvisningar:
+     **Pekar på adress eller värde:**`selector2-<DomainGUID>._domainkey.<InitialDomain>`
 
-   en. [Logga in på Office 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) med ditt arbets- eller skolkonto.
+     **TTL**: 3600
 
-   b. Välj ikonen för startprogrammet i det övre vänstra hörnet och välj **Admin**.
+   \<DomainGUID\> är texten till `.mail.protection.outlook.com` vänster om i den anpassade MX-posten `contoso-com` för den anpassade domänen (till exempel för domänen contoso.com). \<InitialDomain\> är den domän som du använde när du registrerade dig för Microsoft 365 (till exempel contoso.onmicrosoft.com).
 
-   c. Expandera **Admin** och välj **Exchange**i den nedre vänstra navigeringen.
+2. När du har skapat CNAME-posterna för dina anpassade domäner gör du följande instruktioner:
 
-   d. Gå till **skydd** > **DKIM**.
+   a. [logga in på Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) med ditt arbets- eller skolkonto.
 
-   e. Välj domän och välj **Aktivera** för att **signera meddelanden för den här domänen med DKIM-signaturer**. Upprepa detta steg för varje egen domän.
+   b. Välj ikonen för startprogrammet i det övre vänstra hörnet, och välj sedan **Admin**.
+
+   C. I den nedre vänstra navigeringen expanderar du **Administratör** och väljer **SharePoint**.
+
+   D. Gå till **Skydd** > **DKIM**.
+
+   ᵉ. Välj domänen och välj sedan **Aktivera** för **signeringsmeddelanden för den här domänen med DKIM-signaturer**. Upprepa det här steget för varje anpassad domän.

@@ -3,7 +3,7 @@ title: Aktivera Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 50d1fc29ee4eafd6b6bbe0a873684ab471ba8f02
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e44a2c9ba855daec0b79212655d52c291c3c72eb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495445"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43682310"
 ---
 # <a name="activate-visio"></a>Aktivera Visio
 
-Innan en användare kan installera och aktivera Fjärrskrivbord Visio stationära appen ingår i deras Visio Online Plan 2, måste användaren ha tilldelats en [licens för Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+Innan en användare kan installera och aktivera den stationära Visio-skrivbordsappen som ingår i deras Visio Online Plan 2 måste användaren ha tilldelats en [Visio-licens](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
 
-**Obs!** En stationär version av Visio inkluderar inte i Visio Online Plan 1.
+**Anm.)** Visio Online Plan 1 innehåller inte en skrivbordsversion av Visio.
 
-Aktivera Visio:
+Så här aktiverar du Visio:
 
-1. Installera Visio från din [portal mitt konto](https://portal.office.com/account#installs) om det inte redan är installerat. Mer information finns i [Installera Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
-2. När installationen är klar kan du öppna Visio-app. Visio kan aktiveras automatiskt och du kan börja använda direkt. Om det inte är uppmanas du att logga in. Glöm inte att logga in med samma arbete eller skolan konto som har tilldelats en licens för Visio. Följ instruktionerna för att fortsätta med aktivering. 
+1. Installera Visio från min [kontoportal](https://portal.office.com/account#installs) om den inte redan är installerad. Mer information finns i [Installera Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. När installationen är klar öppnar du Visio-programmet. Visio aktiveras troligen automatiskt och du kan börja använda det direkt. Annars kan du uppmanas att logga in. Kontrollera att du loggar in med samma arbets- eller skolkonto som tilldelats en Visio-licens. Följ anvisningarna för att fortsätta aktiveringen. 
 
-Köra [felsökaren för aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy) för aktivering problem på datorn.
+Om du vill ha problem med [aktiveringen kör du felsökaren för aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy) på den berörda datorn.
 
-För mer information se:<br>
-[Aktivera Office på en PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[En prenumeration-meddelande visas när jag öppnar ett Office 365-program](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Office-fel ”produkter hittades i ditt konto kan inte användas för att aktivera <app>”](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Olicensierade produkter och aktivering fel i Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)
+För detaljerad information se:<br>
+[Aktivera Office på en dator](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Ett prenumerationsmeddelande visas när jag öppnar ett Microsoft-program](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Office-felet "Produkterna som vi hittade i ditt <app>konto kan inte användas för att aktivera "](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Office-felmeddelanden om olicensierad produkt och aktivering](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)

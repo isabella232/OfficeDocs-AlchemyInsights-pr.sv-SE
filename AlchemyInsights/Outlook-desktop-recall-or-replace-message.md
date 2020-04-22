@@ -1,40 +1,40 @@
 ---
-title: Outlook-skrivbordet återkalla eller ersätta ett e-postmeddelande
+title: Återkalla eller ersätta ett e-postmeddelande i Outlook Desktop
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d64332778f9132aff6a9660bb0d522f4e16b753c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36496129"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687528"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Återkalla eller ersätta ett Outlook-e-postmeddelande
 
-- Som administratör kan du **återkalla meddelanden för användare med hjälp av PowerShell**. Du kan inte återkalla meddelanden från administratörscenter.
-- Du kan **bara återkalla meddelanden som skickas till personer i din organisation**. Om meddelandet skickades till en Gmail-adress kan du till exempel inte återkalla det.
-- Du kan **bara återkalla meddelanden som skickats från Outlook 2016 på datorn**. Om en användare skickar ett meddelande med Outlook för Mac eller Outlook på webben kan du inte återkalla det.
+- Som administratör kan du **återkalla meddelanden för användare som använder PowerShell**. Du kan inte återkalla meddelanden från administrationscentret.
+- Du kan **bara återkalla meddelanden som skickas till personer i organisationen**. Om meddelandet till exempel skickades till en Gmail-adress kan du inte komma ihåg det.
+- Du kan **bara återkalla meddelanden som skickas från Outlook 2016 på datorn**. Om en användare skickar ett meddelande med Outlook för Mac eller Outlook på webben kan du inte återkalla det.
 
 Så här återkallar eller ersätter du ett e-postmeddelande:
 
-1. I mappfönstret till vänster i Outlook-fönstret väljer du mappen skickat.
-1. Dubbelklicka på det meddelande som du vill återkalla för att öppna det.
-1. Välj fliken **meddelande** och välj sedan **åtgärder** > **återkalla det här meddelandet**.
-1. Välj **ta bort olästa kopior av det här meddelandet** eller **ta bort olästa kopior och Ersätt med ett nytt meddelande**och välj sedan **OK**.
-1. Om du skickar ett ersättnings meddelande skriver du meddelandet och väljer sedan **Skicka**.
-1. Lyckade eller misslyckade återkallningar av ett meddelande beror på mottagarens inställningar i Outlook. Anvisningar om hur du kontrollerar återkallningen finns i [den här artikeln](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+1. Välj mappen Skickat i mappfönstret till vänster om Outlook-fönstret.
+1. Dubbelklicka på meddelandet som du vill återkalla för att öppna det.
+1. Markera fliken **Meddelande** och välj sedan **Åtgärder** > **återkalla det här meddelandet**.
+1. Välj **Ta bort olästa kopior av meddelandet** eller Ta bort **olästa kopior och ersätt med ett nytt meddelande**och välj sedan **OK**.
+1. Om du skickar ett ersättningsmeddelande skriver du meddelandet och väljer sedan **Skicka**.
+1. Hur ett meddelande återkallas eller misslyckas beror på mottagarens inställningar i Outlook. Steg för att kontrollera återkallandet finns i den [här artikeln](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-Sök efter och ta bort e-postmeddelanden i din organisation
+Söka efter och ta bort e-postmeddelanden i organisationen
 
-- Om du inte är global administratör måste ditt konto läggas till i rollen eDiscovery Manager-roll eller efterlevnadshantering för att söka efter meddelanden. Om du vill ta bort meddelanden måste du gå med i rollgruppen Organisationshantering eller rollen Sök-och rensnings hantering. Behörigheter för dessa roller tilldelas i säkerhets- [och Efterlevnadscenter](https://go.microsoft.com/fwlink/?linkid=2083731).
-- [Skapa en innehållssökning](https://docs.microsoft.com/office365/securitycompliance/content-search) för att hitta meddelandet att ta bort.
-- [Anslut till Security och Compliance Center PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
+- Om du inte är global administratör måste ditt konto läggas till i rollen eDiscovery Manager eller hanteringsrollen för efterlevnadssökning för att söka efter meddelanden. Om du vill ta bort meddelanden måste du gå med i rollgruppen Organisationshantering eller hanteringsrollen Sök och rensa. Behörigheter för dessa roller tilldelas i [säkerhets- och efterlevnadscentret](https://go.microsoft.com/fwlink/?linkid=2083731).
+- [Skapa en innehållssökning](https://docs.microsoft.com/office365/securitycompliance/content-search) för att hitta meddelandet som ska tas bort.
+- [Anslut till Security and Compliance Center PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
-Om du använder multifaktorautentisering, se [ansluta till Office 365 Security och Compliance Center PowerShell med multifaktorautentisering](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
+Om du använder multifaktorautentisering läser du [Anslut till Microsoft 365 security and Compliance Center PowerShell med multifaktorautentisering](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).

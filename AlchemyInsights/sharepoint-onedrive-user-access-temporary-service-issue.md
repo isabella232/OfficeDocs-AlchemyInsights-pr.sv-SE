@@ -2,37 +2,37 @@
 title: Prestandaproblem-SharePoint eller OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 2db0a9442b9fdf1752b654f7c188e641e0a274cb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: ec378981d4f24837b037e18214cbeba2f2b657c5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053819"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692711"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint eller OneDrive är långsam, otillgänglig eller otillgänglig för flera användare
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint eller OneDrive långsamt, otillgängligt eller inte tillgängligt för flera användare
 
-Om en OneDrive eller SharePoint-webbplats inte är tillgänglig för flera användare som tidigare hade åtkomst, kan det finnas ett tillfälligt problem med tjänsten. [Kontrollera den service Health instrumentpanelen](https://portal.office.com/adminportal/home#/servicehealth).
+Om en OneDrive- eller SharePoint-webbplats inte är tillgänglig för flera användare som tidigare hade åtkomst kan det bero på ett tillfälligt serviceproblem. [Kontrollera instrumentpanelen för tjänstens hälsa](https://portal.office.com/adminportal/home#/servicehealth).
 
-**Lägg till och licensiera användaren**
+**Lägga till och licensiera användaren**
 
-Se till att du [tilldelar licenser till användare i Office 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+Kontrollera att du [tilldelar licenser till användare i Microsoft 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
 
 
 **Tilldela behörigheter**
 
-Om användaren har tilldelats en SharePoint-licens och fortfarande får ett meddelande om nekad åtkomst, kontrollera att de har [rätt behörighetsnivå](https://docs.microsoft.com/sharepoint/understanding-permission-levels) tilldelad.
+Om användaren har tilldelats en Sharepoint-licens och fortfarande får ett meddelande om nekad åtkomst, se till att de har [rätt behörighetsnivå](https://docs.microsoft.com/sharepoint/understanding-permission-levels) tilldelad.
 
 **Överväg att använda funktionen för åtkomstbegäran**
 
-Med [funktionen för åtkomstbegäran](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) kan personer begära åtkomst till innehåll som de för närvarande inte har behörighet att se.
+[Funktionen för åtkomstbegäran](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) gör det möjligt för personer att begära åtkomst till innehåll som de för närvarande inte har behörighet att se.
 
-**Tillåt anpassade skript kan orsaka åtkomst nekad problem**
+**Tillåt anpassade skript kan orsaka åtkomst nekade problem**
 
-Det finns vissa scenarier där funktionen *Tillåt anpassade skript* kan utgöra en åtkomst nekad. En lista över funktioner som berörs, säkerhetsöverväganden och möjligheten att inaktivera funktionen. Besök [Tillåt eller förhindra anpassade skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Det finns vissa scenarier där funktionen *Tillåt anpassat skript* kan presentera en åtkomst nekad. För en lista över funktioner som påverkas, säkerhetsöverväganden och möjligheten att inaktivera funktionen. Besök [Tillåt eller förhindra anpassat skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 

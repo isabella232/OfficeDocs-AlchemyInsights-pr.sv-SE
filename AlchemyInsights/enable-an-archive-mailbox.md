@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43132629"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703697"
 ---
 # <a name="enable-an-archive-mailbox"></a>Aktivera en arkivpostlåda
 
@@ -25,7 +25,7 @@ Så här skapar du en arkivpostlåda:
   
 1. Gå till [https://protection.office.com](https://protection.office.com).
 
-2. Logga in på Office 365 med ditt administratörskonto.
+2. Logga in på Microsoft 365 med ditt administratörskonto.
 
 3. Välj Arkiv för &amp; **informationsstyrning** \> i den vänstra rutan i Security Compliance Center **.**
 
@@ -51,6 +51,6 @@ Så här aktiverar du arkivet för en delad postlåda:
 
 Mer information finns i:
   
-- [Aktivera arkivpostlådor i Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Aktivera arkivpostlådor](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Konfigurera en princip för arkiv och borttagning i Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Konfigurera en princip för arkiv och borttagning](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

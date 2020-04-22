@@ -2,7 +2,7 @@
 title: Fel 0-1036 vid installation av office
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,27 +12,27 @@ ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: c9a591a4b853daeff4c92f4093dada5fbeb4e011
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7c5e924255f9ed1f39690e5dc0da7857bac68eb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527525"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703264"
 ---
 # <a name="error-0-1036-when-installing-office"></a>Fel 0-1036 vid installation av office
 
-Försök med följande om du vill korrigera Office-fel 0 1036:
+Prova de här lösningarna för att åtgärda office-felet 0–1036:
   
 - Starta om datorn och försök [installera Office](https://portal.office.com/OLS/MySoftware.aspx) igen.
 
-- Hämta och installera den [Support och återställning assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Ladda ned och installera [Support- och återställningsassistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. När det öppnas, **Avinstallera Office-produkter** väljer du den version som du vill avinstallera och välj **Nästa**.
+1. När den öppnas väljer du den version du vill avinstallera från **Avinstallera Office-produkter** och väljer **Nästa**.
 
-2. Starta om datorn när du uppmanas att fortsätta gå igenom skärmar.
+2. Fortsätt gå igenom skärmarna och starta om datorn när du uppmanas till det.
 
-    Efter omstart öppnas Support och återställning assistenten igen automatiskt för att slutföra avinstallationen.
+    När support- och återställningsassistenten har startats om öppnas den automatiskt för att slutföra avinstallationen.
 
-3. Följ återstående frågor och [installera om Office](https://portal.office.com/OLS/MySoftware.aspx) eller stänga assistenten.
+3. Följ återstående uppmaningar och [installera om Office](https://portal.office.com/OLS/MySoftware.aspx) eller stäng assistenten.
 
-- [Använd Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) att installera Office
+- [Använda offlineinstallationsprogrammet](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) för Office för att installera Office

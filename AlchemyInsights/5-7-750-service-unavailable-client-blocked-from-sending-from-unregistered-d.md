@@ -1,9 +1,9 @@
 ---
-title: 1048 5.7.750 tjänsten är inte tillgänglig. Klienten har blockerats från att skicka från oregistrerad domäner
+title: 1048 5.7.750 Tjänsten är inte tillgänglig. Klient blockerad från att skicka från oregistrerade domäner
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.custom:
 - "1048"
 - "3100026"
-ms.openlocfilehash: 7126b4de7f7d8861afdb22af2540d6910c1d014f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 48b9c2de27f8d7f52215c3a3d547bdf746a3a4cd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494473"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676731"
 ---
-# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>5.7.750 klienten blockeras från att skicka från oregistrerad domän
+# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>5.7.750 Klient blockerad från att skicka från oregistrerad domän
 
-Felet inträffar när en stor mängd meddelanden skickas från domäner som inte är etablerad i Office 365 (läggs till som godkända domäner och validerade).
+Felet uppstår när en stor mängd meddelanden skickas från domäner som inte etableras i din klientorganisation (läggs till som accepterade domäner och valideras).
 
-För att undvika det här felet kan använda du en certifikat-baserad e-flöde koppling där certifikatets domän är en domän som servern eller du kan konfigurera alla sändande domäner.
+För att undvika det här felet kan du använda en certifikatbaserad e-postflödeskoppling där certifikatets domän är en etablerad domän, eller så kan du etablera alla sändande domäner.

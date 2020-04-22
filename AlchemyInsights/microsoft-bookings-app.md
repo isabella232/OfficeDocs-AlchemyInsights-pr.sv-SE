@@ -1,9 +1,9 @@
 ---
-title: 597 Microsoft bokningar App
+title: 597 Microsoft-bokningsapp
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "597"
 - "3800001"
 ms.assetid: 99cf97b6-0ecb-4e38-a2c6-4b59c702c978
-ms.openlocfilehash: 080605b91f6efd2caf510f0086519bf6c78e3969
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9e2d785810ad764809348d1bb716346964baee74
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544917"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698760"
 ---
-# <a name="microsoft-bookings-app"></a>Microsoft bokningar app
+# <a name="microsoft-bookings-app"></a>Appen Microsoft-bokningar
 
-Microsoft Bookings är en avtalad tid planering app som hjälper dig att hålla reda på dina bokningar, din personal och dina kunder. Information och felsökning i appen bokningar finns [bokningar artiklarna](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).
+Microsoft Bookings är en schemaläggningsapp för avtalad tid som hjälper dig att hålla reda på dina bokningar, din personal och dina kunder. Information eller felsökning i appen Bokningar finns i [Bokningsartiklar](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).

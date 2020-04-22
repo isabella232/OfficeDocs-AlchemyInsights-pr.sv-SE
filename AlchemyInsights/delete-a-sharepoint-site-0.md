@@ -3,7 +3,7 @@ title: Ta bort en SharePoint-webbplats
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 7/30/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,43 +11,43 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: aa881dd6618f6912b854929db625f4cbaeb048d7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36514084"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705031"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Ta bort webbplatser som tillhör en Office 365-grupp
 
-När användare skapar en ny gruppwebbplats från SharePoint Home eller om du skapar en ny gruppwebbplats från det nya SharePoint Admin Center, skapas automatiskt en motsvarande Office 365-grupp. Office 365 gruppanslutna gruppwebbplatser skapas också när du skapar en Office 365-grupp eller ett team i Microsoft Teams. Om du vill ta bort en SharePoint-webbplats som tillhör en Office 365-grupp måste du ta bort själva Office 365-gruppen. 
+När användare skapar en ny gruppwebbplats från SharePoint Home eller skapar en ny gruppwebbplats från det nya Administrationscentret för SharePoint skapas automatiskt en motsvarande Office 365-grupp. Gruppanslutna gruppwebbplatser för Office 365 skapas också när du skapar en Office 365-grupp eller ett team i Microsoft Teams. Om du vill ta bort en SharePoint-webbplats som tillhör en Office 365-grupp måste du ta bort själva Office 365-gruppen. 
   
-1. Gå till [sidan grupper i Microsoft 365 administratörscenter](https://portal.office.com/adminportal/home#/groups).
+1. Gå till [sidan Grupper i administrationscentret för Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
 2. Markera kryssrutan bredvid gruppen.
     
-3. Välj **ta bort**.
+3. Välj **Ta bort**.
     
-Anmärkning: när du tar bort en grupp kan det finnas en fördröjning innan webbplatsen tas bort från SharePoint.
+När du tar bort en grupp kan det ta en fördröjning innan webbplatsen tas bort från SharePoint.
   
-**Ta bort kommunikations platser eller klassiska webbplatser:**
+**Ta bort kommunikationswebbplatser eller klassiska webbplatser:**
 
 1. Gå till webbplatsen.
   
-2. Klicka på ikonen **Inställningar** uppe till höger. 
+2. Klicka på ikonen **Inställningar** längst upp till höger. 
   
-3. Klicka på **Webbplatsinställningar**. Klicka på **ta bort den här webbplatsen**under **plats information** eller **Webbplatsåtgärder**och klicka sedan på **ta bort**.
+3. Klicka på **Webbplatsinställningar**. Klicka på Ta bort **den här webbplatsen**under **Webbplatsinformation** eller **Webbplatsåtgärder**och klicka sedan på **Ta bort**.
   
 **Ta bort en SharePoint-webbplatssamling:**
 
-Så här raderar du en webbplats:
+Så här tar du bort en webbplats:
   
-1. Klicka på **kryssrutan** bredvid den webbplats som du vill ta bort på sidan webbplatser i det nya SharePoint Admin Center. 
+1. Klicka på **kryssrutan** bredvid den webbplats som du vill ta bort på sidan Webbplatser på sidan Webbplatser. 
     
-2. Klicka på **ta bort** i verktygsfältet menyfliksområdet.
+2. Klicka på Ta **bort** i verktygsfältet i menyfliksområdet.
     
-**Bort en webbplats av misstag?**
+**Raderade en webbplats av misstag?**
 
-Se [återställa en borttagen webbplatssamling](https://go.microsoft.com/fwlink/?linkid=867660).
+Se [Återställa en borttagen webbplatssamling](https://go.microsoft.com/fwlink/?linkid=867660).
   
 

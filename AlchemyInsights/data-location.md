@@ -1,5 +1,5 @@
 ---
-title: Data plats
+title: Plats för data
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,27 +10,27 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: ec8fb91dfe77cb251579ce23eb0579b114b101d9
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: c769c17796d805f88afb4d5b32adb7d4a9bb3ce0
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627864"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655300"
 ---
-# <a name="data-location"></a>Data plats
+# <a name="data-location"></a>Plats för data
 
-Du kan visa platsen för din Office 365-klient i administratörscenter eller genom att ansluta till Exchange Online via PowerShell.
+Du kan visa platsen för din klient i administrationscentret eller genom att ansluta till Exchange Online via PowerShell.
 
 
-**Admin Center:**
-1. Logga in på [administratörscenter](https://admin.microsoft.com/Adminportal/Home).
-2. Välj **Inställningar** > **organisations profil**.
-3. Under **data plats**väljer du **Visa information**.
+**Administrationscenter:**
+1. Logga in på [administrationscentret](https://admin.microsoft.com/Adminportal/Home).
+2. Välj profil **för inställningar** > **organisation**.
+3. Under **Dataplats**väljer du **Visa information**.
 
 
 **Powershell:**
-1. Ansluta till Exchange Online med hjälp av Windows PowerShell.
-2. Kör cmdlet [Get-OrganizationalUnit](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) om du vill visa en lista över klientens egenskaper. 
-3. Titta på egenskapen OrganizationId.
+1. Anslut till Exchange Online med Windows PowerShell.
+2. Kör [cmdleten Get-OrganizationalUnit](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) för att visa en lista över klientens egenskaper. 
+3. Titta på OrganisationenId egendom.
 
-När du har data platsen för EXO och SPO kan du bestämma data platsen för andra tjänster som du kan använda [varifrån dina data finns](https://products.office.com/where-is-your-data-located).
+När du har dataplatsen för EXO och SPO kan du bestämma vilken dataplats för andra tjänster du kan använda från [där dina data finns](https://products.office.com/where-is-your-data-located).
