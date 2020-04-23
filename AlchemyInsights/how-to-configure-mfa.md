@@ -1,5 +1,5 @@
 ---
-title: 955 hur du konfigurerar MFA
+title: 955 Så här konfigurerar du MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,15 +11,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 52ab5336858c0013667be721dc865fdccf71bfa0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 7fda732dc49e4e01b2dc0fcbf0fcde83b4dcbab4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739655"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722394"
 ---
-# <a name="configure-multi-factor-authentication-in-office-365"></a><span data-ttu-id="692cf-102">Konfigurera multifaktorautentisering i Office 365</span><span class="sxs-lookup"><span data-stu-id="692cf-102">Configure multi-factor authentication in Office 365</span></span>
+# <a name="configure-multi-factor-authentication"></a><span data-ttu-id="1b40a-102">Konfigurera multifaktorautentisering</span><span class="sxs-lookup"><span data-stu-id="1b40a-102">Configure multi-factor authentication</span></span>
 
-<span data-ttu-id="692cf-103">Om du vill konfigurera MFA, se [Konfigurera multifaktorautentisering för Office 365-användare](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).</span><span class="sxs-lookup"><span data-stu-id="692cf-103">To configure MFA, see [Set up multi-factor authentication for Office 365 users](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).</span></span>
+<span data-ttu-id="1b40a-103">S.K.k. MFA finns i [Konfigurera multifaktorautentisering](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).</span><span class="sxs-lookup"><span data-stu-id="1b40a-103">To configure MFA, see [Set up multi-factor authentication](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).</span></span>
 
-<span data-ttu-id="692cf-104">Observera att du måste vara en Office 365 global administratör för att aktivera och Konfigurera MFA.</span><span class="sxs-lookup"><span data-stu-id="692cf-104">Note that you need to be an Office 365 global admin to enable and configure MFA.</span></span>
+<span data-ttu-id="1b40a-104">Observera att du måste vara global administratör för att aktivera och konfigurera MFA.</span><span class="sxs-lookup"><span data-stu-id="1b40a-104">Note that you need to be a global admin to enable and configure MFA.</span></span>
