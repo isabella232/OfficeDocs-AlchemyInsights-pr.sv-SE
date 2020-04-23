@@ -33,7 +33,7 @@ Mer information finns i [Visa din faktura](https://docs.microsoft.com/office365/
 
 Den debiterade summan utgörs av licenspriset multiplicerat med antalet köpta licenser och alla obligatoriska skatter/avgifter.
 
-Om den debiterade summan inte överensstämmer med det förväntade beloppet kan det beror på något av följande:
+Om den debiterade summan inte överensstämmer med det förväntade beloppet kan det bero på något av följande:
 
 1. Licenser läggs till eller tas bort från prenumerationen: när licenser ändras under en pågående period återspeglas detta i den kommande fakturan.  Eventuellt visas en kredit och ytterligare en faktura för den tidigare tjänsteperioden som är kopplad till ändringen.
 

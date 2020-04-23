@@ -24,7 +24,7 @@ Kommunikationskrediter är ett bekvämt sätt att betala för ljudkonferenser oc
 
 Som administratör kan du lägga till medel manuellt eller ställa in automatisk omdebitering vilket vi rekommenderar.  Med automatisk omdebitering fylls saldot på automatiskt när det sjunker under ett visst belopp som du anger.  Du kan när som helst uppdatera dina betalningsalternativ. På sidan **Fakturering > [Produkter och tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054)** väljer du abonnemanget på kommunikationskrediter och gör uppdateringarna.
 
-1. Om du vill lägga till medel utan att konfigurera automatisk omdebitering klickar du på **Lägga till medel** i avsnittet Förbrukning och anger det belopp du vill lägga till.
+1. Om du vill lägga till medel utan att konfigurera automatisk omdebitering klickar du på **Lägg till medel** i avsnittet Förbrukning och anger det belopp du vill lägga till.
 
 2. Om du vill ställa in automatisk omdebitering eller ändra belopp som fylls på automatiskt och utlösare klickar du på **Ändra inställningar för omdebitering** i faktureringsavsnittet eller **Inställningar för automatisk omdebitering** längst ned på sidan.  
 
