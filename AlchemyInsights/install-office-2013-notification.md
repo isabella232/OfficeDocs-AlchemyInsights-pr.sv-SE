@@ -1,9 +1,9 @@
 ---
-title: Installera Office 2013 anmälan
+title: Installera Office 2013-meddelande
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "54"
 - "1700001"
 ms.assetid: d7fb12ba-895f-45bf-9f4a-12620231d31e
-ms.openlocfilehash: 6a2151f6baf108e168f2ba2ce2e76b5c1a1c6d22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3b2db50dc62d8aa1884319f474f0f8277fc9b68a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498901"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766043"
 ---
-# <a name="upgrade-to-office-2016"></a><span data-ttu-id="fda2d-102">Uppgradera till Office 2016</span><span class="sxs-lookup"><span data-stu-id="fda2d-102">Upgrade to Office 2016</span></span>
+# <a name="upgrade-to-office-2016"></a><span data-ttu-id="9089a-102">Uppgradera till Office 2016</span><span class="sxs-lookup"><span data-stu-id="9089a-102">Upgrade to Office 2016</span></span>
 
-<span data-ttu-id="fda2d-103">Tyvärr, Office 2013 är inte tillgängliga för hämtning för Office 365-prenumerationer längre, men du kan uppgradera till Office 2016 gratis!</span><span class="sxs-lookup"><span data-stu-id="fda2d-103">Unfortunately, Office 2013 isn't available for download anymore for Office 365 subscriptions, but you can upgrade to Office 2016 for free!</span></span> <span data-ttu-id="fda2d-104">För mer information och steg för att installera Office 2016 använder du den här artikeln: [installera eller uppgradera till Office 2016](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx).</span><span class="sxs-lookup"><span data-stu-id="fda2d-104">For more details and steps to install Office 2016 use this article: [Install or upgrade to Office 2016](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx).</span></span>
+<span data-ttu-id="9089a-103">Tyvärr är Office 2013 inte längre tillgängligt för nedladdning, men du kan uppgradera till Office 2016 utan kostnad!</span><span class="sxs-lookup"><span data-stu-id="9089a-103">Unfortunately, Office 2013 isn't available for download anymore, but you can upgrade to Office 2016 for free!</span></span> <span data-ttu-id="9089a-104">Mer information och hur du installerar Office 2016 finns i den här artikeln: [Installera eller uppgradera till Office 2016](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx).</span><span class="sxs-lookup"><span data-stu-id="9089a-104">For more details and steps to install Office 2016 use this article: [Install or upgrade to Office 2016](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx).</span></span>
   

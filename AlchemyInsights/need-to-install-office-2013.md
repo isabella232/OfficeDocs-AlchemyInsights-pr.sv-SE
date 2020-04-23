@@ -1,8 +1,8 @@
 ---
-title: Måste du installera Office 2013
+title: Måste installera Office 2013
 ms.author: janellem
 author: janellem
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: 2acc0b82f6793c4b5a36b71b9574262c559e3aee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a4f59ecd50b92c52e15c4394b467adbaf92b11ff
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538723"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761868"
 ---
-# <a name="office-2013-is-no-longer-supported-in-office-365-subscriptions"></a><span data-ttu-id="980a7-102">Office 2013 stöds inte längre i Office 365-abonnemang</span><span class="sxs-lookup"><span data-stu-id="980a7-102">Office 2013 is no longer supported in Office 365 subscriptions</span></span>
+# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a><span data-ttu-id="58b05-102">Office 2013 stöds inte längre i Microsoft 365-prenumerationer</span><span class="sxs-lookup"><span data-stu-id="58b05-102">Office 2013 is no longer supported in Microsoft 365 subscriptions</span></span>
 
-<span data-ttu-id="980a7-103">Office 2013 stöds inte längre i Office 365-abonnemang efter den 28 februari 2017.</span><span class="sxs-lookup"><span data-stu-id="980a7-103">Since February 28, 2017, Office 2013 is no longer supported in Office 365 subscriptions.</span></span>
+<span data-ttu-id="58b05-103">Sedan den 28 februari 2017 stöds inte längre Office 2013 i Microsoft 365-prenumerationer.</span><span class="sxs-lookup"><span data-stu-id="58b05-103">Since February 28, 2017, Office 2013 is no longer supported in Microsoft 365 subscriptions.</span></span>
   
-<span data-ttu-id="980a7-104">Att säkerställa säkerheten för ditt Office-paket och få alla de senaste funktionerna kan du installera den senaste versionen av Office gratis som en del av Office 365-prenumeration.</span><span class="sxs-lookup"><span data-stu-id="980a7-104">To ensure the security of your Office suite and to get all of the latest features, install the latest version of Office for free as part of your Office 365 subscription.</span></span> <span data-ttu-id="980a7-105">Se [uppgradera användarna till den senaste Office-klienten](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span><span class="sxs-lookup"><span data-stu-id="980a7-105">See [Upgrade your users to the latest Office client](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span></span>
+<span data-ttu-id="58b05-104">Om du vill säkerställa säkerheten i Office-paketet och få alla de senaste funktionerna installerar du den senaste versionen av Office kostnadsfritt som en del av din Microsoft 365-prenumeration.</span><span class="sxs-lookup"><span data-stu-id="58b05-104">To ensure the security of your Office suite and to get all of the latest features, install the latest version of Office for free as part of your Microsoft 365 subscription.</span></span> <span data-ttu-id="58b05-105">Se [Uppgradera användarna till den senaste Office-klienten](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span><span class="sxs-lookup"><span data-stu-id="58b05-105">See [Upgrade your users to the latest Office client](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span></span>
   
