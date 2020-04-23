@@ -1,9 +1,9 @@
 ---
-title: 1221-import-export-Outlook-Email-Contacts-Calendar
+title: 1221-import-export-outlook-e-post-kontakter-kalender
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 14bfc62c75e0bb2eb22ffb7052762c6350ad73e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c795bdd5bd294be8a1415fc0d2fd1e97e02db7ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545200"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724682"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Importera och exportera Outlook e-post, kontakter och Kalender-objekt
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Importera och exportera e-post, kontakter och kalenderobjekt till och från Outlook
 
-1. Klicka på **Arkiv**i Outlook.
+1. Klicka på **Arkiv** i Outlook.
 
-2. Klicka på **Öppna & Export**och klicka på **Importera/exportera**.
+2. Välj **Öppna och exportera** och välj sedan **Importera/exportera**.
 
-    Detta startar guiden Importera och exportera.
+    Detta startar Import-/exportguiden.
 
-För en komplett uppsättning av import och export av instruktioner för Outlook, finns i [den här artikeln](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
+En fullständig uppsättning import- och exportinstruktioner för Outlook finns i [den här artikeln](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
 
-Om du är administratör och vill massimport flera PST-filer till Office 365-postlådor finns i [den här artikeln](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+Om du är administratör och vill importera flera PST-filer i grupp till Microsoft 365-postlådor läser du [den här artikeln](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).

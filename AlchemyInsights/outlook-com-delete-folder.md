@@ -3,7 +3,7 @@ title: Ta bort en mapp i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "271"
 - "8000016"
 ms.assetid: 052172e6-bee2-4466-b674-75187f0225e5
-ms.openlocfilehash: 29720d7f8272afea488b807c76d268d67df8bbee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5c7c563c1f86930df24828f1ae478bea6602bb53
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546861"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43723840"
 ---
 # <a name="delete-a-folder-in-outlookcom"></a>Ta bort en mapp i Outlook.com
 
-1. Högerklicka på den mapp eller undermapp som du vill ta bort och välj **Ta bort mapp**i den vänstra rutan.
+1. Högerklicka på den mapp eller undermapp som du vill ta bort i den vänstra rutan och välj **Ta bort mapp**.
 2. Välj **OK** för att bekräfta.
 
-Mer information finns i [arbeta med meddelandemappar i Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).
+Mer information finns [i Arbeta med meddelandemappar i Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).
