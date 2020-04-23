@@ -1,9 +1,9 @@
 ---
-title: 1336 RecoverableItems mappen är full
+title: 1336 Mappen RecoverableItems är full
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/5/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,33 +12,33 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: 8a5859ba29d847606e8b44d169c3cd6a26364744
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fb10b792981040bdcf4661b8aff30733c2438212
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509773"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720270"
 ---
-# <a name="the-recoverable-items-folder-is-full"></a>Objekt som kan återskapas mappen är full
+# <a name="the-recoverable-items-folder-is-full"></a>Mappen Återställningsbara objekt är full
 
-För Exchange Online-postlådor i Office 365 är standard lagringsgränsen för objekt som kan återskapas mappen 30 GB. Lagringsgränsen för objekt som kan återskapas mappen ökar automatiskt till 100 GB om postlådan placeras på rättstvist håller e-informationsavslöjande Håll eller tilldelas en bevarandeprincip för Office 365.
+För Exchange Online-postlådor är standardlagringsgränsen för mappen Återställningsbara objekt 30 GB. Lagringsgränsen för mappen Återställningsbara objekt ökas automatiskt till 100 GB om postlådan placeras på bevarande av juridiska skäl, spärr för eDiscovery eller tilldelas en bevarandeprincip.
 
-När objekt som kan återskapas mappen överskrider lagringsgränsen, påverkas postlåda funktioner på följande sätt:
+När mappen Återställningsbara objekt når lagringsgränsen påverkas postlådefunktionen på följande sätt:
 
 - Användaren kan inte ta bort objekt från postlådan.
 
-- Hanterade Mapphanteraren kan inte radera objekt baserat på kvarhållande tagg eller inställningar för hanterade mappar.
+- Assistenten för hanterad mapp kan inte ta bort objekt baserat på kvarhållningstagg eller hanterade mappinställningar.
 
-- Kopiera-on-write sidan skydd processen inte kan upprätthålla versioner av objekt redigeras av användaren för postlådor som har enstaka objekt återställning aktiverat eller har spärrats.
+- För postlådor som har ensidig återställning av ett objekt aktiverat eller har spärrats kan sidskyddsprocessen för copy-on-write inte underhålla versioner av objekt som redigerats av användaren.
 
-- För postlådor som har postlådan granskningsloggning aktiverats kan ingen logg granskningsposter postlåda sparas i revisioner undermapp i mappen objekt som kan återskapas.
+- För postlådor som har loggning av postlådegranskning aktiverat kan inga loggposter för postlådagranskning sparas i undermappen Granskningar i mappen Återställningsbara objekt.
 
-Administratörer kan använda för postlådor som inte är spärrade, de `Search-Mailbox -SearchDumpsterOnly -DeleteContent` i Exchange Online PowerShell för att ta bort objekt i mappen objekt som kan återskapas. Mer information finns i följande avsnitt:
+För postlådor som inte är spärrade kan `Search-Mailbox -SearchDumpsterOnly -DeleteContent` administratörer använda kommandot i Exchange Online PowerShell för att ta bort objekt i mappen Återställningsbara objekt. Mer information finns i följande avsnitt:
 
 - [Söka efter och ta bort meddelanden](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
 
-- [Sök-postlåda](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
+- [Sök-brevlåda](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-Administratörer måste ta bort spärren innan de kan borttagna objekt från mappen objekt som kan återskapas för postlådor som är spärrade. Mer information finns i [Ta bort objekt i objekt som kan återskapas mappen för molnbaserade postlådor på Håll](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+För postlådor som är spärrade måste administratörer ta bort spärren innan de kan ta bort objekt från mappen Återställningsbara objekt. Mer information finns [i Ta bort objekt i mappen Återställningsbara objekt för molnbaserade postlådor som är spärrade](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
 
-För att förhindra att objekt som kan återskapas mappen blir full, kan administratörer öka lagringsgränsen för de objekt som kan återskapas mappen för postlådor på Håll och ställa in en bevarandeprincip för postlådan som flyttar objekt från mappen objekt som kan återskapas till användarens Arkiv e-postlådan. Se [öka objekt som kan återskapas kvoten för postlådor på Håll](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
+För att förhindra att mappen Återställningsbara objekt blir fullständig kan administratörer öka lagringsgränsen för mappen Återställningsbara objekt för spärrade postlådor och ställa in en bevarandeprincip för postlådan som flyttar objekt från mappen Återställningsbara objekt till användarens arkivpostlåda. Se [Öka kvoten För återställningsbara objekt för spärrade postlådor](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
