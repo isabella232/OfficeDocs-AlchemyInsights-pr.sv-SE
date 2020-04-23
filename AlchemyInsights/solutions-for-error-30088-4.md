@@ -1,9 +1,9 @@
 ---
-title: Lösningar för fel 30088 4
+title: Lösningar för fel 30088-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/10/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,25 +13,25 @@ ms.assetid: 2c03462c-8a6a-4042-a6fd-cd9e009b8a3f
 ms.custom:
 - "829"
 - "2000020"
-ms.openlocfilehash: 9d323856b1f3ad7cfea6903dcf3c9745a9853d8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fc25a9ba8af90b7acba3ab3c978e03a3bcfd2d7d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501673"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43756901"
 ---
-# <a name="solutions-for-error-30088-4"></a>Lösningar för fel 30088 4
+# <a name="solutions-for-error-30088-4"></a>Lösningar för fel 30088-4
 
-Försök med följande om du vill korrigera fel [30088 4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):
+Prova dessa lösningar för att åtgärda fel [30088-4:](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)
   
-- Starta om datorn och försök [installera Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Starta om datorn och prova [att installera Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Hämta och installera den [Support och återställning assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Ladda ned och installera [Support- och återställningsassistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. När det öppnas, väljer du den version som du vill avinstallera och välj **Nästa** **Avinstallera Office-produkter** .
+1. När den öppnas väljer du den version du vill avinstallera från **Avinstallera Office-produkter** och väljer **Nästa**.
 
-2. Starta om datorn när du uppmanas att fortsätta gå igenom skärmar.
+2. Fortsätt gå igenom skärmarna och starta om datorn när du uppmanas till det.
 
-    Efter omstart öppnas Support och återställning assistenten igen automatiskt för att slutföra avinstallationen.
+    När support- och återställningsassistenten har startats om öppnas den automatiskt för att slutföra avinstallationen.
 
-3. Följ återstående frågor och [installera om Office](https://portal.office.com/OLS/MySoftware.aspx) eller stänga assistenten.
+3. Följ återstående uppmaningar och [installera om Office](https://portal.office.com/OLS/MySoftware.aspx) eller stäng assistenten.

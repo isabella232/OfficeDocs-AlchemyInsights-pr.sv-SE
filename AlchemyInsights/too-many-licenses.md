@@ -3,7 +3,7 @@ title: För många licenser?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 4ee87eacd784acee9f4e1a34012076f907e4d46a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0974b856aa79d0377ed350e5ece3d2be30991772
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665958"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759926"
 ---
 # <a name="too-many-licenses"></a>För många licenser?
 
-Om du tror att du är som faktureras för många Office 365-licenser, beror det oftast har köpt fler licenser måste.
+Om du tror att du faktureras för för många licenser, detta beror oftast på att ha köpt fler licenser då du behöver.
   
 **Minska antalet köpta licenser**
   
-1. Gå till **Fakturering** i administratörscenter, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjänster.
+1. I administrationscentret går du till sidan **Fakturering** \> [Produkter och tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Hitta det abonnemang som du vill ta bort licenser och välj sedan **Lägg till/ta bort licenser**.
+2. Leta reda på den prenumeration som du vill ta bort licenser från och välj sedan **Lägg till/ta bort licenser**.
 
-3. Ange det totala antalet licenser som du behöver för den här prenumerationen i rutan **totala licenser** och välj sedan **Skicka ändra**. Om du till exempel har 110 licenser och vill ta bort 5 av dem skriver du 105.
+3. I rutan **Totalt antal licenser** anger du det totala antalet licenser som du behöver för den här prenumerationen och väljer sedan Skicka **ändring**. Om du till exempel har 110 licenser och vill ta bort 5 av dem skriver du 105.
 
-Mer information finns i [Ta bort licenser från din Office 365 för business-prenumeration](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Mer information finns i [Ta bort licenser från din Microsoft 365 för företag-prenumeration](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).

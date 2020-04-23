@@ -1,8 +1,8 @@
 ---
-title: Prova Office 365 innehavaradministration blockeras av Spamhaus
+title: Test Microsoft 365-klientorganisation blockerad av Spamhaus
 ms.author: chrisda
 author: chrisda
-ms.date: 11/4/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 6bf10d68da8ba582ff0288b1f824ffc2505d4365
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ca948d0f1d5ded8969198ccddc67d743f77a1734
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500448"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759890"
 ---
-# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Fel när en Office 365-testversion användare skickar e-post: Klientvärd blockeras med hjälp av Spamhaus
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Fel när en testanvändare från Microsoft 365 skickar e-post: Klientvärden blockerad med Spamhaus
 
-Det visas att du skickar e-post från en ny testversion organisation för Office 365. För att förhindra missbruk, blockera vi IP-adresser som är kända för att ha avslöjats tidigare. Denna särskilda kontroll tillämpas inte längre när du börjar använda betalas licenser. Du kanske kan få tillfällig befrielse genom att be om en ny IP-adress från din internet-tjänstprovider (ISP) eller genom att ta bort spärren från webbplatsen [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .
+Det verkar som om du skickar e-post från en ny testorganisation för Microsoft 365. För att förhindra missbruk blockerar vi IP-adresser som är kända för att tidigare ha komprometterats. Den här specifika kontrollen tillämpas inte längre när du har börjat använda betalda licenser. Du kanske kan få tillfällig lättnad genom att be om en ny IP-adress från din Internet-leverantör (ISP), eller genom att ta bort blocket från [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) webbplats.

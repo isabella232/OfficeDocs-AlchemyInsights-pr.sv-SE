@@ -1,5 +1,5 @@
 ---
-title: Upprepade inloggningsuppmaningar / inloggningsslinga
+title: Upprepade inloggningsmeddelanden / inloggningsslinga
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,18 +13,18 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: 88cbc65909aec2670000ed031675f933b9510897
-ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
+ms.openlocfilehash: a8305e6f089251077400f2b727539615cf6165af
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "41969851"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722756"
 ---
-# <a name="repeated-sign-in-prompts-in-office-apps"></a>Upprepade inloggningsmeddelanden i Office-appar
+# <a name="repeated-sign-in-prompts-in-office-apps"></a>Upprepade inloggningsuppmaningar i Office-appar
 
-Så här felsöker du upprepade inloggningsuppmaningar i Office-appar finns i:
+Mer om du vill felsöka upprepade inloggningsmeddelanden i Office-appar finns i:
 
-- [Felsöka appar som inte kan logga in på Office 365, Azure eller Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
-- ["Nekad åtkomst" eller användaren uppmanas upprepade gånger om autentiseringsuppgifter när du ansluter till Office 365](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
-- [En federerad användare uppmanas upprepade gånger om autentiseringsuppgifter under inloggning till Office 365, Azure eller Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
+- [Felsöka appar som inte är webbläsare som inte kan logga in på Microsoft 365, Azure eller Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
+- ["Åtkomst nekad" eller användaren uppmanas upprepade gånger att ha angett autentiseringsuppgifter när du ansluter till Microsoft 365](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
+- [En federerad användare uppmanas upprepade gånger att ange autentiseringsuppgifter under inloggningen till Microsoft 365, Azure eller Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
 

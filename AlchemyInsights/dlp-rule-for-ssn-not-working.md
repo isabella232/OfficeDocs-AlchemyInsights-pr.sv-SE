@@ -12,12 +12,12 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: cfe884a207490a19325ce059652de158c16dc801
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5af843c2b70b5b2e1aaf82c9f01356546929d840
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704103"
+ms.locfileid: "43788720"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>DLP-problem med personnummer
 
@@ -25,7 +25,7 @@ ms.locfileid: "43704103"
 
 **DLP-problem med SSN-nätverk**
 
-Har du problem med **att Data Loss Prevention (DLP)** inte arbetar för innehåll som innehåller ett **personnummer (SSN)** när du använder en känslig informationstyp i Office 365? Om så är fallet, se till att ditt innehåll innehåller den information som behövs för vad DLP-principen söker. 
+Har du problem med **att Data Loss Prevention (DLP)** inte arbetar för innehåll som innehåller ett **personnummer (SSN)** när du använder en känslig informationstyp i Microsoft 365? Om så är fallet, se till att ditt innehåll innehåller den information som behövs för vad DLP-principen söker. 
   
 För en SSN-princip som konfigurerats med en konfidensnivå på 85 % utvärderas följande och måste identifieras för att regeln ska utlösas:
   

@@ -1,9 +1,9 @@
 ---
-title: Outlook.com kan inte ta emot koder för kontroll
+title: Outlook.com kan inte ta emot verifieringskoder
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 5de84426e3b7eb0b0d755bbcd65f00f7f9eef5ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b13aa78e26ff5695f83a83e967b69de2aa96b189
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537713"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760826"
 ---
-# <a name="cant-get-verification-codes"></a>Kan inte hämta kontroll koder
+# <a name="cant-get-verification-codes"></a>Det går inte att hämta verifieringskoder
 
-Om du inte kommer åt din alternativa e-post eller telefonnummer, gå till sidan Microsoft konto [grundläggande säkerhet](https://account.microsoft.com/security) väljer du **någon av dessa inte har** på sidan logga in och följ instruktionerna för att ersätta din säkerhetsinformation.
+Om du inte kan komma åt din alternativa e-postadress eller ditt telefonnummer går du till grunderna för Microsoft-kontots [säkerhetsgrundsida,](https://account.microsoft.com/security) väljer **Jag har ingen av dessa** på inloggningssidan och följer instruktionerna för att ersätta säkerhetsinformationen.
 
-*Observera:* [Microsoft Authenticator-app](https://go.microsoft.com/fwlink/?linkid=2016117) kräver inte en Internetanslutning för att ge dig en verifieringskoden.
+*Anm.:* [Microsoft Authenticator-appen](https://go.microsoft.com/fwlink/?linkid=2016117) kräver ingen internetanslutning för att ge dig en verifieringskod.
 
-Om du vill veta mer läser du [Microsoft security info och kontroll koder](https://support.microsoft.com/help/12428/).
+Mer information finns i [Microsoft-kontosäkerhetsinformation och verifieringskoder](https://support.microsoft.com/help/12428/).

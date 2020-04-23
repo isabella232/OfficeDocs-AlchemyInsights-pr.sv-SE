@@ -1,24 +1,24 @@
 ---
-title: SharePoint nya funktioner meddelade
+title: Nya funktioner i SharePoint har meddelats
 ms.author: pebaum
 author: pebaum
-ms.date: 9/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: 9c766a87b37ecb3dfe5c4cc9d43391eeab227adb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 3ad14c42bdca8984c00d44c222dd242f0e00a9ca
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054035"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767699"
 ---
-# <a name="sharepoint-new-features-announced"></a>SharePoint nya funktioner meddelade
+# <a name="sharepoint-new-features-announced"></a>Nya funktioner i SharePoint har meddelats
 
-Vid Ignite 2018-konferensen meddelade Microsoft nya innovationer för SharePoint, inklusive nya funktioner för moderna portaler, nya webbdelar, många förbättringar av navsajter, nyhets länk, målgruppsinriktning, tillgänglighet för nya mobilappar, anslutning till Lag, och mer...
+Vid Konferensen Ignite 2018 presenterade Microsoft nya innovationer för SharePoint, inklusive nya funktioner för moderna portaler, nya webbdelar, många förbättringar av navwebbplatser, nyhetslänk, målgruppsinriktning, tillgänglighet för nya mobilappar, anslutning till Teams med mera...
   
-Mer information om dessa funktioner finns i blogginlägget [nya innovationer i SharePoint &amp; Microsoft 365 leverera kraft och enkelhet för innehållssamarbete.](https://go.microsoft.com/fwlink/?linkid=2026502)
+Mer information om dessa funktioner finns i blogginlägget [Nya innovationer i SharePoint &amp; Microsoft 365 ger kraft och enkelhet för innehållssamarbete.](https://go.microsoft.com/fwlink/?linkid=2026502)
   
-Din organisation kan ansluta till riktade release-program för att få tidig tillgång till nya funktioner. Se [ställa in standard eller riktade release alternativ i Office 365](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365).
+Din organisation kan gå med i programmet Riktad publicering för att få tidig åtkomst till nya funktioner. Se [Konfigurera standard- eller målutgivningsalternativen i Microsoft 365](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365).
