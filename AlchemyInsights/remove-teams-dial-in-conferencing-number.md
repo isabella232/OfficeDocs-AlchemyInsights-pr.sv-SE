@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: cfc87c49ccb1198341f0e49f409db454a5837ba9
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43028146"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784817"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>Ta bort telefonnummer för Teams-konferens med uppringning
 
@@ -24,7 +24,7 @@ Behöver du hjälp med att ta bort numret för en konferens med uppringning frå
 
 Standardnumret för konferensbryggan definierar uppringarens ID som används när ett utgående samtal rings av en deltagare eller organisatören under ett möte.
 
-1. Logga in på Office 365 med ditt arbetskonto.
+1. Logga in med ditt jobbkonto.
 
 2. Gå till **administrationscentret för Microsoft 365**.
 

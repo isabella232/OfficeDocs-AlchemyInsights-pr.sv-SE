@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692413"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709957"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – ljudkonferens
 
-Vill du ha hjälp med att aktivera eller konfigurera ljudkonferenser i Microsoft Teams? Har användaren skapats nyligen?  I sådana fall måste du vänta 2-24 timmar innan inställningarna börjar gälla.    
+Vill du ha hjälp med att aktivera eller konfigurera ljudkonferenser i Microsoft Teams? Har användaren skapats nyligen?  I sådana fall måste du vänta 2-24 timmar innan inställningarna börjar gälla.
 
 Kontrollera att användaren har en licens för ljudkonferenser och har ett avgiftsbelagt standardtelefonnummer:
 
@@ -39,4 +39,4 @@ Kontrollera att användaren har en licens för ljudkonferenser och har ett avgif
 
 7. Välj användaren i fråga och kontrollera att användaren har ett **Avgiftsbelagt standardnummer**.
 
-Finn mer information i [Samtalsabonnemang för Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) eller ring Microsoft Commerce Billing-teamet för att få hjälp med licensproblem.
+Mer information finns i [Samtalsabonnemang](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365), eller ring Microsoft Commerce Billing-teamet för att få hjälp med licensproblem.

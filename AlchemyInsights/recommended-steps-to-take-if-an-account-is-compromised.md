@@ -9,16 +9,16 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36745451"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719322"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Rekommenderade åtgärder att vidta om ett konto har kapats
 
-[VIDEO: Åtgärda ett kapat Office 365-konto](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[VIDEO: Åtgärda ett kapat konto](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. [Återställ användarens lösenord](https://docs.microsoft.com/office365/admin/add-users/reset-passwords) direkt. Skicka inte det nya lösenordet via e-post till slutanvändaren.
 
@@ -30,5 +30,5 @@ ms.locfileid: "36745451"
 
 5. Ta bort användarkontot från alla [administrativa rollgrupper](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles) tills du är säker på att kontot inte längre är osäkert.
 
-För att minimera risken för dataintrång eller att konton kapas i framtiden rekommenderar vi att du läser vår [vägledning om säkerhet i Office 365](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
+För att minimera risken för dataintrång eller att konton kapas i framtiden rekommenderar vi att du läser vår [vägledning om säkerhet i Microsoft 365](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
   

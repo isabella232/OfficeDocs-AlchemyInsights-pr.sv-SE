@@ -3,7 +3,7 @@ title: Uppdatera DNS-poster för att behålla din webbplats hos ditt nuvarande w
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/8/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: f9b0529d3200dd53afc70023c0b60d9d415a8fc1
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8edebef125f23e880713237787bd00cc917258b0
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36742283"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789428"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Uppdatera DNS-poster för att behålla din webbplats hos ditt nuvarande webbhotell
 
-Som en del av processen att flytta din Office 365 offentlig webbplats till en annan Värdleverantör, du kommer sannolikt att behöva göra ändringar i din domänposter.
+Som en del av processen att flytta din offentliga Microsoft 365-webbplats till en annan värdleverantör behöver du troligen göra ändringar i domänposterna.
   
-1. Gå till **installations** \> **domäner** i administratörscenter och välj det domännamn som du vill ändra.
+1. Gå till \> **installationsdomäner i administrationscentret** och välj det domännamn som du vill ändra. **Setup**
 
-2. Ange den information som är anpassad till din webbplats med din nya webbhotellsleverantör.
+2. Ange den information som anpassar sig till din webbplats med din nya värdleverantör.
 
-Mer information finns i [Uppdatera DNS-poster för att hålla din webbplats med din nuvarande Värdleverantör](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider).
+Mer information finns i [Uppdatera DNS-poster för att behålla din webbplats hos din nuvarande värdleverantör](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider).
   
-Mer information om avbruten offentlig webbplats finns i [SharePoint Online offentliga webbplatser som ska avbrytas](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).
+Mer information om utsättningen av den offentliga webbplatsen finns i [SharePoint Online Public Websites som ska avbrytas](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).

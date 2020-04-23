@@ -1,5 +1,5 @@
 ---
-title: Prestanda för SharePoint-migrering
+title: Prestandavägledning för SharePoint-migrering
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,25 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: ae62607bf5991eb8fd8764ebad64da040389df6b
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+- "3179"
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958772"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789320"
 ---
-# <a name="sharepoint-migration-performance"></a>Prestanda för SharePoint-migrering
+# <a name="sharepoint-migration-performance-guidance"></a>Prestandavägledning för SharePoint-migrering
 
-**Viktigt**: under denna extraordinära tid vidtar vi åtgärder för att se till att SharePoint Online- och OneDrive-tjänsterna har hög tillgänglighet. Mer information finns i [temporära funktionsjusteringar för SharePoint Online](https://aka.ms/ODSPAdjustments).
+Prestanda för migrering kan påverkas av nätverksinfrastrukturen, filstorlek, migreringstid och begränsning.
 
-**Prestanda för migrering**
+Om du vill ha mer information går du till:
 
-Prestanda för migrering kan påverkas av nätverksinfrastrukturen, filstorlek, migreringstid och begränsning. Att förstå dem hjälper dig att planera och maximera effektiviteten i migreringen.
-
-Besök länkarna nedan om du vill ha mer information.
-
-- [Migreringshastighet för SharePoint Online och ODB](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [Allmän prestandavägledning för migrering](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [Undvika begränsningar och blockeringar i SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [Ladda ned och installera migreringsverktyget för SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
