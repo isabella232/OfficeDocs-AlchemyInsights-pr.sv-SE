@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: a2f2062ddecf74e41dcca2ee90999827a42f4b04
-ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
+ms.openlocfilehash: 2593baeb696ae4dcc74dd997ff5e9f630897fea9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43118474"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761467"
 ---
 # <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Meddelande i Office-program – Produkterna på ditt konto kan inte användas för att aktivera
 
 - Kontrollera att [prenumerationens status](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) är giltig samt att den berörda användaren har en [giltig licens tilldelad](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) och är ansluten till internet. 
 
-- Öppna ett Office-program, klicka på **Arkiv > Konto** och logga ut från alla konton. Logga in igen med ett användarkonto med en giltig licens. Mer information finns i [Konton i Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9?ui=en-US&rs=en-GB&ad=GB).
+- Öppna ett Office-program, klicka på **Arkiv > Konto** och logga ut från alla konton. Logga in igen med ett användarkonto med en giltig licens. Mer information finns i [Konton i Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
 - Kör [aktiveringsfelsökaren](https://aka.ms/SARA-OfficeActivation-Alchemy) och starta om datorn.
 

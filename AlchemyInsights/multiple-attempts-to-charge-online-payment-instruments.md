@@ -1,9 +1,9 @@
 ---
-title: Flera försök att debitera online betalningsinstrument
+title: Flera försök att ta ut online betalningsinstrument
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 5bcba5903f9ca00b3c6235f9d07e165f35b2a66e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 970963f5aca1d5c281e4d887733a53c8bd1eb0b8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548697"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762012"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Flera försök att debitera online betalningsinstrument
+# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Flera försök att ta ut online betalningsinstrument
 
-Vi gör flera försök att debitera online betalningsinstrument innan du vidtar några åtgärder i tjänsten. Efter en betalning metod markeras alla förfallna belopp måste betalas med den valda betalningsmetoden. Följ anvisningarna i [lägga till, uppdatera eller ta bort ett kreditkort eller bankkonto i Office 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)om du vill uppdatera den aktuella betalningsinformation för prenumerationen.
+Vi gör flera försök att debitera online betalningsinstrument innan du vidtar några åtgärder på tjänsten. När en betalningsmetod har valts måste alla förfallna belopp betalas med den valda betalningsmetoden. Om du vill uppdatera den aktuella betalningsinformationen för din prenumeration följer du stegen i [Lägg till, uppdaterar eller tar bort ett kreditkort eller bankkonto i Microsoft 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

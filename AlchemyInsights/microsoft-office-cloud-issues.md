@@ -1,5 +1,5 @@
 ---
-title: Administratörsroll och hur du tilldelar
+title: Administratörsroll och tilldelning
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: c734b2707003a17e6ac88f32ca28adc4e96e139a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8bc63bd52b1d6a9a7913f025c9dc3390ffbb023f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054792"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762371"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Har du problem med en molntjänst?
 
-Om du har problem med en molntjänst, kan du kontrollera [tjänstens hälsa](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) i Microsoft 365 administratörscenter för att avgöra om det är ett känt problem med en lösning som pågår innan du anropar support eller tillbringa tid felsökning. Problemet kan vara mycket tillfälligt och redan identifierats av Microsoft, men det kan finnas förfaller i tid mellan identifiering av problemet och bokföring på instrumentpanelen för tjänsten hälsa. Fortsätt att kontrollera instrumentpanelen för tjänsten för ytterligare uppdateringar.
+Om du har problem med en molntjänst kan du kontrollera [tjänstens hälsotillstånd](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) i Microsoft 365-administrationscentret för att avgöra om det är ett känt problem med en pågående lösning innan du ringer support eller kan felsöka. Problemet kan vara mycket tillfälligt och redan identifierats av Microsoft, men det kan finnas tidsfördröjning mellan problemidentifiering och bokföring till instrumentpanelen för tjänstens hälsotillstånd. Fortsätt att kontrollera tjänstinstrumentpanelen för ytterligare uppdateringar.
 
-**Meddelande policy**
+**Meddelandepolicy**
 
-När en tjänst incident inträffar, Microsoft erkänner att aktuell, riktad och korrekt kommunikation är viktiga för kunder. Microsoft meddelar Office 365-administratörer genom att uppdatera den klientspecifika [tjänsten Health Dashboard (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) på Office 365 Admin Portal. Uppdateringar av service incidenter tillhandahålls på en timkadens eller, om en annan kadens krävs, kommer den att anges i SHD-kommunikationens bokföring. Mer information finns i [så här kontrollerar du Office 365 service Health](https://docs.microsoft.com/office365/enterprise/view-service-health).
+När en tjänstincident inträffar inser Microsoft att snabb, riktad och korrekt kommunikation är avgörande för kunderna. Microsoft meddelar administratörer genom att uppdatera den klientspecifika [Service Health Dashboard (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) på Microsoft 365 Admin Portal. Uppdateringar av tjänstincidenter tillhandahålls på en timkadens eller, om en annan kadens krävs, kommer det att anges i SHD-kommunikationspubliceringen. Mer information finns i [Så här kontrollerar du Microsoft 365 Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

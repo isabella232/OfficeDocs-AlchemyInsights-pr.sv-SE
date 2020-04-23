@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 73fc8b71cf06be1a4ea91e164c2c47fd19971056
-ms.sourcegitcommit: f6b4bcb6b9dcb3dd17595d503d78b6ee36881a33
+ms.openlocfilehash: 7ffbd796979d8e63682bcc9f5ec5e21e16f777b7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43054042"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765827"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Lösningar till problem vid installation av Office
 
@@ -29,7 +29,7 @@ Prova de här lösningarna för att hantera dina fel i Office:
 - Rensa tidigare spår av Office och installera om med hjälp av support- och återställningsassistenten (SaRA). 
 
     - Ladda ned och installera [Support- och återställningsassistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy). När den öppnas väljer du den version som ska avinstalleras (om någon) och klickar på **Nästa** från **Avinstallera Office-produkter**. Fortsätt gå igenom skärmarna och starta om datorn när du uppmanas till det. När du har startat om öppnas SaRA automatiskt igen för att slutföra avinstallationen.
-    - Använd SaRA för att [installera om Office](http://aka.ms/sara-officeinstall). **Obs**: för att konfigurera Visio eller Project med SaRA kan du använda [Installera Visio](https://aka.ms/SaRA-VisioSetupScenario) eller [Installera Project](https://aka.ms/SaRA-ProjectSetupScenario).  
+    - Använd SaRA för att [installera om Office](https://aka.ms/sara-officeinstall). **Obs**: för att konfigurera Visio eller Project med SaRA kan du använda [Installera Visio](https://aka.ms/SaRA-VisioSetupScenario) eller [Installera Project](https://aka.ms/SaRA-ProjectSetupScenario).  
 
 - Installera Office genom att [använda offline-installationsprogrammet](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
 

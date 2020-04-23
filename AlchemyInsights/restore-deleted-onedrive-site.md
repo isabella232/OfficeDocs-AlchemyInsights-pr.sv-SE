@@ -3,7 +3,7 @@ title: Återställa en borttagen OneDrive-webbplats
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 10/31/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "3174"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 822c7462bc0cbcd5cbcb4041aa93fd47e7a4c70e
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: 151cd3f6fc0be241e689ec9cfe84b437d53529ed
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37913730"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764638"
 ---
 # <a name="restore-a-deleted-onedrive-site"></a>Återställa en borttagen OneDrive-webbplats
 
-När du tar bort en användare i Microsoft 365 administratörscenter (eller när en användare tas bort via Active Directory-synkronisering), sparas användarens OneDrive för antalet dagar som du anger i Administrationscenter för OneDrive. (Mer information finns [i Ange standard bevarande av filer för borttagna OneDrive-användare](https://docs.microsoft.com/onedrive/set-retention).)
+När du tar bort en användare i Administrationscentret för Microsoft 365 (eller när en användare tas bort via Active Directory-synkronisering) behålls användarens OneDrive under det antal dagar du anger i Administrationscentret för OneDrive. (Mer information finns i [Ange standardfilkvarhållning för borttagna OneDrive-användare](https://docs.microsoft.com/onedrive/set-retention).)
 
 * [Återställa en borttagen OneDrive-webbplats](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-Om många av dina OneDrive-filer tas bort, skrivs över, skadas eller infekteras av skadlig programvara kan du återställa hela OneDrive till en tidigare tidpunkt.
+Om många av dina OneDrive-filer tas bort, skrivs över, skadas eller infekteras av skadlig kod kan du återställa hela OneDrive till en tidigare tidpunkt.
 
-* [Återskapa din OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+* [Återställa din OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)

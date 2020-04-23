@@ -1,8 +1,8 @@
 ---
-title: iOS Provisioning profiler regel-Id 1029
+title: iOS-etableringsprofiler regel-ID 1029
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: 1bde6205c98b97eae3340bcbfe154402c8c82c8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 07f98f96958e4897a3e14cef424cb0d7bd491dcc
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498145"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765935"
 ---
-# <a name="ios-provisioning-profiles"></a>iOS Provisioning profiler
+# <a name="ios-provisioning-profiles"></a>iOS-etableringsprofiler
 
-Apple iOS line of business används begreppet en etablering profil som används för att verifiera integriteten för programmet och framtvinga principer som definierats i profilen. Dessa etablerar profiler går ut efter tolv månader och så en ny profil måste vara associerade med distribuerad app för att program ska kunna köras.
+Apple iOS line-of-business använder begreppet en etableringsprofil som används för att validera programmets integritet och tillämpa principer som definieras i profilen. Dessa etableringsprofiler upphör att gälla efter 12 månader och därför måste en ny profil associeras med den distribuerade appen för att apparna ska fortsätta att köras.
   
-I följande artikel beskrivs hur du skapar en etablering av ny profil med en iOS LOB-program som distribueras med Intune associera: [Använd iOS app etablering profiler så att dina appar upphör](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
+I följande artikel beskrivs hur du skapar associera en ny etableringsprofil med en iOS LOB-app som distribueras via Intune: [Använd iOS-apptableringsprofiler för att förhindra att dina appar upphör att gälla](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
   

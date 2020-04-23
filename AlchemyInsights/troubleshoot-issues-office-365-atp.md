@@ -1,30 +1,30 @@
 ---
-title: Felsökning av problem med Office 365 Advanced Threat Protection (ATP)
+title: Felsöka problem med Office 365 Advanced Threat Protection (ATP)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: dbdfe2ddcc4afd4477f66ffd060ddb7093af8fd6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 99bc985f2d66693aca45f0833ab47c043acc1324
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420322"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766763"
 ---
 # <a name="troubleshoot-issues-with-office-365-atp"></a>Felsöka problem med Office 365 ATP
 
-- **Meddelande förseningar med leverans av e-meddelanden**? Försök att använda den dynamiska leveransmetod för säkra bifogade filer ATP-principer. E-postmeddelandet leveransförseningar undviker samtidigt skydda mottagare från skadliga filer.
-- **Vill du rapporten falska positiva identifieringar eller FALSKT negativ**? Använd den här länken om du vill skicka filen för analys:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Visste du att du kan aktivera ATP Safe länkar skydd för e-post som skickas mellan personer i organisationen**? Följ anvisningarna nedan:
-    1. Gå till https://protection.office.com, och logga in.
-    2. Gå till **Threat management** > **Policy** > **Säkert länkar**.
-    3. Redigera (eller lägga till) på en princip enligt de **principer som gäller för specifika mottagare**.
-    4. Markera **Använd säker länkar i meddelanden som skickas inom organisationen**.
-    5. Spara din princip och Tillåt ca 30 minuter för att ändringarna ska fungera går igenom ditt datacenter.
-- Om du vill ha mer hjälp med ATP finns i [Office 365 Advanced Threat Protection](https://docs.microsoft.com/office365/securitycompliance/office-365-atp).
+- **Märker förseningar med e-postleverans?** Prova att använda alternativet Dynamisk leverans för dina ATP-principer för säkra bilagor. På så sätt undviker du förseningar i leveransen av e-postmeddelanden samtidigt som mottagare skyddas från skadliga filer.
+- **Vill du rapportera falska positiva eller falska negativ?** Använd den här länken för att skicka in filen för analys:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- **Visste du att du kan aktivera ATP Safe Links skydd för e-post som skickas mellan personer i din organisation?** Gör så här:
+    1. Gå https://protection.office.comtill och logga in.
+    2. Gå till säkra > länkar för > **hothanteringspolicy****.** **Threat management**
+    3. Redigera (eller lägga till) en princip under **Principer som gäller för specifika mottagare.**
+    4. Välj **Använd säkra länkar till meddelanden som skickas inom organisationen**.
+    5. Spara din princip och tillåt cirka 30 minuter för dina ändringar att arbeta sig igenom ditt datacenter.
+- Mer hjälp med ATP finns i [Office 365 Advanced Threat Protection](https://docs.microsoft.com/office365/securitycompliance/office-365-atp).

@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Service Hälsa
+title: Microsoft 365 Tjänst Hälsa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 93b8c19afb7efb9dc3901e5b51217179a4e9e731
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e50c5091caeb0e85a55eeaf0b4776fabeccf2f20
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600510"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762407"
 ---
-# <a name="microsoft-365-service-health"></a>Microsoft 365 Service Hälsa
+# <a name="microsoft-365-service-health"></a>Microsoft 365 Tjänst Hälsa
 
 
-Kontrollera tjänstens hälsotillstånd för alla tjänster från instrumentpanelen för [tjänstens hälso- och sjukvård](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Genom att välja **Det nya administrationscentret** längst upp till höger visas nya alternativ för tjänstens hälsa.
+Kontrollera tjänstens hälsotillstånd för alla tjänster från [instrumentpanelen för tjänstens hälsotillstånd](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Genom att välja **Det nya administrationscentret** i det övre högra hörnet visas nya servicehälsoalternativ.
 
-- Välj **Inställningar** för att ta emot **e-postmeddelanden om tjänstens hälso- och sjukvård**.
+- Välj **Inställningar för** att ta emot **e-postmeddelanden om**tjänstens hälsotillstånd .
 
 - Välj **Rapportera ett problem** om du har problem med tjänsten.
 
-- Välj **Historik** om du vill granska organisationens hälsohistorik för tjänsten. 
+- Välj **Historik** om du vill granska organisationens hälsohistorik. 
 
-Mer information finns i [Kontrollera office 365-tjänstens hälso- och sjukvård](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+Mer information finns i [Så här kontrollerar du Microsoft 365-tjänstens hälsotillstånd](https://docs.microsoft.com/office365/enterprise/view-service-health). 

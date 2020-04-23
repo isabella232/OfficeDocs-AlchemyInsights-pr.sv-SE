@@ -1,9 +1,9 @@
 ---
-title: Dela filer i OneDrive med externa användare
+title: Dela OneDrive-filer med externa användare
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 4/10/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,34 +11,34 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: da2e654a40cfb3a802a77526706b5093e2a6ac2d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e9550e1b70b00307101f9fa5feb0899c4c77541f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549237"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742349"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Dela filer i OneDrive med personer utanför organisationen
 
-1. Använd app starta för att gå till OneDrive i din webbläsare. 
+1. Använd startprogrammet för att gå till OneDrive i webbläsaren. 
     
-2. Markera den fil eller mapp du vill dela och välj sedan **Dela**. 
+2. Markera den fil eller mapp som du vill dela och välj sedan **Dela**. 
     
-3. Om länktypen är ”personer i \<organisationen\>”, klicka på nedpilen och välj något av följande: 
+3. Om länktypen är inställd \<på\>"Personer i organisationen " klickar du på nedpilen och väljer något av följande: 
     
-  - **Alla som** får tillgång till alla som tar emot den här länken om de får från dig eller vidarebefordras från någon annan. Detta kan omfatta personer utanför din organisation. 
+  - **Alla** ger tillgång till alla som får denna länk, oavsett om de får den direkt från dig eller vidarebefordras från någon annan. Detta kan omfatta personer utanför organisationen. 
     
-  - **Vissa personer** får åtkomst endast till personerna som du anger, även om andra personer kanske redan har. Om personer som vidarebefordrar delningsinbjudan, kommer personer som redan har åtkomst till objektet att kunna använda länken. 
+  - **Specifika personer** ger endast åtkomst till de personer du anger, även om andra personer kanske redan har åtkomst. Om personer vidarebefordrar delningsinbjudan kan bara personer som redan har åtkomst till objektet använda länken. 
     
     > [!NOTE]
-    > Om något av dessa alternativ inte är tillgängligt, eller om du vill använda en annan länktyp ska visas som standard, kan du ändra inställningarna för hela organisationen genom att gå till administratörscentret OneDrive och klicka på **Dela** i det vänstra fönstret. [Lära sig mer](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Om något av dessa alternativ inte är tillgängligt, eller om du vill att en annan länktyp ska visas som standard, kan du ändra inställningarna för hela organisationen genom att gå till administrationscentret för OneDrive och klicka på **Dela** i den vänstra rutan. [Läs mer](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. **Tillåt redigering** är aktiverat som standard. Avmarkera kryssrutan om du vill att användare endast kan se dina filer. 
+4. Som standard är **Tillåt redigering** aktiverat. Om du bara vill att andra ska visa dina filer avmarkerar du kryssrutan. 
     
-5. Ange namnen på de personer du vill dela med och ett meddelande om du vill.
+5. Ange namnen på de personer som du vill dela med och ett meddelande, om du vill.
     
-6. Klicka på **Skicka**när du är redo att skicka länken. 
+6. När du är redo att skicka länken klickar du på **Skicka**. 
     
-[Lära sig mer](https://go.microsoft.com/fwlink/?linkid=871861)
+[Läs mer](https://go.microsoft.com/fwlink/?linkid=871861)
   
 
