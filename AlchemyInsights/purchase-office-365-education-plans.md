@@ -1,5 +1,5 @@
 ---
-title: Köpa Office 365 Education-abonnemang
+title: Köpa Microsoft 365 Education-abonnemang
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 7773c955d8f6887f87a3c3741fa29a08e41541e0
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195224"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789392"
 ---
-# <a name="purchase-office-365-education-plans"></a>Köpa Office 365 Education-abonnemang
+# <a name="purchase-microsoft-365-education-plans"></a>Köpa Microsoft 365 Education-abonnemang
 
-Du har godkänts för Office 365 Education.  Så här genomför du ett köp:
+Du har godkänts för Microsoft 365 Education.  Så här genomför du ett köp:
 
 1. Gå till **[Fakturering > Köptjänster](https://portal.office.com/AdminPortal/Home#/catalog)**.
 
@@ -35,6 +35,6 @@ Du har godkänts för Office 365 Education.  Så här genomför du ett köp:
 
 **Distansutbildning**
 
-- Se [Utbildning och inlärning på distans i Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) för de senaste anvisningarna för att konfigurera skolan, lektionsplanering, virtuella möten och dela innehåll med elever.
+- Se [Utbildning och inlärning på distans i Microsoft 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) för de senaste anvisningarna för att konfigurera skolans lektionsplanering, virtuella möten och dela innehåll med elever.
 
 - Det finns mer IT-vägledning i [Komma igång med Microsoft Teams för distansinlärning](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) och [Göra övergången till inlärning på distans](https://www.microsoft.com/education/remote-learning).

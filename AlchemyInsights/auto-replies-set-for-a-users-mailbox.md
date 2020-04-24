@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: aeeb2e1e76fe602d2767b422797452fd1155fdd5
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 4ffe8d77dad7db5fd5806fe879cf4934e5ca7c4a
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509519"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788900"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>Konfigurera automatiska svar för en användares postlåda
 
 **Metod 1**
 
-1. Logga in på Office 365-portalen.
+1. Logga in på Microsoft 365-portalen.
 
 2. Gå till **Användare > Aktiva användare** (eller **Grupper > Delade postlådor** om du konfigurerar detta på en delad postlåda).
 
@@ -32,7 +32,7 @@ ms.locfileid: "43509519"
 
 **Metod 2**
 
-1. Logga in på administrationsportalen för Office 365 med administratörens autentiseringsuppgifter.
+1. Logga in på administrationsportalen för Microsoft 365 med administratörens autentiseringsuppgifter.
 
 2. Expandera **Administrationscenter** och klicka sedan på **Exchange**.
 

@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500021"
 - "4689"
-ms.openlocfilehash: c31415c4191ebcf50acc8095de3ba6cf31661aa9
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 19366565b8ecef5e89a2deb9fa1b4ff2476246cf
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191118"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789464"
 ---
 # <a name="transfer-licenses-between-tenants"></a>Överföra licenser mellan klientorganisationer
 
-Det går inte att överföra Office 365-licenser mellan två organisationer (klientorganisationer). 
+Det går inte att överföra licenser mellan två organisationer (klientorganisationer). 
 
 - Om du inte längre planerar att använda den klientorganisation som du vill överföra från kan du [avbryta prenumerationen](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions) och [köpa en ny](https://products.office.com/compare-all-microsoft-office-products-b?rtc=1&activetab=tab:primaryr2) (mål)klientorganisation.
 

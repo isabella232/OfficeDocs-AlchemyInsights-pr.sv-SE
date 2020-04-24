@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "3168"
-ms.openlocfilehash: 86e4888634a7282c7d123a5510e34bdfe0911342
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: b977d0dfc700c558f4a740b6b3426e3b8537d280
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182787"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789500"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint-online"></a>Aktivera eller inaktivera extern delning för SharePoint Online
 
-Mer information om hur globala administratörer och SharePoint-administratörer i Office 365 kan ändra delningsinställningar på organisationsnivå för SharePoint och OneDrive finns i [Aktivera eller inaktivera extern delning](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off).
+Mer information om hur globala administratörer och SharePoint-administratörer kan ändra delningsinställningar på organisationsnivå för SharePoint och OneDrive finns i [Aktivera eller inaktivera extern delning](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off).

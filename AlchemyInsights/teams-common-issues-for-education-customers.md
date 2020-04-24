@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856815"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739454"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Vanliga Teams-problem för utbildningskunder
 
@@ -45,12 +45,12 @@ Om du behöver hjälp med att distribuera Teams för att få support via fjärrh
     6. I administrationscentret för Skype för företag klickar du på **Ljudkonferens** och sedan **Användare**.
     7. Välj användaren i fråga och kontrollera att användaren har ett Avgiftsbelagt standardnummer.
 
-    För mer information i [Samtalsabonnemang för Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) eller ring Microsoft Commerce Billing-teamet för att få hjälp med licensrelaterade frågor.
+    Mer information finns i [Samtalsabonnemang](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365), eller ring Microsoft Commerce Billing-teamet för att få hjälp med licensrelaterade frågor.
 
     Ytterligare resurser
 
     - [Möten och konferenser i Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Ljudkonferens i Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [Ljudkonferens](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **Mötesprinciper**: Mötesprinciper används för att kontrollera de funktioner som är tillgängliga för mötesdeltagare i möten schemalagda av användare i organisationen. Efter att du skapat en princip och gjort dina ändringar kan du tilldela användare till principen.
 

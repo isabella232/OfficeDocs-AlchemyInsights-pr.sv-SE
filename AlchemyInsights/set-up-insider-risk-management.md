@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 556150c41ccf363e6025ba6fac0660d1fb74f9b8
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43060015"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784565"
 ---
 # <a name="set-up-insider-risk-management"></a>Konfigurera hantering av insiderrisk
 
@@ -26,13 +26,13 @@ Använd principer för Insider-riskhantering för att identifiera riskfyllda akt
 
 - **Microsoft 365 E3**-abonnemang med E5-tillägget för efterlevnad.
 
-Om du inte har något befintligt **Microsoft 365 E5**-prenumeration och vill prova Insider riskhantering kan du lägga till Microsoft 365 i din befintliga Office 365-prenumeration eller registrera dig för en utvärderingsversion av Microsoft 365 Enterprise, E5.
+Om du inte har något befintligt **Microsoft 365 E5**-abonnemang och vill prova Insider-riskhantering kan du lägga till Microsoft 365 i din befintliga prenumeration eller registrera dig för en utvärderingsversion av Microsoft 365 Enterprise, E5.
 
 De grundläggande stegen för att använda hantering av Insider-risker är:
 
 1. Aktivera behörigheter för hantering av Insider-risker.
 
-2. Aktivera granskningsloggen för Office 365.
+2. Aktivera granskningsloggen.
 
 3. Konfigurera förutsättningar för mallar (valfritt).
 
