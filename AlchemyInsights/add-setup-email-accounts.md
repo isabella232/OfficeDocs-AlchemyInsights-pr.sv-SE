@@ -11,23 +11,22 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 2495ad459e1eb318ad2f3e9753a4bae07fa8909a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3e6cda6d0a21ebca7647662809dd55d942304471
+ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671403"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914996"
 ---
-# <a name="setup-email-accounts"></a>Konfigurera e-postkonton
+# <a name="set-up-email-accounts"></a>Konfigurera e-postkonton
 
-1. Välj > **Filinformation** > **Lägg till konto i**Outlook . **File**
+1. Klicka på **Lägg** > **till konto****i** > Outlook .
 
-2. Ange din e-postadress och välj sedan **Anslut**.
+2. Ange din e-postadress och klicka sedan på **Anslut**.
 
-3. Ange ditt lösenord och välj sedan **OK**.
+3. Ange ditt lösenord och klicka på **OK**.
 
 4. Du kan upprepa dessa steg för att lägga till flera konton.
 
-    > [!NOTE]
-    > Vissa e-postkonton, som Gmail, Yahoo och iCloud, kräver att du konfigurerar tvåfaktorsautentisering för att kunna använda Outlook för att skicka och ta emot e-post. Mer information finns [i Lägga till ett e-postkonto i Outlook.](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx)
+**Vissa**e-postkonton, som Gmail, Yahoo och iCloud, kräver att du konfigurerar tvåfaktorsautentisering för att kunna använda Outlook för att skicka och ta emot e-post. Mer information finns [i Lägga till ett e-postkonto i Outlook.](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx)
   

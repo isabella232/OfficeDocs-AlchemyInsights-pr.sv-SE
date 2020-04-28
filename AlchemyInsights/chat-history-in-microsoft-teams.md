@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2668"
 - "9000738"
-ms.openlocfilehash: 75acc293036dc27a043fd1c45daa56eab3f8af5e
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: f1e8c3764415cb32b0dd0ea3223f6a9b3d12b89c
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376860"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911274"
 ---
 # <a name="viewing-chat-history-in-microsoft-teams"></a>Visa chatthistorik i Microsoft Teams
 
-Om du vill visa [teamets](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) chatthistorik kan du använda innehållssökning från [säkerhets & Efterlevnadscenter](https://sip.protection.office.com/insightdashboard), där du kan söka i postlådan som associeras med en Office 365-grupp eller ett Microsoft-team. 
+Om du vill visa Teams chatthistorik kan du använda [Innehållssökning](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) från [Security & Compliance Center](https://sip.protection.office.com/insightdashboard), där du kan söka i postlådan som är associerad med en Microsoft 365-grupp eller ett Microsoft-team. 
 
-Mer information om sökfunktionerna i säkerhets-och Efterlevnadscenter finns i [söka i Microsoft Teams och Office 365-grupper](https://docs.microsoft.com/office365/securitycompliance/content-search#searching-microsoft-teams-and-office-365-groups) . 
+Mer information om sökfunktionerna från Säkerhets- och efterlevnadscenter finns i Söka efter [Microsoft Teams och Microsoft 365-grupper.](https://docs.microsoft.com/office365/securitycompliance/content-search#searching-microsoft-teams-and-office-365-groups) 
 
-**Anmärkning:** Säkerhetskopiering, export, utskrift och arkivering av Konversationshistorik är för närvarande inte tillgängligt direkt från Microsoft Teams. Vänligen rösta om denna funktion i [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20). 
+**Anm.:** Säkerhetskopiera, exportera, skriva ut och arkivera konversationshistorik är för närvarande inte tillgängligt direkt från Microsoft Teams. Vänligen rösta om denna funktion i [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20). 

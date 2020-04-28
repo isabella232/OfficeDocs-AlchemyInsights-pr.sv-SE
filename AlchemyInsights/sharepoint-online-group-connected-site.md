@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642162"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912984"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problem när du skapar en gruppansluten webbplats i SharePoint
 
@@ -30,5 +30,5 @@ Om du har tagit bort en grupp och dess anslutna webbplats och vill skapa en anna
 
 1. Det finns olika sätt att skapa och använda moderna grupper med SharePoint.
 
-   - Du kan ansluta befintliga webbplatser till en Office 365-grupp. Mer information finns i [Ansluta en Office 365-grupp med SharePoint-användargränssnittet](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Om du vill skapa en ansluten Office 365-gruppwebbplats måste du skapa en [gruppwebbplats](https://admin.microsoft.com/sharepoint).
+   - Du kan ansluta befintliga webbplatser till en Microsoft 365-grupp. Mer information finns i [Ansluta en Microsoft 365-grupp med SharePoint-användargränssnittet](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Om du vill skapa en ansluten microsoft 365-gruppwebbplats måste du skapa en [gruppwebbplats](https://admin.microsoft.com/sharepoint).

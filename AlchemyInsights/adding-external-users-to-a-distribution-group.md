@@ -7,38 +7,38 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: e84a5b04d6fc805deaa47cb10c91081f37411e5b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 7dbc69bced9ca800d3f95081b77dda5e49662579
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737927"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43910950"
 ---
 # <a name="add-external-users-to-a-distribution-group"></a>Lägga till externa användare i en distributionsgrupp
 
-Att lägga till en extern kontakt i en distributionsgrupp (DG) är en tvåstegsprocess:
+Att lägga till en extern kontakt i en distributionsgrupp (GD) är en tvåstegsprocess:
   
 1. Skapa en e-postkontakt för den externa användaren:
     
-    1. Gå till sidan **användare** > [kontakter](https://admin.microsoft.com/adminportal/home#/Contact) i administratörscenter. 
+    1. Gå till sidan[Användares kontakter](https://admin.microsoft.com/adminportal/home#/Contact) i **administrationscentret.** >  
     
     2. Välj **Lägg till en kontakt**.
     
-    3. Ange informationen för din kontakt och välj **Lägg till**.
+    3. Skriv informationen för kontakten och välj **Lägg till**.
     
-2. Lägg till e-postkontakten i ditt generaldirektorat:
+2. Lägg till e-postkontakten i gd:
     
-    1. I administratörscenter går du till sidan **grupper** > [grupper](https://admin.microsoft.com/adminportal/home#/groups) . 
+    1. Gå till sidan **Gruppergrupper** > [i](https://admin.microsoft.com/adminportal/home#/groups) administrationscentret. 
     
-    2. Leta upp den DG du vill lägga till den externa användaren till och välj den för att öppna dialogrutan Redigera.
+    2. Leta reda på det DG som du vill lägga till den externa användaren i och markera det för att öppna redigeringsdialogrutan.
     
-    3. På fliken **medlemmar** väljer du **Visa alla och hantera medlemmar**. 
+    3. På fliken **Medlemmar** väljer du **Visa alla och hanterar medlemmar**. 
     
     4. Välj **Lägg till medlemmar**.
     
-    5. Välj den e-postkontakt du skapade i föregående steg och välj sedan **Spara**.
+    5. Markera den e-postkontakt som du skapade i föregående steg och välj sedan **Spara**.
     
-Om du efter att följa dessa steg dina externa användare inte kan skicka e-post till DG eller inte ta emot e-post från den, kan det vara så att DG är märkt att bara tillåta e-post från interna användare. Du kan kontrollera den här konfigurationen och åtgärda det genom att följa anvisningarna [här](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-133-in-exchange-online).
+Om dina externa användare efter att ha följt dessa steg inte kan skicka e-post till GD eller inte får e-postmeddelanden från det, kan det vara så att GD är markerat för att endast tillåta e-postmeddelanden från interna användare. Du kan kontrollera den här konfigurationen och åtgärda den efter anvisningarna [här](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-133-in-exchange-online).
   
- **Anmärkning:** De här anvisningarna gäller inte om gruppens typ är "Office 365-grupp" i stället för "distributionsgrupp". Om så är fallet kan du lägga till den externa användaren direkt till gruppen från Outlook. Detaljerad information om Office 365 grupper gäster samt instruktioner för att lägga till externa gäster finns i [denna artikel](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
+ **Anm.:** De här instruktionerna gäller inte om gruppens typ är "Microsoft 365-grupp" i stället för "Distributionsgrupp". Om så är fallet kan du lägga till den externa användaren direkt i gruppen från Outlook. Detaljerad information om Microsoft 365 Groups gäster samt instruktioner för att lägga till externa gäster finns i [den här artikeln](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
   

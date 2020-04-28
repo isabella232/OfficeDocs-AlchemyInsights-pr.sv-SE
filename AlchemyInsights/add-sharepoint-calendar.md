@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 20780a2c06813f5d52f4caecaa21505da4c0b9f0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3fd8cea060a754b557c64ecd314487e359b56452
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671367"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911022"
 ---
 # <a name="add-a-sharepoint-calendar"></a>Lägga till en SharePoint-kalender
 
-SharePoint-kalendrar är klassiska listtyper som ibland förväxlas med Office 365-gruppkalendrar.
+SharePoint-kalendrar är klassiska listtyper som ibland förväxlas med Microsoft 365-gruppkalendrar.
  
 Så här skapar du en SharePoint-kalender:
  
@@ -29,5 +29,5 @@ Så här skapar du en SharePoint-kalender:
 2.  Skriv **Kalender** i sökrutan **Sök** efter och tryck på Retur.
 3.  Välj appen **Kalender**och ange sedan ett namn för kalendern.
 
-Mer information om Office 365-grupper finns i [Lär dig mer om Office 365-grupper](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Mer information om Microsoft 365 Groups finns i [Lär dig mer om Microsoft 365 Groups](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 

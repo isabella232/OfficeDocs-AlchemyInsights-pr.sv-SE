@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 6ac4728c02471dd2640e0c516fee7cf5ebb12f54
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4fb17573bae0cb91dc458433eedfd7398802743
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676407"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911094"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>Lägga till en grupp på en SharePoint-webbplats
 
-Vissa SharePoint-gruppwebbplatser (inklusive de som har skapats i Microsoft Teams) hanteras av Office 365-gruppägare. SharePoint-webbplatser och -innehåll kan också delas med Office 365-grupper och med SharePoint-grupper. En SharePoint-grupp är en samling användare som alla har samma uppsättning behörigheter till webbplatser och innehåll. För klassiska webbplatser rekommenderar vi att du använder grupper för att enkelt tilldela samma behörighetsnivå till många personer samtidigt i stället för att tilldela behörigheter en person i taget.
+Vissa SharePoint-gruppwebbplatser (inklusive de som skapats i Microsoft Teams) hanteras av Microsoft 365-gruppägare. SharePoint-webbplatser och -innehåll kan också delas med Microsoft 365-grupper och med SharePoint-grupper. En SharePoint-grupp är en samling användare som alla har samma uppsättning behörigheter till webbplatser och innehåll. För klassiska webbplatser rekommenderar vi att du använder grupper för att enkelt tilldela samma behörighetsnivå till många personer samtidigt i stället för att tilldela behörigheter en person i taget.
   
-Hantera Office 365-gruppmedlemmar:
+Hantera Microsoft 365-gruppmedlemmar:
   
 1. Gå till [sidan Grupper i administrationscentret för Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
 2. Välj en grupp om du vill visa dess ägare och medlemmar. Om du vill lägga till eller ta bort personer klickar du på länken **Redigera** på raden **Ägare** eller **Medlemmar.** 
     
-Dela en kommunikationswebbplats med en Office 365-grupp:
+Dela en kommunikationswebbplats med en Microsoft 365-grupp:
   
 1. Gå till webbplatsen i en webbläsare och klicka på **Dela webbplats** längst upp till höger. 
     
@@ -42,7 +42,7 @@ Skapa en SharePoint-grupp som du vill använda med en klassisk webbplats:
     
 3. Klicka på **Skapa grupp**på fliken Behörigheter.
     
-[Ansluta en klassisk gruppwebbplats till en ny Office 365-grupp](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Ansluta en klassisk gruppwebbplats till en ny Microsoft 365-grupp](https://go.microsoft.com/fwlink/?linkid=2008654)
   
 [Läs mer om hur du arbetar med SharePoint-grupper](https://go.microsoft.com/fwlink/?linkid=874658)
   

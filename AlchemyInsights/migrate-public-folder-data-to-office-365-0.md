@@ -11,12 +11,12 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: b9659f657555411ffd87a63bc099708b49d46300
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ab54d84f921f9cd2aa895e8a9684c638bde69838
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762155"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912240"
 ---
 # <a name="migrate-public-folder-data-to-microsoft-365"></a>Migrera data för gemensamma mappar till Microsoft 365
 
@@ -28,5 +28,5 @@ För större organisationer som flyttar gemensamma mappar till Microsoft 365 har
 
 - [Migrera gemensamma mappar för Exchange 2013, Exchange 2016 eller Exchange 2019](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
 
-Du kan också välja att [migrera gemensamma mappar till Office 365-grupper](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
+Du kan också välja att [migrera gemensamma mappar till Microsoft 365 Groups](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
   

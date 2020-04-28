@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764746"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911849"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Så här utför du innehållssökningar och eDiscovery-sökningar
 
-Använd verktyget Innehållssökning i Security & Compliance Center för att snabbt hitta e-post i Exchange-postlådor, dokument på SharePoint-webbplatser och OneDrive-konto och snabbmeddelandekonversationer i Skype för företag. Du kan också använda content search tool för att söka efter e-post-, dokument- och snabbmeddelandekonversationer i Microsoft 365-samarbetsverktyg som Microsoft Teams och Office 365-grupper.
+Använd verktyget Innehållssökning i Security & Compliance Center för att snabbt hitta e-post i Exchange-postlådor, dokument på SharePoint-webbplatser och OneDrive-konto och snabbmeddelandekonversationer i Skype för företag. Du kan också använda content search tool för att söka efter e-post-, dokument- och snabbmeddelandekonversationer i Microsoft 365-samarbetsverktyg som Microsoft Teams och Microsoft 365 Groups.
 
 **Så här utför du en innehållssökning**
 

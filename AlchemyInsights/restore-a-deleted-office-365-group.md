@@ -1,5 +1,5 @@
 ---
-title: Återställa en borttagen Office 365-grupp
+title: Återställa en borttagen Microsoft 365-grupp
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: c7b8bc9effa77a5fee8c6ae61e85baf03dc48a4b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0443d51690399ea5c82ab9c2d6fc803a946161dd
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758772"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912729"
 ---
-# <a name="restore-a-deleted-office-365-group"></a>Återställa en borttagen Office 365-grupp
+# <a name="restore-a-deleted-microsoft-365-group"></a>Återställa en borttagen Microsoft 365-grupp
 
 Borttagna grupper behålls i 30 dagar. Så här återställer du en borttagen grupp:
   
@@ -28,5 +28,5 @@ Borttagna grupper behålls i 30 dagar. Så här återställer du en borttagen gr
 
 2. Markera gruppen och klicka sedan på **Återställ** i kommandofältet eller klicka på länken "Klicka här för att återställa" i informationsfönstret.
 
-Mer information eller hur du återställer grupper med PowerShell finns i [Återställa en borttagen Office 365-grupp](https://go.microsoft.com/fwlink/?linkid=867802).
+Mer information eller hur du återställer grupper med PowerShell finns i [Återställa en borttagen Microsoft 365-grupp](https://go.microsoft.com/fwlink/?linkid=867802).
   

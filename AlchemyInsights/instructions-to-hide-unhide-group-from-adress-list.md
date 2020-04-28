@@ -1,5 +1,5 @@
 ---
-title: Instruktioner för att dölja/Visa grupp från adresslista
+title: Instruktioner för att dölja/ta fram grupp från adresslistan
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: d0e0285701f1a5f308bdc682abaddf5cc2d34120
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.openlocfilehash: 61ba34e6d554831da712a92401f26fabb02c26b7
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37768956"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908362"
 ---
-# <a name="hide-office-365-group-from-address-list-gal"></a>Dölj Office 365 grupp från adresslista (GAL)
+# <a name="hide-microsoft-365-group-from-address-list-gal"></a>Dölj Microsoft 365-grupp från adresslista (GAL)
 
-Om du vill dölja en Office 365-grupp från adresslistor (GAL) för Exchange-klienter (till exempel Outlook eller OWA) använder du följande kommando i EXO Shell:
+Om du vill dölja en Microsoft 365-grupp från adresslistor (GAL) för Exchange-klienter (till exempel Outlook eller OWA) använder du följande kommando i EXO-skalet:
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 
-Om du vill dölja Office 365-gruppen från att vara synlig för Exchange-klienter använder du följande kommando i EXO Shell:
+Om du vill dölja att Microsoft 365-gruppen inte är synlig för Exchange-klienter använder du följande kommando i EXO-skalet:
 
 `Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:$true
 Check this article for detailed instructions`

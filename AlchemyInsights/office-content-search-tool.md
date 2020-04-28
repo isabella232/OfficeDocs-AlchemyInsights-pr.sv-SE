@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 6ee827bd51f4fb3b4c6abc6c1b7154783dcd3e8c
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 59b70e78779661523ac16bdb8221dfc41abcde21
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788030"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912276"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Verktyg för innehållssökning för att hitta relevant information
 
-Använd verktyget Sök i & Security för att snabbt hitta e-post i Exchange-postlådor, dokument på SharePoint-webbplatser och OneDrive-platser och snabbmeddelandekonversationer i Skype för företag. Du kan använda sökverktyget för innehåll för att söka efter e-post-, dokument- och snabbmeddelandekonversationer i samarbetsverktyg för Microsoft 365, till exempel Microsoft Teams och Office 365-grupper.
+Använd verktyget Sök i & Security för att snabbt hitta e-post i Exchange-postlådor, dokument på SharePoint-webbplatser och OneDrive-platser och snabbmeddelandekonversationer i Skype för företag. Du kan använda sökverktyget för innehåll för att söka efter e-post-, dokument- och snabbmeddelandekonversationer i Microsoft 365-samarbetsverktyg som Microsoft Teams och Microsoft 365 Groups.
 
 
 Innan du använder [Content Search](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) från Security & [Compliance Center](https://sip.protection.office.com/homepage)bör du slutföra [konfigurationsinställningarna, inklusive konfigurera behörigheter,](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search)ange [nedladdningshastigheter](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) och [exportinställningar](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).

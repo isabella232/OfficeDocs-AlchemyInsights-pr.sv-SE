@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 285535d6144825f0935bf72579a483260c2f2bd6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767267"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43913020"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Åtgärda problem med att dela SharePoint-innehåll med externa användare
 
@@ -32,7 +32,7 @@ Kontrollera att extern delning är aktiverat för webbplatsen. För en klassisk 
     
 2. Markera webbplatsen eller webbplatserna och klicka på **Dela**i menyfliksområdet .
     
-För en gruppwebbplats som tillhör en Office 365-grupp eller en kommunikationswebbplats:
+För en gruppwebbplats som tillhör en Microsoft 365-grupp eller en kommunikationswebbplats:
   
 - Dessa nya webbplatstyper har samma delningsinställning som din organisationsomfattande inställning, såvida inte inställningen för hela organisationen tillåter delning av filer med hjälp av länkar som inte kräver inloggning. I det här fallet tillåter webbplatserna delning med nya och befintliga externa användare som loggar in. Om du vill ändra inställningen för specifika webbplatser använder du det nya Administrationscentret för SharePoint eller PowerShell. [Mer information](https://go.microsoft.com/fwlink/?linkid=871863).
     

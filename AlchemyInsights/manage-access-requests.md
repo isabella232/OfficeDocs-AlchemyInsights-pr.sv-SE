@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721850"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912421"
 ---
 # <a name="manage-access-requests"></a>Hantera åtkomstbegäranden
 
@@ -26,7 +26,7 @@ När en användare försöker komma åt ett objekt i SharePoint och de inte har 
     
 2. Klicka på **Åtkomstbegäranden och inbjudningar under** **Användare och behörigheter**. (Om detta inte visas har inga åtkomstbegäranden gjorts.)
     
-3. Om du vill ge användaren behörighet individuellt klickar du på **Godkänn** eller **Avböj**. Om du vill välja en viss behörighetsnivå klickar du först på ellipsen (...) bredvid personens namn. Du kan också lägga till användaren i en grupp som har behörighet på webbplatsen. För kommunikationswebbplatser och klassiska gruppwebbplatser kan du göra detta på sidan Webbplatsinställningar. För webbplatser som tillhör en Office 365-grupp kan du lägga till användaren i gruppen.
+3. Om du vill ge användaren behörighet individuellt klickar du på **Godkänn** eller **Avböj**. Om du vill välja en viss behörighetsnivå klickar du först på ellipsen (...) bredvid personens namn. Du kan också lägga till användaren i en grupp som har behörighet på webbplatsen. För kommunikationswebbplatser och klassiska gruppwebbplatser kan du göra detta på sidan Webbplatsinställningar. För webbplatser som tillhör en Microsoft 365-grupp kan du lägga till användaren i gruppen.
     
     [Hantera åtkomstbegäranden](https://go.microsoft.com/fwlink/?linkid=2008747)
     

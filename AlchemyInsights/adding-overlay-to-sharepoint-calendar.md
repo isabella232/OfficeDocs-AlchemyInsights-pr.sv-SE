@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: e40d4b866d4a2d70e83b5addf8de2690c04eaffc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709425"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908866"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Lägga till ett överlägg i en SharePoint-kalender
 
-SharePoint-kalendrar är klassiska listtyper som ibland förväxlas med Office 365-gruppkalendrar.
+SharePoint-kalendrar är klassiska listtyper som ibland förväxlas med Microsoft 365-gruppkalendrar.
  
 Om du använder en SharePoint-kalender på webbplatsen kan du lägga över din egen Exchange-kalender på den för att skapa en kombinerad kalendervy. Du kan också lägga över en annan SharePoint-kalender så länge båda SharePoint-kalendrarna finns i samma webbplatssamling.
  

@@ -12,12 +12,12 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 858228acdd884257fc68ceb99799a08e9cc0a0f8
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703661"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908434"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Aktivera och söka i granskningsloggen
 
@@ -31,7 +31,7 @@ SÃ¥ svarvning av granskningsloggen i Microsoft 365 [sÃ¥ sÃ¥ sÃ¥tonning.]
 
 - Granskning av postlådor är aktiverat som standard i Microsoft 365. Mer information finns i [den här artikeln](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
-- Office 365 Grupppostlådor och postlådor för gemensamma mappar i Exchange Online stöder inte granskningsloggning.
+- Microsoft 365 Grupppostlådor och postlådor för gemensamma mappar i Exchange Online stöder inte granskningsloggning.
 
 **SharePoint och OneDrive**
 
