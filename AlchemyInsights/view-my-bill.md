@@ -1,5 +1,5 @@
 ---
-title: Visa min räkning
+title: Visa min faktura
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,17 +12,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 10a38a78db566642e723c9068631df4dafd06cc1
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ecd676c586d177146f8a833146c384fcf549eb38
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665706"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947747"
 ---
-# <a name="view-my-bill"></a>Visa min räkning
+# <a name="view-my-bill"></a>Visa min faktura
 
-1. Gå till **Fakturering** i Microsoft 365 administratörscenter, \> [växlar & betalningar](https://go.microsoft.com/fwlink/p/?linkid=848039) sida.
+1. Gå till sidan [Faktureringsfakturor & betalningar i administrationscentret](https://go.microsoft.com/fwlink/p/?linkid=848039) **för** \> Microsoft 365.
 
-2. Välj ett datumintervall nedrullningsbara listan och klicka på den ordning som du vill visa.
+2. Välj ett datumintervall i listrutan och välj sedan den beställning du vill visa.
 
-Mer information finns i [Visa din faktura eller en faktura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+3. Om du vill skriva ut fakturan laddar du ned fakturan som en PDF-fil och klickar på **Skriv ut**.
+
+Mer information finns i [Visa din faktura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
