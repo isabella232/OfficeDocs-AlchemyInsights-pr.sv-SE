@@ -13,13 +13,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 9e7505978ef80f3aba44e69dc7b5f7ab9c1780d5
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799141"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957924"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Flera försök att ta ut online betalningsinstrument
+# <a name="past-due-account"></a>Förfallna konto?
 
-Om avgiften misslyckas fortsätter systemet att försöka lösa saldot under de närmaste veckorna. Du kan när som helst göra uppdateringar av din betalningsinformation för att försäkra dig om att nästa debiteringsförsök lyckas. Mer information finns i [Lägga till, uppdatera eller ta bort ett kreditkort eller bankkonto i Microsoft 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+En betalning kan avvisas av flera skäl, bland annat om kreditkortet har gått ut. Du kan när som helst använda funktionen **Kvitta saldo** för att ändra dina kreditkortsuppgifter och omedelbart skicka in betalningen igen.
+
+1. Gå till **Fakturering > produkter & [tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrationscentret .
+Hitta prenumerationen med det utestående saldot. Klicka på **Kvitta saldo bredvid** **prenumerationen**i avsnittet **Fakturering** för att betala hela utestående saldot.
+2. Om du äger kreditkortet kan du ändra utgångsdatumet, välja ett annat kort eller [lägga till ett nytt kort](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
+3. Om du inte äger kreditkortet kan du välja ett annat kreditkort eller [lägga till ett nytt kort.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide)
+4. När du har slutfört uppdateringarna klickar du på **Spara**.
+
+**Obs:** Efter att en betalning har gjorts kan det förfallna meddelandet fortfarande vara synligt under en kort tidsperiod. Vänta minst **48 timmar** innan du kontaktar supporten.
