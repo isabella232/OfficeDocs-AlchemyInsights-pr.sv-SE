@@ -10,12 +10,12 @@ ms.assetid: ''
 ms.custom:
 - "1500010"
 - "3819"
-ms.openlocfilehash: 8b82dd8900a5e9824206cd05241743d2337108a1
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
+ms.openlocfilehash: f89ba68219ea3735bdbb455ed97e2abf394f201b
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42946844"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947597"
 ---
 # <a name="how-to-get-nonprofit-offers"></a>Så här får du erbjudanden om ideella föreningar
 
@@ -23,9 +23,9 @@ För att få erbjudanden om ideella föreningar måste du göra följande:
 
 1. Registrera dig för [Microsofts program för ideella föreningar](https://go.microsoft.com/fwlink/p/?linkid=2008962).
 
-2. Om kvalificeringen bekräftas att Office 365 för ideella föreningar kommer erbjudanden att bli tillgängliga i administrationsportalen för Office 365, inklusive erbjudanden för de donerade E1- och Business Essentials.
+2. Om berättigande bekräftas blir Microsoft 365-erbjudanden för ideella föreningar tillgängliga i administratörsportalen för Microsoft 365 via sidan **Fakturering > [Köp tjänster](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Här ingår de donerade E1- och Business Essentials-erbjudandena.
 
-3. När du har köpt går du till fliken [Användare](https://admin.microsoft.com/Adminportal/Home#/users) i administrationsportalen för att tilldela användarna till dina nya Office 365-prenumerationer för ideella föreningar.
+3. Efter inköpet går du till fliken [Användare](https://admin.microsoft.com/Adminportal/Home#/users) i administratörsportalen för att tilldela användarna till dina nya Microsoft 365-prenumerationer för ideella föreningar.
 
 Om du vill ha fler svar på vanliga frågor läser du våra [Frågor och svar](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit#coreui-heading-67lnrlz). Se även:
 

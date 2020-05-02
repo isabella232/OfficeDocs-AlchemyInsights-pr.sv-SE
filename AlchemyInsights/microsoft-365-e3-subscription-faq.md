@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002554"
 - "5392"
-ms.openlocfilehash: 0a34f3a449313325adac1907af952dbe0c68f1f4
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 56968133f06444badfdf2d0d7823e374a08302d5
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912062"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943997"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Vanliga frågor och svar om Microsoft 365 E3-prenumeration och licenshantering
 
@@ -28,6 +28,6 @@ ms.locfileid: "43912062"
 - Om du vill **avbryta** E3-licenser går du till **Fakturering > [Produkter och tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054)**, väljer **Inställningar och åtgärder** och klickar på **Avbryt prenumeration**. Mer information finns i [Avbryta prenumerationen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
 - Om du vill **aktivera** E3-prenumeration läser du [Aktivera din prenumeration](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Om du vill **återaktivera** E3-prenumeration läser du [Återaktivera prenumerationen](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Om du vill förlänga provperioden för E3 läser du [Förlänga utvärderingen](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Om du vill **förlänga** utvärderingsperioden för E3 läser du [Utöka utvärderingsversionen](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
 
 Mer information finns i [Hantera prenumerationslicenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
