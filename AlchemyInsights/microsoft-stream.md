@@ -11,21 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "3569"
-ms.openlocfilehash: 3f6113bf512ec20fbbe2229d0efdb429b2f5db92
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: b6ea61b36b9577c38bf8fe3a09e2b32569aa6f45
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600042"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005168"
 ---
-# <a name="microsoft-stream"></a><span data-ttu-id="28fea-102">Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="28fea-102">Microsoft Stream</span></span>
+# <a name="microsoft-stream"></a><span data-ttu-id="c0175-102">Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="c0175-102">Microsoft Stream</span></span>
 
-<span data-ttu-id="28fea-103">Microsoft Stream är en Enterprise Video-tjänst där personer i organisationen kan ladda upp, visa och dela videoklipp på ett säkert sätt.</span><span class="sxs-lookup"><span data-stu-id="28fea-103">Microsoft Stream is an Enterprise Video service where people in your organization can upload, view, and share videos securely.</span></span> 
+<span data-ttu-id="c0175-103">Microsoft Stream är en videotjänst för företag där personer i organisationen kan ladda upp, visa och dela videor på ett säkert sätt.</span><span class="sxs-lookup"><span data-stu-id="c0175-103">Microsoft Stream is an Enterprise Video service where people in your organization can upload, view, and share videos securely.</span></span> 
 
-<span data-ttu-id="28fea-104">Mer information finns i:</span><span class="sxs-lookup"><span data-stu-id="28fea-104">For more information, see:</span></span>
+<span data-ttu-id="c0175-104">Mer information finns i:</span><span class="sxs-lookup"><span data-stu-id="c0175-104">For more information, see:</span></span>
 
-- [<span data-ttu-id="28fea-105">Vad är Microsoft Stream?</span><span class="sxs-lookup"><span data-stu-id="28fea-105">What is Microsoft Stream?</span></span>](https://docs.microsoft.com/stream/overview)
-- [<span data-ttu-id="28fea-106">Uppdatera tjänstuppdateringar</span><span class="sxs-lookup"><span data-stu-id="28fea-106">Stream Service Updates</span></span>](https://techcommunity.microsoft.com/t5/microsoft-stream-service-updates/bd-p/StreamAnnouncements)
-- [<span data-ttu-id="28fea-107">Grupper och kanaler i Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="28fea-107">Groups and channels in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/groups-channels-organization)
-- [<span data-ttu-id="28fea-108">Liveevenemang i Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="28fea-108">Live events in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/live-event-overview)
-- [<span data-ttu-id="28fea-109">Dela dina videoklipp i Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="28fea-109">Share your videos in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-share-video)
+- [<span data-ttu-id="c0175-105">Vad är Microsoft Stream?</span><span class="sxs-lookup"><span data-stu-id="c0175-105">What is Microsoft Stream?</span></span>](https://docs.microsoft.com/stream/overview)
+- [<span data-ttu-id="c0175-106">Övergång till Office 365 Video till Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="c0175-106">Office 365 Video transition to Microsoft Stream</span></span>](https://docs.microsoft.com/stream/migrate-from-office-365)
+- [<span data-ttu-id="c0175-107">Strömma tjänstuppdateringar</span><span class="sxs-lookup"><span data-stu-id="c0175-107">Stream Service Updates</span></span>](https://techcommunity.microsoft.com/t5/microsoft-stream-service-updates/bd-p/StreamAnnouncements)
+- [<span data-ttu-id="c0175-108">Grupper och kanaler i Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="c0175-108">Groups and channels in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/groups-channels-organization)
+- [<span data-ttu-id="c0175-109">Live-evenemang i Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="c0175-109">Live events in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/live-event-overview)
+- [<span data-ttu-id="c0175-110">Dela dina videoklipp i Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="c0175-110">Share your videos in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-share-video)
