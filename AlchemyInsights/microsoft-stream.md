@@ -11,21 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "3569"
-ms.openlocfilehash: 3f6113bf512ec20fbbe2229d0efdb429b2f5db92
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: b6ea61b36b9577c38bf8fe3a09e2b32569aa6f45
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600042"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005168"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream är en Enterprise Video-tjänst där personer i organisationen kan ladda upp, visa och dela videoklipp på ett säkert sätt. 
+Microsoft Stream är en videotjänst för företag där personer i organisationen kan ladda upp, visa och dela videor på ett säkert sätt. 
 
 Mer information finns i:
 
 - [Vad är Microsoft Stream?](https://docs.microsoft.com/stream/overview)
-- [Uppdatera tjänstuppdateringar](https://techcommunity.microsoft.com/t5/microsoft-stream-service-updates/bd-p/StreamAnnouncements)
+- [Övergång till Office 365 Video till Microsoft Stream](https://docs.microsoft.com/stream/migrate-from-office-365)
+- [Strömma tjänstuppdateringar](https://techcommunity.microsoft.com/t5/microsoft-stream-service-updates/bd-p/StreamAnnouncements)
 - [Grupper och kanaler i Microsoft Stream](https://docs.microsoft.com/stream/groups-channels-organization)
-- [Liveevenemang i Microsoft Stream](https://docs.microsoft.com/stream/live-event-overview)
+- [Live-evenemang i Microsoft Stream](https://docs.microsoft.com/stream/live-event-overview)
 - [Dela dina videoklipp i Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)

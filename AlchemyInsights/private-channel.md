@@ -11,19 +11,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: 6dd168f390c0a7a55c1b451bdcedfe71f7fb2452
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: be518df0d40123c1f0da6596bd6e2e91a0c2c8fa
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628332"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005456"
 ---
 # <a name="private-channels-in-microsoft-teams"></a>Privata kanaler i Microsoft Teams
 
-Privata kanaler är en ny funktion i Microsoft Teams. 
+Privata kanaler är en ny funktion i Microsoft Teams. Observera att privata kanaler inte kan konverteras från standardkanaler eller vice versa.
 
-Observera att privata kanaler inte kan konverteras från standardkanaler eller tvärtom.
+Mer information om privata kanaler, till exempel information om [skapande och medlemskap](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) för privata kanaler och [sharepoint-webbplatser för privata kanaler,](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)finns [i Privata kanaler i Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). 
 
-För mer information om privata kanaler, till exempel information om hur du [skapar privata kanaler och medlems](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) -och [privata SharePoint-kanalwebbplatser](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites), se [privat kanal i Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). 
+**Anm.:** Eftersom konfiguration för bevarande av privata kanalmeddelanden ännu inte stöds, har klienter med bevarandeprinciper aktiverade inte privata kanaler aktiverade som standard. Privata kanaler kan aktiveras i administrationscentret för Teams. Observera också att även om lagring av privata kanalmeddelanden inte stöds, stöds lagring av filer som delas i privata kanaler.
 
-**Anmärkning:** Eftersom konfigurationen för lagring av privata kanalmeddelanden inte stöds ännu, har klienter med bevarandeprinciper aktiverad inte privata kanaler som är aktiverade som standard. Privata kanaler kan aktiveras i Teams administratörscenter. Observera också att även om lagring av privata kanalmeddelanden inte stöds stöds kvarhållning av filer som delas i privata kanaler.
+**Behöver du en ny teamägare?**
+
+Om din privata kanalägare lämnar kan du lägga till en ny gruppägare via Teams Powershell.
+
+
+- Gå [hit](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) för att installera Teams Powershell.
+
+Här är cmdlet du behöver:
+
+`
+    Add-TeamChannelUser -GroupId <group_id> -DisplayName "<channel_name>" -User <UPN> -Role Owner
+`
+
+Mer information om Teams Powershell finns i [Teams PowerShell Översikt](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).

@@ -12,14 +12,14 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: ecd676c586d177146f8a833146c384fcf549eb38
-ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
+ms.openlocfilehash: 3c74953118f248c79186e54bd6728e2c6e083226
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43947747"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005492"
 ---
-# <a name="view-my-bill"></a>Visa min faktura
+# <a name="view-my-bill-or-invoice"></a>Visa min faktura
 
 1. Gå till sidan [Faktureringsfakturor & betalningar i administrationscentret](https://go.microsoft.com/fwlink/p/?linkid=848039) **för** \> Microsoft 365.
 

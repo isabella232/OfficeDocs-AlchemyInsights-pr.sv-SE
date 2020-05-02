@@ -1,5 +1,5 @@
 ---
-title: Så här köper du Office 365 för ideella organisationer
+title: Microsoft 365 för ideella organisationer – granskas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763559"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005240"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>Så här köper du Office 365 för ideella organisationer
+# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 för ideella organisationer – granskas
 
-Din behörighet som microsoft-organisation för kvalificerad ideell organisation granskas. Du kan förvänta dig att få ett meddelande om fastställandet av din behörighet innan din rättegång löper ut. Du kan spåra status för din ansökan [här](https://eligibilityweb.azurewebsites.net/).
+Din behörighet som microsoft-organisation för kvalificerad ideell organisation **granskas.** Du kan förvänta dig att få ett meddelande om fastställandet av din behörighet **48 timmar** från din tid för inlämning. Det kan ta minst **48 timmar** att ta emot detta meddelande innan du öppnar en servicebegäran. 
+
+Mer information finns i [Microsoft 365 för ideella organisationer](https://www.microsoft.com/nonprofits/microsoft-365). 
