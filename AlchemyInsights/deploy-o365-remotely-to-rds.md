@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: ddd44d40e9430ee31b8b734450dde0defef229d7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704723"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010272"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Distribuera Microsoft 365-appar för företag för delad användning på RDS, Terminal Server eller VDI
 
@@ -25,15 +25,15 @@ Så här distribuerar du Microsoft 365-appar för företag med fjärrskrivbordst
 - Du måste ha ett Microsoft 365 For Business-abonnemang eller ett Office 365-abonnemang som innehåller Microsoft 365 Apps för företag, till exempel Office 365 Enterprise E3 eller Enterprise E5.
    > [!NOTE] 
    > Microsoft 365 Apps for business och Microsoft 365 Business Premium Standard-abonnemangen innehåller inte Microsoft 365 Apps för företag.
-- Du måste aktivera [aktivering av delad dator](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Du måste aktivera [aktivering av delad dator](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
 
 > [!NOTE]
 > Du kan också hämta och köra [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) för att installera Microsoft 365 Apps för företag i aktiveringsläge för delade datorer.
 
-Mer information om förutsättningar, installationsinstruktioner och vägledning om anpassade installationer med hjälp av Distributionsverktyget för Office finns i [Distribuera Microsoft 365-appar för företag med hjälp av Fjärrskrivbordstjänster](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Mer information om förutsättningar, installationsinstruktioner och vägledning om anpassade installationer med hjälp av Distributionsverktyget för Office finns i [Distribuera Microsoft 365-appar för företag med hjälp av Fjärrskrivbordstjänster](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
 
 Så här åtgärdar du fel relaterade till aktivering av delade datorer:
-- Se [Felsöka problem med aktivering av delade datorer för Microsoft 365 Apps för företag](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+- Se [Felsöka problem med aktivering av delade datorer för Microsoft 365 Apps för företag](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
 - Se [Återställa Microsoft 365-appar för företagsaktiveringsstatus](https://go.microsoft.com/fwlink/?linkid=2109218).
 
 Om du vill installera Microsoft 365 Apps för företag på RDS från Microsoft 365 admin center, ***som använder standardinstallationsinställningar,*** gör du så här:
@@ -47,5 +47,5 @@ Om du vill installera Microsoft 365 Apps för företag på RDS från Microsoft 3
    1. Högerklicka på Windows-knappen längst ned till vänster på skärmen och välj **Kör**. Skriv **regedit**i rutan Öppna och välj sedan **OK**.
    2. Välj **Ja** när du uppmanas att tillåta Registereditorn att göra ändringar på enheten.
    3. Lägg till ett strängvärde för **SharedComputerLicensing** i Registereditorn med inställningen 1 under HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
-   4. Logga in som ***slutanvändare på*** RDS-servern och [kontrollera att aktivering av delad dator är aktiverad för Microsoft 365 Apps för företag](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+   4. Logga in som ***slutanvändare på*** RDS-servern och [kontrollera att aktivering av delad dator är aktiverad för Microsoft 365 Apps för företag](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
 
