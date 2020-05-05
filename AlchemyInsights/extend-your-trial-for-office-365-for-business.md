@@ -12,16 +12,16 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: e39bfd064d5a1a712e87cb026851b6a4cc4ff8a5
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 90feb8198061c6cc5ab5774360c4e421492420b9
+ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005348"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44016886"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Utöka utvärderingsversionen för Microsoft 365 för företag
 
-Du kan förlänga din provperiod med 30 dagar. Efter att din rättegång går in i ytterligare 30-dagars [respitperiod](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial). Följ dessa steg för att förlänga utvärderingsversionen:
+Du kan förlänga din kostnadsfria provperiod med ytterligare en 30-dagarsperiod. Efter att din rättegång går in i en 30-dagars [respitperiod](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial). Följ dessa steg för att förlänga utvärderingsversionen:
   
 1. Gå till **Faktureringsprodukter** \> [& tjänster](https://portal.office.com/adminportal/home#/subscriptions)i administrationscentret .
 
