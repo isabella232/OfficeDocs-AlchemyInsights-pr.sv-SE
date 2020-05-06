@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: aceea65f054299797e989330b64af17a24fd5389
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 08743a57ff963a23f7fe1910012f63f3955fb6d2
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218349"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010200"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Åtgärda – "du har för närvarande inte tilldelas en Office-licens"
 
-Om du vill installera Office-program kan du se till att du har en Office 365-prenumeration eller Microsoft 365-prenumeration som [omfattar klientprogram från Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), t. ex. Office 365 Business Premium, Office 365 Business eller Office 365 ProPlus.
+Om du vill installera Office-klientappar ser du till att du har en Office 365- eller Microsoft 365-prenumeration som [omfattar Office-klientappar](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), t.ex. Microsoft 365 Business Premium, Microsoft 365-applikationer för affärsverksamhet eller Microsoft 365-applikationer för företag.
 
-**Obs**: [Office Home and Business](https://products.office.com/home-and-business) är en [Office för hemmet](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)-produkt och inte en del av en företagsprenumeration. Project Online Essentials innehåller inte skrivbordsversionen av Project, och därför krävs ingen installation. Visio Abonnemang 1-användare har åtkomst till Visio på webben, eftersom abonnemanget inte inkluderar skrivbordsprogrammet Visio. Projekt- och Visio-skrivbordsprogram är inte tillgängliga på Mac
+**Obs!** [Office Home and Business](https://products.office.com/home-and-business) är en [Office för hemmet](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)-produkt och inte en del av en företagsprenumeration. Project Online Essentials innehåller inte skrivbordsversionen av Project, och därför krävs ingen installation. Visio Abonnemang 1-användare har åtkomst till Visio på webben, eftersom abonnemanget inte inkluderar skrivbordsprogrammet Visio. Projekt- och Visio-skrivbordsprogram är inte tillgängliga på Mac
 
 Om du har en prenumeration som inkluderar Office-program, visas inte något alternativ för att installera det såvida du inte har en [tilldelad licens](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Om du är den Office 365-administratör som ansvarar för att tilldela licenser läser du avsnittet om att [Tilldela licenser till användare](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 

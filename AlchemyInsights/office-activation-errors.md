@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e69a9e32a713b859f8110ec66d4b3b53be1bb450
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713340"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010812"
 ---
 # <a name="office-activation-errors"></a>Aktiveringsfel i Office
 
-1. På **Kontrollpanelen > Program och funktioner** söker du efter **Office**. **Microsoft Office 365 ProPlus** eller **Microsoft Office 365 Business** bör visas. Om mer än en version av Office visas kan du avinstallera den version du inte använder. Om du inte kan avinstallera genom att använda kontrollpanelen kan du använda assistenten för support och återställning (SaRA) för att [avinstallera](https://aka.ms/SARA-OfficeUninstall-Alchemy) den version som du inte använder. Starta sedan om Office och logga in med ditt arbets- eller skolkonto om du uppmanas att göra det. 
+1. På **Kontrollpanelen > Program och funktioner** söker du efter **Office**. Du bör nu se **Microsoft 365 for Enterprise** eller **Microsoft 365 for Business**. Om mer än en version av Office visas kan du avinstallera den version du inte använder. Om du inte kan avinstallera genom att använda kontrollpanelen kan du använda assistenten för support och återställning (SaRA) för att [avinstallera](https://aka.ms/SARA-OfficeUninstall-Alchemy) den version som du inte använder. Starta sedan om Office och logga in med ditt arbets- eller skolkonto om du uppmanas att göra det. 
 
 2. Om Office fortfarande saknar licens går du tillbaka till **Kontrollpanelen > Program och funktioner**, högerklickar på den återstående Office-installationen, klickar på **Ändra****** och sedan på **Onlinereparation**. Onlinereparationen kan ta en stund. Starta sedan om Office och logga in med ditt arbets- eller skolkonto om du uppmanas att göra det. 
 
