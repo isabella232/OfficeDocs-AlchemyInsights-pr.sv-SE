@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 73c8a56623bb55926d7df995bad43ff734bfceef
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708777"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062050"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Aktivera en Microsoft-volymlicensprenumeration
 
@@ -32,4 +32,4 @@ ms.locfileid: "43708777"
 
 5. Logga in på Microsoft 365[https://admin.microsoft.com](https://admin.microsoft.com)administrationscenter ( ) med dina befintliga administratörsuppgifter. När du har loggat in får du ett annat e-postmeddelande som bekräftar ditt köp.
 
-6. När du har loggat in kan du gå till sidan **Faktureringsprodukter** \> [& tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054) för att kontrollera att dina köpta prenumerationer är aktiverade i din klientorganisation. (Du kan också välja fliken **Prenumeration** i VLSC för att visa information som verifierar att din prenumeration har satts in.)
+6. När du har loggat in kan du gå till sidan **Fakturering** \> [dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) för att kontrollera att dina köpta prenumerationer är aktiverade inom din klientorganisation. (Du kan också välja fliken **Prenumeration** i VLSC för att visa information som verifierar att din prenumeration har satts in.)
