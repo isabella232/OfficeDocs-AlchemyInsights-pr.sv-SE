@@ -6,19 +6,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 33cd96e37701339047d5e3bb1e49f60d37facc53
+ms.sourcegitcommit: ba88139a3d02e45d54a232fa24b706e3cc1c6f81
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762335"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44043055"
 ---
 # <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Microsoft Search i Bing och Microsoft 365-applikationer för företag
 
-Från och med version 2002 av Microsoft 365-applikationer för företag installeras ett tillägg för Microsoft Search i Bing som gör Bing till standardsökmotor för webbläsaren Google Chrome bara på enheter på vissa platser.
+Ett ***valfritt*** Microsoft Search i Bing-tillägget för Google Chrome finns med i Microsoft 365-applikationer för företag (tidigare kallat Office 365 ProPlus), från och med version 2005. Tillägget är tillgängligt på vissa platser för domänanslutna enheter som kör Windows. Om du bestämmer dig för att distribuera det här tillägget anger det Bing som standardsökmotor.
 
-**Om du inte vill att tillägget ska installeras [följer du de här anvisningarna](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed).**
+Om du vill installera tillägget måste du ***välja*** genom att konfigurera en inställning i avsnittet Microsoft Search i Administrationscenter för Microsoft 365.
 
-Även efter att tillägget har installerats kan dina användare enkelt sluta använda Bing som standardsökmotor på egen hand genom att använda en [på/av](https://docs.microsoft.com/deployoffice/microsoft-search-bing#change-whether-bing-is-the-default-search-engine-for-google-chrome)-växlingsknapp, eller så kan du [ta bort tillägget](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-remove-the-extension-after-its-been-installed) från flera olika enheter i organisationen.
+Distribution av det här ***valfria*** tillägget kräver även en bakgrundstjänst som ingår i Microsoft 365-applikationer för företag, från och med version 2005. Om inte bakgrundstjänsten inte är installerad installeras inte tillägget.
 
-Det finns en detaljerad hjälpartikel [här](https://docs.microsoft.com/deployoffice/microsoft-search-bing) där du får mer information om den här ändringen.
+Även efter att tillägget har installerats kan dina användare enkelt sluta använda Bing som standardsökmotor genom att använda en enkel på/av-knapp.
+
+Mer information om hur du distribuerar detta ***valfria*** tillägg finns i [Microsoft Search i Bing och Microsoft 365-applikationer för företag](https://docs.microsoft.com/deployoffice/microsoft-search-bing).

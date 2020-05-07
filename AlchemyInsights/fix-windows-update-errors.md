@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: 76e53f24eae5f1cda53f01a16810a668f5ae33fa
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: c5f50b22b4d665c6af0d0bbcb901d79657f2b306
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564576"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063707"
 ---
 # <a name="fix-windows-update-errors"></a>Åtgärda Windows Update-fel
 
-Om du får en felkod när du hämtar och installerar Windows Update kan **felsökaren uppdatera** problemet.
+Om du får en felkod när du hämtar och installerar Windows Update kan **felsökaren för uppdatering** hjälpa dig att lösa problemet.
 
-- [Hämta felsökaren för uppdatering för Windows 10](https://support.microsoft.com/en-us/help/4027322/windows-update-troubleshooter)
-- Kör felsökaren. När det är klart är det bästa sättet att starta om enheten. Sök sedan efter nya uppdateringar genom att gå till [Start> Inställningar > Uppdatera & Security > Windows Update](ms-settings:windowsupdate).
+- [Felsökare för Windows 10 hämta uppdatera](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- Kör felsökaren. När det är klart är det bäst att starta om enheten. Leta sedan efter nya uppdateringar genom att gå till [Starta > inställningar > Uppdatera & Security > Windows Update](ms-settings:windowsupdate).
 
-Om de fortfarande inte fungerar kan du läsa [Windows Update: Vanliga frågor och svar](https://support.microsoft.com/help/12373/windows-update-faq) om du vill ha mer information.
+Om de fortfarande inte fungerar kan du läsa windows [update: vanliga frågor och svar](https://support.microsoft.com/help/12373/windows-update-faq) om mer information.

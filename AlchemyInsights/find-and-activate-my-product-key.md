@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716154"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062482"
 ---
 # <a name="find-and-activate-my-product-key"></a>Hitta och aktivera min produktnyckel
 
@@ -32,7 +32,7 @@ Om du har köpt Microsoft 365 Business Premium Standard från en butik använder
 
 **Om**du vill använda en produktnyckel för att förlänga utgångsdatumet eller lägga till en licens i din befintliga Microsoft 365 Business Premium Standard-prenumeration behöver du en ny och oanvänd nyckel för samma Microsoft 365-prenumeration.  När du anger din ursprungliga Microsoft 365-produktnyckel fungerar inte eftersom en nyckel som redan har lösts in inte kan användas igen.
 
-1. Gå till sidan **Faktureringsprodukter** > [& tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrationscentret.
+1. Gå till sidan > **[Faktureringsprodukter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrationscentret. **Billing**
 
 2. Leta reda på den prenumeration som du vill förlänga utgångsdatumet till eller lägga till licenser.  Klicka på [Utöka slutdatum](https://go.microsoft.com/fwlink/p/?linkid=842054) eller [lägg till fler licenser](https://go.microsoft.com/fwlink/p/?linkid=842054).
 

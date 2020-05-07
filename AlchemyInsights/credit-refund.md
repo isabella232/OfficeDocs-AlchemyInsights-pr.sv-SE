@@ -12,12 +12,12 @@ ms.custom:
 - "897"
 - "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 717e6e7547c9b60d9ddc490f66bcc4b689bbb2ab
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: beb3574cb94f5ede8282ab29feba6d3ac0e589a9
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705319"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086834"
 ---
 # <a name="creditrefund"></a>Kredit/återbetalning
 
@@ -28,3 +28,9 @@ När du avbryter en prenumeration får du en slutfaktura med en kredit som ska b
 **Byte av säte**
   
 När licenser tas bort från en prenumeration tillämpas den oanvända tiden på dessa licenser som en kredit på nästa faktura. Det kan ta upp till 30 dagar att ta emot från det datum då licenserna tas bort.
+
+**Återbetalning**
+
+**En proportionell kredit återbetalas till dig under nästa faktureringsperiod.**
+
+Mer information finns i [avboknings- och återbetalningsprocessen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide). 
