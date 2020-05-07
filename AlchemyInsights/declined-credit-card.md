@@ -13,16 +13,16 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705103"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062302"
 ---
 # <a name="declined-credit-card"></a>Avböjt kreditkort
 
-Om du betalar med kreditkort och kreditkortet nekas får du ett e-postmeddelande med information om att vi inte har kunnat bearbeta betalningen. Dubbelkolla att [kreditkortsuppgifterna](https://go.microsoft.com/fwlink/p/?linkid=842054) - kortnummer, utgångsdatum, namn på kreditkortet och adress, inklusive ort, delstat och postnummer - visas precis som de gör på kreditkortet och ditt kreditkortsutdrag. Du kan uppdatera dina kreditkortsuppgifter och omedelbart skicka betalningen genom att använda alternativet **Kvitta saldo** på sidan [Produkter & tjänster.](https://go.microsoft.com/fwlink/p/?linkid=842054) 
+Om du betalar med kreditkort och kreditkortet nekas får du ett e-postmeddelande med information om att vi inte har kunnat bearbeta betalningen. Dubbelkolla att [kreditkortsuppgifterna](https://go.microsoft.com/fwlink/p/?linkid=842054) - kortnummer, utgångsdatum, namn på kreditkortet och adress, inklusive ort, delstat och postnummer - visas precis som de gör på kreditkortet och ditt kreditkortsutdrag. Du kan uppdatera dina kreditkortsuppgifter och omedelbart skicka betalningen med hjälp av alternativet **Kvitta saldo** på sidan **[Dina produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054)** 
 
 Mer information finns i "Vad händer om mitt kreditkort har gått ut och min betalning förfaller?" i [Betala för din Microsoft 365 för företag-prenumeration](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   

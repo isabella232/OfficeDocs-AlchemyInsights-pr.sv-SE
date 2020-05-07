@@ -12,27 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 0d4b7c7adaee7972b0cf810fc15da391184ad7e3
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
+ms.openlocfilehash: 2389daa13aa08f394feded5c5cd67839e62734ff
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43599263"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061652"
 ---
 # <a name="cancel-project-subscription"></a>Avbryt projektprenumeration
 
-Administratörer kan avbryta Project-prenumerationen för sin organisation från **Microsoft 365 Admin Center**. 
+Administratörer kan avbryta Project-prenumerationen för sin organisation från **administrationscentret för Microsoft 365**.
 
-1. Välj alternativet **Fakturering.**
+1. Gå till sidan **Fakturering > [Dina produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054) **
 
-2. Klicka på [Produkter & tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054) om du vill visa alla prenumerationer för din organisation.
+2. Leta reda på den projektplan som ska avbrytas.
 
-3. Leta reda på den projektplan som ska avbrytas.
+3. Klicka på **Avbryt prenumeration**.
 
-4. Klicka på **Avbryt prenumeration**.
+**Återbetalning: Eventuell proportionell kredit kommer att returneras till dig inom nästa faktureringsperiod.**
 
-**Återbetalning: Eventuell proportionell kredit kommer att returneras till dig inom nästa faktureringsperiod.** 
+**Om**du inte ser alternativet att avbryta klickar du på prenumerationen för att visa informationen och du bör se alternativet **Avbryt prenumeration** i Inställningar **& Åtgärder**.
 
-**Om**du inte ser alternativet att avbryta klickar du på prenumerationen för att visa informationen och du bör se alternativet **Avbryt prenumeration** i Inställningar **& Åtgärder**. 
-
-Mer information finns i [Avbryt prenumerationen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
+Mer information finns i [Avbryt prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
