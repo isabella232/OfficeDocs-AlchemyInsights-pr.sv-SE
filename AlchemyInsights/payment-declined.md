@@ -11,33 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "3564"
 - "9001506"
-ms.openlocfilehash: 3fadef232adfbb71769c089bb5a0d3ae9c70711d
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
+ms.openlocfilehash: 390aba6a8f7ce255548d9cb0edb4b427811a9efa
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43160834"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063203"
 ---
 # <a name="payment-declined"></a>Betalningen minskade
 
-Microsoft kommer att försöka debitera ditt kort flera gånger under 3-4 veckor efter fakturadatumet.  Om du bara har fått ett eller två avslag för den här faktureringsperioden försöker Microsoft automatiskt debitera ditt betalningsinstrument igen.  
+Microsoft försöker debitera kortet flera gånger i 3 till 4 veckor efter fakturadatumet.  Om du bara har tagit emot ett eller två nej-meddelanden för den här faktureringsperioden försöker Microsoft automatiskt att debitera betalningsmetoden igen.  
 
-**Viktigt:** Om du har lagt till ett nytt kort och du fortfarande får ett meddelande om nekad uppsägning på det gamla kreditkortet kan du behöva associera det nya kortet med prenumerationen.
+**Viktigt**: Om du har lagt till ett nytt kort och du fortfarande får ett meddelande om att ditt tidigare kort nekas kanske du måste koppla det nya kortet till prenumerationen.
 
-1. Gå till **Fakturering > produkter & [tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Gå till **Fakturering > [Dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Välj den prenumeration som du vill betala med det nya kortet eller bankkontot. Klicka **på** **Redigera**bredvid betalningsmetoden bredvid betalningsmetoden.
+2. Välj den prenumeration som du vill betala med det nya kortet eller bankkontot. Under avsnittet **Fakturering** bredvid betalningsmetoden klickar du på **Redigera**.
 
 3. Klicka på **Ändra** bredvid den aktuella betalningsmetoden.
 
-4. Välj en alternativ betalningsmetod på den nedrullningsbara menyn eller lägg till en ny betalningsmetod.
+4. I listrutan väljer du en alternativ betalningsmetod eller lägger till en ny betalningsmetod.
 
-**Uppdatera eller lägga till en ny betalningsmetod**
+**Uppdatera eller lägga till en ny betalningsmetod**:
 
-1. Gå till sidan **Fakturering > räkningar & betalningar > [betalningsmetoder.](https://go.microsoft.com/fwlink/p/?linkid=2018806) **
+1. Gå till sidan **Fakturering > Fakturor och betalningar > [Betalningsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
 
-2. Klicka på **Lägg till en betalningsmetod,** välj kortet eller bankkontot för att uppdatera och klicka på **Redigera**.
+2. Klicka på **Lägg till en betalningsmetod**, välj kortet eller bankkontot som ska uppdateras och klicka på **Redigera**.
 
-3. Uppdatera din betalningsmetodsinformation (namn på kortet eller bankkontot, faktureringsadress, telefonnummer eller utgångsdatum) och klicka sedan på **Spara**.
+3. Uppdatera uppgifterna för betalningsmetoden (namn på kortet eller bankkontot, faktureringsadressen, telefonnumret eller utgångsdatumet) och klicka på **Spara**.
 
-4. Kom ihåg att ändra hur du betalar för dina prenumerationer till den här nya betalningsmetoden. Mer information finns i [Lägga till, uppdatera eller ta bort dina betalningsmetoder](https://go.microsoft.com/fwlink/?linkid=2118133). 
+4. Kom ihåg att ändra prenumerationen till den nya betalningsmetoden. Mer information finns i [Lägga till, uppdatera eller ta bort dina betalningsmetoder](https://go.microsoft.com/fwlink/?linkid=2118133).
