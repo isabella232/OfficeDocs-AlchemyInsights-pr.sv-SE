@@ -12,25 +12,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 733625a79fe2da5436e9b14899121fd02132bf0e
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 039a60a6a4eece841fc494f619f13f1021b8906a
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789176"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064375"
 ---
-# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a><span data-ttu-id="28095-102">Växla till en annan Microsoft 365 för företag-prenumeration</span><span class="sxs-lookup"><span data-stu-id="28095-102">Switch to a different Microsoft 365 for business subscription</span></span>
+# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a><span data-ttu-id="3f484-102">Växla till en annan Microsoft 365 för företag-prenumeration</span><span class="sxs-lookup"><span data-stu-id="3f484-102">Switch to a different Microsoft 365 for business subscription</span></span>
 
-<span data-ttu-id="28095-103">När ditt företag ändras, eller om du behöver fler funktioner, kan du uppgradera till ett nytt abonnemang.</span><span class="sxs-lookup"><span data-stu-id="28095-103">When your business changes, or you need more features, you can upgrade to a new plan.</span></span>
+<span data-ttu-id="3f484-103">När ditt företag ändras, eller om du behöver fler funktioner, kan du uppgradera till ett nytt abonnemang.</span><span class="sxs-lookup"><span data-stu-id="3f484-103">When your business changes, or you need more features, you can upgrade to a new plan.</span></span>
   
-1. <span data-ttu-id="28095-104">Gå till \*\* \> [Faktureringsprodukter & tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054)\*\* i administrationscentret .</span><span class="sxs-lookup"><span data-stu-id="28095-104">In the admin center, go to **Billing \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
+1. <span data-ttu-id="3f484-104">Gå till sidan \> **[Faktureringsprodukter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrationscentret. **Billing**</span><span class="sxs-lookup"><span data-stu-id="3f484-104">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
 
-2. <span data-ttu-id="28095-105">Välj den prenumeration som du vill uppgradera.</span><span class="sxs-lookup"><span data-stu-id="28095-105">Select the subscription that you want to upgrade.</span></span>
+2. <span data-ttu-id="3f484-105">Välj den prenumeration som du vill uppgradera.</span><span class="sxs-lookup"><span data-stu-id="3f484-105">Select the subscription that you want to upgrade.</span></span>
 
-3. <span data-ttu-id="28095-106">På [sidan prenumerationsinformation](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702)väljer du **Uppgradera**.</span><span class="sxs-lookup"><span data-stu-id="28095-106">On the [subscription details page](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702), select **Upgrade**.</span></span>  <span data-ttu-id="28095-107">Om fliken **Uppgradera** är tom visas en förklaring till varför du inte kan uppgradera just nu.</span><span class="sxs-lookup"><span data-stu-id="28095-107">If the **Upgrade** tab is empty, you'll see an explanation of why you can't upgrade at this time.</span></span> <span data-ttu-id="28095-108">I stället måste du [ändra planer manuellt](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="28095-108">Instead, you will need to [change plans manually](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually?view=o365-worldwide).</span></span>
+3. <span data-ttu-id="3f484-106">På [sidan prenumerationsinformation](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702)väljer du **Uppgradera**.</span><span class="sxs-lookup"><span data-stu-id="3f484-106">On the [subscription details page](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702), select **Upgrade**.</span></span>  <span data-ttu-id="3f484-107">Om fliken **Uppgradera** är tom visas en förklaring till varför du inte kan uppgradera just nu.</span><span class="sxs-lookup"><span data-stu-id="3f484-107">If the **Upgrade** tab is empty, you'll see an explanation of why you can't upgrade at this time.</span></span> <span data-ttu-id="3f484-108">I stället måste du [ändra planer manuellt](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="3f484-108">Instead, you will need to [change plans manually](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually?view=o365-worldwide).</span></span>
 
-4. <span data-ttu-id="28095-109">Leta reda på det abonnemang som du vill uppgradera till och välj sedan **knappen Uppgradera.**</span><span class="sxs-lookup"><span data-stu-id="28095-109">Find the plan to which you want to upgrade, then select the **Upgrade** button.</span></span>
+4. <span data-ttu-id="3f484-109">Leta reda på det abonnemang som du vill uppgradera till och välj sedan **knappen Uppgradera.**</span><span class="sxs-lookup"><span data-stu-id="3f484-109">Find the plan to which you want to upgrade, then select the **Upgrade** button.</span></span>
 
-5. <span data-ttu-id="28095-110">Ange antalet licenser som du behöver, välj om du vill betala varje månad eller för hela året och välj sedan **Kassan**.</span><span class="sxs-lookup"><span data-stu-id="28095-110">Enter the number of licenses that you need, choose whether to pay each month or for the whole year, then select **Checkout**.</span></span>
+5. <span data-ttu-id="3f484-110">Ange antalet licenser som du behöver, välj om du vill betala varje månad eller för hela året och välj sedan **Kassan**.</span><span class="sxs-lookup"><span data-stu-id="3f484-110">Enter the number of licenses that you need, choose whether to pay each month or for the whole year, then select **Checkout**.</span></span>
 
-<span data-ttu-id="28095-111">Mer information finns i [Uppgradera till en annan plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).</span><span class="sxs-lookup"><span data-stu-id="28095-111">To learn more, see [Upgrade to a different plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).</span></span>
+<span data-ttu-id="3f484-111">Mer information finns i [Uppgradera till en annan plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).</span><span class="sxs-lookup"><span data-stu-id="3f484-111">To learn more, see [Upgrade to a different plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).</span></span>
