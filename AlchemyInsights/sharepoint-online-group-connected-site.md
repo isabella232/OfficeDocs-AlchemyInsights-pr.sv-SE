@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: b54457427ffa563b6a6323d85e1c8800191eca11
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912984"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064411"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problem när du skapar en gruppansluten webbplats i SharePoint
 
@@ -26,7 +26,7 @@ Om du har tagit bort en grupp och dess anslutna webbplats och vill skapa en anna
    - Mer information om hur du kommer igång med Powershell finns i [Komma igång med SharePoint Online Management Shell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
    - Ta bort webbplatsen från borttagna platser med hjälp av [cmdleten Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell. Powershell krävs för att permanent ta bort gruppwebbplatser.
 
-1. Om du skapar en gruppansluten webbplats och får en varning: Det finns redan en **annan grupp med samma alias**kontrollerar du de befintliga grupperna från Microsoft [365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/groups). Lös problemet genom att ta bort den befintliga gruppen om den inte längre behövs eller skapa platsen med ett annat alias tilldelat.
+1. Om du skapar en gruppansluten webbplats och får en varning: Det finns redan en **annan grupp med samma alias**kontrollerar du de befintliga grupperna från Administrationscentret för Microsoft [365](https://admin.microsoft.com/AdminPortal/Home#/groups). Lös problemet genom att ta bort den befintliga gruppen om den inte längre behövs eller skapa platsen med ett annat alias tilldelat.
 
 1. Det finns olika sätt att skapa och använda moderna grupper med SharePoint.
 

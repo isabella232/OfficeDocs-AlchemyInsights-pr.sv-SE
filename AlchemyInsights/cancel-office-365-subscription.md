@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 7d1e37d00876c117f7c83f960c05a350ed8a982c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 30cdd925c0be9d38572fbc9acc5cd3fcf97ef11f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711577"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061689"
 ---
 # <a name="cancelling-your-microsoft-365-subscription"></a>Vill du avbryta din Microsoft 365-prenumeration?
 
@@ -24,7 +24,7 @@ Vi beklagar att du går, men här är dina alternativ för att avbryta din prenu
   
 - Om du är en provkund finns det inget att avbryta. Provprenumerationer upphör att gälla automatiskt om du inte anger en betalningsmetod.
 
-- Om du har färre än 25 tilldelade licenser kan du avbryta prenumerationen online. Gå till **Faktureringsprodukter** \> [& tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054). I avsnittet **Inställningar & Åtgärder** väljer du Avbryt **prenumeration**.
+- Om du har färre än 25 tilldelade licenser kan du avbryta prenumerationen online. Gå till **Fakturering** \> **[dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)**. I avsnittet **Inställningar & Åtgärder** väljer du Avbryt **prenumeration**.
 
 - Om du har fler än 25 tilldelade licenser kan du antingen ta bort användare tills du har färre än 25 eller använda alternativet "Låt oss ringa dig" för att prata med en supporttekniker.
 

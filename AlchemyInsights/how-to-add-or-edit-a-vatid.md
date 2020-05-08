@@ -12,20 +12,20 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: c7d998c56747799e139e8e2035cbccfe71cce14b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66ce0cfed20990a7a6bc6307360a8bc7d91822c8
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709641"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063599"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Så här lägger du till eller redigerar ett VatID
 
-**Om**du befinner dig i ett land som använder mervärdesskatt, till exempel Storbritannien, beräknar Microsoft Fakturering momsen för dig och tillämpar beloppet på dina fakturor. För mer information, se [VIES ansvarsfriskrivning](https://go.microsoft.com/fwlink/?LinkID=841741) publicerad av Europeiska kommissionen.
+**Om**du befinner dig i ett land som använder mervärdesskatt, till exempel Storbritannien, beräknar Microsoft Fakturering momsen för dig och tillämpar beloppet på dina fakturor. För mer information, se [VIES ansvarsfriskrivning](https://go.microsoft.com/fwlink/p/?LinkID=841741) publicerad av Europeiska kommissionen.
 
 **Lägga till eller redigera ett VatID**
 
-1. Gå till sidan [Faktureringsprodukter & tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrationscentret **för** \> Microsoft 365.
+1. Gå till sidan [Faktureringsprodukter](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrationscentret **för** \> Microsoft 365.
 
 2. Hitta prenumerationskortet för den prenumeration som du vill uppdatera.
 

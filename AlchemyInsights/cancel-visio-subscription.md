@@ -12,27 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: 0e38edf7f3e10486b0ce3313dfcb004d848ed1bf
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: bad7c8b3503800101d758fbcdd0429fc097bd2a0
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552849"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061616"
 ---
 # <a name="cancel-visio-subscription"></a>Avbryt Visio-prenumeration
 
-Administratörer kan avbryta Visio-prenumerationen för sin organisation från **Microsoft 365 Admin Center**. 
+Administratörer kan avbryta Visio-prenumerationen för sin organisation från **administrationscentret för Microsoft 365**.
 
-1. Välj alternativet **Fakturering.**
+1. Gå till sidan **Fakturering > [Dina produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054) **
 
-2. Klicka på [Produkter & tjänster](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/subscriptions) om du vill visa alla prenumerationer för din organisation.
+2. Leta reda på den Visio-abonnemang som ska avbrytas.
 
-3. Leta reda på den Visio-abonnemang som ska avbrytas.
+3. Klicka på **Avbryt prenumeration**.
 
-4. Klicka på **Avbryt prenumeration**.
+**Återbetalning: Eventuell proportionell kredit kommer att returneras till dig inom nästa faktureringsperiod.**
 
-**Återbetalning: Eventuell proportionell kredit kommer att returneras till dig inom nästa faktureringsperiod.** 
+**Om**du inte ser alternativet att avbryta klickar du på prenumerationen för att visa informationen och du bör se alternativet **Avbryt prenumeration** i Inställningar **& Åtgärder**.
 
-**Om**du inte ser alternativet att avbryta klickar du på prenumerationen för att visa informationen och du bör se alternativet **Avbryt prenumeration** i Inställningar **& Åtgärder**. 
-
-Mer information finns i [Avbryt prenumerationen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
+Mer information finns i [Avbryt prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

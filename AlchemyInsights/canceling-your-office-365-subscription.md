@@ -12,12 +12,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 210510bf13ef3838d8f005b51222034039876426
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: edd8b4abdaf35ea3b58515dfaa0a1afbd0a525c8
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711433"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086692"
 ---
 # <a name="canceling-your-subscription"></a>Vill du avbryta prenumerationen?
 
@@ -25,9 +25,9 @@ Vi kommer att bli ledsna att se dig gå, men om du vill avbryta din prenumeratio
   
 - Om du är en provkund finns det inget att avbryta. Provprenumerationer upphör att gälla automatiskt om du inte anger en betalningsmetod.
 
-- Om du har färre än 25 tilldelade licenser kan du avbryta prenumerationen online. Gå till sidan **Faktureringsprodukter** \> [& tjänster.](https://go.microsoft.com/fwlink/p/?linkid=842054) I avsnittet **Inställningar & Åtgärder** väljer du Avbryt **prenumeration**.
+- Om du har färre än 25 tilldelade licenser kan du avbryta prenumerationen online. Gå till sidan **Fakturering** \> **[dina produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054)** I avsnittet **Inställningar & Åtgärder** väljer du Avbryt **prenumeration**.
 
-- Om du har fler än 25 tilldelade licenser kan du antingen ta bort användare tills du har färre än 25 eller använda alternativet "Låt oss ringa dig" för att prata med en supporttekniker.
+- Om du har fler än 25 tilldelade licenser kan du ta bort användare tills du har färre än 25.
   
 **Återbetalning: Eventuell proportionell kredit kommer att returneras till dig inom nästa faktureringsperiod.** 
 

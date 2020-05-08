@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: e39b8525fbcd43ee3778e5f3df9d3576fbd8924f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4883c5a8fe77610e86a66637e2e12c3a18fe6e67
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692891"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063671"
 ---
 # <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Varningsmeddelande: Organisationens principer tillåter inte att du delar med dessa användare
 
@@ -23,12 +23,12 @@ Användare kan få ett varningsmeddelande när de försöker dela med externa an
 
 Kontrollera **inställningarna för extern sharepoint- och OneDrive-delning** för din organisation.
 
-1. Välj **SharePoint**i [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/).
+1. Välj **SharePoint**i [microsoft 365-administrationscentret](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/).
 3. Välj **Delning** om du vill visa inställningarna för extern delning.
 
 Kontrollera **inställningarna** för extern delning för en viss webbplats.
 
-1. Välj **SharePoint**i [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/).
+1. Välj **SharePoint**i [microsoft 365-administrationscentret](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/).
 2. Välj **Aktiva webbplatser** om du vill visa tillgängliga webbplatser.
 3. Välj den webbplats som du vill kontrollera och välj sedan knappen **Delning** som visas i menyraden för att verifiera inställningarna för webbplatsen.
 
