@@ -13,17 +13,17 @@ ms.custom:
 - "1500008"
 - "2443"
 ms.openlocfilehash: cac8564d4939d498b2bd0e40a971b3c4d4ed09da
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063887"
 ---
 # <a name="manage-app-licenses"></a>Hantera applicenser
 
 ## <a name="to-change-license-quantity"></a>Så här ändrar du licenskvantitet
 
-1. Gå till sidan **Fakturering** > **[dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** och välj sedan fliken **Appar.**
+1. Gå till **Billing**sidan  >  **[Fakturering dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** och välj sedan fliken **Appar.**
 
 2. Hitta och välj den app du vill hantera.  
 
@@ -33,7 +33,7 @@ ms.locfileid: "44063887"
 
 ## <a name="to-assign-app-licenses"></a>Så här tilldelar du applicenser
 
-1. Gå till sidan **Fakturering** > **[dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** och välj sedan fliken **Appar.**
+1. Gå till **Billing**sidan  >  **[Fakturering dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** och välj sedan fliken **Appar.**
 
 2. Hitta och välj den app du vill hantera.  
 

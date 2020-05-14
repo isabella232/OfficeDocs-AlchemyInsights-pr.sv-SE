@@ -14,10 +14,10 @@ ms.custom:
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
 ms.openlocfilehash: da471e392abd5d5a732206fd7306f48975268b74
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44058445"
 ---
 # <a name="compare-upgrade-or-purchase-subscriptions"></a>Jämföra, uppgradera eller köpa prenumerationer
@@ -28,4 +28,4 @@ Om din organisation är intresserad av att jämföra alla planer och priser läs
   
 Om din organisation redan har köpt prenumerationer och är intresserad av att byta till ett annat abonnemang kan du göra det från administrationscentret för Microsoft 365. Gå till sidan **Fakturering** \> [Dina produkter,](https://go.microsoft.com/fwlink/p/?linkid=842054) välj den prenumeration som du vill ändra och välj sedan fliken **Uppgradera** för att visa listan över nya planer som är tillgängliga.
   
-Din organisation kan också blanda och matcha prenumerationer för att uppfylla användarnas behov och funktionskrav. Gå till sidan \> [Faktureringsköpstjänster](https://go.microsoft.com/fwlink/p/?linkid=868433) från administrationscentret. **Billing**
+Din organisation kan också blanda och matcha prenumerationer för att uppfylla användarnas behov och funktionskrav. Gå till sidan **Billing** \> [Faktureringsköpstjänster](https://go.microsoft.com/fwlink/p/?linkid=868433) från administrationscentret.

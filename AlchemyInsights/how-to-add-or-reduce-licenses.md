@@ -13,17 +13,17 @@ ms.custom:
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
 ms.openlocfilehash: e02e5e835446626152c8dd98207898de52ae6933
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063815"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Lägga till eller ta bort licenser för din prenumeration
 
 Så här lägger du till/tar bort licenser.
   
-1. Gå till sidan \> **[Faktureringsprodukter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrationscentret. **Billing**
+1. Gå till sidan **Billing** \> **[Faktureringsprodukter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrationscentret.
 
 2. Välj den prenumeration som du vill lägga till/ta bort licenser för.
 

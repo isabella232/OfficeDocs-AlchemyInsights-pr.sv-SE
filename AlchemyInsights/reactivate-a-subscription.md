@@ -13,17 +13,17 @@ ms.custom:
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.openlocfilehash: 54f4077f79d75fe32c9291288d1ed1d93a096f33
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062662"
 ---
 # <a name="reactivate-a-microsoft-365-subscription"></a>Återaktivera en Microsoft 365-prenumeration
 
 Om prenumerationen går ut, inaktiverades av Microsoft eller om du avbröt den mitt under en prenumerationsperiod kan du återaktivera den i administrationscentret.
   
-1. Gå till sidan \> **[Faktureringsprodukter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrationscentret. **Billing**
+1. Gå till sidan **Billing** \> **[Faktureringsprodukter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrationscentret.
 
 2. Välj den prenumeration som du vill återaktivera. Välj **Återaktivera**i avsnittet Fakturering .
 

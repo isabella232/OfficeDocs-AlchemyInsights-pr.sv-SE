@@ -12,17 +12,17 @@ ms.custom:
 - "9000563"
 - "2422"
 ms.openlocfilehash: f75fe2a4d6ceb094dcf490b6c2a21b4c8254c4ce
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062158"
 ---
 # <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Aktivera och tilldela applicenser för programvara som en tjänst 
 
 ## <a name="to-activate-apps"></a>Så här aktiverar du appar
 
-1. Gå till sidan **Fakturering** > **[dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrationscentret och välj sedan fliken **Appar.**
+1. Gå till sidan **Fakturering**dina produkter i administrationscentret  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** och välj sedan fliken **Appar.**
 
 2. Hitta och välj den app du vill hantera.
 
@@ -30,7 +30,7 @@ ms.locfileid: "44062158"
 
 ## <a name="to-assign-app-licenses"></a>Så här tilldelar du applicenser
 
-1. Gå till sidan **Fakturering** > **[dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrationscentret och välj sedan fliken **Appar.**
+1. Gå till sidan **Fakturering**dina produkter i administrationscentret  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** och välj sedan fliken **Appar.**
 
 2. Hitta och välj den app du vill hantera.  
 

@@ -12,15 +12,15 @@ ms.custom:
 - "9001669"
 - "3736"
 ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062879"
 ---
 # <a name="your-products"></a>Dina produkter
 
-Du hittar de prenumerationer som ägs av din organisation på sidan **Fakturering** > **[dina produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Här är några av höjdpunkterna på denna sida tillsammans med länkar för mer information om varje funktion:
+Du hittar de prenumerationer som ägs av din organisation på sidan **Fakturering**  >  **[dina produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Här är några av höjdpunkterna på denna sida tillsammans med länkar för mer information om varje funktion:
 
 1. Hantera antalet licenser som har köpts för varje prenumeration tillsammans med hur många som används.  **Licenser**som inte används (som inte har tilldelats en användare) debiteras fortfarande.  Om du inte vill debiteras för oanvända licenser minskar du antalet köpta licenser. Information om hur du lägger till eller tar bort licenser från en prenumeration finns i [Så här lägger du till eller minskar licenser](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
@@ -34,4 +34,4 @@ Du hittar de prenumerationer som ägs av din organisation på sidan **Fakturerin
 
 6. [Avbryt prenumerationen](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Du kan köpa ytterligare prenumerationer från sidan > [**Faktureringsköpstjänster.**](https://go.microsoft.com/fwlink/p/?linkid=868433) **Billing**
+Du kan köpa ytterligare **Billing**prenumerationer från sidan  >  [**Faktureringsköpstjänster.**](https://go.microsoft.com/fwlink/p/?linkid=868433)
