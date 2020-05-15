@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001432"
 - "3413"
-ms.openlocfilehash: aac083e400990d4f237d821cba5f9096300119db
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 68e9774e188df3da83848e03de93f98d6a9df851
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705427"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235279"
 ---
 # <a name="how-to-create-a-file-request"></a>Så här skapar du en filbegäran
 
 Med funktionen för filbegäran i OneDrive kan du välja en mapp där andra kan ladda upp filer med en länk som du skickar dem. De användare som du begär filer från kan inte se vad som finns i mappen – de kan bara överföra filer till den.
 
-[Skapa en filbegäran](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af)
+**En**administratör måste aktivera [alla länkar](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) i OneDrive för att filbegäranden ska fungera.
+
+- Mer information finns i [Skapa en filbegäran](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).

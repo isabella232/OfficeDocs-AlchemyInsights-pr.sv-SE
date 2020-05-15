@@ -12,19 +12,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: a5e7e1ee245331acbd6e67d7112736e261ccca1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 75f7a7e842d8fafdd4cad3d48289d3cc609caec6
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720714"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235315"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Så här hittar och återställer du meddelanden, kontakter eller kalenderobjekt som saknas i Outlook
 
-- Du kan använda [verktyget Jag har problem med att skicka, ta emot eller hitta e-postmeddelanden](https://aka.ms/SaRA-OutlookSendReceive) på den berörda datorn. Detta verktyg kommer att kontrollera ett antal frågor och kommer att föreslå möjliga lösningar.
+1. Gå till listan med e-postmappar i Outlook och välj sedan **Borttaget**. **Viktigt:** Om mappen **Borttaget** inte visas, utan i stället ser **papperskorgen,** stöder ditt konto inte att återställa ett objekt som inte längre finns i mappen **Borttaget.**
 
-- [Avgöra om kontot är komprometterat](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Om du har komprometterats följer du stegen i [Att svara på ett komprometterat e-postkonto.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
+2. Klicka på Återställ **borttagna objekt från server**på **Start-menyn** . **Viktigt:** Om det inte finns något kommandot **Återställ borttagna objekt från servern** på menyn stöder kontot inte att återställa ett objekt som inte längre finns i mappen **Borttaget.**
 
-- [Hitta meddelandet eller objektet med snabbsökning](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+3. Markera de objekt som du vill återställa, klicka på **Återställ markerade objekt**och klicka sedan på **OK**.
 
-- [Återställa borttagna objekt i Outlook för Windows](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+**Vart tar återvunna objekt vägen?** När du återställer objekt från mappen Återställningsbara objekt flyttas de till mappen **Borttaget.** När du har återställt ett objekt hittar du det i mappen **Borttaget** och sedan kan du flytta det till en annan mapp.
+
+Du kan också använda [verktyget Jag har problem med att skicka, ta emot eller hitta e-postmeddelanden](https://aka.ms/SaRA-OutlookSendReceive) på den berörda **datorn**. Detta verktyg kommer att kontrollera ett antal frågor och kommer att föreslå möjliga lösningar.

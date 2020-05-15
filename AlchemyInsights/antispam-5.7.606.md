@@ -11,13 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 377e7d3164f7732246e1c1980bc1d0b0ccc8ebbb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bc554215f0fd50c8b0a1788715bcb44c17ee51ab
+ms.sourcegitcommit: 1697031e86a07e44b8937ffaca809229ba2be754
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712656"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44232347"
 ---
 # <a name="banned-sending-ip"></a>Förbjudna att skicka IP
 
-När du skickar e-post till Microsoft 365 kan det här felet uppstå en avsändare. Avsändaren måste besöka https://sender.office.com och följa instruktionerna.  Om de inte får ett verifieringsmeddelande från portalen ber du dem kontrollera skräppostmappen och/eller prova med en annan e-postadress.
+När du skickar till en Office 365-mottagare kan det här felet uppstå en avsändare. Avsändaren måste besöka [Office 365 Anti-Spam IP Delist Portal](https://sender.office.com/) och ange sin e-postadress och IP-adress som måste avnoteras. Om de inte får ett verifieringsmeddelande från portalen ber du dem kontrollera skräppostmappen och/eller prova med en annan e-postadress. 
+
+- Detaljerade instruktioner finns i [Använda avlistningsportalen för att ta bort dig själv från listan blockerade avsändare](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide).
