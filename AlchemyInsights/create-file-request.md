@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001432"
 - "3413"
-ms.openlocfilehash: aac083e400990d4f237d821cba5f9096300119db
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 68e9774e188df3da83848e03de93f98d6a9df851
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705427"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235279"
 ---
-# <a name="how-to-create-a-file-request"></a><span data-ttu-id="f2ca8-102">Så här skapar du en filbegäran</span><span class="sxs-lookup"><span data-stu-id="f2ca8-102">How to create a file request</span></span>
+# <a name="how-to-create-a-file-request"></a><span data-ttu-id="86c8e-102">Så här skapar du en filbegäran</span><span class="sxs-lookup"><span data-stu-id="86c8e-102">How to create a file request</span></span>
 
-<span data-ttu-id="f2ca8-103">Med funktionen för filbegäran i OneDrive kan du välja en mapp där andra kan ladda upp filer med en länk som du skickar dem.</span><span class="sxs-lookup"><span data-stu-id="f2ca8-103">The file request feature in OneDrive allows you to choose a folder where others can upload files using a link that you send them.</span></span> <span data-ttu-id="f2ca8-104">De användare som du begär filer från kan inte se vad som finns i mappen – de kan bara överföra filer till den.</span><span class="sxs-lookup"><span data-stu-id="f2ca8-104">The users that you request files from cannot see what's in the folder--they can only upload files to it.</span></span>
+<span data-ttu-id="86c8e-103">Med funktionen för filbegäran i OneDrive kan du välja en mapp där andra kan ladda upp filer med en länk som du skickar dem.</span><span class="sxs-lookup"><span data-stu-id="86c8e-103">The file request feature in OneDrive allows you to choose a folder where others can upload files using a link that you send them.</span></span> <span data-ttu-id="86c8e-104">De användare som du begär filer från kan inte se vad som finns i mappen – de kan bara överföra filer till den.</span><span class="sxs-lookup"><span data-stu-id="86c8e-104">The users that you request files from cannot see what's in the folder--they can only upload files to it.</span></span>
 
-[<span data-ttu-id="f2ca8-105">Skapa en filbegäran</span><span class="sxs-lookup"><span data-stu-id="f2ca8-105">Create a file request</span></span>](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af)
+<span data-ttu-id="86c8e-105">**En**administratör måste aktivera [alla länkar](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) i OneDrive för att filbegäranden ska fungera.</span><span class="sxs-lookup"><span data-stu-id="86c8e-105">**Note**: An administrator must enable [Anyone links](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) in OneDrive for file requests to work.</span></span>
+
+- <span data-ttu-id="86c8e-106">Mer information finns i [Skapa en filbegäran](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).</span><span class="sxs-lookup"><span data-stu-id="86c8e-106">For more info, see [Create a file request](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).</span></span>
