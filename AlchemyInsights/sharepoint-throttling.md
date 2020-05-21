@@ -7,28 +7,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: 235a9adaaf4ce7b2946c2db268093ee8b4afae34
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: ea7ac4eb0998d173ed91a533dd0a6b798ad87be9
+ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958592"
+ms.lasthandoff: 05/20/2020
+ms.locfileid: "44331392"
 ---
 # <a name="sharepoint-online-throttling"></a>Begränsning av SharePoint Online
 
-**Viktigt:** Under dessa exempellösa tider vidtar vi åtgärder för att se till att SharePoint Online- och OneDrive-tjänster förblir mycket tillgängliga – Besök [Tillfälliga funktionsjusteringar](https://aka.ms/ODSPAdjustments) för SharePoint Online för mer information.
-
-**Begränsning av SharePoint Online**
-
-SharePoint Online använder begränsning för att upprätthålla optimal prestanda och tillförlitlighet för SharePoint Online-tjänsten. Begränsning begränsar antalet användaråtgärder eller samtidiga anrop (med skript eller kod) för att förhindra överanvändning av resurser. Besök länkarna nedan om du vill ha mer information.
+SharePoint Online använder begränsning för att bibehålla optimala prestanda och tillförlitlighet i SharePoint Online-tjänsten. Begränsningen begränsar antalet användaråtgärder och samtidiga anrop (med skript eller kod) för att förhindra att resurserna utnyttjas för mycket. Mer information finns i:
 
 - [Undvika begränsningar och blockeringar i SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [Datamigrering och SPO-begränsning](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)
-
-- [Flyttningshastighet för SharePoint Online och OneDrive](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
-
- - [Hantera Begränsning av SharePoint Online med hjälp av exponentiell back off](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
-
-- [Kapacitetsplanering och belastningstestning av SharePoint Online](https://docs.microsoft.com/office365/enterprise/capacity-planning-and-load-testing-sharepoint-online)
-
