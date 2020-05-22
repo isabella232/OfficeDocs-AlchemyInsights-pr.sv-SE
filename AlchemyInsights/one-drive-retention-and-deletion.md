@@ -12,26 +12,25 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 5fd6685d02d8178dd524dcc295af1021b17d61b7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: bbdfdf34ecb24189b233ceded917a03a2d07d7db
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761365"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343206"
 ---
 # <a name="onedrive-retention-and-deletion"></a>Bevarande och borttagning av OneDrive
 
-- Du kan [själv återställa en borttagen användare OneDrive.](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) De är i papperskorgen i 93 dagar. 
+- Du kan [själv återställa en borttagen användare OneDrive.](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) De är i papperskorgen i 93 dagar.
 
-- Läs [den här artikeln](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) om du vill veta:
+- Läs [den här artikeln](https://docs.microsoft.com/onedrive/retention-and-deletion) om du vill veta:
     - Så här ger du en annan användare åtkomst till en borttagen användares OneDrive.
     - Vad händer med en användares OneDrive när du tar bort användarens Microsoft 365-konto för din organisation.
     - Så här konfigurerar du automatisk åtkomstdelegering.
     - Så här fungerar borttagningsprocessen för OneDrive.
 
-- Intresserad av lagring och spärr för säkerhets- och efterlevnadscenter?:
+- Information om hur du återställer objekt från papperskorgen i OneDrive finns i [Återställa borttagna filer eller mappar](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
+
+- Intresserad av lagring och bevarande av säkerhets- och efterlevnadscenter?
     - [Bevarandeprinciper för OneDrive- och SharePoint-webbplatser](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
     - [eDiscovery-spärr för OneDrive- och SharePoint-webbplatser](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
-
-
-

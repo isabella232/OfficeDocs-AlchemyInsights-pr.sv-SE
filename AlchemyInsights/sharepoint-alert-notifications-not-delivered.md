@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742065"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343077"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>Aviseringar om SharePoint-aviseringar har inte levererats
 
@@ -33,15 +33,6 @@ Vanliga frågor och svar om varningar:
 
 - Det går inte att skicka aviseringar till distributionsgrupp, endast säkerhets- och O365-grupper stöds.
 - Du kan inte anpassa aviseringsmallar för e-post. Du måste använda Microsoft FLOW eller SharePoint Designer Workflow för att uppnå dessa.
-
-Mer information:
-
-- **Aviseringsinställning:** Mer information om hur du konfigurerar aviseringar finns i [Skapa en avisering för att få ett meddelande när en fil eller mapp ändras i SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Felsöka aviseringar:** Mer information om felsökningsaviseringar finns i [Användare får inte Aviseringar om SharePoint Online.](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications)
-- **Avancerade principer för efterlevnad av O365:** Mer information om hur du konfigurerar dessa aviseringar finns i [principer för efterlevnadsvarning](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **SharePoint- och OneDrive-granskningsloggar**: Mer information om hur du hämtar dessa händelser finns [i Sök i granskningsloggen](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Varningar som skickas av Avancerat skydd mot hot:** Se [ATP för SharePoint och OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Aviseringar som skickas av dataförlustförebyggande policyer:** Se [E-postmeddelanden för DLP-principer](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>Relaterade ämnen
 
