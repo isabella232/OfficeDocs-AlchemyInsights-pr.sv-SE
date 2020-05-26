@@ -14,13 +14,27 @@ ms.custom:
 - "899"
 - "3800014"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: 68a0a0de5e90a60bf95cce73cfa0b2881169ee52
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cc5827975eff10a119281541622224d0e37f08a7
+ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711973"
+ms.lasthandoff: 05/26/2020
+ms.locfileid: "44373017"
 ---
-# <a name="policy-error-when-sharing-a-calendar"></a><span data-ttu-id="847a2-102">Principfel vid delning av en kalender</span><span class="sxs-lookup"><span data-stu-id="847a2-102">Policy error when sharing a calendar</span></span>
+# <a name="policy-error-when-sharing-a-calendar"></a><span data-ttu-id="c4cc6-102">Principfel vid delning av en kalender</span><span class="sxs-lookup"><span data-stu-id="c4cc6-102">Policy error when sharing a calendar</span></span>
 
-<span data-ttu-id="847a2-103">Om du försöker dela din kalender och felmeddelandet "Principen tillåter inte att behörigheter på den här nivån beviljas till en eller flera mottagare", i [det här avsnittet](https://support.microsoft.com/help/3187524/policy-does-not-allow-granting-permissions-at-this-level-to-one-or-mor).</span><span class="sxs-lookup"><span data-stu-id="847a2-103">If you're trying to share your calendar, and you receive the error, "Policy does not allow granting permissions at this level to one or more of the recipient(s)", see [this topic](https://support.microsoft.com/help/3187524/policy-does-not-allow-granting-permissions-at-this-level-to-one-or-mor).</span></span>
+1. <span data-ttu-id="c4cc6-103">Gör något av följande, beroende på din situation:</span><span class="sxs-lookup"><span data-stu-id="c4cc6-103">Do one of the following, as appropriate for your situation:</span></span>
+    - <span data-ttu-id="c4cc6-104">Anslut till Exchange Online med hjälp av Remote PowerShell.</span><span class="sxs-lookup"><span data-stu-id="c4cc6-104">Connect to Exchange Online by using Remote PowerShell.</span></span> <span data-ttu-id="c4cc6-105">Mer information finns i [Anslut till Exchange Online med Fjärr-PowerShell](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="c4cc6-105">For more information, see [Connect to Exchange Online using Remote PowerShell](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx).</span></span>
+    - <span data-ttu-id="c4cc6-106">Öppna Exchange Management Shell på den lokala servern.</span><span class="sxs-lookup"><span data-stu-id="c4cc6-106">On the on-premises server, open the Exchange Management Shell.</span></span>
+2. <span data-ttu-id="c4cc6-107">Bestäm delningsprincipen som har tilldelats användaren.</span><span class="sxs-lookup"><span data-stu-id="c4cc6-107">Determine the sharing policy that's assigned to the user.</span></span> <span data-ttu-id="c4cc6-108">Det gör du genom att köra följande kommando och notera att principen returneras:</span><span class="sxs-lookup"><span data-stu-id="c4cc6-108">To do this, run the following command and note the policy returned:</span></span>
+
+    `
+    Get-Mailbox User1 | fl *sharing*
+    `
+
+3. <span data-ttu-id="c4cc6-109">Uppdatera delningsprincipen för användaren.</span><span class="sxs-lookup"><span data-stu-id="c4cc6-109">Update the sharing policy for the user.</span></span> <span data-ttu-id="c4cc6-110">Gör så här:</span><span class="sxs-lookup"><span data-stu-id="c4cc6-110">To do this, follow these steps:</span></span>
+    - <span data-ttu-id="c4cc6-111">Öppna administrationscentret för Exchange.</span><span class="sxs-lookup"><span data-stu-id="c4cc6-111">Open the Exchange admin center.</span></span>
+    - <span data-ttu-id="c4cc6-112">Klicka på **Organisation**och dubbelklicka sedan på den princip som har tilldelats användaren under **Enskild delning**.</span><span class="sxs-lookup"><span data-stu-id="c4cc6-112">Click **Organization**, and then double-click the policy that's assigned to the user under **Individual Sharing**.</span></span> <span data-ttu-id="c4cc6-113">Detta är den politik som returnerades i steg 2.</span><span class="sxs-lookup"><span data-stu-id="c4cc6-113">This is the policy that was returned in step 2.</span></span>
+    - <span data-ttu-id="c4cc6-114">På sidan Delningsregel väljer du den kalenderdelningsnivå som du vill tillåta under **Ange vilken information du vill dela.** Klicka på **Spara**.</span><span class="sxs-lookup"><span data-stu-id="c4cc6-114">On the Sharing Rule page, select the calendar sharing level that you want to allow under **Specify what information you want to share**; click **Save**.</span></span>
+
+<span data-ttu-id="c4cc6-115">Mer information finns i: ["Principen tillåter inte att behörigheter på den här nivån beviljas ett eller flera av mottagarnas fel när användaren försöker dela kalendern](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue).</span><span class="sxs-lookup"><span data-stu-id="c4cc6-115">For more information see: ["Policy does not allow granting permissions at this level to one or more of the recipient(s)" error when user tries to share calendar](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue).</span></span>
