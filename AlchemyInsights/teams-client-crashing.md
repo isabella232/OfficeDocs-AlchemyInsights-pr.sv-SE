@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ce37b260d126f876d2b6177515bd8a7c3874ef2c
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
-ms.translationtype: HT
+ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030670"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354071"
 ---
 # <a name="teams-client-crashing"></a>Kraschar Teams-klienten?
 
@@ -24,32 +24,26 @@ Om Teams-klienten kraschar kan du prova följande:
 
 - Om du använder skrivbordsversionen av Teams kan du [kontrollera att programmet är helt uppdaterat](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Kontrollera att alla [Office 365-webbadresser och adressintervall](https://docs.microsoft.com/microsoftteams/connectivity-issues) är tillgängliga.
+- Kontrollera att alla [Microsoft 365-url:er och adressintervall](https://docs.microsoft.com/microsoftteams/connectivity-issues) är tillgängliga.
 
-- Logga in med ditt administratörskonto och kontrollera att det inte finns några avbrott eller prestandaförsämringar i [Instrumentpanel för tjänststatus](https://docs.microsoft.com/office365/enterprise/view-service-health).
+- Logga in med ditt klientadministratörskonto och kontrollera [instrumentpanelen för tjänstens hälsotillstånd](https://docs.microsoft.com/office365/enterprise/view-service-health) för att kontrollera att det inte finns något avbrott eller en tjänstförsämring.
 
- - Som ett sista steg kan du prova att rensa Teams-klientens cache:
+- Avinstallera och installera om Teams Application (länk)
+    - Bläddra till mappen %appdata%\Microsoft\teams\ på datorn och ta bort alla filer i katalogen.
+    - [Ladda ned och installera Teams-appen](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)och installera om möjligt Teams som administratör (högerklicka på Teams-installationsprogrammet och välj "Kör som administratör" om det är tillgängligt).
 
-    1.  Avsluta Microsoft Teams-skrivbordsklienten helt. Du kan högerklicka på **Teams** i ikonfältet och klicka på **Avsluta** eller köra aktivitetshanteraren och avsluta processen helt.
+Om din Teams-klient fortfarande kraschar, kan du återskapa problemet? Om så är fallet:
 
-    2.  Gå till Utforskaren och skriv %appdata%\Microsoft\teams.
+1. Använd steginspelaren för att fånga dina steg.
+    - Stäng ALLA onödiga eller konfidentiella program.
+    - Starta Steps Recorder och återskapa problemet när du är inloggad med det berörda användarkontot.
+    - [Samla de teamloggar som fångar de inspelade repro-stegen](https://docs.microsoft.com/microsoftteams/log-files). **Obs:** Se till att du samlar in inloggningsadressen för den påverkade användaren.
+    - Samla in information om dump- och/eller felhink (Windows). Starta Windows Powershell på datorn där kraschen inträffar och kör följande kommandon:
 
-    3.  I katalogen ser du några av följande mappar:
-
-         - I **Programcache** går du till cachen och tar bort alla filer från cacheplatsen: %appdata%\Microsoft\teams\application cache\cache.
-
-        - I **Blob_storage** tar du bort alla filer: %appdata%\Microsoft\teams\blob_storage.
-
-        - I **Cache** tar du bort alla filer: %appdata%\Microsoft\teams\Cache.
-
-        - I **databaser** tar du bort alla filer: %appdata%\Microsoft\teams\databases.
-
-        - I **GPUCache** tar du bort alla filer: %appdata%\Microsoft\teams\GPUcache.
-
-        - I **IndexedDB** tar du bort .db-filen: %appdata%\Microsoft\teams\IndexedDB.
-
-        - I **Lokal lagring** tar du bort alla filer: %appdata%\Microsoft\teams\Local storage.
-
-        - Till sist tar du bort alla filer i **tmp**: %appdata%\Microsoft\teams\tmp.
-
-    4. Starta om Teams-klienten.
+        `
+        PS C:\Users\user01> cd $env:temp
+        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
+        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
+        `
+    
+2. Bifoga filen till supportärelet.

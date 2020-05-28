@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: ff432ebd048451d13aab1461d61fe2075d423cf5
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
-ms.translationtype: HT
+ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021657"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354106"
 ---
 # <a name="teams-admin-center"></a>Administrationscenter för Teams
 
@@ -30,4 +30,6 @@ Om du saknar åtkomst till Administrationscenter för Teams kontrollerar du föl
 Om användarna inte visas i Administrationscenter för Teams kontrollerar du följande:
 
 - Har du skapat användare eller tilldelat licenser under de senaste 24 timmarna? Se till att vänta minst 24 timmar innan du skapar ett supportärende.
-- Har du tilldelat lämpliga licenser? 
+- Har du tilldelat lämpliga licenser?
+- Om du har en lokal Active Directory kontrollerar du att värdet för [msRTCSIP-PrimaryUserAddress eller SIP-adressen i fältet ProxyAddresses i den lokala Active Directory är unikt och formatet matchar](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) sip:**Användarens användarnamn** från Microsoft [365-administrationscentret](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Om du tänker behålla en Skype för företag-server-distribution och låta användarna vara lokalt och online hemma: följ **"Konfigurera hybrid med Teams och Skype för företag – Online"** på kontrollpanelen för Skype för företag Server och flytta användarna online.
