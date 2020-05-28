@@ -11,23 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: 32e49b8afc6ba63463faac3f258c96266db04941
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 99a48d68c7ef6bcd21ef2a063f28532617bc2d5f
+ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712548"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44407296"
 ---
-# <a name="associate-a-hub-site"></a>Associera en hubbplats
+# <a name="associate-existing-site-with-a-hub-site"></a>Associera befintlig plats med en hubbplats
 
-Så här associerar du en befintlig webbplats till hubbplatsen:
+Så här associerar du en befintlig webbplats med hubbplatsen:
   
 1. Välj **Inställningar** (kugghjulsikonen i det övre högra hörnet) på webbplatsen och välj sedan **Webbplatsinformation**.
 
-2. På panelen **Redigera webbplatsinformation** på **menyn Navplatsförening** väljer du den hubbplats som du vill associera till, och väljer sedan **Spara**. Webbplatsens utseende ändras så att den matchar hubbplatsen och navigeringsfältet för hubbwebbplatsen visas högst upp.
+2. På panelen **Redigera webbplatsinformation** på **menyn Hubbplatsasassociation** väljer du den hubbplats som du vill associera med webbplatsen och klickar sedan på **Spara**. Webbplatsens utseende ändras så att den matchar hubbplatsen och navigeringsfältet för hubbwebbplatsen visas högst upp.
 
- > [!Note]
+>**Observera**
+>
 >Om alternativet Hub-platsassociation inte finns eller om inga platser visas där kanske hubbplatser inte är aktiverade eller så kanske du inte har behörighet att associera platser med en hubbplats. Kontakta administratören för mer information.
 >
->Det finns ingen gräns för hur många webbplatser som kan associeras med en hubbplats.
+>Det finns ingen gräns för hur många platser som kan associeras med en hubbplats.
   
