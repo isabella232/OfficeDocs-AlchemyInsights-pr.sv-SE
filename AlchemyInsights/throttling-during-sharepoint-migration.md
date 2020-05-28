@@ -12,26 +12,15 @@ ms.custom:
 - "9000136"
 - "2968"
 ms.assetid: ''
-ms.openlocfilehash: dc77c462fcf32817c92709852e2d03ab2086b9a4
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
-ms.translationtype: HT
+ms.openlocfilehash: 10f18044f999a9d30969221f65012fdce445d94a
+ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958916"
+ms.lasthandoff: 05/20/2020
+ms.locfileid: "44331369"
 ---
-# <a name="sharepoint-throttling"></a><span data-ttu-id="5cb98-102">SharePoint-begränsning</span><span class="sxs-lookup"><span data-stu-id="5cb98-102">SharePoint throttling</span></span>
+# <a name="sharepoint-migration-throttling"></a><span data-ttu-id="b64e9-102">Begränsning av SharePoint-migrering</span><span class="sxs-lookup"><span data-stu-id="b64e9-102">SharePoint migration throttling</span></span>
 
-<span data-ttu-id="5cb98-103">**Viktigt**: under denna extraordinära tid vidtar vi åtgärder för att se till att SharePoint Online- och OneDrive-tjänsterna har hög tillgänglighet. Mer information finns i [temporära funktionsjusteringar för SharePoint Online](https://aka.ms/ODSPAdjustments).</span><span class="sxs-lookup"><span data-stu-id="5cb98-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
+<span data-ttu-id="b64e9-103">SharePoint Online använder begränsning för att bibehålla optimala prestanda och tillförlitlighet i SharePoint Online-tjänsten.</span><span class="sxs-lookup"><span data-stu-id="b64e9-103">SharePoint Online uses throttling to maintain optimal performance and reliability of the SharePoint Online service.</span></span> <span data-ttu-id="b64e9-104">Begränsningen begränsar antalet användaråtgärder och samtidiga anrop (med skript eller kod) för att förhindra att resurserna utnyttjas för mycket.</span><span class="sxs-lookup"><span data-stu-id="b64e9-104">Throttling limits the number of user actions or concurrent calls (by script or code) to prevent overuse of resources.</span></span> <span data-ttu-id="b64e9-105">För mer information, se:</span><span class="sxs-lookup"><span data-stu-id="b64e9-105">For more information, please see:</span></span>
 
-<span data-ttu-id="5cb98-104">**Begränsning av SharePoint Online**</span><span class="sxs-lookup"><span data-stu-id="5cb98-104">**SharePoint Online throttling**</span></span>
-
-<span data-ttu-id="5cb98-105">SharePoint Online använder begränsning för att bibehålla optimala prestanda och tillförlitlighet i SharePoint Online-tjänsten.</span><span class="sxs-lookup"><span data-stu-id="5cb98-105">SharePoint Online uses throttling to maintain optimal performance and reliability of the SharePoint Online service.</span></span> <span data-ttu-id="5cb98-106">Begränsningen begränsar antalet användaråtgärder och samtidiga anrop (med skript eller kod) för att förhindra att resurserna utnyttjas för mycket.</span><span class="sxs-lookup"><span data-stu-id="5cb98-106">Throttling limits the number of user actions or concurrent calls (by script or code) to prevent overuse of resources.</span></span>
-
-<span data-ttu-id="5cb98-107">Besök länkarna nedan om du vill ha mer information:</span><span class="sxs-lookup"><span data-stu-id="5cb98-107">For more information please visit the links below:</span></span>
-
-- [<span data-ttu-id="5cb98-108">Undvika begränsningar och blockeringar i SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="5cb98-108">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-- [<span data-ttu-id="5cb98-109">Datamigrering och SPO-begränsning</span><span class="sxs-lookup"><span data-stu-id="5cb98-109">Data Migration and SPO Throttling</span></span>](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)
-- [<span data-ttu-id="5cb98-110">Migreringshastighet för SharePoint Online och OneDrive</span><span class="sxs-lookup"><span data-stu-id="5cb98-110">SharePoint Online and OneDrive Migration Speed</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
-- [<span data-ttu-id="5cb98-111">Hantera SharePoint Online-begränsningar med exponentiella undantag</span><span class="sxs-lookup"><span data-stu-id="5cb98-111">Handle SharePoint Online throttling by using exponential back off</span></span>](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
-- [<span data-ttu-id="5cb98-112">Kapacitetsplanering och belastningstestning av SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="5cb98-112">Capacity planning and load testing SharePoint Online</span></span>](https://support.office.com/article/Capacity-planning-and-load-testing-SharePoint-Online-c932bd9b-fb9a-47ab-a330-6979d03688c0)
-- [<span data-ttu-id="5cb98-113">Jag upplever dåliga prestanda eller begränsningar under migreringen</span><span class="sxs-lookup"><span data-stu-id="5cb98-113">I am experiencing poor performance or throttling during migration</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed#faq-and-troubleshooting)
+- [<span data-ttu-id="b64e9-106">Jag upplever dåliga prestanda eller begränsningar under migreringen</span><span class="sxs-lookup"><span data-stu-id="b64e9-106">I am experiencing poor performance or throttling during migration</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed#faq-and-troubleshooting)
