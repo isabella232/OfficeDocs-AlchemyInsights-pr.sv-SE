@@ -13,12 +13,12 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c3968ef0ac4926fae3e8a0f988c464471f740a94
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062302"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417622"
 ---
 # <a name="declined-credit-card"></a>Avböjt kreditkort
 
@@ -28,4 +28,4 @@ Mer information finns i "Vad händer om mitt kreditkort har gått ut och min bet
   
 Om meddelandet om nekat kort fortfarande visas kontaktar du banken. Det är möjligt att kreditkortet inte är aktivt - om du till exempel nyligen har fått kreditkortet via post med ett uppdaterat utgångsdatum kan du behöva aktivera det. Din bank kan också lämna information om kreditkortet inte är godkänt för onlinetransaktioner, internationella eller återkommande transaktioner.  
   
-Mer information finns i [Felsöka kreditkort och bankkonton](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Mer information finns i [Hantera betalningsmetoder](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

@@ -10,14 +10,19 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: feedd3e1433f9c8232a6ab9577473e4dbed03b31
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1e6ad5908b56f76fa41cf9fbdfad0f50c1a6f552
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714932"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417406"
 ---
-# <a name="move-a-phone-number-from-another-provider-to-microsoft"></a>Flytta ett telefonnummer från en annan leverantör till Microsoft
+# <a name="port-existing-numbers-to-teams"></a>Portering av befintliga nummer till Teams
 
-Behöver du flytta ett telefonnummer från en annan leverantör till Microsoft? Telefonnummer för olika länder och regioner finns i [Hantera telefonnummer för din organisation](https://docs.microsoft.com/SkypeForBusiness/what-are-calling-plans-in-office-365/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). Välj land eller region för att hitta information om hur du överför nummer. 
-  
+Om du för närvarande har en telefontjänsteleverantör eller -operatör och redan har telefonnummer för dina användare eller tjänster måste du skapa en "Porteringsbeställning" för att överföra dessa telefonnummer till Microsoft Teams.
+
+- Mer information om hur du gör det finns i [Överföra telefonnummer till Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams). 
+
+- Mer information om hur du hanterar telefonnummer finns i [Hantera telefonnummer för din organisation](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). 
+
+Mer information finns i [Översikt för porteringsbeställning](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).  
