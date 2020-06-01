@@ -11,26 +11,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 695d449a876c22ff441da2367ef67aaea470eb66
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 11d44e7f6616f936723f7609e9219fd529ee68e6
+ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763019"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44474443"
 ---
-# <a name="issues-signing-in-to-office-apps"></a>Problem med att logga in på Office-appar
+# <a name="issues-signing-into-microsoft-365-apps"></a>Problem med att logga in på Microsoft 365-appar
 
-Om du vill åtgärda inloggningsproblem med Office-appar provar du följande:
+Om du vill åtgärda inloggningsproblem med Microsoft 365-appar provar du följande alternativ på den berörda datorn:  
 
-- Ta bort alla arbetskonton utom det berörda kontot med Windows-inställningar > **Access-arbete eller skola**.
-- [Rensa Office-autentiseringsuppgifter](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) med Windows-autentiseringshanteraren.<br/>
-    **Anm.:** Registersökvägarna för Office 2016 har ändrats till 16.0. (T.ex. \Programvara\Microsoft\Office\16.0\Common\Identity\)
-- Öppna ett Office-program, välj > **Logga ut**för > **filkonto**. **File** Logga sedan in med ett användarkonto med en giltig licens. Mer information finns i [Konton i Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- För Mac hittar du information i [Det går inte att logga in i ett Office 2016 för Mac-program](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
-- Om felen uppstår när du ansluter till Microsoft 365 med Office 2013 aktiverar du modern autentisering för Office-klienten.
+- För Windows finns [i Rekommendationer om hur du löser vanliga inloggningsproblem](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
+- För Mac läser [du Det går inte att logga in på ett Office 2016 för Mac-program](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-Mer information finns i:
-- [Du kan inte logga in på Microsoft 365, Azure eller Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
-- [Anslutningsproblem i inloggning efter uppdatering av Office 2016 build 16.0.7967 på Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
-- ["Tyvärr, ett annat konto från din organisation är redan inloggad på den här datorn" i Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
-- [Felsöka inloggningsproblem med Office-modern autentisering när du använder ADFS](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-issue-with-modern-auth)
+**Anm.:** Det **rekommenderas inte**att inaktivera modern autentisering (ADAL) eller WAM (Web Account Management) för att åtgärda inloggnings- eller aktiveringsproblem. Om felen uppstår när du ansluter till Microsoft 365 med Office 2013 kontrollerar du att du [aktiverar modern autentisering](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) för Office-klienten.
+
+Specifika felsökningsåtgärder finns i:
+
+[Anslutningsproblem vid inloggning efter uppdatering av Office 2016 build 16.0.7967 på Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
+
+[Du kan inte logga in på ditt organisationskonto som Office 365, Azure eller Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+
+[Felsöka appar som inte är webbläsare som inte kan logga in på Office 365, Azure eller Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
+
+[Upprepade gånger uppmanas för autentiseringsuppgifter i Office](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)
