@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766007"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508682"
 ---
 # <a name="install-visio"></a>Installera Visio
 
@@ -25,7 +25,7 @@ Visio säljs som ett fristående program så om du inte har det ännu, [Köp ell
 
 **Visio**Online Plan 1 innehåller inte en skrivbordsversion av Visio, så ingen installation är möjlig.
 
-Om du har en prenumeration på Visio Online Plan 2 måste du [tilldela en licens](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) till en användare eller så har de inte möjlighet att installera Visio från Mina **installationer** i [portalen Mitt konto](https://portal.office.com/account#installs). 
+Om du har en prenumeration på Visio Online Plan 2 måste du [tilldela en licens](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) till en användare eller så har de inte möjlighet att installera Visio från Mina **installationer** i [portalen Mitt konto](https://portal.office.com/account#installs). 
 
 Licensversioner som inte är volym av Visio Standard eller Visio Professional är associerade med Microsoft-konton och kan inte hanteras i administrationscentret. Om du vill installera dessa versioner måste användare logga in [på account.microsoft.com](https://account.microsoft.com) med Det Microsoft-konto som är kopplat till den här versionen av Visio.
 

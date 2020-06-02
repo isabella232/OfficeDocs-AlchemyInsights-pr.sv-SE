@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eee6e4a4494e259050f40173d66c2747b68a1608
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064103"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509114"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Så här återaktiverar och hanterar du återkommande fakturering
 
@@ -32,18 +32,18 @@ Ser ut som du har en prenumeration som har upphört att gälla. Om du vill åter
 
 3. Bekräfta din betalningsinformation. Du kan uppdatera den befintliga betalningsinformationen här. När du är klar med betalningsmetoden väljer du **Återaktivera**.
 
-Mer information finns i [Återaktivera prenumerationen](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Mer information finns i [Återaktivera prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription). 
 
 Om du vill hantera månads- eller årsfakturering kan du aktivera eller inaktivera **Återkommande fakturering.**
   
 1. Gå till sidan **Billing** \> **[Faktureringsprodukter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrationscentret.
 
-2. Välj prenumerationen som du vill hantera den återkommande fakturan för.
+2. Välj den prenumeration du vill hantera återkommande fakturering för.
 
-3. Välj **Billing** **redigera** **bredvid Förnyar på** eller **Förfalla på**.
+3. Under **Fakturering** bredvid **Förnyas den** eller **Gäller till** väljer du **Redigera**. 
 
-4. Välj **Inaktivera** i fönstret **Återkommande faktureringsinställningar** om du vill inaktivera den. Om återkommande fakturering redan är inaktiverad väljer du **Månadsvis** eller **En gång** för att aktivera den.
+4. I fönstret **Inställningar för återkommande debitering** väljer du **Inaktivera** om du vill inaktivera alternativet. Om du redan har stängt av återkommande fakturering väljer du **Varje Månad** eller **En gång** för att aktivera funktionen.
 
 5. Välj **Skicka ändring**.
 
-Mer information finns i [Inaktivera och aktivera återkommande fakturor](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Mer information finns i [Inaktivera och aktivera återkommande fakturor](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

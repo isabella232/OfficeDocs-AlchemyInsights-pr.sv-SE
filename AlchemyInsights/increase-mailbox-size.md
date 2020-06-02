@@ -12,12 +12,12 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: d1c7e79b0ba00db87ac0fc3cecd54a6b12721325
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064247"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508754"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Växla prenumerationer för att öka postlådans storlek
 
@@ -35,6 +35,6 @@ Om postlådans storlek är 50 GB kan du öka den till 100 GB genom att byta till
 
 5. Ange antalet licenser som du behöver, välj om du vill betala varje månad eller för hela året och välj sedan **Kassan**.
 
-Mer information finns i [uppgradera till en annan plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+Mer information finns i [uppgradera till en annan plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 
-Om du har en prenumeration som stöder ett arkiv på plats kan du också få ytterligare [e-postlagring](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)genom att aktivera en arkivpostlåda. En arkivpostlåda ger dig ytterligare lagringsutrymme och låter dig flytta, kopiera och söka efter meddelanden i både den primära postlådan och arkivpostlådan. Steg om hur du aktiverar en arkivpostlåda finns i [Aktivera en arkivpostlåda](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Om du har en prenumeration som stöder ett arkiv på plats kan du också få ytterligare [e-postlagring](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)genom att aktivera en arkivpostlåda. En arkivpostlåda ger dig ytterligare lagringsutrymme och låter dig flytta, kopiera och söka efter meddelanden i både den primära postlådan och arkivpostlådan. Steg om hur du aktiverar en arkivpostlåda finns i [Aktivera en arkivpostlåda](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes).
