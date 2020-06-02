@@ -15,22 +15,22 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: c11537636e276fe9997566bcd0f799bb3ee57282
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6cd6d3c36b8c9c50b5ea98aafa2145c502960f89
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767591"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512500"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Konfigurera e-post i Mobilappen i Outlook
 
-1. Välj **Kom igång** om det är första gången du konfigurerar e-post i mobilappen. Annars trycker du på **Meny** och sedan **på Inställningar** \> **Lägg till konto** \> **Lägg till e-postkonto**.
+1. Välj **Kom igång** om det är första gången du konfigurerar e-post i mobilappen. Annars trycker du på **Meny** och sedan **på Inställningar** Lägg \> **till konto** Lägg till \> **e-postkonto**.
 
 2. Ange din fullständiga e-postadress och tryck på **Fortsätt** eller **Lägg till konto**.
 
 3. Ange lösenordet för ditt e-postkonto och tryck **på Logga in** eller **Nästa**.
 
-4. Om [multifaktorautentisering](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) är aktiverat kontrollerar du med den metod du ställer in (6-siffrig kod, telefonsamtal eller Microsoft Authenticator-app).
+4. Om [multifaktorautentisering](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) är aktiverat kontrollerar du med den metod du ställer in (6-siffrig kod, telefonsamtal eller Microsoft Authenticator-app).
 
 5. Om det finns ytterligare principer för IT-administratör trycker du på **Aktivera** för att aktivera dem.
 

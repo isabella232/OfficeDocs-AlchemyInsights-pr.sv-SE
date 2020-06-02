@@ -1,5 +1,5 @@
 ---
-title: Anslutningsproblem för SharePoint Designer
+title: Anslutningsproblem med SharePoint Designer
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,35 +10,35 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 9730bd66afd494385db3de605f5fe68d0f274ed3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 01ccc6bc28148f397fb6cd2b7a0eaaeb5b51973f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051731"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511562"
 ---
-# <a name="sharepoint-designer-connection-issues"></a>Anslutningsproblem för SharePoint Designer 
+# <a name="sharepoint-designer-connection-issues"></a>Anslutningsproblem med SharePoint Designer 
 
-Om SharePoint Designer har anslutningsproblem till SharePoint-webbplatser kan du prova följande gemensamma lösningar.
+Om Det finns anslutningsproblem med SharePoint Designer på SharePoint-webbplatser kan du prova följande vanliga lösningar.
 
-Steg 1: Kontrollera att SharePoint Designer 2013 har uppdaterats med [SharePoint Designer Service Pack 1](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) och den [2 augusti 2016 uppdatering för SharePoint Designer 2013](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721).
+Steg 1: Kontrollera att SharePoint Designer 2013 har uppdaterats med [SharePoint Designer Service Pack 1](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) och [den 2 augusti 2016-uppdateringen för SharePoint Designer 2013](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721).
 
 
 
-Steg 2: rensa de lokala cachefilerna:
+Steg 2: Rensa de lokala cachefilerna:
 
 1. Stäng SharePoint Designer 2013.
 
-2. Ta bort alla filer som finns i följande mappar på den lokala datorn.
+2. På den lokala datorn tar du bort alla filer som finns i var och en av följande mappar.
 
-    - %APPDATA%\Microsoft\Web Server Extensions\Cache
+    - %APPDATA%\Microsoft\Webbservertillägg\Cache
     - %APPDATA%\Microsoft\SharePoint Designer\ProxyAssemblyCache
-    - %USERPROFILE%\AppData\Local\Microsoft\WebsiteCache
+    - %USERPROFILE%\AppData\Lokal\Microsoft\WebbplatsCache
 
 3. Öppna SharePoint Designer 2013 och ange kontot igen för att se om det fungerar.
 
-Steg 3: [Aktivera modern autentisering för Office 2013 på Windows-enheter](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide).
+Steg 3: [Aktivera modern autentisering för Office 2013 på Windows-enheter](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication).
 
-Steg 4: administratörer måste **tillåta anpassade skript** i SharePoint Admin Center-inställningar för att tillåta SharePoint Designer-anslutningen. Mer information finns i [Tillåt eller förhindra anpassat skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) .
+Steg 4: Administratörer måste **tillåta anpassade skript** i SharePoint Admin Center-inställningarna för att tillåta SharePoint Designer-anslutningen. Mer information finns i [Tillåt eller förhindra anpassat skript.](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
 

@@ -13,12 +13,12 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 083e5298aba0ddd3b5d87cf482fdd949a2ee34da
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: b0e845a3426ec3b8594cb82730fe559d08126e0c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063275"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511490"
 ---
 # <a name="subscription-recurring-billing"></a>Återkommande fakturering för prenumeration
 
@@ -28,6 +28,6 @@ Om du vill veta när din månads- eller årsprenumeration faktureras (om **åter
 
 2. Den prenumeration som du vill veta mer om under **Fakturering**finns i **Förnyar på** eller **Förfaller på** datum.
 
-4. Om du vill göra en ändring väljer du **redigera** och väljer sedan **Inaktivera** i fönstret **Återkommande faktureringsinställningar.** Om återkommande fakturering redan är inaktiverad väljer du **Månadsvis** eller **En gång** för att aktivera den.
+4. Om du vill göra en ändring väljer du **redigera** och väljer sedan **Inaktivera** i fönstret **Återkommande faktureringsinställningar.** Om du redan har stängt av återkommande fakturering väljer du **Varje Månad** eller **En gång** för att aktivera funktionen.
 
-Mer information finns i [Inaktivera och aktivera återkommande fakturor](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Mer information finns i [Inaktivera och aktivera återkommande fakturor](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).

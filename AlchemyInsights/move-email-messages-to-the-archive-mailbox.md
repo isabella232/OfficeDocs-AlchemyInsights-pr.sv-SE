@@ -12,18 +12,18 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: a5ad81e97df0ed5c337a622126173df94af80bb8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 35c11f1bfb7c61b28a64f0128c29ddf7b4fce939
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713664"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511058"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>Flytta e-post till arkivpostlådan
 
-1. Bekräfta att en **arkivpostlåda** har aktiverats. Om inte, gör du så här i den [här artikeln](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) för att aktivera arkivpostlådan.
+1. Bekräfta att en **arkivpostlåda** har aktiverats. Om inte, gör du så här i den [här artikeln](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) för att aktivera arkivpostlådan.
 
-2. Om du vill arkivera meddelanden automatiskt till arkivpostlådan måste en kvarhållningstagg med åtgärden **Flytta till arkiv** ställas in på att automatiskt tillämpas på hela **postlådetaggen (standard).** Använd stegen här för att skapa taggen: [Arkiv standardtagg](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
+2. Om du vill arkivera meddelanden automatiskt till arkivpostlådan måste en kvarhållningstagg med åtgärden **Flytta till arkiv** ställas in på att automatiskt tillämpas på hela **postlådetaggen (standard).** Använd stegen här för att skapa taggen: [Arkiv standardtagg](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
 
 3. Lägg sedan till **arkivtaggen** i bevarandeprincipen. I administrationscentret för Exchange väljer du **Bevarandeprinciper** > lägga **till taggen Flytta i arkiv** i principen > **Spara**.
 
@@ -33,5 +33,5 @@ Det kan vara nödvändigt att tvinga MFA (Managed Folder Assistant) att köra oc
   
 Start-ManagedFolderAssistant -Identitet<name of the mailbox>
 
-Mer information om hur du konfigurerar en arkivprincip finns i [Konfigurera en arkiv- och borttagningsprincip för postlådor](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
+Mer information om hur du konfigurerar en arkivprincip finns i [Konfigurera en arkiv- och borttagningsprincip för postlådor](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
   

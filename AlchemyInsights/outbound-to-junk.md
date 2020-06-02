@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 2350586e95f316061ff855d152e86db0547eb209
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 869cd3d9fb8e5fce291244e4a39754d074b11358
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761186"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511742"
 ---
 # <a name="outbound-email-to-junk-email-folder"></a>Utgående e-post till mappen Skräppost
 
 Om utgående meddelanden visas som skräppost gör du följande:
 
-- Om du inte redan har gjort det kan du [konfigurera meddelanden om utgående skräppost.](https://docs.microsoft.com/office365/securitycompliance/configure-the-outbound-spam-policy)
+- Om du inte redan har gjort det kan du [konfigurera meddelanden om utgående skräppost.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy)
 
-- Använd [meddelandespårning](https://docs.microsoft.com/office365/securitycompliance/message-trace-scc) för att se om det utgående meddelandet har händelsevärdet **Skräppost** med ytterligare information: **Använd högriskleveranspool**.
+- Använd [meddelandespårning](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) för att se om det utgående meddelandet har händelsevärdet **Skräppost** med ytterligare information: **Använd högriskleveranspool**.
 
   För dessa meddelanden, kontrollera meddelandeinnehållet för att se vad som kan betraktas som skräppost. Signaturer kan till exempel ibland orsaka problem för många användare.
 

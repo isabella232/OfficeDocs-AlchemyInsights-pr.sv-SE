@@ -13,12 +13,12 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759602"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512572"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Felsöka fel i innehållssökning
 
@@ -34,4 +34,4 @@ Får du till exempel följande när du kör sökningar?
 
 Eller när du söker eller exporterar resultat från ett stort antal postlådor (över 100 000 postlådor), får du exportfel?
 
-För den här typen av fel försöker du söka efter de innehållsplatser som har misslyckats. Se [den här artikeln](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) för mer information.
+För den här typen av fel försöker du söka efter de innehållsplatser som har misslyckats. Se [den här artikeln](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) för mer information.
