@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 76e14abce4e493cec4869279ff9a8d2ce4debf0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911849"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510194"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Så här utför du innehållssökningar och eDiscovery-sökningar
 
@@ -32,6 +32,6 @@ Använd verktyget Innehållssökning i Security & Compliance Center för att sna
 4. Ange de sökvillkor som krävs, inklusive nyckelord och innehållsplatser.  
 5. Klicka på **Spara & kör** för att namnge sökningen, starta den och förhandsgranska sedan resultaten.
 
-Detaljerade instruktioner om innehållssökningar, exportera resultat och skapa eDiscovery-ärenden för att lagra data finns i [ärenden om innehållssökning](https://docs.microsoft.com/office365/securitycompliance/content-search) och [eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Detaljerade instruktioner om innehållssökningar, exportera resultat och skapa eDiscovery-ärenden för att lagra data finns i [ärenden om innehållssökning](https://docs.microsoft.com/microsoft-365/compliance/content-search) och [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 
-Förstå mer om Innehållssökning genom att granska [krav och gränser](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) och undersöka delvis [indexerade objekt](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) och andra resultat att vara medveten om.
+Förstå mer om Innehållssökning genom att granska [krav och gränser](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) och undersöka delvis [indexerade objekt](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) och andra resultat att vara medveten om.

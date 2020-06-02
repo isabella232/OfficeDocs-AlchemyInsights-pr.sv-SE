@@ -1,5 +1,5 @@
 ---
-title: Aktiveringsproblem-kontot tillåter inte redigering på datorn
+title: Aktiveringsproblem - Kontot tillåter inte redigering på Mac
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: 6fb0783b8fefabc004c42d24e4ba6e750f986d52
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: d9ce4e7061ed01a5c1309367504e1a532f8f72e8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628152"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510122"
 ---
-# <a name="fixing-the-office-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Fastställande av Office Apps "ditt konto tillåter inte redigering på en Mac"-meddelande
+# <a name="fixing-the-office-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Åtgärda meddelandet "Ditt konto tillåter inte redigering på en Mac"-meddelande
 
-Om det här meddelandet visas provar du följande:
+Om du får det här meddelandet kan du prova följande:
 
-- Kontrollera att du har en prenumeration som tillåter klientlicenser och [Se till att användaren har en tilldelad licens](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). 
-- Hämta och kör [licens borttagningsverktyget](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193).
-- Återställa dina autentiseringsuppgifter. Se [kan inte aktivera Office efter installationen](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#bkmk_cantactivate).
+- Kontrollera att du har en prenumeration som tillåter klientlicenser och att [användaren har en licens tilldelad](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
+- Ladda ned och kör [licensborttagningsverktyget](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193).
+- Återställ dina autentiseringsuppgifter. Se [Det går inte att aktivera Office efter installation](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#bkmk_cantactivate).
 - Starta om och logga in på Office med ditt konto.
 
 Mer information finns i:
 - [Aktivera Office för Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
-- [Så här testar du om du inte kan installera eller aktivera Office för Mac](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#picktab=activation)
-- [Outlook 2016 för Mac upprepade gånger frågar efter autentisering](https://docs.microsoft.com/outlook/troubleshoot/sign-in/repeated-prompts-authentication)
+- [Så här gör du om det inte går att installera eller aktivera Office för Mac](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#picktab=activation)
+- [Outlook 2016 för Mac uppmanar dig upprepade gånger att autentisera](https://docs.microsoft.com/outlook/troubleshoot/sign-in/repeated-prompts-authentication)

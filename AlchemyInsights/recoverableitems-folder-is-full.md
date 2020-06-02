@@ -12,12 +12,12 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: fb10b792981040bdcf4661b8aff30733c2438212
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4f0cba480fcc05114abd8f370b84e9a37e5f2804
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720270"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510770"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Mappen Återställningsbara objekt är full
 
@@ -33,12 +33,12 @@ När mappen Återställningsbara objekt når lagringsgränsen påverkas postlåd
 
 - För postlådor som har loggning av postlådegranskning aktiverat kan inga loggposter för postlådagranskning sparas i undermappen Granskningar i mappen Återställningsbara objekt.
 
-För postlådor som inte är spärrade kan `Search-Mailbox -SearchDumpsterOnly -DeleteContent` administratörer använda kommandot i Exchange Online PowerShell för att ta bort objekt i mappen Återställningsbara objekt. Mer information finns i följande avsnitt:
+För postlådor som inte är spärrade kan administratörer använda `Search-Mailbox -SearchDumpsterOnly -DeleteContent` kommandot i Exchange Online PowerShell för att ta bort objekt i mappen Återställningsbara objekt. Mer information finns i följande avsnitt:
 
-- [Söka efter och ta bort meddelanden](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
+- [Söka efter och ta bort meddelanden](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messagesadmin-help)
 
 - [Sök-brevlåda](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-För postlådor som är spärrade måste administratörer ta bort spärren innan de kan ta bort objekt från mappen Återställningsbara objekt. Mer information finns [i Ta bort objekt i mappen Återställningsbara objekt för molnbaserade postlådor som är spärrade](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+För postlådor som är spärrade måste administratörer ta bort spärren innan de kan ta bort objekt från mappen Återställningsbara objekt. Mer information finns [i Ta bort objekt i mappen Återställningsbara objekt för molnbaserade postlådor som är spärrade](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
 
-För att förhindra att mappen Återställningsbara objekt blir fullständig kan administratörer öka lagringsgränsen för mappen Återställningsbara objekt för spärrade postlådor och ställa in en bevarandeprincip för postlådan som flyttar objekt från mappen Återställningsbara objekt till användarens arkivpostlåda. Se [Öka kvoten För återställningsbara objekt för spärrade postlådor](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
+För att förhindra att mappen Återställningsbara objekt blir fullständig kan administratörer öka lagringsgränsen för mappen Återställningsbara objekt för spärrade postlådor och ställa in en bevarandeprincip för postlådan som flyttar objekt från mappen Återställningsbara objekt till användarens arkivpostlåda. Se [Öka kvoten För återställningsbara objekt för spärrade postlådor](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold).

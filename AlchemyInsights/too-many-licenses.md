@@ -13,12 +13,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 3ba7f9a7e18951454cfea3d65915b4862d697753
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0dd3817c829252571ea8ad8354a451a0bb43deb6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063995"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510482"
 ---
 # <a name="too-many-licenses"></a>För många licenser?
 
@@ -32,4 +32,4 @@ Om du tror att du faktureras för för många licenser, detta beror oftast på a
 
 3. I rutan **Totalt antal licenser** anger du det totala antalet licenser som du behöver för den här prenumerationen och väljer sedan Skicka **ändring**. Om du till exempel har 110 licenser och vill ta bort 5 av dem skriver du 105.
 
-Mer information finns i [Ta bort licenser från din Microsoft 365 för företag-prenumeration](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Mer information finns i [Ta bort licenser från din Microsoft 365 för företag-prenumeration](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
