@@ -12,24 +12,24 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: 46da02a7a2ae1be92698f376be404a76bd4f23e6
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 3bdd3fc028e0cd3cd6ec5692e11c303dcd7ace6b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265106"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44496293"
 ---
 # <a name="allow-external-communications-with-skype-for-business"></a>Tillåt extern kommunikation med Skype för företag 
 
-Vill du tillåta att skype för företag-användare kontaktar användare utanför organisationen? Se [Tillåt användare att kontakta externa Skype för företag-användare](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
+Vill du tillåta dina Skype för företag-användare att kontakta användare utanför organisationen? Se [Tillåt användare att kontakta externa Skype för företag-användare](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
 
-DNS-posterna måste ställas in korrekt för att extern kommunikation ska fungera korrekt. Kolla [här](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) för att se om vi har specifika instruktioner om hur du ställer in DNS-poster med din leverantör. 
+DNS-posterna måste vara korrekt konfigurerade för att extern kommunikation ska fungera korrekt. Kolla [här](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) för att se om vi har specifika instruktioner om hur du ställer in DNS-poster med din leverantör. 
 
-Vill du bara göra det möjligt för skype för företag-användare att kontakta Skype-konsumentanvändare? Se:
+Vill du bara aktivera dina Skype för företag-användare för att kontakta Skype-konsumentanvändare? Mer information:
 
 - [Låt Skype för företag-användare lägga till Skype-kontakter](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
 
 - [Lägg till en kontakt i Skype för företag](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).
 
 
-Om du vill att dina teams-användare ska kunna kontakta användare utanför organisationen (inklusive Skype för företag-användare) läser du [Hantera extern åtkomst i Microsoft Teams](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people). 
+Om du vill att Teams-användarna ska kunna kontakta användare utanför organisationen (inklusive Skype för företag-användare) läser du [Hantera extern åtkomst i Microsoft Teams](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people). 

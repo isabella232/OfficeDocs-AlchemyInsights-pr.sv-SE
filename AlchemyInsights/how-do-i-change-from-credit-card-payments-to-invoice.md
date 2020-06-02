@@ -13,17 +13,17 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 5d118036398d8d9f9a56e8a96e44d81ceccf6573
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: 9b9008dca74e6aa8e6a05010361359a078dbd590
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44225214"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44498953"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hur byter jag från kreditkortsbetalningar till faktura?
 
 > [!NOTE]
-> Alternativet att betala med faktura är endast tillgängligt om din prenumeration kostar över ett visst belopp (som varierar beroende på serviceplats). En kreditkontroll kan behövas för större fakturabetalningar. Mer information finns i [Betala för din prenumeration](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
+> Alternativet att betala med faktura är endast tillgängligt om din prenumeration kostar över ett visst belopp (som varierar beroende på serviceplats). En kreditkontroll kan behövas för större fakturabetalningar. Mer information finns i [Betala för din prenumeration](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
 
 1. Gå till sidan **Billing**  >  [Faktureringsprodukter](https://go.microsoft.com/fwlink/p/?linkid=842054) i administrationscentret.
 

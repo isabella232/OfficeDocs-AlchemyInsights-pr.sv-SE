@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
-ms.openlocfilehash: c68fc2381432a9681ed60dac4e8c8fde3c303b8c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0d7bc37cd2b418883142c760ad2bfdb504c1c679
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710209"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44499061"
 ---
 # <a name="having-issues-getting-outlook-to-connect"></a>Har du problem med att få Outlook att ansluta?
 
@@ -21,6 +21,6 @@ Vi har upptäckt att Outlook inte är konfigurerat för att fungera korrekt unde
   
 {HealthCheckString}
   
-NS- eller CNAME-posterna för domäninställningarna (DNS) är inte korrekt inställda. Du kan referera till [Skapa DNS-poster hos alla DNS-värdleverantörer](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) för detaljerade instruktioner. 
+NS- eller CNAME-posterna för domäninställningarna (DNS) är inte korrekt inställda. Detaljerade instruktioner finns i [Skapa DNS-poster på valfri DNS-värd](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider). 
   
 Du kan lösa problemet genom att gå till sidan [Domäner](https://admin.microsoft.com/adminportal/home#/Domains) i administrationscentret för Microsoft 365, så hjälper vi dig. 
