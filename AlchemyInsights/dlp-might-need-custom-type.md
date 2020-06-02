@@ -13,12 +13,12 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: b83bb77383e2ae7e78c31f35c972182c54487c60
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1ec8959a479f1a8f7bfcffb55f440e8c4ab435fb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704507"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507532"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP kan behöva en anpassad typ
 
@@ -32,12 +32,12 @@ Din organisation kan till exempel behöva identifiera och skydda medarbetar-ID:e
   
  **Anpassa en inbyggd känslig informationstyp**
   
-Om en inbyggd känslig informationstyp skulle uppfylla dina behov med bara några justeringar, kan du [anpassa en inbyggd känslig informationstyp](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Du kan till exempel lägga till eller ta bort nyckelord eller lägga till eller ta bort stödbevis, till exempel ett datum eller en adress.
+Om en inbyggd känslig informationstyp skulle uppfylla dina behov med bara några justeringar, kan du [anpassa en inbyggd känslig informationstyp](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type). Du kan till exempel lägga till eller ta bort nyckelord eller lägga till eller ta bort stödbevis, till exempel ett datum eller en adress.
   
  **Skapa en anpassad känslig informationstyp**
   
-Men om du behöver identifiera och skydda en annan typ av känslig information helt och hållet kan du [skapa en anpassad känslig informationstyp](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) i användargränssnittet i Security & Compliance Center.
+Men om du behöver identifiera och skydda en annan typ av känslig information helt och hållet kan du [skapa en anpassad känslig informationstyp](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) i användargränssnittet i Security & Compliance Center.
   
 **Skapa en anpassad känslig informationstyp i Security & Compliance Center PowerShell**
 
-Om användargränssnittet inte innehåller alla alternativ du behöver kan du [slutligen skapa en anpassad känslig informationstyp i Security & Compliance Center PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Genom att börja med en XML-fil kan du använda alla tillgängliga alternativ.
+Om användargränssnittet inte innehåller alla alternativ du behöver kan du [slutligen skapa en anpassad känslig informationstyp i Security & Compliance Center PowerShell](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell). Genom att börja med en XML-fil kan du använda alla tillgängliga alternativ.

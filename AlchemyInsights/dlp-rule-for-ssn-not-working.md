@@ -12,12 +12,12 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: 5af843c2b70b5b2e1aaf82c9f01356546929d840
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 35859bce89ef1ae9b6a9e706fc316b0ee6cd27d1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788720"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507388"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>DLP-problem med personnummer
 
@@ -29,7 +29,7 @@ Har du problem med **att Data Loss Prevention (DLP)** inte arbetar för innehål
   
 För en SSN-princip som konfigurerats med en konfidensnivå på 85 % utvärderas följande och måste identifieras för att regeln ska utlösas:
   
-- **[Format:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-80)** 9 siffror, som kan vara i ett formaterat eller oformaterat mönster
+- **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 siffror, som kan vara i ett formaterat eller oformaterat mönster
 
 - **[Mönster:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Fyra funktioner letar efter SSN i fyra olika mönster:
 
@@ -41,15 +41,15 @@ För en SSN-princip som konfigurerats med en konfidensnivå på 85 % utvärderas
 
   - Func_randomized_unformatted_ssn hittar SSN efter 2011 som är oformaterade som nio på varandra följande siffror (dddddddddddd)
 
-- **[Kontrollsumma:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-79)** Nej, det finns ingen Kontrollsumma
+- **[Kontrollsumma:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** Nej, det finns ingen Kontrollsumma
 
-- **[Definition:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-80)** En DLP-princip är 85 % säker på att den har upptäckt den här typen av känslig information om, i närheten av 300 tecken:
+- **[Definition:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** En DLP-princip är 85 % säker på att den har upptäckt den här typen av känslig information om, i närheten av 300 tecken:
 
-  - [Funktionen Func_ssn](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80) hittar innehåll som matchar mönstret.
+  - [Funktionen Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) hittar innehåll som matchar mönstret.
 
-  - Ett nyckelord från [Keyword_ssn](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#keyword_ssn) hittas. Exempel på nyckelord är: *Social Security, Social Security #, Soc Sec , SSN* . Följande exempel skulle till exempel utlösa för DLP SSN-principen: **SSN: 489-36-8350**
+  - Ett nyckelord från [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) hittas. Exempel på nyckelord är: *Social Security, Social Security #, Soc Sec , SSN* . Följande exempel skulle till exempel utlösa för DLP SSN-principen: **SSN: 489-36-8350**
   
-Mer information om vad som krävs för att SSN ska identifieras för ditt innehåll finns i följande avsnitt i den här artikeln: [Vad de känsliga informationstyperna letar efter SSN-nätverk](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us-social-security-number-ssn)
+Mer information om vad som krävs för att SSN ska identifieras för ditt innehåll finns i följande avsnitt i den här artikeln: [Vad de känsliga informationstyperna letar efter SSN-nätverk](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
   
-Med hjälp av en annan inbyggd känslig informationstyp läser du följande artikel för information om vad som krävs för andra typer: [Vad de känsliga informationstyperna söker efter](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+Med hjälp av en annan inbyggd känslig informationstyp läser du följande artikel för information om vad som krävs för andra typer: [Vad de känsliga informationstyperna söker efter](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

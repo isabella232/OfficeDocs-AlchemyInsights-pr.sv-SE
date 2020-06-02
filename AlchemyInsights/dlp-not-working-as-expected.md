@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: efb4a19f345fe6b8a1e8bb72abeba4a923c05777
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e96904e2f0da2fe1fafb3f8722465eaf22681b71
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704431"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507496"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP fungerar inte som förväntat
 
@@ -36,18 +36,18 @@ När du använder de **inbyggda känsliga informationstyperna** i säkerhets- oc
   
 - **Inbyggda typer av känslig information**
 
-    Information om de inbyggda känsliga typerna och vad en DLP-princip söker efter när du identifierar typen Känslig finns i: [Vilka känsliga informationstyper som söker efter](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+    Information om de inbyggda känsliga typerna och vad en DLP-princip söker efter när du identifierar typen Känslig finns i: [Vilka känsliga informationstyper som söker efter](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 
 - **Anpassade typer av känslig information**
 
-    Om du försöker skapa anpassade typer av känslig information använder du följande artikel för information om hur du skapar en anpassad känslig typ: [Skapa en anpassad känslig informationstyp](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
+    Om du försöker skapa anpassade typer av känslig information använder du följande artikel för information om hur du skapar en anpassad känslig typ: [Skapa en anpassad känslig informationstyp](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type).
 
 **Testa en DLP-princip**
 
-Om du vill testa dina data med en inbyggd eller anpassad känslig informationstyp använder du alternativet **Testtyp** under Klassificeringar känsliga **informationstyper** > **Sensitive info types**. Mer information finns i [Testa anpassade typer av känslig information](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+Om du vill testa dina data med en inbyggd eller anpassad känslig informationstyp använder du alternativet **Testtyp** under Klassificeringar känsliga **Classifications**  >  **informationstyper**. Mer information finns i [Testa anpassade typer av känslig information](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
 
  **Rapporter**
   
-- Hämta känsliga datainsikter med [DLP-rapporter.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
+- Hämta känsliga datainsikter med [DLP-rapporter.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)
 
-- Se specifik information om händelsen med en [incidentrapport](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).
+- Se specifik information om händelsen med en [incidentrapport](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports).

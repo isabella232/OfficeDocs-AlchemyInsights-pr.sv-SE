@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: fe051cd1dac899dc9bb19d275c352ec6585b6a93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010272"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507604"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Distribuera Microsoft 365-appar för företag för delad användning på RDS, Terminal Server eller VDI
 
@@ -38,9 +38,9 @@ Så här åtgärdar du fel relaterade till aktivering av delade datorer:
 
 Om du vill installera Microsoft 365 Apps för företag på RDS från Microsoft 365 admin center, ***som använder standardinstallationsinställningar,*** gör du så här:
 
-1.    Kontrollera vilken prenumeration du har. [Läs mer](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have).
-2.    Om det behövs växlar du till en annan prenumeration. [Läs mer](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
-3.    Om Office redan är installerat på RDS-servern med andra Microsoft-prenumerationer avinstallerar du det. Till exempel genom att gå till **Kontrollpanelen** > **Avinstallera ett program**. Avinstallera med Hjälp av [Microsoft Support och Återställningsassistent](https://aka.ms/SARA-OfficeUninstall-Alchemy) om du har problem.
+1.    Kontrollera vilken prenumeration du har. [Läs mer](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
+2.    Om det behövs växlar du till en annan prenumeration. [Läs mer](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+3.    Om Office redan är installerat på RDS-servern med andra Microsoft-prenumerationer avinstallerar du det. Till exempel genom att gå till **Kontrollpanelen**  >  **Avinstallera ett program**. Avinstallera med Hjälp av [Microsoft Support och Återställningsassistent](https://aka.ms/SARA-OfficeUninstall-Alchemy) om du har problem.
 4.    Logga in på Microsoft 365-administrationscentret med administratörskontot på RDS-servern och [installera Microsoft 365 Apps för företag](https://portal.office.com/OLS/MySoftware.aspx).
 5.    När Office har ***installerats ska du inte öppna eller logga in på*** några Office-program.
 6.    Aktivera delad datoraktivering på RDS-servern genom att redigera registret genom att följa dessa steg:

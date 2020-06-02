@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788684"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507044"
 ---
 # <a name="enable-an-archive-mailbox"></a>Aktivera en arkivpostlåda
 
@@ -27,7 +27,7 @@ Så här skapar du en arkivpostlåda:
 
 2. Logga in på Microsoft 365 med ditt administratörskonto.
 
-3. Välj Arkiv för &amp; **informationsstyrning** \> i den vänstra rutan i Security Compliance Center **.**
+3. Välj Arkiv för &amp; **informationsstyrning** i den vänstra rutan i Security Compliance Center \> **Archive**.
 
 4. Markera den användare vars arkivpostlåda du vill aktivera.
 
@@ -43,7 +43,7 @@ Så här aktiverar du arkivet för en delad postlåda:
 
 1. Gå till [administrationscentret](https://outlook.office365.com/ecp) för Exchange och logga in med ditt administratörskonto.
 
-2. Gå till **Delade mottagare** > **.**
+2. Gå till **Delade mottagare**  >  **Shared**.
 
 3. Markera den delade postlådan.
 
@@ -51,6 +51,6 @@ Så här aktiverar du arkivet för en delad postlåda:
 
 Mer information finns i:
   
-- [Aktivera arkivpostlådor](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Aktivera arkivpostlådor](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [Konfigurera en princip för arkiv och borttagning](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

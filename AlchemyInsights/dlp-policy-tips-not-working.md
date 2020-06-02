@@ -12,12 +12,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 7d31f6bcbd464b7428092b6fd6ff9f9582db2a8b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9369878b62a5abe79bd215487bea6cabb0e80f06
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704395"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507460"
 ---
 # <a name="dlp-policy-tip-issues"></a>Problem med DLP-principtips
 
@@ -29,11 +29,11 @@ När du använder **DLP-principer**kan användare meddelas om en policyöverträ
   
 Så här konfigurerar du principtips för DLP-principen i säkerhets- och efterlevnadscentret i fullständigt tvingande läge:
   
-- Kontrollera att principtips har **aktiverats** på DLP-regeln med hjälp av stegen [här](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- Kontrollera att principtips har **aktiverats** på DLP-regeln med hjälp av stegen [här](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
 
-- Se till att **ditt innehåll matchar** vad som **krävs** för att utlösa regeln som beskrivs i den här artikeln [här](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+- Se till att **ditt innehåll matchar** vad som **krävs** för att utlösa regeln som beskrivs i den här artikeln [här](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 
-- Principtips visas i både OWA och Outlook. När du använder **Outlook 2013 eller senare**visas dock principtips endast under vissa förhållanden. Dessa villkor visas här: [Villkor som stöds för Outlook 2013 eller senare för att visa principtips](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- Principtips visas i både OWA och Outlook. När du använder **Outlook 2013 eller senare**visas dock principtips endast under vissa förhållanden. Dessa villkor visas här: [Villkor som stöds för Outlook 2013 eller senare för att visa principtips](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-Mer information om DLP-principtips finns i: [Visa principtips för DLP-principer](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+Mer information om DLP-principtips finns i: [Visa principtips för DLP-principer](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
   

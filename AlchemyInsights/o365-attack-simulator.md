@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3dae4768ca62757ce7f92dfc527078c963d72742
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713484"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506756"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Attack Simulator i Microsoft 365
 
 - Saknar du Attack Simulator? Attack Simulator kräver **Office 365 Advanced Threat Protection Plan 2 (ATP Plan 2)** eller **Office 365 Enterprise E5**. Attack Simulator ingår **inte** i Office 365 Advanced Threat Protection Plan 1 (ATP Plan 1), Office 365 Enterprise E3 eller microsoft 365 Apps for business-prenumerationer.
 
-- Kontot som du använder för att starta simulerade attacker kräver globala administratörs- eller säkerhetsadministratörsbehörigheter och MFA (Multifaktorautentisering). Mer information om attacksimulatorkrav finns i [det här avsnittet](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin).
+- Kontot som du använder för att starta simulerade attacker kräver globala administratörs- eller säkerhetsadministratörsbehörigheter och MFA (Multifaktorautentisering). Mer information om attacksimulatorkrav finns i [det här avsnittet](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
 - Viktiga saker att veta om **Brute Force Password** attack simuleringar:
 
