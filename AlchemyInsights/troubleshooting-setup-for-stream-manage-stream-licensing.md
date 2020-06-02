@@ -1,5 +1,5 @@
 ---
-title: Felsökning av inställningar för Stream-hantera ström licensiering
+title: Felsökning av installationsprogrammet för stream – hantera strömlicensiering
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 9ec942641f04c1649aa3e6ba1e4485f4e4f95d4d
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 8477d8e474c6e15efdfd49313406e105e7b9f8d8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36742643"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505037"
 ---
 # <a name="managing-microsoft-stream-licenses"></a>Hantera Microsoft Stream-licenser
 
-**Viktigt:** Du måste vara i rollen innehavaradministration för att utföra åtgärder som beskrivs i det här avsnittet.
+**Viktigt:** Du måste vara med i rollen Klientadministratör för att utföra åtgärder som beskrivs i det här avsnittet.
 
-Du måste vara antingen global administratör eller administratör för användarhantering. Mer information finns i [om administratörsroller](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).
+Du måste vara antingen global administratör eller administratör för användarhantering. Mer information finns i [Om administratörsroller](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).
 
 Du kan tilldela [licenser till användarkonton med Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).
