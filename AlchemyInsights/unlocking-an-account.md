@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 3d32123f757a727e1f6ef04270152e276cf803fa
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
-ms.translationtype: HT
+ms.openlocfilehash: 11321789ee6bd7568fda0d530b9b60eb382c83b9
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799069"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508610"
 ---
 # <a name="unlocking-an-account"></a>Låsa upp ett konto
 
@@ -40,4 +40,4 @@ Om en av användarna är begränsad från att skicka e-post kan du [häva blocke
 
 Mer information om hur du återställer lösenord, inklusive självbetjäning för återställning av lösenord finns i [Återställa lösenord i Microsoft 365 för företag](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
 
-Tjänsten hindrar användaren från att skicka e-post när bevis för ett komprometterat konto och/eller utgående skräppost har upptäckts. Om det är komprometterat följer du anvisningarna i [Reagera på ett komprometterat e-postkonto i Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) för användaren.
+Tjänsten hindrar användaren från att skicka e-post när bevis för ett komprometterat konto och/eller utgående skräppost har upptäckts. Om det är komprometterat följer du anvisningarna i [Reagera på ett komprometterat e-postkonto i Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) för användaren.

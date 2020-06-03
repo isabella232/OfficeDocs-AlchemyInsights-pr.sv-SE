@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "5105"
-ms.openlocfilehash: c61963920f703c3c9e25291bdcb4e6e64b928060
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
-ms.translationtype: HT
+ms.openlocfilehash: db451e46b8b908c4497d459d963905f597cf57f2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991062"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512428"
 ---
 # <a name="project-license-management"></a>Project-licenshantering
 
@@ -27,6 +27,6 @@ Project-licenshanteringen kan slutföras i **administrationscentret för Microso
 - Om du vill **byta abonnemang** läser du [Byta Microsoft 365 för företag-abonnemang manuellt](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - Om du vill **tilldela** Project-licenser går du till **Fakturering > [Licenser](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Mer information finns i [Tilldela licenser](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Om du vill **lägga till/ta bort** licenser för Project går du till **Fakturering > [Köp tjänster](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Mer information finns i [Lägga till/ta bort licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Om du vill **avbryta** Project-licenser går du till **Fakturering > [Produkter och tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054),** väljer **Inställningar och åtgärder** och klickar på **Avbryt prenumeration**. Mer information finns i [Avbryta prenumerationen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Om du vill **avbryta** Project-licenser går du till **Fakturering > [Produkter och tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054),** väljer **Inställningar och åtgärder** och klickar på **Avbryt prenumeration**. Mer information finns i [Avbryta prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 Mer information finns i [Hantera prenumerationslicenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).

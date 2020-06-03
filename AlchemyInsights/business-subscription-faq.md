@@ -19,12 +19,12 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 886516f97ea15ca939cd535a0a34a58eaf78114e
-ms.sourcegitcommit: eadc530b967e5b83e70b59dd5f7dc612b9ac9629
-ms.translationtype: HT
+ms.openlocfilehash: 391ec22f692fd0264750ea3151fbc0da8f4269bd
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43813459"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506317"
 ---
 # <a name="business-subscription-faq"></a>Vanliga frågor och svar om Business-prenumeration
 
@@ -35,7 +35,7 @@ Vanliga frågor och svar om Business-prenumeration och licenshantering:
 - Om du vill **byta abonnemang** läser du [Byta Microsoft 365 för företag-abonnemang manuellt](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - När du vill **tilldela användare** licenser går du till **Fakturering > [Licenser](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Mer information finns i [Tilldela licenser](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Om du vill **lägga till/ta bort licenser** går du till **Fakturering > [Produkter och tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054)** och väljer **Lägg till/ta bort licenser**. Mer information finns i [Lägga till/ta bort licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Om du vill **avbryta** licenser går du till **Fakturering > [Produkter och tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054)**, väljer **Inställningar och åtgärder** och klickar på **Avbryt prenumeration**. Mer information finns i [Avbryta prenumerationen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Om du vill **avbryta** licenser går du till **Fakturering > [Produkter och tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054)**, väljer **Inställningar och åtgärder** och klickar på **Avbryt prenumeration**. Mer information finns i [Avbryta prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Om du vill **aktivera** en prenumeration läser du [Aktivera din prenumeration](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Om du vill **återaktivera en utgången** prenumeration läser du [Återaktivera prenumerationen](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
 - Om du vill **förlänga provperioden** läser du [Förlänga utvärderingen](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
