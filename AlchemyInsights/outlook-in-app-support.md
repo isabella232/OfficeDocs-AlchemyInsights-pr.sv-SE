@@ -3,7 +3,7 @@ title: Klienten styr stöd i appen för Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
+ms.date: 6/3/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "3441"
 - "9001442"
-ms.openlocfilehash: 646a65a4cb068b1c91c52c42d55fe09e62421f9d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3d723c11c24460291e9ced9dc87cf1258f1f41d9
+ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720450"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44542062"
 ---
-# <a name="your-tenant-is-piloting-in-app-support-for-outlook"></a>Din klient har pilotstöd i appen för Outlook
+# <a name="in-app-support-in-outlook-for-windows"></a>Stöd för program i Outlook för Windows
 
-Du kan vara berättigad att få support direkt i Outlook. Om du kör det senaste månadsversionsformuläret öppnar du Outlook och väljer **Hjälp** > **kontakta support**. Skriv din fråga så kontaktar du en medlem i Outlook-supportteamet.
-
-Om du är osäker på om du kör det senaste monthly channel-bygget läser [du Vilken version av Office jag använder?](https://support.office.com/article/932788B8-A3CE-44BF-BB09-E334518B8B19)
+Som klientadministratör kan du få support i appen för problem i Outlook för Windows. Välj Hjälp **Help**  >  **kontakta support**i Outlook . Ange din fråga så svarar en medlem i supportteamet för Outlook för Windows på meddelandet.
