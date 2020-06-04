@@ -14,15 +14,15 @@ ms.custom:
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
 ms.openlocfilehash: 7bd36c3954d12d3ee4ac624a2f827d8e5cd88082
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665778"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Uppdatera DNS-poster för att behålla din webbplats hos ditt nuvarande webbhotell
 
-1. Gå till sidan **installations** > [domäner](https://portal.office.com/adminportal/home#/Domains) i Microsoft 365 administratörscenter och välj den domän som du använder för din webbplats i listan över domäner.
+1. Gå till sidan **Setup**  >  [Installationsdomäner i administrationscentret](https://portal.office.com/adminportal/home#/Domains) för Microsoft 365 och välj den domän som du använder för webbplatsen i listan över domäner.
 
 2. Välj **+ Ny anpassad post** och ange följande:
 

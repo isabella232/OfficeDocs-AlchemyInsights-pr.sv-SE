@@ -1,5 +1,5 @@
 ---
-title: Problem att logga in på Microsoft Skype för företag
+title: Problem med att logga in på Microsoft Skype för företag
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.custom:
 - "4000004"
 ms.assetid: 028e76e7-9701-4450-9fc9-f40232e8e68e
 ms.openlocfilehash: afe4228d38bf93984be8dece3146c5ce072b6fdc
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36666642"
 ---
-# <a name="problems-signing-in-to-microsoft-skype-for-business"></a>Problem att logga in på Microsoft Skype för företag
+# <a name="problems-signing-in-to-microsoft-skype-for-business"></a>Problem med att logga in på Microsoft Skype för företag
 
-Hämta och använda [Support och återställning assistenten (SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn).
-Det här verktyget hjälper dig att diagnostisera och åtgärda ett antal kända problem med att logga in på Skype för företag automatiskt.
+Ladda ned och använd [Support- och återställningsassistenten (SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn).
+Det här verktyget kan hjälpa dig att automatiskt diagnostisera och åtgärda en rad kända problem relaterade till att logga in på Skype för företag.
