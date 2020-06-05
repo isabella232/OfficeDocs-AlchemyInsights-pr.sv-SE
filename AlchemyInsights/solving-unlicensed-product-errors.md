@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512030"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582757"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Förslag för att lösa fel i "Olicensierad produkt"
 
@@ -26,7 +26,7 @@ Försök med följande om du vill lösa fel i en olicensierad produkt:
 - Kontrollera att du har en prenumeration som tillåter klientlicenser, till exempel Microsoft 365 Apps for business eller Business Premium, och [se till att användaren har tilldelat en licens](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Kontrollera att användaren loggar in på Office med samma konto som har tilldelats licensen.
 - Kontrollera [hälsosidan för tjänsten](https://docs.microsoft.com/office365/enterprise/view-service-health) för att se om det finns några kända problem med tjänsten.
-- Kontrollera brandväggen, antivirusprogrammet och proxyinställningarna för att bekräfta att de inte blockerar Office-appars åtkomst till Internet. Se [webbadresser och IP-adressintervall](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Kontrollera brandväggen, antivirusprogrammet och proxyinställningarna för att bekräfta att de inte blockerar Microsoft 365-appars åtkomst till Internet. Se [webbadresser och IP-adressintervall](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Du kan också prova följande felsökningsåtgärder: 
 

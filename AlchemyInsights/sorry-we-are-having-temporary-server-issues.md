@@ -1,5 +1,5 @@
 ---
-title: Åtgärda Office-appar Tyvärr har vi ett meddelande om tillfälliga serverproblem
+title: Åtgärda Microsoft 365-appar Tyvärr har vi ett meddelande om tillfälliga serverproblem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: a1ac62f3587e318d563cfea1df8db23b720358a6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6db04a437de8e50af349b5c690791981ae872f14
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764135"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582721"
 ---
-# <a name="fixing-the-office-apps-sorry-we-are-having-temporary-server-issues-message"></a>Åtgärda meddelandet "Tyvärr, vi har tillfälliga serverproblem"
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Åtgärda meddelandet "Tyvärr, vi har tillfälliga serverproblem" visas meddelandet "Tyvärr, vi har tillfälliga serverproblem"
 
 Om du får det här meddelandet kan du prova följande:
 
-1. Kontrollera brandväggen, antivirusprogrammet och proxyinställningarna för att bekräfta att de inte blockerar Internetåtkomst till Office-appar. Se [webbadresser och IP-adressintervall](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Kontrollera brandväggen, antivirusprogrammet och proxyinställningarna för att bekräfta att de inte blockerar Internetåtkomst till Microsoft 365-appar. Se [webbadresser och IP-adressintervall](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Gå till > **Startkörning**och skriv sedan **services.msc**. **Start** Kontrollera att alla följande tjänster körs:
+2. Gå **Start**till  >  **Startkörning**och skriv sedan **services.msc**. Kontrollera att alla följande tjänster körs:
     - Automatisk installation av nätverksanslutna enheter
     - Tjänsten Nätverkslista
     - Medvetenhet om nätverksplats
