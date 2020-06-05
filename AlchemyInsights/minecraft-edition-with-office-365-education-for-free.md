@@ -12,12 +12,12 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: aa65e494dce09d4cb54fea29b5b37d6f54c4a089
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: a1420596c2859fe163e991a9db1fe88039b01f36
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762083"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579667"
 ---
 # <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition med Office 365 Education gratis
 
@@ -29,7 +29,7 @@ ms.locfileid: "43762083"
 
   - Om din skola inte har en Azure AD-klient [kan IT-administratören konfigurera en](https://docs.microsoft.com/education/windows/school-get-minecraft) som en del av processen att hämta **Minecraft: Education Edition**.
 
-  - Office 365 Education, som innehåller onlineversioner av Office-appar plus 1 TB onlinelagring, är gratis för lärare och elever. [Registrera din skola för Office 365 Education](https://products.office.com/academic/office-365-education-plan).
+  - Office 365 Education, som innehåller onlineversioner av Microsoft 365-appar plus 1 TB onlinelagring, är gratis för lärare och elever. [Registrera din skola för Office 365 Education](https://products.office.com/academic/office-365-education-plan).
 
   - Om din skola har en Office 365 Education-prenumeration innehåller den en kostnadsfri Azure AD-prenumeration. [Registrera din kostnadsfria Azure AD-prenumeration](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
 

@@ -1,5 +1,5 @@
 ---
-title: Problem att logga in på Office apps
+title: Problem med att logga in på Microsoft 365-appar
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2559"
-ms.openlocfilehash: 5f500ecf1f779fb1be4d257fd050a3ad054087dc
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 4e7612562d036f1c717817d3c883d6df80f86e2f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938360"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579883"
 ---
-# <a name="fixing-the-office-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Fastställande av meddelandet ”datorns betrodda Platform module inte fungerar som det ska” apps Office
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Åtgärda microsoft 365-apparna "Datorns modul för betrodd plattform fungerar inte som den ska"
 
-Försök med följande om du vill åtgärda det här felet:
+Lös problemet genom att prova med följande:
 
 - Installera de senaste uppdateringarna för [Windows](https://support.microsoft.com/help/4027667/windows-10-update) och [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
-- [Rensa Office autentiseringsuppgifter](https://docs.microsoft.com/eoffice/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) med hjälp av Windows Referenshanteraren.<br/>
-    **Observera:** Registersökvägar 2016 för Office har ändrats till 16,0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Försök åtgärda fel Trusted Platform Module (TPM) [användaren återställningsprocessen](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) .
-- Ange EnableADAL = 0 med hjälp av följande steg:  
-    1. Högerklicka på Start, Välj **Kör**, Skriv **regedit**och klicka sedan på **OK**.
-    2. Välj **Ja** så att Registereditorn för att göra ändringar i din enhet.
-    3. I Registereditorn kan du lägga till DWORD-värdet **EnableADAL** med en inställning på **0** under HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Identity.
+- [Rensa Office-autentiseringsuppgifter](https://docs.microsoft.com/eoffice/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) med Windows-autentiseringshanteraren.<br/>
+    **Anm.:** Registersökvägarna för Office 2016 har ändrats till 16.0. (T.ex. \Programvara\Microsoft\Office\16.0\Common\Identity\)
+- Prova [att återställa användaren för](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) att åtgärda TPM-fel (Trusted Platform Module).
+- Ställ in EnableADAL = 0 med hjälp av följande steg:  
+    1. Högerklicka på Start-knappen i Windows, välj **Kör**, skriv **regedit**och välj sedan **OK**.
+    2. Välj **Ja** om du vill att Registereditorn ska kunna göra ändringar på enheten.
+    3. I Registereditorn lägger du till ett DWORD-värde **för EnableADAL** med inställningen **0** under HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Identity.
 
-Mer information finns i [anslutning problem i logga in efter uppdatering till Office 2016 build 16.0.7967 på Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).
+Mer information finns [i Anslutningsproblem i inloggning efter uppdatering av Office 2016 build 16.0.7967 på Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).

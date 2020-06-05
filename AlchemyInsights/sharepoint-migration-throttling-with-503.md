@@ -2,7 +2,7 @@
 title: Resursmigreringsbegränsning med 503 fel
 ms.author: pebaum
 author: pebaum
-ms.date: 8/8/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: 05e816141a5b9cf484a647f8154110cd999ff6ef
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 3705be1e82fde6620fef3c4272f0294d58f11d38
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958700"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582901"
 ---
 # <a name="sharepoint-migration-throttling-with-503-errors"></a>Resursmigreringsbegränsning med 503 fel
 
-**Viktigt:** Under dessa exempellösa tider vidtar vi åtgärder för att se till att SharePoint Online- och OneDrive-tjänster förblir mycket tillgängliga – Besök [Tillfälliga funktionsjusteringar](https://aka.ms/ODSPAdjustments) för SharePoint Online för mer information.
+**Viktigt**: under denna extraordinära tid vidtar vi åtgärder för att se till att SharePoint Online- och OneDrive-tjänsterna har hög tillgänglighet. Mer information finns i [temporära funktionsjusteringar för SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 **503 fel vid migrering till SharePoint Online**
 
