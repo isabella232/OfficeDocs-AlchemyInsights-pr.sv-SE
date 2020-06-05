@@ -1,5 +1,5 @@
 ---
-title: Meddelande i Office-appar – Vi har stött på ett problem med din prenumeration
+title: Meddelande om Microsoft 365-appar – Vi har stött på problem med din prenumeration
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 6b370dd647bbe93c435b2c1853c16906c4c910f0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 23617d5ad336f3811022b007a78bb4bb7db74cf5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512464"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581573"
 ---
-# <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Meddelande i Office-appar – Vi har stött på ett problem med din prenumeration
+# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Meddelande om Microsoft 365-appar – Vi har stött på problem med din prenumeration
 
 - Om du har bytt till en annan prenumeration/abonnemang nyligen följer du stegen i [”Kontomeddelande” visas i Office när du byter abonnemang](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d) för att installera om eller uppdatera Office.
 
@@ -30,7 +30,7 @@ ms.locfileid: "44512464"
 
 - Kör [aktiveringsfelsökaren](https://aka.ms/SARA-OfficeActivation-Alchemy) och starta om datorn.
 
-- [Återställ aktiveringsstatusen för Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632) på datorn som påverkas.
+- [Återställ aktiveringsstatusen för Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state) på datorn som påverkas.
 
 Detaljerade anvisningar finns i: 
 

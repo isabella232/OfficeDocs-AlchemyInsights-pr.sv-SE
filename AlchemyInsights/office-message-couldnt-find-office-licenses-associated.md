@@ -1,5 +1,5 @@
 ---
-title: Office-programmeddelande – Det gick inte att hitta de associerade Office-licenserna
+title: Meddelande om Microsoft 365-appar – Det gick inte att hitta associerade Office-licenser
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505109"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581669"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Office-programmeddelande – Det gick inte att hitta de associerade Office-licenserna
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Meddelande om Microsoft 365-appar – Det gick inte att hitta associerade Office-licenser
 
 Lös problemet genom att prova med följande:
 
@@ -38,7 +38,7 @@ Om problemet kvarstår kan du försöka med följande:
 
 - Återställ Office-aktiveringsstatus. Se [Återställa Microsoft 365-appar för företagsaktiveringsstatus](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Kontrollera brandväggen, antivirusprogram och proxyinställningarna för att kontrollera att de inte blockerar Office-programmens åtkomst till Internet. 
+- Kontrollera brandväggen, antivirusprogrammet och proxyinställningarna för att bekräfta att de inte blockerar Microsoft 365-appars åtkomst till Internet. 
 
 Ytterligare lösningar för felsökning finns i:
 

@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b46bac60633ad9a006b9446919b8c99e221b07e4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716190"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581893"
 ---
-# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Åtgärda meddelandet "Vi kan inte ansluta just nu"
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Åtgärda meddelandet "Vi kan inte ansluta just nu" i meddelandet "Vi kan inte ansluta just nu"
 
 Om du får det här meddelandet kan du prova följande:
 
-1. Kontrollera brandväggen, antivirusprogrammet och proxyinställningarna för att bekräfta att de inte blockerar Internetåtkomst till Office-appar. Se [Microsofts url:er och IP-adressintervall](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Kontrollera brandväggen, antivirusprogrammet och proxyinställningarna för att bekräfta att de inte blockerar Internetåtkomst till Microsoft 365-appar. Se [Microsofts url:er och IP-adressintervall](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Gå till > **Startkörning**och skriv sedan **services.msc**. **Start** Kontrollera att alla följande tjänster körs:
+2. Gå **Start**till  >  **Startkörning**och skriv sedan **services.msc**. Kontrollera att alla följande tjänster körs:
     - Automatisk installation av nätverksanslutna enheter
     - Tjänsten Nätverkslista
     - Medvetenhet om nätverksplats

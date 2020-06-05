@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511670"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581033"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Känslighetsetiketter visas inte
 
 Med känslighetsetiketter kan du klassificera och skydda ditt känsliga innehåll. De kan skapas i Microsoft 365 compliance center, Microsoft 365 security center eller Microsoft 365 security & Compliance Center under Klassificering > känslighetsetiketter. Mer information om den här funktionen finns i [Översikt över känslighetsetiketter](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Om du har konfigurerat känslighetsetiketterna men inte visas i Office-programmen kontrollerar du följande:
+Om du har konfigurerat känslighetsetiketterna men inte visas i Microsoft 365-apparna kontrollerar du följande:
 
 - Bekräfta att känslighetsetiketten har [publicerats](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) för de användare och grupper som du vill använda.
 

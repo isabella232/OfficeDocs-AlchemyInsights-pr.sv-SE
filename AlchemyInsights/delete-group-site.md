@@ -14,14 +14,14 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: cc55e10d44624ddd56c10f57a1c5ba0964d6b1c2
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0d7a77f09eda3d8fb13f710763ac366557c82c4e
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505669"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580279"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-an-microsoft-365-group"></a>Ta bort en SharePoint-webbplats som tillhör en Microsoft 365-grupp
+# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Ta bort en SharePoint-webbplats som tillhör en Microsoft 365-grupp
 
 Om du tar bort en gruppansluten webbplats tas gruppen bort och alla dess resurser, inklusive Outlook-postlådan och kalendern, och alla Teams-kanaler.
   
