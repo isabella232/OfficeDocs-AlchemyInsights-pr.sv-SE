@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
-ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
+ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
+ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 06/09/2020
-ms.locfileid: "44618031"
+ms.locfileid: "44664264"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Fel: Reglerna på den här datorn matchar inte
 
@@ -28,3 +28,4 @@ Tills korrigeringen är tillgänglig kan du använda följande lösning:
 **Lösning**: I de senaste rapporterna har problemet uppstått för dem som bara har skapat klientregler i Outlook-skrivbordet. Om du fortsätter att stöta på problemet kan du överväga att ta bort reglerna och sedan skapa och redigera regler endast i OWA (Outlook Web App) tills problemet är löst.
 
 Om du inte kan ta bort reglerna manuellt kan du köra ett Outlook-kommando när du startar Outlook genom att köra Outlook.exe /cleanrules. Detta tar bort både klient- och serverregler. Alla regler för alla konton i Outlook-profilen tas bort. Det här kommandot dokumenteras ytterligare i artikeln Kommandoradsväxlar.
+
