@@ -12,15 +12,15 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
-ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.openlocfilehash: 74f8e9009dd314aab5ce45e9aeff3e3511e4e0c9
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44278838"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840939"
 ---
 # <a name="cannot-access-sharepoint"></a>Kommer inte åt SharePoint
 
-Det kan finnas flera orsaker till att Microsoft SharePoint eller Microsoft OneDrive blir otillgängliga. Följ följande guide för felsökning av ärendet om du inte når SharePoint Online.
+Det finns flera orsaker till att SharePoint eller OneDrive kan bli otillgängliga. Om du inte kan komma åt SharePoint eller OneDrive använder du följande guide för att felsöka problemet.
 
-- [Kommer inte åt SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
+- [Det går inte att komma åt SharePoint eller OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)

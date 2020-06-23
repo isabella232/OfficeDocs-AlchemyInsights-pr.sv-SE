@@ -1,5 +1,5 @@
 ---
-title: Information om publicering av 613-kalendern
+title: Information om publicering i 613 kalendrar
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 0fcb5552bc072cf3647e32e663ec7681212dc599
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0ed8826ec8b6d867f22abbc2cd33776e8db271ab
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506173"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840945"
 ---
-# <a name="calendar-publishing-information"></a>Information om kalenderpublicering
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a>Aktivera kalenderdelning med administrationscentret för Microsoft 365
 
-- Microsoft 365-administratörer kan aktivera eller inaktivera kalenderpublicering och kalenderdelning för en organisation. Mer information finns i [Aktivera kalenderpublicering så att andra kan dela information](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) och Dela [kalendrar med externa användare](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users).
+1. Gå till **Inställningar**   >   **organisationsinställningar**i administrationscentret .
+2. Välj **Kalender**på fliken **Tjänster** .
+3. På sidan **Kalender** som öppnas väljer du om du vill att användarna ska kunna dela sina kalendrar med personer utanför organisationen som har Microsoft 365 eller Exchange.
+4. Välj om du vill tillåta anonyma användare (användare utan inloggningsuppgifter) att komma åt kalendrar via en e-postinbjudan.
+5. Välj vilken typ av kalenderinformation som ska göras tillgänglig för användarna. Du kan bara tillåta all information eller begränsa den till tid eller tid, ämne och plats.
 
-- Outlook-användare kan dela sina egna kalendrar. Mer information finns i [Dela en Outlook-kalender med andra .](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+Mer information: [Dela kalendrar med externa användare](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)
