@@ -11,19 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 1759240afe18342bd5af205eb36d747803808134
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
-ms.translationtype: HT
+ms.openlocfilehash: 3d2cb4689a0281e0184f2a02ec153208a997e8f7
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43915260"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44841017"
 ---
-# <a name="set-up-a-microsoft-365-education-subscription"></a><span data-ttu-id="d94e6-102">Konfigurera en Microsoft 365 Education-prenumeration</span><span class="sxs-lookup"><span data-stu-id="d94e6-102">Set up a Microsoft 365 Education subscription</span></span>
+# <a name="set-up-a-microsoft-365-education-subscription"></a><span data-ttu-id="eb911-102">Konfigurera en Microsoft 365 Education-prenumeration</span><span class="sxs-lookup"><span data-stu-id="eb911-102">Set up a Microsoft 365 Education subscription</span></span>
 
-<span data-ttu-id="d94e6-103">Om du vill ha en guidad genomgång kan du titta på en [beskrivande ljudvideo](https://aka.ms/M365EduSetup) för hela konfigurationsprocessen för Education.</span><span class="sxs-lookup"><span data-stu-id="d94e6-103">For a guided walk-through, please watch a [descriptive audio video](https://aka.ms/M365EduSetup) of the entire Education set up process.</span></span>
+<span data-ttu-id="eb911-103">Om du vill ha en guidad genomgång kan du titta på en [beskrivande ljudvideo](https://aka.ms/M365EduSetup) för hela konfigurationsprocessen för Education.</span><span class="sxs-lookup"><span data-stu-id="eb911-103">For a guided walk-through, please watch a [descriptive audio video](https://aka.ms/M365EduSetup) of the entire Education set up process.</span></span>
 
-<span data-ttu-id="d94e6-104">**Mer bra resurser**</span><span class="sxs-lookup"><span data-stu-id="d94e6-104">**More great resources**</span></span>
+<span data-ttu-id="eb911-104">**Mer bra resurser**</span><span class="sxs-lookup"><span data-stu-id="eb911-104">**More great resources**</span></span>
 
-- <span data-ttu-id="d94e6-105">Mer information finns i [konfigurera en klient för Office 365 Education](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant) för en översikt.</span><span class="sxs-lookup"><span data-stu-id="d94e6-105">See [Set up an Office 365 Education tenant](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant) for an overview.</span></span>
-- <span data-ttu-id="d94e6-106">Se [kommer igång med Microsoft 365 Education](https://docs.microsoft.com/education/) för IT-administratörer, utvecklare och partners.</span><span class="sxs-lookup"><span data-stu-id="d94e6-106">See the [getting started with Microsoft 365 Education](https://docs.microsoft.com/education/) for IT Admins, Developers, and Partners.</span></span> 
-- <span data-ttu-id="d94e6-107">[Koppla ditt Microsoft Store-konto till Intune for Education](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/configure-microsoft-store-for-education).</span><span class="sxs-lookup"><span data-stu-id="d94e6-107">[Associate your Microsoft Store account with Intune for Education](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/configure-microsoft-store-for-education).</span></span> 
+- <span data-ttu-id="eb911-105">Mer om du vill ha en översikt finns i [Skapa ditt Office 365-klientkonto.](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant)</span><span class="sxs-lookup"><span data-stu-id="eb911-105">See [Create your Office 365 tenant account](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) for an overview.</span></span>
+- <span data-ttu-id="eb911-106">Se [komma igång med Microsoft 365 Education](https://docs.microsoft.com/education/) for IT-administratörer, utvecklare och partner.</span><span class="sxs-lookup"><span data-stu-id="eb911-106">See [getting started with Microsoft 365 Education](https://docs.microsoft.com/education/) for IT Admins, Developers, and Partners.</span></span>
