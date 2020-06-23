@@ -12,15 +12,15 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
-ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.openlocfilehash: 74f8e9009dd314aab5ce45e9aeff3e3511e4e0c9
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44278838"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840939"
 ---
-# <a name="cannot-access-sharepoint"></a><span data-ttu-id="bd154-102">Kommer inte åt SharePoint</span><span class="sxs-lookup"><span data-stu-id="bd154-102">Cannot access SharePoint</span></span>
+# <a name="cannot-access-sharepoint"></a><span data-ttu-id="99163-102">Kommer inte åt SharePoint</span><span class="sxs-lookup"><span data-stu-id="99163-102">Cannot access SharePoint</span></span>
 
-<span data-ttu-id="bd154-103">Det kan finnas flera orsaker till att Microsoft SharePoint eller Microsoft OneDrive blir otillgängliga.</span><span class="sxs-lookup"><span data-stu-id="bd154-103">There are several reasons why Microsoft SharePoint or Microsoft OneDrive might become inaccessible.</span></span> <span data-ttu-id="bd154-104">Följ följande guide för felsökning av ärendet om du inte når SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="bd154-104">If you can't access SharePoint Online, use the following guide to troubleshoot this issue.</span></span>
+<span data-ttu-id="99163-103">Det finns flera orsaker till att SharePoint eller OneDrive kan bli otillgängliga.</span><span class="sxs-lookup"><span data-stu-id="99163-103">There are several reasons why SharePoint or OneDrive might become inaccessible.</span></span> <span data-ttu-id="99163-104">Om du inte kan komma åt SharePoint eller OneDrive använder du följande guide för att felsöka problemet.</span><span class="sxs-lookup"><span data-stu-id="99163-104">If you can't access SharePoint or OneDrive, use the following guide to troubleshoot this issue.</span></span>
 
-- [<span data-ttu-id="bd154-105">Kommer inte åt SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="bd154-105">Unable to access SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
+- [<span data-ttu-id="99163-105">Det går inte att komma åt SharePoint eller OneDrive</span><span class="sxs-lookup"><span data-stu-id="99163-105">Unable to Access SharePoint or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
