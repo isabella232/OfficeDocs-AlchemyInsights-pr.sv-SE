@@ -2,7 +2,7 @@
 title: Felsöka lösenordssynkronisering
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,51 +13,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 54b5a033b7cbb99520425b31800364ed4a99a4e6
+ms.sourcegitcommit: 1d01b8b48eef2d5d10c375dcf802cd36e9d6bf61
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732528"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45387895"
 ---
 # <a name="troubleshoot-password-synchronization"></a>Felsöka lösenordssynkronisering
 
-Så här felsöker du problem där inga lösenord synkroniseras med Azure AD Connect version 1.1.614.0 eller senare:
-  
-1. Öppna en ny Windows PowerShell-session på Din Azure AD Connect-server med alternativet **Kör som administratör.**
+Om du vill felsöka problem med lösenordssynkronisering börjar du med den här felsökningsuppgiften för AAD Connect för att ta reda på varför lösenord inte synkroniseras. Börja med att gå till [Hantera direktsynkronisering](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
 
-2. Kör **Obegränsad set-executionPolicy-fjärrsignerad** eller **Ange körningspolicy.**
+1. Öppna en ny Windows PowerShell-session på din Azure AD Connect-server och välj alternativet **Kör som administratör.**
+
+2. Kör Set-ExecutionPolicy RemoteSigned eller Set-ExecutionPolicy Obegränsad.
 
 3. Starta Azure AD Connect-guiden.
 
-4. Navigera till sidan **Ytterligare uppgifter,** välj **Felsöka**och klicka på **Nästa**.
+4. Gå till sidan Ytterligare uppgifter > **felsöka**  >  **nästa**.
 
-5. På sidan Felsökning klickar du på **Starta för att starta felsökningsmenyn** i PowerShell.
+5. Välj **Starta** för att öppna felsökningsmenyn för PowerShell.
 
-6. Välj **Felsök lösenordssynkronisering**på huvudmenyn .
+6. Välj **Felsöka lösenordssynkronisering**.
 
-7. På undermenyn väljer du **Lösenordssynkronisering fungerar inte alls**.
+    Problemet är vanligtvis att ett lösenord inte synkroniseras för ett visst användarkonto.
 
-**Förstå resultatet av felsökningsuppgiften**
-  
-Felsökningsuppgiften utför följande kontroller:
-  
-- Verifierar att lösenordssynkroniseringsfunktionen är aktiverad för din Azure AD-klientorganisation.
+    **Anteckningar** Lösenordssynkronisering misslyckas om den senaste lyckades lösenordssynkroniseringen var för en tid sedan.
 
-- Verifierar att Azure AD Connect-servern inte är i mellanlagringsläge.
-
-- För varje befintlig lokal Active Directory-anslutning (som motsvarar en befintlig Active Directory-skog):
-
-- 
-  - Verifierar att lösenordssynkroniseringsfunktionen är aktiverad.
-
-  - Söker efter pulsslagshändelser för lösenordssynkronisering i windows-programhändelseloggarna.
-
-  - För varje Active Directory-domän under den lokala Active Directory-anslutningen:
-
-  - Verifierar att domänen kan nås från Azure AD Connect-servern.
-
-  - Verifierar att AD DS-konton (Active Directory Domain Services) som används av den lokala Active Directory-anslutningen har rätt användarnamn, lösenord och behörigheter som krävs för lösenordssynkronisering.
-
-Mer hjälp med felsökning av lösenordssynkronisering finns i [Felsöka lösenordssynkronisering med Azure AD Connect-synkronisering](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
-  
+Mer hjälp med felsökning av lösenordssynkronisering finns i [Felsöka synkronisering av lösenordshÃ¶kning med Azure AD Connect-synkronisering](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
