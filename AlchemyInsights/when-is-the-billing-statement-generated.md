@@ -2,8 +2,8 @@
 title: När genereras faktureringsutdraget?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,19 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 3e43df09e2a3419534fca1d595efc14dbdfdeae1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 59d122ab05a6c7bee347fad4c3b5e541380dd58d
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510410"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45431235"
 ---
 # <a name="when-is-the-billing-statement-generated"></a>När genereras faktureringsutdraget
 
-Varje månad får du ett e-postmeddelande som anger att ditt nya faktureringsutdrag är tillgängligt i microsoft 365-administrationscentret. Fakturan innehåller två sidor. Sida 1 är fakturasammanfattningen och innehåller allmän information om fakturan, order, belopp att betala, hur du gör en betalning och hur du kontaktar supporten. Sida 2 innehåller information om faktureringsaktiviteten för varje prenumeration.
+Ditt utdragsdatum är inställt på dagen i månaden efter att ditt konto skapades. Om du till exempel skapade ditt konto den 20 januari anges utdragsdatumet till den 21:a för varje efterföljande månad.
+
+Ytterligare avgifter som inträffar under en aktiv faktureringsperiod inkluderas i fakturan för följande månad. Start- och slutdatumen för faktureringscykeln för varje faktura visas i **fakturans faktureringssammanfattning.**
+
+Kreditkorts- och/eller bankkontobetalningar (i förekommande fall) avvecklas dagen efter **fakturadatumet.**
   
-Mer information om faktureringsbegrepp finns i [Förstå fakturan](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Mer information finns i [Förstå fakturan](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
