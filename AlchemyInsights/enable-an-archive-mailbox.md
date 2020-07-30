@@ -10,16 +10,18 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507044"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522753"
 ---
 # <a name="enable-an-archive-mailbox"></a>Aktivera en arkivpostlåda
 
-Arkivpostlådor i Microsoft 365 (även kallade *Online Archives* eller *In-Place Archives)* ger användarna ytterligare e-postlagring. Användare kan flytta eller kopiera objekt till arkivpostlådan och administratörer kan skapa en arkivprincip som automatiskt flyttar objekt till arkivpostlådor.
+Om du vill att vi ska köra automatiska kontroller för att säkerställa att en arkivpostlåda kan konfigureras, välj bakåtknappen < - högst upp på den här sidan och ange sedan kontots e-postadress.
+
+Arkivpostlådor i Microsoft 365 (även kallade *onlinearkiv* eller *arkiv på plats)* ger användarna ytterligare e-postlagring. Användare kan flytta eller kopiera objekt till arkivpostlådan och administratörer kan skapa en arkivprincip som automatiskt flyttar objekt till arkivpostlådor.
   
 Så här skapar du en arkivpostlåda:
   
@@ -27,7 +29,7 @@ Så här skapar du en arkivpostlåda:
 
 2. Logga in på Microsoft 365 med ditt administratörskonto.
 
-3. Välj Arkiv för &amp; **informationsstyrning** i den vänstra rutan i Security Compliance Center \> **Archive**.
+3. Välj Arkiv för informationsstyrning i den vänstra rutan i &amp; Säkerhetsefterlevnadscenter **Information governance** \> **Archive**.
 
 4. Markera den användare vars arkivpostlåda du vill aktivera.
 

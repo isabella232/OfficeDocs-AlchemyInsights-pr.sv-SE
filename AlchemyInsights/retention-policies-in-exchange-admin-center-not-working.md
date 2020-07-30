@@ -12,28 +12,30 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 3040365b9d686bcbcce60977ee9bdbbaffc70b24
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4d3ca121c8d22a0900f136f7f2a754dfb5b435f5
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502625"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522825"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Bevarandeprinciper i Administrationscenter för Exchange
+
+Om du vill att vi ska köra automatiska kontroller för de inställningar som nämns nedan, välj bakåtknappen < - högst upp på den här sidan och ange sedan e-postadressen till den användare som har problem med bevarandeprinciper.
 
  **Problem:** Nyligen skapade eller uppdaterade bevarandeprinciper i Administrationscenter för Exchange gäller inte för postlådor eller objekt som inte flyttas till arkivpostlådan eller tas bort. 
   
  **Grundorsakerna:**
   
-- Det kan bero på att **assistenten för hanterade mappar** inte har bearbetat användarens postlåda. Assistenten för hanterade mappar försöker bearbeta alla postlådor i din molnbaserade organisation en gång var sjunde dag. Om du ändrar en kvarhållningstagg eller tillämpar en annan bevarandeprincip på en postlåda kan du vänta tills den hanterade mappassistenten bearbetar postlådan eller köra cmdleten Start-ManagedFolderAssistant för att starta assistenten Hanterad mapp för att bearbeta en viss postlåda. Köra den här cmdlet är användbart för att testa eller felsöka en bevarandeprincip eller inställningar för kvarhållningstagg. Mer information finns i [Kör assistenten För hanterade mappar](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
+- Det kan bero på att **assistenten för hanterade mappar** inte har bearbetat användarens postlåda. Assistenten för hanterade mappar försöker bearbeta alla postlådor i din molnbaserade organisation en gång var sjunde dag. Om du ändrar en kvarhållningstagg eller tillämpar en annan bevarandeprincip på en postlåda kan du vänta tills den hanterade mappassistenten bearbetar postlådan eller köra cmdleten Start-ManagedFolderAssistant för att starta assistenten Hanterad mapp för att bearbeta en viss postlåda. Köra den här cmdleten är användbart för att testa eller felsöka en bevarandeprincip eller inställningar för kvarhållningstagg. Mer information finns i [Kör assistenten För hanterade mappar](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
-  - **Lösning:** Kör följande kommando för att starta assistenten För hanterade mappar för en viss postlåda:
+  - **Lösning:** Kör följande kommando för att starta assistenten för hanterade mappar för en viss postlåda:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
-- Detta kan också inträffa om **RetentionHold** har **aktiverats** på postlådan. Om postlådan har placerats på en RetentionHold bearbetas inte bevarandeprincipen för postlådan under den tiden. Mer informaton på inställningen RetentionHold finns i: [Bevarande av postlådan håll](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
+- Detta kan också inträffa om **RetentionHold** har **aktiverats** på postlådan. Om postlådan har placerats på en RetentionHold bearbetas inte bevarandeprincipen för postlådan under den tiden. Mer informaton på inställningen RetentionHold finns i: [Bevarande av postlådan finns](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
     **Lösning:**
     
@@ -55,10 +57,10 @@ ms.locfileid: "44502625"
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- **Anm.:** Om en postlåda är mindre än 10 MB bearbetas inte postlådan automatiskt i assistenten.
+ **Obs:** Om en postlåda är mindre än 10 MB bearbetas postlådan inte automatiskt i assistenten.
  
 Mer information om bevarandeprinciper i Administrationscenter för Exchange finns i:
 - [Bevarandetaggar och bevarandeprinciper](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
 - [Tillämpa en bevarandeprincip på postlådor](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
 - [Lägga till eller ta bort kvarhållningstaggar](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [Så här identifierar du vilken typ av spärr som placeras på en postlåda](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
+- [Identifiera typen av undantag som tillämpas på en postlåda](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
