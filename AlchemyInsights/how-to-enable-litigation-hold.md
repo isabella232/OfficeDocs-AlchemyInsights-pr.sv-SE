@@ -1,5 +1,5 @@
 ---
-title: 976-how-to-enable-litigation-hold
+title: 976-instruktion-handhållning
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: fe21746110ed2cb99fb13563c84c966e277fc70c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 56620e4795649d55181305b7b8c0a9d28c83e977
+ms.sourcegitcommit: 61308045a58252764f6378bbeb8802b6d2ff6c0b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495834"
+ms.lasthandoff: 08/08/2020
+ms.locfileid: "46596765"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Placera en postlåda på juridisk spärr
+# <a name="place-a-mailbox-on-legal-hold"></a>Placera en post låda i juridiskt undantag
 
-- Om du vill placera en postlåda på spärren för rättstvister eller Spärra på plats krävs en Exchange Online Plan 2-licens [för Exchange Online Plan 2.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Om en postlåda tilldelas en Plan 1-licens kan du tilldela en separat Exchange Online-arkiveringslicens [För Exchange Online Archiving-tilläggslicens](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
+- Om du vill lägga till en post låda i en handläggare eller på-plats-spärr måste en Exchange Online abonnemang 2-licens för [Exchange Online plan 2-licens](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) vara obligatorisk. Om en post låda har tilldelats en abonnemangs 1-licens kan du tilldela en separat licens för Exchange [Online-arkivering för](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)Exchange-tilläggsprogram.
 
-- Så här aktiverar du bevarande av juridiska skäl för en enskild användare [.](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold) När bevarande av juridiska skäl är aktiverat bevaras allt innehåll i postlådan.
+- [Följ de här stegen](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold)om du vill aktivera en enskild användares tvist. När den är aktive rad sparas allt innehåll i post lådan.
 
-- Om du vill bevara innehåll i alla postlådor i organisationen kan du använda en [bevarandeprincip för hela organisationen](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Observera att för organisationsomfattande bevarandeprinciper tilldelas nya användare automatiskt till principen.
+- Om du vill bevara innehållet i alla post lådor i organisationen eller om du vill skapa andra typer av bevarande undantag använder du en bevarande princip eller etiketter. Observera att för principer som används för hela organisationen tilldelas nya användare automatiskt till principen. Mer information finns i [Läs mer om bevarande principer och bevarande etiketter](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). 
