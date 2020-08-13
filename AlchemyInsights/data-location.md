@@ -1,5 +1,5 @@
 ---
-title: Plats för data
+title: Data plats
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,27 +10,15 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: c769c17796d805f88afb4d5b32adb7d4a9bb3ce0
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 571c82d47bea7ca34a204ddd6fc89b7657808a23
+ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43655300"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46665516"
 ---
-# <a name="data-location"></a>Plats för data
+# <a name="data-location"></a>Data plats
 
-Du kan visa platsen för din klient i administrationscentret eller genom att ansluta till Exchange Online via PowerShell.
+Du kan visa klient organisationens plats i administrations centret genom att gå till [sidan **organisations profil** ](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) och välja **data plats**.
 
-
-**Administrationscenter:**
-1. Logga in på [administrationscentret](https://admin.microsoft.com/Adminportal/Home).
-2. Välj profil **för inställningar** > **organisation**.
-3. Under **Dataplats**väljer du **Visa information**.
-
-
-**Powershell:**
-1. Anslut till Exchange Online med Windows PowerShell.
-2. Kör [cmdleten Get-OrganizationalUnit](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) för att visa en lista över klientens egenskaper. 
-3. Titta på OrganisationenId egendom.
-
-När du har dataplatsen för EXO och SPO kan du bestämma vilken dataplats för andra tjänster du kan använda från [där dina data finns](https://products.office.com/where-is-your-data-located).
+För program som du inte abonnerar på kan du läsa [var dina Microsoft 365-kunddata lagras](https://docs.microsoft.com/office365/enterprise/o365-data-locations).
