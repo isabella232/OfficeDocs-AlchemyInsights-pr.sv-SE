@@ -1,7 +1,7 @@
 ---
 title: SharePoint-migrering med SPMT
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: 32afe7771a10e4d5ac9b6bd90467debc2961d0b7
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: bbe60a948230a5a385cabd637489a72286394ccf
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44235374"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787086"
 ---
 # <a name="sharepoint-migration-with-spmt"></a>SharePoint-migrering med SPMT
 
-SharePoint Migration Tool är utformat för migreringar som sträcker sig från den minsta uppsättningen filer till en storskalig företagsmigrering och gör att du kan överföra din information till molnet och dra nytta av de senaste samarbets-, intelligens- och säkerhetslösningarna med Microsoft 365.
+För att du ska kunna migrera från den minsta uppsättningen filer till en storskalig företagsanpassad migration kan du med hjälp av SharePoint-migreringsverktyget överföra din information till molnet och dra nytta av de senaste samarbets-, intelligens-och säkerhets lösningarna med Microsoft 365.
 
 - [Ladda ned och installera migreringsverktyget för SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
-- [Felsöka vanliga SPMT-problem och fel](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
-- [Felsöka problem med SPMT-installation](https://docs.microsoft.com/sharepointmigration/spmt-install-issues#troubleshooting-spmt-installation-issues)
+- [Felsöka vanliga SPMT problem och fel](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+- [Felsöka installations problem för SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues#troubleshooting-spmt-installation-issues)

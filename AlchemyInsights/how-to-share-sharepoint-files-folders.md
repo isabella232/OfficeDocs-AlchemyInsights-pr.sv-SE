@@ -1,7 +1,7 @@
 ---
-title: Så här delar du SharePoint-filer eller SharePoint-mappar
-ms.author: v-todmc
-author: todmccoy
+title: Dela SharePoint-filer eller-mappar
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: 6673307c9c8e8af5d6730dee60ed9445a225478a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d8db0cb146db02ab235ae453b43e088a53a3a5aa
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763343"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787267"
 ---
-# <a name="how-to-share-sharepoint-files-or-folders"></a>Så här delar du SharePoint-filer eller SharePoint-mappar
+# <a name="how-to-share-sharepoint-files-or-folders"></a>Dela SharePoint-filer eller-mappar
 
-De filer du lagrar på en SharePoint-webbplats är vanligtvis tillgängliga för alla med behörighet till webbplatsen, men du kanske vill dela specifika filer eller mappar med personer som annars inte har åtkomst till webbplatsen. När du delar filer och mappar kan du bestämma om du vill låta andra redigera eller bara visa dem.
+Filerna som du lagrar på en SharePoint-webbplats är vanligt vis tillgängliga för alla som har behörighet till webbplatsen, men du kanske vill dela vissa filer eller mappar med personer som inte har åtkomst till webbplatsen. När du delar filer och mappar kan du välja om du vill låta andra redigera eller bara visa dem.
 
-[Dela SharePoint-filer eller SharePoint-mappar](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+[Dela SharePoint-filer eller-mappar](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)

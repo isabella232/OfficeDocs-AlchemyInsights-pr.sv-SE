@@ -1,7 +1,7 @@
 ---
-title: Rapport om fil- och mappdelning på en SharePoint-webbplats
-ms.author: v-todmc
-author: todmccoy
+title: Rapportera om fil-och mappdelning på SharePoint-webbplatser
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 5c01595eab45b4f4e67e741c884066d0d21a9472
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a0223666ba8cd3edde9eed05d86a49907fd07a37
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43693180"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787231"
 ---
-# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Rapport om fil- och mappdelning på en SharePoint-webbplats
+# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Rapportera om fil-och mappdelning på SharePoint-webbplatser
 
-Du kan skapa en CSV-fil med information om varje unik fil, användare, behörighet och länk på en viss SharePoint-webbplats eller OneDrive-bibliotek. Detta kan hjälpa dig att förstå hur delning används och om några filer eller mappar delas med gäster.
+Du kan skapa en CSV-fil med information om alla unika filer, användare, behörigheter och länkar på en viss SharePoint-webbplats eller OneDrive-bibliotek. Det här kan hjälpa dig att förstå hur delning används och om filer och mappar delas med gäster.
 
-Mer information finns [i Rapport om fil- och mappdelning på en SharePoint-webbplats](https://docs.microsoft.com/sharepoint/sharing-reports).
+Mer information finns [i rapportera om fil-och mappdelning på en SharePoint-webbplats](https://docs.microsoft.com/sharepoint/sharing-reports).
 
 > [!NOTE]
-> Den här funktionen distribueras för närvarande till First Release-klienter och kommer gradvis att distribueras till alla produktionsklienter.
+> Den här funktionen distribueras för tillfället till den första versionen av klient organisationen och fortsätter gradvis till alla produktionsanläggningar.
