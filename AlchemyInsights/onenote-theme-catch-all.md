@@ -11,27 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: 58159ec61c9ee10e340e5f88a478d378339be3a5
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: ee621d55537347d3bae836e2cf074b1ac0b8237a
+ms.sourcegitcommit: 9818d3c8e6b10f23244e51286e2463caf48fffd5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563600"
+ms.lasthandoff: 08/21/2020
+ms.locfileid: "46852906"
 ---
 # <a name="common-issues-and-resolutions-with-onenote"></a>Vanliga problem och lösningar med OneNote
 
-Här är några vanliga OneNote-ämnen:
+Här är några vanliga OneNote-avsnitt:
 
-- [Åtgärda synkroniseringsproblem](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) – för att åtgärda de vanligaste problemen med OneNote-synkronisering, använd stegen i [Åtgärda problem när du inte kan synkronisera OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
+- [Åtgärda synkroniseringsproblem](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) -för att adressera de vanligaste problemen med OneNote-synkronisering, Använd anvisningarna i [åtgärda problem när du inte kan synkronisera OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
 
-- Använd [OneNote i Teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **Obs:** För närvarande är OneNote i Teams skrivskyddat för kommersiella klienter och utbildningsklienter. Om du vill redigera kan du använda OneNote för webben eller skrivbordsversionen av OneNote.
+- Använda [OneNote i Teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) 
 
-- [Använd OneNote Class Notebook i Teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) svarar på frågor om hur du konfigurerar en anteckningsbok för klassen i Teams.
+- [Använd OneNote-anteckningsbok för klassen i Teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) svara på frågor om hur du konfigurerar en antecknings bok för klassen i team
 
-- [Flytta anteckningsboken till molnet](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a).
+- [Flytta antecknings bok till molnet](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a).
 
-- [Felsöka att flytta anteckningsböcker till molnet](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).
+- [Felsöka flytt av antecknings böcker till molnet](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).
 
-- [Installera OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) – Från och med mars 2020, när du installerar Office 365 eller Office 2019, installeras OneNote-skrivbordsappen tillsammans med skrivbordsapparna i Word, PowerPoint och Excel.
+- [Installera onenote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) -från och med mars 2020 när du installerar Office 365 eller Office 2019 installeras OneNote-programmet bredvid Word-, PowerPoint-och Excel-skrivbordsappar.
 
 - [Exportera och importera OneNote-anteckningsböcker](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309).
