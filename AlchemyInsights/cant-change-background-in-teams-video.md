@@ -1,0 +1,30 @@
+---
+title: Det går inte att ändra bakgrunden i Teams-videon
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 08/20/2020
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9003300"
+- "6211"
+ms.openlocfilehash: db65ce140b04c1736e68cde329fe06968a3c31ef
+ms.sourcegitcommit: 5a76ffd17b09b1f4daf041fbc08a6512172198a6
+ms.translationtype: MT
+ms.contentlocale: sv-SE
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46872193"
+---
+# <a name="cant-change-background-in-teams-video"></a><span data-ttu-id="dbfe5-102">Det går inte att ändra bakgrunden i Teams-videon</span><span class="sxs-lookup"><span data-stu-id="dbfe5-102">Can't change background in Teams video</span></span>
+
+<span data-ttu-id="dbfe5-103">Bakgrunds effekter är inte tillgängliga i följande situationer:</span><span class="sxs-lookup"><span data-stu-id="dbfe5-103">Background effects are not available in the following situations:</span></span>
+
+- <span data-ttu-id="dbfe5-104">Ansluta till ett oplanerat möte ("direkt").</span><span class="sxs-lookup"><span data-stu-id="dbfe5-104">Joining an unscheduled (“instant”) meeting.</span></span>
+- <span data-ttu-id="dbfe5-105">Använda Teams i Linux.</span><span class="sxs-lookup"><span data-stu-id="dbfe5-105">Running Teams in Linux.</span></span>
+- <span data-ttu-id="dbfe5-106">Använda Teams via Virtual Desktop Infrastructure (VDI).</span><span class="sxs-lookup"><span data-stu-id="dbfe5-106">Using Teams through Virtual Desktop Infrastructure (VDI).</span></span>
+
+<span data-ttu-id="dbfe5-107">Om du inte ser alternativet för **bakgrunds effekter** när du anger ett möte kanske funktionen inte är tillgänglig ännu på din enhet.</span><span class="sxs-lookup"><span data-stu-id="dbfe5-107">Also, if you don't see the **Background effects** option when you enter a meeting, the feature might not yet be available on your device.</span></span> <span data-ttu-id="dbfe5-108">Allmän information finns i [ändra din bakgrund för ett Teams-möte](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780).</span><span class="sxs-lookup"><span data-stu-id="dbfe5-108">For general information, see [Change your background for a Teams meeting](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780).</span></span>
