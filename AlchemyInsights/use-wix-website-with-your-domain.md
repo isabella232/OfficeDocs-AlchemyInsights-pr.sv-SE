@@ -1,5 +1,5 @@
 ---
-title: Använda Wix-webbplats med köpta eller hanterade Office 365-domäner
+title: Använda WIX webbplats med Office 365-köpta eller hanterade domäner
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001516"
 - "3582"
-ms.openlocfilehash: 64dfe6082bea1e468eae78bf1576fde398e4c28a
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
-ms.translationtype: MT
+ms.openlocfilehash: 522392d41aa8f84f1f4684ccdbd37d68636be07e
+ms.sourcegitcommit: cbed17334557c1dfa471623f8d5e735f72e697da
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708502"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300742"
 ---
-# <a name="using-wix-website-with-office-365-purchased-or-managed-domains"></a>Använda Wix-webbplats med köpta eller hanterade Office 365-domäner
+# <a name="using-wix-website-with-office-365-purchased-or-managed-domains"></a>Använda WIX webbplats med Office 365-köpta eller hanterade domäner
 
-- [Uppdatera DNS-poster för att hålla din webbplats med din nuvarande värdleverantör](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider)
-- Wix-artikeln "Ansluta en domän till Wix Med hjälp av pekningsmetoden" rekommenderar du att du använder pekning (lägga till DNS-poster per länken ovan) i stället för att byta namnservrar när du använder Office 365
-- Om du fortfarande väljer att ändra namnservrar till Wix måste du skapa [DNS-poster på Wix för Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix?view=o365-worldwide)
-- Om din domän köptes från Microsoft kan inte namnservrarna ändras. Om du måste ändra namnservrar måste Den köpta Microsoft-domänen [överföras till en annan värdleverantör efter 60 dagar](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq#can-i-transfer-a-domain-i-purchased-from-microsoft-to-another-provider)
+- [Uppdatera DNS-poster för att behålla din webbplats med din nuvarande värd](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider)
+- WIX artikeln "ansluta en domän till WIX med metoden Point" rekommenderar att du använder pekdon (lägga till DNS-poster per länken ovan) i stället för att byta namn på servrar när du använder Office 365
+- Om du fortfarande väljer att ändra namnservrar till WIX måste du  [Skapa DNS-poster på WIX för Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix?view=o365-worldwide)
+- Om din domän har köpts från Microsoft kan namnservrar inte ändras. Om du behöver ändra namn servrar måste Microsoft-domänen vara  [överföra till en annan värd efter 60 dagar](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)
