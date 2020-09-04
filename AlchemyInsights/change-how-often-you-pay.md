@@ -2,7 +2,7 @@
 title: Ändra hur ofta du betalar
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,20 +14,22 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c07867d1eb448c89e30dc499bc1fcb19a63a823b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43939673"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364605"
 ---
 # <a name="change-how-often-you-pay"></a>Ändra hur ofta du betalar
 
-Om du vill ändra hur ofta du faktureras och betalar för en prenumeration gör du följande steg i administrationscentret för Microsoft 365. 
-1. Gå till **Fakturering > [Produkter och tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Leta reda på den prenumeration som du vill ändra. Klicka på Redigera **bredvid Faktureras varje månad** eller **faktureras varje månad**i avsnittet **Fakturering.** **Edit** 
-3. Välj alternativet för hur ofta du vill faktureras och klicka sedan på **Ändra**.
+Om du vill ändra hur ofta du faktureras och betalar för ett abonnemang följer du anvisningarna i administrations centret för Microsoft 365.
 
-**Månads-** eller årsfakturering är de enda alternativen.
+1. Gå till sidan för **fakturering**  >  [av dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. På fliken **produkter** väljer du den prenumeration som du vill ändra. 
+3. På sidan prenumerations information går du till avsnittet **prenumerations-och betalnings inställningar** och väljer **Redigera fakturerings frekvens**.
+4. I fönstret **Redigera fakturerings frekvens** shoose du alternativet för hur ofta du vill fakturera och väljer sedan **ändra**.
 
-Mer information finns i [Ändra betalningsfrekvens](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).
+**Obs!** månads-eller års fakturering är de enda alternativen.
+
+Mer information finns i [Ändra faktureringsfrekvens](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
