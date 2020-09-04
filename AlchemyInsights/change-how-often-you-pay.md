@@ -2,7 +2,7 @@
 title: Ändra hur ofta du betalar
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,20 +14,22 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c07867d1eb448c89e30dc499bc1fcb19a63a823b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43939673"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364605"
 ---
-# <a name="change-how-often-you-pay"></a><span data-ttu-id="24ed1-102">Ändra hur ofta du betalar</span><span class="sxs-lookup"><span data-stu-id="24ed1-102">Change how often you pay</span></span>
+# <a name="change-how-often-you-pay"></a><span data-ttu-id="989b8-102">Ändra hur ofta du betalar</span><span class="sxs-lookup"><span data-stu-id="989b8-102">Change how often you pay</span></span>
 
-<span data-ttu-id="24ed1-103">Om du vill ändra hur ofta du faktureras och betalar för en prenumeration gör du följande steg i administrationscentret för Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="24ed1-103">To change how often you are you are billed and paying for a subscription, complete the following steps in the Microsoft 365 admin center.</span></span> 
-1. <span data-ttu-id="24ed1-104">Gå till **Fakturering > [Produkter och tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="24ed1-104">Go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
-2. <span data-ttu-id="24ed1-105">Leta reda på den prenumeration som du vill ändra.</span><span class="sxs-lookup"><span data-stu-id="24ed1-105">Find the subscription you want to change.</span></span> <span data-ttu-id="24ed1-106">Klicka på Redigera **bredvid Faktureras varje månad** eller **faktureras varje månad**i avsnittet **Fakturering.** **Edit**</span><span class="sxs-lookup"><span data-stu-id="24ed1-106">In the **Billing** section, next to **Billed monthly** or **Billed annually**, click **Edit**.</span></span> 
-3. <span data-ttu-id="24ed1-107">Välj alternativet för hur ofta du vill faktureras och klicka sedan på **Ändra**.</span><span class="sxs-lookup"><span data-stu-id="24ed1-107">Choose the option for how often you want to be billed, then click **Change**.</span></span>
+<span data-ttu-id="989b8-103">Om du vill ändra hur ofta du faktureras och betalar för ett abonnemang följer du anvisningarna i administrations centret för Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="989b8-103">To change how often you are you are billed and paying for a subscription, complete the following steps in the Microsoft 365 admin center.</span></span>
 
-<span data-ttu-id="24ed1-108">**Månads-** eller årsfakturering är de enda alternativen.</span><span class="sxs-lookup"><span data-stu-id="24ed1-108">**Note**: Monthly or Annual billing are the only options.</span></span>
+1. <span data-ttu-id="989b8-104">Gå till sidan för **fakturering**  >  [av dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="989b8-104">Go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="989b8-105">På fliken **produkter** väljer du den prenumeration som du vill ändra.</span><span class="sxs-lookup"><span data-stu-id="989b8-105">On the **Products** tab, select the subscription that you want to change.</span></span> 
+3. <span data-ttu-id="989b8-106">På sidan prenumerations information går du till avsnittet **prenumerations-och betalnings inställningar** och väljer **Redigera fakturerings frekvens**.</span><span class="sxs-lookup"><span data-stu-id="989b8-106">On the subscription details page, in the **Subscription and payment settings** section, select **Edit billing frequency**.</span></span>
+4. <span data-ttu-id="989b8-107">I fönstret **Redigera fakturerings frekvens** shoose du alternativet för hur ofta du vill fakturera och väljer sedan **ändra**.</span><span class="sxs-lookup"><span data-stu-id="989b8-107">In the **Edit billing frequency** pane, shoose the option for how often you want to be billed, then select **Change**.</span></span>
 
-<span data-ttu-id="24ed1-109">Mer information finns i [Ändra betalningsfrekvens](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="24ed1-109">For more info, see [Change your payment frequency](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).</span></span>
+<span data-ttu-id="989b8-108">**Obs!** månads-eller års fakturering är de enda alternativen.</span><span class="sxs-lookup"><span data-stu-id="989b8-108">**Note**: Monthly or Annual billing are the only options.</span></span>
+
+<span data-ttu-id="989b8-109">Mer information finns i [Ändra faktureringsfrekvens](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).</span><span class="sxs-lookup"><span data-stu-id="989b8-109">For more info, see [Change your billing frequency](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).</span></span>
