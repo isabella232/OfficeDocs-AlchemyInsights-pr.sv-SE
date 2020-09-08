@@ -1,5 +1,5 @@
 ---
-title: Microsoft Threat Protection
+title: Microsoft Hotskydd
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -9,19 +9,19 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 062dd51724ec6c36775f7f962241bac5807dd660
-ms.sourcegitcommit: ad8b990f0eb9274e68ef599e857ac6c452d3919a
+ms.openlocfilehash: 96562996569a75353a7d4c37b3c16c66d8d65489
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "41277953"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406452"
 ---
-# <a name="microsoft-threat-protection"></a>Microsoft Threat Protection
+# <a name="microsoft-threat-protection"></a>Microsoft Hotskydd
 
 - [MTP-översikt](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
-- [Förutsättningar](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
-- [Licenskrav](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
+- [Krav](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
+- [Licens krav](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
 - [Så här aktiverar du MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
-- [Felsökning av MTP](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
+- [MTP-felsökning](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-Så här kontrollerar du licensiering: du måste tilldelas antingen den fakturering admin eller global Reader roll i Azure AD för att visa din licens. Gå till [administratörscenter](https://admin.microsoft.com/) och navigera till **fakturerings** > **licenser** för att visa dina befintliga licenser.
+Så här kontrollerar du licensiering: du måste tilldelas antingen rollen fakturerings administratör eller global läsare i Azure AD för att visa din licens. Gå till [administrations centret](https://admin.microsoft.com/) och gå till **fakturerings**  >  **licenser** för att se dina befintliga licenser.

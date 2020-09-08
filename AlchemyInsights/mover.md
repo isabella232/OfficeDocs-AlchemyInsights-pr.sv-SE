@@ -11,23 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 896a44d368ff1c2f6f8c83759b5d3444043538a1
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: 0c311a8448f8feab81367b2b5b0d25f1912fd84d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157731"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406344"
 ---
 # <a name="mover"></a>Mover
 
-Den 21 oktober 2019 förvärvade Microsoft **Mover**, en ledande leverantör av molnfilmigrering.
+Den 21 oktober 2019  **, har Microsoft skaffat**en ledande leverantör av Cloud File migration.
 
-För mer information om Mover, ange följande artiklar:
+Vid den aktuella tiden [ber vi dig skicka en support förfrågan](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [ **här**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)  
 
-- [Stödlinjer för flyttfrån Mover](https://mover.io/guides/)
-- [Vanliga frågor och svar om allmän migrering](https://mover.io/guides/general/)
-- [Mover-kontakter](https://mover.io/connectors/)
+Om du vill ha mer information om flytt firman, hänvisa till följande artiklar:
 
-Vid nuvarande tidpunkt, **vänligen rikta alla supportförfrågningar till** [support@mover.io](mailto:support@mover.io) för hjälp med produkten. 
-
- 
+- [Stöd linjer för kraft överföring](https://mover.io/guides/)
+- [Vanliga frågor om migrering](https://mover.io/guides/general/)
