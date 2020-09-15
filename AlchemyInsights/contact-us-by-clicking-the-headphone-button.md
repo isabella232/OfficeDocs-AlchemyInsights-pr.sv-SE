@@ -1,27 +1,28 @@
 ---
-title: Kontakta oss genom att klicka på hörlursknappen
+title: Kontakta oss genom att klicka på knappen hörlur
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3494"
 - "9001472"
-ms.openlocfilehash: 49365a139a97ebde1b1c0c3db710b5b03cfb8738
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 0458ae0a6afdc2c4624ea0658f72f85d4a7d6fdd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584743"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680918"
 ---
-# <a name="contact-us-by-clicking-the-headphone-button"></a><span data-ttu-id="fbe26-102">Kontakta oss genom att klicka på hörlursknappen</span><span class="sxs-lookup"><span data-stu-id="fbe26-102">Contact us by clicking the headphone button</span></span>
+# <a name="contact-us-by-clicking-the-headphone-button"></a><span data-ttu-id="218f3-102">Kontakta oss genom att klicka på knappen hörlur</span><span class="sxs-lookup"><span data-stu-id="218f3-102">Contact us by clicking the headphone button</span></span>
 
-<span data-ttu-id="fbe26-103">Om du vill kontakta Microsoft Support klickar du på **Kontakta oss** i det nedre vänstra hörnet av den här appen.</span><span class="sxs-lookup"><span data-stu-id="fbe26-103">If you'd like to contact Microsoft Support, please click **Contact us** in the lower left corner of this app.</span></span> <span data-ttu-id="fbe26-104">Inne i utfällbara fönstret kommer du att styras till rätt stödkanal efter att ha valt din produkt- och utgivningskategori.</span><span class="sxs-lookup"><span data-stu-id="fbe26-104">Inside the fly-out window, you will be guided to the right support channel after choosing your product and issue category.</span></span>
+<span data-ttu-id="218f3-103">Om du vill kontakta Microsoft support klickar du på **kontakta oss** i det nedre vänstra hörnet i programmet.</span><span class="sxs-lookup"><span data-stu-id="218f3-103">If you'd like to contact Microsoft Support, please click **Contact us** in the lower left corner of this app.</span></span> <span data-ttu-id="218f3-104">I fönstret flyger ut guidas du till rätt support kanal när du har valt kategorin produkt och ärende.</span><span class="sxs-lookup"><span data-stu-id="218f3-104">Inside the fly-out window, you will be guided to the right support channel after choosing your product and issue category.</span></span>
 
-![Kontakta oss genom att klicka på hörlursikonen.](media/contact-us-headphone-icon.png)
+![Kontakta oss genom att klicka på hörlurs ikonen.](media/contact-us-headphone-icon.png)
 
-<span data-ttu-id="fbe26-106">Du kan fortsätta interagera med resten av appen även efter att du har initierat en Kontakta oss-session.</span><span class="sxs-lookup"><span data-stu-id="fbe26-106">You can keep interacting with the rest of the app even after you have initiated a Contact us session.</span></span> <span data-ttu-id="fbe26-107">Panelen Kontakta oss kan tillfälligt minimeras genom att klicka någon annanstans i appen.</span><span class="sxs-lookup"><span data-stu-id="fbe26-107">The Contact us panel can be temporarily minimized by clicking anywhere else inside the app.</span></span> <span data-ttu-id="fbe26-108">Om du vill återgå till samma session klickar du bara på **Kontakta oss** igen.</span><span class="sxs-lookup"><span data-stu-id="fbe26-108">To return to the same session, just click **Contact us** again.</span></span>
+<span data-ttu-id="218f3-106">Du kan fortsätta att interagera med resten av programmet även efter att du har initierat en kontakt.</span><span class="sxs-lookup"><span data-stu-id="218f3-106">You can keep interacting with the rest of the app even after you have initiated a Contact us session.</span></span> <span data-ttu-id="218f3-107">Panelen kontakta oss kan minimeras genom att klicka någon annan stans i appen.</span><span class="sxs-lookup"><span data-stu-id="218f3-107">The Contact us panel can be temporarily minimized by clicking anywhere else inside the app.</span></span> <span data-ttu-id="218f3-108">Om du vill gå tillbaka till samma session klickar du på **kontakta oss** igen.</span><span class="sxs-lookup"><span data-stu-id="218f3-108">To return to the same session, just click **Contact us** again.</span></span>
