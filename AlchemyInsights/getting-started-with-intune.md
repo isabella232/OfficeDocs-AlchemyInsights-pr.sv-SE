@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3190"
 - "9001217"
-ms.openlocfilehash: 3d6c0797b4cf73d33908ef42191fd7093d645229
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: dda42cf553b2b1e37b69f334c0ad426aa7a13d10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44493590"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706361"
 ---
 # <a name="getting-started-with-intune"></a>Komma igång med Intune
 
-En snabb rundtur i Intune och administratörskonsolen finns i [Genomgång av Intune i Azure Portal](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).
+Om du vill ha en guidad visning av Intune och administratörs konsolen kan du läsa igenom [genom gången av Intune i Azure-portalen](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).
 
-Om du vill prova Intune eller konfigurera en utvärderingsversion läser du [Snabbstart: Prova Microsoft Intune gratis](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).
+Om du vill prova Intune eller ställa in en utvärderings version kan du läsa [snabb start: prova Microsoft Intune gratis](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).
 
-Om du redan har Intune och är redo att börja använda den läser du vår [Konfigurera Intune-guide.](https://docs.microsoft.com/intune/fundamentals/setup-steps) 
+Om du redan har Intune och är redo att börja använda programmet läser du vår guide för [konfigurations registrering](https://docs.microsoft.com/intune/fundamentals/setup-steps) . 
