@@ -1,32 +1,33 @@
 ---
-title: Extern delning med en gruppwebbplats
+title: Extern delning med en grupp webbplats
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 05dc591bec1414fbc9f6eca9efcd0fdbf93bd9b9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0f5d72493c219ebc007d33d48246e0fd009c6644
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702864"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708485"
 ---
-# <a name="external-sharing-with-a-team-site"></a>Extern delning med en gruppwebbplats
+# <a name="external-sharing-with-a-team-site"></a>Extern delning med en grupp webbplats
 
-Så här aktiverar du extern användardelning för gruppwebbplatser: 
+Gör så här för att aktivera extern användar delning för grupp webbplatser: 
   
-1. Klicka på **Aktiva webbplatser**i det nya administrationscentret för SharePoint.
+1. I det nya administrations centret för SharePoint klickar du på **aktiva webbplatser**.
   
-2. Välj en webbplats som har en **mall för gruppwebbplats.** 
+2. Välj en webbplats som har en mall för **grupp webbplats** . 
   
-3. Välj knappen **Delning** på den övre menyn. 
+3. Välj knappen **dela** från den översta menyn. 
   
- **Som**standard ställs alternativet Extern delning in på Nya och befintliga externa användare när en modern gruppwebbplats skapas. 
+ **Obs!** när en ny grupp webbplats skapas anges alternativet för extern delning till nya och befintliga externa användare. 
   
- **Anm.:** Om du har markerat mer än en plats visas knappen **Delning** inaktiverad. Välj bara en plats. 
+ **Obs!** Om du har fler än en webbplats markerad är knappen **dela** inaktive rad. Välj endast en webbplats. 
   
 

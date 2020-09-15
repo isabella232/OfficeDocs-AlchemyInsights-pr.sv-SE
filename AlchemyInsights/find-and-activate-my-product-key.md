@@ -1,43 +1,44 @@
 ---
-title: Hitta och aktivera min produktnyckel
+title: Hitta och aktivera min produkt nyckeln
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 107916aae8aef805e2adb5caaef1d06f97edeaa3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062482"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708593"
 ---
-# <a name="find-and-activate-my-product-key"></a>Hitta och aktivera min produktnyckel
+# <a name="find-and-activate-my-product-key"></a>Hitta och aktivera min produkt nyckeln
 
-Om du har köpt Microsoft 365 för företag via ett [Microsoft Open License Program](https://go.microsoft.com/fwlink/p/?LinkID=613298)hittar du och aktiverar produktnyckeln här.
+Om du har köpt Microsoft 365 för företag via ett [Microsoft Open License-program](https://go.microsoft.com/fwlink/p/?LinkID=613298)kan du hitta och Aktivera produkt nyckeln.
 
-1. När du har köpt en nyckel från en Microsoft 365-partner kontrollerar du i inkorgen ett e-postmeddelande från Microsoft som innehåller en aktiveringslänk.  **E-postmeddelandet**skickas till den person som anges som onlineadministratör i volymlicensavtalet.  Om du är osäker på vem som är utsedd till onlineadministratör frågar du din Microsoft 365-partner.
+1. När du har köpt en knapp från en Microsoft 365-partner, kontrol lera Inkorgen för ett e-postmeddelande från Microsoft som innehåller en aktiverings länk.  **Obs!** e-postmeddelandet skickas till den som är online-administratör i licens avtalet för volymen.  Om du är osäker på vem som är online-administratör kan du fråga din Microsoft 365-partner.
 
-2. Följ länken i e-postmeddelandet för att logga in med ditt arbets- eller skolkonto, acceptera licensavtalet Öppna och förnya prenumerationen.  För en steg-för-steg-genomgång laddar du ned PDF-guiden [Aktivera onlinetjänster: Microsoft 365-prenumeration](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
+2. Följ länken i e-postmeddelandet för att logga in med ditt arbets-eller skol konto, acceptera Open licens avtalet och förnya prenumerationen.  En stegvis genom gång av hur du hämtar PDF-guiden är att [aktivera online tjänster: Microsoft 365-prenumeration](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
 
-**Note**Volymlicensieringskunder kan också välja att aktivera prenumerationer i [Servicecenter för volymlicensiering](https://go.microsoft.com/fwlink/p/?LinkID=282016).  Om du vill veta mer kan du ladda ned PDF-guiden [Active Online Services i Servicecenter för volymlicensiering](https://go.microsoft.com/fwlink/p/?LinkId=618096).
+**Obs!** volym licens kunder kan även välja att aktivera prenumerationer i [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016).  Om du vill veta hur laddar du ned PDF-guiden, [aktiva online tjänster i Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkId=618096).
 
-Om du har köpt Microsoft 365 Business Premium Standard från en butik använder du följande steg för att förlänga utgångsdatumet eller lägga till en licens i en befintlig prenumeration.
+Om du har köpt Microsoft 365 Business Premium standard från en butik följer du stegen nedan för att förlänga utgångs datumet eller lägga till en licens till en befintlig prenumeration.
 
-**Om**du vill använda en produktnyckel för att förlänga utgångsdatumet eller lägga till en licens i din befintliga Microsoft 365 Business Premium Standard-prenumeration behöver du en ny och oanvänd nyckel för samma Microsoft 365-prenumeration.  När du anger din ursprungliga Microsoft 365-produktnyckel fungerar inte eftersom en nyckel som redan har lösts in inte kan användas igen.
+**Obs!** om du vill använda en produkt nyckeln för att förlänga utgångs datumet eller lägga till en licens till din befintliga Microsoft 365 Business Premium standard-prenumeration behöver du en ny och oanvänd nyckeln för samma Microsoft 365-prenumeration.  Det går inte att ange den ursprungliga Microsoft 365-produktnyckeln eftersom det inte går att använda en av de nycklar som redan har lösts in igen.
 
-1. Gå till sidan **Billing**  >  **[Faktureringsprodukter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i administrationscentret.
+1. Gå till sidan fakturering i administrations centret **Billing**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
-2. Leta reda på den prenumeration som du vill förlänga utgångsdatumet till eller lägga till licenser.  Klicka på [Utöka slutdatum](https://go.microsoft.com/fwlink/p/?linkid=842054) eller [lägg till fler licenser](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Sök efter den prenumeration som du vill förlänga utgångs datumet för eller Lägg till licenser för.  Klicka på [Förläng slutdatum](https://go.microsoft.com/fwlink/p/?linkid=842054) eller [Lägg till fler licenser](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-3. Klicka på **Använd en ny och oanvänd produktnyckel** och sedan **nästa**.
+3. Klicka på **Använd en ny och oanvänd produkt nyckeln** och sedan på **Nästa**.
 
-4. Ange produktnyckeln och klicka på **Nästa**.
+4. Ange produkt nyckeln och klicka på **Nästa**.
 
-5. Granska dina beställningsuppgifter.  Om allt ser korrekt ut klickar du på **Lös in**.
+5. Granska dina beställnings uppgifter.  Om allting ser korrekt ut klickar du på **Lös**in.

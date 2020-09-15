@@ -1,27 +1,28 @@
 ---
-title: Generera automatiska bildtexter och en avskrift i Microsoft Stream
+title: Skapa automatiska bild texter och en skrift i Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001699"
 - "3777"
-ms.openlocfilehash: 2be38095a627c03cdf85f4d00f31c61491198068
-ms.sourcegitcommit: c55eea624d960d2dd17ac4aa5a4c23e34e6443b8
+ms.openlocfilehash: e62b45859fcfecf2992f47a0c8c8b5c8ad84569a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42409184"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47707801"
 ---
-# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Generera automatiska bildtexter och en avskrift i Microsoft Stream
+# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Skapa automatiska bild texter och en skrift i Microsoft Stream
 
-Stream kan automatiskt generera bildtexter med hjälp av automatisk taligenkänningsteknik, och du kan visa ett rullande transkriptionsfönster för att enkelt navigera och följa med det talade innehållet i en video.
+Strömmen kan automatiskt skapa beskrivningar med automatisk tal igenkännings teknik och du kan visa ett fönster för rullnings avskrift för att enkelt navigera och följa tillsammans med det talade innehållet i en video.
 
-- [Generera automatiska bildtexter och en utskrift för dina Microsoft Stream-videor](https://docs.microsoft.com/stream/portal-autogenerate-captions)
+- [Skapa automatiska bild texter och en avskrift för dina Microsoft Stream-videor](https://docs.microsoft.com/stream/portal-autogenerate-captions)
 
-- [Visa ett rullande transkriptionsfönster för en video i Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
+- [Visa ett fönster för rullnings avskrift för en video i Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
