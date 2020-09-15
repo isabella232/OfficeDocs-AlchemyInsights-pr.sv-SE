@@ -1,25 +1,26 @@
 ---
-title: Översikt över Microsoft Stream-licensiering
+title: Microsoft Stream licens översikt
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: d80f48ae5a791e30a85e23478424bc836b5da4e6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ed25e76647dfe59e9179fc05dccd9dc139ee639e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713952"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675352"
 ---
-# <a name="microsoft-stream-licensing-overview"></a>Översikt över Microsoft Stream-licensiering
+# <a name="microsoft-stream-licensing-overview"></a>Microsoft Stream licens översikt
 
-Microsoft Stream är en molntjänst som licensierats per prenumeration. Den är tillgänglig som en del av kvalificerade Microsoft 365-prenumerationer. Se Microsoft 365-priser för information om varje prenumerationstyp.
+Microsoft Stream är en moln tjänst licensierad för per användares abonnemang. Den är tillgänglig som en del av de giltiga Microsoft 365-prenumerationerna. Se Microsoft 365-priser för information om varje prenumerations typ.
 
-- [Översikt över Microsoft Stream-licensiering](https://docs.microsoft.com/stream/license-overview)
+- [Microsoft Stream licens översikt](https://docs.microsoft.com/stream/license-overview)

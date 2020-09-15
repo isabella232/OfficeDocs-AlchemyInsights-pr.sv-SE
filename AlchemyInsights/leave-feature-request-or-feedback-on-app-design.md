@@ -1,35 +1,36 @@
 ---
-title: Lämna en funktionsförfrågan eller feedback på appdesign
+title: Lämna en funktions förfrågan eller feedback på appens design
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: a23f285d62915ab69c301390d800c1a91fd56a4a
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 6ff5a05f3e8f2f2637248915a4fefe92b7b086f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265246"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676540"
 ---
-# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Lämna en funktionsförfrågan eller feedback på appdesign
+# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Lämna en funktions förfrågan eller feedback på appens design
 
-Vi uppskattar att du delar dina tankar när vi fortsätter att arbeta med Outlook. *UserVoice* är ett forum där du kan lämna feedback och rösta om andras idéer.  
+Vi uppskattar att du delar dina tankar när vi fortsätter att arbeta med Outlook. *UserVoice* är ett forum där du kan lämna feedback och rösta på andras idéer.  
 
 För att lämna oss en idé: 
 
-**Inställningar > Hjälp & Feedback > Föreslå en funktion > Lägga upp en idé** 
+**Inställningar > hjälp & feedback > föreslå en funktion > publicera en idé** 
 
-**Bryr du dig om hur ditt namn/e-post visas?**
+**Bryr dig om ditt namn/din e-post?**
 
-När du lägger till en kommentar i en befintlig funktionsbegäran fyller appen automatiskt i antingen ditt namn eller din e-postadress från ditt primära konto som konfigurerats i appen. Om du vill välja vilket namn som visas måste du skicka in en **ny** funktionsbegäran. 
+När du lägger till en kommentar i en befintlig funktion hämtas automatiskt antingen ditt namn eller din e-postadress från det primära kontot i appen. För att välja vilket namn som ska visas måste du skicka en **ny** funktion. 
 
-Att skicka en begäran är en enkel 3-stegsprocess. På den tredje och sista sidan visas en rad för din e-postadress (obligatorisk) och en rad för ditt namn. Här kan du välja hur ditt namn ska visas, eller så kan du skicka in idén anonymt. 
+Att skicka en begäran är en enkel 3-stegs process. På den tredje och sista sidan visas en rad för din e-postadress (obligatoriskt) och en rad för ditt namn. Här kan du välja hur ditt namn ska visas, eller så kan du skicka in tanken anonymt. 
 
-**Anm.:** Du kan också behöva ändra vilken e-postadress som fylls automatiskt på den här sidan. Om ditt namn är konfigurerat på ett visst sätt i inställningarna för din e-postklient kan det bero på att du kan åsidosätta feedbacköverföringen till anonym. 
+**Obs!** Du kan också behöva ändra e-postadressen automatiskt på den här sidan. Om ditt namn är inställt på ett visst sätt i inställningarna för e-postklienten kan det åsidosättas med dina inställningar genom att ändra den feedback som skickades till anonym. 
