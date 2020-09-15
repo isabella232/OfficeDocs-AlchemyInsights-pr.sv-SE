@@ -1,10 +1,11 @@
 ---
-title: Be administratören aktivera Microsoft Teams
+title: Be din administratör att aktivera Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
-ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
+ms.openlocfilehash: 62ec9b385b3827395a757150a75ac6bb4237941b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573150"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47716263"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Du går miste om det! Be administratören aktivera Microsoft Teams
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Du saknas! Be din administratör att aktivera Microsoft Teams
 
-Om du har en EDU-klient måste du aktivera Microsoft Teams manuellt. Det gör du genom att gå till  **administrationscentret**för Microsoft 365 >Tjänster och tillägg > Microsoft Teams . Om du använder det nya administrationscentret för teams måste du inaktivera **Prova det nya administrationscentret** för att hitta **tjänster och tillägg.** 
+Om du har en EDU-klientorganisation kan du behöva aktivera Microsoft Teams manuellt. Det gör du genom att gå till administrations centret för Microsoft 365 > **tjänster och tillägg > Microsoft Teams**. Om du använder det nya administrations centret för team måste du inaktivera **testa det nya administrations centret**   för att hitta **tjänster och tillägg**. 
 
-**VIKTIGT:** Du kan behöva vänta upp till 24 timmar på att ändringarna ska börja gälla.
+**Viktigt**: det kan hända att du måste vänta upp till 24 timmar innan ändringarna börjar gälla.
