@@ -1,25 +1,26 @@
 ---
-title: 665 får du för mycket Phish eller spam i din brevlåda?
+title: 665 tar du emot för mycket Phish eller skräp post i din post låda?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 91c2c347e09706c1e3730eecba053035876d6931
-ms.sourcegitcommit: 0f44a600ae90e7b98a2a10988712a3fc9f837583
+ms.openlocfilehash: 17b31d712ce6fdb36da8bbc2839c2b1df1de3cb4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911649"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700257"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Får du för mycket Phish eller spam i din brevlåda?
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Tar du emot för mycket Phish eller skräp post i din post låda?
 
-Som en Microsoft 365 admin, det bästa sättet att avgöra varför ett phishing-eller spam-meddelande levererades är att skicka provet till Microsoft i [inlagor Explorer](https://protection.office.com/reportsubmission). Du får omedelbar feedback relaterad till meddelandefiltrering och varför det finns problem.
+Som Microsoft 365-administratör är det bästa sättet att ta reda på varför ett nätfiske eller skräp post skickades till Microsoft i [Utforskaren](https://protection.office.com/reportsubmission). Du får omedelbar feedback om meddelande filtrering och varför det finns problem.
 
-För att göra det easer, kan du låta dina användare att rapportera direkt till Microsoft via [rapporten meddelande tillägg](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+För att göra det lättare för dig kan du låta användarna rapportera direkt till Microsoft via [rapport tillägget](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
 
-**Visste du?**: du kan nu skicka exempel direkt från [meddelandespårning](https://protection.office.com/messagetrace) och E5/ATP plan 2 kunder kan skicka exempel från [Threat Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+**Visste du**att du kan skicka exempel direkt från [meddelande spårning](https://protection.office.com/messagetrace) och E5/ATP-abonnemang 2 kunderna kan skicka exempel från [Threat Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
