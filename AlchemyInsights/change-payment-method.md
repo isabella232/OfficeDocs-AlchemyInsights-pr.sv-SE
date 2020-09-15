@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,27 +14,27 @@ ms.custom:
 - "277"
 - "4852"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: cf12baf7a9b40b56549f0d3c63f7a6be8d8a7cb9
-ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
+ms.openlocfilehash: 710e4817fa0b3e7696f4cbf2dd4087c068a7c73e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154536"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681853"
 ---
 # <a name="change-payment-method"></a>Ändra betalningsmetod
 
-Du kan ändra betalningsmetoden från **administrationscentret för Microsoft 365**.
+Du kan ändra betalnings metod från **administrations centret för Microsoft 365**.
   
-1. Gå till sidan **Billing**  >  **Faktureringsfakturor &**  >  [betalningsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806) i administrationscentret.
-2. Markera raden för den betalningsmetod som ska ersättas. I den högra rutan visas alla faktureringsprofiler och enskilda prenumerationer som använder den valda betalningsmetoden.
-3. Välj Ersätt betalningsmetod **för alla artiklar**i den högra rutan .
-4. Om du vill använda en befintlig betalningsmetod väljer du en i listrutan och väljer sedan **Ersätt**.
+1. I administrations centret går du till **Billing**  >  sidan betalnings metoder för **& betalning**  >  [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
+2. Välj raden för betalnings metoden som du vill ersätta. I det högra fönstret visas alla fakturerings profiler och enskilda abonnemang med den valda betalnings metoden.
+3. I det högra fönstret väljer du **Ersätt betalnings metod för alla objekt**.
+4. Om du vill använda en befintlig betalnings metod väljer du en i list rutan och väljer sedan **Ersätt**.
     > [!NOTE]
-    > Om du har prenumerationer kopplade till en faktureringsprofil kan du bara använda ett kredit- eller betalkort för att betala för dem. Om du har bankkonton listade på sidan **Betalningsmetoder** är de inte tillgängliga att välja i listrutan.
-5. Om du vill lägga till en ny betalningsmetod väljer du **Lägg till betalningsmetod**.
-6. I fönstret **Lägg till en betalningsmetod** anger du kontoinformationen och väljer sedan **Spara**. Du måste använda en betalningsmetod från samma land som din klient.
-7. Den nya betalningsmetoden har redan valts i listrutan. Välj **Ersätt**.
+    > Om du har abonnemang kopplade till en fakturerings profil kan du bara använda ett kredit-eller betalkort för att betala för dem. Om du har bank konton som visas på sidan **betalnings sätt** kan de inte väljas i list rutan.
+5. Om du vill lägga till en ny betalnings metod väljer du **Lägg till betalnings metod**.
+6. Ange konto informationen i fönstret **Lägg till betalnings metod** och välj sedan **Spara**. Du måste använda en betalnings metod från samma land som din klient organisation.
+7. Den nya betalnings metoden har redan valts i list rutan. Välj **Ersätt**.
 
-Mer information finns i [Hantera betalningsmetoder](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Mer information finns i [Hantera betalnings metoder](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-Mer information om hur du ändrar från att betala med kreditkort till fakturabetalningar finns i [Ändra från kreditkort eller bankkonto till faktura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice).
+Information om hur du byter från kredit kort till faktura betalningar finns i [ändra från kredit kort eller bank konto till faktura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice).

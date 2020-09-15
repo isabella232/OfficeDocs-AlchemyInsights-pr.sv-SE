@@ -1,27 +1,28 @@
 ---
-title: 8000077 Kan inte logga in på Hotmail eller Outlook.com?
+title: 8000077 går inte att logga in på Hotmail eller Outlook.com?
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1198"
 - "8000077"
 ms.assetid: 51addffd-7c85-49ef-8ef5-dfa2605605dc
-ms.openlocfilehash: 58c1d39da6bc45741b0118c99d7bef91b096973a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 851694cd42cf8ab0bcdf1d343c5fc268128779b6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711649"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683852"
 ---
 # <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>Kan du inte logga in på Hotmail eller Outlook.com?
 
-Om du vill hålla ditt Outlook.com-konto aktivt måste du logga in på kontot minst en gång var 365:e dag. Efter 365 dagars inaktivitet raderas din e-post och kan inte återställas.
+För att ditt Outlook.com-konto ska vara aktivt måste du logga in på kontot minst en gång var 365 dag. Efter 365 dagar av inaktivitet tas ditt e-postmeddelande bort och kan inte återställas.
   
-Om du har loggat in inom 365 dagar men fortfarande inte kan komma åt hotmail- eller Outlook.com-kontot läser du [Så här loggar du in på eller ut från Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Om du har loggat in inom 365 dagar men ändå inte kan komma åt ditt Hotmail-eller Outlook.com-konto kan du läsa om [hur du loggar in i eller ut ur Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
   

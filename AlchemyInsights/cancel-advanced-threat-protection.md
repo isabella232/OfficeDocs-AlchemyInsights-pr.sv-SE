@@ -1,33 +1,34 @@
 ---
-title: Avbryt avancerat hotskydd
+title: Avbryt Avancerat skydd
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: dc228b5c4ebc1bd1f981868e0eb44fa444e7e7da
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708183"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683708"
 ---
-# <a name="cancel-advanced-threat-protection"></a>Avbryt avancerat hotskydd
+# <a name="cancel-advanced-threat-protection"></a>Avbryt Avancerat skydd
 
-Avancerat skydd mot hot kan avbrytas i **Microsoft 365 admin center**.
+Avancerat skydd kan avbrytas i **administrations centret för Microsoft 365**.
 
-1. Gå till sidan **Fakturering**  >  [dina produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. Leta reda på den avancerade skyddsplanen för att avbryta.
+1. Gå till sidan för **fakturering**  >  [av dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Leta reda på det avancerade hotet Protection Plan för att avbryta.
 3. Klicka på **Avbryt prenumeration**.
 
-Återbetalning: Eventuell proportionell kredit kommer att returneras till dig inom nästa faktureringsperiod.
+Åter betalning: alla probetygsatta kredit kommer att återföras till dig inom nästa fakturerings period.
 
-**Om**du inte ser alternativet att avbryta klickar du på prenumerationen för att visa informationen och du bör se alternativet **Avbryt prenumeration** i Inställningar **& Åtgärder**.
+**Obs!** om du inte ser alternativet att avbryta klickar du på prenumerationen för att Visa uppgifterna och du bör se alternativet för att **avbryta prenumerationen** i **Inställningar & åtgärder**.
 
-Mer information finns i [Avbryt prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Mer information finns i [avbryta prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
