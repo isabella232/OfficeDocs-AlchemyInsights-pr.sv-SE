@@ -1,36 +1,37 @@
 ---
-title: Redigera faktureringsprofil för appar
+title: Redigera fakturerings profil för appar
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: 98b8092e6c22039703dfbeafb9a8194b688d0afe
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c2059808987efd668f8bd8d31095907b8e318f76
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062554"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711041"
 ---
-# <a name="edit-billing-profile-for-apps"></a>Redigera faktureringsprofil för appar
+# <a name="edit-billing-profile-for-apps"></a>Redigera fakturerings profil för appar
 
-## <a name="to-change-the-billing-profile-on-apps"></a>Så här ändrar du faktureringsprofilen för appar
+## <a name="to-change-the-billing-profile-on-apps"></a>Så här ändrar du fakturerings profilen för appar
 
-1. Gå till **Billing**sidan  >  **[Fakturering dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** och välj sedan fliken **Appar.**
+1. Gå till sidan **fakturering**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** och välj fliken **appar** .
 
-2. Hitta och välj den app du vill hantera.  
+2. Leta reda på och välj det program du vill hantera.  
 
-3. Bredvid **Faktureringsprofil**väljer du **Redigera** och väljer den faktureringsprofil som du vill associera med appen.
+3. Bredvid **betalnings profil**väljer du **Redigera** och väljer den betalnings profil som du vill koppla till appen.
 
-## <a name="edit-billing-profiles"></a>Redigera faktureringsprofiler
+## <a name="edit-billing-profiles"></a>Redigera fakturerings profiler
 
-1. Gå till **Billing**sidan  >  **[Faktureringsfakturor & betalningar](https://go.microsoft.com/fwlink/p/?linkid=848039)** och välj sedan **Faktureringsprofiler**.
+1. Gå till sidan **fakturering**  >  **[& betalning](https://go.microsoft.com/fwlink/p/?linkid=848039)** och välj sedan **fakturerings profiler**.
 
-2. Välj den faktureringsprofil i listan som ska redigeras.
+2. Välj den betalnings profil från listan som du vill redigera.

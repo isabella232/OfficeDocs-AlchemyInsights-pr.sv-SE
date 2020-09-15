@@ -5,29 +5,30 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 237121fa451fb9a05ca5ca496b92e743730656ce
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4bba92d5756186923b103f7b945155c3cb972b35
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714752"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47710934"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>eDiscovery i Yammer-nätverk
 
-Du kan nu utföra eDiscovery-sökningar efter Yammer-innehåll.  För att utföra eDiscovery-sökningar eller exportera på Yammer-innehåll krävs följande:
+Du kan nu utföra eDiscovery-sökningar för Yammer-innehåll.  För att utföra eDiscovery-sökningar eller exportera på Yammer-innehåll krävs följande:
 
-1. Du måste först migrera Yammer Enterprise Network till inbyggt läge för att yammer-meddelanden och filer ska kunna identifieras. **Om du är ny kund från och med den 9 januari 2020 och yammernätverket redan är i inbyggt läge kan dina data nu identifieras med eDiscovery**.
+1. Du måste först migrera ditt Yammer Enterprise-nätverk till enhetligt läge för att göra det möjligt för Yammer-meddelanden och filer att kunna upptäckas. **Obs! Om du är en ny kund från januari. nionde 2020 och ditt Yammer-nätverk är redan i enhetligt läge är dina data nu upptäckta med eDiscovery**.
 
-2. För spännande kunder kommer eDiscovery för Yammer att vara tillgängligt när justeringsverktyget för inbyggt läge har släppts och flyttningslägets migrering slutförs för Yammer i klienten.
+2. För att avsluta kunder blir eDiscovery för Yammer tillgängligt när det ursprungliga läges justerings verktyget släpps och migreringen av det ursprungliga läget slutförs för Yammer i klient organisationen.
 
-För mer information om:
+Mer information om:
 
-- Inbyggt läge i Yammer, se: [Översikt över inbyggt läge](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- eDiscovery i Yammer Networks, se: [Översikt över eDiscovery i Yammer-nätverk](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- eDiscovery i Microsoft 365, se [eDiscovery i Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- Enhetligt läge i Yammer finns i: [Översikt över enhetligt läge](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
+- eDiscovery i Yammer-nätverk finns i: [Översikt över eDiscovery i Yammer-nätverk](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
+- eDiscovery i Microsoft 365, se [eDiscovery i microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
