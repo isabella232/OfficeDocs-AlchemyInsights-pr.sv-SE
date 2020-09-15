@@ -1,26 +1,27 @@
 ---
-title: Verifiera din domän med Namecheap
+title: Verifiera din domän med NameCheap
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 046a64632c4708ddd48730e00b13da13880ae365
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c3544cfd0c1a5ca975a40959a1afbc8446a7f07c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721823"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47689288"
 ---
-# <a name="verify-your-domain-with-namecheap"></a>Verifiera din domän med Namecheap
+# <a name="verify-your-domain-with-namecheap"></a>Verifiera din domän med NameCheap
 
-För att verifiera din domän måste du lägga till en TXT-post i domänregistraren för att verifiera att du äger din domän. 
+För att verifiera din domän måste du lägga till en TXT-post i domän registratorn för att verifiera att du äger din domän. 
 
-Följ först [guiden Lägg till domän](https://portal.office.com/adminportal/home#/Domains) genom att välja **Inställningar** \> **domäner**och sedan **Lägga till domän**.
+Följ först [guiden Lägg till domän](https://portal.office.com/adminportal/home#/Domains) genom att välja **inställnings** \> **domäner**och sedan **lägga till domän**.
   
-Se [Skapa DNS-poster på Namecheap för Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) för steg-för-steg-instruktioner.
+Mer information finns i [Skapa DNS-poster på NameCheap för Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) .

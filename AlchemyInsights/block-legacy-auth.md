@@ -5,30 +5,31 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: e7bff5f9fcf6f2f2c77e93c2f27f585f2cc18bea
-ms.sourcegitcommit: 98231a228ecb2bf14ec3b96d4dd4ccf2507617a3
+ms.openlocfilehash: baf3ee808cce1e4da362dd0841c0138d7d9268d1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43079278"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685616"
 ---
-# <a name="blocking-legacy-authentication"></a>Blockera äldre autentisering
+# <a name="blocking-legacy-authentication"></a>Blockerar bakåtkompatibel-verifikation
 
-Äldre autentisering är en term som refererar till en autentiseringsbegäran som gjorts av:
+Bakåtkompatibel-verifikation är en term som hänvisar till en autentiseringsbegäran som görs av:
 
-- Äldre Office-klienter som inte använder modern autentisering (till exempel Office 2010-klient).
+- Äldre Office-klienter som inte använder modern (till exempel Office 2010-klient).
 
-- Alla klienter som använder äldre e-postprotokoll som IMAP/SMTP/POP3.
+- Alla klienter som använder äldre e-postprotokoll, till exempel IMAP/SMTP/POP3.
 
-Mer information om hur du blockerar äldre autentisering och aktiverar modern autentisering finns i [Blockera äldre autentisering](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
+Mer information om hur du blockerar bakåtkompatibel-inloggningsautentisering och aktiverar modern verifikation finns i [blockera bakåtkompatibel-verifikation](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
 
-Standardvärden för säkerhet i Azure Active Directory (Azure AD) gör det enklare att vara säker och skydda din organisation. Standardinställningar för säkerhet innehåller förkonfigurerade säkerhetsinställningar för vanliga attacker.
-Mer information om standardvärden för säkerhet finns i [Vad är standardvärden för säkerhet?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) 
+Säkerhets standarder i Azure Active Directory (Azure AD) gör det enklare att skydda din organisation. Säkerhets standarder innehåller förkonfigurerade säkerhets inställningar för vanliga angrepp.
+Mer information om säkerhets inställningar finns i [Vad är säkerhets standarder?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) 
 
-**Om**din klient skapades den 22 oktober 2019 eller senare är det möjligt att du upplever det nya beteendet för säker som standard och redan har aktiverat säkerhetsstandardinställningar i din klientorganisation.  I ett försök att skydda alla våra användare distribueras säkerhetsinställningar till alla nya klienter som skapas.
+**Obs!** om klient organisationen skapades på eller efter oktober 22 2019, är det möjligt att du stöter på den nya säkra standarden och redan har säkerhets standarden aktiverat i klient organisationen.  I en ansträngning för att skydda alla våra användare kommer säkerhets standarderna att distribueras till alla nya klient organisationer.
