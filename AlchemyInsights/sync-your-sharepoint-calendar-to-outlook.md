@@ -1,36 +1,37 @@
 ---
-title: Synkronisera Din SharePoint-kalender till Outlook
+title: Synkronisera SharePoint-kalendern med Outlook
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 4120c30c27ea404419eaf4485d137b513314c467
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 95ea9fbe0fbb4ab4d07f164e6096cc7985a72ac5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912876"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47659184"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a><span data-ttu-id="b2c93-102">Problem med att synkronisera kalendern mot enheter</span><span class="sxs-lookup"><span data-stu-id="b2c93-102">Issues synchronizing your calendar to devices</span></span>
+# <a name="issues-synchronizing-your-calendar-to-devices"></a><span data-ttu-id="8aca1-102">Problem med att synkronisera kalendern med enheter</span><span class="sxs-lookup"><span data-stu-id="8aca1-102">Issues synchronizing your calendar to devices</span></span>
 
-<span data-ttu-id="b2c93-103">SharePoint-kalendrar är klassiska listtyper som ibland förväxlas med Microsoft 365-gruppkalendrar.</span><span class="sxs-lookup"><span data-stu-id="b2c93-103">SharePoint Calendars are classic list types which are sometimes confused with Microsoft 365 Group Calendars.</span></span>
+<span data-ttu-id="8aca1-103">SharePoint-kalendrar är klassiska List typer som ibland förväxlas med Microsoft 365-gruppkalendrar.</span><span class="sxs-lookup"><span data-stu-id="8aca1-103">SharePoint Calendars are classic list types which are sometimes confused with Microsoft 365 Group Calendars.</span></span>
 
-<span data-ttu-id="b2c93-104">Så här synkroniserar du en SharePoint-kalender till Outlook:</span><span class="sxs-lookup"><span data-stu-id="b2c93-104">To sync a SharePoint Calendar to Outlook, please follow these steps:</span></span>
+<span data-ttu-id="8aca1-104">Följ de här stegen om du vill synkronisera en SharePoint-kalender med Outlook:</span><span class="sxs-lookup"><span data-stu-id="8aca1-104">To sync a SharePoint Calendar to Outlook, please follow these steps:</span></span>
 
-1. <span data-ttu-id="b2c93-105">Klicka på ikonen **Inställningar** och sedan på **Webbplatsinnehåll**.</span><span class="sxs-lookup"><span data-stu-id="b2c93-105">Click the **Settings** gear icon and then click **Site Contents**.</span></span>
-2. <span data-ttu-id="b2c93-106">Öppna kalendern som du vill synkronisera (som är en händelselisttyp).</span><span class="sxs-lookup"><span data-stu-id="b2c93-106">Open the calendar you would like to sync (which is an Events list type).</span></span>
-3. <span data-ttu-id="b2c93-107">Klicka på **Kalender**på den klassiska menyfliksområdet och klicka sedan på **Anslut till Outlook**.</span><span class="sxs-lookup"><span data-stu-id="b2c93-107">In the classic ribbon menu, click **Calendar**, then click **Connect to Outlook**.</span></span>
-4. <span data-ttu-id="b2c93-108">Klicka på **Tillåt**i popup-fönstret där du ber dig bekräfta synkroniseringen.</span><span class="sxs-lookup"><span data-stu-id="b2c93-108">In the pop-up asking you to confirm the sync, click **Allow**.</span></span>
+1. <span data-ttu-id="8aca1-105">Klicka på kugg hjuls ikonen **Inställningar** och sedan på **webbplats innehåll**.</span><span class="sxs-lookup"><span data-stu-id="8aca1-105">Click the **Settings** gear icon and then click **Site Contents**.</span></span>
+2. <span data-ttu-id="8aca1-106">Öppna den kalender som du vill synkronisera (som är en typ av händelse lista).</span><span class="sxs-lookup"><span data-stu-id="8aca1-106">Open the calendar you would like to sync (which is an Events list type).</span></span>
+3. <span data-ttu-id="8aca1-107">Klicka på **kalender**i den klassiska menyfliksområdet och klicka sedan på **Anslut till Outlook**.</span><span class="sxs-lookup"><span data-stu-id="8aca1-107">In the classic ribbon menu, click **Calendar**, then click **Connect to Outlook**.</span></span>
+4. <span data-ttu-id="8aca1-108">I popup-fönstret där du ombeds att bekräfta synkroniseringen klickar du på **Tillåt**.</span><span class="sxs-lookup"><span data-stu-id="8aca1-108">In the pop-up asking you to confirm the sync, click **Allow**.</span></span>
 
 >[!Note]
-> <span data-ttu-id="b2c93-109">När du gör en ändring i den synkroniserade Outlook-kalendern visas den i SharePoint-kalendern och vice versa.</span><span class="sxs-lookup"><span data-stu-id="b2c93-109">When you make a change in the synced Outlook calendar, it will appear in the SharePoint calendar and vice versa.</span></span>
+> <span data-ttu-id="8aca1-109">När du gör en ändring i den synkroniserade Outlook-kalendern visas den i SharePoint-kalendern och vice versa.</span><span class="sxs-lookup"><span data-stu-id="8aca1-109">When you make a change in the synced Outlook calendar, it will appear in the SharePoint calendar and vice versa.</span></span>
 
-<span data-ttu-id="b2c93-110">Mer information om Microsoft 365 Groups finns i den här [artikeln](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="b2c93-110">For more information about Microsoft 365 Groups, see this [article](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
+<span data-ttu-id="8aca1-110">Mer information om Microsoft 365-grupper finns i den här [artikeln](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="8aca1-110">For more information about Microsoft 365 Groups, see this [article](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
