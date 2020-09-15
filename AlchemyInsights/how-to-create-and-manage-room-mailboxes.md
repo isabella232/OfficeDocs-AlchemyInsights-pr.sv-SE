@@ -1,10 +1,11 @@
 ---
-title: 614 Hur man skapar och hanterar rumsbrevlådor
+title: 614 skapa och hantera Room-postlådor
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,15 +15,15 @@ ms.custom:
 - "3500013"
 - "3800012"
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
-ms.openlocfilehash: fb0bdea1d1e2bace748971706ac119976ec9bf69
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: a691361dd3025fc207d555629fbb6f9f10cb3cf7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495789"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704255"
 ---
-# <a name="how-to-create-and-manage-room-mailboxes"></a><span data-ttu-id="57810-102">Så här skapar och hanterar du rumspostlådor</span><span class="sxs-lookup"><span data-stu-id="57810-102">How to create and manage room mailboxes</span></span>
+# <a name="how-to-create-and-manage-room-mailboxes"></a><span data-ttu-id="11e73-102">Så här skapar och hanterar du Room-postlådor</span><span class="sxs-lookup"><span data-stu-id="11e73-102">How to create and manage room mailboxes</span></span>
 
-<span data-ttu-id="57810-103">Om du vill skapa och ändra rumspostlådor finns i [Skapa och hantera rumspostlådor](https://technet.microsoft.com/library/jj215781.aspx).</span><span class="sxs-lookup"><span data-stu-id="57810-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://technet.microsoft.com/library/jj215781.aspx).</span></span>
+<span data-ttu-id="11e73-103">Information om hur du skapar och ändrar Room-postlådor finns i [skapa och hantera Room-postlådor](https://technet.microsoft.com/library/jj215781.aspx).</span><span class="sxs-lookup"><span data-stu-id="11e73-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://technet.microsoft.com/library/jj215781.aspx).</span></span>
 
-<span data-ttu-id="57810-104">Mer information om rums- och utrustningspostlådor (kallas även resurspostlådor) finns i [Rums- och utrustningspostlådor](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="57810-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).</span></span>
+<span data-ttu-id="11e73-104">Mer information om post lådor för rum och utrustning (kallas även resurs post lådor) finns i [post lådor för rum och utrustning](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="11e73-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).</span></span>
