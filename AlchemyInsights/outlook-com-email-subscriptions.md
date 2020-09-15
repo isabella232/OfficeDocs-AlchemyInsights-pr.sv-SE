@@ -1,34 +1,35 @@
 ---
 title: Outlook.com e-postprenumerationer
-ms.author: lpyfer
-author: lpyfer
+ms.author: pebaum
+author: pebaum
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: becf4fcf93871b78ae136efeaa004f999bf0532c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cc65c04f0f77936fdc5d7919729aeeafba502c92
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43723684"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672434"
 ---
 # <a name="email-subscriptions"></a>E-postprenumerationer
 
-Varför visas e-postmeddelanden i mina prenumerationslistor?
+Varför ser jag e-postmeddelanden i mina abonnemangs listor?
 
-Outlook.com har upptäckt att e-postmeddelandet innehåller prenumerationsinformation, inklusive "Avsluta prenumeration" i meddelandet. Outlook.com har inte prenumererat på några nyhetsbrev automatiskt.
+Outlook.com har upptäckt att e-postmeddelandet innehåller abonnemangs information, inklusive "avabonnera" i meddelandet. Outlook.com har inte automatiskt abonnerat på något nyhets brev.
 
-Om du vill sluta ta emot nyhetsbrev eller kampanjer finns det två sätt att avsluta prenumerationen med Outlook.com:
-1. Välj ett nyhetsbrev eller ett e-postmeddelande i Inkorgen. Högst upp i läsfönstret väljer du **Avsluta prenumeration**.
-2. Öppna [inställningarna för Outlook.com Prenumerationer](https://go.microsoft.com/fwlink/?linkid=2110887) och välj **Avsluta prenumeration**.
+Om du vill sluta ta emot nyhets brev eller kampanjer finns det två sätt att avbryta prenumerationen med Outlook.com:
+1. Välj ett nyhets brev eller reklam meddelande i Inkorgen. Välj **Avbryt prenumeration**högst upp i Läs fönstret.
+2. Öppna [Outlook.com](https://go.microsoft.com/fwlink/?linkid=2110887) och välj **Avbryt prenumeration**.
 
-Observera: Den här funktionen visas bara om du har fått ett e-postmeddelande från företaget som skickar e-postmeddelanden som prenumererar.
-Om frågan handlar om microsoft 365-betalda[https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) prenumerationer går du till eller [Läs mer om Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
+Obs! Du kan bara se den här funktionen om du har fått ett e-postmeddelande från företaget som skickar e-postmeddelanden till prenumerationer.
+Om du har frågor om Microsoft 365-betalda prenumerationer kan du gå till [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888)   eller [läsa mer om Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
   

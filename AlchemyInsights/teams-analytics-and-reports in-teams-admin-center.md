@@ -1,28 +1,29 @@
 ---
-title: Team Analys och rapporter i teams Administration center
+title: Teams Analytics och rapporter i administrations centret för Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001501"
 - "3558"
-ms.openlocfilehash: 938e8f8020090510529738f7f2308923c6f67a11
-ms.sourcegitcommit: 9f594bef6725e846f343ba8eb4fe5620727971e5
+ms.openlocfilehash: 1e5f2529e0f7206ebac3b5ca2b5d9ff746f98916
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/22/2020
-ms.locfileid: "42564654"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670166"
 ---
-# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Team Analys och rapporter i teams Administration center
+# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Teams Analytics och rapporter i administrations centret för Teams
 
-Det finns ett antal **användnings- och aktivitetsrapporter** i teams administrationscenter, inklusive användaraktivitet, enhetsanvändning och användning av livehändelser. Mer information finns i [Microsoft Teams analys och rapportering](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference).
+Det finns en mängd **användnings-och aktivitets rapporter** i administrations centret för Teams, inklusive användar aktivitet, användning av enheter och användning av Live-händelser. Mer information finns i [Microsoft Teams Analytics och rapportering](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference).
 
-**Observera:** Det finns ytterligare teams användning och aktivitet rapporter tillgängliga i Microsoft 365 Admin Center. Se [Så här visar du teams-rapporterna på instrumentpanelen Rapporter](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard).
+**Observera:** Det finns ytterligare team användnings-och aktivitets rapporter tillgängliga i administrations centret för Microsoft 365. Lär dig [hur du visar team rapporterna på instrument panelen rapporter](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard).
 
-Om du letar efter rapportering eller analys som är relaterad till **samtals-** eller **samtalskvalitet**läser du [Implementera QoS- och monitorsamtalskvalitet i Microsoft Teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) för relaterad dokumentation.
+Om du letar efter rapportering eller analyser relaterade till **samtal** eller **samtals kvalitet**kan du läsa [implementera QoS och kontrol lera samtals kvalitet i Microsoft Teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) efter relaterad dokumentation.
 

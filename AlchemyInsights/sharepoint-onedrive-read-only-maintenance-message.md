@@ -1,10 +1,11 @@
 ---
-title: Skrivskyddad för underhåll meddelande när du försöker använda SharePoint eller OneDrive
+title: Skriv skydd för underhålls meddelande när du försöker använda SharePoint eller OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,33 +13,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 02cf1aa7abae365a3d317af9e785648d1c1517e1
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051299"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670850"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Skrivskyddad för underhåll meddelande när du försöker använda SharePoint eller OneDrive
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Skriv skydd för underhålls meddelande när du försöker använda SharePoint eller OneDrive
 
-Användare kan få en **skrivskyddad för underhåll** meddelande när du försöker använda SharePoint eller OneDrive för något av följande scenarier. 
+Användare kan få ett **skrivskyddat för underhålls** meddelande när de försöker använda SharePoint eller OneDrive för något av följande scenarier. 
 
--   En planerad eller aktiv underhållsaktivitet.  Sök efter dem genom att navigera till [meddelandecentret](https://portal.office.com/adminportal/home#/messagecenter).
--   En hög prioritet, aktiv tjänst incident som kan inträffa. Kontrollera om det finns några bulletiner/incidenter genom att navigera till [tjänstens hälsa](https://portal.office.com/adminportal/home#/servicehealth).
--   En mindre Auto-Healing återhämtning scenario som kan hända på grund av oväntade händelser på servrarna som kan pågå i mindre än 30 min eller så. 
+-   En planerad eller aktiv underhålls aktivitet.  Leta efter dem genom att gå till [meddelande Center](https://portal.office.com/adminportal/home#/messagecenter).
+-   Ett högprioriterat, aktivt tjänst problem som kan uppstå. Sök efter eventuella rådgivare/incidenter genom att gå till [tjänstens hälsa](https://portal.office.com/adminportal/home#/servicehealth).
+-   Ett mindre automatiskt återställnings scenario som kan förekomma på grund av eventuella oväntade händelser på de servrar som eventuellt har varit mindre än 30 minuter. 
     
-    Det finns inga meddelanden Center eller Tjänsthälsa inlägg för dessa mindre återvinningar men du bör vara tillbaka till det normala mycket snart.
+    Det finns inga poster för meddelande Center eller tjänstens hälsa för dessa mindre återställningar, men du bör vara tillbaka till normalt.
 
-Vid mycket få tillfällen konstaterade vi att en av de tre scenarierna som anges ovan har varit orsaken, och tjänsten har återställts, men användarnas webbläsarens cacheminne inte har klarats upp.
+Under de senaste inloggningarna observerade vi att ett av de tre ovanstående scenarierna var orsaken och att tjänsten har återställts men att användarens webbläsare inte har rensats.
 
-Försök att rensa webbläsarens cacheminne innan du navigerar till webbplatsen.
+Försök rensa webbläsarens cache innan du navigerar till webbplatsen.
 
-1. Välj **Inställningar**i webbläsaren Microsoft Edge och välj sedan **Sekretess och säkerhet**.
-2. Under **Rensa bläddring**väljer du **Välj vad du vill rensa**.
-3. Välj **cookies och sparade webbplatsdata**och välj **Rensa**.
+1. I webbläsaren Microsoft Edge väljer du **Inställningar**och sedan **Sekretess och säkerhet**.
+2. Under **Rensa bläddring**väljer **du Välj vad du vill rensa**.
+3. Välj **cookies och sparade webbplats data**och välj **Rensa**.
 
 >[!Note] 
-> Dessa steg kan skilja sig åt när du använder andra webbläsare som Mozilla Firefox eller Google Chrome.
+> De här stegen kan skilja sig från andra webbläsare, till exempel Mozilla Firefox och Google Chrome.
 
 >[!Note] 
 > Ett annat alternativ är att öppna SharePoint-webbplatsen eller OneDrive i ett nytt InPrivate-fönster.

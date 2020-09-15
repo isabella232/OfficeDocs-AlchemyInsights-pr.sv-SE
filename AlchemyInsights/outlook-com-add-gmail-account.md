@@ -6,28 +6,29 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: 75e5c4b76192daa1793717c7e9534583e6c15c78
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ad2ab70e9f2b34e1921b75122b85162ea70a521a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760934"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672578"
 ---
 # <a name="add-your-gmail-account-to-outlookcom"></a>Lägga till ditt Gmail-konto i Outlook.com
 
-1. Öppna [inställningarna för synkroniseringsmeddelande](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Under **Anslutna konton**väljer du **Gmail**.
-3. Ange ett visningsnamn (namnmottagarna ser när de får ett e-postmeddelande från dig).
-4. Välj om Outlook.com ska importera din e-post från Gmail och var importerad e-post ska lagras.
-5. Välj **OK** om du vill gå till inloggningssidan för Google.
+1. Öppna dina [Inställningar för synkronisera e-post](https://go.microsoft.com/fwlink/?linkid=875264).
+2. Under **anslutna konton**väljer du **Gmail**.
+3. Ange ett visnings namn (namnet mottagarna ser när de får ett e-postmeddelande från dig).
+4. Välj om Outlook.com ska importera e-post från Gmail och var importerade e-post ska sparas.
+5. Välj **OK** för att gå till Google-inloggnings sidan.
 
-Synkronisering från ett anslutet konto till ditt Outlook.com konto är endast enkelriktad. E-post som skickas från ditt Gmail-konto med Outlook.com visas inte i Skickat i Gmail.
+Synkronisering från ett anslutet konto till ditt Outlook.com-konto är enkelriktat. E-post som skickas från ditt Gmail-konto med Outlook.com visas inte i skickat i Gmail.
 
-Du kan skicka e-post i Outlook.com från ditt anslutna Gmail-konto. När du skriver ett e-postmeddelande väljer du **Från** och väljer din Gmail-adress eller [uppdaterar din standard från-adress](https://go.microsoft.com/fwlink/?linkid=875264).
+Du kan skicka e-post i Outlook.com från ditt anslutna Gmail-konto. När du skriver ett e-postmeddelande väljer du **från** och väljer din Gmail-adress eller [uppdaterar din standard från-adress](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Mer information finns i [Lägga till andra e-postkonton i Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Mer information finns i [lägga till andra e-postkonton i Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
