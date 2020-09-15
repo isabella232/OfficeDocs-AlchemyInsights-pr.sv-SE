@@ -1,31 +1,32 @@
 ---
-title: Active Directory synkroniseras inte
+title: Active Directory synkroniserar inte
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001688"
 - "3754"
-ms.openlocfilehash: 3abad160ab28922685d235a1fa546105e31757fb
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 3517f424b4dcd89f915acebab747a9bff993fdbd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265274"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697647"
 ---
-# <a name="active-directory-not-syncing"></a>Active Directory synkroniseras inte
+# <a name="active-directory-not-syncing"></a>Active Directory synkroniserar inte
 
-Om du får synkroniseringsfel, till exempel "ingen ny synkronisering" eller märker katalogsynkroniseringsstatus en office-administratörsportal säger: "Senast synkroniserad mer än 3 dagar sedan", kan det hända att AADConnect har felaktiga inställningar eller otillräckliga behörigheter för att utföra en synkronisering.  
+Om du får synkroniseringsfel, till exempel "ingen senaste synkronisering" eller Observera att status för katalog synkroniseringen i administrations portalen för Office visar "senast synkroniserat för mer än 3 dagar sedan", kan det bero på att AADConnect har felaktiga inställningar eller otillräcklig behörighet att utföra en synkronisering.  
 
-Om du installerar om AADConnect med hjälp av expressinställningar kan problemet lösas snabbt:
+Det kan lösa problemet snabbt genom att installera om AADConnect med hjälp av snabb inställningar:
 
 1. [Ladda ner den senaste versionen av AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).
 
-2. [Följ instruktionerna för expressinstallation](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+2. [Följ anvisningarna för snabb installationen](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
 
-Mer information om AADConnect-tjänstkonton finns i [Azure AD Connect: Konton och behörigheter](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).
+Mer information om AADConnect-tjänst konton finns i [Azure AD Connect: accounts and Permissions](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).

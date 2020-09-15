@@ -6,27 +6,28 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 5fc3f30e1f08764393dcced94be541b1c6bcc84d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506612"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696639"
 ---
 # <a name="office-365-advanced-threat-protection"></a>Office 365 Avancerat skydd
 
-- Säkra bilagor, säkra länkar och nätfiske är en del av Office 365 Advanced Threat Protection (ATP). Företag E5, Utbildning A5 och Microsoft 365 Business Premium inkluderar ATP. Alla andra abonnemang kräver en ATP-prenumeration.
+- Säkra bifogade filer, säkra länkar och anti-nätfiske är en del av Office 365 Avancerat skydd (ATP). Enterprise, E5, Education A5 och Microsoft 365 Business Premium inkluderar ATP. Alla andra abonnemang kräver ett tilläggs abonnemang för ATP.
 
-- Du måste tilldela lämpliga licenser för att skydda användarna via Office 365 ATP. Mer här finns i [det här avsnittet](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) om hur du använder licenser för dina användare i grupp.
+- Du måste tilldela rätt licenser för att skydda användarna enligt Office 365 ATP. I [det här avsnittet](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) finns anvisningar om hur du Mass gäller för användare.
 
-- Globala administratörer eller säkerhetsadministratörer kan komma åt Office 365 ATP-funktioner i Security & Compliance Center at **Threat Managmeent** \> **Policy**.
+- Globala administratörer och säkerhets administratörer kan komma åt Office 365 ATP-funktioner i säkerhets & Compliance Center på **Threat Managmeent** \> **policy**.
 
-- Principer för säkra bifogade filer och säker länk kan omfatta hela organisationen, specifika domäner eller mindre användargrupper.
+- Safe attachment och Safe Link policies kan begränsas till hela organisationen, specifika domäner eller mindre grupper av användare.
 
-- Det finns ingen standardprincip för säker bilaga till ATP. Du måste [skapa en princip](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) och tillämpa den på användarna.
+- Det finns ingen standard policy för säker säkerhets bilaga för ATP. Du måste [skapa en policy](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) och använda den för användarna.
 
-- Det finns en standardprincip för ATP Safe Links som gäller för alla i organisationen. Om du vill redigera den här principen eller skapa anpassade principer läser du [det här avsnittet](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Det finns en standard policy för säkerhet för säkerhets ATP som gäller för alla i organisationen. Information om hur du redigerar den här principen eller skapar anpassade principer finns i [det här avsnittet](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).

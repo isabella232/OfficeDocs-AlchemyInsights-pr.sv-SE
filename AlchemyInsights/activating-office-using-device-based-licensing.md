@@ -1,34 +1,35 @@
 ---
-title: Aktivera Office med hjälp av enhetsbaserad licensiering
+title: Aktivera Office med hjälp av enhets licenser
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: d0ebc7901efb19a433a0c8d6e8f22e5ff969d336
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44504461"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697899"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>Aktivera Office med hjälp av enhetsbaserad licensiering
+# <a name="activating-office-using-device-based-licensing"></a>Aktivera Office med hjälp av enhets licenser
 
 > [!NOTE]
-> Office [Device Based Activation](https://aka.ms/officedba) för kunder i usa-utbildning är nu inaktuell. Vi uppmuntrar organisationer att planera för den nya Licensen för Microsoft 365 Apps for Education (enhet) för utbildningskunder.
+> Office [Device-baserad aktivering](https://aka.ms/officedba) för amerikanska utbildningar är nu föråldrad. Vi uppmuntrar organisationer att planera för nya Microsoft 365-appar för utbildnings-och utbildnings kunder.
 
-Om du vill aktivera Office med hjälp av enhetsbaserad licensiering måste du ha tilläggslicensen Microsoft 365 Apps for Education (device) som endast är tillgänglig för utbildningskunder och endast är tillgänglig via Registrering för utbildningslösningar (EES). Se [Krav för att använda enhetsbaserad licensiering för Microsoft 365 Apps för företag](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+Om du vill aktivera Office med hjälp av enhets licenser måste du ha Microsoft 365-tilläggsprogram för utbildning (enhet) som bara är tillgänglig för utbildnings kunder och är endast tillgänglig via registrering för utbildnings lösningar (EES). Se [kraven för att använda enhets licenser för Microsoft 365-appar för företag](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).
 
 
-Detaljerad information om inställningar finns i:
+Detaljerad information om konfiguration finns i:
 
-- [Åtgärder för att konfigurera enhetsbaserad licensiering för Microsoft 365 Apps för företag](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Steg för att konfigurera enhets licenser för Microsoft 365-appar för företag](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 - [Hantera licenser för enheter](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
 
-Felsökningsvägledning finns i [Felsöka enhetsbaserad licensiering för Microsoft 365 Apps för företag](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+Information om fel sökning finns i [Felsöka enhets licensiering för Microsoft 365-appar för företag](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).
