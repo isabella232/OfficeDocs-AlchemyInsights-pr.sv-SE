@@ -1,24 +1,25 @@
 ---
-title: Entitetstyp som inte visas i kategoriserade eller relevanta sökresultat i Dynamics 365 Unified Interface
+title: Entitetstypen visar inte i Kategoriserad eller relevans Sök resultat i Dynamics 365 Unified Interface
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: 5a96797ef03659bc6cab665f170dee9a9c62872f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f18d3128cd6fdbddc96789b2507f328448fc25c9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703300"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709349"
 ---
-# <a name="entity-type-not-showing-in-search-results"></a>Entitetstyp visas inte i sökresultaten
+# <a name="entity-type-not-showing-in-search-results"></a>Entitetstypen visas inte i Sök resultaten
 
-För att en entitetstyp ska visas i kategoriserad sökning eller relevanssökning i Det enhetliga Dynamics 365-gränssnittet måste den först läggas till i appmodulen.
+För en entitetstyp för att visa den kategoriserade Sök-eller relevans-sökning i det enhetliga gränssnittet för Dynamics 365 måste den först läggas till i modulen app.
 
-När du söker efter bifogade filer i relevanssökning måste den bifogade filenheten läggas till i appmodulen även om den överordnade posten är vad som visas i resultatet.
+Obs! när du söker efter bifogade filer i relevans-sökning måste den bifogade filen läggas till i programmodulen, trots att den överordnade posten är vad som visas i resultatet.

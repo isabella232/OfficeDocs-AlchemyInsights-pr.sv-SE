@@ -1,30 +1,31 @@
 ---
-title: Problemet med utskriftshanteraren är löst
+title: Problem med utskrifts hanteraren är löst
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: 53b1c9a8efa3cc978af8b602c8ed90430042186a
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
-ms.translationtype: MT
+ms.openlocfilehash: 66b39434ef6f9ad2b8392f811704e67c1bcffd2b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088409"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801859"
 ---
-# <a name="print-spooler-issue-is-resolved"></a>Problemet med utskriftshanteraren är löst
+# <a name="print-spooler-issue-is-resolved"></a>Problem med utskrifts hanteraren är löst
 
-Om enheten uppdaterades med Windows 10 **OS Build 19041.329**kan du ha observerat ett problem där vissa skrivare inte skrivs ut. Utskriftshanteraren kan utlösa ett fel eller stängas oväntat när du försöker skriva ut, och ingen utdata kommer från den berörda skrivaren. Det här problemet är löst i OS Build **19041.331**, [KB4567523](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523).  
+Om enheten har uppdaterats med Windows 10  **OS version 19041,329**kanske du har iakttagit ett problem där vissa skrivare inte kan skriva ut. Utskrifts hanteraren kan utlösa fel eller avsluta oväntat när du försöker skriva ut, och ingen utskrift kommer från den aktuella skrivaren. Det här problemet löses i OS version  **19041,331**, [KB4567523](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523).  
 
-**Pågående utredning**
+**Pågående undersökning**
 
-LSASS-filen (Local Security Authority Subsystem Service)** (Isass.exe) **kan misslyckas på vissa enheter med felmeddelandet "En kritisk systemprocess, C:\WINDOWS\system32\Isass.exe, misslyckades med statuskoden c0000008. Maskinen måste nu startas om".  **Microsoft arbetar på en lösning och kommer att tillhandahålla en uppdatering i en kommande version.**
+Den lokala LSASS-filen (Subsystem File System) (**Isass.exe**) kanske inte fungerar på vissa enheter med fel meddelandet "en kritisk system process, C:\WINDOWS\system32\Isass.exe, misslyckades med status kod c0000008. Datorn måste nu startas om.  **Microsoft jobbar med en lösning och tillhandahåller en uppdatering i en kommande version.**
 
-Mer information finns i kända problem med [Windows 10 Version 2004](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc).
+Mer information finns i  [Windows 10 Version 2004 kända problem](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc).

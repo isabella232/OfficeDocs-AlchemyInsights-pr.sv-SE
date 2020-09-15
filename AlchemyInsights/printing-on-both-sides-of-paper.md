@@ -1,10 +1,11 @@
 ---
-title: Skriva ut på båda sidor av papperet
+title: Skriva ut på båda sidorna av papper
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,29 +14,29 @@ ms.custom:
 - "5659"
 - "9001214"
 - "5664"
-ms.openlocfilehash: c28c8b10cae72550fe7fe8ebf6cebc3635d28459
-ms.sourcegitcommit: 18b080c2a5d741af01ec589158effc35ea7cf449
+ms.openlocfilehash: be8796538e538971b0950d89f88784790829c2e5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44289580"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801895"
 ---
-# <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Skriva ut på båda sidor av papper (dubbelsidig utskrift)
+# <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Skriva ut på båda sidorna av papper (dubbels idig utskrift)
 
-**Kan skrivaren skriva ut med dubbelsidig utskrift?**
+**Kan skrivaren ha dubbels idig utskrift?**
 
-Skrivarens sammanfattning eller handbok bör tala om för dig om den kan skriva ut på båda sidor av papperet, även kallad dubbelsidig utskrift. Om du har Microsoft Office är ett annat sätt att ta reda på genom att öppna ett Office-program som Word eller Excel, gå till **Fil > Skriv ut,** se till att rätt skrivare är markerad och letar efter funktionen i avsnittet Inställningar. Ett exempel: 
+Din skrivares funktions Sammanfattning eller hand bok bör berätta om det är möjligt att skriva ut på båda sidorna av papperet (dubbels idig utskrift). Om du har Microsoft Office kan du också ta reda på det genom att öppna en Office-app som Word eller Excel, gå till **filen > Skriv ut**, kontrol lera att rätt skrivare är markerad och leta efter funktionen i avsnittet Inställningar. Ett exempel: 
 
-![Skrivarinställningar](media/print-settings.png)
+![Skrivar inställningar](media/print-settings.png)
 
-**Dubbelsidig utskrift i Microsoft Office**
+**Dubbels idig utskrift i Microsoft Office**
 
-Om skrivaren kan skriva ut på båda sidor visas alternativet "Skriv ut på båda sidor" när du går till **Fil > Skriv ut** i Office-appen.  Välj den typ av dubbelsidig utskrift du vill använda (vänd på långsidan eller vänd på kortsidan) och klicka på **Skriv ut** för att starta utskriften.
+Om skrivaren kan skriva ut på båda sidorna visas ett alternativ för "Skriv ut på båda sidorna", som du ser i exemplet ovan när du går till **arkiv > skriva ut** i Office-appen.  Välj den typ av dubbels idig utskrift du vill använda (Vänd längs lång sidan eller vänd längs kort sidan) och klicka på **Skriv ut** för att starta utskriften.
 
-**Dubbelsidig utskrift från alla program**
+**Dubbels idig utskrift från valfritt program**
 
-I många appar när du skriver ut visas en allmän utskriftsdialogruta som ser ut så här: 
+I många program när du skriver ut visas en allmän dialog ruta som ser ut så här: 
 
-![Utskriftsdialogrutan](media/print-dialog.png)
+![Dialog rutan Skriv ut](media/print-dialog.png)
 
-Kontrollera att rätt skrivare är markerad och klicka sedan på **Inställningar** för att öppna fönstret för skrivarinställningarna. Om skrivaren kan skriva ut i dubbelsidig utskrift visas möjligheten att aktivera detta för det aktuella utskriftsjobbet i det fönstret.
+Kontrol lera att rätt skrivare är markerad och klicka sedan på **Inställningar** för att öppna fönstret utskrifts inställningar. Om skrivaren klarar dubbels idig utskrift visas möjligheten att aktivera den för det aktuella utskrifts jobbet i det fönstret.
