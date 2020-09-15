@@ -1,37 +1,38 @@
 ---
-title: Aktivera och tilldela applicenser för programvara som en tjänst
+title: Aktivera och tilldela licenser för program vara-as-service-appar
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: f75fe2a4d6ceb094dcf490b6c2a21b4c8254c4ce
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8e0742a528a8bf5beefb32e32c5139b35ecad38d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44062158"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698592"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Aktivera och tilldela applicenser för programvara som en tjänst 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Aktivera och tilldela licenser för program vara-as-service-appar 
 
 ## <a name="to-activate-apps"></a>Så här aktiverar du appar
 
-1. Gå till sidan **Fakturering**dina produkter i administrationscentret  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** och välj sedan fliken **Appar.**
+1. Gå till sidan fakturering i administrations centret **Billing**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** och välj fliken **appar** .
 
-2. Hitta och välj den app du vill hantera.
+2. Leta reda på och välj det program du vill hantera.
 
-3. Under **Licenser**väljer du **Konfigurera konto**.  
+3. Under **licenser**väljer du **Konfigurera konto**.  
 
-## <a name="to-assign-app-licenses"></a>Så här tilldelar du applicenser
+## <a name="to-assign-app-licenses"></a>Tilldela program licenser
 
-1. Gå till sidan **Fakturering**dina produkter i administrationscentret  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** och välj sedan fliken **Appar.**
+1. Gå till sidan fakturering i administrations centret **Billing**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** och välj fliken **appar** .
 
-2. Hitta och välj den app du vill hantera.  
+2. Leta reda på och välj det program du vill hantera.  
 
-3. Under **Inställningar & åtgärder**väljer du länken till Hantera i **utgivarens portal**.
+3. Under **inställningar & åtgärder**väljer du länken som ska **hanteras i Publisher-portalen**.
