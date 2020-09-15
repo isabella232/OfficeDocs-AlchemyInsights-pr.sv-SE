@@ -4,25 +4,26 @@ ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: 1e6ad5908b56f76fa41cf9fbdfad0f50c1a6f552
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 3dd6c0179e7858713026baf6539f09b3cf1ad95b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44417406"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712166"
 ---
-# <a name="port-existing-numbers-to-teams"></a><span data-ttu-id="f1bb4-102">Portering av befintliga nummer till Teams</span><span class="sxs-lookup"><span data-stu-id="f1bb4-102">Port existing numbers to Teams</span></span>
+# <a name="port-existing-numbers-to-teams"></a><span data-ttu-id="3224c-102">Portering av befintliga nummer till Teams</span><span class="sxs-lookup"><span data-stu-id="3224c-102">Port existing numbers to Teams</span></span>
 
-<span data-ttu-id="f1bb4-103">Om du för närvarande har en telefontjänsteleverantör eller -operatör och redan har telefonnummer för dina användare eller tjänster måste du skapa en "Porteringsbeställning" för att överföra dessa telefonnummer till Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="f1bb4-103">If you currently have a phone service provider or carrier and already have phone numbers for your users or services, you need to create a "port order" to transfer those phone numbers to Microsoft Teams.</span></span>
+<span data-ttu-id="3224c-103">Om du för närvarande har en telefontjänsteleverantör eller -operatör och redan har telefonnummer för dina användare eller tjänster måste du skapa en "Porteringsbeställning" för att överföra dessa telefonnummer till Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="3224c-103">If you currently have a phone service provider or carrier and already have phone numbers for your users or services, you need to create a "port order" to transfer those phone numbers to Microsoft Teams.</span></span>
 
-- <span data-ttu-id="f1bb4-104">Mer information om hur du gör det finns i [Överföra telefonnummer till Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams).</span><span class="sxs-lookup"><span data-stu-id="f1bb4-104">See [Transfer phone numbers to Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams) to learn how to complete the port.</span></span> 
+- <span data-ttu-id="3224c-104">Mer information om hur du gör det finns i [Överföra telefonnummer till Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams).</span><span class="sxs-lookup"><span data-stu-id="3224c-104">See [Transfer phone numbers to Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams) to learn how to complete the port.</span></span> 
 
-- <span data-ttu-id="f1bb4-105">Mer information om hur du hanterar telefonnummer finns i [Hantera telefonnummer för din organisation](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization).</span><span class="sxs-lookup"><span data-stu-id="f1bb4-105">See [Manage phone numbers for your organization](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) to guidance around phone number management.</span></span> 
+- <span data-ttu-id="3224c-105">Mer information om hur du hanterar telefonnummer finns i [Hantera telefonnummer för din organisation](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization).</span><span class="sxs-lookup"><span data-stu-id="3224c-105">See [Manage phone numbers for your organization](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) to guidance around phone number management.</span></span> 
 
-<span data-ttu-id="f1bb4-106">Mer information finns i [Översikt för porteringsbeställning](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).</span><span class="sxs-lookup"><span data-stu-id="f1bb4-106">For more info, see the [Port Order Overview](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).</span></span>  
+<span data-ttu-id="3224c-106">Mer information finns i [Översikt för porteringsbeställning](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).</span><span class="sxs-lookup"><span data-stu-id="3224c-106">For more info, see the [Port Order Overview](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).</span></span>  
