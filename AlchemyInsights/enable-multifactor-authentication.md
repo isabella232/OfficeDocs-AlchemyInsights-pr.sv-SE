@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703480"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678054"
 ---
 # <a name="enable-multi-factor-authentication"></a>Aktivera multifaktorautentisering
 
-Så här aktiverar du multifaktorautentisering i administrationscentret för Microsoft 365:
+Så här aktiverar du multifaktorautentisering i administrations centret för Microsoft 365:
 
-1. Gå till sidan Aktiva **användare** **för användare av Användare.** \>
+1. Gå till sidan **användare** \> **aktiva användare** .
     
-2. Högst upp på sidan väljer du **Multifaktorautentisering**. 
+2. Välj **multifaktorautentisering**högst upp på sidan. 
     
-3. Hitta den eller de användare som du vill aktivera för multifaktorautentisering. Om du vill se alla användare kan du behöva ändra **statusfiltret Multi-Factor Auth** högst upp.
+3. Hitta den eller de användare som du vill aktivera för multifaktorautentisering. För att se alla användare kanske du måste ändra status filtret för **multifaktorautentisering** längst upp.
     
-4. Markera kryssrutan bredvid de användare som du vill aktivera.
+4. Markera kryss rutan bredvid de användare du vill aktivera.
     
-5.  Välj **Aktivera**under **snabbsteg**i fönstret För användarens information i fönstret Rätt användarinformation . 
+5.  I fönstret till höger info klickar du på **Aktivera**under **snabb steg**. 
     
-6. Välj **Aktivera multifaktorautentisering**i dialogrutan som öppnas. 
+6. I dialog rutan som öppnas väljer du **Aktivera multifaktorautentisering**. 
     
 

@@ -1,27 +1,28 @@
 ---
-title: Kontakta oss genom att klicka på hörlursknappen
+title: Kontakta oss genom att klicka på knappen hörlur
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3494"
 - "9001472"
-ms.openlocfilehash: 49365a139a97ebde1b1c0c3db710b5b03cfb8738
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 0458ae0a6afdc2c4624ea0658f72f85d4a7d6fdd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584743"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680918"
 ---
-# <a name="contact-us-by-clicking-the-headphone-button"></a>Kontakta oss genom att klicka på hörlursknappen
+# <a name="contact-us-by-clicking-the-headphone-button"></a>Kontakta oss genom att klicka på knappen hörlur
 
-Om du vill kontakta Microsoft Support klickar du på **Kontakta oss** i det nedre vänstra hörnet av den här appen. Inne i utfällbara fönstret kommer du att styras till rätt stödkanal efter att ha valt din produkt- och utgivningskategori.
+Om du vill kontakta Microsoft support klickar du på **kontakta oss** i det nedre vänstra hörnet i programmet. I fönstret flyger ut guidas du till rätt support kanal när du har valt kategorin produkt och ärende.
 
-![Kontakta oss genom att klicka på hörlursikonen.](media/contact-us-headphone-icon.png)
+![Kontakta oss genom att klicka på hörlurs ikonen.](media/contact-us-headphone-icon.png)
 
-Du kan fortsätta interagera med resten av appen även efter att du har initierat en Kontakta oss-session. Panelen Kontakta oss kan tillfälligt minimeras genom att klicka någon annanstans i appen. Om du vill återgå till samma session klickar du bara på **Kontakta oss** igen.
+Du kan fortsätta att interagera med resten av programmet även efter att du har initierat en kontakt. Panelen kontakta oss kan minimeras genom att klicka någon annan stans i appen. Om du vill gå tillbaka till samma session klickar du på **kontakta oss** igen.

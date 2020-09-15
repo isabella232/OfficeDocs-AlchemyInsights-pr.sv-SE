@@ -1,29 +1,30 @@
 ---
-title: Innehåll Sök inga resultat
+title: Innehålls sökning inga resultat
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 09cdbc3cb0465e0e0bc08872c49e283081ad3e92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516797"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680665"
 ---
-# <a name="no-results-from-content-searchexports"></a>Inga resultat från innehåll Sök/export
+# <a name="no-results-from-content-searchexports"></a>Inga resultat från innehålls sökning/export
 
-Problem med innehåll Sök/export inte returnerar några data kan bero på att vissa krav säkerhetsfilter som installerades av en viss Admin och kommunicerar inte till alla administratörer.
+Problem med innehålls sökning/exporterar inte några data kan bero på vissa säkerhets filter för efterlevnad som konfigurerades av en viss administratör och inte kommunicerar med alla administratörer.
 
-Kontrollera om det finns några efterföljande säkerhetsfilter som kan orsaka det här problemet:
-1. Ansluta till säkerhet och regelefterlevnadscentret Powershell
-2. Kör följande kommandon:
-<br>$org = ”yourdomain.com”
-<br>Get-ComplianceSecurityFilter-organisation $org
+Lös problemet genom att kontrol lera om det finns några säkerhets filter för efterlevnad som kan orsaka detta:
+1. Ansluta till säkerhets-och Compliance Center PowerShell
+2. Kör följande cmdlets:
+<br>$org = "yourdomain.com"
+<br>Skaffa-ComplianceSecurityFilter-organisation $org

@@ -1,23 +1,24 @@
 ---
-title: Dynamics 365 formuläret syns inte
+title: Formuläret Dynamics 365 visas inte
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1470"
 - "6200014"
-ms.openlocfilehash: ae5078109428667b2ce88e8674419589875c27fd
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: db70e1a9aa41bbee46ddb9a50b32370b1150ad30
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36528857"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678198"
 ---
-# <a name="dynamics-365-form-not-visible"></a>Dynamics 365 formuläret syns inte
+# <a name="dynamics-365-form-not-visible"></a>Formuläret Dynamics 365 visas inte
 
-* [Formuläret visas inte i formulärväljaren](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
+* [Formuläret visas inte i formulär väljaren](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
 
-* [Varför visas inte formuläret i formulärväljaren i någon app?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-design-forms?branch=master#why-is-my-form-not-visible-in-the-form-selector-drop-down-in-my-app)
+* [Varför visas inte formuläret i den nedrullningsbara formulär väljaren i valfri app?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-design-forms?branch=master#why-is-my-form-not-visible-in-the-form-selector-drop-down-in-my-app)

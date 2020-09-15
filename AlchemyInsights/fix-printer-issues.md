@@ -1,29 +1,30 @@
 ---
-title: Åtgärda skrivarproblem
+title: Åtgärda skrivar problem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: 3da19ce8f44cdc08aed708e9bf238350764843f4
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c8bdc9ff2ce61af24e886559bd78ecb99ce56921
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37976071"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677694"
 ---
 # <a name="troubleshoot-your-printer"></a>Felsöka skrivaren
 
-Om du har problem med skrivaren provar du först att utföra en **strömcykel för skrivaren**. Följ anvisningarna nedan:
+Om du har problem med skrivaren börjar du med att köra en **skrivare**. Gör så här:
 
-1. Stäng av skrivaren och dra ur nätsladden.
+1. Stäng av skrivaren och koppla ur strömsladden.
 2. Vänta i 30 sekunder.
-3. Anslut skrivaren igen och slå på skrivaren igen.
+3. Koppla in skrivaren på nytt och slå på skrivaren igen.
 
-Om det inte löste problemet kör du felsökaren för skrivare genom att gå till **Starta** > **Inställningar** > **Update & säkerhets** > **Felsökning**. Välj **skrivare**, och välj sedan **Kör felsökaren**.
+Om det inte hjälpte problemet kör du fel sökaren för skrivare genom att **Starta**  >  **Inställningar**för  >  **uppdatering & säkerhets**  >  **fel sökning**. Välj **skrivare**och sedan **kör fel sökaren**.

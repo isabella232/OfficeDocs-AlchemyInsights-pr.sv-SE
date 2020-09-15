@@ -1,59 +1,60 @@
 ---
-title: DLP-regeln för kreditkortsnummer fungerar inte
+title: DLP-regel för kreditkorts nummer fungerar inte
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: e2e93bed44749b9017dc6ff919a151d46da7a3fc
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d5dd6354e7a1bcbb7f2fb917952ddbee5077e88d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507424"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679459"
 ---
-# <a name="dlp-issues-with-credit-card-numbers"></a>DLP-problem med kreditkortsnummer
+# <a name="dlp-issues-with-credit-card-numbers"></a>DLP-problem med kreditkorts nummer
 
 **Viktigt**: under denna extraordinära tid vidtar vi åtgärder för att se till att SharePoint Online- och OneDrive-tjänsterna har hög tillgänglighet. Mer information finns i [temporära funktionsjusteringar för SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**DLP-problem med kreditkortsnummer**
+**DLP-problem med kreditkorts nummer**
 
-Har du problem med **att Data Loss Prevention (DLP)** inte arbetar för innehåll som innehåller ett **kreditkortsnummer** när du använder en DLP-känslig informationstyp i O365? Om så är fallet, se till att ditt innehåll innehåller den information som behövs för att utlösa DLP-principen när den utvärderas. För en **kreditkortsprincip** som konfigurerats med en konfidensnivå på 85 % utvärderas följande och måste identifieras för att regeln ska utlösas:
+Har du problem med **data förlust skydd (DLP)** fungerar inte för innehåll som innehåller ett **kreditkorts nummer** när du använder en DLP-känslig informations typ i O365? Om så är fallet kontrollerar du att innehållet innehåller den information som behövs för att utlösa DLP-principen när den utvärderas. För att en **kredit korts princip** är konfigurerad med en konfidensnivå på 85% utvärderas till exempel följande och måste identifieras för att regeln ska utlösa:
   
-- **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 siffror som kan formateras eller oformateras (ddddddddddddddddd) och måste klara Luhn-testet.
+- **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 siffror som kan formateras eller formateras (ssssssssssssssss) och måste godkänna Luhn-testet.
 
-- **[Mönster:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Mycket komplext och robust mönster som upptäcker kort från alla större märken över hela världen, inklusive Visa, MasterCard, Discover Card, JCB, American Express, presentkort och dinerkort.
+- **[Mönster:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Mycket komplext och robust mönster som identifierar kort från alla större varumärken, inklusive Visa, MasterCard, Discover-kort, JCB, American Express, presentkort och betalkort-kort.
 
-- **[Kontrollsumma:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Ja, Luhn checksum
+- **[Kontroll Summa:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Ja, Luhn, kontroll Summa
 
-- **[Definition:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** En DLP-princip är 85 % säker på att den har upptäckt den här typen av känslig information om, i närheten av 300 tecken:
+- **[Definition:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** En DLP-princip är 85% trygg att den här typen av känslig information identifieras om, inom ett avstånd på 300 tecken:
 
   - Funktionen Func_credit_card hittar innehåll som matchar mönstret.
 
-  - Ett av följande gäller:
+  - Något av följande stämmer:
 
   - Ett nyckelord från Keyword_cc_verification hittas.
 
   - Ett nyckelord från Keyword_cc_name hittas
 
-  - Funktionen Func_expiration_date hittar ett datum i rätt datumformat.
+  - Funktionen Func_expiration_date hittar ett datum i rätt datum format.
 
-  - Kontrollsumman passerar
+  - Kontroll summan passerar
 
-    Följande exempel skulle till exempel utlösa för en DLP-kreditkortsnummerpolicy:
+    Följande exempel skulle till exempel utlösa en policy för DLP-kreditkorts nummer:
 
-  - Visum: 4485 3647 3952 7352
+  - Visa: 4485 3647 3952 7352
   
-  - Löper ut: 2/2009
+  - Upphör: 2/2009
 
-Mer information om vad som krävs för att ett **kreditkortsnummer** ska identifieras för ditt innehåll finns i följande avsnitt i den här artikeln: [Vad de känsliga informationstyperna letar efter kreditkort#](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
+Mer information om vad som krävs för att ett **kreditkorts nummer** ska identifieras för ditt innehåll finns i följande avsnitt i den här artikeln: [vad den känsliga informations typen letar efter kreditkort #](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
   
-Med hjälp av en annan inbyggd känslig informationstyp läser du följande artikel för information om vad som krävs för andra typer: [Vad de känsliga informationstyperna söker efter](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Om du använder en annan inbyggd känslig informations typ kan du läsa följande artikel för information om vad som är obligatoriskt för andra typer: [vad den känsliga informations typen letar efter](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   
