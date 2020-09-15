@@ -1,25 +1,26 @@
 ---
-title: Ditt Apple MDM Push-certifikat har gått ut
+title: Ditt Push-certifikat för Apple MDM har upphört
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2635"
 - "9000770"
-ms.openlocfilehash: 6d0b262e877487ed827496ca2a6e9e58a20a8422
-ms.sourcegitcommit: 32e3ea6af00e012a4a2ff0701584d6866b92fbc3
+ms.openlocfilehash: 5ec7989600c224281a417ea102779f9e0dd19887
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45141581"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668833"
 ---
-# <a name="your-apple-mdm-push-certificate-has-expired"></a>Ditt Apple MDM Push-certifikat har gått ut
+# <a name="your-apple-mdm-push-certificate-has-expired"></a>Ditt Push-certifikat för Apple MDM har upphört
 
-Apple MDM-push-certifikatet är giltigt för ett år och måste förnyas varje år för att upprätthålla enhetshantering för iOS och macOS. Om certifikatet går ut kan registrerade Apple-enheter inte kontaktas och nya enheter kan inte registreras.
+Apple MDM-push-certifikatet är giltigt för ett år och måste förnyas varje år för att upprätthålla enhetshantering för iOS och macOS. Om det går att nå ett certifikat går det inte att kontakta de registrerade Apple-enheterna och det går inte att registrera nya enheter.
 
-Steg för att förnya Ditt Apple MDM Push-certifikat finns i [Förnya Apple MDM-push-certifikat](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).
+Anvisningar för hur du förnyar ditt Apple MDM Push-certifikat finns i [förnya Apple MDM Push-certifikat](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).

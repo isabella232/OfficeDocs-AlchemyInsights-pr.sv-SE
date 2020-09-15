@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: c6ebac44d800483bfb03fe5997dfb17844ac2f15
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d44d0bd3eefe0c50e05bff0dab1f3515a1e6ffc2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766259"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669049"
 ---
 # <a name="verify-your-domain-with-dreamhost"></a>Verifiera din domän med Dreamhost
 
-För att verifiera din domän måste du lägga till en TXT-post i domänregistraren för att verifiera att du äger din domän. 
+För att verifiera din domän måste du lägga till en TXT-post i domän registratorn för att verifiera att du äger din domän. 
 
-Följ först [guiden Lägg till domän](https://portal.office.com/adminportal/home#/Domains) genom att välja **Inställningar** \> **domäner**och sedan **Lägga till domän**.
+Följ först [guiden Lägg till domän](https://portal.office.com/adminportal/home#/Domains) genom att välja **inställnings** \> **domäner**och sedan **lägga till domän**.
   
-Se [Skapa DNS-poster på Dreamhost för Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) för steg-för-steg-instruktioner.
+Mer information finns i [Skapa DNS-poster på Dreamhost för Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) .

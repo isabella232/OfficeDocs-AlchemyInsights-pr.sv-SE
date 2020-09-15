@@ -1,33 +1,34 @@
 ---
-title: Modernisera den klassiska hemsidan
+title: Modernisera den klassiska Start Sidan
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: e727f40b725cefa8a09c15fe2d65ab3307d4e3e1
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 16da500b8b7e97b9085c8e954fbf75d8c1b90c8a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600582"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666744"
 ---
-# <a name="modernize-the-classic-home-page"></a>Modernisera den klassiska hemsidan
+# <a name="modernize-the-classic-home-page"></a>Modernisera den klassiska Start Sidan
 
-En nyligen genomförd uppdatering av de klassiska startsidorna för SharePoint-teamets webbplats påverkar startsidan för klassiska teamwebbplatser (STS#0) när en startsida bara innehåller *färdiga webbdelar* som att komma igång, dokumentbibliotek och nyhetsfeed.
+En nyligen genomförd uppdatering av den klassiska SharePoint-gruppwebbplatsens start sidor påverkar start sidan för klassiska grupp webbplatser (STS # 0) när en start sida *bara innehåller de webb delar som är standard för* att komma igång, dokument bibliotek och nyhetsfeed.
 
-Se en genomgång av förändringen [här](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
+Se en genom gång av ändringen [här](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
 
-**Klassiska teamwebbplatser som innehåller anpassat innehåll uppdateras inte automatiskt.**
+**Obs! klassiska grupp webbplatser som innehåller anpassat innehåll uppdateras inte automatiskt.**
 
-* Läs mer om uppdateringskriterier på [Classic sã¤nssida.](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern)
+* Läs mer om uppdaterings villkor på [klassisk Start sida Modernization](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern).
 
-* [Uppgradera andra hemsidor som inte ingick i den automatiska moderniseringen](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages).
+* [Uppgradera andra start sidor som inte ingår i den automatiska Modernization](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages).
 
-* Inaktivera den här uppgraderingen på specifika webbplatser med en [PnP-cmdlet (SharePoint Patterns and Practices).](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)
+* Inaktivera den här uppgraderingen på specifika webbplatser med hjälp av en [PowerShell-cmdlet för SharePoint-mönster och-praxis (PNP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets).

@@ -1,9 +1,10 @@
 ---
-title: Modern plats som rotplats
+title: Modern webbplats som rotplats
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ms.date: 04/21/2020
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
@@ -11,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 0388f95e2b7815dcbbb6aca200f44e55e9c5724f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 86ff5f7fbaed62de9047006bf4ba4d2db2be3def
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713809"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666888"
 ---
-# <a name="modern-site-as-root-site"></a>Modern plats som rotplats
+# <a name="modern-site-as-root-site"></a>Modern webbplats som rotplats
 
-Vi har börjat rulla ut en ny funktion som gör att du kan [byta din klassiska webbplats rotplats med en modern webbplats](https://docs.microsoft.com/sharepoint/modern-root-site). Använd [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) för att byta plats på en plats med en annan plats medan du arkiverar den ursprungliga platsen. Tillgänglig för både gruppwebbplats (inte ansluten till en grupp) och kommunikationswebbplats.
+Vi har börjat använda en ny funktion som gör att du kan [byta till en klassisk webbplats med en modern webbplats](https://docs.microsoft.com/sharepoint/modern-root-site). Använd [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) för att byta plats för en webbplats med en annan webbplats när du arkiverar den ursprungliga webbplatsen. Tillgängligt för både grupp webbplatsen (inte ansluten till en grupp) och kommunikations webbplats.
 
 >[!Important]
-> Ta inte bort din klassiska rotplats för att skapa en modern kommunikationswebbplats. Detta stöds inte av Microsoft. Om du tar bort rotwebbplatsen blir alla SharePoint-webbplatser i organisationen otillgängliga för alla användare, tills du återställer webbplatsen eller skapar en ny webbplats med samma URL. Vi kommer att kommunicera den här funktionen via meddelandecentret. Du bör förvänta dig att funktionen ska aktiveras i din klient inom kort.
+> Ta inte bort den klassiska rot webbplatsen för att skapa en modern kommunikations webbplats. Det här stöds inte av Microsoft. Om du tar bort rot webbplatsen kommer alla SharePoint-webbplatser inte att vara tillgängliga för alla användare förrän du återställer webbplatsen eller skapar en ny webbplats på samma URL. Vi kommer att kommunicera denna funktion via meddelande Center. Du bör förvänta dig att funktionen är aktive rad i klient organisationen.
 
-## <a name="known-issues-with-swapping-sites"></a>Kända problem med att byta webbplatser
-- Målplatsen kan returnera ett HTTP 404-fel (inte hittats" (HTTP 404) under en kort tidsperiod.
-- Innehållet måste testas igen för att uppdatera sökindexet. Det finns inget manuellt steg som krävs här, detta kommer att göras automatiskt.
-- Allt som är beroende av "statiska" länkar (till exempel Filsynkronisering och OneNote-filer) måste korrigeras manuellt.
-- Project Server-platser kan behöva valideras för att säkerställa att de fortfarande är korrekt associerade. 
+## <a name="known-issues-with-swapping-sites"></a>Kända problem med att byta plats
+- Mål webbplatsen kan returnera fel meddelandet "inte hittas" (HTTP 404) under en kort tids period.
+- Innehåll måste crawlas om för att uppdatera Sök indexet. Det finns inget manuell steg här, detta görs automatiskt.
+- Allt som är beroende av "statiska" länkar (till exempel filsynkronisering och OneNote-filer) måste åtgärdas manuellt.
+- Project Server-webbplatser måste kanske val IDE ras för att säkerställa att de är korrekt kopplade. 
