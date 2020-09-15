@@ -1,31 +1,32 @@
 ---
-title: Ta bort en navplats
+title: Ta bort en nav webbplats
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "866"
 - "5300012"
 ms.assetid: cebdac7f-fa90-4431-9a71-feb4104e479a
-ms.openlocfilehash: ff0b3b73960a5884539b7ad2d3923925b12b2aca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: ebd9b894d27e9278cda69d4a93c163e285f556f6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048922"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692889"
 ---
-# <a name="remove-a-hub-site"></a>Ta bort en navplats
+# <a name="remove-a-hub-site"></a>Ta bort en nav webbplats
 
-Så här avregistrerar du en navplats i det nya SharePoint Admin Center:
+För att avregistrera en nav webbplats i det nya administrations centret för SharePoint:
   
-1. Klicka på **aktiva platser**under **platser**i det nya SharePoint Admin Center.
+1. I det nya administrations centret för SharePoint klickar du på **aktiva webbplatser**under **webbplatser**.
 
-2. Markera webbplatsen, klicka på **navplats**och klicka sedan på **avregistrera som navplats**.
+2. Välj webbplatsen, klicka på **nav-webbplats**och klicka sedan på **avregistrera som hubb**.
 
 3. Klicka på **OK**.
 
-[Läs mer om Hub-webbplatser](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f)
+[Lär dig mer om nav webbplatser](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f)
   
