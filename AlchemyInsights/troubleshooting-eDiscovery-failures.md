@@ -1,11 +1,12 @@
 ---
-title: 1490-felsökning-eDiscovery-fel
+title: 1490 – fel sökning – eDiscovery – fel
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,25 +14,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6e04773d9c0a5f30b613221ad59fe77096ae39a9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512572"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658968"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Felsöka fel i innehållssökning
+# <a name="troubleshoot-content-search-errors"></a>Felsöka problem med innehålls sökning
 
-Har du problem med innehållssökning eller fel när du exporterar sökresultat?
+Har du problem med innehålls sökning eller får du fel när du exporterar Sök Resultat?
 
 Får du till exempel följande när du kör sökningar?
 
-- CS008- eller CS012-fel
+- CS008-eller CS012-fel
 
-- Fel vid upptagen/timeout för server
+- Upptaget/timeout-fel på servern
 
-- Programfel uppstod
+- Program fel uppstod
 
-Eller när du söker eller exporterar resultat från ett stort antal postlådor (över 100 000 postlådor), får du exportfel?
+Eller när du söker efter eller exporterar resultat från ett stort antal post lådor (över 100 000-postlådor) får du bara exportera fel?
 
-För den här typen av fel försöker du söka efter de innehållsplatser som har misslyckats. Se [den här artikeln](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) för mer information.
+För de här fel typerna kan du försöka med att söka efter innehålls platserna som har misslyckats. Mer information finns i  [den här artikeln](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) .

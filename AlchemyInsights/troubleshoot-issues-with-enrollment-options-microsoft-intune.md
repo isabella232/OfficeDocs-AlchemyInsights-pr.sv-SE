@@ -1,31 +1,32 @@
 ---
-title: Felsöka problem med registreringsalternativ Microsoft Intune
+title: Felsöka problem med alternativ för registrering Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
-ms.openlocfilehash: 3d7568f962f0bb0514ae7f78778151520c75f3d5
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f249189d8251549fbc22eeb5a408acac7cf515ff
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43734650"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665196"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Felsöka problem med registreringsalternativ Microsoft Intune
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Felsöka problem med alternativ för registrering Microsoft Intune
 
-Granska resurserna nedan för att lösa problemet nu. Om dessa resurser inte hjälper kontaktar du supporten genom att klicka [här](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) och välja Skapa en supportbegäran. 
+Granska resurserna nedan för att lösa problemet nu. Om de här resurserna inte hjälper kontaktar du supporten genom att klicka [här](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) och välja "skapa en supportbegäran". 
   
 - [Granska Intune TechNet för att hitta svar och lösningar på vanliga problem](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
     
-- Använd [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) för att diagnostisera och lösa vanliga registreringsfel. Läs [det här dokumentet](https://docs.microsoft.com/intune/help-desk-operators) för mer information. 
+- Använd [fel söknings portalen för Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) för att diagnosticera och lösa vanliga registrerings problem. Granska [det här dokumentet](https://docs.microsoft.com/intune/help-desk-operators) för mer information. 
     
-- Granska [det här dokumentet](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) för en lista över vanliga fel som förhindrar registrering och lösningar till var och en. 
+- Granska [det här dokumentet](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) för en lista över vanliga fel som kan förhindra registrering och upplösningar till var och en. 
     
-- [Läs mer om registreringsalternativ i Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
+- [Läs mer om registrerings alternativ i Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
     
 

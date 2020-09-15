@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: 246c3b50df856c16ea5237adc43d2126bb5b48b9
-ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.openlocfilehash: 6923c15c3cce90c98ae79181e978fba273ab6059
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45148055"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662451"
 ---
 # <a name="restore-a-deleted-form"></a>Återställa ett borttaget formulär
 
-Om du har tagit bort ett formulär i Microsoft Forms av misstag kan du återställa det. Logga in på Microsoft Forms som ägare av det borttagna formuläret. Markera **Papperskorgen**och välj sedan det formulär som du vill återställa och välj **Återställ**. När du har återställt väljer du **sidpilen Tillbaka till formulären.**
+Om du har tagit bort ett formulär i Microsoft Forms av misstag kan du återställa det. Logga in på Microsoft Forms som ägare till det borttagna formuläret. Välj **pappers korgen**och välj sedan det formulär du vill återställa och välj **Återställ**. När du har återställt väljer du pilen **tillbaka till sidan mina formulär** .
 
-Endast ägaren av formuläret kan återställa det. Om formulärägarens konto har inaktiverats eller tagits bort från klienten kan endast den globala administratören återställa formuläret. Den globala administratören måste ha en formulärlicens för att kunna utföra en återställning. Endast formulär som skapats inom 30 dagar efter att användarkontot inaktiverats eller tagits bort från klienten kan återställas.
+Endast ägaren till formuläret kan återställa det. Om formulär ägarens konto är inaktiverat eller borttaget från klient organisationen kan bara den globala administratören återskapa formuläret. Den globala administratören måste ha en forms-licens för att kunna utföra en återställning. Endast formulär som har skapats inom 30 dagar efter att det användar konto som du har inaktiverats eller tagits bort från klient organisationen kan återställas.
 
-Om du är den globala administratören för klienten och vill återställa ett formulär från ett konto som har tagits bort eller inaktiverats ersätter du [e-postadress] med den borttagna eller inaktiverade användarens e-postadress i följande webbadress: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner= [e-postadress]** Om din e-postadress är johndoe@contoso.com, skulle webbadressen vara: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
+Om du är global administratör för klient organisationen och vill återställa ett formulär från ett konto som har tagits bort eller inaktive ras ersätter du [e-postadress] med e-postadressen för den borttagna eller inaktiverade användaren i följande URL: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner= [e-postadress]** om din e-postadress är **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** johndoe@contoso.com: 
 
-När du har tillgång till användarens borttagna formulär markerar du det formulär du vill flytta och väljer sedan **Fler formuläråtgärder**  >  **Flytta**.
+När du har till gång till användarens borttagna formulär markerar du formuläret som du vill flytta och väljer sedan **fler formulär åtgärder**  >  **Move**.
 
-Om du vill återställa ett formulär där det togs bort och användaren togs bort från organisationen kan en global administratör välja att återställa användaren, återställa lösenordet för den användaren och sedan när du är inloggad som användare, komma åt formuläret för att flytta det till en annan aktiv användare. 
+Om du vill återställa ett formulär där det tagits bort och användaren har tagits bort från organisationen kan en global administratör välja att återställa användaren, återställa lösen ordet för den användaren och sedan när du är inloggad som användaren kan använda formuläret för att flytta det till en annan aktiv användare. 

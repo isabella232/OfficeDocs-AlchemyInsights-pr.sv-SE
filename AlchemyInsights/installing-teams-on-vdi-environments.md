@@ -1,23 +1,24 @@
 ---
-title: Installera team i VDI-miljöer
+title: Installera Teams på VDI-miljöer
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2664"
 - "9000660"
-ms.openlocfilehash: 6329d0d5e99ae0ed929ca9eb376abe6a280ba6df
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
+ms.openlocfilehash: 729eb7c0189c0c0944f15fd25f7c24807e5b04de
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37344150"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663063"
 ---
-# <a name="installing-teams-on-vdi-environments"></a>Installera team i VDI-miljöer
+# <a name="installing-teams-on-vdi-environments"></a>Installera Teams på VDI-miljöer
 
-Information om hur du distribuerar team på delade datorer, Remote Desktop Services (RDS) eller virtuell datorinfrastruktur (VDI) finns i [delade dator-och VDI-miljöer med Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
+Information om hur du distribuerar team på delade datorer, Remote Desktop Services (RDS) eller Virtual Desktop Infrastructure (VDI) finns i avsnittet [om delade datorer och VDI-miljöer med Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
