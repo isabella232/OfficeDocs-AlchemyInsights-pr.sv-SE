@@ -1,52 +1,53 @@
 ---
-title: Villkor som saknas i SharePoint Online Term Store
+title: Termer saknas i SharePoint Online term lagrings plats
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 54ac2dbc1f45f88541c2338f3b55a777b4b57123
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 06711c289365c0fcdf71cf9cccf3cfc53511495a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766871"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750469"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>Aktivera Bitlocker-kryptering med Intune
+# <a name="enabling-bitlocker-encryption-with-intune"></a>Aktivera BitLocker-kryptering med Intune
 
-Intune Endpoint Protection Policy kan användas för att konfigurera Boitlocker-krypteringsinställningar för Windows-enheter enligt beskrivningen i : Windows10-inställningar (och senare) för att skydda enheter som använder Intune
+Intune Endpoint Protection policy kan användas för att konfigurera Boitlocker krypterings inställningar för Windows-enheter enligt beskrivningen i: windows10 (och senare) inställningar för att skydda enheter med Intune
 
-Du bör vara medveten om att många nyare enheter som kör Windows 10 stöder automatisk bitlockerkryptering som utlöses utan tillämpning av MDM-principen. Detta kan påverka tillämpningen av principen om icke-standardinställningarna är konfigurerade. Se Vanliga frågor och svar för mer information.
-
-
-Vanliga  frågor och svar F: Vilka versioner av Windows stöder enhetskryptering med hjälp av slutpunktsskyddsprincipen?
- S: Inställningarna i Intune Endpoint Protection Policy implementeras med Bitlocker CSP.Inte alla utgåvor eller versioner av Windows stöder Bitlocker CSP. 
-      Vid denna tid Windows Editions: Enterprise; Utbildning, mobil, mobilt företag och professional (från bygg 1809 och framåt) stöds.
+Du bör vara medveten om att många nyare enheter som kör Windows 10 stöder automatisk BitLocker-kryptering som aktive ras utan tillämpning av MDM-princip. Det här kan påverka tillämpningen av policy om icke-standardinställningar konfigureras. Se vanliga frågor för mer information.
 
 
-
-
-F: Om en enhet redan är krypterad med Bitlocker med hjälp av OS-standardinställningarna för krypteringsmetod och chifferstyrka (XTS-AES-128) kommer att tillämpa en princip med olika inställningar automatiskt utlösa omkryptering av enheten med de nya inställningarna?
-
-A: Nej. För att kunna tillämpa de nya chifferinställningarna måste enheten först dekrypteras.
-
-För enheter som registreras med Autopilot utlöses inte den automatiska kryptering som skulle ske under OOBE förrän Intune-principen utvärderas, vilket gör att de principbaserade inställningarna kan användas i stället för OS-standardinställningarna
+Vanliga frågor   Q: vilka versioner av Windows stöder enhets kryptering som använder Endpoint Protection policy?
+ A: inställningarna i policyn för Endpoint Protection för Intune implementeras med hjälp av BitLocker-CSP.Alla versioner av Windows stöder inte heller BitLocker-CSP: n. 
+      I den här tiden Windows-utgåvor: Enterprise; Utbildning och mobil telefon, mobil telefon och professionellt stöd (från version 1809).
 
 
 
 
-F Om en enhet krypteras som ett resultat av tillämpningen av Intune-principen kommer den att dekrypteras när den principen tas bort?
+F: om en enhet redan är krypterad med BitLocker med hjälp av OS-standardinställningarna för krypterings metod och chiffrering (XTS-AES-128) tillämpas en princip med olika inställningar automatiskt återaktiverar enheten med de nya inställningarna?
 
-S: Borttagning av krypteringsrelaterad princip resulterar INTE i dekryptering av de enheter som har konfigurerats.
+S: nej. För att använda de nya inställningarna för chiffrering måste enheten först dekrypteras.
+
+Anmärkning för enheter som är registrerade med autopilot en automatisk kryptering som skulle inträffa under OOBE utlöses inte förrän Intune-principen utvärderas, vilket gör att principbaserade inställningar används i stället för OS-standardinställningarna
 
 
 
 
-F: Varför visar intune Compliance-principen att min enhet inte har "Bitlocker Enabled" men det är?
+F om en enhet är krypterad som ett resultat av en Intune-princip kommer den att avkrypteras när den principen tas bort?
 
-S: Inställningen "Bitlocker enabled" i intune-efterlevnadsprincipen använder DHA-klienten (Windows Device Health Attestation). Den här klienten mäter endast enhetstillstånd vid uppstart. Så om en enhet inte har startats om sedan bitlocker kryptering slutfördes DHA klienttjänsten kommer inte att rapportera bitlocker som aktiv.
+A: det går inte att dekryptera de enheter som har kon figurer ATS när krypterings relaterad princip tas bort.
+
+
+
+
+F: Varför visas inte min enhet "BitLocker aktive rad" i Intune policy för efterlevnad?
+
+A: inställningen "BitLocker är aktive rad" i Intune policyn använder DHA-klienten (Windows Device Health attestering). Denna klient mäter bara enhetens tillstånd vid start. Om en enhet inte har startats om sedan BitLocker-krypteringen är slutförd, rapporterar inte BitLocker som aktiv.

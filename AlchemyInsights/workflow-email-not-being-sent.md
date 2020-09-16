@@ -1,41 +1,42 @@
 ---
-title: Arbetsflödesmeddelande skickas inte
+title: E-postmeddelandet skickas inte
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 391d3a2dcc2676a405065115f375c802d2492119
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7efb8895ac7e2816a2c6055ec3c08d6f7029d39d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766151"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47749027"
 ---
-# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Arbetsflödesmeddelande skickas inte för en SharePoint-lista eller ett SharePoint-bibliotek
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>E-postmeddelandet skickas inte för en SharePoint-lista eller ett bibliotek
 
-1. E-post från arbetsflöden skickas inte till alla användare eller bara specifika användare, eller så visas felet **E-postmeddelandet kan inte skickas. Kontrollera att e-postmeddelandet har en giltig mottagare**.
+1. E-post från arbets flöden skickas inte till alla användare eller bara vissa användare, eller så visas fel **meddelandet. kontrol lera att e-postmeddelandet har en giltig mottagare**.
 
-    Kontrollera om användaren finns i gruppen **Behörigheter för alla personer** (användarinformationslista) för webbplatssamlingen.  Exempel på direkt webbadress:<tenant>https:// .sharepoint.com/sites/<sitename>/_layouts/15/people.aspx? MembershipGroupId=0
+    Kontrol lera om användaren finns i gruppen **all personal** behörigheter (användar information) för webbplats samlingen.  Exempel direkt adress: https:// <tenant> . SharePoint.com/Sites/ <sitename> /_layouts/15/People.aspx? MembershipGroupId = 0
 
     - Om användaren inte finns kontrollerar du att användaren är inloggad på sidan. 
-    - Om det är en extern användare kontrollerar du att inbjudan har accepterats.
-    - Om användaren finns i behörighetsgruppen kontrollerar du att e-postadressen är korrekt.
-    - Om användarens e-postadress inte anges här skapar du en exempelavisering för den användaren som tvingar synkroniseringen av användarkontot från Användarprofiler för SharePoint till den här webbplatssamlingen.
+    - Om det är en extern användare kontrollerar du att deras inbjudan har accepterats.
+    - Om användaren finns i behörighets gruppen kontrollerar du att e-postadressen är korrekt.
+    - Om användarnas e-postadress inte är inställt här skapar du ett exempel på en avisering för den användaren som tvingar synkroniseringen av användar kontot från användar profiler i SharePoint till den här webbplats samlingen.
  
-2. E-post från arbetsflöden skickas till administratörerna för webbplatssamlingen men inte till andra användare och visas felet **HTTP Forbidden till <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
+2. E-post från arbets flöden skickas till webbplats samlingens administratörer men inte till andra användare och se **http-felet otillåtet för <span>https:</span>//url/_vti_bin/client.XVC.sp.Utilities.Utility.sendemail**.
  
 
-    Se [Åtkomst nekad när du skickar ett e-postmeddelande till en SharePoint-grupp](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
+    Se [åtkomst nekad när du skickar ett e-postmeddelande till en SharePoint-grupp](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
-    Kontrollera också att webbplatsinsamlingsfunktionen för **användarbehörighetslåsningsläge** för begränsad åtkomst inte är aktiv.
+    Kontrol lera också att funktionen för att **nedlåst behörighets läge för användare med begränsad åtkomst** inte är aktiv.
 
 
 ## <a name="related-topics"></a>Relaterade ämnen
