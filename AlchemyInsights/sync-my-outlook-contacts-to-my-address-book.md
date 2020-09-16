@@ -1,39 +1,40 @@
 ---
-title: Synkronisera mina Outlook-kontakter med adressboken
+title: Synkronisera mina Outlook-kontakter till min adress bok
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 497463fc70a09490bc74c40405325433b4ce0e90
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3dbdfd0e6686042bd30330b4e00bc082a9655160
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767087"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737395"
 ---
-# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Synkronisera mina Outlook-kontakter med adressboken
+# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Synkronisera mina Outlook-kontakter till min adress bok
 
-I Outlook kan du exportera dina kontakter till standardappen Kontakter på Android. På så sätt kan du se namnet på en kontakt när du tar emot ett samtal eller sms och visa all kontaktinformation direkt i standardappen Kontakter.
+I Outlook kan du exportera dina kontakter till standard programmet kontakter på Android. Då kan du se namnet på en kontakt när du tar emot ett samtal eller SMS och se all kontakt information direkt i appen Kontakter.
  
-**Så här aktiverar du den här funktionen:**
+**Så här aktiverar du funktionen**:
  
-1. Gå till **Inställningar**på enheten .
+1. Gå till **Inställningar**på enheten.
 
-2. Tryck på det konto som du vill synkronisera kontakter med under **Konton.**
+2. Under **konton**trycker du på det konto som du vill synkronisera kontakter med.
 
-3. Växla skjutreglaget **Synkronisera kontakter** PÅ.
+3. Byt reglage för **Synkronisera kontakter** på.
  
-Dubbelriktad kontaktexport stöds för Microsoft 365, Outlook.com och hybridmodern autentisering för lokala postlådor. Tvåvägsstöd säkerställer att alla nya kontakter som du lägger till, eller befintliga kontakter som du redigerar, synkroniseras mellan enheten och dina Outlook-konton.
+Tvåvägs kontakt export stöds för Microsoft 365, Outlook.com och hybrid modern för lokala post lådor. Dubbelriktat stöd säkerställer att alla nya kontakter du lägger till eller befintliga kontakter som du redigerar synkroniseras mellan enheten och dina Outlook-konton.
  
-För äldre Exchange-konton kan du exportera dina kontakter så att de sparas på enheten. När **Synkroniseringskontakter** är aktiverat sparas nyligen tillagda kontakter och redigeringar som gjorts i dina kontakter i Outlook i appen Kontakter på enheten. Redigeringar som görs direkt i enhetens kontaktapp sparas dock inte i Outlook. Observera att vi inte stöder att lägga till/redigera kontakter från Outlook för Android för lokala exchange-konton, så du måste hantera dina kontakter från en annan Outlook-klient.
+För äldre Exchange-konton kan du exportera dina kontakter så att de sparas på enheten. När **Synkronisera kontakter** är aktiverat sparas nyligen tillagda kontakter och ändringar i dina kontakter i Outlook i appen Kontakter på din enhet. Ändringar som görs direkt i enhetens kontakter-appen sparas inte i Outlook. Observera att vi inte har stöd för att lägga till/redigera kontakter från Outlook för Android för lokala Exchange-konton, så att du måste hantera dina kontakter från en annan Outlook-klient.
  
-För tillfället stöds inte kontaktsynkronisering för GMAIL och iCloud.
+För närvarande stöds inte synkronisering av GMAIL och iCloud.
  
-Om du vill ta bort dessa synkroniserade kontakter kan du när som helst växla **synkroniseringskontakter** och de tas bort från adressboken.
+Om du vill ta bort de här synkroniserade kontakterna kan du när som helst växla mellan **synkroniserade kontakter** och sedan tas de bort från din adress bok.
