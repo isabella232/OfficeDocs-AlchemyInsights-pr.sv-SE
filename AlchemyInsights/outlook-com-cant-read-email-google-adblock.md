@@ -6,21 +6,22 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000048"
 - "814"
-ms.openlocfilehash: db2b9adb3b3c3ea2984886d1d4933d0622f1ada1
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: c5bc85855f5d2634c085ef093ab71c98093931a2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43746913"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47752953"
 ---
-# <a name="cant-read-email-in-google-chrome-with-adblock"></a>Det går inte att läsa e-post i Google Chrome med AdBlock
+# <a name="cant-read-email-in-google-chrome-with-adblock"></a>Kan inte läsa e-post i Google Chrome med AdBlock
 
 Om du inte kan läsa eller skriva e-post när du använder Google Chrome med AdBlock-tillägget:
 
 - Använd [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) eller en annan webbläsare.
-- Uteslut Outlook.com från AdBlock-inställningarna. Längst upp till höger i Google Chrome väljer du **AdBlock** och väljer sedan **Kör inte på sidor på den här domänen**. Uppdatera webbläsaren så att Outlook.com laddas igen.
+- Exkludera Outlook.com från AdBlock-inställningarna. I det övre högra hörnet av Google Chrome väljer du **Adblock** och väljer sedan **Kör inte på sidor på den här domänen**. Uppdatera webbläsaren för att ladda Outlook.com igen.
