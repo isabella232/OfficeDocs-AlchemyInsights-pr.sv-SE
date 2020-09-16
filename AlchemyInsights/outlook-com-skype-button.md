@@ -6,18 +6,19 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
-ms.openlocfilehash: cc5ca216f3e27a424f26bf5faa95b4df9c26b653
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6ff0c00245c8f6121b688e306fd56179f6cdf862
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767879"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802255"
 ---
-# <a name="skype-icon-missing"></a><span data-ttu-id="2f985-102">Skype-ikon saknas</span><span class="sxs-lookup"><span data-stu-id="2f985-102">Skype icon missing</span></span>
+# <a name="skype-icon-missing"></a><span data-ttu-id="b3bc4-102">Skype-ikonen saknas</span><span class="sxs-lookup"><span data-stu-id="b3bc4-102">Skype icon missing</span></span>
 
-<span data-ttu-id="2f985-103">Vi har tillfälligt tagit bort Skype-ikonen från Outlook.com som en del av en uppdatering och funktionsuppdatering för design som vi är glada över att kunna lansera. Vi uppskattar ditt tålamod medan vi förbereder en ny och förbättrad upplevelse för dig.</span><span class="sxs-lookup"><span data-stu-id="2f985-103">We've temporarily removed the Skype icon from Outlook.com as part of a design refresh and feature update we're excited to be rolling out. We appreciate your patience while we prepare a new and improved experience for you.</span></span>
+<span data-ttu-id="b3bc4-103">Vi har tillfälligt tagit bort Skype-ikonen från Outlook.com som en del av en design uppdatering och funktions uppdatering vi är glada att kunna lanseras. Vi uppskattar ditt tålamod medan vi förbereder ett nytt och förbättrat gränssnitt för dig.</span><span class="sxs-lookup"><span data-stu-id="b3bc4-103">We've temporarily removed the Skype icon from Outlook.com as part of a design refresh and feature update we're excited to be rolling out. We appreciate your patience while we prepare a new and improved experience for you.</span></span>
 
-<span data-ttu-id="2f985-104">Du kan fortfarande använda Skype via din webbläsare på [web.skype.com](https://web.skype.com).</span><span class="sxs-lookup"><span data-stu-id="2f985-104">You can still use Skype through your browser at [web.skype.com](https://web.skype.com).</span></span>
+<span data-ttu-id="b3bc4-104">Du kan fortfarande använda Skype via webbläsaren på [Web.Skype.com](https://web.skype.com).</span><span class="sxs-lookup"><span data-stu-id="b3bc4-104">You can still use Skype through your browser at [web.skype.com](https://web.skype.com).</span></span>
