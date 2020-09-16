@@ -1,27 +1,28 @@
 ---
-title: Team för virtualiserad skrivbordsinfrastruktur
+title: Teams för virtualiserad Skriv bords infrastruktur
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: 0a8b48cda4109b387e6c2d81104585b194684524
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 13bc658ca33d0a61cf8e895b8fd0e0d31bb92abb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599466"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736450"
 ---
-# <a name="teams-for-virtualized-desktop-infrastructure"></a>Team för virtualiserad skrivbordsinfrastruktur
+# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams för virtualiserad Skriv bords infrastruktur
 
-Detaljerad information om team för virtualiserade skrivbordsinfrastrukturmiljöer finns i [Team för virtualiserad skrivbordsinfrastruktur](https://docs.microsoft.com/microsoftteams/teams-for-vdi).
+Detaljerad information om Teams för virtualiserade dator infrastruktur miljöer finns i [Teams för virtualiserad Skriv bords infrastruktur](https://docs.microsoft.com/microsoftteams/teams-for-vdi).
 
-Kända problem och begränsningar i VDI-miljöer beskrivs i avsnittet [Kända problem och begränsningar](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) i samma artikel, som innehåller följande avsnitt:
- - Distribution, installation och installation av klient
+Kända problem och begränsningar i VDI-miljöer beskrivs i avsnittet [kända problem och begränsningar ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) i samma artikel som innehåller följande avsnitt:
+ - Klient distribution, installation och konfiguration
  - Ringa och möten
