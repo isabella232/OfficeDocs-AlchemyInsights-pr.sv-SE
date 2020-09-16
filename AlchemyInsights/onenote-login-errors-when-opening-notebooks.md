@@ -1,33 +1,34 @@
 ---
-title: OneNote - logga fel vid öppning av bärbara datorer
+title: OneNote-logga in fel när du öppnar antecknings böcker
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.collection: Adm_O365
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "2651"
 - "9000669"
-ms.openlocfilehash: 960d5d5b4349490f774c4e280dac3445bb2b8c48
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: c928e29d931b9deb3598377864265f9e03e5ed14
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643931"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729313"
 ---
-# <a name="issues-signing-in-to-onenote-notebooks"></a>Problem att logga in på OneNote-anteckningsböcker
+# <a name="issues-signing-in-to-onenote-notebooks"></a>Problem med att logga in på OneNote-anteckningsböcker
 
-Försök med följande om du får inloggningsnamnet eller lösenordet fel när du försöker öppna anteckningsboken:
+Om du får inloggnings-eller lösen ords fel när du försöker öppna antecknings boken kan du prova följande:
 
-- Om anteckningsboken inte öppnas lagras på OneDrive eller SharePoint Online, kan du försöka öppna anteckningsboken i OneNote för webben (www.onenote.com). Om den bärbara datorn inte visas kanske inte behörighet till den. Om det är en delad anteckningsbok Be ägaren att dela den och se till att använder du rätt konto för att logga in.
+- Om den antecknings bok som inte öppnas lagras på OneDrive eller SharePoint Online försöker du öppna antecknings boken i OneNote för webben (på www.onenote.com). Om antecknings boken inte är listad kanske du inte har behörighet till den. Om det är en delad antecknings bok ber du ägaren att dela den och kontrol lera att du använder rätt konto för att logga in.
 
-- Om den bärbara datorn öppnas OneNote för webben, kontrollera att du loggar in med aktuella uppgifter i OneNote. 
+- Om antecknings boken öppnas i OneNote för webben bör du kontrol lera att du loggar in med aktuella autentiseringsuppgifter i OneNote. 
 
-- Ta bort [autentiseringsuppgifterna Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) med [Windows Referenshanteraren](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager).
+- Rensa [Office-uppgifter](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) med hjälp av [Windows Autentiseringshanteraren Manager](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager).
 
-- Välj **Arkiv**i OneNote 2016 > **konto** och **Logga ut** för alla konton. Logga in igen med ett konto med en giltig licens. Mer information finns i [konton i Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- I OneNote 2016 väljer du **File**  >  **Account** och **loggar ut** från alla konton. Logga in igen med ett användar konto med en giltig licens. Mer information finns i [Konton i Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
-- Välj punkter (**...**) överst i OneNote för Windows höger på skärmen, Välj **Inställningar** > **konton**och se till att ett arbete eller skolan konto visas.
+- I OneNote för Windows väljer du ellipsen (**...**) högst upp till höger på skärmen, väljer **Inställningar**  >  **konton**och kontrollerar att ett arbets-eller skol konto visas.

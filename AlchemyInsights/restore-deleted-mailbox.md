@@ -1,5 +1,5 @@
 ---
-title: Återställa borttagen postlåda
+title: Återställ borttagen post låda
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -15,22 +15,22 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 284024bdf9728e8463fe69ef9c9c2695035faf2f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 899eb7e171d125c509871c219f99dfd1106b858a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511382"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728089"
 ---
-# <a name="restore-a-deleted-mailbox"></a>Återställa en borttagen postlåda
+# <a name="restore-a-deleted-mailbox"></a>Återställa en borttagen post låda
 
-När en användare förlorar en Exchange Online-licens behålls postlådan i 30 dagar och kan återställas genom att helt enkelt tilldela licensen till användaren.
+När en användare förlorar en Exchange Online-licens sparas post lådan i 30 dagar och kan återställas genom att helt enkelt tilldela licensen till användaren.
   
- *Detta kommer att fungera endast inom 30 dagar.*  
+ *Detta fungerar bara inom 30 dagar.*  
   
-1. Gå till sidan Aktiva användare **för användare av Användare i** Microsoft 365. \> **Active users** Välj användaren i fråga.
+1. Gå till sidan **användare** \> **aktiva användare** i administrations centret för Microsoft 365. Välj den användare du vill.
 
-2. På fliken **Licenser och appar** tilldelar du Exchange Online-licensen och väljer Spara **ändringar**.
+2. På fliken **licenser och appar** tilldelar du Exchange Online-licensen och väljer **Spara ändringar**.
 
-Om du försöker återställa en delad postlåda kan den också återställas i 30 dagar. Du kan hitta dem under **Användare** \> **Borttagna användare**; delade postlådor kräver ingen licens. Om du inser att du behöver återställa en borttagen användare läser du [Återställ en användare](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+Om du försöker återställa en delad post låda kan den också avsättas i 30 dagar. Du hittar dem under **användares** \> **borttagna användare**; delade post lådor kräver ingen licens. Om du vill återställa en borttagen användare kan du läsa [återställa en användare](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
   
