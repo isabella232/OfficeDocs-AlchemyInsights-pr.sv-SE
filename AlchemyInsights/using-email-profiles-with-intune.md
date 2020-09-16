@@ -6,37 +6,38 @@ manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1559"
 - "9000076"
-ms.openlocfilehash: 5aae83a0ab26c2bd59fddd2ad64d1c461d29f0f7
-ms.sourcegitcommit: 0e50dfcdb3f6aa72368279e23b83efecb9dc9c3f
+ms.openlocfilehash: 92d91de5d369eb9d0ffde2580b75376035a6945b
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46555760"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653306"
 ---
 # <a name="using-email-profiles-with-intune"></a>Använda e-postprofiler med Intune
 
-Intune kan användas för att skapa och distribuera e-postprofiler för den inbyggda (inbyggda) e-postklienten på flera enhetsplattformar.
+Intune kan användas för att skapa och distribuera e-postprofiler för den inbyggda (inbyggda) e-postklienten på flera plattformar.
 
-Information om några av de begränsningar som är kopplade till e-postprofiler, inklusive hur förekomsten av befintliga profiler hanteras och hur du tar bort e-postprofiler, finns [i Lägga till e-postinställningar på enheter som använder Intune](https://docs.microsoft.com/intune/email-settings-configure).
+Information om några av de begränsningar som gäller för e-profiler, inklusive hur befintliga profiler hanteras och hur du tar bort e-profilerna, finns i avsnittet [lägga till inställningar för e-post på enheter med Intune](https://docs.microsoft.com/intune/email-settings-configure).
 
-Mer information om hur du skapar e-postprofiler för varje enhetsplattform finns i:
+Mer information om hur du skapar e-postprofiler för varje enhets plattform finns i:
 
-[Inställningar för Android-enheter för att konfigurera e-post, autentisering och synkronisering i Intune](https://docs.microsoft.com/intune/email-settings-android)  
-[Lägga till e-postinställningar för iOS- och iPadOS-enheter i Microsoft Intune](https://docs.microsoft.com/intune/email-settings-ios)  
-[Inställningar för e-postprofiler i Microsoft Intune för enheter som kör Windows Phone 8.1](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
-[Inställningar för e-postprofiler för enheter som kör Windows 10 i Microsoft Intune](https://docs.microsoft.com/intune/email-settings-windows-10)
+[Android-enhetens inställningar för att konfigurera e-post, auktorisering och synkronisering i Intune](https://docs.microsoft.com/intune/email-settings-android)  
+[Lägga till e-postinställningar för iOS-och iPad-enheter i Microsoft Intune](https://docs.microsoft.com/intune/email-settings-ios)  
+[Inställningar för e-postprofil i Microsoft Intune för enheter med Windows Phone 8,1](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
+[Inställningar för e-postprofil för enheter med Windows 10 i Microsoft Intune](https://docs.microsoft.com/intune/email-settings-windows-10)
 
-**Vanligt synkroniseringsproblem**
+**Vanligt problem med synkronisering**
 
-**En KNOX på Android-e-postprofil förhindrar att användarna kontakter, kalender och uppgifter synkroniseras med användarenheter.**
+**En KNOX on Android-e-postprofil hindrar att användarnas kontakter, kalender och uppgifter synkroniseras till användar enheter.**
 
-Knox på Android KNOX-e-postprofilen ger administratören möjlighet att bestämma vilka innehållstyper som ska synkroniseras med enheten genom att ställa in var och en på aktiverad.
+I e-postprofilen KNOX på Android KNOX kan administratören välja att avgöra vilka innehålls typer som synkroniseras till enheten genom att ställa in dem på aktive rad.
 
-Om inställningen för någon av innehållstyperna är inställd **på Inte konfigurerad** (standard) synkroniseras inte innehållstypen automatiskt. En användare kan aktivera den innehållstyp de vill ha direkt på enheten manuellt, men den konfigurationen skrivs över av principinställningen Intune och synkroniseringen stoppas för den innehållstypen.
+Om inställningen för någon av innehålls typerna är inställd på **ej konfigurerad** (standard) synkroniseras inte den innehålls typen automatiskt. En användare kan aktivera den innehålls typ de vill ha direkt på enheten, men denna konfiguration skrivs över av Intune-inställningarna och synkroniseringen stoppas för innehålls typen.
 

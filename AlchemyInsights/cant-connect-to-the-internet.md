@@ -5,43 +5,44 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: c28ab39b88b4f088fb4c6e76450f79b16e1976ad
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 50e901a0bb6e6b4abefbb3aa8946c40fb11dfc99
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265070"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794280"
 ---
-# <a name="fix-network-connection"></a>Åtgärda nätverksanslutning
+# <a name="fix-network-connection"></a>Lös nätverks anslutning
 
-Om du vill lösa problem med nätverksanslutningen provar du först att köra felsökaren för nätverket. 
+Lös problem med nätverks anslutningen genom att först köra fel sökaren för nätverk. 
 
-1. [Öppna felsöksinställningarna](ms-settings:troubleshoot).
+1. [Öppna fel söknings inställningar](ms-settings:troubleshoot).
 
-2. Välj **Kör felsökaren**under **Internet-anslutningar.**
+2. Under **Internet-anslutningar**väljer **du kör fel sökaren**.
 
-Om du använder en Wi-Fi-anslutning kontrollerar du att Wi-Fi är aktiverat för enheten (inklusive en fysisk Wi-Fi-switch) och att flygplansläget inte är aktiverat.
+Om du använder en Wi-Fi-anslutning kontrollerar du att Wi-Fi är aktiverat för din enhet (inklusive valfri fysisk Wi-Fi-växel) och att flyg Plans läget inte är aktiverat.
 
-Om du använder en Ethernet-anslutning kontrollerar du att kabeln är ordentligt ansluten till datorn och routern eller modemet.
+Om du använder en Ethernet-anslutning kontrollerar du att sladden är ordentligt ansluten till datorn och routern eller modemet.
 
-Om det inte fungerar kan du prova att starta om datorn, modemet och routern (om du har en):
+Om det inte fungerar kan du försöka med att starta om datorn, modemet och routern (om du har ett sådant):
 
-1. Koppla från strömmen från modemet och routern. Om modemet har en batteribackup måste du ta bort batteriet för att helt stänga av strömmen.
+1. Koppla bort strömmen från ett modem och en router. Om du har en säkerhets kopia av ett modem måste du ta bort batteriet för att stänga av strömmen.
 
-2. Vänta i 30 sekunder. Om du tog bort batteriet från modemet lägger du in det igen.
+2. Vänta ca 30 sekunder. Om du har tagit bort batteriet från modemet sätter du in det igen.
 
-3. Anslut strömkabeln till modemet och routern.
+3. Koppla in sladden för modem och router.
 
-4. Medan du väntar på att modemet och routern ska vara helt påslagning startar du om datorn: **Starta** > **omstart av****strömmen** > .
+4. När du väntar på att modemet och routern ska kunna sätta på strömmen startar du om datorn: **Starta**  >  **energi**  >  **Start**.
 
-**Avancerad felsökning**
+**Avancerad fel sökning**
 
-Mer avancerade felsökningssteg finns [i Åtgärda problem med Wi-Fi-anslutning i Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
+Mer avancerade anvisningar för fel sökning finns i [åtgärda problem med WiFi-anslutning i Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
 
-Om du inte är bekväm med de mer tekniska felsökningsstegen [kontaktar du oss](https://support.microsoft.com/contactus).
+Om du inte är van vid att använda de mer tekniska fel söknings stegen [kontaktar du oss](https://support.microsoft.com/contactus).

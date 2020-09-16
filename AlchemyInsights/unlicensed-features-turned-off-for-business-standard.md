@@ -1,28 +1,29 @@
 ---
-title: Olicensierade funktioner inaktiverade för Business Standard-användare
+title: Ej licensierade funktioner inaktiverade för företags standard användare
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 6bba3b5a53304a78daa52268761fbfa8e3bc0431
-ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
+ms.openlocfilehash: 2fd5d03c287c81201d0d68cd718afef46db7a2f4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45198230"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658023"
 ---
-# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Olicensierade funktioner inaktiverade för Business Standard-användare
+# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Ej licensierade funktioner inaktiverade för företags standard användare
 
-Vissa Användare och organisationer i Microsoft 365 Business Standard har för närvarande fler funktioner tillgängliga för dem än de är licensierade för. Dessa funktioner omfattar följande inställningar för KLASSIFICERING, Märkning och Skydd (CLP) och DRM (Digital Rights Management):
+I vissa Microsoft 365 Business Standard-användare och-organisationer finns nu fler funktioner tillgängliga för dem. De här funktionerna innehåller följande inställningar för klassificering, märkning och skydd (CLP) och DRM (Digital Rights Management):
     
-Från och med den 30 juni 2020 är ytterligare funktioner inaktiverade för dessa användare i Microsoft Excel, Microsoft Word, Microsoft PowerPoint och Microsoft Outlook.
+Från och med den 30 juni 2020 är de här funktionerna inaktiverade för dessa användare i Microsoft Excel, Microsoft Word, Microsoft PowerPoint och Microsoft Outlook.
 
-Överväg att ändra licenstypen för den tillverkade användaren till en licens som innehåller dessa funktioner. 
+Överväg att ändra licens typen för den använda användaren till en licens som omfattar dessa funktioner. 
 
-Mer information finns i [Olicensierade funktioner som ges till Microsoft 365 Business Standard-användare](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview)
+Mer information finns i [olicensierade funktioner som ges till Microsoft 365 Business Standard-användare](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview)
