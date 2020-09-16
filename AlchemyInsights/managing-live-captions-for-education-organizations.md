@@ -1,32 +1,33 @@
 ---
-title: Hantera live-bildtexter för utbildningsorganisationer
+title: Hantera direkt titlar för utbildnings organisationer
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: ae1e047863317863f4e6c0136200aba90a7032a0
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
-ms.translationtype: MT
+ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46556131"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812781"
 ---
-# <a name="managing-live-captions-for-education-organizations"></a>Hantera live-bildtexter för utbildningsorganisationer
+# <a name="managing-live-captions-for-education-organizations"></a>Hantera direkt titlar för utbildnings organisationer
 
-Vi rekommenderar administratörer för utbildningsorganisationer att överväga att använda policypaket för student- och utbildarens säkerhet och lärare. Mer information finns i:  
+Vi rekommenderar att du använder policy paket för elev-och utbildare säkerhet och lärare. Mer information finns i:  
 
-- [Princippaket i Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
+- [Princip paket i Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
     
-- [Policyer som ska tilldelas för elevernas säkerhet](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+- [Principer som ska kopplas till student säkerhet](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
 
-- [Principer som ska tilldelas för lärare](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+- [Principer som ska kopplas till lärare](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
 
-Om du bara vill hantera möjligheten att aktivera live-bildtexter läser du [Aktivera live-bildtexter](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). Mer information finns i [Hantera mötespolicyer i Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Om du bara vill hantera möjligheten att aktivera direkt textning kan du läsa [Aktivera direkt Beskrivning](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). Mer information finns i [Hantera Mötes principer i Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
