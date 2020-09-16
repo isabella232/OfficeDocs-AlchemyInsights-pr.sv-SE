@@ -1,27 +1,28 @@
 ---
-title: Standardvärden för säkerhet
+title: Standardinställningar för säkerhet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: 47bba526630d1d8c27ef264e7ceefa3e17b274dc
-ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
+ms.openlocfilehash: e0136705cb17e69c3b26bbf621ebb10852477eb9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43118393"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740348"
 ---
-# <a name="security-defaults"></a>Standardvärden för säkerhet
+# <a name="security-defaults"></a>Standardinställningar för säkerhet
 
-Information om standardvärden för säkerhet finns i [Vad är standardvärden för säkerhet?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+Information om säkerhets inställningar finns i [Vad är säkerhets standarder?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-Standardvärden för säkerhet i Azure Active Directory (Azure AD) gör det enklare att vara säker och skydda din organisation. Standardinställningar för säkerhet innehåller förkonfigurerade säkerhetsinställningar för vanliga attacker.
+Säkerhets standarder i Azure Active Directory (Azure AD) gör det enklare att skydda din organisation. Säkerhets standarder innehåller förkonfigurerade säkerhets inställningar för vanliga angrepp.
 
-Microsoft gör säkerhetsstandarder tillgängliga för alla. Målet är att se till att alla organisationer har en grundläggande säkerhetsnivå aktiverad utan extra kostnad. Du aktiverar säkerhetsstandarder i Azure-portalen.
+Microsoft gör säkerhets standarder tillgängliga för alla. Målet är att säkerställa att alla organisationer har grundläggande säkerhet aktiverat utan extra kostnad. Du aktiverar säkerhets inställningar i Azure-portalen.

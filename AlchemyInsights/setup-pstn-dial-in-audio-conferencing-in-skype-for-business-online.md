@@ -1,10 +1,11 @@
 ---
-title: Konfigurera PSTN-ljudkonferenser i Skype för företag – Online
+title: Konfigurera PSTN-ljudkonferens i Skype för företag – Online
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,21 +13,21 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 2df72ee353fe0ac53d98d64942beca4ea5f83659
-ms.sourcegitcommit: 23d217597369d0ca585600f9454171e7c133c30e
+ms.openlocfilehash: 809627422cd245a6b5962762ced5b524dd0f3730
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42288272"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739555"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Konfigurera PSTN-ljudkonferenser i Skype för företag – Online
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Konfigurera PSTN-ljudkonferens i Skype för företag – Online
 
-Om du vill konfigurera ljudkonferenser för Skype för företag – Online måste du göra några saker. 
+Om du vill ställa in ljud konferenser för Skype för företag – Online måste du göra några saker. 
 
-- Ta reda på om ljudkonferenser är tillgängligt i ditt land/din region.
+- Ta reda på om ljud konferens är tillgängligt i ditt land/din region.
 
-- Hämta och tilldela licenser till användarna.
+- Skaffa och tilldela licenser till användarna.
 
-- Hämta och tilldela servicenummer.
+- Skaffa och tilldela service nummer.
 
-- Slutför checklistan i [Konfigurera ljudkonferenser för Skype för företag](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).
+- Slutför check listan i [Konfigurera ljud konferens för Skype för företag](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).
