@@ -1,25 +1,26 @@
 ---
-title: Felsöka ur office-autosvar
+title: Felsöka autosvar från Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 761ce82515eb264ea3266ccf20948a5ca470a1ec
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: 3aa48fdc9c7b1ca227e32d229ce4ce2102944f58
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708126"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664980"
 ---
-# <a name="troubleshooting-out-of-office-automatic-replies"></a>Felsöka ur office-autosvar
+# <a name="troubleshooting-out-of-office-automatic-replies"></a>Felsöka autosvar från Office
 
-En mängd olika möjliga orsaker kan vara orsaken till problem beroende på hur du har konfigurerat de ur office-autosvaren.
+Ett stort antal möjliga orsaker kan vara orsaken till problem beroende på hur du har konfigurerat autosvar för frånvaro.
 
-För en djupare förståelse av var problemet kan vara, läs [Förstå och felsöka Out of Office (FRÅNVARANDE) svar](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)
+Om du vill veta mer om var problemet finns kan du läsa [förstå och felsöka frånvaro](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972) meddelanden
