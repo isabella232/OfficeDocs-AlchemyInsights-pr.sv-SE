@@ -1,34 +1,35 @@
 ---
-title: Ändra kontobild
+title: Ändra profil bild
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: c96cf829c192456291e2926e4a8e7312e43583bd
-ms.sourcegitcommit: c6c5d3f753038e3eee852111c6581e55c2f6c686
+ms.openlocfilehash: c2a7ac823c9a50d66e597ca1ca0cbf6906efe183
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42574389"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734065"
 ---
-# <a name="change-account-picture"></a>Ändra kontobild
+# <a name="change-account-picture"></a>Ändra profil bild
 
-Om du använder ett användarnamn och lösenord för att logga in på Windows 10 använder du ett lokalt konto. **Så här ändrar du din lokala kontobild:**
+Om du använder ett användar namn och lösen ord för att logga in i Windows 10 använder du ett lokalt konto. **Så här ändrar du din lokala profil bild**:
 
-1. Gå till > **Startinställningar** > **Konton** > **Din info**. ****
-2. Klicka på Bläddra **efter en**under **Skapa bilden**. Om enheten har en kamera klickar du på **Kamera** och tar en selfie. 
-    **Windows**kommer ihåg de tre senaste bilderna som du har använt. Klicka på bilden på sidan Din information för att växla till den.
+1. Gå till **Start**  >  **Inställningar**  >  **konton**  >  **din info**.
+2. Under **skapa en bild klickar du**på **Bläddra efter en**. Om din enhet har en kamera klickar du på **kamera** och gör en egen. 
+    **Obs!** Windows kommer ihåg de tre senaste bilderna som du har använt. Klicka på bilden på sidan information för att växla till den.
 
-Om du använder en e-postadress och ett lösenord för att logga in använder du ett Microsoft-konto. Så här ändrar du din Microsoft-kontobild:
+Om du använder en e-postadress och ett lösen ord för att logga in använder du ett Microsoft-konto. Så här ändrar du din Microsoft-profil bild:
 
-1. Logga in på sidan **Din information** med ditt Microsoft-konto.
-2. Klicka på **Lägg till bild** eller Ändra **bild**och följ sedan instruktionerna.
+1. Logga in **på sidan med ditt Microsoft** -konto.
+2. Klicka på **Lägg till bild** eller **ändra bild**och följ sedan instruktionerna.
 
 [Få mer hjälp med att konfigurera och hantera ditt Microsoft-konto](https://support.microsoft.com/products/microsoft-account?category=manage-account).
