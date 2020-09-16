@@ -1,29 +1,30 @@
 ---
-title: Tjänstincident pågår
-ms.author: v-crytho
+title: Tjänst problem pågår
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2ed85d10-162f-4e4a-a843-7ad20e00a077
 ms.custom:
 - "121"
 - "1600017"
-ms.openlocfilehash: 5dd353c68aeda88c9adf3264eecc40f8e84a1f3f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9bd973c26d7decb40a97884ab241bbde7165f31a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43681806"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47767941"
 ---
-# <a name="service-incident-in-progress"></a>Tjänstincident pågår
+# <a name="service-incident-in-progress"></a>Tjänst problem pågår
 
-Du kan påverkas av en tjänstincident eller en rådgivande som för närvarande utreds. Du kan kontrollera den senaste statusen genom att gå till sidan [Servicehälsa.](https://admin.microsoft.com/adminportal/home#/servicehealth)
+Du kanske påverkas av en tjänste olycka eller ett råd som håller på att undersökas. Du kan kontrol lera den senaste statusen genom att gå till sidan [tjänstens hälsa](https://admin.microsoft.com/adminportal/home#/servicehealth) .
   
-För din bekvämlighet kan du hitta en sammanfattning av denna incident nedan:
+För din bekvämlighet kan du hitta en sammanfattning av den här incidenten nedan:
   
-> **Incidentnummer:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Incident nummer:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Effektbeskrivning: {ImpactDescription}
+> Effekt Beskrivning: {ImpactDescription}
