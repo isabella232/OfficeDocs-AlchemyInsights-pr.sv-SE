@@ -6,22 +6,23 @@ manager: dougeby
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: 9c7908ef11a26fd83ca83e8c134708687f6d750f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c3c2233dab60d58438068c6c61a0567b8f68e022
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710497"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796594"
 ---
-# <a name="using-custom-policy-in-intune"></a>Använda anpassad princip i Intune
+# <a name="using-custom-policy-in-intune"></a>Använda en anpassad princip i Intune
 
-Intune har många inbyggda inställningar för Android-, iOS-, macOS- och Windows-enheter. Du kan också skapa en anpassad profil och sedan distribuera dessa anpassade inställningar till dina enheter med Intune. Anpassade profiler är utformade för att lägga till enhetsinställningar och funktioner som inte är inbyggda i Intune.
+Intune har många inbyggda inställningar för Android-, iOS-, macOS-och Windows-enheter. Du kan också skapa en anpassad profil och sedan distribuera de anpassade inställningarna till dina enheter med Intune. Anpassade profiler är avsedda att lägga till enhets inställningar och funktioner som inte är inbyggda i Intune.
 
 [Anpassade inställningar för Android-enheter i Intune](https://docs.microsoft.com/intune/custom-settings-android)
 
@@ -29,8 +30,8 @@ Intune har många inbyggda inställningar för Android-, iOS-, macOS- och Window
 
 [Anpassade inställningar för iOS-enheter i Intune](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[Anpassade inställningar för macOS-enheter i Intune](https://docs.microsoft.com/intune/custom-settings-macos)
+[Anpassade inställningar för Mac OS-enheter i Intune](https://docs.microsoft.com/intune/custom-settings-macos)
 
 [Anpassade inställningar för Windows 10-enheter i Intune](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[Anpassade inställningar för Windows Holographic for Business-enheter i Intune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[Anpassade inställningar för Windows Holographic för företag-enheter i Intune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
