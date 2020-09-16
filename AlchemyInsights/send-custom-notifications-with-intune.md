@@ -5,31 +5,32 @@ author: brenduns
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000679"
 - "2565"
-ms.openlocfilehash: 969649084a2ac536ee1b41f225c3be5415a27c4b
-ms.sourcegitcommit: 2572c4e5a981d5f3f556835061c568cfd08b78da
+ms.openlocfilehash: 2e5e2e2f24c46d3db4f08862dcc80934937f6f51
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886875"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720664"
 ---
-# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Så här skickar du anpassade meddelanden till användare av hanterade iOS-och Android-enheter
+# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Skicka anpassade meddelanden till användare av hanterade iOS-och Android-enheter
 
-Anpassade meddelanden för Intune bearbetas av företagsportalappen på en användares enhet. Appen skapar sedan push-meddelande på den enheten.
+Anpassade meddelanden för Intune bearbetas av företagsportalsappen på en användares enhet. Programmet skapar sedan push-meddelandet på den enheten.
 
-Följande är enhets förutsättningar för att stödja mottagandet av anpassade meddelanden och för att appen ska skapa push-meddelandet:
+Följande är enhets förutsättningar för att stödja mottagning av anpassade meddelanden, och för appen att skapa push-meddelandet:
 
-- Enheten måste ha företagsportalappen installerad.  
+- Programmet måste ha företagsportalsappen installerat.  
 
-- Enheten måste tillåta företagsportalappen att skicka push-meddelanden. När appen installeras eller uppdateras uppmanas användaren att tillåta meddelanden.
+- Enheten måste tillåta att företagsportalsappen skickar push-meddelanden till företags portalen. När appen installeras eller uppdateras uppmanas användaren att tillåta aviseringar.
 
-- Android-enheter måste ha Google Play-tjänster installerade.
+- Google Play Services måste vara installerat på Android-enheter.
 
 - Enheten måste vara registrerad med Intune.
 
-Mer information, inklusive hur du skickar ett meddelande, finns i [funktions dokumentationen](https://docs.microsoft.com/intune/custom-notifications).
+Mer information om hur du skickar ett meddelande finns i dokumentationen för [funktionerna](https://docs.microsoft.com/intune/custom-notifications).

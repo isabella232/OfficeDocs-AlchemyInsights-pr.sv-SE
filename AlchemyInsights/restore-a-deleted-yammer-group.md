@@ -5,20 +5,21 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: 3aa0a883d0822f260cff5f68590ecac278b7af0b
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: db5988be7c1aba93075ab3631f8cd9d3a78d1485
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582217"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720736"
 ---
 # <a name="restore-a-deleted-yammer-group"></a>Återställa en borttagen Yammer-grupp
 
-[Anslutna Office 365-grupper i Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) kan återställas inom 30 dagar efter borttagningen genom att följa stegen för att [återställa en borttagen Microsoft 365-grupp](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group).
-I vissa fall kanske en Yammer-grupp inte är ansluten till en Microsoft 365-grupp. Om så är fallet är det inte möjligt att automatiskt återställa gruppen, men det kan vara möjligt att komma åt borttagna data i [Yammer-dataexporten](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) om [bevarandeprincipen](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) för nätverksdata är inställd på *Mjuk borttagning*. Kontakta [verifierad administratör](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) för Yammer-nätverket för att kontrollera datalagringsprincipen eller utföra en dataexport.
+[Office 365-anslutna grupper i Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) kan återställas inom 30 dagar efter borttagningen genom att följa anvisningarna för att [återställa en borttagen Microsoft 365-grupp](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group).
+I vissa fall kan en Yammer-grupp inte vara ansluten till en Microsoft 365-grupp. Om så är fallet är det inte möjligt att återställa gruppen automatiskt, men det kan hända att du får åtkomst till borttagna data i Yammer- [dataexporten](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) om principen för [lagring](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) av nätverks data är inställd på *mjuk borttagning*. Kontakta den [verifierade administratören](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) för ditt Yammer-nätverk för att kontrol lera data lagrings principen, eller för att utföra en data export.
