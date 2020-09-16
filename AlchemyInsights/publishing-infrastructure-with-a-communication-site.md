@@ -1,26 +1,26 @@
 ---
-title: Publicera infrastruktur med en kommunikationswebbplats
+title: Infrastruktur för publicering med en kommunikations webbplats
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: d1cc9f8fcfef93cafa96eefaed2f61d7fb0940ef
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: e67fc09d66fcd75e08ebf815f4cb3eddfb68cb3e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576758"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751837"
 ---
-# <a name="publishing-infrastructure-with-a-communication-site"></a>Publicera infrastruktur med en kommunikationswebbplats
+# <a name="publishing-infrastructure-with-a-communication-site"></a>Infrastruktur för publicering med en kommunikations webbplats
 
 
-Det **går inte att** aktivera funktionen Infrastruktur för SharePoint Server Publishing infrastructure med Kommunikationswebbplatser. 
+Det **går inte** att aktivera infrastruktur funktionen för SharePoint Server-publicering med kommunikations webbplatser. 
   
-Mer information finns i [Flytta från publiceringswebbplatser till kommunikationswebbplatser](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
+Mer information finns i [flytta från publicerings webbplatser till kommunikations webbplatser](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
   
 
