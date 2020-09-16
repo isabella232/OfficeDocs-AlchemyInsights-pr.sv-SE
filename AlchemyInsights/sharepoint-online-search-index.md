@@ -4,31 +4,32 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 85f29fabe3189fe248696155208b56d4901ab6de
-ms.sourcegitcommit: b5370f0fc8da1e7e5ac960cb622a21612a9c86be
+ms.openlocfilehash: f790efbe6ed445786933efa3fc980f974693d1d9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/29/2020
-ms.locfileid: "42341100"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770785"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Innehåll som genomsöker och indexerar i SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Innehålls crawlning och indexering i SharePoint Online
 
-Innehållet måste genomsökas och läggas till i sökindexet för användare för att hitta det de söker efter i SharePoint Online.
+Innehållet måste crawlas och läggas till i Sök indexet för att användarna ska kunna hitta det du söker efter i SharePoint Online.
 
-- Kontrollera att innehållet kan hittas genom [att göra webbplatsinnehåll sökbart](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
+- Kontrol lera att innehåll kan hittas genom [att göra webbplats innehållet sökbart](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
-- När du har ändrat en hanterad egenskap, eller när du har ändrat mappningen av crawlade och hanterade egenskaper, måste webbplatsen genomsökas igen innan ändringarna återspeglas i sökindexet.
+- När du har ändrat en hanterad egenskap eller om du har ändrat mappningen av crawlade och hanterade egenskaper måste webbplatsen crawlas igen innan ändringarna återspeglas i Sök indexet.
 
-- Mer information finns i [Begär du genomsökning och omindexering av en webbplats, ett bibliotek eller en lista](https://docs.microsoft.com/sharepoint/crawl-site-content).
+- Mer information finns i [manuell crawlning och Omindexering av en webbplats, ett bibliotek eller en lista](https://docs.microsoft.com/sharepoint/crawl-site-content).
 
-- Vänta minst 24 timmar efter att manuellt ha begärt ett genomsöknings- och fullständigt omindex för att se om du fortfarande har problem.
+- Vänta minst 24 timmar efter att ha begärt en crawlning och fullständig Omindexering för att se om problemet kvarstår.
 
-- Om mer än 24 timmar har gått sedan du initierade genomsökning och fullständig re-index, vänligen logga ett supportärende. I många fall arbetar vi redan på en lösning. Vänligen ge oss minst 24 timmar att slutföra en lösning.
+- Om mer än 24 timmar har passerat sedan du initierade crawlningen och fullständig Omindexering loggar du in ett support ärende. I många fall jobbar vi redan med en lösning. Ange minst 24 timmar för att slutföra en lösning.
 
-**Viktigt:** Om en webbplats, ett dokument (bibliotek) eller en lista har tagits bort och fortfarande visas i sökresultaten, bör användarna få en **Fel 404-fil hittades inte** när de försöker komma åt den. Det här problemet bör loggas som ett stödargument för vidare utredning.
+**Viktigt**: om en webbplats, ett dokument (ett bibliotek) eller en lista har tagits bort och fortfarande visas i Sök resultaten, får användarna en **Felkod 404-fil som inte hittades** när de försöker komma åt den. Detta problem bör loggas som ett support ärende för ytterligare undersökningar.
 
 
 
