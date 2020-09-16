@@ -1,42 +1,43 @@
 ---
-title: Ändra lösenord för W-Fi-router
+title: Ändra lösen ord för W-Fi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: c0413d1a262d2b7c0245f0fae16b4b60d0a35e19
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 85aa158d917521fac871fd5c6687737fd22d736c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584531"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733453"
 ---
-# <a name="change-your-wi-fi-router-password"></a>Ändra lösenordet för wi-fi-routern
+# <a name="change-your-wi-fi-router-password"></a>Ändra lösen ord för WiFi-router
 
-Så här ändrar du lösenordet för Wi-Fi-routern:
+Följ de här stegen om du vill ändra lösen ordet för din Wi-Fi-router:
 
-1. Välj > **Startinställningar** > **Nätverk & Internet** > **Network and Sharing Center**. ****
+1. Välj **Start**  >  **Inställningar**  >  **nätverks &**  >  **nätverks-och delnings Center**för Internet.
 
-2. Under **Visa dina aktiva nätverk**letar du efter nätverket som du är ansluten till. Markera den blå länken **bredvid Anslutningar**.<br>
+2. Leta efter nätverket du är ansluten till under **Visa dina aktiva nätverk**. Välj den blå länken bredvid **anslutningar**.<br>
 
-   **Obs:** Om du inte är ansluten till Wi-Fi måste du ansluta innan du kan ändra lösenordet.
+   **Obs!** Om du inte är ansluten till Wi-Fi måste du koppla ner dig innan du kan ändra lösen ordet.
 
 3. Välj **information**.
 
-4. Sök efter din IPv4 Default Gateway och ta del av den här strängen med siffror, inklusive perioder. Till exempel: 192.168.0.1, 192.168.1.1, 10.0.0.1 eller 10.0.1.1
+4. Sök efter din IPv4-standardgateway och ta del av denna sträng med nummer inklusive punkter. Till exempel: 192.168.0.1, 192.168.1.1, 10.0.0.1 eller 10.0.1.1
 
-5. Öppna en webbläsare, ange den här strängen med siffror, inklusive perioderna i adressfältet och tryck på Retur för att gå till routerns konfigurationssida.
+5. Öppna en webbläsare, ange den här strängen med siffror inklusive perioderna i adress fältet och tryck på RETUR för att gå till routerns konfigurations sida.
 
-6. När routerns konfigurationssida öppnas anger du ditt användarnamn och lösenord.<br>
-   - Om du aldrig har ändrat routerns standardanvändarnamn och lösenord kan du förmodligen hitta den här informationen i routerns handbok.
+6. När routerns konfigurations sida öppnas anger du ditt användar namn och lösen ord.<br>
+   - Om du aldrig har ändrat standard användar namn och lösen ord för routern kan du troligt vis hitta den här informationen i din routers manual.
 
-   - Kontakta routerns tillverkare om du behöver ytterligare support som loggar in på den här webbsidan.
+   - Kontakta tillverkaren av din router om du behöver ytterligare support loggning på webb sidan.
 
-7. När du är inloggad hittar du trådlösa inställningar. Du bör nu kunna ändra ditt Wi-Fi-lösenord.
+7. När du har loggat in kan du hitta trådlösa inställningar. Du bör nu kunna ändra ditt lösen ord.
