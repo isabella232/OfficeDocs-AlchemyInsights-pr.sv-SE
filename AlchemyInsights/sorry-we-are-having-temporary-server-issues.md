@@ -1,39 +1,40 @@
 ---
-title: Åtgärda Microsoft 365-appar Tyvärr har vi ett meddelande om tillfälliga serverproblem
+title: Åtgärda Microsoft 365-appar vi har tyvärr problem med tillfällig Server
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: 6db04a437de8e50af349b5c690791981ae872f14
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: e00504d318efdea4968ddf98b3ce9591f8993e38
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582721"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758263"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Åtgärda meddelandet "Tyvärr, vi har tillfälliga serverproblem" visas meddelandet "Tyvärr, vi har tillfälliga serverproblem"
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Åtgärdar ett meddelande om att Microsoft 365-apparna "Vi har tillfälliga Server problem"
 
 Om du får det här meddelandet kan du prova följande:
 
-1. Kontrollera brandväggen, antivirusprogrammet och proxyinställningarna för att bekräfta att de inte blockerar Internetåtkomst till Microsoft 365-appar. Se [webbadresser och IP-adressintervall](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Kontrol lera brand vägg, antivirus program och proxyinställningar för att bekräfta att de inte blockerar Internet åtkomst till Microsoft 365-appar. Se [URL: er och IP-adressintervall](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Gå **Start**till  >  **Startkörning**och skriv sedan **services.msc**. Kontrollera att alla följande tjänster körs:
-    - Automatisk installation av nätverksanslutna enheter
-    - Tjänsten Nätverkslista
-    - Medvetenhet om nätverksplats
-    - Windows-händelselogg
+2. Gå till **Start**  >  **Kör**och skriv **Services. msc**. Kontrol lera att följande tjänster körs:
+    - Automatisk konfiguration av nätverksanslutna enheter
+    - Tjänsten nätverks lista
+    - Nätverks plats medvetenhet
+    - Windows-händelseloggen
 
-Om en av dessa tjänster inte körs försöker du starta den. Om du har problem med att starta tjänsten kör du följande kommando genom att öppna en kommandotolk med förhöjda behörigheter:
+Om någon av de här tjänsterna inte körs kan du försöka starta den. Om du har problem med att starta tjänsten kör du följande kommando genom att öppna en kommando tolk med förhöjda behörigheter:
 
-**sfc /scannow**
+**sfc/scannow**
 
-När det här kommandot är klart startar du om datorn.
+Starta om datorn när det här kommandot är klart.
 
-Detaljerad information finns i ["Tyvärr, vi kan inte ansluta till ditt konto. Försök igen senare" fel när du aktiverar](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Detaljerad information finns i ["det går inte att ansluta till ditt konto. Försök igen senare "när du aktiverar](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
