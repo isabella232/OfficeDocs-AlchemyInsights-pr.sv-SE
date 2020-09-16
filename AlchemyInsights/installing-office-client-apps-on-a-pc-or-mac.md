@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 6084b3b48b262b36dbab8d5924e271ad98678793
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 38ff075c86d10cc88ab081701bf443446ba98984
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43790025"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667860"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Installera Office-klientappar på en PC eller MAC
 
@@ -24,9 +25,9 @@ Om du vill installera Office-klientappar ser du till att du har en Office 365-pr
 
 **Obs!** [Office Home and Business](https://products.office.com/home-and-business) är en [Office för hemmet](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)-produkt och inte en del av en företagsprenumeration. Project Online Essentials innehåller inte skrivbordsversionen av Project, och därför krävs ingen installation. Visio Abonnemang 1-användare har åtkomst till Visio för webben, eftersom abonnemanget inte inkluderar skrivbordsprogrammet Visio. Project- och Visio-skrivbordsprogram är inte tillgängliga på Mac.
 
-Om du har en prenumeration som inkluderar Office-program, visas inte något alternativ för att installera det såvida du inte har en [tilldelad licens](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Om du är den Office 365-administratör som ansvarar för att tilldela licenser läser du avsnittet om att [Tilldela licenser till användare](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Du kan också använda [inställningar för nedladdning av Office-‎programvara](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) för att välja om användare ska kunna installera ‎Office-‎program på sina egna enheter.
+Om du har ett abonnemang som innehåller Microsoft 365-appar ser du inte något alternativ för att installera det om du inte har en [tilldelad licens](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Om du är den Office 365-administratör som ansvarar för att tilldela licenser läser du avsnittet om att [Tilldela licenser till användare](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Du kan också använda [inställningar för nedladdning av Office-‎programvara](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) för att välja om användare ska kunna installera ‎Office-‎program på sina egna enheter.
 
-**Obs!** I [rapporten Office-aktivering](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) får du en översikt över vilka användare som har installerat och aktiverat sina Office-program på minst en enhet.
+**Obs!** i [aktiverings rapporten för Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) får du en vy över vilka användare som har installerat och aktiverat sina Microsoft 365-appar på minst en enhet.
 
 Alla användare ska sedan göra följande:
 

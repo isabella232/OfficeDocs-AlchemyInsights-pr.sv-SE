@@ -1,26 +1,27 @@
 ---
-title: Saknade 'LocalizedNames' i elementet 'savedquery'
+title: Saknar ' LocalizedNames ' i elementet ' savedquery '
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1739"
 - "9000187"
-ms.openlocfilehash: a891b31e90951be8349a7fda705a14320e22fb3a
-ms.sourcegitcommit: ebb3595422b581eca98a05533f8d82239daec09a
+ms.openlocfilehash: 4b25596ab68cf1723df4fa6a593cef5341c8ff16
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423855"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667140"
 ---
-# <a name="missing-localizednames-in-element-savedquery"></a>Saknade 'LocalizedNames' i elementet 'savedquery'
+# <a name="missing-localizednames-in-element-savedquery"></a>Saknar ' LocalizedNames ' i elementet ' savedquery '
 
-Om du vill ha hjälp med saknade "LocalizedNames" finns i ["Elementet "savedquery" har ofullständigt innehåll. En lista över förväntade element: "LocalizedNames"-fel uppstår vid import av en Dynamics 365-lösning](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).
+Om du behöver hjälp med att sakna ' LocalizedNames ' kan [du läsa "elementet ' savedquery ' har ofullständigt innehåll. Lista med möjliga element som förväntas: felet "LocalizedNames" inträffar när en Dynamics 365-lösning importeras](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).
 
-Leta efter specialtecken i vynamnet som kan orsaka problemet. Ta bort eventuella specialtecken i vynamnet och exportera lösningen igen.
+Leta efter specialtecken i vyns namn som kan orsaka problemet. Ta bort alla specialtecken i vyns namn och exportera lösningen igen.

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354106"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670382"
 ---
 # <a name="teams-admin-center"></a>Administrationscenter för Teams
 
@@ -31,5 +32,5 @@ Om användarna inte visas i Administrationscenter för Teams kontrollerar du fö
 
 - Har du skapat användare eller tilldelat licenser under de senaste 24 timmarna? Se till att vänta minst 24 timmar innan du skapar ett supportärende.
 - Har du tilldelat lämpliga licenser?
-- Om du har en lokal Active Directory kontrollerar du att värdet för [msRTCSIP-PrimaryUserAddress eller SIP-adressen i fältet ProxyAddresses i den lokala Active Directory är unikt och formatet matchar](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) sip:**Användarens användarnamn** från Microsoft [365-administrationscentret](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Om du tänker behålla en Skype för företag-server-distribution och låta användarna vara lokalt och online hemma: följ **"Konfigurera hybrid med Teams och Skype för företag – Online"** på kontrollpanelen för Skype för företag Server och flytta användarna online.
+- Om du har en lokal Active Directory-version kontrollerar du att [värdet för msRTCSIP-PrimaryUserAddress eller SIP-adressen i fältet ProxyAddresses i din lokala Active Directory är unikt och att formatet matchar](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) SIP:**användar namn** från [administrations centret för Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Om du planerar att hålla en distribution av Skype för företag och låta användare vara lokalt anslutna och online: Följ instruktionerna för att **Konfigurera hybrid med Teams och Skype för företag – Online** i din Skype för företag-Server och flytta användare online.
