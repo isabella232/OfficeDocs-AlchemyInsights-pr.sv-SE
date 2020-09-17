@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "1949"
 - "9000323"
 ms.assetid: ''
-ms.openlocfilehash: b5b7f44b8a629f4781c4d953cc24ccb21c99c333
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 382eb4c8d973353c1fb61f49cf0993bce3f626cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711361"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812529"
 ---
 # <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Det går inte att lägga till eller skapa en ny signatur i Outlook
 
-Detta är ett känt problem. Vi arbetar för att åtgärda det och statusen uppdateras i [Outlook låser sig genom att klicka på knappen Signatur](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Detta är ett känt problem. Vi arbetar för att åtgärda det och statusen uppdateras i Outlook låser sig när du [klickar på knappen signatur](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
 
-Du kan lösa problemet genom att [först prova stegen](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) för att avinstallera de förinstallerade Microsoft Office Desktop Apps. 
+Du kan undvika problemet genom [att först avinstallera de](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) förinstallerade Microsoft Office-programmen. 
 
-Om det inte fungerar för den berörda datorn provar du den [registerbaserade lösningen](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Om det inte fungerar för den påverkade datorn kan du prova den [registerbaserade lösningen](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
