@@ -1,32 +1,33 @@
 ---
-title: Inte tillräckligt med minne
+title: För lite minne
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2564"
 - "9000678"
-ms.openlocfilehash: 7215e3a86f9be10f3d6e5471a621aa41583ad33a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0729efa4c4662047c1a5103788ecf129bff2a4ec
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "41969833"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772604"
 ---
-# <a name="there-isnt-enough-memory-to-complete-this-action"></a>Det finns inte tillräckligt med minne för att slutföra den här åtgärden
+# <a name="there-isnt-enough-memory-to-complete-this-action"></a>Det finns inte tillräckligt med minne för att slutföra åtgärden
 
-När du arbetar med en Microsoft Excel-fil visas något av följande meddelanden:
+När du arbetar med en Microsoft Excel-fil får du något av följande meddelanden:
 
-- Excel kan inte slutföra den här uppgiften med tillgängliga resurser. Välj mindre data eller stäng andra program.
-- på minne
-- Det räcker inte med systemresurser för att visa helt
-- Det finns inte tillräckligt med minne för att slutföra den här åtgärden. Prova att använda mindre data eller stänga andra program. Om du vill öka minnestillgängligheten bör du tänka på: 
-    - Använda en 64-bitarsversion av Microsoft Excel.
-    - Lägga till minne på enheten.
+- Det går inte att slutföra den här uppgiften med tillgängliga resurser. Välj mindre data eller Stäng andra program.
+- Slut på minne
+- För lite system resurser att visas fullständigt
+- Det finns inte tillräckligt med minne för att slutföra åtgärden. Försök att använda mindre data eller stänga andra program. För att öka minnes tillgängligheten bör du tänka på följande: 
+    - Använda en 64-bitars version av Microsoft Excel.
+    - Lägga till minne på din enhet.
 
-Information om felsöka dessa fel finns i [Felsöka "tillgängliga resurser" i Excel](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors).
+Information om hur du felsöker de här felen finns i [så här felsöker du fel i "tillgängliga resurser" i Excel](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors).

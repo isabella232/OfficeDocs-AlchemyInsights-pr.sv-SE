@@ -1,40 +1,41 @@
 ---
-title: Prenumerationsstatus
+title: Abonnemangs status
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: cc0a7c708aafc7c6c9680deefd6cbf65991a4d18
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 1dd3268044d1859b2648486717b41f7941d135b5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44063239"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773505"
 ---
-# <a name="subscription-status"></a>Prenumerationsstatus
+# <a name="subscription-status"></a>Abonnemangs status
 
-Prenumerationsstatus finns på sidan **Dina produkter** i administrationscentret för Microsoft 365.
+Du hittar abonnemangs status på sidan **produkter** i administrations centret för Microsoft 365.
 
-1. Gå till **Fakturering**  >  **[dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Gå till **fakturering**  >  **[av dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Om det finns ett problem med statusen för någon av prenumerationerna visas antingen en röd varningsikon bredvid prenumerationen eller statusen "utgångna" eller "inaktiverad" i avsnittet Fakturering i prenumerationsinformationen.
+2. Om det uppstår ett problem med statusen för en prenumeration visas antingen en röd varnings ikon bredvid prenumerationen eller statusen "förfallen" eller "inaktive rad" i fakturerings delen av abonnemangs informationen.
 
-3. Om du vill återaktivera en prenumeration som har upphört att gälla eller inaktiverat klickar du på **Återaktivera nu**.
+3. Om du vill återaktivera ett inaktuellt eller inaktiverat abonnemang klickar du på **återaktivera nu**.
 
-**Utgångsdatum**
+**Utgångs datum**
 
-1. Gå till **Fakturering**  >  **[dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Gå till **fakturering**  >  **[av dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Beroende på vyn visas utgångsdatumet längst till höger med etiketten **Datum** eller i avsnittet **Fakturering** i prenumerationsinformationen **bredvid Förfallodagen på**.
+2. Beroende på vyn visas utgångs datumet i kolumnen längst till höger, med etiketten **datum** eller i **fakturerings** delen av abonnemangs informationen bredvid **den.**
 
 **Licenser**
 
-Antalet köpta och använda licenser visas genom prenumeration på sidan **Dina produkter.**
+Antalet köpta och använda licenser listas efter abonnemang på sidan **produkter** .
 

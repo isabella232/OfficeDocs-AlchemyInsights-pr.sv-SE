@@ -1,27 +1,27 @@
 ---
-title: Version av Verktyget för sharepoint-migrering som stöds
+title: Version av Migreringsverktyget för SharePoint som stöds
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1c1c035-87ad-4d7a-a347-98522429c7aa
-ms.openlocfilehash: 8042a76f015388ae44b88ba131d0d0151a531870
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: c89d9326bae649c3cf9384b1c47842a36399816a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741608"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773397"
 ---
-# <a name="supported-version-of-the-sharepoint-migration-tool"></a>Version av Verktyget för sharepoint-migrering som stöds
+# <a name="supported-version-of-the-sharepoint-migration-tool"></a>Version av Migreringsverktyget för SharePoint som stöds
 
 
 
-För närvarande stöder SharePoint-migreringsverktyget endast migreringar från SharePoint 2013. Versionerna 2010 och 2016 stöds inte just nu.
+För närvarande stöds endast migrering från SharePoint 2013 med Migreringsverktyget för SharePoint. Versionerna 2010 och 2016 stöds inte för närvarande.
   
-Mer information finns i [Introduktion till Verktyget för SharePoint-migrering](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).
+Mer information finns i [Introduktion till Migreringsverktyget för SharePoint](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).
   
 
