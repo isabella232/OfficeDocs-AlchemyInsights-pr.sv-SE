@@ -1,37 +1,38 @@
 ---
-title: Registrerings bas regel för iOS-Bucket
+title: Bas regel för registrering för iOS-Bucket
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2684"
-ms.openlocfilehash: 806f6704d3b893ea8b22824de94166cae75b88f4
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 7e549fe002b087fb167bd04b9a404689d19996c8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37638196"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784181"
 ---
-# <a name="intune-device-enrollment"></a>Intune-enhetsregistrering
+# <a name="intune-device-enrollment"></a>Intune-registrering
 
-[Lär dig mer om enhetsregistrering med Intune](https://docs.microsoft.com/intune/enrollment/device-enrollment)
+[Lär dig mer om enhets registrering med Intune](https://docs.microsoft.com/intune/enrollment/device-enrollment)
 
-[Konfigurera iOS-enhetsregistrering med Intune](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[Konfigurera iOS-enhetsupptäckning med Intune](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[Konfigurera registrering av Android-enheter med Intune](https://docs.microsoft.com/intune/android-enroll)
+[Konfigurera Android-enhets registrering med Intune](https://docs.microsoft.com/intune/android-enroll)
 
-[Konfigurera Windows-enhetsregistrering med Intune](https://docs.microsoft.com/intune/windows-enroll)
+[Konfigurera Windows-enhets registrering med Intune](https://docs.microsoft.com/intune/windows-enroll)
 
-Felsöka enhetsregistrering
+Felsöka enhets registrering
 
-1. Använd [Intune-felsökningsportalen](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) för att diagnostisera och lösa vanliga registreringsfel. Läs igenom [det här dokumentet](https://docs.microsoft.com/intune/help-desk-operators) för mer information.
+1. Använd [fel sökaren för Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)   för att diagnosticera och lösa vanliga registrerings problem. Granska [det här dokumentet](https://docs.microsoft.com/intune/help-desk-operators) för mer information.
 
-2. Granska dessa dokument för en lista över vanliga fel som förhindrar registrering och upplösningar:
-    - [Felsökningsguide](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)
-    - [Felsökning av dokument](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).
+2. Granska de här dokumenten för en lista över vanliga fel som förhindrar registrering och problemlösning:
+    - [Fel söknings guide](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)
+    - [Felsöka dokumentet](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).

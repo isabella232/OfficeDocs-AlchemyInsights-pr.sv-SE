@@ -1,24 +1,25 @@
 ---
-title: Fel att OneDrive inte kan ansluta till Windows
+title: Fel OneDrive kan inte ansluta till Windows
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 69957735-7ae3-4622-b3cf-607c816f3651
-ms.openlocfilehash: 3e0eda9bdc907408bc4dd21f5e3bba0a51bc608e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b0cf0e7e1a8eb3b80deac47a9639ddd23f1b864d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714312"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783749"
 ---
-# <a name="error-onedrive-cannot-connect-to-windows"></a>Fel: OneDrive kan inte ansluta till Windows
+# <a name="error-onedrive-cannot-connect-to-windows"></a>Fel: det går inte att ansluta till Windows med OneDrive
 
-LÃ¶s felmeddelandet genom att söka efter filen cldflt.sys fÃ¶r att se om den kÃ¶rs och aktivera den om den inte är den. 
+Om du vill lösa fel meddelandet söker du efter cldflt.sys filen för att se om den körs, och om det inte gör det aktiverar du den. 
   
-Mer information om hur du aktiverar filen cldflt.sys finns i [OneDrive kan inte ansluta till Windows"-fel när du öppnar filer i OneDrive.](https://go.microsoft.com/fwlink/?Linkid=2031032)
+Mer information om hur du aktiverar cldflt.sys-filen finns i [OneDrive kan inte ansluta till Windows "när du försöker komma åt filer på OneDrive.](https://go.microsoft.com/fwlink/?Linkid=2031032)
   
 
