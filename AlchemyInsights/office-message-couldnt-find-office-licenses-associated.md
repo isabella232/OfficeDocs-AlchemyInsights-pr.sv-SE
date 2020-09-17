@@ -1,24 +1,25 @@
 ---
-title: Meddelande om Microsoft 365-appar – Det gick inte att hitta associerade Office-licenser
+title: Microsoft 365-program – det gick inte att hitta tillhör ande Office-licenser
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581669"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802795"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Meddelande om Microsoft 365-appar – Det gick inte att hitta associerade Office-licenser
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365-program – det gick inte att hitta tillhör ande Office-licenser
 
 Lös problemet genom att prova med följande:
 
@@ -38,10 +39,10 @@ Om problemet kvarstår kan du försöka med följande:
 
 - Återställ Office-aktiveringsstatus. Se [Återställa Microsoft 365-appar för företagsaktiveringsstatus](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Kontrollera brandväggen, antivirusprogrammet och proxyinställningarna för att bekräfta att de inte blockerar Microsoft 365-appars åtkomst till Internet. 
+- Kontrol lera brand vägg, antivirus program och proxyinställningar för att bekräfta att de inte blockerar Microsoft 365-appar till Internet. 
 
 Ytterligare lösningar för felsökning finns i:
 
 [Office-felmeddelanden om olicensierad produkt och aktivering](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[Microsoft 365-url:er och IP-adressintervall](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[Microsoft 365 URL-adresser och IP-adressintervall](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)

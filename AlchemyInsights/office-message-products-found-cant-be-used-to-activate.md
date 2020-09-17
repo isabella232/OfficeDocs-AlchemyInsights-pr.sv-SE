@@ -1,24 +1,25 @@
 ---
-title: Meddelande i Office-program – Produkterna på ditt konto kan inte användas för att aktivera
+title: Microsoft 365-program – de produkter som finns på ditt konto kan inte användas för att aktivera
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: f373666f51eabc6b141497475445800799296b4d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
-ms.translationtype: HT
+ms.openlocfilehash: 6345f3acabb73f283c918cf7f3ca0c5c055f6186
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010766"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802759"
 ---
-# <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Meddelande i Office-program – Produkterna på ditt konto kan inte användas för att aktivera
+# <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Microsoft 365-program – de produkter som finns på ditt konto kan inte användas för att aktivera
 
 - Kontrollera att [prenumerationens status](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) är giltig samt att den berörda användaren har en [giltig licens tilldelad](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) och är ansluten till internet. 
 
@@ -26,7 +27,7 @@ ms.locfileid: "44010766"
 
 - Kör [aktiveringsfelsökaren](https://aka.ms/SARA-OfficeActivation-Alchemy) och starta om datorn.
 
-- [Återställ aktiveringsstatusen för Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632) på datorn som påverkas.
+- [Återställ aktiveringsstatusen för Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state) på datorn som påverkas.
 
 Information om scenarier med delade datorer finns i [Felsöka problem med att aktivera delade datorer i Microsoft 365-appar](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
 
