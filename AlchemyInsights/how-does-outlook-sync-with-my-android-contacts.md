@@ -1,33 +1,34 @@
 ---
-title: Hur synkroniseras Outlook med mina Android-kontakter?
+title: Hur synkroniserar Outlook till mina Android-kontakter?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001115"
 - "3076"
-ms.openlocfilehash: 8a41923b7c3395c30414cbc39b74011c54267d78
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 5600a56bcbbaf9d484986e1d4d45397dda936a4b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286291"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781373"
 ---
-# <a name="how-does-outlook-sync-with-my-android-contacts"></a>Hur synkroniseras Outlook med mina Android-kontakter?
+# <a name="how-does-outlook-sync-with-my-android-contacts"></a>Hur synkroniserar Outlook till mina Android-kontakter?
 
-När du skriver ett e-postmeddelande i Outlook söker vi efter mottagare från både din Android-adressbok och din Outlook-adressbok. Dessutom ger vi dig möjlighet att synkronisera kontakter från dina e-postkonton till din Android-adressbok för användning i andra appar. 
+När du skriver ett e-postmeddelande i Outlook söker vi efter mottagare från både din Android-adressbok och din Outlook-adressbok. Dessutom ger vi dig möjligheten att synkronisera kontakter från dina e-postkonton till din Android-adressbok för användning i andra program. 
  
-**Så här aktiverar du den här funktionen:**
+**Så här aktiverar du funktionen**:
  
-1. Gå till **Inställningar**på enheten .
+1. Gå till **Inställningar**på enheten.
 
-2. Tryck på det konto som du vill synkronisera kontakter med under **Konton.**
+2. Under **konton**trycker du på det konto som du vill synkronisera kontakter med.
 
-3. Slå på skjutreglaget **Synkronisera kontakter.**
+3. Byt reglage för **Synkronisera kontakter** på.
  
-**När**du försöker aktivera kontaktsynkronisering i Microsoft Outlook för Android **** kan du se ett meddelande som visas med ** texten när du försöker aktivera synkronisering av kontakter i Microsoft Outlook för Android. Detta kan bero på att **alternativet Synkronisera data** automatiskt inaktiveras i systeminställningarna. Lös problemet genom att aktivera **Automatisk synkroniseringav data** på **menyn Konton** i Android-systeminställningarna . **** Det här alternativet finns vanligtvis i en vertikal ellips ()) eller trippelstång ().). **Menyn Konton** kan vara på olika platser, beroende på enhetens märke och version av Android. I de flesta nyare modeller kan **konton** sökas efter i **Inställningar**.
+**Obs!** när du försöker aktivera synkronisering av kontakter i Microsoft Outlook för Android, om växlings alternativet för **Sync-kontakter** är inaktiverat visas ett meddelande som visar att *synkroniseringen av kontakter inte är aktive rad i Systeminställningar*. Det kan bero på att alternativet för **automatisk synkronisering** är inaktiverat i Systeminställningar. Lös problemet genom att aktivera  **automatisk synkronisering av data** i menyn  **konton** i  **systeminställningarna**för Android. Det här alternativet finns vanligt vis i lodrät ellips (⋮) eller tredubbel bar (⫼). Menyn  **konton** kan vara på olika platser beroende på enhetens märke och version. I de flesta nyare modeller kan **konton** sökas efter i **Inställningar**.

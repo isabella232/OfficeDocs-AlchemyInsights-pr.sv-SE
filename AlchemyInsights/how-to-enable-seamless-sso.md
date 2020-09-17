@@ -1,10 +1,11 @@
 ---
-title: Så här aktiverar du Sömlös SSO
+title: Så aktiverar du sömlös SSO
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,26 +13,26 @@ ms.custom:
 - "628"
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: 3cf751bc42322067c4b7cd9b5facb933430f2b87
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f3581549823e1ec650a3717780bc07e9944d4c1c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36663896"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780545"
 ---
-# <a name="how-to-enable-seamless-sso"></a>Så här aktiverar du Sömlös SSO
+# <a name="how-to-enable-seamless-sso"></a>Så aktiverar du sömlös SSO
 
 Aktivera sömlös SSO via [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-Om du gör en ny installation av Azure AD Connect väljer du den [anpassade installationssökvägen](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). På sidan **Använda inloggning** väljer du alternativet Aktivera **enkel inloggning.**
+Om du gör en ny installation av Azure AD Connect väljer du den [anpassade installations Sök vägen](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). På **inloggnings** sidan för användare väljer du alternativet **aktivera enkel inloggning** .
   
-Så här kontrollerar du att du har aktiverat Seamless SSO korrekt:
+Så här kontrollerar du att sömlös SSO är korrekt:
   
-1. Logga in på [administrationscentret](https://aad.portal.azure.com) för Azure Active Directory som global administratör.
+1. Logga in på [Azure Active Directory administrations Center](https://aad.portal.azure.com) som global administratör.
 
-2. Välj **Azure Active Directory** i den vänstra rutan.
+2. Välj **Azure Active Directory** i det vänstra fönstret.
 
-3. Kontrollera att sömlös enkel inloggning är **aktiverad**.
+3. Kontrol lera att sömlös enkel inloggning är **aktiverat**.
 
-Mer information finns i [Azure Active Directory Seamless Single Sign-On: Snabbstart](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+För mer information, se [snabb start för Azure Active Directory-sömlös enkel inloggning](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   
