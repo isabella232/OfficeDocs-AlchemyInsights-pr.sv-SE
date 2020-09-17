@@ -1,30 +1,31 @@
 ---
-title: Vad kan jag göra med versionshantering?
+title: Vad kan jag göra med versions hantering?
 ms.author: toresing
 author: tomresing
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 36c890c4-cafc-4409-8887-4a5c039692e3
-ms.openlocfilehash: b86d815bb1e2e34474df9237c24c254c57f56aeb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3fcf8c4d1e890a565ace6961ac3f9c1292953248
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765359"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798430"
 ---
-# <a name="what-can-i-do-with-versioning"></a>Vad kan jag göra med versionshantering?
+# <a name="what-can-i-do-with-versioning"></a>Vad kan jag göra med versions hantering?
 
-Du kan använda versionshantering i SharePoint-listor och -bibliotek för att:
+Du kan använda versions hantering i SharePoint-listor och-bibliotek för att:
   
-- **Spåra historik för en version**. När versionshantering är aktiverat kan du se när ett objekt eller en fil har ändrats och vem som ändrade det. Du kan också se när egenskaper (information om filen) har ändrats. Om någon till exempel ändrar förfallodatumet för ett listobjekt visas den informationen i versionshistoriken. Du kan också se de kommentarer som användarna gör när de checkar in filer i bibliotek. 
+- **Spåra historik för en version**. När versions hantering är aktive rad kan du se när ett objekt eller en fil har ändrats och vem som har ändrat det. Du kan också se när egenskaper (information om filen) har ändrats. Om någon till exempel ändrar förfallo datumet för ett List objekt visas den informationen i versions historiken. Du kan också se vilka kommentarer användarna gör när de kontrollerar filer i bibliotek. 
     
-- **Återställa en tidigare version**. Om du har gjort ett misstag i en aktuell version, om den aktuella versionen är skadad, eller om du helt enkelt gillar en tidigare version bättre, kan du ersätta den aktuella versionen med en tidigare. Den återställda versionen blir den nya aktuella versionen. 
+- **Återställ en tidigare version**. Om du har gjort ett misstag i en aktuell version, om den aktuella versionen är skadad, eller om du helt enkelt är nöjd med en tidigare version, kan du ersätta den aktuella versionen med en föregående. Den återställda versionen blir den nya aktuella versionen. 
     
-- **Visa en tidigare version**. Du kan visa en tidigare version utan att skriva över den aktuella versionen. Om du visar versionshistorik i ett Microsoft Office-dokument, till exempel en Word- eller Excel-fil, kan du jämföra de två versionerna för att avgöra vilka skillnaderna är. 
+- **Visa en tidigare version**. Du kan visa en tidigare version utan att skriva över den aktuella versionen. Om du visar versions historik i ett Microsoft Office-dokument, till exempel en Word-eller Excel-fil, kan du jämföra de två versionerna för att avgöra vad skillnaderna är. 
     
-[Läs mer om hur versionshantering fungerar i SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875710)
+[Lär dig mer om hur versions hantering fungerar i SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875710)
   
 

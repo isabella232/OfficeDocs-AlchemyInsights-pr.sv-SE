@@ -6,24 +6,25 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.custom:
 - "1895"
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 2fe8d3b17aae386f04fae9c142eb608f504a380b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: c678710c49366d77f7ef8ea3f0b0c02dc252529d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43744937"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798250"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>Så här hanterar du ett nätfiskemeddelande
+# <a name="how-to-deal-with-a-phishing-email"></a>Så hanterar du ett nät fiske meddelande
 
-Ett nätfiskebedrägeri är ett e-postmeddelande som verkar legitimt men som faktiskt är ett försök att stjäla din personliga information eller dina pengar. Bedragare kan också använda en teknik som kallas spoofing för att få det att se ut som om du har fått ett e-postmeddelande från dig själv.
+Ett phishing-bedrägeri är ett e-postmeddelande som visas som legitimt, men det är faktiskt ett försök att stjäla dina person uppgifter eller pengar. Svindlare kan också använda en teknik som kallas förfalskning för att visa att den visas som om du har fått ett e-postmeddelande från dig själv.
 
-Om du får ett e-postmeddelande som ser ut som ett nätfiskebedrägeri kan du anmäla det genom att markera meddelandet och sedan välja > **Skräppostfiske**. **Junk**
+Om du får ett e-postmeddelande som ser ut som ett phishing-bedrägeri kan du rapportera det genom att välja meddelandet och sedan välja **skräp posten**  >  **Phishing**.
 
-*Anm.:* När du markerar ett meddelande som nätfiske rapporterar det bara avsändaren.Det hindrar inte avsändaren från att skicka meddelanden till dig i framtiden. Om du vill blockera avsändaren måste du lägga till avsändaren i listan med blockerade avsändare. Mer information finns i [Blockera avsändare eller avblockera avsändare i Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+*Obs!* När du markerar ett meddelande som nätfiske rapporteras endast avsändaren.Den förhindrar inte att avsändaren skickar meddelanden till dig i framtiden. För att blockera avsändaren måste du lägga till avsändaren i listan med spärrade avsändare. Mer information finns i [Spärra avsändare eller avblockera avsändare i Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Läs mer om hur du [hanterar missbruk, nätfiske eller förfalskning i Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) och avancerad Outlook.com säkerhet för Microsoft [365-prenumeranter](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).
+Lär dig mer om att [hantera missbruk, nätfiske eller förfalskningar i Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) och [avancerade Outlook.com säkerhet för Microsoft 365-prenumeranter](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).

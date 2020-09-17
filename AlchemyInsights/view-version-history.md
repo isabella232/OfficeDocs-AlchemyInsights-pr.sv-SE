@@ -1,28 +1,29 @@
 ---
-title: Visa versionshistorik
+title: Visa versions historik
 ms.author: toresing
 author: tomresing
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 34c73c42-e4a0-41ab-8eb8-a834d4bb04c4
-ms.openlocfilehash: c9cdc5065e3f54fd996611d82aa0479b79a634ca
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cd955ccbc393d7052b42cb75fb0158dc46957a72
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707277"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796450"
 ---
-# <a name="view-version-history-of-a-file-or-list-item"></a>Visa versionshistorik för en fil eller ett listobjekt
+# <a name="view-version-history-of-a-file-or-list-item"></a>Visa versions historik för en fil eller ett List objekt
 
-1. Gå till SharePoint-webbplatsen och öppna listan eller biblioteket från fältet Snabbstart. Om namnet på listan eller biblioteket inte visas klickar du på **Webbplatsinnehåll** eller **Visa allt webbplatsinnehåll**och sedan på namnet.
+1. Gå till SharePoint-webbplatsen och öppna listan eller biblioteket från snabb startfältet. Om namnet på listan eller biblioteket inte visas klickar du på **webbplats innehåll** eller **visar allt webbplats innehåll**och klickar sedan på namnet.
     
-2. Högerklicka på avståndet mellan objektet eller dokumentets namn och datum och klicka sedan på **Versionshistorik** på menyn. Du kan behöva rulla menyn för att se **Versionshistorik**. Om du inte ser den klickar du på ellipsen (...) i dialogrutan och sedan på **Versionshistorik**.
+2. Högerklicka på utrymmet mellan objektet eller dokumentets namn och datum och klicka sedan på **versions historik** från menyn. Du kan behöva rulla menyn för att se **versions historik**. Om du inte ser det klickar du på ellipsen (...) i dialog rutan och klickar sedan på **versions historik**.
     
-3. Peka på den version du vill visa i dialogrutan Versionshistorik och klicka på nedpilen till höger för att få en lista med alternativ. Klicka på **Visa**.
+3. I dialog rutan versions historik pekar du på den version du vill visa och klickar på nedpilen till höger för att visa en lista med alternativ. Klicka på **Visa**.
     
-[Läs mer om versionshistorik](https://go.microsoft.com/fwlink/?linkid=875709)
+[Lär dig mer om versions historik](https://go.microsoft.com/fwlink/?linkid=875709)
   
 

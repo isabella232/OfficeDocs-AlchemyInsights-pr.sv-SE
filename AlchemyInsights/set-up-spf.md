@@ -1,26 +1,27 @@
 ---
-title: Ställ in SPF
+title: Konfigurera SPF
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "37"
 - "1000003"
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: ec0c3c43eb28eb442ce9c699f610ee2ab064df93
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6059ca011f3b9dd1d4045a0e90d391cae495bc72
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512680"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798970"
 ---
-# <a name="set-up-spf"></a>Ställ in SPF
+# <a name="set-up-spf"></a>Konfigurera SPF
 
-Uppdatera DNS-posterna så att du kan använda ett SPF (Sender Policy Framework) med din anpassade domän för att validera utgående e-postmeddelanden som skickas från din anpassade domän. Detta förhindrar att andra "förfalskar" e-post som om den skickades från domänen.
+Uppdatera DNS-posterna så att du kan använda en SPF (avsändare Policy Framework) med din egen domän för att verifiera utgående e-post som skickas från din egen domän. Det hjälper till att hindra andra från att "falska" e-post som om den skickas från din domän.
   
 - [Konfigurera SPF för att förhindra förfalskning](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
 
