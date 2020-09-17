@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 25b5bace169fd2de0d3e2d59e9ae2aaa987eacd0
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
-ms.translationtype: HT
+ms.openlocfilehash: 0a240bb0acea178a58fa5bc9a2d95808676ad272
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154424"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800050"
 ---
 # <a name="unable-to-access-my-account"></a>Jag kan inte öppna mitt konto
 
@@ -24,12 +25,14 @@ Om din prenumeration upphör, inaktiveras av Microsoft eller om du har avbrutit 
 
 **Återaktivera en prenumeration**
 
-1. I administrationscentret går du till sidan **Fakturering > [Produkter och tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Gå till sidan fakturering i administrations centret **Billing**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
-2. Leta reda på den prenumeration som du vill återaktivera på sidan Produkter och tjänster.
+2. Leta reda på den prenumeration som du vill återaktivera.
 
-3. I avsnittet Fakturering väljer du **Återaktivera nu**.  Om du befinner dig i kortvyn klickar du på ellipsen mellan Namn och Disponibelt antal och klickar på Återaktivera på menyn. **Obs!** Om du inte ser den prenumeration du letar efter kan du behöva ändra filtret Prenumerationsstatus längst upp på sidan till **Alla**.
+3. I avsnittet **Fakturering** väljer du **Återaktivera nu**. Om du befinner dig i vyn **kort** klickar du på ellipsen mellan **namn** och **disponibelt antal** och väljer **återaktivera** på menyn.
+
+**Obs!** Om du inte ser den prenumeration du letar efter kan du behöva ändra filtret **Prenumerationsstatus** längst upp på sidan till **Alla**.
 
 4. Uppdatera betalningsinformationen genom att bekräfta dina betalningsuppgifter. När du har angett betalningsmetod klickar du på **Återaktivera**.
 
-Mer information finns i [Återaktivera prenumerationen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Mer information finns i [Återaktivera prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

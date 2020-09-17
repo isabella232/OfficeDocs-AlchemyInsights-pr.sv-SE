@@ -1,32 +1,33 @@
 ---
-title: Ta bort användarkonto i Windows 10
+title: Ta bort ett användar konto i Windows 10
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: 2cb95fc0c202d4bbec361531b8234a50bbdcfa2a
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 58f18a2ef8f685b4ebb4b274f506e2de03bb0807
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738551"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801346"
 ---
 # <a name="remove-an-account-in-windows-10"></a>Ta bort ett konto i Windows 10
 
 Så här tar du bort ett konto från Windows 10:
 
-1. Gå till **Start** > **Inställningar** > **konto** > **familj & andra personer** (eller **andra personer**, om du använder Windows 10 Enterprise).
-2. Välj det konto som du vill ta bort, Välj **ta bort**och välj sedan **ta bort konto och data**.
+1. Gå till **Start**  >  **Inställningar**  >  **konto**  >  **familjen & andra personer** (om **Other people**du använder Windows 10 Enterprise).
+2. Välj det konto du vill ta bort, Välj **ta bort**och välj sedan **ta bort konto och data**.
  
-**Anmärkning:** Du kan inte ta bort ett konto som du för närvarande är inloggad på.  Om du behöver byta ut det konto som du är inloggad på:
+**Obs!** Du kan inte ta bort ett konto som du är inloggad på.  Om du behöver ersätta det konto du är inloggad på:
 
-1. Lägg till ett nytt användarkonto.
-2. Gör det nya användarkontot till administratör på datorn.
-3. Ta bort det gamla användarkontot. När du tar bort ett användarkonto förlorar du permanent alla inställningar, filer och data som är associerade med den användaren. [Följ dessa steg för att säkerhetskopiera allt du vill spara](https://support.microsoft.com/help/4027408/windows-10-backup-and-restore).
+1. Lägga till ett nytt användar konto.
+2. Gör det nya användar kontot till administratör på datorn.
+3. Ta bort det gamla användar kontot. När du tar bort ett användar konto kommer du att förlora alla inställningar, filer och data som är associerade med den användaren. [Följ de här stegen för att säkerhetskopiera allt du vill spara](https://support.microsoft.com/help/4027408/windows-10-backup-and-restore).

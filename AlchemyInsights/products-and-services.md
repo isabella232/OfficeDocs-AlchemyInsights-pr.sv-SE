@@ -5,33 +5,34 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c7c4e9427bcdd1416a197d8df078be2638da55a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44062879"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799258"
 ---
 # <a name="your-products"></a>Dina produkter
 
-Du hittar de prenumerationer som ägs av din organisation på sidan **Fakturering**  >  **[dina produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Här är några av höjdpunkterna på denna sida tillsammans med länkar för mer information om varje funktion:
+Du hittar de abonnemang som ägs av din organisation på sidan **fakturering**av  >  **[din produkt](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Här är några av högdagrarna på den här sidan tillsammans med länkar för mer information om varje funktion:
 
-1. Hantera antalet licenser som har köpts för varje prenumeration tillsammans med hur många som används.  **Licenser**som inte används (som inte har tilldelats en användare) debiteras fortfarande.  Om du inte vill debiteras för oanvända licenser minskar du antalet köpta licenser. Information om hur du lägger till eller tar bort licenser från en prenumeration finns i [Så här lägger du till eller minskar licenser](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
+1. Hantera antalet licenser som har köpts för varje abonnemang tillsammans med hur många som används.  **Obs!** licenser som inte används (inte är tilldelade till en användare) kan fortfarande tas bort.  För att inte debiteras för oanvända licenser minskar du antalet köpta licenser. Information om hur du lägger till eller tar bort licenser från ett abonnemang finns i artikeln om [hur du lägger till eller minskar licenser](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
-2. Visa förnyelse- eller utgångsdatum för prenumerationen.  Du kan hantera förnyelse genom att klicka på **redigeringslänken bredvid förnyelse/förfallodatum.** **edit**  Mer information om hur du hanterar återkommande fakturering finns i [Förnya Microsoft 365 för företag.](https://go.microsoft.com/fwlink/?linkid=2119216)
+2. Visa förnyelse-eller utgångs datum för abonnemanget.  Du kan hantera förnyelsen genom att klicka på **Redigera** -länken bredvid datumet för förnyelse **/upphör** den.  Se [förnya Microsoft 365 för företag](https://go.microsoft.com/fwlink/?linkid=2119216) för mer information om hur du hanterar automatisk förnyelse.
 
-3. [Återaktivera en utgången eller inaktiverad prenumeration](https://go.microsoft.com/fwlink/?linkid=2117519).
+3. [Återaktivera ett inaktuellt eller inaktiverat abonnemang](https://go.microsoft.com/fwlink/?linkid=2117519).
 
-4. [Redigera betalningsmetoden som används för att betala för prenumerationen](https://go.microsoft.com/fwlink/?linkid=2117167).
+4. [Redigera betalnings metoden som används för att betala för abonnemanget](https://go.microsoft.com/fwlink/?linkid=2117167).
 
 5. [Ändra hur ofta du faktureras](https://go.microsoft.com/fwlink/?linkid=2119112).
 
 6. [Avbryt prenumerationen](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Du kan köpa ytterligare **Billing**prenumerationer från sidan  >  [**Faktureringsköpstjänster.**](https://go.microsoft.com/fwlink/p/?linkid=868433)
+Du kan köpa fler abonnemang från sidan **fakturerings**  >  [**Köp tjänster**](https://go.microsoft.com/fwlink/p/?linkid=868433) .
