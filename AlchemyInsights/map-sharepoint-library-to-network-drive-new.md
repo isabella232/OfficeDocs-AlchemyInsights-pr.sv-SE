@@ -1,32 +1,33 @@
 ---
-title: Mappa ett SharePoint-bibliotek till en nätverksenhet
+title: Mappa ett SharePoint-bibliotek till en nätverks enhet
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: ab1b9a0a7e9f9cd2ffabfb2b5af75401d13207a9
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 9115a3ab8d1234127a95628a9a49679ef06f6d39
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049175"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47806201"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Mappa ett SharePoint-bibliotek till en nätverksenhet
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Mappa ett SharePoint-bibliotek till en nätverks enhet
 
-Mappning av ett bibliotek som en nätverksenhet är tillfälligt och stöds endast via Internet Explorer. Du måste ibland öppna SharePoint-webbplatsen i Internet Explorer och välja **Håll dig inloggad** för att förhindra att sessionen upphör att gälla. I stället [Synkronisera SharePoint-filer med den nya OneDrive sync-klienten](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) </a> som tillhandahåller [filer på begäran](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e). Få åtkomst till alla dina filer i OneDrive utan att använda lokalt lagringsutrymme.
+Att mappa ett bibliotek som en nätverks enhet är temporärt och stöds bara via Internet Explorer. Du måste ibland öppna SharePoint-webbplatsen i Internet Explorer och välja **vara inloggad** för att förhindra att sessionen går ut. [Synkronisera SharePoint-filer istället med den nya synkroniseringsklienten](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) </a> för OneDrive som tillhandahåller [filer på begäran](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e). Komma åt alla dina filer på OneDrive utan att använda lokalt lagrings utrymme.
 
-Om du väljer att mappa en enhet i stället för att [använda den nya OneDrive sync-klienten](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88), se till att du följer stegen i artikeln nedan. 
-
-
-**Så här konfigurerar och felsöker du mappade nätverksenheter**
+Om du väljer att mappa en enhet i stället för att [använda den nya synkroniseringsklienten för OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)kontrollerar du att du följer anvisningarna i artikeln nedan. 
 
 
-Se [Felsöka mappade nätverksenheter som ansluter till SharePoint Onlines](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
+**Konfigurera och felsöka anslutna nätverks enheter**
 
-Anmärkning: om du använder Internet Explorer 10 med Windows 8 eller Windows 7 och ta emot **åtkomst nekad** eller **sökvägen inte är tillgänglig** när du mappar en enhet, installera [den här snabbkorrigeringen](https://support.microsoft.com/help/2846960) för att lösa problemet. 
+
+Se [Felsöka anslutna nätverks enheter som ansluter till SharePoint Onlines](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
+
+Obs! Om du använder Internet Explorer 10 med Windows 8 eller Windows 7, och mottagning **nekas** eller om du inte kan få åtkomst till **sökvägen** när du mappar en enhet, kan du lösa problemet genom att installera [den här snabb korrigeringen](https://support.microsoft.com/help/2846960) . 
