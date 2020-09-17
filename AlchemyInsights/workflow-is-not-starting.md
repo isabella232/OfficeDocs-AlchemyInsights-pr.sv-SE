@@ -1,45 +1,46 @@
 ---
-title: Arbetsflödet startar inte
+title: Arbets flödet startar inte
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: 941e6349c98278a1a8cdac77457ec1cc72cdef8b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: e3b8777ed74b812b31338784999eea43a95d3456
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766115"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794785"
 ---
-# <a name="workflow-is-not-starting"></a>Arbetsflödet startar inte
+# <a name="workflow-is-not-starting"></a>Arbets flödet startar inte
 
-- SharePoint 2010- och SharePoint 2013-arbetsflöden startar inte.
+- SharePoint 2010-och SharePoint 2013-arbets flöden startas inte.
 
-    - Om arbetsflödet inte startar kan det finnas ett tillfälligt serviceproblem där användare kan uppleva återkommande fördröjningar med arbetsflödesförloppet. Kontrollera [instrumentpanelen](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) för tjänsthälsa för att se om din organisation påverkas.
+    - Om arbets flödet inte startas kan det finnas ett tillfälligt tjänst problem där användarna kan uppleva fördröjningar med arbets flödes status. Kontrol lera [instrument panelen för tjänstens hälsa](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) för att se om din organisation påverkas.
 
-    - Om det har gått mer än 24 timmar sedan du först såg det här problemet, vänligen logga en supportbiljett. I många fall arbetar vi redan på en lösning. Vänligen ge oss minst 24 timmar att slutföra en lösning.
+    - Om det inte finns mer än 24 timmar sedan du först såg det här problemet, logga in ett support ärende. I många fall jobbar vi redan med en lösning. Ange minst 24 timmar för att slutföra en lösning.
 
-- SharePoint 2010-arbetsflöden försenades vid start.
+- SharePoint 2010-arbets flöden fördröjs vid start.
 
-    - Detta inträffar om arbetsflödet utlöses i stora batchar. (till exempel när flera objekt läggs till samtidigt).
+    - Detta inträffar om arbets flödet utlöses i stora grupper. (när flera objekt läggs till samtidigt).
 
-    - Arbetsflöden är inte utformade för att köras i realtid, så en fördröjning är avsiktligt beteende.
+    - Arbets flöden är inte avsedda att köras i real tid, så en fördröjning är by-design.
 
-   -  Om arbetsflödet är komplext utökningsbart objektmarkeringsspråk (XMOL) kan kompileringen vara långsam. Läs [den här](https://support.microsoft.com//kb/3043697) artikeln.
+   -  Om arbets flödet är ett komplext Extensible Object Markup Language (XMOL) kan kompileringen bli långsam. Kontrol lera [den här](https://support.microsoft.com//kb/3043697) artikeln.
 
-    - Du bör förenkla arbetsflödet eller omforma det med hjälp av plattformstypen Microsoft SharePoint 2013 Workflow.
+    - Du bör förenkla arbets flödet eller omkonstruera det med hjälp av plattforms typen Microsoft SharePoint 2013 Workflow.
 
-    - Om arbetsflödeshistoriken har blivit stor kanske du vill rensa objekten eller skapa en ny historiklista.
+    - Om arbets flödes historiken är stor kanske du vill ta bort objekten eller skapa en ny historik lista.
 
-        Mer information : [Rensa arbetsflödeshistorik](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Mer information: [ta bort arbets flödes historik](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Relaterade ämnen

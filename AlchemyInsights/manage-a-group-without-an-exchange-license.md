@@ -1,28 +1,29 @@
 ---
-title: Hantera en grupp utan Exchange-licens
+title: Hantera en grupp utan en Exchange-licens
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: 2079d43667f5368a77cba40a6b8a93cd2f6dafd9
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 8a02362eb716e7e879deae7392d86ccc9f10ce5c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579775"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796090"
 ---
-# <a name="manage-a-group-without-an-exchange-license"></a>Hantera en grupp utan Exchange-licens
+# <a name="manage-a-group-without-an-exchange-license"></a>Hantera en grupp utan en Exchange-licens
 
-Om administratörskontot inte har någon postlåda kan du få ett felmeddelande om en saknad produktlicens när du försöker redigera en Microsoft 365-grupp.
+Om ditt administratörs konto inte har en post låda kan du få ett fel meddelande om en produkt licens som saknas när du försöker redigera en Microsoft 365-grupp.
   
-Eftersom du är klientadministratör är det möjligt för dig att redigera en grupp även om du inte har en Exchange-licens. Gå bara till [Exchange Admin Center](https://outlook.office365.com/ecp.aspx) \> **Grupper** för att hantera Microsoft 365 Group.
+Eftersom du är klient organisationens administratör är det möjligt för dig att redigera en grupp även om du inte har en Exchange-licens. Gå till [administrations centret för Exchange](https://outlook.office365.com/ecp.aspx) \> **Groups** för att hantera Microsoft 365-gruppen.
   
-Om du vill redigera grupper i administrationscentret lägger du till en Exchange-licens i ditt administratörskonto. Du måste vänta tills postlådan har skapats helt innan du kan redigera en grupp.
+Om du vill redigera grupper i administrations centret lägger du till en Exchange-licens till ditt administratörs konto. Du måste vänta tills post lådan är fullständigt skapad innan du kan redigera en grupp.
   

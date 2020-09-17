@@ -1,28 +1,29 @@
 ---
-title: Hantera skräppost och skräppost i Outlook på webben
+title: Hantera skräp post och skräp post i Outlook på webben
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: c972537cb4f00c9310edeaa589391d5bbd8ebc62
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4a12668ee95aa4dd3c07b0d781a3935f69792211
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768275"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795910"
 ---
-# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Markera e-postmeddelanden som skräppost i Outlook på webben
+# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Markera e-postmeddelanden som skräp post i Outlook på webben
 
-Om du vill markera ett meddelande som skräppost markerar **Junk** > du meddelandet i meddelandelistan och väljer**Skräppost**.
+Markera meddelandet i meddelande listan och välj **skräp**post om du vill markera ett meddelande som skräp post eller skräp post  >  **Junk**.
 
-Om du vill blockera alla meddelanden från en viss e-postadress markerar du meddelandet eller meddelandena i meddelandelistan och väljer sedan > **Skräppostblock**. **Junk**
+Om du vill blockera alla meddelanden från en viss e-postadress markerar du meddelandet eller meddelandena i meddelande listan och väljer sedan **skräp post**  >  **Block**.
 
-Om du av misstag markerar ett meddelande som skräppost markerar du meddelandet i mappen Skräppost och väljer **Inte skräppost.** > **Not junk** *(Obs:* Objekt i mappen Skräppost tas bort efter 30 dagar.)
+Om du råkar Markera ett meddelande som skräp post markerar du meddelandet i mappen skräp post och väljer **inte**  >  **skräp post**. (*Obs!* objekt i mappen skräp post tas bort efter 30 dagar.)
 
-Läs mer om hur du [kan hålla skräppost och skräppost borta från outlook i webbkorgen.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)
+Läs mer om hur du kan [hålla skräp posten borta från Inkorgen i Outlook på webben.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)

@@ -1,9 +1,10 @@
 ---
-title: Aktivitets- och kalenderhändelselista i moderna användargränssnitt
+title: Aktivitets-och kalender händelse lista i modernt gränssnitt
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6137138a-9570-4ac9-892b-143c25ad6f64
@@ -11,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "2627"
-ms.openlocfilehash: c92510a6a4f23e9c4524d08a3f567d0b6ba5d61a
-ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
+ms.openlocfilehash: d8b6382c1d9f05e981842bce95f0e5b61d2b7434
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573234"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795478"
 ---
-# <a name="task-and-calendar-event-list-in-modern-ui"></a>Aktivitets- och kalenderhändelselista i moderna användargränssnitt
+# <a name="task-and-calendar-event-list-in-modern-ui"></a>Aktivitets-och kalender händelse lista i modernt gränssnitt
 
-Du kan se ett fel i visningen av "Titel" som `< ID >_.000` i AKTIVITETS- och EVENT-listor när du försöker återge dem i modern vy.
+Det kan hända att du får ett fel meddelande i visningen av "title" som `< ID >_.000` för aktivitets-och händelse listor när du försöker återge dem i modern vy.
 
-Vissa typer av listor och bibliotek har ännu inte byggts för att visas i ett modernt användargränssnitt, till exempel en uppgiftslista eller en lista över händelser.
+Vissa typer av listor och bibliotek är inte ännu byggda för att visas i ett modernt användar gränssnitt, till exempel en aktivitets lista eller en händelse lista.
 
-En av de prioriterade punkterna för oss är att stödja TASK och EVENT listor som en del av den moderna UX. Men vi har inte en ETA för detta stöd, så fortsätt att använda klassisk erfarenhet för dessa listor.
+Ett av de prioriterade artiklarna för oss är att hantera uppgifter och händelse listor som en del av det moderna gränssnittet. Vi har emellertid ingen ETA för detta stöd, så fortsätt att använda klassisk erfarenhet för de här listorna.
 
-Mer information finns [i Maximera användningen av moderna listor och bibliotek](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
+Mer information finns [i maximera använda moderna listor och bibliotek](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
