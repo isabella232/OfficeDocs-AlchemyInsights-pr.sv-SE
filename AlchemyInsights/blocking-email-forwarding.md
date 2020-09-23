@@ -14,15 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 71ac34539a2eac6b308aa5f42520e7c764524d5e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c0d9ed14f83d3c7d47e1728d5ed9ca3a19412ad2
+ms.sourcegitcommit: f74c9698a31634154ce58dda8b3145bb10685ace
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685472"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48219873"
 ---
-# <a name="block-email-forwarding"></a>Blockera e-postvidarebefordran
+# <a name="blocking-or-unblocking-email-forwarding"></a>Blockera eller avblockera e-postvidarekoppling
 
-Information om hur du inaktiverar e-postvidarekoppling för en viss post låda finns i [Konfigurera e-postvidarekoppling](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
+Information om hur du aktiverar och inaktiverar e-postvidarekoppling för en viss post låda finns i [Konfigurera e-postvidarekoppling](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-För att blockera e-postvidarekoppling för hela organisationen finns [många sätt att blockera automatisk vidarebefordring av e-post i Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).
+På klient organisations nivå sker kontrollen av extern vidarebefordring med principen för utgående anti-spam. Om den är inaktive rad eller automatisk kan det vara en snabb överföring av e-post med fel meddelandet "550 5.7.520 åtkomst nekad". Om vidarebefordran har ställts in på att blockeras är det fel som användarna ser.
+
+Om vidarebefordran blockeras bör du kontrol lera att den är konfigurerad för att aktivera extern vidarebefordring. Du kan kontrol lera filtrerings principen för utgående e-post från säkerhets-och kompatibilitetstillstånd eller genom att köra kommandona GET-HostedOutboundSpamFilterPolicy | fl-namn, AutoForwardingMode. Om du vill ställa in blockering av autoforwarding visar kommandot samma tillstånd.
+
+Obs! Du bör behålla den externa autoforwarden inaktive rad i standard filtrerings filtret för utgående e-post och bara aktivera den för användare som behöver extern vidarebefordran genom att skapa en egen princip för dessa användare. Du kan läsa mer om hur du [konfigurerar extern vidarebefordran av e-post i Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
