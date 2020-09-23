@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677008"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236143"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Problem med att logga in på Microsoft 365-appar
 
@@ -25,6 +25,8 @@ För att åtgärda inloggnings problem med Microsoft 365-appar kan du försöka 
 
 - För Windows, se [rekommendationer för att åtgärda vanliga inloggnings problem](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - För Mac kan  [du läsa det går inte att logga in i en Office 2016 för Mac-App](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+
+**Tips!** På Windows-datorer kan vi diagnostisera och automatiskt åtgärda flera vanliga inloggnings problem för Office. Ladda ned och kör  **[Microsoft support-och återställnings assistenten](https://aka.ms/SaRA-OfficeSignInScenario)** för att använda vårt automatiserade verktyg.
 
 **Obs!**  **Det rekommenderas inte**att inaktivera modern INLOGGNINGSAUTENTISERING (ADAL) eller Web Account Management (WAM) för att åtgärda inloggnings-eller aktiverings problem. Om felen uppträder när du ansluter till Microsoft 365 med Office 2013 kontrollerar du att du [aktiverar modern auktorisering](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  för Office-klienten.
 
