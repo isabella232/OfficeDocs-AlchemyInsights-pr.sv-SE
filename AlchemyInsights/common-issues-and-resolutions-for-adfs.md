@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 313c76df6b2d2739814f481917b4314363600af5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bcf65b93e5c5adbfa0ca275c69da882aa125c39
+ms.sourcegitcommit: aabc5178929892d532782036bfb338b4b480d4e5
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812313"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48213045"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Vanliga problem och lösningar för ADFS
 
 Konfigurationen av den federerade domänen kan uppdateras enligt beskrivningen i följande Microsoft Knowledge Base-artiklar.
 
 - [Certifikat för ADFS-federationen upphör](adfs-federation-certificate-expiring.md)
+
+- [Konfigurera ADFS för Office 365 för enkel inloggning](https://docs.microsoft.com/office365/troubleshoot/active-directory/set-up-adfs-for-single-sign-on)
 
 - [2713898](https://support.microsoft.com/help/2713898)  "ett problem uppstod vid åtkomst till webbplatsen" från AD FS när en federerad användare loggar in i Microsoft 365, Azure eller Intune.
 
