@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 55f29fae0878917eaf2972ba1dfd3c5b8a26ce54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711113"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277936"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Kan du inte installera eller köra verktyget för eDiscovery-export?
 
@@ -47,4 +47,5 @@ Om du inte kan installera eller köra verktyget för eDiscovery-export för att 
 - Du har tilldelats export rollen i Microsoft 365 Security &amp; Compliance Center. Som standard är den här rollen bara tilldelad till roll gruppen eDiscovery Manager. Se [tilldela eDiscovery-behörigheter](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
 Mer information finns i [Exportera innehålls Sök Resultat](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
-  
+
+Om du exporterar fler än 100K-postlådor måste du använda följande PowerShell för att ladda ned export resultaten:  [Exportera resultat från fler än 100K-postlådor](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
