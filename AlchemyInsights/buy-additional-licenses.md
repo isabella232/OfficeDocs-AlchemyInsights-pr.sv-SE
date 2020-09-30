@@ -2,7 +2,7 @@
 title: Köp fler licenser
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,28 +13,23 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: c228e9e7ffea4c1858c2c17a813b90f064a242a3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1039ce18dacbbe04aa7cb7a5a85eddab52b36d67
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725569"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307216"
 ---
 # <a name="buy-additional-licenses"></a>Köp fler licenser
 
-1. Gå till sidan fakturering i administrations centret **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Gå till sidan fakturering i administrations centret **Billing**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Leta reda på den prenumeration som du vill köpa eller ta bort licenser för på fliken **produkter** . Välj **fler åtgärder** (tre punkter) och välj sedan **köp licenser**.
+3. Om du vill minska antalet licenser väljer du **ta bort licenser**högst upp i fönstret **köp licenser** .
+4. För att köpa eller ta bort licenser, under **nytt antal** i rutan **Totalt antal licenser** , anger du det totala antalet licenser som du vill använda för abonnemanget. Om du till exempel har 100 licenser och vill lägga till 25 mer, skriv 125. Om du vill ta bort 25 licenser skriver du 75.
+5. Välj **Spara**.
 
-2. Sök efter den prenumeration där du vill lägga till licenser och välj sedan **Lägg till/ta bort licenser**.
-
-    [Vad gör jag om jag inte kan se länken Lägg till/ta bort?](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
-
-3. I rutan **Totalt antal licenser** anger du det totala antalet licenser som du behöver för den här prenumerationen och väljer sedan **Skicka ändring**. Om du till exempel har 100 licenser och behöver lägga till ytterligare 5 skriver du 105.
-
-    > [!NOTE]
-    > Om du betalar för prenumerationen med kontokort eller via bankkonto får du direkt tillgång till nya licenser som du köper när du väl har tagit emot orderbekräftelsen. Om du betalar med faktura kan du behöva vänta på en kreditkontroll innan de nya licenserna är tillgängliga för användning.
-
-Mer information finns i [köpa licenser för Microsoft 365 för företag-prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).  
+Mer information finns i [köpa licenser för Microsoft 365 för företag-prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Ytterligare resurser**
 
-- [Tilldela licenser till användare i Microsoft 365 för företag](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Tilldela licenser till användare i Microsoft 365 för företag](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)

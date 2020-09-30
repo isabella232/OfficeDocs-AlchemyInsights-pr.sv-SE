@@ -2,7 +2,7 @@
 title: För många licenser?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: da82082b92d23ef12de0318372ed9e873ec63ad1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ce1afbdf67a4cd1746d8cf0aa5818613278d8e4
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736045"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307252"
 ---
 # <a name="too-many-licenses"></a>För många licenser?
 
@@ -28,9 +28,9 @@ Om du tror att du debiteras för många licenser, är det vanligt vis på grund 
 **Minska antalet köpta licenser**
   
 1. Gå till sidan fakturering i administrations centret **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+2. På fliken **produkter** väljer du den prenumeration som du vill ändra.
+3. På sidan prenumerations information väljer du **ta bort licenser**.
+4. I fönstret **ta bort licenser** , under **nytt antal** i rutan **Totalt antal licenser** , anger du det totala antalet licenser som du vill använda för abonnemanget. Om du till exempel har 100 licenser och vill ta bort 25 av dem, anger du 75.
+5. Välj **Spara**.
 
-2. Hitta den prenumeration som du vill ta bort licenser från och välj sedan **Lägg till/ta bort licenser**.
-
-3. I rutan **Totalt antal licenser** anger du det totala antalet licenser som du behöver för den här prenumerationen och väljer sedan **Skicka ändring**. Om du till exempel har 110 licenser och vill ta bort 5 av dem skriver du 105.
-
-Mer information finns i [ta bort licenser från din Microsoft 365 för företag-prenumeration](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Mer information finns i [köpa eller ta bort prenumerations licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
