@@ -1,8 +1,8 @@
 ---
 title: Avbryt Avancerat skydd
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683708"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416289"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Avbryt Avancerat skydd
 
-Avancerat skydd kan avbrytas i **administrations centret för Microsoft 365**.
+Administratörer kan avbryta prenumerationen på det avancerade hotet för organisationen i administrations centret för Microsoft 365.
 
 1. Gå till sidan för **fakturering**  >  [av dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Leta reda på det avancerade hotet Protection Plan för att avbryta.
-3. Klicka på **Avbryt prenumeration**.
+2. På fliken **produkter** letar du reda på det avancerade skydds abonnemang som du vill avbryta. Välj **fler åtgärder** (tre punkter) och välj sedan **Avbryt prenumeration**.
+3. I fönstret **Avsluta prenumeration** väljer du en orsak till varför du avbryter. Du kan också lämna feedback.
+4. Välj **Spara**.
 
-Åter betalning: alla probetygsatta kredit kommer att återföras till dig inom nästa fakturerings period.
-
-**Obs!** om du inte ser alternativet att avbryta klickar du på prenumerationen för att Visa uppgifterna och du bör se alternativet för att **avbryta prenumerationen** i **Inställningar & åtgärder**.
+**Åter betalning:** Eventuell uppskattad kredit kommer att återföras till dig inom nästa fakturerings period.
 
 Mer information finns i [avbryta prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

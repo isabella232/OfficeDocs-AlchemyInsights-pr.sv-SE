@@ -2,36 +2,32 @@
 title: Avbryt Visio-prenumeration
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: af41ef0469d475b1964d721ab52f175bf8812ffc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 88109091a3a958c1a464bff2d5eef8ac05039c07
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683312"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416370"
 ---
 # <a name="cancel-visio-subscription"></a>Avbryt Visio-prenumeration
 
-Administratörer kan avbryta Visio-prenumerationen för sin organisation från **Microsoft 365 Admin Center**.
+Administratörer kan avbryta Visio-prenumerationen för sin organisation i administrations centret för Microsoft 365.
 
-1. Gå till sidan **fakturering > [dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
+1. Gå till sidan för **fakturering** \> [av dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. På fliken **produkter** letar du reda på den Visio-prenumeration som du vill avbryta. Välj **fler åtgärder** (tre punkter) och välj sedan **Avbryt prenumeration**.
+3. I fönstret **Avsluta prenumeration** väljer du en orsak till varför du avbryter. Du kan också lämna feedback.
+4. Välj **Spara**.
 
-2. Leta upp Visio-abonnemanget för att avbryta.
-
-3. Klicka på **Avbryt prenumeration**.
-
-**Åter betalning: alla probetygsatta kredit kommer att återföras till dig inom nästa fakturerings period.**
-
-**Obs!** om du inte ser alternativet att avbryta klickar du på prenumerationen för att Visa uppgifterna och du bör se alternativet för att **avbryta prenumerationen** i **Inställningar & åtgärder**.
+**Åter betalning:** Eventuell uppskattad kredit kommer att återföras till dig inom nästa fakturerings period.
 
 Mer information finns i [avbryta prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

@@ -2,36 +2,32 @@
 title: Avbryt projekt abonnemang
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 0a10e2de14bd42412097d94bb846b34db414cb00
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 14f594f72e8104cbd900fcd4e2acc1232ca26167
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683541"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416506"
 ---
 # <a name="cancel-project-subscription"></a>Avbryt projekt abonnemang
 
-Administratörer kan avbryta projekt prenumerationen för sin organisation från **administrations centret för Microsoft 365**.
+Administratörer kan avbryta projekt prenumerationen för sina organisationer i Microsoft 365 Admin Center.
 
-1. Gå till sidan **fakturering > [dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
+1. Gå till sidan för **fakturering** \> [av dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Leta reda på den projekt prenumeration som du vill avbryta på fliken **produkter** . Välj **fler åtgärder** (tre punkter) och välj sedan **Avbryt prenumeration**.
+3. I fönstret **Avsluta prenumeration** väljer du en orsak till varför du avbryter. Du kan också lämna feedback.
+4. Välj **Spara**.
 
-2. Leta reda på projektplanen för att avbryta.
-
-3. Klicka på **Avbryt prenumeration**.
-
-**Åter betalning: alla probetygsatta kredit kommer att återföras till dig inom nästa fakturerings period.**
-
-**Obs!** om du inte ser alternativet att avbryta klickar du på prenumerationen för att Visa uppgifterna och du bör se alternativet för att **avbryta prenumerationen** i **Inställningar & åtgärder**.
+**Åter betalning:** Eventuell uppskattad kredit kommer att återföras till dig inom nästa fakturerings period.
 
 Mer information finns i [avbryta prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
