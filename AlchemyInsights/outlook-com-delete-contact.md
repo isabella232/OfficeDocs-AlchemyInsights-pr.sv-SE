@@ -14,12 +14,12 @@ ms.custom:
 - "262"
 - "8000012"
 ms.assetid: b65125f0-7d6a-42c8-a5d8-a1ce733dddf7
-ms.openlocfilehash: d2e663de4d7860320be7df64d5c465482de14706
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 84d0476de1fe7f79d2850d7295c5a4b533980d32
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752125"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48452210"
 ---
 # <a name="delete-a-contact-in-outlookcom"></a>Ta bort en kontakt i Outlook.com
 
@@ -28,3 +28,4 @@ ms.locfileid: "47752125"
 2. Markera den kontakt du vill ta bort och välj **ta bort**.
 
 Om du inte kan välja **ta bort**kan kontakten komma från Skype eller ett anslutet socialt nätverks konto. Om du vill ta bort kontakten går du till Skype eller kontot där kontakten finns.
+
