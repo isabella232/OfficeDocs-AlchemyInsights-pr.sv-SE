@@ -2,8 +2,8 @@
 title: Avbryta en app
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: 03723bbdac07e46539d41fc771ffeccff03f59bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f974c84ea6231a012e8212f4e115b235cbf1e4ac
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781013"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488863"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Så här avbryter du program vara-as-service-appar 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Så här avbryter du program vara-as-service-appar
 
-1. Klicka **på**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** fliken **appar** i administrations centret för Microsoft 365.
-
-2. Leta reda på och välj det program du vill hantera.
-
-3. Under **inställningar & åtgärder**väljer du **Avbryt prenumeration**.
+1. I administrations centret går du till sidan **fakturering**på  >  [din produkt](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. På sidan **produkter** bläddrar du ned till avsnittet **appar** och letar reda på den prenumeration du vill avbryta. 
+3. Välj **fler åtgärder** (tre punkter) och välj sedan **Avbryt prenumeration**.
+4. I fönstret **Avsluta prenumeration** väljer du en orsak till varför du avbryter. Du kan också lämna feedback.
+5. Välj **Spara**.
