@@ -12,28 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: 9306f56e2f3b9ba3b06e78e07aa2eb0fe40817e4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784325"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791276"
 ---
 # <a name="enrolling-android-devices-into-intune"></a>Registrera Android-enheter i Intune
 
-Intune stöder registrering av följande Android-enheter:
-- Samsung KNOX och zebror
-- Arbets profil för Android Enterprise
-- Dedikerade Android Enterprise
-- Android Enterprise fullt hanterat
+Om du vill migrera användare från Android-enhetens administratörs registrering till Android Enterprise kan du granska: [Flytta Android-enheter från enhets administratören till arbets profilen](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
 
-Innan du konfigurerar registrering för Android-enheter [granskar du förutsättningarna] ( https://docs.microsoft.com/intune/enrollment/android-enroll .
+Intune stöder registrering av följande Android-enheter:  
 
-Information om hur du felsöker enhets registrering i allmänhet och vissa Android-felregistreringar finns i [Felsöka enhets registrering i Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+- [Samsung KNOX, zebror, enhets administratör](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Arbets profil för Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Dedikerade Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [Android Enterprise fullt hanterat](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-Du kan också använda [innehållet som beskriver Intune-felsökningens blad](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) för att identifiera vilka Enrolment problem användarna har.
+Innan du konfigurerar registrering för Android-enheter bör [du läsa de förutsättningar som krävs](https://docs.microsoft.com/intune/enrollment/android-enroll).  
 
+Information om hur du felsöker enhets registrering i allmänhet och vissa Android-felregistreringar finns i [Felsöka enhets registrering i Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
 
-
-
-
+Du kan också använda innehållet som beskriver Intune-felsökningens blad för att identifiera vilka Enrolment problem användarna har.
