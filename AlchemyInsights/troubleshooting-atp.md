@@ -1,5 +1,5 @@
 ---
-title: Felsöka Office 365 Avancerat skydd
+title: Felsöka Microsoft Defender för Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658932"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801464"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Felsöka Office 365 Avancerat skydd
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Felsöka Microsoft Defender för Office 365
 
 - Märker du fördröjningar i leverans av meddelanden? Använd alternativet [dynamisk leverans](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) i policyn för säker användning för ATP. Detta hjälper till att undvika meddelande fördröjningar när du skyddar mottagare från skadliga filer.
 
@@ -28,8 +28,8 @@ ms.locfileid: "47658932"
 
   1. Gå till [https://protection.office.com](https://protection.office.com) och logga in med en global administratör eller ett säkerhets administratörs konto.
 
-  2. Välj **policy** Safe Links i det vänstra navigerings fönstret under **Threat Management** \> **Safe Links**.
+  2. Välj **policy** Safe Links i det vänstra navigerings fönstret under **Threat Management** \> **Safe Links** .
 
-  3. I de **principer som gäller för hela avsnittet organisation** väljer du policy och klickar på **Redigera**.
+  3. I de **principer som gäller för hela avsnittet organisation** väljer du policy och klickar på **Redigera** .
 
-  4. Under **Inställningar**aktiverar **du Använd Safe Links för meddelanden som skickas inom organisationen**.
+  4. Under **Inställningar** aktiverar **du Använd Safe Links för meddelanden som skickas inom organisationen** .

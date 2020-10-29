@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759237"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801569"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Angrepps Simulator i Microsoft 365
 
-- Saknar du angrepps Simulator? För angrepps Simulator krävs **office 365 Advanced Threat Protection Plan 2 (ATP-abonnemang 2)** eller **Office 365 Enterprise E5**. Angrepps Simulator ingår **inte** i Office 365 Avancerat skydds abonnemang 1 (ATP-abonnemang 1), Office 365 Enterprise E3 eller något Microsoft 365-program för Business-prenumerationer.
+- Saknar du angrepps Simulator? För angrepps Simulator krävs **Microsoft Defender för Office 365 abonnemang 2 (ATP-abonnemang 2)** eller **Office 365 Enterprise E5** . Angrepps Simulator ingår **inte** i Microsoft Defender för Office 365 abonnemang 1 (ATP-abonnemang 1), Office 365 Enterprise E3 eller något Microsoft 365-program för Business-prenumerationer.
 
 - Det konto som du använder för att starta simulerade attacker kräver den globala administratören eller säkerhets administratören och multifaktorautentisering. Mer information om krav för attack simulatorn finns i [det här avsnittet](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
@@ -33,7 +33,7 @@ ms.locfileid: "47759237"
 
 - Viktiga saker du bör veta om **Spear nät fiske** :
 
-  - Efter design kan du inte ange ett anpassat värde för **URL-adressen till nätfiske-inloggningen**.
+  - Efter design kan du inte ange ett anpassat värde för **URL-adressen till nätfiske-inloggningen** .
 
   - Om en mottagare använder [tillägget aktivera rapport meddelande](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) om du vill rapportera meddelandet som nätfiske kanske du inte får aviseringar om meddelandet (eftersom det är ett simulerat angrepp).
 
