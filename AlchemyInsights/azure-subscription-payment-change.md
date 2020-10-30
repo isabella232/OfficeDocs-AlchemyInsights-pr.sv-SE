@@ -1,0 +1,58 @@
+---
+title: Ändra betalnings information i Azure
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9003546"
+- "6813"
+ms.openlocfilehash: c46f1cd65ae5a07a4aab33c641ebfcb7ef6fd42d
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.translationtype: MT
+ms.contentlocale: sv-SE
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48808131"
+---
+# <a name="change-payment-information-in-azure"></a><span data-ttu-id="64fca-102">Ändra betalnings information i Azure</span><span class="sxs-lookup"><span data-stu-id="64fca-102">Change payment information in Azure</span></span>
+
+<span data-ttu-id="64fca-103">I Azure-portalen, som administratör, kan du lägga till ett nytt kredit kort, uppdatera ett befintligt kredit kort eller ta bort ett kredit kort som du inte använder.</span><span class="sxs-lookup"><span data-stu-id="64fca-103">In the Azure portal, as an Account Administrator, you can add a new credit card, update an existing credit card, or delete a credit card that you don't use.</span></span> <span data-ttu-id="64fca-104">För [Microsofts kund avtal](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)är betalnings metoder kopplade till [fakturerings profiler](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile).</span><span class="sxs-lookup"><span data-stu-id="64fca-104">For [Microsoft Customer Agreement](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement), payment methods are associated with [billing profiles](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile).</span></span> <span data-ttu-id="64fca-105">Endast den användare som har registrerat sig för Azure kan uppdatera betalnings metoden.</span><span class="sxs-lookup"><span data-stu-id="64fca-105">Only the user who signed up for Azure can update the payment method.</span></span>
+
+<span data-ttu-id="64fca-106">**Lägga till ett nytt kredit-eller betalkort i ett Azure-abonnemang**</span><span class="sxs-lookup"><span data-stu-id="64fca-106">**Add a new Credit or Debit card to an Azure Subscription**</span></span>
+
+1. <span data-ttu-id="64fca-107">Logga in på [Azure-portalen](https://portal.azure.com/) som [konto administratör](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Sök på **kostnads hantering + fakturering**</span><span class="sxs-lookup"><span data-stu-id="64fca-107">Sign in to the [Azure portal](https://portal.azure.com/) as the [Account Admin](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Search on **Cost Management + Billing**</span></span>
+2. <span data-ttu-id="64fca-108">Välj ett abonnemang som du vill lägga till kredit-eller betalkort till.</span><span class="sxs-lookup"><span data-stu-id="64fca-108">Select a Subscription you'd like to add the credit or debit card to.</span></span> <span data-ttu-id="64fca-109">Välj **betalnings sätt**</span><span class="sxs-lookup"><span data-stu-id="64fca-109">Select **Payment methods**</span></span>
+3. <span data-ttu-id="64fca-110">I det övre vänstra hörnet väljer du + för att lägga till ett kort.</span><span class="sxs-lookup"><span data-stu-id="64fca-110">In the top-left corner, select + to add a card.</span></span> <span data-ttu-id="64fca-111">Ett kredit korts formulär visas till höger.</span><span class="sxs-lookup"><span data-stu-id="64fca-111">A credit card form will appear on the right.</span></span> <span data-ttu-id="64fca-112">Ange kreditkorts-eller betalkorts information 4.To att det här kortet är din aktiva betalnings metod markerar du rutan bredvid gör denna aktiva betalnings metod ovanför formuläret.</span><span class="sxs-lookup"><span data-stu-id="64fca-112">Enter credit or debit card details 4.To make this card your active payment method, check the box next to Make this my active payment method above the form.</span></span> <span data-ttu-id="64fca-113">Detta kort blir det aktiva betalnings instrumentet för alla prenumerationer som använder samma kort som det valda abonnemanget.</span><span class="sxs-lookup"><span data-stu-id="64fca-113">This card will become the active payment instrument for all subscriptions using the same card as the selected subscription.</span></span> <span data-ttu-id="64fca-114">Välj **nästa** 5.to **Använd ett annat kredit kort** , markera kryss rutan bredvid kortet du vill göra till betalnings metod.</span><span class="sxs-lookup"><span data-stu-id="64fca-114">Select **Next** 5.To **use a different credit card** , check the box next to the card you'd like to make the active payment method.</span></span>
+<span data-ttu-id="64fca-115">6. Klicka på **Aktivera aktive rad**</span><span class="sxs-lookup"><span data-stu-id="64fca-115">6.Click **Set active**</span></span>
+
+<span data-ttu-id="64fca-116">**Uppdatera/ändra/ta bort en befintlig kredit eller ett betalkort**</span><span class="sxs-lookup"><span data-stu-id="64fca-116">**Update/Change/Remove an existing Credit or Debit card**</span></span>
+
+<span data-ttu-id="64fca-117">1. Logga in på [Azure-portalen](https://portal.azure.com/) som [konto administratör](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Sök på **kostnads hantering + fakturering** .</span><span class="sxs-lookup"><span data-stu-id="64fca-117">1.Sign in to the [Azure portal](https://portal.azure.com/) as the [Account Admin](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Search on **Cost Management + Billing** .</span></span>
+<span data-ttu-id="64fca-118">2. Välj **betalnings sätt** .</span><span class="sxs-lookup"><span data-stu-id="64fca-118">2.Select **Payment methods** .</span></span> <span data-ttu-id="64fca-119">Klicka på det kredit-eller betalkort som du vill redigera.</span><span class="sxs-lookup"><span data-stu-id="64fca-119">Click on the credit or debit card that you'd like to edit.</span></span> <span data-ttu-id="64fca-120">Ett kredit korts formulär visas till höger 3. uppdatera kreditkorts-eller betalkorts uppgifter.</span><span class="sxs-lookup"><span data-stu-id="64fca-120">A credit card form will appear on the right 3.Update the credit or debit card details.</span></span> <span data-ttu-id="64fca-121">Välj **Spara** .</span><span class="sxs-lookup"><span data-stu-id="64fca-121">Select **Save** .</span></span>
+<span data-ttu-id="64fca-122">4.To **ta bort** markerar du kryss rutan bredvid kortet du vill ta bort 5. Klicka på **ta bort**</span><span class="sxs-lookup"><span data-stu-id="64fca-122">4.To **remove** , check the box next to the card that you want to remove 5.Click **Delete**</span></span>
+
+<span data-ttu-id="64fca-123">_Obs!_ du kan inte ta bort kredit kortet om det är kopplat till andra aktiva Microsoft-prenumerationer.</span><span class="sxs-lookup"><span data-stu-id="64fca-123">_Note_ : You can't remove your credit card if it is associated with other active Microsoft subscriptions.</span></span> <span data-ttu-id="64fca-124">Du måste ta bort kredit kortet från alla aktiva abonnemang som du har med Microsoft och sedan försöka igen.</span><span class="sxs-lookup"><span data-stu-id="64fca-124">You will need to remove the credit card from all active subscriptions that you have with Microsoft and try again.</span></span>
+
+<span data-ttu-id="64fca-125">Läs mer: [Uppdatera, ändra eller ta bort betalnings metoder](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="64fca-125">Learn more: [Update, change, or remove payment methods](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)</span></span>
+
+<span data-ttu-id="64fca-126">**Felsöka betalnings problem**</span><span class="sxs-lookup"><span data-stu-id="64fca-126">**Troubleshoot Payment issues**</span></span>
+
+<span data-ttu-id="64fca-127">Mer information om hur du löser problemet finns i [fel sökning av](https://support.microsoft.com/help/4505172/troubleshooting-payment-issues) problem med betalning.</span><span class="sxs-lookup"><span data-stu-id="64fca-127">Refer [Troubleshoot payment issues/error scenarios](https://support.microsoft.com/help/4505172/troubleshooting-payment-issues) to see if it resolves your issue.</span></span>
+
+<span data-ttu-id="64fca-128">Om det finns en väntande betalning på kortet eftersom kortet inte har kunnat nås kan du kontakta din **Bank** för att lösa problemet.</span><span class="sxs-lookup"><span data-stu-id="64fca-128">If there is a pending payment on the card since the card was denied by your financial institution, please reach out to your **financial institution** to resolve the issue.</span></span> <span data-ttu-id="64fca-129">Använd punkter under pekare:</span><span class="sxs-lookup"><span data-stu-id="64fca-129">Use the below pointers:</span></span>
+
+- <span data-ttu-id="64fca-130">Du kan behöva kontrol lera med banken att se om den internationella transaktionen är aktive rad på kortet</span><span class="sxs-lookup"><span data-stu-id="64fca-130">You might have to check with the bank to see if the international transaction is enabled on the card</span></span>
+- <span data-ttu-id="64fca-131">Om kortet har en kreditlimit för att kvitta saldot</span><span class="sxs-lookup"><span data-stu-id="64fca-131">If card has credit limit to settle the balance</span></span>
+- <span data-ttu-id="64fca-132">Om återkommande betalning är aktiverat på kortet</span><span class="sxs-lookup"><span data-stu-id="64fca-132">If recurring payment is enabled on the card</span></span>
+
+<span data-ttu-id="64fca-133">**Rekommenderade dokument**</span><span class="sxs-lookup"><span data-stu-id="64fca-133">**Recommended Documents**</span></span>
+
+- [<span data-ttu-id="64fca-134">Ställ in fakturering</span><span class="sxs-lookup"><span data-stu-id="64fca-134">Set up invoicing</span></span>](https://azure.microsoft.com/pricing/invoicing/)
+- [<span data-ttu-id="64fca-135">Ändra betalnings metod – vanliga frågor</span><span class="sxs-lookup"><span data-stu-id="64fca-135">Change payment method- FAQ</span></span>](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [<span data-ttu-id="64fca-136">Ändra betalnings metod för en fakturerings profil</span><span class="sxs-lookup"><span data-stu-id="64fca-136">Change payment method for a billing profile</span></span>](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
+- [<span data-ttu-id="64fca-137">Kontrol lera åtkomsten till ett Microsoft-kundavtal</span><span class="sxs-lookup"><span data-stu-id="64fca-137">Check access to a Microsoft Customer Agreement</span></span>](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
