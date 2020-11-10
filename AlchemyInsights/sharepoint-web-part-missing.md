@@ -9,20 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000207
-ms.openlocfilehash: 3321f68f3a9379aec7c2d4537873b4b53295672a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.custom:
+- "9000207"
+- "1911"
+ms.openlocfilehash: 4718c052b4ec60fb4574654935801f33935ffe4b
+ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800374"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48949835"
 ---
 # <a name="content-editor-or-script-editor-web-parts-are-missing"></a>Innehålls redigeraren eller webb delen för skript redigeraren saknas
 
-Om du saknar en webbdel som du använder för att se, till exempel **innehålls redigeraren eller webb delen skript redigeraren**, är det möjligt att du försöker lägga till en [klassisk webbdel på en modern sida](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). Det är viktigt att Observera att moderna sidor endast kan använda moderna webb delar och klassiska sidor kan bara använda klassiska webb delar. Många moderna webb delar uppfyller samma syfte som klassiska webb delar, men du kommer att se skillnaderna i utseende och funktioner.
+Två webb delar som inte är tillgängliga i SharePoint för Microsoft 365 moderna sidor är **webb delen skript redigeraren** och **webb delen innehålls redigeraren**. Det finns emellertid [moderna webb delar](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) som inte är i kartongen som kan uppfylla vissa av de olika ändamålen. Eller så kan du skapa [anpassade webb delar eller migrera dina befintliga skript redigerings webb delar](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) till SharePoint-ramverket.  
 
-Det finns många webb delar som inte visas på grund av den [anpassade skript inställningen](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script), som är inaktive rad som standard på moderna webbplatser. 
-
-En lista med webb delar som inte är tillgängliga finns i funktioner som [påverkas när det anpassade manuset blockeras](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
-
-Mer information om säkerhets riskerna med anpassade skript finns i [säkerhet för att tillåta anpassade skript](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
+Mer information finns i [var finns innehålls redigeraren och skript redigeraren i SharePoint?](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd)
