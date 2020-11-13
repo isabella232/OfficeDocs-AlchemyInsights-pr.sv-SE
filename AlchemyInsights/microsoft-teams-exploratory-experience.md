@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "7228"
+ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
+ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674956"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49019565"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>Vår upplevelse av Microsoft Teams
 
-Med prov upplevelsen av Microsoft Teams kan användare i organisationen som har Azure Active Directory (AAD) och inte licensieras för grupper inleda en exempel upplevelse av Teams. Administratörer kan aktivera eller inaktivera den här funktionen för användare i organisationen. (Den tidigare test versionen av Microsoft kommersiella moln kallas nu Teams.)
-
-Microsofts Teams användnings upplevelser är tillgängligt utan extra kostnad förrän nästa avtal med giltighet eller förnyelse från och med den 31 januari 2021. Vid den tiden måste slutanvändare av en licens för undersökande upplevelser gå med i en betal licens som omfattar Teams.
-
-För mer information, se [hantera vår licens för Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
+- Vad är [Teams-proven](https://docs.microsoft.com/microsoftteams/teams-exploratory)? Med prov upplevelsen av Microsoft Teams kan användare i organisationen som inte är licensierade för grupper inleda en prov upplevelse av Teams. Om du vill ha mer information kan du läsa om [vad som händer i gruppens prov](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
+- [När upphör min licens](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)? Microsofts Teams användnings upplevelser är tillgängligt utan extra kostnad förrän nästa avtal med årsdag eller förnyelse den eller senare 2021.
+- Som administratör kan du [Uppgradera användare från Teams prov](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) licens genom att köpa ett abonnemang som innehåller Teams, ta bort Teams-abonnemanget från användaren och tilldela den nya inköpta licensen.
+- Mer information finns i [hantera vår prov licens för Teams.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
