@@ -2,8 +2,7 @@
 title: Avsluta Microsoft 365-abonnemang
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: b663914963361d7a20f4b72b8a75bbdebe7e324c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e45350b88728ef803dba14900746c86e7403693e
+ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811875"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49348647"
 ---
-# <a name="cancelling-your-microsoft-365-subscription"></a><span data-ttu-id="cd7d7-102">Avbryter du din Microsoft 365-prenumeration?</span><span class="sxs-lookup"><span data-stu-id="cd7d7-102">Cancelling your Microsoft 365 subscription?</span></span>
+# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="80891-102">Avbryter du Microsoft 365-prenumerationen?</span><span class="sxs-lookup"><span data-stu-id="80891-102">Canceling your Microsoft 365 subscription?</span></span>
 
-<span data-ttu-id="cd7d7-103">Vi beklagar att du är på språng, men här är dina alternativ för att avbryta din prenumeration:</span><span class="sxs-lookup"><span data-stu-id="cd7d7-103">We're sorry to see you go, but here are your options to cancel your subscription:</span></span>
+<span data-ttu-id="80891-103">Vi beklagar att du är på språng, men om du vill avbryta prenumerationen kan du välja mellan följande alternativ:</span><span class="sxs-lookup"><span data-stu-id="80891-103">We're sorry to see you go, but if you want to cancel your subscription, here are your options:</span></span>
   
-- <span data-ttu-id="cd7d7-104">Om du är en test kund finns det inget att avbryta.</span><span class="sxs-lookup"><span data-stu-id="cd7d7-104">If you are a trial customer, there is nothing to cancel.</span></span> <span data-ttu-id="cd7d7-105">Prov abonnemanget upphör automatiskt om du inte anger en betalnings metod.</span><span class="sxs-lookup"><span data-stu-id="cd7d7-105">Trial subscriptions expire automatically unless you provide a payment method.</span></span>
+- <span data-ttu-id="80891-104">Om du är en test kund finns det inget att avbryta.</span><span class="sxs-lookup"><span data-stu-id="80891-104">If you're a trial customer, there's nothing to cancel.</span></span> <span data-ttu-id="80891-105">Prov abonnemanget upphör automatiskt om du inte anger en betalnings metod.</span><span class="sxs-lookup"><span data-stu-id="80891-105">Trial subscriptions expire automatically unless you provide a payment method.</span></span>
+- <span data-ttu-id="80891-106">Om du har färre än 25 tilldelade licenser kan du avbryta prenumerationen online.</span><span class="sxs-lookup"><span data-stu-id="80891-106">If you have fewer than 25 assigned licenses, you can cancel your subscription online.</span></span> <span data-ttu-id="80891-107">Gå till sidan för **fakturering** \> [av din produkt](https://go.microsoft.com/fwlink/p/?linkid=842054) och leta upp den prenumeration som du vill avbryta.</span><span class="sxs-lookup"><span data-stu-id="80891-107">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page, and find the subscription that you want to cancel.</span></span> <span data-ttu-id="80891-108">Välj **fler åtgärder** (tre punkter) och välj sedan **Avbryt prenumeration**.</span><span class="sxs-lookup"><span data-stu-id="80891-108">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+- <span data-ttu-id="80891-109">Om du har fler än 25 licenser tilldelade till användare kan [du ringa supporten för att avbryta prenumerationen](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="80891-109">If you have more than 25 licenses assigned to users, [call support to cancel your subscription](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).</span></span>
 
-- <span data-ttu-id="cd7d7-106">Om du har färre än 25 tilldelade licenser kan du avbryta prenumerationen online.</span><span class="sxs-lookup"><span data-stu-id="cd7d7-106">If you have fewer than 25 assigned licenses, you can cancel your subscription online.</span></span> <span data-ttu-id="cd7d7-107">Gå till **fakturering** \> **[av dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="cd7d7-107">Go to **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span> <span data-ttu-id="cd7d7-108">Välj **Cancel Subscription**i avsnittet **Settings & Actions** .</span><span class="sxs-lookup"><span data-stu-id="cd7d7-108">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
+<span data-ttu-id="80891-110">**Åter betalning: alla probetygsatta kredit kommer att återföras till dig inom nästa fakturerings period.**</span><span class="sxs-lookup"><span data-stu-id="80891-110">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span>
 
-- <span data-ttu-id="cd7d7-109">Om du har fler än 25 tilldelade licenser kan du antingen ta bort användare tills du har färre än 25 eller använda alternativet "Låt oss ringa dig" för att prata med en support tekniker.</span><span class="sxs-lookup"><span data-stu-id="cd7d7-109">If you have more than 25 assigned licenses, you can either remove users until you have fewer than 25, or use the "Let us call you" option to talk to a support engineer.</span></span>
+> [!NOTE]
+> <span data-ttu-id="80891-111">Om du inte ser alternativet att avbryta väljer du prenumerationen för att Visa informations sidan.</span><span class="sxs-lookup"><span data-stu-id="80891-111">If you don't see the option to cancel, select the subscription to view the details page.</span></span> <span data-ttu-id="80891-112">I avsnittet **prenumerationer och betalnings inställningar** väljer du **Avbryt prenumeration**.</span><span class="sxs-lookup"><span data-stu-id="80891-112">In the **Subscription and payment settings** section, select **Cancel subscription**.</span></span>
 
-<span data-ttu-id="cd7d7-110">Mer information finns i [avbryta prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="cd7d7-110">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="80891-113">Mer information finns i [avbryta prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="80891-113">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
