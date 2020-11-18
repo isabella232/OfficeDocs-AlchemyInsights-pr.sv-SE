@@ -2,8 +2,7 @@
 title: Avsluta Microsoft 365-abonnemang
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: b663914963361d7a20f4b72b8a75bbdebe7e324c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e45350b88728ef803dba14900746c86e7403693e
+ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811875"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49348647"
 ---
-# <a name="cancelling-your-microsoft-365-subscription"></a>Avbryter du din Microsoft 365-prenumeration?
+# <a name="canceling-your-microsoft-365-subscription"></a>Avbryter du Microsoft 365-prenumerationen?
 
-Vi beklagar att du är på språng, men här är dina alternativ för att avbryta din prenumeration:
+Vi beklagar att du är på språng, men om du vill avbryta prenumerationen kan du välja mellan följande alternativ:
   
 - Om du är en test kund finns det inget att avbryta. Prov abonnemanget upphör automatiskt om du inte anger en betalnings metod.
+- Om du har färre än 25 tilldelade licenser kan du avbryta prenumerationen online. Gå till sidan för **fakturering** \> [av din produkt](https://go.microsoft.com/fwlink/p/?linkid=842054) och leta upp den prenumeration som du vill avbryta. Välj **fler åtgärder** (tre punkter) och välj sedan **Avbryt prenumeration**.
+- Om du har fler än 25 licenser tilldelade till användare kan [du ringa supporten för att avbryta prenumerationen](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
 
-- Om du har färre än 25 tilldelade licenser kan du avbryta prenumerationen online. Gå till **fakturering** \> **[av dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Välj **Cancel Subscription**i avsnittet **Settings & Actions** .
+**Åter betalning: alla probetygsatta kredit kommer att återföras till dig inom nästa fakturerings period.**
 
-- Om du har fler än 25 tilldelade licenser kan du antingen ta bort användare tills du har färre än 25 eller använda alternativet "Låt oss ringa dig" för att prata med en support tekniker.
+> [!NOTE]
+> Om du inte ser alternativet att avbryta väljer du prenumerationen för att Visa informations sidan. I avsnittet **prenumerationer och betalnings inställningar** väljer du **Avbryt prenumeration**.
 
 Mer information finns i [avbryta prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

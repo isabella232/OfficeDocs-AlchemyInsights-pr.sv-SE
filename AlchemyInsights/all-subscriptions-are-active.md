@@ -14,15 +14,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: 4b6ce603b4c47014f8a99a479da55dca3ecc264c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bfe51559421c94cda4d3aa53c9baf5265af57224
+ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718351"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49348719"
 ---
 # <a name="all-subscriptions-are-active"></a>Alla prenumerationer är aktiva
 
-Dina abonnemang är aktiva. Det kan du göra genom att gå till sidan för **fakturering** av \> [din produkt](https://go.microsoft.com/fwlink/p/?linkid=842054) . Dina abonnemang ordnas efter status med aktiva abonnemang högst upp. Ytterligare information, till exempel antal licenser och betalnings metod, kan ses genom att välja abonnemanget.
+Dina abonnemang är aktiva. Det kan du göra genom att gå till sidan för **fakturering** av \> [din produkt](https://go.microsoft.com/fwlink/p/?linkid=842054) . Dina abonnemang visas på fliken **produkter** och statusen för varje abonnemang visas i kolumnen **prenumerations status** . Om du vill ha mer information väljer du ett abonnemang för att visa sidan abonnemangs information.
   
 Om du vill ta bort dina aktiva abonnemang eller avsluta kontot kan du läsa om [hur du avslutar ditt konto](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide).
