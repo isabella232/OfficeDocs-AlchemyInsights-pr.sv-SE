@@ -15,25 +15,25 @@ ms.custom:
 - "9000093"
 - "1613"
 - "9000093"
-ms.openlocfilehash: 5544ea676412d26b87bcf4c20637910f3a4d20c4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
-ms.translationtype: MT
+ms.openlocfilehash: 43858e9cecb904799aebad0d6e545d586c6e6b00
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089015"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529000"
 ---
-# <a name="documents-opening-in-read-only"></a>Dokument som öppnas i skrivskyddat läge
+# <a name="documents-opening-in-read-only"></a>Dokumenten öppnas i skrivskyddat läge
 
-Filerna som du öppnar blir skrivskyddade. I vissa fall fungerar det här villkoret som en extra säkerhet, till exempel när du öppnar filer från Internet och andra gånger, det här problemet kan bero på att en inställning har ändrats.
+Det kan hända att filerna du öppnar är i skrivskyddat läge. I vissa fall kan det här vara ett skydd för ökad säkerhet, till exempel när du öppnar filer från internet, och andra gånger kan det bero på en inställning som kan ändras.
 
-- [SharePoint-filer öppnas som skrivskyddade](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
+- [SharePoint-filer öppnas i skrivskyddat läge](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
 
-Om kunden anser att de angivna orsakerna till exempel säkerhets förbättrings funktionen eller en oförändrad inställning inte är ett av de scenarion som beskrivs i [SharePoint-filer som öppnats som skrivskyddade](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)är det här andra vanliga lösningar för dokument som öppnas i skrivskyddat läge.
+Om kunden tycker att detta utgör en säkerhetshöjande funktion eller en oförändrad inställning inte är ett designscenario som beskrivs i [SharePoint-filer öppnas i skrivskyddat läge](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out), så finns vanliga lösningar till att dokument öppnas i skrivskyddat läge här.
 
 - Starta om datorn.
 - Installera Office-uppdateringar.
-- Kontrol lera datorns antivirus program.
-- Kontrol lera att webbplatsen finns i zonen Tillförlitliga platser i Internet Explorer.
-- Utför en reparation av Office.
-- Rensa [Office Document cache](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us).
+- Kontrollera antivirusmjukvaran på datorn.
+- Kontrollera att webbsidan finns med i zonen Betrodda webbsidor i Internet Explorer.
+- Kör en reparation av Office.
+- Töm [Office-dokumentcachen](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us).
 

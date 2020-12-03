@@ -5,24 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: b45071a3a03daf55b109e9e9b73c7262868f82ac
-ms.sourcegitcommit: 7c3819614681716748802b04240e80f0dc7e1e8a
-ms.translationtype: MT
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44932110"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529036"
 ---
 # <a name="contact-the-sales-team"></a>Kontakta säljteamet
 
-Med Microsoft Graph-kopplingar kan din organisation indexera data från tredje part så att de visas i Microsofts sökresultat.
+Det finns flera sätt att kontakta säljteamet för Microsoft 365.
 
-- [Kopplingar från Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [Kontakter från våra partners](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-Mer information finns i [Översikt över Microsoft Graph-kopplingar](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+- Använd formuläret [Kontakta oss](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409) om du vill att en Microsoft 365-säljexpert kontaktar dig.
+- Börja med portalen [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkId=329762) om du vill kontakta en expert för volymlicensiering för företagsavtal.
