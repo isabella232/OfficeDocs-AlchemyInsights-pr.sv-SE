@@ -13,21 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 96023978dbbeeb162504d2b205a61f6980734d14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
+ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754357"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49569185"
 ---
 # <a name="onedrive-puid-mismatch"></a>OneDrive-PUID matchar inte
-Det verkar som om [PUID inte stämmer](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) i OneDrive för företag. Följ stegen nedan så kan vi hjälpa dig så snart som möjligt:
 
-1. Klicka på **kontakta support**och sedan på **ny tjänst förfrågan**.
-2. Lämna rubriken och beskrivningen som **felaktig utpuid för OneDrive-webbplatsen**.
+Det verkar som om du har ett [ID-matchningsfel](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) i OneDrive för företag. Följ stegen nedan så kan vi hjälpa dig så snart som möjligt:
+
+1. Klicka på  **kontakta support** och sedan på  **ny tjänst förfrågan**.
+2. Lämna rubriken och beskrivningen som  **ID-matchningsfel för OneDrive-webbplatsen**.
 3. När biljetten har skickats uppdaterar du den med följande information:
     - URL för OneDrive-webbplats som påverkas.
     - Användarens huvud namn (UPN) för den påverkade användaren.
-
-
-
