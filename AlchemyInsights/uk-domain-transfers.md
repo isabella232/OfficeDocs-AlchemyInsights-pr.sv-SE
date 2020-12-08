@@ -1,0 +1,27 @@
+---
+title: . uk domän överföringar
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 12/05/2020
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9002570"
+- "6969"
+ms.openlocfilehash: 42fa6189bc41c573fcb06fb41c9c6c4af82a0c8f
+ms.sourcegitcommit: 9604f7cec8bf18ae2d7e5915cab4671a3a04d316
+ms.translationtype: MT
+ms.contentlocale: sv-SE
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49598822"
+---
+# <a name="uk-domain-transfers"></a><span data-ttu-id="f52e5-102">. uk domän överföringar</span><span class="sxs-lookup"><span data-stu-id="f52e5-102">.uk domain transfers</span></span>
+
+<span data-ttu-id="f52e5-103">Kontakta Microsoft support och be om en **IP-märkning** som stämmer överens med den registrator som du vill hantera domänen på.</span><span class="sxs-lookup"><span data-stu-id="f52e5-103">Contact Microsoft Support and request an **IPS Tag change** to match the registrar you want to manage your domain going forward.</span></span> <span data-ttu-id="f52e5-104">När märket ändras överförs domänen direkt till den nya registratorn.</span><span class="sxs-lookup"><span data-stu-id="f52e5-104">Once the tag changes, the domain immediately transfers to the new registrar.</span></span> <span data-ttu-id="f52e5-105">Sedan måste du arbeta med den nya registratorn för att slutföra överföringen, som troligen betalar överförings avgifter och lägga till den överförda domänen på ditt konto hos din nya registrator.</span><span class="sxs-lookup"><span data-stu-id="f52e5-105">You will then need to work with the new registrar to complete the transfer, likely paying transfer fees and adding the transferred domain to your account with your new registrar.</span></span>
+
+<span data-ttu-id="f52e5-106">Mer information om domän överföringar finns i [överföra en domän från Microsoft till en annan värd](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="f52e5-106">For more information on domain transfers, see [Transfer a domain from Microsoft to another host](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).</span></span>
