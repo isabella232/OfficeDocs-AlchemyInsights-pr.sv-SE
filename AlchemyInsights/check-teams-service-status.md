@@ -1,26 +1,27 @@
 ---
-title: Kontrollera tjänststatus för Teams
+title: Kontrollera Teams servicestatus
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "4392"
 - "9001703"
-ms.openlocfilehash: 8eb7f3f03a56b9e90d2f5483a46940b65910839f
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
-ms.translationtype: MT
+ms.openlocfilehash: 9fd1abe502948202776f4d74392e43232c1b9581
+ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45439950"
+ms.lasthandoff: 12/21/2020
+ms.locfileid: "49724208"
 ---
-# <a name="check-teams-service-status"></a>Kontrollera tjänststatus för team
+# <a name="check-teams-service-status"></a>Kontrollera Teams servicestatus
 
-Om du vill kontrollera aktuell status för Microsoft Teams-tjänsten går du till Microsoft 365 admin center Service Health Dashboard.
+Om du vill kontrollera den aktuella statusen för Microsoft Teams-tjänsten, gå till sidan **tjänstehälsa** i [Administrationscenter för Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339). Mer information finns i [hur du kontrollerar tjänstehälsan i Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
 
-Mer information finns i [Så här kontrollerar du Microsoft 365-tjänstens hälsotillstånd](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Om problemet inte är relaterat till Microsoft Teams-tjänsten behöver vi mer detaljerad information för att hitta rätt resurser. Återställ ditt problem och inkludera specifika produktnamn, funktioner eller fel och skicka in din sökfrågan igen.
