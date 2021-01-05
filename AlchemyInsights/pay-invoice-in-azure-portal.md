@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 76171db94d905eaec0263700e5148b29d224a247
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49715034"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755637"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Betala faktura i Azure Portal-rekommenderade steg
+
+Vi har hittat en lösning på problemet. De flesta kunder kunde lösa sina problem efter att ha följt vår dokumentation.
 
 Du måste vara fakturerings konto administratör för att betala fakturor i Azure-portalen. Fakturerings konto administratören är den användare som ursprungligen registrerade sig för Microsofts kund avtals konto. 
 
 Så här betalar du din faktura i Azure-portalen: 
 
 1. Logga in på [Azure-portalen](https://portal.azure.com/).
-1. Sök på **kostnads hantering + fakturering**.
+1. Sök på **Kostnadshantering + fakturering**.
 1. Klicka på **fakturor** under **fakturering** i fönstret till vänster.
 1. Om någon av dina fakturor förfaller eller efter förfallo datum visas en blå **betala nu** -länk för den fakturan. Klicka på **betala nu**.
 1. I det nya bladet klickar du på **Välj en betalnings metod** för att välja ett befintligt kredit kort eller lägga till ett nytt.

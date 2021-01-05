@@ -1,5 +1,5 @@
 ---
-title: Byt till faktura betalning (kontroll/överföring)-modern CL
+title: Byt till betala via faktura (kontroll/överföring)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706782"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755513"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>Byt till faktura betalning (kontroll/överföring)-modern CL
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Byt till betala via faktura (kontroll/överföring)
+
+Vi har hittat en lösning på problemet. De flesta kunder kunde lösa sina problem efter att ha följt vår dokumentation.
 
 Om du byter till betala via faktura innebär det att du betalar din faktura inom 30 dagar efter faktura datumet. Skicka en begäran till Azure-Support för att bli berättigad att betala för ditt Azure-abonnemang via faktura. När din begäran har godkänts kan du byta abonnemang till faktura betalning i Azure-portalen.
 

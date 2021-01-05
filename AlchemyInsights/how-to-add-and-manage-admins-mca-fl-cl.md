@@ -1,5 +1,5 @@
 ---
-title: Så här lägger du till och hanterar administratörer-MCA FL/CL
+title: Så här lägger du till och hanterar administratörer
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692314"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755529"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>Så här lägger du till och hanterar administratörer-MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>Så här lägger du till och hanterar administratörer
+
+Vi har hittat en lösning på problemet. De flesta kunder kunde lösa sina problem efter att ha följt vår dokumentation.
 
 För att hantera ditt fakturerings konto för ett Microsoft Customer Agreement (MCA) kan du använda olika roller med den önskade åtkomst nivån. Dessa roller är utöver de inbyggda Azure Service roles som hjälper dig att kontrol lera dina resurser.
 
