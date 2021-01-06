@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731257"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768835"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Aktivera BitLocker-kryptering med Intune
 
@@ -30,10 +30,12 @@ Information om hur du felsöker problem med BitLocker finns i [Felsöka BitLocke
  
 **FAQ**
 
- F: vilka versioner av Windows stöder enhets kryptering med Endpoint Protection policy?<br>
- A: inställningarna i policyn för Endpoint Protection för Intune implementeras med hjälp av [BitLocker-CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Inte alla versioner av Windows har stöd för BitLocker CSP. <br><br>
-      För närvarande stöds följande Windows-utgåvor: Enterprise, Education, Mobile, Mobile Enterprise och Professional (version 1809 och senare).
- 
+F: vilka versioner av Windows stöder enhets kryptering med Endpoint Protection policy?<br>
+A: inställningarna i policyn för Endpoint Protection för Intune implementeras med hjälp av [BitLocker-CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Inte alla versioner av Windows har stöd för BitLocker CSP. <br><br>
+
+F: Hur kan BitLocker aktive ras på enheter utan slutanvändarens medverkan?<br>
+A: så länge nödvändiga förutsättningar är uppfyllda är det möjligt att aktivera BitLocker "tyst kryptering" genom Intune. Se informationen om enhets kraven och exempel princip inställningar för att aktivera tyst kryptering i följande dokument: [Aktivera BitLocker-kryptering tyst](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+
 F: om en enhet redan är krypterad med BitLocker med hjälp av OS-standardinställningarna för krypterings metod och chiffrering (XTS-AES-128) ska en princip med olika inställningar aktive ras automatiskt för åter kryptering av enheten med de nya inställningarna?<br>
 S: nej. För att använda de nya krypterings inställningarna måste enheten först avkrypteras.<br><br>
 **Obs!** För enheter som är registrerade med autopilot utlöses inte den automatiska krypteringen som skulle inträffa under OOBE förrän Intune-principen utvärderas, vilket gör att de principbaserade inställningarna kan användas i stället för OS-standardinställningarna.
