@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768835"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778211"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Aktivera BitLocker-kryptering med Intune
 
- Intune Endpoint Protection policy kan användas för att konfigurera BitLocker-krypterings inställningar för Windows-enheter. Mer information finns i [Windows 10 (och senare) inställningar för att skydda enheter med Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
- 
+Intune Endpoint Protection policy kan användas för att konfigurera BitLocker-krypterings inställningar för Windows-enheter. Mer information finns i [Windows 10 (och senare) inställningar för att skydda enheter med Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+
+Utöver policyn för Endpoint Protection finns det också en krypterings rapport som ger en mer detaljerad vy av krypterings statusen för enheter. Den här rapporten kan nås från MEM-portalen under **enheter > Monitor** och sedan under **konfiguration** Välj [krypterings rapport](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
+
+Om du upptäcker att det inte går att aktivera BitLocker som förväntat eller att den profil som används för att aktivera BitLocker inte är i fel tillstånd, bör du granska krypterings rapporten för att få en bättre förståelse för varför beteendet inträffar.
+
+Information om hur du tolkar rapporten, inklusive olika krypterings status värden, finns i [övervaka enhets kryptering med Intune](https://docs.microsoft.com/mem/intune/protect/encryption-monitor).
+
 Du bör vara medveten om att många nyare enheter som kör Windows 10 stöder automatisk BitLocker-kryptering, som aktive ras utan tillämpning av MDM-principer. Det här kan påverka tillämpningen av policy om icke-standardinställningar konfigureras. Se följande vanliga frågor för mer information.
- 
+
 Information om hur du felsöker problem med BitLocker finns i [Felsöka BitLocker-principer i Microsoft Intune](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
  
  
