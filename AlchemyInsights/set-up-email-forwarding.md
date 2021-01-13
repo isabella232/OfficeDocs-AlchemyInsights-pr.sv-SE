@@ -13,18 +13,20 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: f6a67ab8d68913a62886801af035fd631713f690
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
+ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801094"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49847618"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Kontrol lera inställningarna för e-postvidarekoppling för en post låda
 
-Det är enkelt att kontrol lera inställningarna för vidarebefordran av e-post i en Microsoft 365-postlåda. Följ bara de här stegen.
+För det första måste e-postvidarebefordran vara aktive rad på klient organisations nivå. Om du har konfigurerat e-postvidarebefordran på en post låda men den inte fungerar, kan du läsa [kontrol lera automatisk extern e-postvidarebefordran i Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
+
+Det är enkelt att kontrol lera inställningarna för e-postvidarebefordran i en post låda! Följ bara de här stegen.
   
-> Om det är en användar post låda, gå till **användare** \> **aktiva användare** och välj den användare vars post låda du vill vidarebefordra. Välj **Hantera e-postvidarebefordran**på fliken **e-post** .
+> Om det är en användar post låda, gå till **användare** \> **aktiva användare** och välj den användare vars post låda du vill vidarebefordra. Välj **Hantera e-postvidarebefordran** på fliken **e-post** .
 
 > Om det är en delad post låda går du till **grupper** \> **delade post lådor** och väljer den delade post låda som du vidarebefordrar. Välj **Redigera** för vidarebefordran av e-post.
 
