@@ -12,15 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 955797530f53d22c7c225ce0a32d686a00215219
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53ddccaf9f688ecdeeab8ba21a0700733a4b61b4
+ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748262"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "49911785"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a>Ändra domän för Microsoft 365-gruppen
+# <a name="change-the-domain-for-a-microsoft-365-group"></a>Ändra domänen för en Microsoft 365-grupp
 
 Om du vill ändra domänen för en Microsoft 365-grupp under skapandet följer du stegen i [Välj den domän som du vill använda när du skapar Microsoft 365 Groups](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
 
-När Microsoft 365-gruppen redan har skapats finns det för närvarande inga sätt att ändra domänen. Det enda sättet är att skapa en ny Microsoft 365-grupp och ta bort den gamla om det behövs (ytterligare e-postadresser kan läggas till via [administrations centret för Exchange](https://outlook.office365.com/ecp).
+Om du vill ändra domänen för en befintlig Microsoft 365-grupp, som administratör, kan du gå till administrations centret för Microsoft 365 https://admin.microsoft.com och sedan göra följande:
+
+- Välj **grupper** på den vänstra menyn
+- Sök efter den M365-grupp som du vill ändra och klicka sedan på **redigera** under **e-postadresser** på fliken **Allmänt** .
+- Nu kan du ändra domänen för dess primära e-postadress så att du även kan lägga till e-postalias.
+
+> [!IMPORTANT]
+> Med vanliga distributions grupper och e-postaktiverade säkerhets grupper kan du hantera mindre inställningar från administrations centret för M365, **grupper** . Om du vill hantera mer av deras uppgifter klickar du på fliken **Inställningar** i administrations centret för M365 och väljer **hantera fler inställningar i administrations Center för Exchange** .
