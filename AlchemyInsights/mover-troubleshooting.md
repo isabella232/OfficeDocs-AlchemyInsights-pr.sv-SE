@@ -1,5 +1,5 @@
 ---
-title: Driv åtgärds fel
+title: Felsökning av flyttning
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "8000"
-ms.openlocfilehash: fb338955e981d64806cf098595f847d2def690bf
-ms.sourcegitcommit: 41ddd8e65e9bfdacb6d8a96e0d42426998ffd2d0
+ms.openlocfilehash: f2d870154f49215fe64d4193d590ba24b4930c0e
+ms.sourcegitcommit: 55d8b56bb8ab0ed07985ef2b5c48ffeb3440b5fc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "50014965"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50040234"
 ---
-# <a name="mover-troubleshooting"></a><span data-ttu-id="59167-102">Driv åtgärds fel</span><span class="sxs-lookup"><span data-stu-id="59167-102">Mover Troubleshooting</span></span>
+# <a name="mover-troubleshooting"></a><span data-ttu-id="c73d3-102">Felsökning av flyttning</span><span class="sxs-lookup"><span data-stu-id="c73d3-102">Mover Troubleshooting</span></span>
 
-<span data-ttu-id="59167-103">Information om hur du felsöker flyttarna finns på följande:</span><span class="sxs-lookup"><span data-stu-id="59167-103">For information on troubleshooting Mover please visit the following:</span></span>
+<span data-ttu-id="c73d3-103">Mer information om felsökning av Mover finns i följande avsnitt:</span><span class="sxs-lookup"><span data-stu-id="c73d3-103">For information on troubleshooting Mover please visit the following:</span></span>
 
-- [<span data-ttu-id="59167-104">Felsöka efter migrering</span><span class="sxs-lookup"><span data-stu-id="59167-104">Troubleshooting post-migration</span></span>](https://docs.microsoft.com/sharepointmigration/mover-post-migration-troubleshooting)  
-- [<span data-ttu-id="59167-105">Status koder för flytt överföring</span><span class="sxs-lookup"><span data-stu-id="59167-105">Mover transfer status codes</span></span>](https://docs.microsoft.com/sharepointmigration/mover-transfer-status-codes)
-- [<span data-ttu-id="59167-106">Vanliga frågor om konto</span><span class="sxs-lookup"><span data-stu-id="59167-106">Account FAQ</span></span>](https://docs.microsoft.com/sharepointmigration/mover-account-faq)
+- [<span data-ttu-id="c73d3-104">Felsökning efter migrering</span><span class="sxs-lookup"><span data-stu-id="c73d3-104">Troubleshooting post-migration</span></span>](https://docs.microsoft.com/sharepointmigration/mover-post-migration-troubleshooting)  
+- [<span data-ttu-id="c73d3-105">Felsöka flyttmigreringsfel</span><span class="sxs-lookup"><span data-stu-id="c73d3-105">Troubleshooting Mover migration errors</span></span>](https://docs.microsoft.com/sharepointmigration/mover-error-faq)  
+- [<span data-ttu-id="c73d3-106">Statuskoder för flyttöverföring</span><span class="sxs-lookup"><span data-stu-id="c73d3-106">Mover transfer status codes</span></span>](https://docs.microsoft.com/sharepointmigration/mover-transfer-status-codes)
+- [<span data-ttu-id="c73d3-107">Vanliga frågor och svar om konto</span><span class="sxs-lookup"><span data-stu-id="c73d3-107">Account FAQ</span></span>](https://docs.microsoft.com/sharepointmigration/mover-account-faq)
