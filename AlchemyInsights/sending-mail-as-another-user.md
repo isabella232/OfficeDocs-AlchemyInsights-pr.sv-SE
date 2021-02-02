@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6439"
 - "3500009"
-ms.openlocfilehash: e2ce7065d857455b85fc2e4595d1f5c915ca85b2
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 8bc35426bd1b65ba40fb6dc124df2a5f8bfb6679
+ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "48194189"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50075843"
 ---
 # <a name="sending-mail-as-another-user"></a>Skicka e-post som en annan användare
 
-Innan *Användare1* kan skicka e-post som *user2*måste *Användare1* ges behörigheter för *user2*-postlådan. Information om hur du gör detta finns i ge Mailbox-behörigheter till en annan användare.
+Innan *Användare1* kan skicka e-post som *Användare2* måste *Användare1* ges behörighet *till Användare2s* postlåda. Mer information om hur du gör detta finns i (Ge behörigheter till en annan användare för postlådan)[ https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user ].
 
-När behörigheter har givits (det här tar ungefär 30 minuter att börja gälla)- *Användare1* kan skicka som *user2* genom att följa anvisningarna i Skapa eller svara på ett e-postmeddelande åt någon annan.
+När behörigheter har getts (det kan ta ca 30 minuter att gå vidare) – *Användare1* kan skicka som *användare2* genom att följa stegen som beskrivs i Skapa eller svara på ett e-postmeddelande åt en annan person.
