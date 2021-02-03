@@ -1,5 +1,5 @@
 ---
-title: Aktivera Office med hjälp av enhets licenser
+title: Aktivera Office med enhetsbaserad licensiering
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b82eeb6c716b180cf45dbae96dc4e508a977a517
+ms.sourcegitcommit: d3db72afc2f31ac9f1e78738937a51f40fb4b5fc
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697899"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50094055"
 ---
-# <a name="activating-office-using-device-based-licensing"></a><span data-ttu-id="c0815-102">Aktivera Office med hjälp av enhets licenser</span><span class="sxs-lookup"><span data-stu-id="c0815-102">Activating Office using device-based licensing</span></span>
+# <a name="activating-office-using-device-based-licensing"></a><span data-ttu-id="31f44-102">Aktivera Office med enhetsbaserad licensiering</span><span class="sxs-lookup"><span data-stu-id="31f44-102">Activating Office using device-based licensing</span></span>
+
+<span data-ttu-id="31f44-103">Enhetsbaserad licensiering för Microsoft 365-appar för företag är tillgänglig som licens endast för vissa kommersiella kunder och vissa utbildningskunder.</span><span class="sxs-lookup"><span data-stu-id="31f44-103">Device-based licensing for Microsoft 365 Apps for enterprise is available as a license only for some commercial customers and some education customers.</span></span> <span data-ttu-id="31f44-104">Mer detaljerad information finns i: [Enhetsbaserade licenser för Microsoft 365-appar för företag](https://docs.microsoft.com/deployoffice/device-based-licensing)</span><span class="sxs-lookup"><span data-stu-id="31f44-104">For detailed information, see: [Device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing)</span></span>
+
+<span data-ttu-id="31f44-105">Information om hur du aktiverar Microsoft 365-appar för företag med enhetsbaserade licenser finns i:</span><span class="sxs-lookup"><span data-stu-id="31f44-105">To activate Microsoft 365 Apps for enterprise using Device-based licensing, see:</span></span>
+
+- [<span data-ttu-id="31f44-106">Krav för användning av enhetsbaserade licenser för Microsoft 365-program för företag</span><span class="sxs-lookup"><span data-stu-id="31f44-106">Requirements for using device-based licensing for Microsoft 365 Apps for enterprise</span></span>](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [<span data-ttu-id="31f44-107">Steg för att konfigurera enhetsbaserad licensiering för Microsoft 365-program för företag</span><span class="sxs-lookup"><span data-stu-id="31f44-107">Steps to configure device-based licensing for Microsoft 365 Apps for enterprise</span></span>](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+
+<span data-ttu-id="31f44-108">Anvisningar om felsökning finns i [Felsöka enhetsbaserade licenser för Microsoft 365-appar för företag](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)</span><span class="sxs-lookup"><span data-stu-id="31f44-108">For troubleshooting guidance, see [Troubleshoot device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="c0815-103">Office [Device-baserad aktivering](https://aka.ms/officedba) för amerikanska utbildningar är nu föråldrad.</span><span class="sxs-lookup"><span data-stu-id="c0815-103">Office [Device Based Activation](https://aka.ms/officedba) for U.S. education customers is now deprecated.</span></span> <span data-ttu-id="c0815-104">Vi uppmuntrar organisationer att planera för nya Microsoft 365-appar för utbildnings-och utbildnings kunder.</span><span class="sxs-lookup"><span data-stu-id="c0815-104">We encourage organizations to plan for the new Microsoft 365 Apps for Education (device) license for education customers.</span></span>
-
-<span data-ttu-id="c0815-105">Om du vill aktivera Office med hjälp av enhets licenser måste du ha Microsoft 365-tilläggsprogram för utbildning (enhet) som bara är tillgänglig för utbildnings kunder och är endast tillgänglig via registrering för utbildnings lösningar (EES).</span><span class="sxs-lookup"><span data-stu-id="c0815-105">To activate Office using device-based licensing, you need to have the Microsoft 365 Apps for Education (device) add-on license that is available only for education customers and is available only through Enrollment for Education Solutions (EES).</span></span> <span data-ttu-id="c0815-106">Se [kraven för att använda enhets licenser för Microsoft 365-appar för företag](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span><span class="sxs-lookup"><span data-stu-id="c0815-106">Please see [Requirements for using device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span></span>
-
-
-<span data-ttu-id="c0815-107">Detaljerad information om konfiguration finns i:</span><span class="sxs-lookup"><span data-stu-id="c0815-107">For detailed information on setup, see:</span></span>
-
-- [<span data-ttu-id="c0815-108">Steg för att konfigurera enhets licenser för Microsoft 365-appar för företag</span><span class="sxs-lookup"><span data-stu-id="c0815-108">Steps to configure device-based licensing for Microsoft 365 Apps for enterprise</span></span>](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [<span data-ttu-id="c0815-109">Hantera licenser för enheter</span><span class="sxs-lookup"><span data-stu-id="c0815-109">Manage licenses for devices</span></span>](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
-
-<span data-ttu-id="c0815-110">Information om fel sökning finns i [Felsöka enhets licensiering för Microsoft 365-appar för företag](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span><span class="sxs-lookup"><span data-stu-id="c0815-110">For troubleshooting guidance, see [Troubleshoot device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span></span>
+> <span data-ttu-id="31f44-109">Om Microsoft 365-appar redan är installerade och aktiverade med användarbaserade prenumerationslicenser eller aktivering på delad dator måste du återställa licenstillståndet på enheten innan det går över till enhetsbaserad licensiering.</span><span class="sxs-lookup"><span data-stu-id="31f44-109">If Microsoft 365 Apps are already installed and activated with user-based subscription licensing or shared computer activation, you will need to reset the license state on the device before it will transition over to device-based licensing.</span></span> <span data-ttu-id="31f44-110">Information om hur du återställer aktiveringstillståndet [finns i Återställ Microsoft 365-appar för företagsaktiveringstillstånd](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)</span><span class="sxs-lookup"><span data-stu-id="31f44-110">To reset the activation state, see [Reset Microsoft 365 Apps for enterprise activation state](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)</span></span>
