@@ -2,31 +2,29 @@
 title: Betala med faktura
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "492"
 - "1500024"
-ms.assetid: 3e687777-13bf-467e-9746-a1f35571178f
-ms.openlocfilehash: dc231f15df85d2dddfce4c5a63193129ab61f434
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0bafb21aae965122f5ac6d214f2ac6d63858003c
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751801"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152360"
 ---
 # <a name="pay-by-invoice"></a>Betala med faktura
 
-Om ditt Microsoft 365-abonnemang kostar mer än en viss mängd pengar (det här beloppet varierar med tjänstens plats) kan du betala genom att använda en check eller EFT. Det kan krävas en kreditkontroll för större fakturabetalningar. Om en kreditkontroll krävs informeras du om det när du köper din prenumeration. Och om du godkänner att bli kontaktad får du ett e-postmeddelande som innehåller mer information om hur du ansöker om kreditgodkännande. Kreditkontroller utförs vanligtvis inom två arbetsdagar.
-  
-Om du betalar med faktura för din prenumeration får du ett e-postmeddelande där det står att du nu kan visa faktureringsutdraget. E-postmeddelandet innehåller inte en kopia av ditt faktureringsutdrag. Men du kan välja att [få en kopia av faktureringsutdraget via e-post](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email). På faktureringsutdraget finns information om olika betalningsalternativ. Om du anger ett inköpsordernummer när du köper en prenumeration visas numret på faktureringsutdraget. Information om hur du visar faktureringsutdrag finns i [Visa din faktura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
-  
-Om du vill veta mer om hur du betalar med faktura kan [du läsa betala för abonnemanget](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
-  
-Om du vill ändra betalnings sätt kan du läsa [ändra betalnings metod](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Om dina prenumerationskostnader för Microsoft 365 är över ett visst belopp (beloppet varierar beroende på tjänstplats) kan du välja att betala med faktura via check eller EFT. Det kan krävas en kreditkontroll för större fakturabetalningar. Om det krävs en kreditkontroll får du ett meddelande när du köper prenumerationen. Om du godkänner att bli kontaktad får du ett e-postmeddelande med mer information om hur du ansöka om kreditgodkännande. Kreditkontroller utförs vanligtvis inom två arbetsdagar.
+
+Om du betalar med faktura för prenumerationen får du ett e-postmeddelande när faktureringsutdraget är klart att visa. Det här e-postmeddelandet innehåller inte en kopia av ditt faktureringsutdrag. Du kan däremot välja att få [en kopia av faktureringsutdraget via e-post.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice.md#receive-a-copy-of-your-billing-statement-in-email) Faktureringsutdraget innehåller information om alternativen för att göra en betalning och vart du skickar den. Om du anger ett inköpsordernummer när du köper en prenumeration visas numret på faktureringsutdraget. Information om hur du visar faktureringsutdrag finns i [Visa din faktura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
+
+Mer information om hur du betalar med faktura [finns i Så här betalar du för din prenumeration.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+
+Information om hur du uppdaterar betalningsmetoder finns i [Hantera betalningsmetoder.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
