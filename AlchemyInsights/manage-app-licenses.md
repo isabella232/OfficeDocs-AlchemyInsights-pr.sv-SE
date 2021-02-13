@@ -1,9 +1,8 @@
 ---
-title: Hantera program licenser
+title: Hantera programlicenser
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,29 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: a78f83fe3f2c63143d62d733a53f7dcbaed78a56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7d67d47d2fb427537501930401d7a33978293718
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778169"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232421"
 ---
-# <a name="manage-app-licenses"></a>Hantera program licenser
+# <a name="manage-app-licenses"></a>Hantera programlicenser
 
-## <a name="to-change-license-quantity"></a>Så här ändrar du antalet licenser
+## <a name="to-change-license-quantity"></a>Så här ändrar du antal licenser
 
-1. Gå till sidan **fakturering**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** och välj fliken **appar** .
+1. Gå till sidan  >  **[Fakturering för dina](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter.
+2. Leta **rätt** på appen som du **vill** hantera i avsnittet Program på fliken Produkter. Välj **Fler åtgärder** (tre punkter) och välj sedan Köp **licenser.**
+3. Om du vill minska antalet licenser väljer du  ta bort licenser längst upp i fönstret Köp **licenser.**
+4. Om du vill köpa eller ta  bort **licenser anger** du det totala antalet licenser som du vill använda för prenumerationen under Nytt antal i rutan Totalt antal licenser. Om du till exempel har 100 licenser och vill lägga till ytterligare 5 skriver du 105. Om du vill ta bort fem av dem skriver du 95.
+5. Välj **Spara**.
 
-2. Leta reda på och välj det program du vill hantera.  
+## <a name="to-assign-app-licenses"></a>Så här tilldelar du applicenser
 
-3. Välj **Lägg till/ta bort licenser**.
-
-4. Ange det nya antalet licenser som behövs. Om du för närvarande har 5 licenser och bara behöver 4, Skriv 4 i rutan **Totalt antal licenser** . Om du för närvarande har 5 licenser och behöver 10 totalt antal licenser skriver du 10 i rutan **Totalt antal licenser** .
-
-## <a name="to-assign-app-licenses"></a>Tilldela program licenser
-
-1. Gå till sidan **fakturering**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** och välj fliken **appar** .
-
-2. Leta reda på och välj det program du vill hantera.  
-
-3. Under **inställningar & åtgärder**väljer du länken som ska **hanteras i Publisher-portalen**.
+1. Gå till sidan  >  **[Fakturering för dina](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter.
+2. På fliken **Produkter,** i avsnittet **Program,** hittar och väljer du den app du vill hantera.
+3. Under **Inställningar & väljer** du länken Hantera i **Publishers portal.**
