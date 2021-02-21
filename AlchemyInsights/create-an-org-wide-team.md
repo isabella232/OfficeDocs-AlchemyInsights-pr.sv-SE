@@ -23,7 +23,7 @@ ms.locfileid: "50291774"
 
 Du kan skapa ett team som inkluderar alla medlemmar i företaget eller organisationen även kallat [organisationsomfattande team](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team).
 
-- Har din organisation **färre än 10 000 användare**? För närvarande är organisationsomfattande teams begränsade till organisationer med 10 000 eller färre användare. Vi undersöker om vi kan öka den gränsen i framtiden.
+- Har din organisation **färre än 10 000 användare**? För närvarande är organisationsomfattande team begränsade till organisationer med 10 000 eller färre användare. Vi undersöker om vi kan öka den gränsen i framtiden.
 
 - Organisationsomfattande team **är för närvarande inte tillgängligt** för **Teams för utbildning**.
 
