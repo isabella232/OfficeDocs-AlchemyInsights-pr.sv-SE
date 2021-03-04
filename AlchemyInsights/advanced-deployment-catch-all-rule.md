@@ -1,9 +1,10 @@
 ---
-title: Avancerad distribution catch all regel
+title: Regeln Fånga upp alla i avancerad distribution
 ms.author: pebaum
 author: pebaum
+manager: mnirkhe
 ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +13,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 2b0ed94f65ef0aa1b5fac1f23b7f62a1425b887e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a6647dec85e495b54835e7d6c26807da4e5b621
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696710"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448661"
 ---
-# <a name="deploy-microsoft-365-apps"></a>Distribuera Microsoft 365-appar
+# <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a>Installera Office med distributionsrådgivaren för Microsoft 365 Apps
 
-Om du vill distribuera Microsoft 365-program till flera slutanvändare via distributions verktyget för Office kan du 365 använda Konfigurations hanteraren för Microsoft-slutpunkter som en del av en disk avbildning i operativ systemet eller på ett delat dator scenario med Windows Server med fjärr skrivbords tjänster eller terminaltjänster **för företags distributions rådgivare**.
+[Distributionsrådgivaren för Microsoft 365 Apps](https://admin.microsoft.com/adminportal/home) hjälper dig att få användarnas enheter att köra den senaste versionen av Office-produkter som Word, Excel, PowerPoint och OneNote.
   
-Kom igång genom att kontrol lera att du är inloggad som administratör eller global administratör och klicka här: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .
+Du får vägledning om de olika distributionsmetoderna, som innehåller enkla alternativ för självinstallation, samt företagsdistributioner med hjälp av hanteringsverktyg. Instruktionerna hjälper dig att bedöma miljön, ta reda på dina specifika distributionskrav och implementera de supportverktyg som behövs för att säkerställa en lyckad installation.
   

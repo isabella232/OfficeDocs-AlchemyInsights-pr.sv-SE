@@ -1,10 +1,10 @@
 ---
-title: Distribuera Office till din användar guide
+title: Distribuera Office till användarguiden
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
 ms.date: 12/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004198"
 - "7379"
-ms.openlocfilehash: 4eb1deb2326afc8cb7b54a7ee89cd5f8f7a540c9
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+- "2000022"
+- "871"
+ms.openlocfilehash: e65735633619315081505c10c55e844101bd1538
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679284"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448697"
 ---
-# <a name="deploy-office-to-your-users-guide"></a>Distribuera Office till din användar guide
+# <a name="deploy-office-to-your-users-guide"></a>Distribuera Office till användarguiden
 
-Distribuera Office-appar från molnet så att du kan anpassa installationen med hjälp av distributions verktyget för Office.
+Distribuera Office-program från molnet med möjligheten att anpassa installationen med distributionsverktyget för Office.
 
-Med guiden "distribuera Office till dina användare" kan du skapa en anpassad Office-konfiguration med avancerade inställningar eller använda en fördefinierad Rekommenderad konfiguration. Oavsett om användarna utför en själv installation eller om du distribuerar till dina användare individuellt eller i bulk ger den här avancerade guiden stegvisa instruktioner för att ge användarna en Office-installation som är skräddarsydd för din organisation.
+Guiden [Distribuera Office till användarna hjälper](https://go.microsoft.com/fwlink/?linkid=2146451) dig att skapa en anpassad Office-konfiguration med avancerade inställningar, eller så kan du använda en inbyggd rekommenderad konfiguration. I den här avancerade guiden får du stegvisa instruktioner för att ge användarna en Office-installation som är skräddarsydd för din organisation, oavsett om användarna utför en självinstallation eller om du distribuerar till användarna enskilt eller i grupp.
