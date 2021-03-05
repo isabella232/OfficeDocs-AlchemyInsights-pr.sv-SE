@@ -1,5 +1,5 @@
 ---
-title: Pausa eller pausa licenser
+title: Stänga av eller pausa licenser
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,21 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-ms.openlocfilehash: 355d83a5d99c079e5487a663f43b1155fa6f40b8
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+- commerce
+ms.openlocfilehash: b1cd19b7a3db161fcdb0d64972e6fd06b259b61b
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488935"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50470024"
 ---
-# <a name="suspend-or-pause-licenses"></a>Pausa eller pausa licenser
+# <a name="suspend-or-pause-licenses"></a>Stänga av eller pausa licenser
 
-Om du tillfälligt vill stoppa eller pausa din licens användning kan du ta bort licenser från Microsoft 365 Admin Center och sedan lägga till dem igen senare.
+**TITTA på en video** som visar hur du gör detta: [Ta bort befintliga licenser](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-1. Innan du tar bort licenser från din prenumeration måste du först [Koppla bort licenser från användare](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
-2. Gå sedan till sidan för **fakturering**  >  [av din produkt](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-3. På fliken **produkter** väljer du den prenumeration som du vill uppdatera.
-4. På sidan prenumerations information väljer du **ta bort licenser**.
-5. Ange det totala antalet licenser som du vill använda för abonnemanget i rutan **totalt** antal licenser i fönstret **ta bort licenser** och välj sedan **Spara**. Om du till exempel har 100 licenser och vill skjuta upp eller pausa 25 kan du ange 75 som totalt antal licenser för din prenumeration.
+Om du tillfälligt vill avbryta eller pausa din licensanvändning kan du ta bort licenser från administrationscentret för Microsoft 365 och sedan lägga till dem igen vid ett senare tillfälle.
 
-Mer information finns i [Hantera prenumerationslicenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+1. Innan du tar bort licenser från prenumerationen måste du [först ta bort licenser från användare.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)
+2. Gå sedan till sidan  >  [Fakturera dina](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
+3. Välj **den** prenumeration du vill uppdatera på fliken Produkter.
+4. Välj Ta bort licenser på sidan **prenumerationsinformation.**
+5. I fönstret **Ta bort** licenser, i **rutan** Totalt antal licenser, anger du det totala antalet licenser som du vill använda för prenumerationen och väljer sedan **Spara.** Om du till exempel har 100 licenser och vill stänga av eller pausa 25 anger du 75 som det totala antalet licenser för prenumerationen.
+
+Mer information finns i Köpa [eller ta bort licenser.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

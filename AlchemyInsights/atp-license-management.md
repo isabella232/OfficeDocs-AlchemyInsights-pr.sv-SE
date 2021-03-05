@@ -1,5 +1,5 @@
 ---
-title: Hantera licens hantering för avancerat skydd
+title: Licenshantering för Microsoft Defender för Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,20 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-ms.openlocfilehash: a543deaaa0fcb229a260468d9674e5252fd07ec1
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+- commerce
+ms.openlocfilehash: 4dd438b964bfaf7f04c8b6fd87fe3ea3dafcd7d0
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287120"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469035"
 ---
-# <a name="advanced-threat-protection-license-management"></a>Hantera licens hantering för avancerat skydd
+# <a name="microsoft-defender-for-office-365-license-management"></a>Licenshantering för Microsoft Defender för Office 365
 
-Office 365 Advance Threat Protection (ATP) licens hantering kan slutföras i  **administrations centret för Microsoft 365**.
+Licenshantering för Microsoft Defender för Office 365 kan slutföras i administrationscentret för **Microsoft 365.**
 
-- Så här köper du skydd mot Office 365 Advance:
-    1. Gå till **fakturerings**  >  [Köp tjänster](https://go.microsoft.com/fwlink/p/?linkid=868433).
-    2. Välj **tillägg**längst ned på sidan.
-    3. På sidan **Köp tjänster** väljer du det avancerade skydds abonnemang som du vill köpa, anger antalet användare som behöver en licens och väljer sedan ta **bort nu**. Mer information finns i [köpa ett tillägg](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
-- Om du vill tilldela Office 365-skydd mot säkerhets licenser går du till **fakturerings**  >  **licenser**. Mer information finns i [tilldela licenser till användare](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-- Om du vill lägga till eller ta bort licenser från skydd mot Office 365 **skyddar du**  >  **dina produkter**. Välj den prenumeration du vill uppdatera och välj sedan **köp licenser** eller ***ta bort licenser**. Mer information finns i [köpa eller ta bort prenumerations licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Så här köper du Microsoft Defender för Office 365:
+    1. Gå till  >  [Faktureringsköpstjänster.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+    2. Välj Tillägg längst ned **på sidan.**
+    3. Välj **det** Microsoft Defender för Office 365-abonnemang som du vill köpa på sidan Köptjänster, ange antalet användare som behöver en licens och välj gå till **Checka ut nu.** Mer information finns i [Köpa ett tillägg.](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)
+- Gå till Faktureringslicenser för att tilldela Microsoft Defender för Office 365-licenser.  >   Mer information finns i Tilldela [licenser till användare.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- Gå till Fakturering för dina produkter om du vill lägga till eller ta bort licenser **från** Microsoft Defender för Office 365.  >   Välj den prenumeration du vill uppdatera och välj sedan Köp licenser **eller** **Ta bort licenser.** Mer information finns i Köpa [eller ta bort prenumerationslicenser.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
