@@ -1,32 +1,34 @@
 ---
 title: Project-licenshantering
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "5105"
-ms.openlocfilehash: db451e46b8b908c4497d459d963905f597cf57f2
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+- commerce
+ms.openlocfilehash: 161587eef62804fbba258a443e745b2176b576f8
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512428"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469046"
 ---
 # <a name="project-license-management"></a>Project-licenshantering
 
 Project-licenshanteringen kan slutföras i **administrationscentret för Microsoft 365**.
 
-- [Jämför Project-alternativ](https://products.office.com/project/compare-microsoft-project-management-software?tab=1&OCID=AID2000748_SEM_5j2j5X4B&MarinID=5j2j5X4B%7C78821275986631%7C%2Bproject%20%2Bo365%7Cbb%7Cc%7C%7C1261139959949905%7Ckwd-78821311481635:loc-190&lnkd=Bing_O365SMB_App&msclkid=185eccc165db1d3da290924720afcaa4&ef_id=XoY8vgAAAUTu0Bj8:20200402200513:s) om du vill veta mer om skillnaderna mellan **Project Abonnemang 1, 3 och 5**.
-- Om du vill **köpa** Project går du till **Fakturering > [Köp tjänster](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Använd sökrutan för att söka efter ”Project”, och välj abonnemang och antal användare. Mer information finns i [Köpa prenumeration](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide).
-- Om du vill **byta abonnemang** läser du [Byta Microsoft 365 för företag-abonnemang manuellt](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
-- Om du vill **tilldela** Project-licenser går du till **Fakturering > [Licenser](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Mer information finns i [Tilldela licenser](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- Om du vill **lägga till/ta bort** licenser för Project går du till **Fakturering > [Köp tjänster](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Mer information finns i [Lägga till/ta bort licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Om du vill **avbryta** Project-licenser går du till **Fakturering > [Produkter och tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054),** väljer **Inställningar och åtgärder** och klickar på **Avbryt prenumeration**. Mer information finns i [Avbryta prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- [Jämför Project-alternativ](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software) om du vill veta mer om skillnaderna mellan **Project Abonnemang 1, 3 och 5**.
+- Om du vill **köpa** Project går du till **Fakturering > [Köp tjänster](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Använd sökrutan för att söka efter ”Project”, och välj abonnemang och antal användare. Mer information finns i [Köp en annan prenumeration](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- Om du vill **ändra abonnemang** går du till [Uppgradera till ett annat abonnemang](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Om du vill **tilldela** Project-licenser går du till **Fakturering > [Licenser](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Mer information finns i [Tilldela licenser till användare](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Om du vill **Köpa eller ta bort** Project-licenser går du till **Fakturering > [Dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Mer information finns i [Köp eller ta bort licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#add-or-remove-licenses-for-your-business-subscription).
+- Om du vill **avbryta** en Project-prenumeration går du till **Fakturering > [Dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)**, väljer prenumerationen och går sedan till avsnittet **Prenumerationer och betalningsinställningar** och markerar **Avbryt prenumeration**. Mer information finns i [Avbryta prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
-Mer information finns i [Hantera prenumerationslicenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Mer information finns i [Köp eller ta bort licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

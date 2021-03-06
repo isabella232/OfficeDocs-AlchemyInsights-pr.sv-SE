@@ -1,22 +1,24 @@
 ---
 title: Tilldela Power BI till användare
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002564"
 - "4964"
-ms.openlocfilehash: 08bd1e338850cfa5bbfa763cd9d586620737833d
-ms.sourcegitcommit: 090a2ae17f18daa00da16e384d843370a0f6985d
+- commerce
+ms.openlocfilehash: 9f95fff929f5637bccfa3f9d6a79281d2cb09003
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43807012"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469572"
 ---
 # <a name="assign-power-bi-to-users"></a>Tilldela Power BI till användare
 
@@ -29,4 +31,4 @@ Power BI kan tilldelas till användare i **administrationscenter för Microsoft 
 5. Klicka på **Aktivera eller inaktivera appar och tjänster** för att tilldela eller ta bort.
 6. Klicka på **Tilldela** och **Stäng**.
 
-Information om hur du köper fler eller tar bort licenser finns i [Lägga till/ta bort licenser i en prenumeration](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Information om hur du köper fler eller tar bort licenser finns i [Köp eller ta bort licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
