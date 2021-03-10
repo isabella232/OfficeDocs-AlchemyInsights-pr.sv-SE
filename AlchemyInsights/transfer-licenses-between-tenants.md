@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500021"
 - "4689"
-- commerce
-ms.openlocfilehash: d2372ac81c1da25d8f024a91bb7d0e0cefb480b6
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: b664d65f5b23d72c036a79ab805cadcb10e3c511
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50468960"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601616"
 ---
 # <a name="transfer-licenses-between-tenants"></a>Överföra licenser mellan klientorganisationer
 
@@ -31,4 +30,4 @@ Det går **inte** att överföra licenser mellan två organisationer (klientorga
     - [Migrera postlådor](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
     - [Migrera SharePoint-data](https://aka.ms/modernSpoAdminCenter/CloudContentMigrations)
 
-Mer information finns i Köpa [eller ta bort licenser.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+Mer information finns i [Köp eller ta bort licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

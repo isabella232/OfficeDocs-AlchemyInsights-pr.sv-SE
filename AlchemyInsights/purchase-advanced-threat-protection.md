@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-- commerce
-ms.openlocfilehash: 1f89de4fdd42f44ca75786262f19f12f65b7f594
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: dca5f0adec60af8583f286630613a4c5a94cddb4
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469824"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602130"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Köp Microsoft Defender för Office 365
 
@@ -33,4 +32,4 @@ Microsoft Defender för Office 365 ingår i vissa prenumerationer, t.ex. Microso
 
 Information om hur du tilldelar licenser till användare [finns i Tilldela licenser till användare.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)
 
-Om du vill köpa fler licenser eller ta bort licenser, [se Köp eller ta bort licenser.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)
+Information om hur du köper fler eller tar bort licenser finns i [Köp eller ta bort licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).

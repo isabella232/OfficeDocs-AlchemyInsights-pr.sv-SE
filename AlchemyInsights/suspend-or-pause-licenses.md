@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-- commerce
-ms.openlocfilehash: b1cd19b7a3db161fcdb0d64972e6fd06b259b61b
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 03cee51b8f4c86e36004a91d25c8ad7798383ef5
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50470024"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601004"
 ---
 # <a name="suspend-or-pause-licenses"></a>Stänga av eller pausa licenser
 
@@ -27,9 +26,9 @@ ms.locfileid: "50470024"
 Om du tillfälligt vill avbryta eller pausa din licensanvändning kan du ta bort licenser från administrationscentret för Microsoft 365 och sedan lägga till dem igen vid ett senare tillfälle.
 
 1. Innan du tar bort licenser från prenumerationen måste du [först ta bort licenser från användare.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)
-2. Gå sedan till sidan  >  [Fakturera dina](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
+2. Gå sedan till sidan  >  [Fakturering för dina](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
 3. Välj **den** prenumeration du vill uppdatera på fliken Produkter.
 4. Välj Ta bort licenser på sidan **prenumerationsinformation.**
-5. I fönstret **Ta bort** licenser, i **rutan** Totalt antal licenser, anger du det totala antalet licenser som du vill använda för prenumerationen och väljer sedan **Spara.** Om du till exempel har 100 licenser och vill stänga av eller pausa 25 anger du 75 som det totala antalet licenser för prenumerationen.
+5. I fönstret **Ta bort** licenser, i **rutan** Totalt antal licenser, anger du det totala antalet licenser som du vill använda för prenumerationen och väljer sedan **Spara.** Om du till exempel har 100 licenser och vill avbryta eller pausa 25 anger du 75 som det totala antalet licenser för prenumerationen.
 
-Mer information finns i Köpa [eller ta bort licenser.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+Mer information finns i [Köp eller ta bort licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
