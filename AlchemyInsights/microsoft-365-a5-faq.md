@@ -12,19 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002872"
 - "5425"
-- commerce
-ms.openlocfilehash: ec5e0fa7c7656704995f2c04a5cf12076e1eb4fd
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 0920f231f56207c488a4ddee0b0cd852ccf8e8ec
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469942"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602940"
 ---
 # <a name="microsoft-365-a5-faq"></a>Microsoft 365 A5 FAQ
 
 - Du kan jämföra Microsoft 365 Education-abonnemang A1, A3, A5 [för elever](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) och [för lärare, fakulteter och personal](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr2).
 - Om du vill **köpa** A5 går du till **Fakturering > [Köp tjänster](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Använd sökrutan för att söka efter "A3", välj sedan abonnemanget och antal användare. [Köp en annan prenumeration](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
-- För att **ändra abonnemang**, gå till[Uppgradera till ett annat abonnemang](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- För att **ändra abonnemang**, gå till [Uppgradera till ett annat abonnemang](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 - För att **tilldela** A5-licenser till användare går du till **Fakturering > [Licenser](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Mer information finns i [Tilldela licenser till användare](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - För att **köpa eller ta bort** A5-licenser går du till **Fakturering > [Dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Mer information finns i [Köpa eller ta bort licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 - För att **avbryta** en A5-prenumeration går du till **Fakturering >[Dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)**, väljer prenumerationen och går sedan till avsnittet **Prenumerationer och betalningsinställningar** och markerar **Avbryt prenumeration**. Mer information finns i [Avbryta prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
