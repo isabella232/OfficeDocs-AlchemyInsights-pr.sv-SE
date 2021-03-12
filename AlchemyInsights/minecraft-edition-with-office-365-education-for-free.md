@@ -1,5 +1,5 @@
 ---
-title: Minecraft Edition med Office 365 Education gratis
+title: Minecraft Edition med Office 365 Education kostnadsfritt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,27 +13,27 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: baa2401888ab3dac8f32fd2d209c3cf3cf5ce426
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 385e50304405268da638a7422c215a95f3f11e3b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674128"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709448"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition med Office 365 Education gratis
+# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition med Office 365 Education kostnadsfritt
 
-[Minecraft Edition med Office 365 Education gratis](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[Minecraft Edition med Office 365 Education kostnadsfritt](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
-- **Minecraft: utbildnings versionen** kräver Windows 10
+- **Minecraft: Education Edition** kräver Windows 10
 
-- Försök eller prenumerationer av **Minecraft: utbildnings Edition** erbjuds till utbildnings klient organisationer som hanteras av Azure Active Directory (Azure AD)
+- Utvärderingsversioner eller prenumerationer **av Minecraft: Education Edition** erbjuds till utbildningsklienter som hanteras av Azure Active Directory (Azure AD)
 
-  - Om din skola inte har en Azure AD-klient [kan IT-administratören ställa in ett sådant](https://docs.microsoft.com/education/windows/school-get-minecraft) som en del av processen för att skaffa **Minecraft: Education Edition**.
+  - Om din skola inte har en Azure AD-klientorganisation kan [IT-administratören](https://docs.microsoft.com/education/windows/school-get-minecraft) konfigurera en som en del av processen med att skaffa **Minecraft: Education Edition.**
 
-  - Office 365 Education, som omfattar online-versioner av Microsoft 365-appar plus 1 TB onlinelagring är gratis för lärare och elever. [Registrera dig för skolan för Office 365 Education](https://products.office.com/academic/office-365-education-plan).
+  - Office 365 Education, som innehåller onlineversioner av Microsoft 365-appar samt 1 TB onlinelagring är kostnadsfritt för lärare och elever. [Registrera din skola för Office 365 Education.](https://www.microsoft.com/education/products/office)
 
-  - Om skolan har ett Office 365 Education-abonnemang inkluderar det en gratis Azure AD-prenumeration. [Registrera din gratis Azure AD-prenumeration](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
+  - Om din skola har en Office 365 Education-prenumeration ingår en kostnadsfri Azure AD-prenumeration. [Registrera din kostnadsfria Azure AD-prenumeration.](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx)
 
-[Lär dig hur lärare kan skaffa och distribuera Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
+[Lär dig hur lärare kan skaffa och distribuera Minecraft: Education Edition.](https://docs.microsoft.com/education/windows/teacher-get-minecraft)
   
-[Lär dig hur IT-administratörer kan skaffa och distribuera Minecraft: utbildnings Edition](https://docs.microsoft.com/education/windows/school-get-minecraft)och hur du hanterar behörigheter för Minecraft.
+[Lär dig hur IT-administratörer kan skaffa och distribuera Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft)och hur de hanterar behörigheter för Minecraft.

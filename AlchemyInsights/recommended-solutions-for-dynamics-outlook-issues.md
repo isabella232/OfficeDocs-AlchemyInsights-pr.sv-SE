@@ -1,5 +1,5 @@
 ---
-title: Rekommenderade lösningar för lagrings problem i Dynamics 365
+title: Rekommenderade lösningar för lagringsproblem i Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -14,31 +14,31 @@ ms.custom:
 - "1451"
 - "1452"
 - "6200008"
-ms.openlocfilehash: 8f8d318c6c1f07342241bf71aab8fd8148e3a9d4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 5a1c95907a7e9a3287fa9be467d4eb45602c7abe
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086138"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708836"
 ---
-# <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>Rekommenderade lösningar för lagrings problem i Dynamics 365
+# <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>Rekommenderade lösningar för lagringsproblem i Dynamics 365
 
-* [App: hittade inga Sök resultat i ämnes sökning](https://support.microsoft.com/help/4489111)
+* [App: Inga sökresultat returneras om uppslag](https://support.microsoft.com/help/4489111)
 
-* [App: felet visas när du öppnar appen för Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007021)
+* [App: Ett fel visas när du öppnar Programmet för Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007021)
 
-* [App: e-post eller avtalad tid visar som "pågående spårning"](https://go.microsoft.com/fwlink/p/?linkid=2007022)
+* [App: E-post eller avtalad tid visas som "Spåra väntande"](https://go.microsoft.com/fwlink/p/?linkid=2007022)
 
-* [Appen: Tom sida visas när programmet öppnas för Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007128)
+* [App: En tom sida visas när du öppnar Programmet för Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007128)
 
-* [Fullständig klient: det går inte att ansluta D365 för Outlook version 8. x till en version av D365-förekomst](https://go.microsoft.com/fwlink/p/?linkid=2007023)
+* [Fullständig klient: Det går inte att ansluta D365 för Outlook version 8.x till en version 9.x D365-instans](https://go.microsoft.com/fwlink/p/?linkid=2007023)
 
-* [Fullständig klient: "väntar på att en sida ska hämtas från en CRM-Server..." meddelande visas](https://go.microsoft.com/fwlink/p/?linkid=2007129)
+* [Fullständig klient: "Väntar på att en sida hämtas från en CRM-server..." meddelandet visas](https://go.microsoft.com/fwlink/p/?linkid=2007129)
 
-* [Fullständig klient: diagnostisera problem med D365 för Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007024)
+* [Fullständig klient: Diagnostisera problem med D365 för Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007024)
 
-* [App: Felsöka D365-appen för Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007025)
+* [App: Felsökning av D365-appen för Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007025)
 
-* [App: Distribuera](https://go.microsoft.com/fwlink/p/?linkid=85)
+* [App: Så här distribuerar du](https://docs.microsoft.com/dynamics365/outlook-app/deploy-dynamics-365-app-for-outlook)
 
-* [App: användar guide](https://go.microsoft.com/fwlink/p/?linkid=857091)
+* [App: Användarhandbok](https://go.microsoft.com/fwlink/p/?linkid=857091)

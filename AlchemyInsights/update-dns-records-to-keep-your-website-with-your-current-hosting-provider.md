@@ -14,21 +14,21 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: 3d140de70a96864ff0042b3b505335163bf80a2e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 220495332098cf700afa429f36749e71668f2d5d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699393"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709304"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Uppdatera DNS-poster för att behålla din webbplats hos ditt nuvarande webbhotell
 
-Som en del av processen för att flytta din offentliga Microsoft 365-webbplats till en annan värd måste du troligt vis göra ändringar i dina domän poster.
+Som en del av flytten av din offentliga Microsoft 365-webbplats till ett annat webbhotell måste du troligtvis göra ändringar i domänposterna.
   
-1. Gå till **installations** domäner i administrations centret \> **Domains** och välj det domän namn som du vill ändra.
+1. Gå till Konfigurera domäner  i \> **administrationscentret** och välj domännamnet du vill ändra.
 
-2. Ange den information som ska justeras till din webbplats med den nya värd leverantören.
+2. Ange den information som är justerad mot din webbplats med ditt nya webbhotell.
 
-Mer information finns i [Uppdatera DNS-poster för att behålla din webbplats hos din nuvarande värd](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provide).
+Mer information finns i Uppdatera [DNS-poster för att behålla webbplatsen hos ditt nuvarande webbhotell.](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide)
   
-Om du vill veta mer om den offentliga webbplatsen kan du läsa de [offentliga SharePoint Online-webbplatserna](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).
+Mer information om att den offentliga webbplatsen inte upphör finns i [Offentliga SharePoint Online-webbplatser som ska upphöra.](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)

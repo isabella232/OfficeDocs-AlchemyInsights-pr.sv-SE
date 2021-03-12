@@ -1,5 +1,5 @@
 ---
-title: Problem med proapps-portalen
+title: Problem med MyApps-portalen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,54 +13,54 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: ce17fdbda093dff6706762b6753f9cac889c3098
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
-ms.translationtype: MT
+ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917218"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708584"
 ---
-# <a name="myapps-portal-issues"></a>Problem med proapps-portalen
+# <a name="myapps-portal-issues"></a>Problem med MyApps-portalen
 
-Information om hur du felsöker problem som uppstår när du loggar in på och använder portalen My Apps finns i [Felsöka problem med portalen mina program](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot).
+Information om hur du felsöker problem som uppstår när du loggar in på eller använder Portalen Mina program finns i Felsöka [problem med Portalen Mina program.](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
-**Jag ser inte de program som jag förväntar mig på panelen för program åtkomst**
+**Jag kan inte se de program jag förväntar mig på åtkomstpanelen för programmet**
 
-Information om hur du tar reda på varför de program du förväntar dig inte visas på panelen program åtkomst finns i:
+Information om varför de program du förväntar dig inte visas på åtkomstpanelen finns i:
 
-- [Jag vet inte varför ett program som jag har tilldelat inte visas på åtkomst panelen](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-not-appearing/)
+- [Jag vet inte varför ett program som jag har tilldelat inte visas på åtkomstpanelen](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
-- [Jag vet inte varför ett program visas på åtkomst panelen](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-appears/)
+- [Jag vet inte varför ett program visas på åtkomstpanelen](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Jag har problem med att logga in på panelen för program åtkomst**
+**Jag har problem med att logga in på åtkomstpanelen för programmet**
 
-Information om hur du felsöker problem med att logga in på panelen för program åtkomst finns i:
+Information om hur du felsöker problem med inloggning på åtkomstpanelen finns i:
 
-[Jag kan inte logga in på åtkomst panelens webbplats](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
+[Jag kan inte logga in på webbplatsen för åtkomstpanelen](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Jag har problem med att använda webb läsar tillägget program åtkomst**
+**Jag har problem med webbläsartillägget för åtkomstpanel för program**
 
-Information om hur du felsöker problem med användning av webb läsar tillägget program åtkomst panelen finns i:
+Information om hur du felsöker problem med användningen av webbläsartillägget för åtkomstpanel för program finns i:
 
-[Jag såg ett fel när du installerade webb läsar tillägget för program åtkomst](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
+[Jag såg ett fel när jag installerar webbläsartillägget för åtkomstpanel för program](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
 
-**Jag har problem med en funktion på panelen för program åtkomst**
+**Jag har problem med en funktion på åtkomstpanelen för programmet**
 
-Information om hur du felsöker problem med en viss funktion på program åtkomst panelen finns i:
+Information om hur du felsöker problem som gäller en viss funktion på åtkomstpanelen finns i:
 
-- [Jag vet inte hur jag använder självbetjänings program åtkomst](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
+- [Jag vet inte hur jag använder självbetjäning för programåtkomst](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
 
-- [Jag har stött på ett problem när jag använder självbetjänings programmet](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
+- [Jag stötte på ett problem när jag använde självbetjäning för programåtkomst](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
     
-**Om du har problem med att distribuera eller använda portalen My Apps**
+**Om du har problem med att distribuera eller använda Portalen Mina program**
 
-Information om hur du felsöker problem som uppstår när du distribuerar och använder modulen Mina-appar finns i:
+Information om hur du felsöker problem när du distribuerar eller använder MyApps-portalen finns i:
 
-- [Skapa samlingar på portalen mina program](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
+- [Skapa samlingar på portalen Mina program](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
     
-- [Konfigurera programmet Self-service-uppgift](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
+- [Konfigurera självbetjäning för apptilldelning](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
      
-- [Felsöka problem med slutanvändare i portalen mina program](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
+- [Felsöka problem med slutanvändare i Portalen Mina program](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
 
 

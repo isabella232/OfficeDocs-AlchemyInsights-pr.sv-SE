@@ -1,5 +1,5 @@
 ---
-title: Information om tvist eller behållning på plats
+title: Information om bevarande av juridiska skäl eller bevarande av juridiska skäl
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,24 +10,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 3c0681b8e031f1a060a5c400f9c10760f33749e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 08579c3cf887de649480480856ba42478d488a0a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755509"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709340"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>Om rätts tvister och in-Place-undantag
+# <a name="about-litigation-holds-and-in-place-holds"></a>Om kvart bevarande av juridiska skäl och intr 100-kvart
 
-- En [Exchange Online abonnemang 2-licens](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) krävs för att du ska kunna tillämpa en kvarhållning eller ett lokal samtal i en post låda. Om du har ett annat abonnemang tilldelar du ett separat [Exchange Online-Arkiv](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) -licens till kontot. 
+- Om du vill tillämpa bevarande av juridiska skäl eller hålla på plats för en postlåda krävs en licens för [Exchange Online abonnemang 2.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Om du har ett annat abonnemang tilldelar du kontot en separat licens för arkivering av [Exchange Online.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) 
     
-- Om **du vill aktivera en arbets tvist** för en enskild användare följer du anvisningarna [här](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). När den är aktive rad placeras allt innehåll i post lådan.
+- **Om du vill aktivera bevarande av** juridiska skäl för en enskild användare följer du stegen som beskrivs [här.](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold) När bevarande av juridiska skäl är aktiverat sätts allt innehåll i postlådan på bevarande.
     
-- Om du vill använda en **på-plats-spärr för enskilda användare** eller ett undantag till **alla post lådor i hela organisationen**kan du använda bevarande principer i säkerhets-och kompatibilitetstillstånd för Microsoft 365 genom att följa anvisningarna [här]( https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+- Om du vill tillämpa ett bevarande på plats för enskilda användare eller ett bevarande för alla postlådor i hela organisationen kan du använda bevarandeprinciper i **Säkerhets-** och efterlevnadscenter för Microsoft 365 genom att följa stegen som beskrivs [här.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
     
     > [!NOTE]
-    > Nya användare läggs automatiskt till i undantags principer för organisations omfattande lagring. 
+    > För organisationsomfattande bevarandeprinciper läggs nya användare automatiskt till i bevarandet. 
   
-- Om du vill visa eller upptäcka innehållet i post lådan som parkeras använder du **eDiscovery-sökning och export**. Information om hur du använder **eDiscovery-sökning och export**finns i anvisningarna [här](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+- Använd **eDiscovery Search och Export** om du vill visa eller upptäcka innehåll i postlådan som har satts på plats. Följ stegen som beskrivs här för information om hur du använder **eDiscovery-sökning** och [-export.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
     
 

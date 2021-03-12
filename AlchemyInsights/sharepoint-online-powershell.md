@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online PowerShell
+title: Sharepoint Online PowerShell
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: d90b60de72cf87a56e3b7f6a792708693f31af00
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7580f0e609d21bdc13fc07fda0bfd15bdb7a7ca
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770857"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709088"
 ---
-# <a name="sharepoint-online-powershell"></a>SharePoint Online PowerShell
+# <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
 
-Arbeta med PowerShell eller skript i SharePoint Online? Besök länkarna nedan för mer information.
+Arbetar du med PowerShell eller skript i Sharepoint Online? Gå till länkarna nedan för mer information.
 - [Komma igång med SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
 - [Ansluta till SPO PowerShell med multifaktorautentisering (MFA)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- [SharePoint-mönster och-metoder (PNP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) innehåller ett bibliotek med PowerShell-kommandon som gör att du kan utföra komplexa hanterings åtgärder mot SPO.
+- [SharePoint Patterns and Practices (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) innehåller ett bibliotek med PowerShell-kommandon som gör att du kan utföra komplexa hanteringsåtgärder mot SPO.
 
 > [!NOTE]
-> - Om du har problem med att ansluta till SPO Management Shell kontrollerar du att du har uppdaterat till den senaste versionen och försöker [Importera den igen](https://docs.microsoft.com/powershell/developer/module/importing-a-powershell-module) med *"import-module Microsoft. online. SharePoint. PowerShell".*
-> - Om du försöker köra klientbaserade objekt modell skript måste [SharePoint Online-klient komponenter](https://www.microsoft.com/download/details.aspx?id=42038) vara installerat på din dator.
-> - Om du har problem med att köra skript från PowerShell kanske du vill köra PowerShell som administratör och ändra [körnings principen](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).
+> - Om du har problem med att ansluta med SPO Management Shell ska du kontrollera att du har uppdaterat till den senaste versionen och försöka importera modulen igen med *"Import-Module Microsoft.Online.SharePoint.PowerShell".* [](https://docs.microsoft.com/powershell/scripting/developer/module/importing-a-powershell-module?view=powershell-7.1)
+> - Om du försöker köra skript på klientsidan av objektmodell måste du ha [Sharepoint Online Client Components SDK](https://www.microsoft.com/download/details.aspx?id=42038) installerat på den lokala datorn.
+> - Om du har problem med att köra skript från PowerShell kan du överväga att köra PowerShell som administratör och ändra [körningsprincipen.](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)
