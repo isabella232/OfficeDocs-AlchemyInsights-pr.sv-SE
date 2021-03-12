@@ -1,5 +1,5 @@
 ---
-title: Återställa borttagna filer och mappar i SharePoint
+title: Återställa borttagna filer eller mappar i SharePoint
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3173"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 7820c37d503baba8b8433b647576b194ce002905
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bc2d8c874b1b8ef850deea6816835dbab237fbeb
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797782"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708260"
 ---
-# <a name="restore-deleted-files-or-folders-in-sharepoint"></a>Återställa borttagna filer och mappar i SharePoint
+# <a name="restore-deleted-files-or-folders-in-sharepoint"></a>Återställa borttagna filer eller mappar i SharePoint
 
-Om du råkar ta bort en fil eller mapp i SharePoint kan du kanske återskapa den senare från pappers korgen.
+Om du tar bort en fil eller mapp i SharePoint av misstag kan du eventuellt återställa den senare från Papperskorgen.
 
-* [Återställa borttagna filer och mappar i SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+* [Återställa borttagna filer eller mappar i SharePoint](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 
-Om massor av dina SharePoint-filer tas bort, överskrivs, skadas eller infekteras av skadlig kod kan du återställa hela SharePoint-biblioteket till en tidigare tidpunkt.
+Om många av dina SharePoint-filer tas bort, skrivs över, skadas eller smittas med skadlig kod kan du återställa hela SharePoint-biblioteket till en föregående tid.
 
-* [Återställa ett dokument bibliotek](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
+* [Återställa ett dokumentbibliotek](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)

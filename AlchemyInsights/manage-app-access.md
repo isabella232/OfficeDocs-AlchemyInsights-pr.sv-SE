@@ -1,5 +1,5 @@
 ---
-title: Hantera program åtkomst
+title: Hantera programåtkomst
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7763"
-ms.openlocfilehash: 22b122fd6db1e77d334c41b05f4e6198878d705a
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: e2219c0a68a1f5ab560778410c8f86a3a87bc613
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014987"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708332"
 ---
-# <a name="manage-application-access"></a>Hantera program åtkomst
+# <a name="manage-application-access"></a>Hantera programåtkomst
 
-1. Information om hur du hanterar åtkomst till program via användar tilldelningar finns i [hantera användar tilldelning för ett program i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal).
-    - Om du vill tilldela en eller flera användare till ett program direkt läser du [snabb start: tilldela användare till ett](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal)program.
-1. För att hantera åtkomst via behörigheter och godkännande, se
-    - [Konfigurera hur slutanvändare godkänner program](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal). 
-    - [Konfigurera arbets flödet för administratörs medgivande (för hands version)](https://docs.microsoft.com/zure/active-directory/manage-apps/configure-admin-consent-workflow). 
-    - Information om hur du fören klar användar upplevelsen genom att bevilja klient organisations medgivande för ett program finns i [tilldela klient organisations medgivande till ett program](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent). 
-1. Information om hur du hanterar åtkomst till program via innehavarens begränsningar finns i [använda innehavarens begränsningar för att hantera åtkomst till SaaS-molnprogram](https://docs.microsoft.com/azure/active-directory/manage-apps/tenant-restrictions). 
-1. Felsöka Office 365 Access- [Access Management](https://docs.microsoft.com/office365/troubleshoot/access-management/cannot-add-guest-users-in-m365-admin-center).
+1. Information om hur du hanterar åtkomst till program via användaruppgifter finns i [Hantera användartilldelning för en app i Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal)
+    - Information om hur du tilldelar en eller flera användare till ett program direkt finns [i Snabbstart: Tilldela användare till ett program.](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal)
+1. Information om hur du hanterar åtkomst via behörigheter och medgivande finns i
+    - [Konfigurera hur slutanvändarna samtycker till program.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal) 
+    - [Konfigurera arbetsflödet för administratörsmedgivande (förhandsversion).](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow) 
+    - Mer information om hur du förenklar användarupplevelsen genom att bevilja administratörsmedgivande för hela klientorganisationen för ett program finns i Bevilja administratörsmedgivande för [hela klientorganisationen för ett program.](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) 
+1. Information om hur du hanterar åtkomst till program via klientbegränsningar finns i [Använda klientbegränsningar för att hantera åtkomst till SaaS-molnprogram.](https://docs.microsoft.com/azure/active-directory/manage-apps/tenant-restrictions) 
+1. Felsöka Office 365 Access – [Access Management.](https://docs.microsoft.com/office365/troubleshoot/access-management/cannot-add-guest-users-in-m365-admin-center)
