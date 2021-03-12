@@ -1,36 +1,39 @@
 ---
-title: Det går inte att aktivera Office
+title: Det gick inte att aktivera Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 875026fe11d3745b587131cf0dd40a28fa005dc5
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
-ms.translationtype: MT
+ms.openlocfilehash: 3a42c221047e7be6a173694cd45136baa6bff39a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580171"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704948"
 ---
-# <a name="unable-to-activate-office"></a>Det går inte att aktivera Office
+# <a name="unable-to-activate-office"></a>Det gick inte att aktivera Office
 
 - Kontrollera om prenumerationen har gått ut.
-- Kontrollera att du har en prenumeration som tillåter klientlicenser, till exempel Office 365 Business eller Business Premium, och [se till att användaren har en tilldelad licens](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- Kontrollera att du har en prenumeration som tillåter klientlicenser som exempelvis Office 365 Business eller Business Premium, samt att [användaren har en licens tilldelad](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Kontrollera att användaren loggar in i Office med samma konto som tilldelats licensen.
-- Gå till sidan för [tjänstens hälsa i Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) för att se om det finns några kända problem med tjänsten.
-- Kontrollera brandväggen, antivirusprogrammet och proxyinställningarna för att bekräfta att de inte blockerar Microsoft 365-appars åtkomst till Internet. Gå till [URL-adresser och IP-adressintervall för Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "URL-adresser och IP-adressintervall för Office 365").
+- Gå till [sidan för tjänststatus i Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) för att se om det finns några kända problem med tjänsten.
+- Kontrollera brandväggen, antivirusprogram och proxyinställningarna för att kontrollera att de inte blockerar Microsoft 365-applikationers åtkomst till internet. Gå till [URL-adresser och IP-adressintervall för Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "URL-adresser och IP-adressintervall för Office 365").
+
+**Tips** På Windows-datorer kan vi diagnostisera och automatiskt korrigera flera vanliga inloggningsproblem för Office åt dig. Ladda ned och kör **[Support- och återställningsassistenten](https://aka.ms/SaRA-OfficeSignInScenario)** om du vill använda vårt automatiska verktyg.
 
 Använd följande åtgärder för felsökning:
 
 - Öppna ett Office-program och [logga ut](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) från befintliga användarkonton. [Ta bort](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users) och [omtilldela](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) Office-licensen och [logga in i Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) med det påverkade användarkontot.
 - Kör [Aktiveringsfelsökaren](https://aka.ms/SARA-OfficeActivation-Alchemy)
-- [Återställ Office-aktiveringsstatus](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state "Återställa aktiveringstillstånd för Office")
+- [Återställ Office-aktiveringsstatus](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state "Återställ Office-aktiveringsstatus")
 - [Kör en onlinereparation av Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA)
 
 Ytterligare lösningar för felsökning finns i:  

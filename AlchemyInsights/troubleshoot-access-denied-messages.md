@@ -1,5 +1,5 @@
 ---
-title: Felsöka åtkomst nekade meddelanden
+title: Felsöka meddelanden om nekad åtkomst
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,27 +9,27 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 3550081a12379f73725253214a2c2d44974ab740
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c8ad84123fb58b73b9c378592ce970997893ea2
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690801"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704912"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Felsöka åtkomst nekade meddelanden
+# <a name="troubleshoot-access-denied-messages"></a>Felsöka meddelanden om nekad åtkomst
 
-Om någon har fått meddelandet "åtkomst nekad" till en delad mapp i SharePoint kan administratören för webbplats samlingen ha aktiverat lås läge för användare med begränsad åtkomst. Så här inaktiverar du det: 
+Om någon fick meddelandet "Åtkomst nekad" till en delad mapp i SharePoint kan webbplatssamlingsadministratören ha aktiverat nedlåst behörighetsläge för användare med begränsad åtkomst. Så här inaktiverar du det här: 
   
-1. Bläddra till webbplatsen, klicka på ikonen Inställningar och sedan på **webbplats inställningar**.
+1. Bläddra till webbplatsen, klicka på ikonen Inställningar och klicka sedan på **Webbplatsinställningar.**
     
-2. Klicka på **webbplats samlingens funktioner**under **Administration av webbplats samling**.
+2. Klicka **på Webbplatssamlingens** funktioner under **Administration av webbplatssamling.**
     
-3. Bredvid **nedlåst behörighets läge för användare med begränsad åtkomst**klickar du på **inaktivera**.
+3. Klicka på **Inaktivera bredvid nedlåst behörighetsläge för användare** med begränsad **åtkomst.**
     
-Ett meddelande om nekad åtkomst kan också förekomma för delade mappar om webbplatsen är en publicerings webbplats. Mer information finns i [åtkomst nekad när du öppnar en delad mapp](https://go.microsoft.com/fwlink/?linkid=2004317).
+Ett meddelande om nekad åtkomst kan också inträffa för delade mappar om webbplatsen är en publiceringswebbplats. Mer information finns i [Åtkomst nekad när du öppnar en delad mapp.](https://answers.microsoft.com/windows/forum/windows_7-files/access-denied-to-share-folder/79fae49d-cddf-4845-8ac8-c141884d85fb)
   
-Om en person fick meddelandet "åtkomst nekad" när du försöker visa åtkomst begär Anden måste användaren läggas till som administratör för en webbplats samling eller medlem i gruppen ägare för webbplatsen. Mer information finns i [åtkomst nekad till listan med åtkomst förfrågningar](https://go.microsoft.com/fwlink/?linkid=2004220).
+Om någon fick meddelandet "Åtkomst nekad" när han eller hon försöker visa åtkomstförfrågningar måste användaren läggas till som antingen administratör för webbplatssamlingen eller medlem i gruppen Ägare för webbplatsen. Mer information finns i listan [Åtkomst nekad till åtkomstbegäranden.](https://go.microsoft.com/fwlink/?linkid=2004220)
   
-Om en användare har fått meddelandet "åtkomst nekad" efter att de tagits bort från Active Directory lokalt och sedan återlagts, kan [du läsa åtkomst nekad när ett användar konto synkroniseras till Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2004318).
+Om en användare fick meddelandet "Åtkomst nekad" när de togs bort från Active Directory lokalt och sedan lades till igen, se Åtkomst nekad när ett användarkonto synkroniseras till [Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2004318)
   
 
