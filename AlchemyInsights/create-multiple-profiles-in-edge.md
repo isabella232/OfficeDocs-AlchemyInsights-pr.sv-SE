@@ -3,7 +3,7 @@ title: Skapa flera profiler i Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003923"
 - "6976"
-ms.openlocfilehash: 01f503c797c89ef8f3240b6349f3f7d596fadb32
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+- "9004596"
+- "8216"
+ms.openlocfilehash: 0c67e8e82199a40f820292fa7473d10a260c1367
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680137"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50897029"
 ---
 # <a name="create-multiple-profiles-in-microsoft-edge"></a>Skapa flera profiler i Microsoft Edge
 
-Med profiler kan flera användare fungera i en delad miljö samtidigt som du behåller åtkomsten till deras anpassade webb läsar inställningar, bok märken och tillägg. Följ de här stegen om du vill lägga till flera profiler i Microsoft Edge:
+Profiler gör att flera användare kan arbeta i en delad miljö samtidigt som de behåller åtkomst till sina personliga webbläsarinställningar, bokmärken och tillägg. Gör så här om du vill lägga till flera profiler i Microsoft Edge:
 
 1. Starta Microsoft Edge.
-    - Om du inte är inloggad, Välj profil ikonen > **Logga** in. Då kommer du automatiskt till sidan **Hantera profil inställningar** .
-    - Om du är inloggad väljer du profil ikonen > **Hantera profil inställningar**.
-2. Välj **profil > + Lägg till profil > lägga till**.
+    - Om du inte är inloggad väljer du profilikonen för att > **Logga in**. Då kommer du automatiskt till sidan **Hantera profilinställningar.**
+    - Om du är inloggad väljer du profilikonen i > **Hantera profilinställningar**.
+2. Välj **Profil och > + Lägg till profil > Lägg till**.
 3. Välj **Logga in för att synkronisera data** för att ansluta till ett befintligt konto.
-4. Välj **Ja** om du vill aktivera inloggnings synkronisering och välj sedan **Bekräfta**.
+4. Välj **Ja** för att aktivera inloggningssynkronisering och välj sedan **Bekräfta**.
 
-    Den ytterligare profilen är nu tillgänglig för användning.
+    Den extra profilen är nu tillgänglig för användning.

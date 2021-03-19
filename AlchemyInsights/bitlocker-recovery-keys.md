@@ -5,28 +5,29 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 4e06e0e43b63836b9e9cf923e554dd474b82c671
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908832"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685904"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a>Åtkomst till BitLocker-återställningsnycklar
+# <a name="accessing-bitlocker-recovery-keys"></a>Komma åt Bitlocker-återställningsnycklar
 
-När du konfigurerar BitLocker-inställningar för Intune Endpoint Protection-princip är det möjligt att definiera om BitLocker-återställningsinformation ska lagras i Azure Active Directory.
+När du konfigurerar Bitlocker-inställningar Intune Endpoint Protection Policy kan du definiera om Bitlocker-återställningsinformation ska lagras i Azure Active Directory.
 
-Om den här inställningen är konfigurerad bör lagrade återställningsdata vara synlig för en Intune-administratör som en del av enheten registrera data i Intune-enheter bladet på två sätt:
+Om den inställningen är konfigurerad bör lagrade återställningsdata vara synliga för en Intune-administratör som en del av enhetspostdata i bladet Intune-enheter på två sätt:
 
-Enheter-Azure AD-enheter-> "enhet" eller enheter-> alla enheter-> "enhet"-> återställningsnycklar
+Enheter - Azure AD-enheter -> "Enhet" ELLER Enheter -> Alla enheter -> "Enhet" -> Återställningsnycklar
 
-Alternativt, om det finns administrativ åtkomst till själva enheten, kan återställningsnyckeln (lösenord) ses genom att köra följande kommando från en upphöjd kommandotolk:
+Alternativt, om det finns administrativ åtkomst till själva enheten, kan återställningsnyckeln (Lösenord) visas genom att köra följande kommando från en upphöjd kommandotolk:
 
 ```
 manage-bde -protectors c: -get
@@ -42,8 +43,8 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Om enheten krypterades före registreringen i Intune, kan återställningsnyckeln ha associerats med "Microsoft Account" (MSA) som används för att logga in på enheten under OOBE-processen. Om så var fallet bör åtkomst https://onedrive.live.com/recoverykey och inloggning med det MSA Visa de enheter för vilka återställningsnycklar lagrades.
+Om enheten krypterades före registrering i Intune kan återställningsnyckeln ha kopplats till det Microsoft-konto (MSA) som används för att logga in på enheten under OOBE-processen. Om så är fallet bör åtkomst till och inloggning med det MSA-programmet visa de enheter  https://onedrive.live.com/recoverykey som återställningsnycklar lagrades för.
  
-Om enheten krypterades som ett resultat av konfigurationen via domänbaserad Grupprincip, kan återställningsinformationen lagras i den lokala Active Directory.
+Om enheten krypterades på grund av konfiguration genom domänbaserad grupprincip kan återställningsinformationen lagras på den lokala distributionen av Active Directory.
  
 

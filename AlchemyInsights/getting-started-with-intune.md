@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3190"
 - "9001217"
-ms.openlocfilehash: dda42cf553b2b1e37b69f334c0ad426aa7a13d10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 06b3e8b553de078a41980dc519db02ec8041e144
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706361"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50897101"
 ---
 # <a name="getting-started-with-intune"></a>Komma igång med Intune
 
-Om du vill ha en guidad visning av Intune och administratörs konsolen kan du läsa igenom [genom gången av Intune i Azure-portalen](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).
+En snabb genomgång av Intune och administratörskonsolen finns i [Genomgång av Intune i Azure-portalen.](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-endpoint-manager)
 
-Om du vill prova Intune eller ställa in en utvärderings version kan du läsa [snabb start: prova Microsoft Intune gratis](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).
+Om du vill prova Intune eller konfigurera en utvärderingsversion kan du läsa [Snabbstart: Prova Microsoft Intune kostnadsfritt.](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up)
 
-Om du redan har Intune och är redo att börja använda programmet läser du vår guide för [konfigurations registrering](https://docs.microsoft.com/intune/fundamentals/setup-steps) . 
+Om du är redo att börja använda Intune går du [till Konfigurera Intune](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps). En guidad konfiguration finns i [Intune-installationsguiden.](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/intunesetupguide)
