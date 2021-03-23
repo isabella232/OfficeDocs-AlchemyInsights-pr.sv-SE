@@ -1,0 +1,57 @@
+---
+title: Användarhanteringsproblem
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 03/19/2021
+audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9209"
+- "9005371"
+ms.openlocfilehash: 4b61686381de0cafa38857ca7a96b3a81aa191ec
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.translationtype: MT
+ms.contentlocale: sv-SE
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "51037510"
+---
+# <a name="user-management-issues"></a><span data-ttu-id="a6f47-102">Användarhanteringsproblem</span><span class="sxs-lookup"><span data-stu-id="a6f47-102">User management issues</span></span>
+
+<span data-ttu-id="a6f47-103">**Vad händer med aktuella tilldelade användare i programmet om jag inaktiverar egenskapen "Användartilldelning krävs" (ange den här egenskapen till Nej)?**</span><span class="sxs-lookup"><span data-stu-id="a6f47-103">**What happens to current assigned users to the application if I disable the property ‘User assignment required’ (set this property to No)?**</span></span>
+
+<span data-ttu-id="a6f47-104">Inaktivering **av obligatorisk användartilldelning** påverkar INTE de användare som för närvarande är tilldelade.</span><span class="sxs-lookup"><span data-stu-id="a6f47-104">Disabling **User assignment required** does NOT affect the currently assigned users.</span></span> <span data-ttu-id="a6f47-105">Om du inaktiverar den här egenskapen kan bara alla användare få åtkomst till programmet.</span><span class="sxs-lookup"><span data-stu-id="a6f47-105">Disabling this property will only allow all users to access the application.</span></span> <span data-ttu-id="a6f47-106">Alla listade användare och de användare som tilldelats grupper i programmet kommer fortfarande att vara giltiga.</span><span class="sxs-lookup"><span data-stu-id="a6f47-106">All the listed users and those users assigned to groups in the application will still be valid.</span></span>
+
+- <span data-ttu-id="a6f47-107">Information om hur du begränsar appen till vissa användare finns i Begränsa Azure AD-appen till en uppsättning användare – Plattform för [Microsoft-identitet | Microsoft Docs.](https://docs.microsoft.com/azure/active-directory/develop/howto-restrict-your-app-to-a-set-of-users#:~:text=Select%20the%20application%20you%20want%2cand%20set%20it%20to%20Yes.)</span><span class="sxs-lookup"><span data-stu-id="a6f47-107">To restrict your app to specific set of users, see - [Restrict Azure AD app to a set of users - Microsoft identity platform | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/develop/howto-restrict-your-app-to-a-set-of-users#:~:text=Select%20the%20application%20you%20want%2cand%20set%20it%20to%20Yes.).</span></span>
+- <span data-ttu-id="a6f47-108">Om du vill tilldela användare och grupper till företagsprogram i Azure Active Directory (Azure AD), antingen från Azure-portalen eller med hjälp av PowerShell, kan du gå till Hantera användartilldelning för en app i [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal)</span><span class="sxs-lookup"><span data-stu-id="a6f47-108">To assign users and groups, to enterprise applications in Azure Active Directory (Azure AD), either from within the Azure portal or by using PowerShell, see [Manage user assignment for an app in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal).</span></span>
+- <span data-ttu-id="a6f47-109">Information om att delegera behörigheter för att skapa och hantera program finns i [Behörigheter för administratör för hantering av ombud för program – Azure AD | Microsoft Docs.](https://docs.microsoft.com/azure/active-directory/roles/delegate-app-roles)</span><span class="sxs-lookup"><span data-stu-id="a6f47-109">To delegate Application creation and management permissions, see [Delegate application management administrator permissions - Azure AD | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/roles/delegate-app-roles).</span></span>
+- <span data-ttu-id="a6f47-110">**Dölj specifika företagsprogram för användare** – Använd följande steg för att dölja alla Microsoft 365-program från **panelen Mina** appar.</span><span class="sxs-lookup"><span data-stu-id="a6f47-110">**Hide specific enterprise apps from users** - Use the following steps to hide all Microsoft 365 apps from the **MyApps** panel.</span></span> <span data-ttu-id="a6f47-111">Programmen kommer fortfarande att visas på Office 365-portalen.</span><span class="sxs-lookup"><span data-stu-id="a6f47-111">The apps will still be visible in the Office 365 portal.</span></span>
+
+ 1. <span data-ttu-id="a6f47-112">Logga in på Azure Portal som global administratör för katalogen.</span><span class="sxs-lookup"><span data-stu-id="a6f47-112">Sign-in to the Azure portal as a global administrator for your directory.</span></span> 
+ 2. <span data-ttu-id="a6f47-113">Välj **Azure Active Directory.**</span><span class="sxs-lookup"><span data-stu-id="a6f47-113">Select **Azure Active Directory**.</span></span> 
+ 3. <span data-ttu-id="a6f47-114">Välj **Användare**.</span><span class="sxs-lookup"><span data-stu-id="a6f47-114">Select **Users**.</span></span> 
+ 4. <span data-ttu-id="a6f47-115">Välj **Användarinställningar.**</span><span class="sxs-lookup"><span data-stu-id="a6f47-115">Select **User settings**.</span></span> 
+ 5. <span data-ttu-id="a6f47-116">Klicka **på Hantera** hur **slutanvändarna startar och visar sina program under Företagsprogram.**</span><span class="sxs-lookup"><span data-stu-id="a6f47-116">Under **Enterprise applications**, click **Manage how end users launch and view their applications**.</span></span> 
+ 6. <span data-ttu-id="a6f47-117">För **Användare kan bara se Office 365-program i Office 365-portalen klickar** du på **Ja.**</span><span class="sxs-lookup"><span data-stu-id="a6f47-117">For **Users can only see Office 365 apps in the Office 365 portal**, click **Yes**.</span></span> 
+ 7. <span data-ttu-id="a6f47-118">Klicka på **Spara**.</span><span class="sxs-lookup"><span data-stu-id="a6f47-118">Click **Save**.</span></span> 
+ 8. <span data-ttu-id="a6f47-119">Mer information finns i [Dölja ett företagsprogram för användare i Azure AD-| Microsoft Docs](https://docs.microsoft.com/azure/active-directory/manage-apps/hide-application-from-user-portal#:~:text=%20Hide%20an%20application%20from%20the%20end%20user,6%20Click%20Properties.%207%20Click%20Save.%20See%20More.)</span><span class="sxs-lookup"><span data-stu-id="a6f47-119">For more details, see [Hide an Enterprise application from user's experience in Azure AD | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/manage-apps/hide-application-from-user-portal#:~:text=%20Hide%20an%20application%20from%20the%20end%20user,6%20Click%20Properties.%207%20Click%20Save.%20See%20More.)</span></span>
+
+- <span data-ttu-id="a6f47-120">Om du erbjuder en SaaS-app (programvara som en tjänst) till många organisationer kan du konfigurera appen så att inloggningar accepteras från valfri Azure Active Directory-klientorganisation (Azure AD).</span><span class="sxs-lookup"><span data-stu-id="a6f47-120">If you offer a Software as a Service (SaaS) app to many organizations, you can configure your app to accept sign-ins from any Azure Active Directory (Azure AD) tenant.</span></span> <span data-ttu-id="a6f47-121">Den här konfigurationen kallas för att "göra programmet till flera innehavare".</span><span class="sxs-lookup"><span data-stu-id="a6f47-121">This configuration is called "making your application multi-tenant".</span></span> <span data-ttu-id="a6f47-122">Användare i alla Azure AD-klientorganisationen kommer att kunna logga in på appen när de har gett sitt medgivande för att använda sitt konto med din app.</span><span class="sxs-lookup"><span data-stu-id="a6f47-122">Users in any Azure AD tenant will be able to sign-in to your app after consenting to use their account with your app.</span></span> <span data-ttu-id="a6f47-123">Mer information finns i Skapa [appar som loggar in Azure AD-användare – Microsoft identity platform | Microsoft Docs.](https://docs.microsoft.com/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant)</span><span class="sxs-lookup"><span data-stu-id="a6f47-123">For more information, see [Build apps that sign in Azure AD users - Microsoft identity platform | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant).</span></span>
+
+- <span data-ttu-id="a6f47-124">**Hur kan en slutanvändare komma åt programmet när han eller hon har tilldelats till programmet?**</span><span class="sxs-lookup"><span data-stu-id="a6f47-124">**How can an end user access the application once he/she is assigned to the application?**</span></span>
+
+<span data-ttu-id="a6f47-125">Varje app i enterprise-programbladet har en länk som slutanvändarna kan komma åt.</span><span class="sxs-lookup"><span data-stu-id="a6f47-125">Each app in Enterprise application blade has a link for end users to access.</span></span> <span data-ttu-id="a6f47-126">Användare kan också komma åt appen via **Myapps-portalen** på ett enkelt sätt.</span><span class="sxs-lookup"><span data-stu-id="a6f47-126">Users can also access the app through **Myapps** portal in an easy way.</span></span>
+
+- <span data-ttu-id="a6f47-127">**Vill du veta vilka program och typer av program som används av användarna?**</span><span class="sxs-lookup"><span data-stu-id="a6f47-127">**Want to know which applications and type of applications are being used by users?**</span></span>
+
+<span data-ttu-id="a6f47-128">Du kan hämta inloggningsrapporter för de senaste 30 dagarna från att portal.azure.com > Azure Active Directory> **Inloggningar> ladda ned rapporter**.</span><span class="sxs-lookup"><span data-stu-id="a6f47-128">You can download sign-in reports for the last 30 days from **portal.azure.com > Azure Active directory> Signins> download reports**.</span></span>
+
+- <span data-ttu-id="a6f47-129">Läs om hur [du beviljar administratörsmedgivande för hela klientorganisationen till ett program](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) och Konfigurera hur [slutanvändarna ger sitt medgivande till programmen.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent)</span><span class="sxs-lookup"><span data-stu-id="a6f47-129">Learn how to [Grant tenant wide admin consent to an application](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) and [Configure how end users consent to applications](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent).</span></span>
+
+- <span data-ttu-id="a6f47-130">Förstå [hur medgivande fungerar och](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) Hantera medgivande till [program.](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests)</span><span class="sxs-lookup"><span data-stu-id="a6f47-130">Understand [how consent works](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) and [Manage consent to applications](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests).</span></span>
+
+
