@@ -13,19 +13,19 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 305fe22b71e0f0aa149837a7b3da0e8283603bb2
-ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
+ms.openlocfilehash: bc340bb0242315eb46767074ce846df9393bc426
+ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901549"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51123005"
 ---
 # <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a>Installera Office med distributionsrådgivaren för Microsoft 365-appar
 
-[Distributionsrådgivaren för Microsoft 365-appar](https://admin.microsoft.com/adminportal/home) hjälper dig att få användarnas enheter att köra den senaste versionen av Office-produkter som Word, Excel, PowerPoint och OneNote.
-
-Du får vägledning om de olika distributionsmetoderna, som innehåller enkla alternativ för självinstallation, samt företagsdistributioner med hanteringsverktyg. Instruktionerna hjälper dig att bedöma miljön, ta reda på dina specifika distributionskrav och implementera nödvändiga supportverktyg för att säkerställa en lyckad installation.
-
+[Distributionsrådgivaren för Microsoft 365-appar](https://go.microsoft.com/fwlink/?linkid=2145748) hjälper dig att få användarnas enheter att köra den senaste versionen av Office-produkter som Word, Excel, PowerPoint och OneNote.
+  
+Du får vägledning om de olika distributionsmetoderna, som innehåller enkla alternativ för självinstallation, samt företagsdistributioner med hanteringsverktyg. Instruktionerna hjälper dig att utvärdera miljön, ta reda på dina specifika distributionskrav och implementera nödvändiga supportverktyg för att säkerställa en lyckad installation.
+  
 Information om att konfigurera Microsoft 365 och förbereda miljön för Microsoft 365- och Office 365-tjänster finns i:
 
 - [Förbereda din miljöguide](https://go.microsoft.com/fwlink/?linkid=2005213)
