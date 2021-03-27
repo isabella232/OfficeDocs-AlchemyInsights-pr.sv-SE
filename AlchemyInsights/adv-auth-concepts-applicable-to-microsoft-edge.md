@@ -1,5 +1,5 @@
 ---
-title: Avancerade autentiseringsmetoder för Microsoft Edge
+title: Avancerade autentiseringsbegrepp som är tillämpliga i Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,27 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "9003931"
 - "6986"
-ms.openlocfilehash: 241d594fac6664dd1e85fd60e30a6344c432555e
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+- "8329"
+- "9004625"
+ms.openlocfilehash: d469973c4f8605b00d32f6f625eb5fdd17e8f390
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573778"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398603"
 ---
-# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Avancerade autentiseringsmetoder för Microsoft Edge
+# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Avancerade autentiseringsbegrepp som är tillämpliga i Microsoft Edge
 
-Nedan följer de avancerade autentiseringsmetoderna som gäller för Microsoft Edge:
+Här följer de avancerade autentiseringsbegreppen som gäller för Microsoft Edge:
 
-**Proaktiv auktorisering**
+**Proaktiv autentisering**
 
-När du aktiverar [ProactiveAuthEnabled](https://go.microsoft.com/fwlink/?linkid=2134621) -principen försöker Microsoft Edge proaktivt autentisera inloggade användare via Microsoft-tjänster. Med jämna mellanrum används en online tjänst för att söka efter ett uppdaterat manifest som innehåller konfigurationen som styr proaktiv-förauktoriseringen.
+När du aktiverar [principen ProactiveAuthEnabled](https://go.microsoft.com/fwlink/?linkid=2134621) försöker Microsoft Edge proaktivt autentisera inloggade användare via Microsoft-tjänster. Med jämna mellanrum används en onlinetjänst för att söka efter ett uppdaterat manifest som innehåller konfiguration som reglerar proaktiv autentisering.
 
-Fördelar: proaktivt-verifikation möjliggör till gång till viktiga tjänster, till exempel sidan ny flik i Office. Om Bing används som sökmotor förbättrar dessutom adress fältets prestanda och gör att Sök resultaten anpassas efter företagets behov?.
+Fördelar: Proaktiv autentisering möjliggör autentisering till nyckeltjänster, till exempel sidan Ny flik i Office. Om Bing används som sökmotor förbättrar proaktiv autentisering prestandan i adressfältet och hjälper till att generera sökresultat som är anpassade efter behoven i ditt företag.
 
-**Windows Hello-CredUI för NTLM-verifikation**
+**Windows Hello CredUI för NTLM-autentisering**
 
-Om enkel inloggning (SSO) inte är tillgängligt när en webbplats försöker logga in användaren via NTLM eller Negotiate-mekanismen tillåter den här funktionen att användaren delar autentiseringsuppgifterna för operativ systemet med webbplatsen och för att uppfylla verifierings utmaningen genom att använda Windows Hello-gränssnittet. Det här inloggnings flödet visas bara i Windows 10 och endast för användare som inte behöver SSO under ett NTLM-eller Negotiate-anrop.
+Om enkel inloggning (SSO) inte är tillgänglig när en webbplats försöker logga in på användaren via NTLM- eller förhandlasmekanismen gör den här funktionen att användaren kan dela operativsystemets autentiseringsuppgifter med webbplatsen och uppfylla autentiseringsutmaningen med hjälp av windows Hello-gränssnittet i Cred. Det här inloggningsflödet visas bara i Windows 10 och bara för användare som inte får SSO under en NTLM- eller en förhandlans utmaning.
 
-**Använda sparade lösen ord för att logga in automatiskt**
+**Använd sparade lösenord för att logga in automatiskt**
 
-Användare som sparar lösen ord i Microsoft Edge kan aktivera automatisk inloggning på webbplatser där de har sparat sina autentiseringsuppgifter. Användare kan aktivera eller inaktivera den här funktionen i edge://settings/passwords och du kan konfigurera den i principer för [lösen ords hanteraren](https://go.microsoft.com/fwlink/?linkid=2134622) .
+Användare som sparar lösenord i Microsoft Edge kan aktivera automatisk inloggning på webbplatser där de har sparat autentiseringsuppgifter. Användare kan aktivera eller inaktivera den här funktionen i edge://settings/passwords, och du kan konfigurera den i [lösenordshanterarens](https://go.microsoft.com/fwlink/?linkid=2134622) principer.

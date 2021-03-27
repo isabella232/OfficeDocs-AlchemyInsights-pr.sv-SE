@@ -1,5 +1,5 @@
 ---
-title: Hur Microsoft Edge använder Microsoft Defender SmartScreen?
+title: Hur använder Microsoft Edge Microsoft Defender SmartScreen?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003847"
 - "6897"
-ms.openlocfilehash: 2a08bd507c77e9735028b30f7bf7bc8f8f018cad
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8331"
+- "9004625"
+ms.openlocfilehash: f03243ae6ff076920c4d5895b78931c26c9be675
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583720"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398639"
 ---
-# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Hur Microsoft Edge använder Microsoft Defender SmartScreen
+# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Så här använder Microsoft Edge Microsoft Defender SmartScreen
 
-För att skydda dig på Internet använder Microsoft Edge Microsoft Defender SmartScreen som ett system med tidig varning för webbplatser som perpetrate nätfiske-attacker och distribuerar skadlig program vara via prioriterade attacker.
+För att hålla dig säker på webben använder Microsoft Edge Microsoft Defender SmartScreen som ett system för tidig varning mot webbplatser som utnyttjar nätfiskeattacker och distribuerar skadlig programvara genom fokuserade attacker.
 
-Administratörer kan konfigurera Microsoft Defender SmartScreen med inställningar för grup princip, Microsoft Intune eller Mobile Device Management (MDM). Baserat på hur du konfigurerar Microsoft Defender SmartScreen kan du Visa användare en varnings sida och låta dem fortsätta till webbplatsen eller blockera webbplatsen helt och hållet.
+Administratörer kan konfigurera Microsoft Defender SmartScreen med grupprincipinställningar, Microsoft Intune eller mdm-inställningar (Mobile Device Management). Baserat på hur du konfigurerade Microsoft Defender SmartScreen kan du visa en varningssida för användarna och låta dem fortsätta till webbplatsen eller blockera webbplatsen helt.
 
-Mer information finns i [Microsoft Edge support för Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) och [Microsoft Defender Application Guard](https://go.microsoft.com/fwlink/?linkid=2132839).
+Mer information finns i Support [för Microsoft Edge för Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) och Microsoft Defender Application [Guard.](https://go.microsoft.com/fwlink/?linkid=2132839)

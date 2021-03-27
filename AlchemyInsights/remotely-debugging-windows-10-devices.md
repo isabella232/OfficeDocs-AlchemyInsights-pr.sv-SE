@@ -1,5 +1,5 @@
 ---
-title: Komma igång med fjärrfelsökning av Windows 10-enheter
+title: Komma igång med fjärrfelsökning på Windows 10-enheter
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003926"
 - "6980"
-ms.openlocfilehash: 4bd03461c4096cc4ee94a0308d53ba6cba473c18
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10188"
+- "9005827"
+ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583961"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398582"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Komma igång med fjärrfelsökning av Windows 10-enheter
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Komma igång med fjärrfelsökning på Windows 10-enheter
 
-Så här felsöker du Live-innehåll på en Windows 10-enhet från en Windows-eller Mac-dator:
+Så här felsöker du liveinnehåll på en Windows 10-enhet på en Windows- eller macOS-dator:
 
-1. Konfigurera din Windows 10-enhet för fjärr fel sökning och Anslut sedan till den från din utvecklings maskin.
-2. Undersök och aktivera Live-innehållet på din Windows 10-enhet från din utvecklings maskin.
-3. Skärm utsändning innehåll från din Windows 10-enhet till en DevTools-instans på din utvecklings maskin.
+1. Konfigurera din Windows 10-enhet för fjärrfelsökning och anslut sedan till den från utvecklingsdatorn.
+2. Inspektera och felsöka liveinnehåll på din Windows 10-enhet från utvecklingsdatorn.
+3. Skärmbild av innehåll från din Windows 10-enhet till en DevTools-instans på utvecklingsdatorn.
 
-Mer information finns i [komma igång med fjärr fel sökning av Windows 10-enheter med Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).
+Mer information finns i Komma [igång med fjärrfelsökning av Windows 10-enheter med Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2142172)
