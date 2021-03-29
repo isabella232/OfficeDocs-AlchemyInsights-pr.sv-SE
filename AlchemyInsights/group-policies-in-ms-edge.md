@@ -1,5 +1,5 @@
 ---
-title: Grup principer i Microsoft Edge
+title: Grupprinciper i Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,14 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003841"
+- "9004632"
 - "6890"
-ms.openlocfilehash: 7752d3f5d1a567b4b9e61818ad80599ef5cda056
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8362"
+ms.openlocfilehash: dc6a5c233736912030f16b43c269b9deb442dfa6
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583755"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403365"
 ---
-# <a name="group-policies-in-microsoft-edge"></a><span data-ttu-id="08ff4-102">Grup principer i Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="08ff4-102">Group policies in Microsoft Edge</span></span>
+# <a name="group-policies-in-microsoft-edge"></a><span data-ttu-id="c3bca-102">Grupprinciper i Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="c3bca-102">Group policies in Microsoft Edge</span></span>
 
-<span data-ttu-id="08ff4-103">Använd de [grup principer](https://go.microsoft.com/fwlink/?linkid=2134623) som är tillgängliga i Microsoft Edge (version 77 eller senare) för att ange hur webbläsaren ska köras i organisationen.</span><span class="sxs-lookup"><span data-stu-id="08ff4-103">Use the [group policies](https://go.microsoft.com/fwlink/?linkid=2134623) available in Microsoft Edge (version 77 or later) to specify how the browser runs in your organization.</span></span>
+<span data-ttu-id="c3bca-103">Använd [grupprinciperna som](https://go.microsoft.com/fwlink/?linkid=2134623) är tillgängliga i Microsoft Edge (version 77 eller senare) för att ange hur webbläsaren körs i organisationen.</span><span class="sxs-lookup"><span data-stu-id="c3bca-103">Use the [group policies](https://go.microsoft.com/fwlink/?linkid=2134623) available in Microsoft Edge (version 77 or later) to specify how the browser runs in your organization.</span></span>
