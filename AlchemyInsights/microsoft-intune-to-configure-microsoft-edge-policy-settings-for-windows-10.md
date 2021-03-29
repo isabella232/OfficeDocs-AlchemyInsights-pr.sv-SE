@@ -1,5 +1,5 @@
 ---
-title: Använda Microsoft Intune för att konfigurera princip inställningar för Microsoft Edge för Windows 10
+title: Använda Microsoft Intune för att konfigurera principinställningar för Microsoft Edge för Windows 10
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,18 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003843"
+- "9004632"
 - "7096"
-ms.openlocfilehash: e526d25aeb70ca7d89225c7f8db87f465afc903b
-ms.sourcegitcommit: b3f26339eda6ab4a5f952dd35a41c4c1de603cd2
+- "8365"
+ms.openlocfilehash: 0107571b4a9313b39751f8c8d06468ccf8cdf807
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679777"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401781"
 ---
-# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>Använda Microsoft Intune för att konfigurera princip inställningar för Microsoft Edge för Windows 10
+# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>Använda Microsoft Intune för att konfigurera principinställningar för Microsoft Edge för Windows 10
 
-Du kan konfigurera principer och inställningar i Microsoft Edge genom att lägga till en enhets konfigurations profil i Microsoft Intune. Detta motsvarar att konfigurera grup principer för Microsoft Azure Active Directory eller lokala grup princip objekt (GPO) på användar enheter.
+Du kan konfigurera principer och inställningar för Microsoft Edge genom att lägga till en profil för enhetskonfiguration i Microsoft Intune. Det här motsvarar att konfigurera Microsoft Azure Active Directory-gruppprinciper eller lokala GPO-inställningar (Group Policy Object) på användarenheter.
 
-Mer information finns i [skapa en profil för att hantera inställningar i Microsoft Edge för Windows 10](https://go.microsoft.com/fwlink/?linkid=2133700).
+Mer information finns i Skapa [en profil för att hantera inställningar i Microsoft Edge för Windows 10.](https://go.microsoft.com/fwlink/?linkid=2133700)
 
-Den här artikeln gäller Microsoft Edge version 77 och senare.
+Den här artikeln gäller för Microsoft Edge version 77 och senare.

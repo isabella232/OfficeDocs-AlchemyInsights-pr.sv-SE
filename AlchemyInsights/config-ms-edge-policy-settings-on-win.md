@@ -1,5 +1,5 @@
 ---
-title: Konfigurera princip inställningar för Microsoft Edge i Windows
+title: Konfigurera principinställningar för Microsoft Edge i Windows
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,21 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003845"
+- "9004632"
 - "6894"
-ms.openlocfilehash: 7f626152c3833638436dfe05e8dcd13fc86ef594
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8358"
+ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583746"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402393"
 ---
-# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Konfigurera princip inställningar för Microsoft Edge i Windows
+# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Konfigurera principinställningar för Microsoft Edge i Windows
 
-Om du vill konfigurera princip inställningar och hanterade uppdateringar för Microsoft Edge använder du grup princip objekt (GPO). Du kan också etablera princip via registret. Det här är lämpligt för (1) Windows-enheter som är anslutna till en Microsoft Active Directory-domän och för (2) Windows 10 Pro-och Enterprise-instanser registrerade för enhets hantering i Microsoft Intune.
+Om du vill konfigurera principinställningar och hanterade uppdateringar för Microsoft Edge använder du grupprincipobjekt (GPOs). Du kan också etablera princip via registret. Detta är lämpligt för (1) Windows-enheter som är anslutna till en Microsoft Active Directory-domän och för (2) Windows 10 Pro- och Enterprise-instanser som har registrerats för enhetshantering i Microsoft Intune.
 
-Om du vill konfigurera Microsoft Edge med hjälp av grup princip objekt gör du följande:
+Om du vill konfigurera Microsoft Edge med hjälp av GPOs gör du följande:
 
-1. Till Central arkivet för grup princip i din Active Directory-domän, eller till mappen princip definitions mal len på enskilda datorer, installerar du alla administrativa mallar som lägger till regler och inställningar för Microsoft Edge.
-2. Konfigurera de principer du vill ange.
+1. Gå till den centrala lagringslistan för grupprinciper i Active Directory-domänen, eller till mallmappen Principdefinition på enskilda datorer, och installera alla administrativa mallar som lägger till regler och inställningar för Microsoft Edge.
+2. Konfigurera de specifika principer som du vill ange.
 
-Mer information finns i [Konfigurera inställningar för Microsoft Edge-principer i Windows](https://go.microsoft.com/fwlink/?linkid=2135024).
+Mer information finns i Konfigurera [principinställningar för Microsoft Edge i Windows.](https://go.microsoft.com/fwlink/?linkid=2135024)

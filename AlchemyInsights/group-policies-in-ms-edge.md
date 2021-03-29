@@ -1,5 +1,5 @@
 ---
-title: Grup principer i Microsoft Edge
+title: Grupprinciper i Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,14 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003841"
+- "9004632"
 - "6890"
-ms.openlocfilehash: 7752d3f5d1a567b4b9e61818ad80599ef5cda056
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8362"
+ms.openlocfilehash: dc6a5c233736912030f16b43c269b9deb442dfa6
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583755"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403365"
 ---
-# <a name="group-policies-in-microsoft-edge"></a>Grup principer i Microsoft Edge
+# <a name="group-policies-in-microsoft-edge"></a>Grupprinciper i Microsoft Edge
 
-Använd de [grup principer](https://go.microsoft.com/fwlink/?linkid=2134623) som är tillgängliga i Microsoft Edge (version 77 eller senare) för att ange hur webbläsaren ska köras i organisationen.
+Använd [grupprinciperna som](https://go.microsoft.com/fwlink/?linkid=2134623) är tillgängliga i Microsoft Edge (version 77 eller senare) för att ange hur webbläsaren körs i organisationen.
