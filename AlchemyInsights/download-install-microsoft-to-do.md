@@ -1,5 +1,5 @@
 ---
-title: Så här laddar du ned och installerar Microsoft to do
+title: Ladda ned och installera Microsoft To Do
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003043"
 - "6109"
-ms.openlocfilehash: 83fdaa7a1e181f8429f57fbb9e6ad20642c74d79
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
-ms.translationtype: MT
+ms.openlocfilehash: c17c2db421d3210de01e402da502a9951fdefeb7
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823154"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401961"
 ---
-# <a name="how-to-download-and-install-microsoft-to-do"></a><span data-ttu-id="1bf6d-102">Så här laddar du ned och installerar Microsoft to do</span><span class="sxs-lookup"><span data-stu-id="1bf6d-102">How to download and install Microsoft To Do</span></span>
+# <a name="how-to-download-and-install-microsoft-to-do"></a><span data-ttu-id="cf29e-102">Ladda ned och installera Microsoft To Do</span><span class="sxs-lookup"><span data-stu-id="cf29e-102">How to download and install Microsoft To Do</span></span>
 
-<span data-ttu-id="1bf6d-103">Microsoft to do-appen för Win32-, iOS-, Android-och Mac-appen kan laddas ned från lämplig butik.</span><span class="sxs-lookup"><span data-stu-id="1bf6d-103">Microsoft To Do app for Win32, iOS, Android and Mac app can be download from appropriate Store.</span></span>
+<span data-ttu-id="cf29e-103">Appen för Microsoft To Do till appen för Win32, iOS, Android och Mac kan laddas ned från lämplig Store.</span><span class="sxs-lookup"><span data-stu-id="cf29e-103">Microsoft To Do app for Win32, iOS, Android and Mac app can be download from appropriate Store.</span></span>
 
-<span data-ttu-id="1bf6d-104">Om du har begränsad åtkomst till klient organisationen kan du läsa [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/en-us/microsoft-store/distribute-offline-apps) installations programmet för offline</span><span class="sxs-lookup"><span data-stu-id="1bf6d-104">If you have restricted Store access for your tenant, please refer to [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/en-us/microsoft-store/distribute-offline-apps) for offline installer</span></span>
+<span data-ttu-id="cf29e-104">Om du har begränsad åtkomst till Store för klientorganisationen går du till [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/microsoft-store/distribute-offline-apps) för offlineinstallationsprogrammet</span><span class="sxs-lookup"><span data-stu-id="cf29e-104">If you have restricted Store access for your tenant, please refer to [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/microsoft-store/distribute-offline-apps) for offline installer</span></span>
 
-<span data-ttu-id="1bf6d-105">Om du vill hämta ett program från Store med ditt **arbets** konto måste programmet vara publicerat i företagets **privata butik.**</span><span class="sxs-lookup"><span data-stu-id="1bf6d-105">To download an app from Store using your **Work** account, the app must be published to your company's **Private Store.**</span></span> <span data-ttu-id="1bf6d-106">Mer information finns i [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)</span><span class="sxs-lookup"><span data-stu-id="1bf6d-106">For more information, please refer to [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)</span></span>
+<span data-ttu-id="cf29e-105">För att en app ska kunna laddas ned från Store med **arbetskontot** måste appen publiceras i företagets **privata katalog.**</span><span class="sxs-lookup"><span data-stu-id="cf29e-105">To download an app from Store using your **Work** account, the app must be published to your company's **Private Store.**</span></span> <span data-ttu-id="cf29e-106">Mer information finns i [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)</span><span class="sxs-lookup"><span data-stu-id="cf29e-106">For more information, please refer to [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)</span></span>
