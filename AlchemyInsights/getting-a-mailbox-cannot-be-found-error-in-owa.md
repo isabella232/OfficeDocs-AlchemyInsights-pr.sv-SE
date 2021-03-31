@@ -1,5 +1,5 @@
 ---
-title: 126 Det går inte att hitta ett fel meddelande i OWA?
+title: 126 Det går inte att hitta ett fel när du får en postlåda i OWA?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,17 +14,23 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 9a8897767ebfebac5807116251634c615ef6767d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6bab821aaa3b50c365ef5d25a61bca195c76d7ce
+ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706768"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51426680"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Det går inte att få ett brev låde fel i Outlook på webben?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Visas ingen postlåda i Outlook på webben?
 
-Om du använder Outlook på webben och det **inte går att hitta en post låda för** felet har kontot som du använde för att ansluta till Outlook på webben ingen Exchange Online-licens och därför är inte post lådan kopplad till kontot. Administratören kan tilldela en licens till ditt konto genom att följa de här stegen:
+Om du använder Outlook på webben och  du får en postlåda som inte kunde hittas på grund av felet har det konto som du använde för att ansluta till Outlook på webben inte någon Exchange Online-licens och därför är ingen postlåda kopplad till kontot. Administratören kan tilldela kontot en licens så här:
 
-1. Öppna [administrations centret för Microsoft 365](https://portal.office.com/adminportal/home#/homepage) och gå till **aktiva användare** under avsnittet **användare** och välj den användare som ska se felet.
+1. Öppna [administrationscentret för Microsoft 365,](https://portal.office.com/adminportal/home#/homepage) gå  till Aktiva användare **under** avsnittet Användare och välj den användare som ser felet.
 
-2. Gå till avsnittet **licenser och program** på användar sidan som öppnas, Välj lämpligt **plats** värde och tilldela en licens som innehåller Exchange Online (expandera licensen för att se dess uppgifter). När du är klar klickar du på **Spara ändringar**.
+2. På den användarsida som öppnas  går du till avsnittet  Licenser och appar, väljer rätt Platsvärde och tilldelar en licens som innehåller Exchange Online (expandera licensen om du vill se dess information). När du är klar klickar du på **Spara ändringar**.
+
+I vissa fall, om licensen redan har tilldelats ett användarkonto, kan du lösa problemet och få den korrekt etablerad i systemet genom att ta bort och omtilldela licensen: 
+
+- Kontrollera om dina M365 Exchange Online-prenumerationer (och andra, om du har några) är aktuella och inte nyligen har upphört att gälla.
+
+När du har försäkrat dig om att prenumerationen inte har gått ut och en giltig licens har tilldelats användarkontot kan det ta upp till 24 timmar innan licensen etableras, så du kan behöva vänta på att problemet löses. Mer information finns i [Tilldela och hantera licenser.](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses)
