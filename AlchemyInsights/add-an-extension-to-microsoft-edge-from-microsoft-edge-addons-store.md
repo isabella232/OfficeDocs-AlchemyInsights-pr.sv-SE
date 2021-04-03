@@ -1,5 +1,5 @@
 ---
-title: Lägga till en anknytning till Microsoft Edge från Microsoft Edge-Tilläggsen
+title: Lägga till ett tillägg till Microsoft Edge från Microsoft Edge Add-ons Store
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003858"
 - "6919"
-ms.openlocfilehash: 18c7a6a8e397744a114c4bb91df6c45416d9af87
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+- "8310"
+- "9004621"
+ms.openlocfilehash: eacc0feca236f1d25e79aa55a56645c0b290c631
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679932"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505044"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>Lägga till en anknytning till Microsoft Edge från Microsoft Edge-Tilläggsen
+# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>Lägga till ett tillägg till Microsoft Edge från Microsoft Edge Add-ons Store
 
-Så här lägger du till en anknytning till Microsoft Edge från Microsoft Edge-Tilläggserna:
+Så här lägger du till ett tillägg till Microsoft Edge från Microsoft Edge-tilläggsbutiken:
 
 - Öppna Microsoft Edge.
-- Välj **... > fil namns tillägg > [Skaffa fil namns tillägg för Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.
-- Välj det fil namns tillägg som du vill lägga till och välj sedan **Hämta**.
-- I bekräftelse dialog rutan kontrollerar du noggrant vilka ändringar som fil tillägget kan göra och väljer **Lägg till tillägg**.
+- Välj **... > Tillägg > Hämta tillägg för Microsoft [Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.
+- Välj det tillägg du vill lägga till och välj sedan **Hämta**.
+- I bekräftelsedialogrutan granskar du noga ändringarna som tillägget kan göra och väljer Lägg **till tillägg.**
 
-Du kommer då att få en bekräftelse på att tillägget har lagts till.
+Du får sedan en bekräftelse på att tillägget har lagts till.

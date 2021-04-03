@@ -1,5 +1,5 @@
 ---
-title: Lägga till en anknytning till Microsoft Edge från webb arkivet Chrome
+title: Lägga till ett tillägg till Microsoft Edge från Chrome Web Store
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003868"
 - "6922"
-ms.openlocfilehash: b11a1304ce6c82c6182dfdcc13716d295ab802d3
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+- "8312"
+- "9004621"
+ms.openlocfilehash: 0b393d548ab8cf408c26c1548f29e02e61bd8695
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679273"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505050"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Lägga till en anknytning till Microsoft Edge från webb arkivet Chrome
+# <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Lägga till ett tillägg till Microsoft Edge från Chrome Web Store
 
-Gör så här om du vill lägga till ett tillägg till Microsoft Edge från webb arkivet i Chrome:
+Så här lägger du till ett tillägg till Microsoft Edge från Chrome Web Store:
 
-1. Gå till webb sidan Chrome.
-2. I informations fältet högst upp på sidan väljer du **Tillåt tillägg från andra butiker**.
-3. Välj det fil namns tillägg som du vill lägga till och klicka sedan på **Lägg till i Chrome**.
-4. Gå igenom bekräftelse dialog rutan och granska ändringarna som fil tillägget kan göra och klicka sedan på **Lägg till tillägg**.
-Den sista dialog rutan bekräftar att tillägget har lagts till.
+1. Gå till Chrome Web Store.
+2. I banderollen högst upp på sidan väljer du **Tillåt tillägg från andra butiker**.
+3. Välj det tillägg du vill lägga till och klicka sedan på Lägg **till i Chrome.**
+4. Gå noga igenom ändringarna som tillägget kan göra i bekräftelsedialogrutan och klicka sedan på Lägg **till tillägg.**
+Den sista dialogrutan bekräftar att tillägget har lagts till.

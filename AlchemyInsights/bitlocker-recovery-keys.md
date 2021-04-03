@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8708ed76f6abe81582823c8af89db8fffef9a3c5
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685904"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505086"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Komma åt Bitlocker-återställningsnycklar
 
@@ -46,5 +46,6 @@ All Key Protectors
 Om enheten krypterades före registrering i Intune kan återställningsnyckeln ha kopplats till det Microsoft-konto (MSA) som används för att logga in på enheten under OOBE-processen. Om så är fallet bör åtkomst till och inloggning med det MSA-programmet visa de enheter  https://onedrive.live.com/recoverykey som återställningsnycklar lagrades för.
  
 Om enheten krypterades på grund av konfiguration genom domänbaserad grupprincip kan återställningsinformationen lagras på den lokala distributionen av Active Directory.
- 
+
+Om du har konfigurerat Slutpunktsskyddsprincip att lagra återställningsnyckeln i Azure Active Directory men nyckeln för en viss enhet inte har laddats upp kan du utlösa överföringen genom att rotera återställningsnyckeln för enheten från MEM-konsolen. Mer information finns i [Rotera BitLocker-återställningsnycklar.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
 
