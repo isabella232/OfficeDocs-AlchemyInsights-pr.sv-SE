@@ -1,5 +1,5 @@
 ---
-title: Problem när du installerar Exchange Server uppdateringar
+title: Problem vid installation av Exchange Server-uppdateringar
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: 04daad34d1097da0039ac63a13f793a550b68414
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50696305"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645185"
 ---
-# <a name="issues-when-installing-exchange-server-updates"></a>Problem när du installerar Exchange Server uppdateringar
+# <a name="issues-when-installing-exchange-server-updates"></a>Problem vid installation av Exchange Server-uppdateringar
 
-Innan du Exchange Server uppdateringar läser du avsnittet "Metodtips" i artikeln Uppgradera Exchange till [den senaste kumulativa uppdateringen.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Det är särskilt viktigt att installera uppdateringar med cmd-kommandotolken (om inte uppdateringar installeras via Microsoft Update). Det här gäller både kumulativa uppdateringar och säkerhetsuppdateringar!
+Om du behöver uppdatera till den senaste kumulativa uppdateringen (CU) för Exchange Server kan du använda för att få en detaljerad uppsättning steg för uppdatering från den aktuella cu till [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) mål-CU.
 
-Om du får felmeddelanden när du installerar säkerhetsuppdateringar eller efter att uppdateringen har installerats läser du den [här artikeln om felsökning av misslyckade installationer.](https://aka.ms/exupdatefaq)
+Om det uppstår fel under eller efter installationen av Exchange Server-uppdateringar läser du avsnittet "Metodtips" i artikeln Uppgradera Exchange till den senaste [kumulativa uppdateringen.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Det är mycket viktigt att installera säkerhetsuppdateringar med cmd-kommandotolken (om uppdateringar inte installeras via Microsoft Update).
+
+Om du får felmeddelanden när du installerar säkerhetsuppdateringar eller när uppdateringen har installerats kan du gå till Reparera misslyckade installationer av [kumulativa Exchange- och säkerhetsuppdateringar.](https://aka.ms/exupdatefaq)
