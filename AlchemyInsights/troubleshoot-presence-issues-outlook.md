@@ -1,0 +1,13 @@
+---
+<span data-ttu-id="bbde5-101">rubrik: "Felsök närvaroproblem i Outlook" ms.author: pebaum-författare: pebaum manager: scotv ms.date: 2021-04-08 ms.audience: Admin ms.topic: article ms.service: o365-administration ROBOTS: NOINDEX, NOFOLLOW localization_priority: Priority ms.collection: Adm_O365 ms.custom: (</span><span class="sxs-lookup"><span data-stu-id="bbde5-101">title: "Troubleshoot presence issues in Outlook" ms.author: pebaum author: pebaum manager: scotv ms.date: 04/8/2021 ms.audience: Admin ms.topic: article ms.service: o365-administration ROBOTS: NOINDEX, NOFOLLOW localization_priority: Priority ms.collection: Adm_O365 ms.custom: (</span></span>
+- <span data-ttu-id="bbde5-102">9257</span><span class="sxs-lookup"><span data-stu-id="bbde5-102">9257</span></span>
+- <span data-ttu-id="bbde5-103">9003349</span><span class="sxs-lookup"><span data-stu-id="bbde5-103">9003349</span></span>
+---
+
+# <a name="troubleshoot-presence-issues-in-outlook"></a><span data-ttu-id="bbde5-104">Felsöka närvaroproblem i Outlook</span><span class="sxs-lookup"><span data-stu-id="bbde5-104">Troubleshoot presence issues in Outlook</span></span>
+
+<span data-ttu-id="bbde5-105">Du diagnostiserar och korrigerar problem med närvarostatus för en användare i Outlook genom att ladda ned och köra Microsofts > [närvaroscenario i Teams.](https://aka.ms/SaRA-TeamsPresenceScenario)</span><span class="sxs-lookup"><span data-stu-id="bbde5-105">To diagnose and correct issues with the presence status for a user in Outlook, download and run Microsoft Support and Recovery Assistant > [Teams Presence Scenario](https://aka.ms/SaRA-TeamsPresenceScenario).</span></span>
+
+<span data-ttu-id="bbde5-106">Om du vill felsöka ett problem med närvaro i Outlook manuellt följer du anvisningarna i [Problem med användarnärvarostatus i Outlook.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)</span><span class="sxs-lookup"><span data-stu-id="bbde5-106">To manually troubleshoot an issue with presence in Outlook, follow the steps in [User presence status issues in Outlook](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook).</span></span>
+
+<span data-ttu-id="bbde5-107">Om närvarostatusen inte uppdateras i Teams kan du se [Din faktiska närvarostatus visas inte i Teams.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)</span><span class="sxs-lookup"><span data-stu-id="bbde5-107">If the presence status is not updating in Teams, see [Your actual presence status isn't reflected in Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status).</span></span>

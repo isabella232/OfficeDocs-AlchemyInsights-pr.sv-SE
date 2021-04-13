@@ -1,5 +1,5 @@
 ---
-title: 'CSS: regel för djupa länkar i PSTN-pelaren'
+title: 'CSS: PSTN Pillar Deep Link Rule'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2555"
 - "9000675"
-ms.openlocfilehash: 60f35221fdc915a2a6c349de398d765ee69ebfa7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e796094e8ca47b13a238a2523675530f92bbf7d1
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746237"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692448"
 ---
-# <a name="pstn-calling-with-microsoft-teams"></a><span data-ttu-id="72485-102">PSTN-samtal med Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="72485-102">PSTN Calling with Microsoft Teams</span></span>
+# <a name="pstn-calling-with-microsoft-teams"></a><span data-ttu-id="1251a-102">PSTN-samtal med Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="1251a-102">PSTN Calling with Microsoft Teams</span></span>
 
-<span data-ttu-id="72485-103">Mer information om telefon system och PSTN-samtal i Microsoft Teams finns i [Vad är telefon system i microsoft 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)</span><span class="sxs-lookup"><span data-stu-id="72485-103">To learn more about Phone System and PSTN calling in Microsoft Teams, see [What is Phone System in Microsoft 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)</span></span>
+<span data-ttu-id="1251a-103">Mer information om telefon- och PSTN-samtal i Microsoft Teams finns i [Vad är Microsoft Teams-telefon i Microsoft 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)</span><span class="sxs-lookup"><span data-stu-id="1251a-103">To learn more about Microsoft Teams Phone and PSTN calling in Microsoft Teams, see [What is Microsoft Teams Phone in Microsoft 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)</span></span>
