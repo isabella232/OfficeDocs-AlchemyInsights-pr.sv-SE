@@ -1,27 +1,26 @@
 ---
-title: Ny användare av Microsoft Teams
+title: Konfigurera Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 48f26a50c7819dd225d9e9eed28f59db42236faf
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 721858ca63d9477c234612de8306d3b20654d232
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509163"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786219"
 ---
-# <a name="new-to-microsoft-teams"></a>Ny användare av Microsoft Teams
+# <a name="set-up-microsoft-teams"></a>Konfigurera Microsoft Teams
 
-Se  [Komma igång med Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start). Vi rekommenderar att du tar en titt på träningsvideor, -kortlekar och mycket mer för Microsoft Teams IT-administratörer.
+[Konfigurationsguiden för Microsoft Teams](https://aka.ms/teamsguidance) ger organisationen vägledning för att konfigurera arbetsytor för team som erbjuder konversationer i realtid via meddelanden, samtal och ljud- eller videomöten för både team och privat kommunikation. Du får instruktioner för att fastställa organisationens nätverkskrav med hjälp av verktyget Nätverksplanering och Teams-rådgivaren i administrationscentret för Teams. När distributionen är klar innehåller guiden användbara resurser för att komma igång med användningen av Teams.
 
-Om du behöver hjälp med att distribuera Teams för att stödja distansarbete(WFH) på grund av COVID-19 kan du granska [Stödja fjärrarbetarna med Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). Du kan också vara berättigad till distributionsassistans från Microsoft 365 FastTrack-programmet. besök [Center för FastTrack](https://www.microsoft.com/fasttrack) för att skicka en begäran.
-
-**Viktigt**: På grund av den nyliga ökningen av Teams-användningen kan det ta cirka 24 timmar innan en användare är helt aktiverad efter det att du tilldelat en Teams-licens. Du kan inte tilldela Teams-principer till dem och de kanske inte har tillgång till vissa Teams-funktioner som samtal och ljudkonferenser förrän de aktiverats helt.
+För mer information kan du gå till [Komma igång med Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).

@@ -2,7 +2,7 @@
 title: Förstå din faktura
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,69 +12,69 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 83d19b73f46a3634d67b7223f01aee8c036bec95
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: 58f775b89e574b03ad8d927c0952ad1c1d66243d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808393"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782709"
 ---
-# <a name="understand-billing-amount"></a>Förstå fakturerings belopp
+# <a name="understand-billing-amount"></a>Förstå faktureringsbeloppet
 
-Skype-kostnads fritt-konto inkluderar $200 av Azure-kredit (som ska användas inom de första 30 dagarna av registrering) och 12 månaders samtal med utvalda gratis tjänster (kan komma att ändras)
+Erbjudande om ett kostnadsfritt Azure-konto inkluderar 200 USD av Azure-krediter (ska användas inom de första 30 dagarna av registrering) och 12 månaders val av kostnadsfria tjänster (kan komma att ändras)
 
-Detta erbjudande är begränsat till en registrering per berättigad kund och kan inte kombineras med något annat erbjudande om inte annat tillåts av Microsoft
+Det här erbjudandet är begränsat till en registrering per berättigad kund och kan inte kombineras med något annat erbjudande om inget annat tillåts av Microsoft
 
-Inom 30 dagar efter att du har registrerat dig eller på grund av kundens kredit (beroende på vilket som inträffar först), måste kunden uppgradera till ett konto betala allt eftersom du tar bort utgifts gränsen. Detta möjliggör fortsatt användning av Azure-kontot gratis för de återstående 11 månaderna. Efter att kunden har uppgraderats debiteras det för användning utanför de inledande kreditarna och välj gratis service på betala allt eftersom-priser. Om kunden väljer att inte uppgradera kommer det kostnads fria kontot att avaktiveras.
+Inom 30 dagar efter registrering eller när kundens krediter är slut (beroende på vilket som inträffar först) måste kunden uppgradera till ett konto med Betalning allteftersom genom att ta bort utgiftsgränsen. Detta möjliggör fortsatt användning av ett kostnadsfritt Azure-konto under de återstående 11 månaderna. När kunden har uppgraderat kommer användningen utanför de inledande krediterna och utvalda kostnadsfria tjänster att faktureras med Betalning allteftersom. Om kunden väljer att inte uppgradera inaktiveras prenumerationen för det kostnadsfria konto.
 
-Läs mer: [tillgängliga produkter gratis under Azure-kostnads fritt-konto](https://azure.microsoft.com/free/free-account-faq/)
+Läs mer: [Produkter tillgängliga varje månad utan kostnad under ett kostnadsfritt Azure-konto](https://azure.microsoft.com/free/free-account-faq/)
 
-**Återaktivera abonnemanget inaktiverat efter 30 dagar**
+**Återaktivera prenumeration inaktiverad efter 30 dagar**
 
-- När du har aktiverat och konverterat den kostnads fria utvärderings versionen till PAYG kostnads fria tjänster ska du börja från den tidpunkt då prenumerationen är aktive rad. Om du däremot konverterar ett Azure-kostnads fritt konto till X-samtal (annat än PAYG) av misstag fortsätter du ändå att få fördelarna.
+- När du har återaktiverat och omvandlat din kostnadsfria utvärderingsprenumeration till tjänsterna som ingår i PAYG bör det börja när prenumerationen aktiveras. Dessutom, om du konverterar ditt kostnadsfria Azure-konto till X-erbjudandet (annat än PAYG) av misstag får du fortfarande dessa fördelar.
 
-Lära sig mer: 
-- [Återaktivera ett abonnemang](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
+Läs mer: 
+- [Återaktivera en prenumeration](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Avbryta en Azure-prenumeration](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Oväntade avgifter till kontot**
 
-- Om du ser oväntade avgifter på ditt konto kan du hämta dina användnings data och kontrol lera om du har oönskade tjänster eller resurser som körs
-- Läs mer: [Ladda ned Azure användnings data](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#download-usage)
+- Om du ser oväntade avgifter i ditt konto laddar du ned dina användningsdata och kontrollerar om det finns oönskade tjänster eller resurser som körs
+- Läs mer: [Ladda ned Azure-användningsdata](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#download-usage)
 
 **Vanliga frågor och svar:**
 
-**Betalar jag något när jag är på det kostnads fria Azure-kontot?**
+**Betalar jag något när jag använder det kostnadsfria Azure-kontot?**
 
-Du debiteras bara om du har distribuerat tjänster som inte ingår i det kostnads fria Azure-kontot. Först när du har tagit slut på $200-krediten eller nått den 30-dagars perioden (det som kommer först) kommer du att debiteras för betalnings kostnaderna.
+Du debiteras endast om du använder tjänster som inte ingår i det kostnadsfria Azure-kontot. Endast när du har förbrukat krediten på 200 USD eller når 30-dagarsperioden (vilket som kommer först) börjar du faktureras med Betalning allteftersom.
 
-**Hur många kostnads fria Azure-abonnemang tillåts jag på mitt konto?**  
+**Hur många kostnadsfria Azure-konto prenumerationer får jag använda på mitt konto?**  
 
-Det finns en begränsning på ett abonnemang på Azure gratis per konto.
+Det finns en gräns om ett kostnadsfritt Azure-konto prenumeration per konto.
 
-**Hur fungerar Azure gratis-konto med Enterprise Agreement (EA)-kunder?**  
+**Hur fungerar det kostnadsfria Azure-kontot med EA-kunder (Enterprise Agreement)?**  
 
-Det här priset är inte tillgängligt för kunder med till EA. Men om en kund har ett kostnads fritt konto och sedan konverterar till en EA-nivå senare fortsätter de kostnads fria fördelarna i 12 månader från tiden för det kostnads fria kontot.
+Det här erbjudandet är inte tillgängligt för EA-kunder. Men om en kund har ett kostnadsfritt konto och konverterar till en EA-nivå senare kommer fördelarna med det kostnadsfria kontot att fortsätta i 12 månader från registreringen av det kostnadsfria kontot.
 
-**Kan tjänsterna erbjudas från första $200-krediten?**  
+**Kommer tjänster som erbjuds i den kostnadsfri nivån att använda från de första 200 USD krediterna?**  
 
-Nej. Kunderna får ett fast antal kostnads fria nivå tjänster och en $200-kredit för de första 30 dagarna. Därför kan kunden använda $200-kredit på andra icke-fria nivå tjänster.
+Nej. Kunder får ett fast antal kostnadsfria nivåtjänster och en kredit på 200 USD under de första 30 dagarna. Kunden kan därför använda krediten 200 USD för andra icke-kostnadsfria nivåtjänster.
 
-**Kan jag se mina uppgifter I min sponsring?**
+**Kan jag visa information om min sponsring?**
 
-- Öppna ett privat/inkognitofönster webbläsarfönster (Ctrl + Skift + P i Edge)
-- Navigera till [Azure-sponsring](http://www.microsoftazuresponsorships.com/)
-- Klicka på länken kontrol lera saldot
-- Logga in med din Azure regeringar-konto uppgifter (inloggningar bör använda formatet user.name@xxxx.onmicrosoft.com)
-- Du kommer att omdirigeras till en sida med följande information: start datum, slutdatum, sponsring belopp, använt, återstående saldo
+- Öppna ett privat/inkognito webbläsarfönster (Ctrl + Skift + P i Edge)
+- Gå till [Azure-sponsring](http://www.microsoftazuresponsorships.com/)
+- Klicka på länken Kontrollera ditt saldo
+- Logga in med dina Azure Government sponsrade kontoautentiseringsuppgifter (Inloggningar bör använda user.name@xxxx.onmicrosoft.com formatet)
+- Du dirigeras till en sida som visar följande information: Startdatum, Slutdatum, Sponsringsbelopp, Använt, Återstående saldo
 
-**Hur kan jag bekräfta att gratis tjänster är aktiva eller när de upphör att gälla?**
+**Hur verifierar jag att de kostnadsfria tjänsterna är aktiva eller när de upphör att gälla?**
 
-På sidan Ibiza-portalen> abonnemang > översikt > Bläddra ned till gratis tjänster i 12 månader och klicka på informations ikonen. Då visas datumet när gratis tjänster går **ut: inga** v1-tjänster är en del av de kostnads fria Azure-tjänsterna. För den senaste listan över gratis tjänster, se [vilka produkter som är gratis i 12 månader](http://www.microsoftazuresponsorships.com/)
+I Ibiza-portalen > Prenumeration > Översiktssida > skrolla ned till Kostnadsfria tjänster i 12 månader och klicka på informationsikonen. Då visas datumet när kostnadsfria tjänster upphör att gälla **Obs**: Inga V1-tjänster är en del av de kostnadsfria Azure-tjänsterna som ingår. Den senaste listan med kostnadsfria tjänster finns i [Vilka produkter är gratis i 12 månader](http://www.microsoftazuresponsorships.com/)
 
-Ytterligare vanliga frågor: [vanliga frågor och svar om konto](https://azure.microsoft.com/free/free-account-faq/)
+Flera vanliga frågor och svar: [Kostnadsfritt konto vanliga frågor och svar](https://azure.microsoft.com/free/free-account-faq/)
 
 **Rekommenderade dokument**
 
-- [Villkor gällande Azure gratis-konto](https://azure.microsoft.com/offers/ms-azr-0044p/)
+- [Erbjudandevillkor för kostnadsfritt Azure-konto](https://azure.microsoft.com/offers/ms-azr-0044p/)
 - [Azure-priser](https://azure.microsoft.com/pricing/)
