@@ -2,7 +2,7 @@
 title: Ladda upp en video till Microsoft Stream
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5093"
-ms.openlocfilehash: 95db3ee93cdd615d94facfad9b18ce1fb122e725
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 77a172462eef60c88c45e5ef0b6eb48f3b0af60a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811909"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782493"
 ---
-# <a name="upload-a-video-to-microsoft-stream"></a><span data-ttu-id="f71a2-102">Ladda upp en video till Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="f71a2-102">Upload a video to Microsoft Stream</span></span>
+# <a name="upload-a-video-to-microsoft-stream"></a><span data-ttu-id="f54cb-102">Ladda upp en video till Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="f54cb-102">Upload a video to Microsoft Stream</span></span>
 
-<span data-ttu-id="f71a2-103">Det är enkelt att ladda upp videor med Microsoft Stream och alla kan göra det.</span><span class="sxs-lookup"><span data-stu-id="f71a2-103">Uploading videos with Microsoft Stream is easy and anyone can do it.</span></span>
+<span data-ttu-id="f54cb-103">Det är enkelt att ladda upp videoklipp med Microsoft Stream, och vem som helst kan göra det.</span><span class="sxs-lookup"><span data-stu-id="f54cb-103">Uploading videos with Microsoft Stream is easy and anyone can do it.</span></span>
 
-- [<span data-ttu-id="f71a2-104">Ladda upp en video</span><span class="sxs-lookup"><span data-stu-id="f71a2-104">Upload a video</span></span>](https://docs.microsoft.com/stream/portal-upload-video)
+- [<span data-ttu-id="f54cb-104">Ladda upp en video</span><span class="sxs-lookup"><span data-stu-id="f54cb-104">Upload a video</span></span>](https://docs.microsoft.com/stream/portal-upload-video)

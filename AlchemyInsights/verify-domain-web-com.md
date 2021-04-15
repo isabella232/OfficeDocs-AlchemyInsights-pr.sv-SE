@@ -2,7 +2,7 @@
 title: Verifiera din domän med web.com
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: b3f87de3657ee5060e91abc76ff64a7e5ba7f5ab
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: a6b20db14f752a3a27970af0318934907ff21083
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815767"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770649"
 ---
-# <a name="verify-your-domain-with-webcom"></a><span data-ttu-id="fdcd5-102">Verifiera din domän med web.com</span><span class="sxs-lookup"><span data-stu-id="fdcd5-102">Verify your domain with web.com</span></span>
+# <a name="verify-your-domain-with-webcom"></a><span data-ttu-id="6c7a5-102">Verifiera din domän med web.com</span><span class="sxs-lookup"><span data-stu-id="6c7a5-102">Verify your domain with web.com</span></span>
 
-<span data-ttu-id="fdcd5-103">För att verifiera din domän måste du lägga till en TXT-post i domän registratorn för att verifiera att du äger din domän.</span><span class="sxs-lookup"><span data-stu-id="fdcd5-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="6c7a5-103">Om du vill verifiera domänen måste du lägga till en TXT-post i domänregistratorn för att verifiera att du äger domänen.</span><span class="sxs-lookup"><span data-stu-id="6c7a5-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="fdcd5-104">Följ först [guiden Lägg till domän](https://admin.microsoft.com/Adminportal#/Domains) genom att välja **inställnings** \> **domäner**och sedan **lägga till domän**.</span><span class="sxs-lookup"><span data-stu-id="fdcd5-104">First, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="6c7a5-104">Följ först guiden Lägg [till domän genom att](https://admin.microsoft.com/Adminportal#/Domains) välja **Inställningar** \> **Domäner** och sedan Lägg **till domän.**</span><span class="sxs-lookup"><span data-stu-id="6c7a5-104">First, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="fdcd5-105">Mer information finns i [Skapa DNS-poster på Web.com för Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com) .</span><span class="sxs-lookup"><span data-stu-id="fdcd5-105">See [Create DNS records at web.com for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com) for step-by-step instructions.</span></span>
+<span data-ttu-id="6c7a5-105">Stegvisa [anvisningar finns i Skapa DNS-poster web.com Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com)</span><span class="sxs-lookup"><span data-stu-id="6c7a5-105">See [Create DNS records at web.com for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com) for step-by-step instructions.</span></span>
