@@ -1,24 +1,25 @@
 ---
-title: Meddelandet ”Produkten är inaktiverad” i Office-appar
+title: Meddelande om att produkten har inaktiverats i Microsoft 365-appar
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1906"
-ms.openlocfilehash: d9e036b2b2157b4283992389a1fb741fddc15755
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: ce04d7e30a7c46312d06eb1e2a15e267a93a8494
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43785393"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800556"
 ---
-# <a name="product-deactivated-notice-in-office-apps"></a>Meddelandet ”Produkten är inaktiverad” i Office-appar
+# <a name="product-deactivated-notice-in-microsoft-365-apps"></a>Meddelandet "Produkten är inaktiverad" i Microsoft 365-appar
 
 - Gå till [sidan Tjänststatus](https://docs.microsoft.com/office365/enterprise/view-service-health) för att se om det finns några kända problem med tjänsten.
 
@@ -30,7 +31,7 @@ ms.locfileid: "43785393"
 
 - Kör [aktiveringsfelsökaren](https://aka.ms/SARA-OfficeActivation-Alchemy) och starta om datorn.
 
-- [Återställ aktiveringsstatusen för Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632) på datorn som påverkas.
+- [Återställ aktiveringsstatusen för Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state) på datorn som påverkas.
 
 Detaljerade anvisningar finns i: 
 

@@ -1,8 +1,8 @@
 ---
-title: Dra av äldre eDiscovery-verktyg
+title: Äldre eDiscovery-verktyg
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,44 +12,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 2315c4c651a83f0ecc78c0171f32aba13bc93f8c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 986c78f20e7b8c303c302913d63d817a56ce2896
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727801"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51798567"
 ---
-# <a name="retirement-of-legacy-ediscovery-tools"></a>Dra av äldre eDiscovery-verktyg
+# <a name="retirement-of-legacy-ediscovery-tools"></a>Äldre eDiscovery-verktyg
 
-Som ett resultat av de nya och förbättrade eDiscovery-funktionerna i Microsoft 365 Compliance Center kommer följande eDiscovery-verktyg och cmdlets att dras tillbaka under de kommande månaderna:
+Som ett resultat av de nya och förbättrade eDiscovery-funktionerna i efterlevnadscentret för Microsoft 365 kommer följande äldre eDiscovery-verktyg och -kommando att tas bort under de kommande månaderna:
 
-- Lokal [eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) och [plats undantag](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) i administrations centret för Exchange.
+- [In-Place eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) and [In-Place Holds](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) in the Exchange admin center.
 
-- PowerShell-cmdlets för Exchange Online som stöder lokal eDiscovery och in-Place-undantag. (De här cmdletarna identifieras tillsammans som *-MailboxSearch cmdlets.) Detta inkluderar följande cmdletar:
+- Exchange Online PowerShell-cmdlets som har stöd In-Place eDiscovery och In-Place innehåller. (Dessa cmdlets identifieras gemensamt som cmdlets för *-MailboxSearch.) Det inkluderar följande cmdlets:
 
-    - [New-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
+    - [Ny postlådesökning](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
     - [Start-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
-    - [Stopp-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
+    - [Stop-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
     - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- Cmdleten [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) i Exchange Online PowerShell.
-- Följande åtgärder i Exchange Web Services API:
+- [Cmdlet:en Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) i Exchange Online PowerShell.
+- Följande åtgärder i API:t för Exchange Web Services:
     - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
     - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Avancerad eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Advanced eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
-**Tids linje för tillbakadragning**:
-- Den **1 juli 2020** Du kan inte längre skapa nya sökningar och undantag, men du kan köra, redigera och ta bort befintliga sökningar på egen risk. Microsoft Support stöder inte längre eDiscovery på plats & i UK.
+**Tidslinje för retirement**:
+- **1 juli 2020** Du kan inte längre skapa nya sökningar och innehåller, men du kan köra, redigera och ta bort befintliga sökningar på egen risk. Microsoft Support stöder inte längre eDiscoveryIn-Place och eDiscovery & i EAC.
     
-- Den **1 oktober 2020** In-Place eDiscovery & innehåller funktioner i UK är skrivskyddade, så du kan bara ta bort befintliga sökningar och undantag.
+- **1 oktober 2020** In-Place eDiscovery & Innehåller-funktionen i EAC att placeras i skrivskyddsläge, så du kan bara ta bort befintliga sökningar och inläsningar.
 
-**Mer information finns i**:
+**Mer information finns i:**
 
- - [Migrera bakåtkompatibla sökningar och undantag till Microsoft 365 Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Migrera äldre eDiscovery-sökningar och eDiscovery-sökningar till Efterlevnadscenter för Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
  - [Utfasning av äldre eDiscovery-verktyg](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Vanliga frågor och svar om eDiscovery-och plats undantag](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Vanliga frågor och svar om eDiscovery In-Place eDiscovery In-Place holds](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
