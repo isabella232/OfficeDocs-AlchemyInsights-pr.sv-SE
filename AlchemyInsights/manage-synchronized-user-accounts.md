@@ -1,8 +1,8 @@
 ---
-title: Hantera synkroniserade användar konton
+title: Hantera synkroniserade användarkonton
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
-ms.openlocfilehash: 7566ad9a9591735a704649fd2599c75aef2895b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1fe2857043434fd4b0b5723123b1fae908cd66ee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777837"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51802905"
 ---
-# <a name="manage-synchronized-user-accounts"></a>Hantera synkroniserade användar konton
+# <a name="manage-synchronized-user-accounts"></a>Hantera synkroniserade användarkonton
 
-Vanligt vis använder du administrations centret för Microsoft 365 för att lägga till och ändra användar konton. Men du kan inte använda det om katalog sychronization eller SSO är aktiverade. I stället kan du hantera dina användare med Windows PowerShell enligt beskrivningen i [Konfigurera egenskaper för användar konton med Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ). 
+Vanligtvis använder du administrationscentret för Microsoft 365 för att lägga till och ändra användarkonton. Men du kan inte använda det om katalog sychronisering eller SSO är aktiverat. Hantera istället dina användare med Windows PowerShell enligt beskrivningen i [Konfigurera användarkontoegenskaper med Office 365 PowerShell.](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ) 
   
 
