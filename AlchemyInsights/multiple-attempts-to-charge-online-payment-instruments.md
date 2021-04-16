@@ -1,8 +1,8 @@
 ---
-title: Flera försök att debitera instrumenten för online-betalningar
+title: Flera försök att debitera online-betalningsmedel
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: c0e62b02dec50f3bb4e42c1775e9d04d4c3806d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc8c177c88b3df5846f824d69efa3eb8c112e430
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724669"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792726"
 ---
-# <a name="past-due-account"></a>Har du redan ett konto?
+# <a name="past-due-account"></a>Har du förfallet konto?
 
-En betalning kan nekas av olika anledningar, inklusive om kredit kortet har gått ut. Du kan använda funktionen **Reglera saldo** när som helst för att ändra din kreditkortsinformation och omedelbart skicka betalningen.
+En betalning kan nekas av flera orsaker, bland annat om kreditkortet har upphört att gälla. Du kan använda funktionen **Reglera saldo** när som helst för att ändra din kreditkortsinformation och omedelbart skicka betalningen.
 
-1. I administrations centret går du till **fakturerings > [produkter & tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-Hitta abonnemanget med det utestående saldot. I **fakturerings** avsnittet bredvid **abonnemanget har en förfallen betalning**klickar du på **kvitta saldo** för att betala hela beloppet.
-2. Om du äger kredit kortet kan du ändra utgångs datumet, välja ett annat kort eller [lägga till ett nytt kort](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
-3. Om du inte har kredit kortet kan du välja ett annat kredit kort eller [lägga till ett nytt kort](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
-4. När du är klar med dina uppdateringar klickar du på **Spara**.
+1. I administrationscentret går du till Fakturering **> [produkter & tjänster.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+Hitta prenumerationen med det utestående saldot. I avsnittet **Fakturering** bredvid prenumerationen har en **förfallen betalning** klickar du på **Betalasaldo** för att betala hela utestående saldo.
+2. Om du äger kreditkortet kan du ändra utgångsdatumet, välja ett annat kort eller lägga [till ett nytt kort.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide)
+3. Om du inte äger kreditkortet kan du välja ett annat kreditkort eller lägga [till ett nytt kort.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide)
+4. När du är klar med uppdateringarna klickar du på **Spara.**
 
-**Obs!** när du har gjort en betalning kan du fortfarande se förfallna meddelanden under en kort tids period. Vänta minst **48 timmar** innan du kontaktar supporten.
+**Obs!** När en betalning har gjorts kan det hända att den förfallna aviseringen fortfarande visas under en kort tidsperiod. Vänta i minst **48 timmar innan** du kontaktar supporten.
