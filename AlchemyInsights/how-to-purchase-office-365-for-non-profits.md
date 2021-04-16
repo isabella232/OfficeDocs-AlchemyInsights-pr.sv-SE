@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365 för ej vinst – under granskning
+title: Microsoft 365 för ideella föreningar – granskas under granskning
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: e101cc34f28eee2abeae55e0cb5abc078f78bf41
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e8f12b390240e85742efa441fb09a4ecd6f11c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779756"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810646"
 ---
-# <a name="microsoft-365-for-nonprofits---under-review"></a><span data-ttu-id="dadb8-102">Microsoft 365 för ej vinst – under granskning</span><span class="sxs-lookup"><span data-stu-id="dadb8-102">Microsoft 365 for nonprofits - under review</span></span>
+# <a name="microsoft-365-for-nonprofits---under-review"></a><span data-ttu-id="85e44-102">Microsoft 365 för ideella föreningar – granskas under granskning</span><span class="sxs-lookup"><span data-stu-id="85e44-102">Microsoft 365 for nonprofits - under review</span></span>
 
-<span data-ttu-id="dadb8-103">Din rätt som Microsoft-kvalificerad ideell organisation är **under granskning**.</span><span class="sxs-lookup"><span data-stu-id="dadb8-103">Your eligibility as a Microsoft Qualified Nonprofit Organization is **under review**.</span></span> <span data-ttu-id="dadb8-104">Du kommer att få ett meddelande om du är kvalificerad **48 timmar** efter att du skickade begäran.</span><span class="sxs-lookup"><span data-stu-id="dadb8-104">You can expect to receive a notification on the determination of your eligibility **48 hours** from your time of submission.</span></span> <span data-ttu-id="dadb8-105">Låt det gå minst **48 timmar** för att få meddelandet innan du skapar en tjänstbegäran.</span><span class="sxs-lookup"><span data-stu-id="dadb8-105">Please allow at least **48 hours** to receive this notification before opening a service request.</span></span> 
+<span data-ttu-id="85e44-103">Vi granskar nu om din organisation kvalificerar sig som ideell organisation **enligt** Microsoft.</span><span class="sxs-lookup"><span data-stu-id="85e44-103">Your eligibility as a Microsoft Qualified Nonprofit Organization is **under review**.</span></span> <span data-ttu-id="85e44-104">Du kommer att få ett meddelande om du är kvalificerad **48 timmar** efter att du skickade begäran.</span><span class="sxs-lookup"><span data-stu-id="85e44-104">You can expect to receive a notification on the determination of your eligibility **48 hours** from your time of submission.</span></span> <span data-ttu-id="85e44-105">Låt det gå minst **48 timmar** för att få meddelandet innan du skapar en tjänstbegäran.</span><span class="sxs-lookup"><span data-stu-id="85e44-105">Please allow at least **48 hours** to receive this notification before opening a service request.</span></span> 
 
-<span data-ttu-id="dadb8-106">Mer information finns i [Microsoft 365 för ideella](https://www.microsoft.com/nonprofits/microsoft-365)föreningar.</span><span class="sxs-lookup"><span data-stu-id="dadb8-106">For more info, see [Microsoft 365 for Nonprofits](https://www.microsoft.com/nonprofits/microsoft-365).</span></span> 
+<span data-ttu-id="85e44-106">Mer information finns i [Microsoft 365 för ideella föreningar.](https://www.microsoft.com/nonprofits/microsoft-365)</span><span class="sxs-lookup"><span data-stu-id="85e44-106">For more info, see [Microsoft 365 for Nonprofits](https://www.microsoft.com/nonprofits/microsoft-365).</span></span> 
