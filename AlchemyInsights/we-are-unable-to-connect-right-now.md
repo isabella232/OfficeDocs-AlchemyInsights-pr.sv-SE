@@ -1,8 +1,8 @@
 ---
-title: Aktiverings problem – vi kan inte ansluta just nu
+title: Aktiveringsproblem – det går inte att ansluta just nu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 24fe9910d1715b4f5f7d8d06b1d1344d4b8675bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2dd3c97bb85254215b13ee8a1222941c0492b204
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726001"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806460"
 ---
-# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a><span data-ttu-id="bf0cf-102">Åtgärdar Microsoft 365-apparna "det går inte att ansluta just nu"</span><span class="sxs-lookup"><span data-stu-id="bf0cf-102">Fixing the Microsoft 365 apps "We are unable to connect right now" message</span></span>
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a><span data-ttu-id="d5d00-102">Åtgärda meddelandet "Det går inte att ansluta just nu" i Microsoft 365-programmen</span><span class="sxs-lookup"><span data-stu-id="d5d00-102">Fixing the Microsoft 365 apps "We are unable to connect right now" message</span></span>
 
-<span data-ttu-id="bf0cf-103">Om du får det här meddelandet kan du prova följande:</span><span class="sxs-lookup"><span data-stu-id="bf0cf-103">If you receive this message, try the following:</span></span>
+<span data-ttu-id="d5d00-103">Om du får det här meddelandet kan du prova följande:</span><span class="sxs-lookup"><span data-stu-id="d5d00-103">If you receive this message, try the following:</span></span>
 
-1. <span data-ttu-id="bf0cf-104">Kontrol lera brand vägg, antivirus program och proxyinställningar för att bekräfta att de inte blockerar Internet åtkomst till Microsoft 365-appar.</span><span class="sxs-lookup"><span data-stu-id="bf0cf-104">Check your firewall, antivirus software, and proxy settings to confirm that they are not blocking Internet access to Microsoft 365 apps.</span></span> <span data-ttu-id="bf0cf-105">Se [URL-adresser och IP-adressintervall](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).</span><span class="sxs-lookup"><span data-stu-id="bf0cf-105">See [Microsoft URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).</span></span>
+1. <span data-ttu-id="d5d00-104">Kontrollera brandväggen, antivirusprogrammet och proxyinställningarna för att kontrollera att de inte blockerar Internetåtkomsten till Microsoft 365-appar.</span><span class="sxs-lookup"><span data-stu-id="d5d00-104">Check your firewall, antivirus software, and proxy settings to confirm that they are not blocking Internet access to Microsoft 365 apps.</span></span> <span data-ttu-id="d5d00-105">Se [Microsofts URL:er och IP-adressintervall.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span><span class="sxs-lookup"><span data-stu-id="d5d00-105">See [Microsoft URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).</span></span>
 
-2. <span data-ttu-id="bf0cf-106">Gå till **Start**  >  **Kör**och skriv **Services. msc**.</span><span class="sxs-lookup"><span data-stu-id="bf0cf-106">Go to **Start** > **Run**, and then type **services.msc**.</span></span> <span data-ttu-id="bf0cf-107">Kontrol lera att följande tjänster körs:</span><span class="sxs-lookup"><span data-stu-id="bf0cf-107">Make sure that the following services are all running:</span></span>
-    - <span data-ttu-id="bf0cf-108">Automatisk konfiguration av nätverksanslutna enheter</span><span class="sxs-lookup"><span data-stu-id="bf0cf-108">Network Connected Devices Auto-Setup</span></span>
-    - <span data-ttu-id="bf0cf-109">Tjänsten nätverks lista</span><span class="sxs-lookup"><span data-stu-id="bf0cf-109">Network List Service</span></span>
-    - <span data-ttu-id="bf0cf-110">Nätverks plats medvetenhet</span><span class="sxs-lookup"><span data-stu-id="bf0cf-110">Network Location Awareness</span></span>
-    - <span data-ttu-id="bf0cf-111">Windows-händelseloggen</span><span class="sxs-lookup"><span data-stu-id="bf0cf-111">Windows Event Log</span></span>
+2. <span data-ttu-id="d5d00-106">Gå till **Starta**  >  **kör** och skriv sedan **services.msc.**</span><span class="sxs-lookup"><span data-stu-id="d5d00-106">Go to **Start** > **Run**, and then type **services.msc**.</span></span> <span data-ttu-id="d5d00-107">Kontrollera att följande tjänster körs:</span><span class="sxs-lookup"><span data-stu-id="d5d00-107">Make sure that the following services are all running:</span></span>
+    - <span data-ttu-id="d5d00-108">Nätverk anslutna enheter – automatisk konfiguration</span><span class="sxs-lookup"><span data-stu-id="d5d00-108">Network Connected Devices Auto-Setup</span></span>
+    - <span data-ttu-id="d5d00-109">Nätverkslistetjänst</span><span class="sxs-lookup"><span data-stu-id="d5d00-109">Network List Service</span></span>
+    - <span data-ttu-id="d5d00-110">Information om nätverksplats</span><span class="sxs-lookup"><span data-stu-id="d5d00-110">Network Location Awareness</span></span>
+    - <span data-ttu-id="d5d00-111">Händelselogg i Windows</span><span class="sxs-lookup"><span data-stu-id="d5d00-111">Windows Event Log</span></span>
 
-<span data-ttu-id="bf0cf-112">Om någon av de här tjänsterna inte körs kan du försöka starta den.</span><span class="sxs-lookup"><span data-stu-id="bf0cf-112">If one of these services is not running, try to start it.</span></span> <span data-ttu-id="bf0cf-113">Om du har problem med att starta tjänsten kör du följande kommando genom att öppna en kommando tolk med förhöjda behörigheter:</span><span class="sxs-lookup"><span data-stu-id="bf0cf-113">If you have a problem starting the service, run the following command by opening a command prompt with elevated permissions:</span></span>
+<span data-ttu-id="d5d00-112">Om någon av de här tjänsterna inte körs kan du prova att starta den.</span><span class="sxs-lookup"><span data-stu-id="d5d00-112">If one of these services is not running, try to start it.</span></span> <span data-ttu-id="d5d00-113">Om du har problem med att starta tjänsten kör du följande kommando genom att öppna kommandotolken med förhöjda behörigheter:</span><span class="sxs-lookup"><span data-stu-id="d5d00-113">If you have a problem starting the service, run the following command by opening a command prompt with elevated permissions:</span></span>
 
-<span data-ttu-id="bf0cf-114">**sfc/scannow**</span><span class="sxs-lookup"><span data-stu-id="bf0cf-114">**sfc /scannow**</span></span>
+<span data-ttu-id="d5d00-114">**sfc /scannow**</span><span class="sxs-lookup"><span data-stu-id="d5d00-114">**sfc /scannow**</span></span>
 
-<span data-ttu-id="bf0cf-115">Starta om datorn när det här kommandot är klart.</span><span class="sxs-lookup"><span data-stu-id="bf0cf-115">After this command finishes, restart the computer.</span></span>
+<span data-ttu-id="d5d00-115">Starta om datorn när det här kommandot har avslutats.</span><span class="sxs-lookup"><span data-stu-id="d5d00-115">After this command finishes, restart the computer.</span></span>
 
-<span data-ttu-id="bf0cf-116">Detaljerad information finns i ["det går inte att ansluta till ditt konto. Försök igen senare "visas när du aktiverar Office från Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).</span><span class="sxs-lookup"><span data-stu-id="bf0cf-116">For detailed information, see ["Sorry, we can't connect to your account. Please try again later" error when you activate Office from Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).</span></span>
+<span data-ttu-id="d5d00-116">Detaljerad information finns i ["Det går tyvärr inte att ansluta till ditt konto. Försök igen senare" när du aktiverar Office från Microsoft 365.](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)</span><span class="sxs-lookup"><span data-stu-id="d5d00-116">For detailed information, see ["Sorry, we can't connect to your account. Please try again later" error when you activate Office from Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).</span></span>

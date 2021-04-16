@@ -1,8 +1,8 @@
 ---
-title: När debiteras mitt kredit kort?
+title: När debiteras mitt kreditkort?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: dd0dde092494fbea5a262bfee59725bde9ebeb28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e7b8c8144f7ac042726ceeb537bbf98a296e507d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796414"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806100"
 ---
-# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="4b28e-102">När debiteras mitt kredit kort?</span><span class="sxs-lookup"><span data-stu-id="4b28e-102">When is my credit card charged?</span></span>
+# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="8950d-102">När debiteras mitt kreditkort?</span><span class="sxs-lookup"><span data-stu-id="8950d-102">When is my credit card charged?</span></span>
 
-<span data-ttu-id="4b28e-103">Med ett första inköp kan det ta upp till två dagar innan avgiften blir att betala.</span><span class="sxs-lookup"><span data-stu-id="4b28e-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
+<span data-ttu-id="8950d-103">Med ett inledande köp kan det ta upp till två dagar innan debiteringsavgiften äger rum.</span><span class="sxs-lookup"><span data-stu-id="8950d-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
   
-<span data-ttu-id="4b28e-104">Återkommande avgifter sker inom en dag efter det att den fakturan skapas.</span><span class="sxs-lookup"><span data-stu-id="4b28e-104">Recurring charges happen within one day of the invoice being created.</span></span>
+<span data-ttu-id="8950d-104">Återkommande debiteringar görs inom en dag från det att fakturan skapas.</span><span class="sxs-lookup"><span data-stu-id="8950d-104">Recurring charges happen within one day of the invoice being created.</span></span>
   
-<span data-ttu-id="4b28e-105">Om laddningen Miss lyckas fortsätter systemet att försöka lösa in saldot under de närmaste veckorna.</span><span class="sxs-lookup"><span data-stu-id="4b28e-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="4b28e-106">Du kan uppdatera din betalnings information när som helst för att se till att nästa laddnings försök lyckas.</span><span class="sxs-lookup"><span data-stu-id="4b28e-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="4b28e-107">Mer information finns i [Hantera betalnings metoder](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span><span class="sxs-lookup"><span data-stu-id="4b28e-107">For more information, see [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
+<span data-ttu-id="8950d-105">Om debitering inte fungerar fortsätter systemet att försöka lösa saldot under de kommande veckorna.</span><span class="sxs-lookup"><span data-stu-id="8950d-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="8950d-106">Du kan när som helst uppdatera din betalningsinformation för att försäkra dig om att nästa försök till debitering lyckas.</span><span class="sxs-lookup"><span data-stu-id="8950d-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="8950d-107">Mer information finns i [Hantera betalningsmetoder.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)</span><span class="sxs-lookup"><span data-stu-id="8950d-107">For more information, see [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
