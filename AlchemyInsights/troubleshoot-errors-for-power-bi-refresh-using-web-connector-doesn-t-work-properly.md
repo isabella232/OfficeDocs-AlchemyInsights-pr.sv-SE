@@ -1,8 +1,8 @@
 ---
-title: Uppdatering med Web Connector fungerar inte som den ska
+title: Uppdatering med webbkoppling fungerar inte korrekt
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1316"
 - "2500002"
-ms.openlocfilehash: fc7d748b8c3eb8753aeb29997eeb2fabea8c67cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a1e8ef98b72832db05f904ae82f4f8164f1a47
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749784"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809025"
 ---
-# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Uppdatering med Web Connector fungerar inte som den ska
+# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Uppdatering med webbkoppling fungerar inte korrekt
 
-Om du har ett Web Connector-skript som använder funktionen [webb. sida](https://msdn.microsoft.com/library/mt260924.aspx) , och du har uppdaterat din data uppsättning eller rapport efter november 18, 2016, måste du använda en gateway för att uppdatera för att fungera korrekt.
+Om du har ett web connector-skript som använder [Web.Page-funktionen](https://msdn.microsoft.com/library/mt260924.aspx) och du har uppdaterat din datauppsättning eller rapport efter den 18 november 2016 måste du använda en gateway för att uppdateringen ska fungera korrekt.
 
 Mer information: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

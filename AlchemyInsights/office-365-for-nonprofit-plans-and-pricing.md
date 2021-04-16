@@ -1,8 +1,8 @@
 ---
-title: Office 365 för ideella planer och priser
+title: Abonnemang och priser för Office 365 för ideella föreningar
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,19 +14,19 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 120428310815dd90b1fa0e4a32a4ee2f1eccc588
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 683995071a6902276e041e914453df211cf54fd4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803119"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810322"
 ---
-# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 för ideella planer och priser
+# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Abonnemang och priser för Office 365 för ideella föreningar
 
-Kvalificerade icke-vinster kan få Office 365-täckning som en donation eller uppgradering till avancerade funktioner vid en betydande rabatt. För att få en plan för Office 365-vinst måste du hålla [godkänd välgörenhets status](https://go.microsoft.com/fwlink/p/?LinkID=330253) i ditt land och logga Microsofts policy för icke-diskriminering. Microsoft förbehåller sig rätten att kontrol lera berättigande när som helst och för att upphäva tjänsten för icke godkända organisationer.
+Kvalificerade ideella föreningar kan få Office 365 för ideella föreningar som en donation eller uppgradera till mer avancerade funktioner till ett rabatterat pris. För att vara berättigad till ett Office 365-abonnemang för ideella föreningar måste du vara erkänd för välgörenhet i ditt land och skriva under Microsofts policy för att inte vara ideell. [](https://go.microsoft.com/fwlink/p/?LinkID=330253) Microsoft förbehåller sig rätten att när som helst bekräfta berättigandet och att avbryta tjänsten för organisationer som inte är berättigande.
   
-Se [vanliga frågor och svar](https://products.office.com/nonprofit/office-365-nonprofit) om det här anbudet.
+Se Vanliga [frågor och](https://products.office.com/nonprofit/office-365-nonprofit) svar för ytterligare frågor om det här erbjudandet.
   
-- [Granska de ideella planerna](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
+- [Granska abonnemangen för ideella föreningar](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
 
-- [Jämför alla Microsoft 365-abonnemang](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Jämföra alla Microsoft 365-prenumerationer](https://products.office.com/business/compare-more-office-365-for-business-plans)

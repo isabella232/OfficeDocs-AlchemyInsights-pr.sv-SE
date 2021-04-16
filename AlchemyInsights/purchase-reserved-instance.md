@@ -1,8 +1,8 @@
 ---
-title: Köpa reserverad instans
+title: Köp reserverad instans
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,47 +12,47 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6816"
-ms.openlocfilehash: 59b34a323e28c16869a97b10a16091de7b80ad43
-ms.sourcegitcommit: e2bc22150b58db99452a79b33a926e0e66e2a98b
-ms.translationtype: MT
+ms.openlocfilehash: 4e42d4a3d7c3cb3a08264fac768606319ffe0043
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48741385"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809925"
 ---
 # <a name="questions-before-purchase"></a>Frågor innan köp
 
-**Hur tillämpas reservations rabatt på befintliga resurser?**  
-Reservations förmånen gäller automatiskt för befintliga resurser som matchar SKU, region och omfattning. Det finns ingen märkning av en reservation för en resurs. [Läs mer](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
+**Hur tillämpas bokningsrabatt på befintliga resurser?**  
+Bokningsförmånen gäller automatiskt för befintliga resurser som matchar boknings-SKU:n, regionen och omfattningen. Det finns ingen taggning av en bokning till en resurs. [Läs mer](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
 
-**Vilken VM-storlek ska jag köpa?**  
-Läs den här artikeln: [Bestäm rätt VM-storlek innan du köper](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+**Vilken VM-storlek bör jag köpa?**  
+Läs den här artikeln: [Fastställ rätt VM-storlek innan du köper](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
 
-**Frågor om hur man köper reserverad för SQL?**  
-Läs den här artikeln: [köp reserverad SQL-databas](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
+**Har du frågor om hur du köper reserverad SQL-kapacitet?**  
+Läs den här artikeln: [Köp reserverad SQL-kapacitet](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
 
-**Jag har indirekt EA-kund, måste jag ha min partner att köpa?**  
-Nej, du kan köpa en RI om du har en ägare på en EA-prenumeration.
+**Jag är en indirekt EA-kund, behöver jag min partner för att köpa?**  
+Nej, du kan köpa RI:n om du är en ägare av en EA-prenumeration.
 
-**Dras från det monetära åtagandet från RI?**  
-Ja. Om du inte har tillräckligt med det monetära åtagandet får du en överräkning för beloppet som överskrider det tillgängliga penning åtagandet.
+**Drar en RI köp av från ett betalningsåtagande?**  
+Ja. Om du inte har tillräckligt med betalningsåtagande får du en överförbrukningsfaktura för det belopp som överskrider det tillgängliga betalningsåtagandet.
 
-**Hur gäller den reserverade instansen för Windows-VMs eller mina SQL-IP-kostnader?**  
-Reserverad instans rabatt gäller endast för användning. Windows IP-eller SQL IP-kostnader debiteras separat och får inte RI-rabatt. [Program varu kostnader som inte ingår i Azure reserverade VM-instanser](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**Hur tillämpas reserverade instanser på Windows VMs eller på mina SQL IP-kostnader?**  
+Rabatten för reserverade instanser gäller endast för beräkningsanvändningen. Windows IP- eller SQL IP-kostnader debiteras separat och får inte RI rabatten. [Programvarukostnader ingår inte med Azure-reserverade VM-instanser](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
       
-**Fakturering för reserverad instans**  
+**Fakturering för köp av reserverad instans**  
       
-Den reserverade instans köpet debiteras den betalnings metod som du väljer vid inköps tillfället. Abonnemangs typen måste vara ett företags avtal (erbjudande nummer: MS-AZR-0017P), betala allt eftersom (erbjudande nummer: MS-AZR-0003P), Microsoft-kundavtal eller KRYPTOGRAFIPROVIDER.
+Köp av reserverade instansen debiteras den betalningsmetod som är kopplad till den prenumeration som du väljer vid köpet. Prenumerationstypen måste vara ett företagsavtal (erbjudandenummer: MS-AZR-0017P), Betala allteftersom (erbjudandenummer: MS-AZR-0003P), Microsoft-kundavtal eller CSP.
 
--   När det gäller en företags prenumeration dras avgifterna från den monetära åtagande personens pengar och debiteras som överliggande.
--   För att betala allt eftersom-abonnemang debiteras kredit kort eller faktura betalnings metod för abonnemanget.
+-   Avgifter för ett företagsprenumeration betalas från registreringens saldo för betalningsåtaganden eller debiteras som överförbrukning
+-   Vid en Betalning allteftersom prenumerationen debiteras avgifterna till kreditkortet eller fakturabetalningen för prenumerationen
 
-**Köp en tjänste plan:**
+**Köp ett serviceplan:**
 
--   [Förskotts betalning för reserverad Cosmos-kapacitet](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Förskottsbetal för SQL-databas beräknings resurser med reserverad Azure SQL Database-kapacitet](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Förskottsbetala virtuella datorer med Azure reserverade VM-instanser](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Förbetalning för Cosmos DB reserverad kapacitet](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Förbetalning för SQL-databas beräkningsresurser med reserverad kapacitet för Azure SQL-databas](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Förbetalning för Virtuella datorer med Azure-reserverade VM-instanser](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Köp ett program varu abonnemang:**
+**Köp ett programvaruplan:**
 
--   [Förskotts betalning för Red Hat program planering från Azure-reservationer](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Betala för SUSE program varu abonnemang från Azure-reservationer](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Förbetalning för Red Hat-programvaruplaner från Azure-bokningar](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Förbetalning för SUSE-programvaruplaner från Azure-bokningar](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)

@@ -1,8 +1,8 @@
 ---
-title: Kan inte skapa en kompatibilitetskontroll för kompatibilitet
+title: Det går inte att skapa en kompatibilitetsbedömning
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 9843afe5392778993a2197f2ce76761dcf732d4a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a42872d1685782abc86b55674e84ad1ace338c88
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674092"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810358"
 ---
-# <a name="cant-create-a-compatibility-assessment"></a>Kan inte skapa en kompatibilitetskontroll för kompatibilitet
+# <a name="cant-create-a-compatibility-assessment"></a>Det går inte att skapa en kompatibilitetsbedömning
 
-Microsoft Endpoint Configuration Manager har konfigurerat enheten, men skriv bords analys kan inte skapa en kompatibilitetskontroll. Det finns ingen fullständig data uppsättning för enhetens konfiguration (inventering) eller installerade appar (inventering).
+Konfigurationshanteraren för Microsoft Endpoint har konfigurerat enheten men det går inte att skapa en kompatibilitetsbedömning av skrivbordsanalys. Den har inte en fullständig datauppsättning för enhetens konfiguration (statistiska system) eller installerade appar (lager).
 
-Det här problemet åtgärdas ofta när enheten försöker igen. Om det kvarstår kontrollerar du att enheten kan kommunicera med tjänsten. Mer information finns i [slut punkter](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) och [saknade data](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).
+Det här problemet åtgärdas ofta automatiskt när enheten uppdateras. Om den kvarstår kontrollerar du att enheten kan kommunicera med tjänsten. Mer information finns i [Slutpunkter och](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) [saknade data.](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data)

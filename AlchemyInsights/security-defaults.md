@@ -2,7 +2,7 @@
 title: Standardinställningar för säkerhet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: e0136705cb17e69c3b26bbf621ebb10852477eb9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d468335dbe2854bf31ef857866aac597807e0f7b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740348"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809205"
 ---
 # <a name="security-defaults"></a>Standardinställningar för säkerhet
 
-Information om säkerhets inställningar finns i [Vad är säkerhets standarder?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+Mer information om standardinställningar för säkerhet finns i [Vad är standardinställningar för säkerhet?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-Säkerhets standarder i Azure Active Directory (Azure AD) gör det enklare att skydda din organisation. Säkerhets standarder innehåller förkonfigurerade säkerhets inställningar för vanliga angrepp.
+Standardvärden för säkerhet i Azure Active Directory (Azure AD) gör det enklare att vara säker och skydda organisationen. Säkerhetsstandarder innehåller förkonfigurerade säkerhetsinställningar för vanliga attacker.
 
-Microsoft gör säkerhets standarder tillgängliga för alla. Målet är att säkerställa att alla organisationer har grundläggande säkerhet aktiverat utan extra kostnad. Du aktiverar säkerhets inställningar i Azure-portalen.
+Microsoft gör säkerhetsstandarder tillgängliga för alla. Målet är att säkerställa att alla organisationer har en grundläggande säkerhetsnivå aktiverad utan extra kostnad. Du aktiverar säkerhetsstandarder i Azure Portal.

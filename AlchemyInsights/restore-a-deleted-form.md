@@ -1,8 +1,8 @@
 ---
-title: Återställa ett borttaget formulär
+title: Återställa ett borttagna formulär
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: 6923c15c3cce90c98ae79181e978fba273ab6059
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48018accc23a504c34b5469c198d6f29929d25c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662451"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809493"
 ---
-# <a name="restore-a-deleted-form"></a>Återställa ett borttaget formulär
+# <a name="restore-a-deleted-form"></a>Återställa ett borttagna formulär
 
-Om du har tagit bort ett formulär i Microsoft Forms av misstag kan du återställa det. Logga in på Microsoft Forms som ägare till det borttagna formuläret. Välj **pappers korgen**och välj sedan det formulär du vill återställa och välj **Återställ**. När du har återställt väljer du pilen **tillbaka till sidan mina formulär** .
+Om du har tagit bort ett formulär i Microsoft Forms av misstag kan du återställa det. Logga in på Microsoft Forms som ägare av det borttagna formuläret. Välj **Papperskorgen och välj** sedan det formulär du vill återställa och välj **Återställ.** När återställningen är återställd väljer **du sidpilen Tillbaka till sidan** Formulär.
 
-Endast ägaren till formuläret kan återställa det. Om formulär ägarens konto är inaktiverat eller borttaget från klient organisationen kan bara den globala administratören återskapa formuläret. Den globala administratören måste ha en forms-licens för att kunna utföra en återställning. Endast formulär som har skapats inom 30 dagar efter att det användar konto som du har inaktiverats eller tagits bort från klient organisationen kan återställas.
+Endast ägaren av formuläret kan återställa det. Om formulärägarens konto har inaktiverats eller tagits bort från klientorganisationen kan bara den globala administratören återställa formuläret. Den globala administratören måste ha en Forms-licens för att kunna återställa. Endast formulär som skapats inom 30 dagar efter att användarkontot inaktiverats eller tagits bort från klientorganisationen kan återställas.
 
-Om du är global administratör för klient organisationen och vill återställa ett formulär från ett konto som har tagits bort eller inaktive ras ersätter du [e-postadress] med e-postadressen för den borttagna eller inaktiverade användaren i följande URL: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner= [e-postadress]** om din e-postadress är **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** johndoe@contoso.com: 
+Om du är global administratör för klientorganisationen och du vill återställa ett formulär från ett konto som har tagits bort eller inaktiverats ersätter du [e-postadress] med e-postadressen för den borttagna eller inaktiverade användaren i följande URL: **https://forms.office.com/Pages/delegatepage.aspx?originalowner= [e-postadress]** Om din e-postadress till exempel är johndoe@contoso.com, skulle URL:en vara: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
 
-När du har till gång till användarens borttagna formulär markerar du formuläret som du vill flytta och väljer sedan **fler formulär åtgärder**  >  **Move**.
+När du har åtkomst till användarens borttagna formulär markerar du det formulär som du vill flytta och väljer sedan **Fler formuläråtgärder**  >  **Flytta.**
 
-Om du vill återställa ett formulär där det tagits bort och användaren har tagits bort från organisationen kan en global administratör välja att återställa användaren, återställa lösen ordet för den användaren och sedan när du är inloggad som användaren kan använda formuläret för att flytta det till en annan aktiv användare. 
+Om du vill återställa ett formulär där det togs bort och användaren togs bort från organisationen kan en global administratör välja att återställa användaren, återställa lösenordet för användaren och sedan logga in som användare för att flytta det till en annan aktiv användare. 

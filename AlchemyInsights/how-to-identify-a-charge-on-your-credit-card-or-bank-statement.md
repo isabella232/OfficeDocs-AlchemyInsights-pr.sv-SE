@@ -1,8 +1,8 @@
 ---
-title: Så här identifierar du en avgift på kredit korts-eller bank konto utdrag
+title: Identifiera en debitering på kreditkorts- eller bankkontoutdraget
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,17 +15,17 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: b856c0ca1f02780d0828dc714a25273ed99569f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8bafbb57aae358df04332a6c5a6d00ce523c810
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780149"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810862"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Så här identifierar du en avgift på kredit korts-eller bank konto utdrag
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Identifiera en debitering på kreditkorts- eller bankkontoutdraget
 
-Kostnads beskrivningen för en Microsoft 365-prenumeration ser ut så här:
+Beskrivningen av en debitering för en Microsoft 365-prenumeration ser ut så här:
   
-MSFT \* E012345ABC 0000 – MSBILL.info, WA
+MSFT \* E012345ABC 0000 – MSBILL.INFO, WA
   
-Den 10 tecken långa alpha-numeriska strängen efter MSFT \* är det faktura nummer som avgiften är kopplad till. Om du vill hitta fakturan går du till sidan **fakturering** \> [&-betalningar](https://go.microsoft.com/fwlink/p/?linkid=848039) för att visa dina senaste fakturor. Faktura numret är nära det högra hörnet i faktura dokumentet.
+Den alfanumeriska strängen med 10 tecken som kommer efter MSFT är fakturanumret för \* debiteringsnumret. Du hittar fakturan genom  att gå till sidan \> [Faktureringsfakturor & för](https://go.microsoft.com/fwlink/p/?linkid=848039) att visa dina senaste fakturor. Fakturanumret finns nära det högra hörnet i fakturadokumentet.

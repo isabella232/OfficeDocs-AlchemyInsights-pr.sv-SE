@@ -1,8 +1,8 @@
 ---
-title: Återställ eller ändra lösen ord
+title: Återställa eller ändra lösenord
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692169"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810214"
 ---
-# <a name="reset-or-change-passwords"></a>Återställ eller ändra lösen ord
+# <a name="reset-or-change-passwords"></a>Återställa eller ändra lösenord
 
-En användare kan ändra sitt eget lösen ord **My account**från  >  [säkerhets & integritet](https://portal.office.com/account/#security)för mitt konto.
+En användare kan ändra sitt eget lösenord från **Mitt konto säkerhet**&  >  [sekretess.](https://portal.office.com/account/#security)
   
-Om användaren har glömt sitt lösen ord kan administratören återställa lösen ordet genom att gå till **användarna**  >  [aktiva användare](https://portal.office.com/adminportal/home#/users), välja användare och klicka på **Återställ lösen ord**.
+Om användaren har glömt sitt lösenord kan en administratör återställa lösenordet genom att gå till Användare aktiva användare , välja användare  >  [](https://portal.office.com/adminportal/home#/users)och klicka på **Återställ lösenord.**
   
-[Klicka här för mer information](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)eller för att låta användare återställa sina egna lösen ord.
+[Klicka här om du vill veta mer,](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)eller låt användarna återställa sina egna bortglömda lösenord.
