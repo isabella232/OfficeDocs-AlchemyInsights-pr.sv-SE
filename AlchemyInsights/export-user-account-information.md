@@ -1,8 +1,8 @@
 ---
-title: Exportera användar konto information
+title: Exportera information om användarkonton
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: 0a1978610d1293cd1de3bae114594cb5ef7865e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c50f10adb47827428002db36371a7c2370b201f9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708881"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813382"
 ---
-# <a name="export-user-account-information"></a>Exportera användar konto information
+# <a name="export-user-account-information"></a>Exportera information om användarkonton
 
-Om du vill exportera användar konto information i administrations centret för Microsoft 365, inklusive information om licenser, lösen ords princip, blockerade konton, status för AAD-synkronisering och mer, går du till sidan **användare**  >  [aktiva användare](https://go.microsoft.com/fwlink/p/?linkid=834822) och väljer **exportera användare**.
+Om du vill exportera information om användarkonton i administrationscentret för Microsoft 365, inklusive information om licenser, lösenordsprincip, blockerade konton, AAD-synkroniseringsstatus med mera, går du till sidan Användare aktiva användare och väljer  >  [](https://go.microsoft.com/fwlink/p/?linkid=834822) **exportera användare.**
