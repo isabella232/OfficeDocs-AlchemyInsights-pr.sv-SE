@@ -1,8 +1,8 @@
 ---
-title: Skapa ett annat konto som administratör
+title: Göra ett annat konto till administratör
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: b6de4097a23e18ac84f6afd5c9d2b3c4ff7bb856
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2f1ff8eb23a58fab0cbc3db557c92feab8c45a95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794712"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795030"
 ---
-# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Ändra ett standard användar konto till en administratör i Windows 10
+# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Ändra ett standardanvändarkonto till en administratör i Windows 10
 
-Så här ändrar du ett standard användar konto till en administratör i Windows 10:
+Så här ändrar du ett vanligt användarkonto till en administratör i Windows 10:
 
-1. Gå till **Start**  >  **Inställningar**  >  **konto**  >  **familjen & andra personer** (om **Other people**du använder Windows 10 Enterprise).
-2. Välj det konto som du vill skapa en administratör för och välj sedan **Ändra konto**.
-3. Under **Kontotyp**väljer du **administratör**och sedan **OK**.
+1. Gå till **Starta**  >  **kontofamilj** för & (eller Andra personer om  >    >   du använder Windows 10 Enterprise). 
+2. Välj det konto som du vill göra till administratör och välj **Ändra konto**.
+3. Under **Kontotyp** väljer du **Administratör** och sedan **OK.**
 
-**Obs!** Du kan bara ändra konton till en administratör från ett befintligt administratörs konto.
+**Obs!** Du kan bara ändra konton till en administratör från ett befintligt administratörskonto.
