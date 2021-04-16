@@ -1,8 +1,8 @@
 ---
-title: Hybrid-och mellanliggande sökning
+title: Hybridsökning och federerad sökning
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 43071a3166735d61ca8cd8ae5ce74aa018ed9d15
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f6e19baf0701c1feafa218773af7f0dcce5eaaa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743938"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795894"
 ---
-# <a name="hybrid-and-federated-searches"></a><span data-ttu-id="93f81-102">Hybrid-och mellanliggande sökningar</span><span class="sxs-lookup"><span data-stu-id="93f81-102">Hybrid and federated searches</span></span> 
+# <a name="hybrid-and-federated-searches"></a><span data-ttu-id="5da9b-102">Hybridsökningar och federerade sökningar</span><span class="sxs-lookup"><span data-stu-id="5da9b-102">Hybrid and federated searches</span></span> 
 
-<span data-ttu-id="93f81-103">Information om hybrid-och federerad sökning i SharePoint Online finns i [hybrid sökning i SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span><span class="sxs-lookup"><span data-stu-id="93f81-103">For information about hybrid and Federated Search in SharePoint Online, see [Hybrid search in SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span></span>
+<span data-ttu-id="5da9b-103">Mer information om hybridsökning och federerad sökning i SharePoint Online finns [i Hybridsökning i SharePoint.](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)</span><span class="sxs-lookup"><span data-stu-id="5da9b-103">For information about hybrid and Federated Search in SharePoint Online, see [Hybrid search in SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span></span>
 
-<span data-ttu-id="93f81-104">Information om hur du planerar hybrid federerad sökning finns i [Planera hybrid federerad sökning för SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span><span class="sxs-lookup"><span data-stu-id="93f81-104">For information on planning hybrid federated search, see [Plan hybrid federated search for SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span></span>
+<span data-ttu-id="5da9b-104">Information om hur du planerar federerad hybridsökning finns i [Planera federerad hybridsökning för SharePoint Server.](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)</span><span class="sxs-lookup"><span data-stu-id="5da9b-104">For information on planning hybrid federated search, see [Plan hybrid federated search for SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span></span>
