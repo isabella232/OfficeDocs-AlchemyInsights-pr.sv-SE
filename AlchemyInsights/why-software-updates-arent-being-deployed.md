@@ -1,8 +1,8 @@
 ---
-title: Varför program varu uppdateringar distribueras inte?
+title: Varför distribueras inte programvaruuppdateringar?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003773"
 - "6717"
-ms.openlocfilehash: 2e7156f994d27f46cec6dcc3c8680b55ebfe3ec2
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
-ms.translationtype: MT
+ms.openlocfilehash: 8e539260e1d99f18bf9bec32ae244c94aeebddbc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461979"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805704"
 ---
-# <a name="why-software-updates-are-not-being-deployed"></a>Varför program varu uppdateringar distribueras inte?
+# <a name="why-software-updates-are-not-being-deployed"></a>Varför distribueras inte programvaruuppdateringar?
 
-Kontrol lera följande om du har konfigurerat program uppdateringar via en Windows 10 Update-ring men uppdateringarna distribueras inte:  
+Granska följande om du har konfigurerat programuppdateringar via en uppdateringsring i Windows 10 men uppdateringarna distribueras inte:  
 
-- Överväg att ändra Windows-underhåll från en  **halvårs**  beroende typ till en striktare version  
-- Kontrol lera avstängnings perioden för  **kvalitets uppdatering**  och  **funktions uppdatering**. Avstängnings perioden kan leda till fördröjning i uppdateringar för upp till 180 dagar.
+- Överväg att ändra Windows servicing från en  **Halvårskanal**  till en striktare, mer frekvent versionstyp  
+- Kontrollera uppskjutningsperioden för **Kvalitetsuppdatering** och **Funktionsuppdatering**. Den här uppskjutningsperioden kan leda till fördröjningar i uppdateringar i upp till 180 dagar.

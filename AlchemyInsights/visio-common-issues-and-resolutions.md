@@ -2,21 +2,22 @@
 title: Vanliga problem och lösningar för Visio
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 2310ae0d9b719830fc9d0e937909ff988eb9f2bd
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+ms.openlocfilehash: 759991c9e22facbfac54ae686ae7af60faef404a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505217"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806604"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Vanliga problem och lösningar för Visio
 
@@ -24,7 +25,7 @@ Här är några Microsoft Visio-ämnen som ofta tas upp:
 
 **Visio Online-alternativ**
 
-- Visio säljs som ett [fristående program](https://products.office.com/visio/flowchart-software).  Administratörer kan köpa [Visio-prenumerationen](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) från Microsoft 365-administrationscentret.
+- Visio säljs som ett [fristående program](https://products.office.com/visio/flowchart-software).  Administratörer kan köpa en [Prenumeration för Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) från Administrationscenter för Microsoft 365.
 
 - I Visio finns [olika abonnemangsplaner](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options). Om du saknar en funktion i Visio, kan du läsa mer om skillnaderna mellan Visio-abonnemang 1 och Visio-abonnemang 2 i [Jämför Visio-alternativ](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).  Observera att Visio Online abonnemang 1 inte innehåller någon skrivbordsversion av Visio.
 
