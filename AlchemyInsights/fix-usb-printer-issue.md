@@ -1,8 +1,8 @@
 ---
-title: Åtgärda problem med USB-skrivaren
+title: Åtgärda problem med USB-skrivare
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: 042a8e3bb02046f41a5e81653b08058f0e6626b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6da7496ebce0c1d5e7b8c1b6ce6fcdaffd1512d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677513"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812734"
 ---
-# <a name="fix-usb-printer-connection-issues"></a>Åtgärda problem med USB-skrivaranslutningen
+# <a name="fix-usb-printer-connection-issues"></a>Åtgärda problem med USB-skrivaranslutning
 
-Prova de här **fel söknings stegen** för att få USB-skrivaren att fungera igen:
+Prova följande **felsökningssteg för** att få USB-skrivaren att fungera igen:
 
-1. Stäng av och koppla bort USB-kabeln från både datorn och skrivaren.
-2. Kontrol lera sladden för att se till att det inte är skadat.
-3. Anslut sladden till datorn och skrivaren.
+1. Stäng av skrivaren och koppla ur USB-kabeln från både datorn och skrivaren.
+2. Kontrollera att kabeln inte skadas.
+3. Anslut kabeln igen till datorn och skrivaren.
 
-Om det inte fungerar kan du prova att **ta bort och installera om USB-skrivaren**:
+Om det inte fungerar kan du försöka ta **bort och installera om USB-skrivaren:**
 
-1. Ta bort skrivaren i inställningar:
+1. Ta bort skrivaren i Inställningar:
     1. Koppla bort skrivarens USB-kabel från datorn.
-    2. Välj **Start**  >  **Inställningar**  >  **enheter**  >  **skrivare & skannrar**.
-    3. Under **skrivare & skannrar**väljer du den skrivare du felsöker. Välj **ta bort enhet**. Följ instruktionerna för att ta bort skrivaren helt.
-2. Ta bort alla skrivar tillverkare från tredje part:
-    1. Välj **Starta**  >  **Inställningar**  >  **Apps**.
-    2. Under **appar &-funktioner**bläddrar du till valfri program vara som installerats från skrivar tillverkaren (till exempel HP, Canon eller Epson).
-    3. Välj program varan och välj **Avinstallera**.
+    2. Välj   >  **StartInställningar**  >  **Enheter**  >  **Skrivare & skannrar**.
+    3. Under **Skrivare & skannrar** väljer du den skrivare som du felsöker. Välj **Ta bort enhet**. Följ instruktionerna för att ta bort skrivaren helt.
+2. Ta bort programvara från en tredjepartsskrivare:
+    1. Välj **Starta**  >  **inställningar**  >  **Appar**.
+    2. Under **Appar & alla** funktioner bläddrar du tills du hittar programvara som är installerad från skrivarens tillverkare (till exempel HP, Canon eller Canon).
+    3. Välj programvaran och välj **Avinstallera**.
 3. Inaktivera och starta om skrivaren.<br>
-    1. Stäng av skrivaren och koppla ur strömsladden. Vänta i 30 sekunder. Koppla in skrivaren igen.
-    2. Koppla tillbaka skrivarens USB-sladd till datorn. Din dator bör automatiskt registrera att enheten är ansluten.
-4. Försök skriva ut igen.
+    1. Stäng av skrivaren och koppla ur strömsladden. Vänta i 30 sekunder. Anslut skrivaren igen.
+    2. Anslut skrivarens USB-kabel till datorn. Din dator bör automatiskt registrera att enheten var inkopplad.
+4. Försök att skriva ut igen.

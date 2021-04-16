@@ -1,8 +1,8 @@
 ---
-title: Åtgärda visnings språket för appar
+title: Åtgärda visningsspråk för appar
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001477"
 - "3508"
-ms.openlocfilehash: afe98f78654ba84a33f1bc3de0cf97bd22ccdb05
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 55b2ef2b47ce2451133341f7a58d7d3f3e114bfe
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730105"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812878"
 ---
-# <a name="fix-the-display-language-of-apps"></a>Åtgärda visnings språket för appar
+# <a name="fix-the-display-language-of-apps"></a>Åtgärda visningsspråk för appar
 
-När du har ändrat visnings språk i Windows 10 kan vissa appar ändå använda det tidigare språket när du öppnar dem. Det här beror på att nya versioner av programmen för det språket måste hämtas från butiken. För att åtgärda det här problemet kan du antingen vänta på den automatiska uppdateringen, eller så kan du manuellt installera den uppdaterade versionen av apparna.
+När du har ändrat visningsspråk i Windows 10 kan vissa appar fortfarande använda det tidigare språket när du öppnar dem. Det beror på att nya versioner av apparna för det språket måste laddas ned från Store. Du kan åtgärda problemet genom att antingen vänta på den automatiska uppdateringen eller installera den uppdaterade versionen av apparna manuellt.
 
-Om du vill installera uppdateringen manuellt öppnar du **Microsoft Store** och klickar på **nedladdningar och uppdateringar** i det övre högra hörnet. Klicka sedan på **Hämta uppdateringar**. Om språket inte ändras efter uppdateringen kan du prova att starta om datorn.
+Om du vill installera uppdateringen manuellt öppnar du **Microsoft Store** och klickar på Nedladdningar **och uppdateringar** i det övre högra hörnet. Klicka sedan på **Hämta uppdateringar.** Om språket inte ändras efter uppdateringen kan du prova att starta om datorn.
 
 ![Hämta uppdateringar.](media/get-updates.png)
 
-Mer information om inställningar för inmatning och visning av språk finns i [Hantera inställningar för inmatning och visning av språk i Windows 10](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences).
+Mer information om inställningar för inmatnings- och visningsspråk finns [i Hantera inställningar för inmatnings- och visningsspråk i Windows 10.](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences)

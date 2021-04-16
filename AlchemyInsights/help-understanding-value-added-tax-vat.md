@@ -1,8 +1,8 @@
 ---
-title: Hjälp med att förstå mervärdes skatt (moms)
+title: Hjälp med att förstå moms
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: 28f58da6d3454e71af58305eab65ffa49b59d08b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7222f1e9b53504f34f5136c815c1dff8e2d2e7cf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705511"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811654"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>Hjälp med att förstå mervärdes skatt (moms)
+# <a name="help-understanding-value-added-tax-vat"></a>Hjälp med att förstå moms
 
-Om du befinner dig i ett land som använder mervärdes skatt (moms), till exempel Storbritannien, beräknas MOMSen automatiskt och beloppet läggs till på dina fakturor.
+Om du befinner dig i ett land som använder moms, till exempel Storbritannien, beräknar Microsoft Invoicing momsen åt dig och tillämpar beloppet på fakturorna.
   
-Av skatte skäl måste du också ange moms registrerings numret i fakturerings inställningarna.
+Av skatteskäl måste du också ange ditt momsregistreringsnummer i inställningarna för Invoicing.
   
-Du kan inte lägga till eller ta bort moms avgifter, men det går att ändra standard MOMSen i inställningar. Som standard använder fakturering en tjänst för att validera moms registrerings nummer, men vi rekommenderar att du läser [kvartals fri skrivning](https://go.microsoft.com/fwlink/?LinkID=841741) som offentliggjorts av Europeiska kommissionen. Om du väljer att inaktivera tjänsten måste du verifiera alla moms registrerings nummer.
+Du kan inte lägga till eller ta bort momssatser, men du kan ändra standardmomssatsen i inställningarna. Som standard använder Invoicing en tjänst för att verifiera momsregistreringsnummer, men vi rekommenderar att du läser VIES-ansvarsfriskrivningen som publicerats av EU. [](https://go.microsoft.com/fwlink/?LinkID=841741) Om du väljer att inaktivera tjänsten måste du verifiera alla momsregistreringsnummer.

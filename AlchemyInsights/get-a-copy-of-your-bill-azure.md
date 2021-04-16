@@ -1,8 +1,8 @@
 ---
-title: Behöver du en kopia av din faktura eller användning
+title: Behöver en kopia av din faktura eller användning
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,69 +12,69 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 5ec935ddd9e273561886831e60c98ae1a542f9da
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808376"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812440"
 ---
 # <a name="get-a-copy-of-your-bill-or-usage"></a>Få en kopia av din faktura eller användning
 
-**Ladda ned din Azure-faktura (. pdf)**
+**Ladda ned din Azure-faktura (.pdf)**
 
-1. Välj ditt abonnemang på [sidan prenumerationer](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) i Azure Portal som [användare med åtkomst till fakturor](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) och välj **fakturor**
-2. Klicka på **Ladda ner faktura** för att visa en kopia av din PDF-faktura. Om det **inte är tillgängligt** , se [Varför ser jag inte en faktura för den senaste fakturerings perioden?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. Du kan också visa din dagliga användning genom att klicka på fakturerings perioden för att få en PDF-fil och en kopia av den detaljerade dagliga användnings filen (. CSV): [Hämta fakturor och användnings data](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+1. Välj din prenumeration på [sidan Prenumerationer i](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) Azure Portal som användare med åtkomst till fakturor [och](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) välj sedan **Fakturor**
+2. Klicka **på Ladda ned faktura** om du vill visa en kopia av PDF-fakturan. Om det **står Inte tillgänglig** går du till Varför visas inte en faktura för den senaste [faktureringsperioden?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+3. Du kan också visa din dagliga användning genom att klicka på faktureringsperioden För att få en PDF av fakturan och en kopia av din detaljerade fil för daglig användning (. CSV): [Hämta faktura- och användningsdata](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Hämta din faktura via e-post (. pdf)**
+**Få din faktura via e-post (.pdf)**
 
-1. Välj ditt abonnemang på [sidan prenumerationer](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade). Klicka på **fakturor** och **skicka e-post till fakturan**
-2. Klicka på **opt in** och godkänn villkoren. Du måste välja för varje prenumeration du äger. Obs! Om du inte får ett e-postmeddelande när du har åtgärdat anvisningarna kontrollerar du att din e-postadress är korrekt i [kommunikations inställningarna för din profil](https://account.windowsazure.com/profile)
+1. Välj din prenumeration på [sidan Prenumerationer.](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) Klicka på **Fakturor** och skicka **fakturan via e-post**
+2. Klicka **på registrera** dig och godkänn villkoren. Du måste registrera dig för varje prenumeration som du äger. Obs! Om du inte får något e-postmeddelande när du har följt anvisningarna kontrollerar du att din e-postadress är rätt i [kommunikationsinställningarna i din profil](https://account.windowsazure.com/profile)
 3. [Azure-fakturor som skickas direkt till din inkorg](https://azure.microsoft.com/blog/azure-email-invoices/)
 
 **Förstå daglig användning:**  
  [Förstå din faktura för Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Hantera kostnader:** [förhindra oväntade kostnader med Azure fakturering och kostnads hantering](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**Hantera kostnader: Förhindra** [oväntade kostnader med Azure-fakturering och kostnadshantering](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Microsoft Customer Agreement (MCA)** :
+**Microsofts kundavtal (MCA)**:
 
-Lär dig  [hur du kontrollerar åtkomsten till ett Microsoft-kundavtal?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)  
-Om du har ett [Microsoft-kundavtal](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)kan du ladda ned användning i [Azure-portalen](https://portal.azure.com/)
+Läs  [hur du kontrollerar åtkomsten till ett Microsoft-kundavtal?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)  
+Om du har ett [Microsoft-kundavtal](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)kan du ladda ned användningen i [Azure Portal](https://portal.azure.com/)
 
-**Skaffa dina Microsoft-Kundavtals fakturor via e-post** :
+**Få Microsofts kundavtalsfakturor i e-post:**
 
-Om du har ett Microsoft-kundavtal kan du välja att få fakturan i ett e-postmeddelande. Alla fakturerings profil ägare, deltagare, läsare och faktura hanterare får fakturan via e-post. Läsarna kan inte uppdatera inställningar för e-postfaktura
+Om du har ett Microsoft-kundavtal kan du registrera dig för att få din faktura i ett e-postmeddelande. Alla faktureringsprofilägare, deltagare, läsare och fakturahanterare får fakturan via e-post. Läsare kan inte uppdatera inställningen för e-postfaktura
 
-- Sök efter **kostnads hantering + fakturering** . Välj en **fakturerings profil** . Välj **Egenskaper** under Inställningar
-- Under e-postfaktura väljer du **Inställningar för uppdatera e-postfaktura** . Välj Anmäl dig. Klicka på **Uppdatera**
+- Sök på **Kostnadshantering + fakturering**. Välj en **faktureringsprofil**. Under Inställningar väljer du **Egenskaper**
+- Välj Uppdatera inställning för e-postfaktura under **E-postfaktura.** Välj registrera dig. Klicka **på Uppdatera**
 
-**Enterprise Agreement (EA)**
+**Företagsavtal (EA)**
 
-Om du vill visa och hämta användnings data som en EA-kund måste du vara företags administratör, konto ägare eller avdelnings administratör med principen för att Visa avgifter aktive rad.
+Om du vill visa och ladda ned användningsdata som EA-kund måste du vara företagsadministratör, kontoägare eller avdelningsadministratör med principen för debitering aktiverad.
 
-- Logga in på Azure-portalen. Sök efter **kostnads hantering + fakturering** . Välj en fakturerings profil
-- Välj förbrukning + avgifter. Välj Ladda ned för den månad du vill ladda ned
+- Logga in på Azure Portal. Sök på **Kostnadshantering + fakturering**. Välj en faktureringsprofil
+- Välj Användning + avgifter. För den månad du vill ladda ned väljer du Ladda ned
 
-**MOSP Azure-abonnemang**  
-[Ladda ned MOSP Azure-abonnemang](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#download-your-mosp-azure-subscription-invoice)
+**Mosp Azure-prenumeration**  
+[Ladda ned MOSP Azure-prenumerationsfaktura](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#download-your-mosp-azure-subscription-invoice)
 
-**Felsöka: det går inte att Visa faktura för den senaste fakturerings perioden?**
+**Felsök: Kan du inte se fakturan för den senaste faktureringsperioden?**
 
-Det kan bero på att du inte ser en faktura:
+Några möjliga orsaker till att du inte ser en faktura:
 
-- Du har ett månads belopp på ditt abonnemang, eller om du har en gratis prov period. En faktura skapas bara när du är skyldig
-- Det är mindre än 30 dagar från den dag du abonnerar på Azure
-- Fakturan skapas ännu inte. Vänta till slutet av fakturerings perioden
-- Om du inte är konto administratör är det inte säkert att äldre fakturor är tillgängliga för **dig:** Microsoft tillhandahåller inga användnings rapporter eller förbruknings data till Azure CSP-kunder. Användnings data för partner Center är partner-Facing
-- Läs mer om AIO (Azure in Open) fakturering och användning: [Azure in Open](https://azure.microsoft.com/offers/ms-azr-0111p/)
+- Du har ett månatligt kreditbelopp för prenumerationen som du inte har överskridit eller om du har en kostnadsfri utvärderingsversion. En faktura genereras endast när du är skyldig att betala pengar
+- Det är mindre än 30 dagar från det att du prenumererade på Azure
+- Fakturan har inte genererats än. Vänta till slutet av faktureringsperioden
+- Om du inte är kontoadministratör kanske äldre fakturor inte är tillgängliga för dig **Obs!** Microsoft tillhandahåller inga användningsrapporter eller förbrukningsdata till Azure-kunder med Microsoft-moln moln molnlagring. Användningsdata för PartnerCenter används av partner
+- Läs mer om fakturering och användning av AIO (Azure i öppet fönster): [Azure i öppet](https://azure.microsoft.com/offers/ms-azr-0111p/)
 
 **Rekommenderade dokument**
 
-- [Varför kanske du inte ser en faktura?](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-- [Begära/Ladda ner/Visa din fakturerings faktura och dina användnings data för Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Skicka e-post till din inkorg med Azure-fakturor](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Förstå detaljerade användnings avgifter](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support#csv)
-- [Förstå villkoren på fakturan](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Förstå din faktura för Azure-CSP](https://docs.microsoft.com/partner-center/azure-plan-lp?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Varför visas eventuellt inte en faktura?](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+- [Begära/ladda ned/visa din Azure-faktura och användningsdata](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Skicka Azure-fakturor via e-post direkt till din inkorg](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Förstå detaljerade användningsavgifter](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support#csv)
+- [Förstå villkor på din faktura](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Förstå Azure CSP-faktura](https://docs.microsoft.com/partner-center/azure-plan-lp?WT.mc_id=Portal-Microsoft_Azure_Support)

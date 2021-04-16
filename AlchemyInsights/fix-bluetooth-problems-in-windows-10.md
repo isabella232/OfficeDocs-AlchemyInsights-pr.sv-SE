@@ -1,8 +1,8 @@
 ---
-title: Åtgärda problem med Bluetooth i Windows 10
+title: Åtgärda Bluetooth-problem i Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001475"
 - "3506"
-ms.openlocfilehash: 7e7a397a1f6777972a81bcbb6bffa1c98d8370a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f20bf4a642e019c7901e988a027e0220f0f1b07b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730177"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812950"
 ---
-# <a name="fix-bluetooth-problems-in-windows-10"></a>Åtgärda problem med Bluetooth i Windows 10
+# <a name="fix-bluetooth-problems-in-windows-10"></a>Åtgärda Bluetooth-problem i Windows 10
 
-Om Bluetooth-ikonen saknas eller om det inte går att aktivera eller inaktivera Bluetooth kan du köra fel sökaren för Bluetooth. [Öppna fel söknings inställningar](ms-settings:troubleshoot), klicka på **Bluetooth** under **hitta och åtgärda andra problem**klickar **du på kör fel sökaren**.
+Om Bluetooth-ikonen saknas eller om Bluetooth inte kan aktiveras eller inaktiveras kan du köra Bluetooth-felsökaren. [Öppna felsökningsinställningarna](ms-settings:troubleshoot), klicka på **Bluetooth** under **Hitta och åtgärda andra problem** och klicka på Kör **felsökaren.**
 
-Om du inte ser Bluetooth-ikonen men Bluetooth visas i enhets hanteraren:
+Om Bluetooth-ikonen inte visas, men Bluetooth visas i Enhetshanteraren:
 
-1. Klicka på **Bluetooth**i enhets hanteraren. Tryck och håll ned (eller högerklicka på) namnet på Bluetooth-kortet och klicka på **Avinstallera enhet**.
+1. Klicka på Bluetooth i **Enhetshanteraren.** Håll ned (eller högerklicka på) Bluetooth-adapterns namn och klicka på **Avinstallera enhet**.
 
-2. Stäng av Windows-enheten, vänta några sekunder och slå sedan på den igen. Windows försöker installera om driv rutinen.
+2. Stäng av Windows-enheten, vänta några sekunder och aktivera den sedan igen. Windows försöker installera om drivrutinen.
 
-Om du nyligen har installerat uppdateringar för Windows 10 eller uppgraderat till Windows 10 kan det vara bra att söka efter driv rutins uppdateringar:
+Om du nyligen har installerat Windows 10-uppdateringar eller uppgraderat till Windows 10 kanske du vill söka efter drivrutinsuppdateringar:
 
-1. Klicka på **Bluetooth**i enhets hanteraren och klicka sedan på namnet på Bluetooth-kortet (som kan innehålla ordet "Radio").
+1. I Enhetshanteraren klickar du **på Bluetooth** och sedan på namnet på Bluetooth-adaptern (vilket kan inkludera ordet "radio").
 
-2. Håll ned (eller högerklicka) på Bluetooth-kortet och klicka sedan på Uppdatera Sök efter **driv rutin**  >  **automatiskt för uppdaterade driv rutiner**. Följ stegen och klicka sedan på **Stäng**.
+2. Håll ned (eller högerklicka på) Bluetooth-adaptern och klicka sedan på **Uppdatera**  >  **drivrutinssökning automatiskt för uppdaterad drivrutinsprogramvara.** Följ anvisningarna och klicka sedan på **Stäng.**
 
-      - Om Windows inte hittar en ny Bluetooth-drivrutin kan du besöka PC-tillverkarens webbplats och ladda ner den senaste Bluetooth-drivrutinen därifrån.
+      - Om Windows inte kan hitta en ny Bluetooth-drivrutin går du till datortillverkarens webbplats och laddar ned den senaste Bluetooth-drivrutinen därifrån.
 
-    - När du har laddat ner det klickar du på **Uppdatera driv rutin**  >  **Bläddra på datorn efter driv rutiner**  >  **Bläddra** efter den plats där drivrutinsfilerna lagras > **OK**  >  **Nästa**och följer anvisningarna för att installera.
+    - När du har laddat ned den klickar du på Uppdatera drivrutin Bläddra i datorn efter drivrutinsprogramvara Bläddra efter den plats där drivrutinsfilerna lagras > OK Nästa och följ anvisningarna  >    >   för   >  att installera.
 
-3. När du har installerat den uppdaterade driv rutinen startar du om datorn och kontrollerar sedan om det löser anslutnings problemet.
+3. När du har installerat den uppdaterade drivrutinen startar du om datorn och kontrollerar om det löser problemet.
 
-Mer information om hur du felsöker Bluetooth-problem finns i artikeln om att [åtgärda Bluetooth-problem i Windows 10](https://support.microsoft.com/help/14169/windows-10-fix-bluetooth-problems).
+Mer information om hur du felsöker Bluetooth-problem finns i den fullständiga artikeln Åtgärda [Bluetooth-problem i Windows 10.](https://support.microsoft.com/help/14169/windows-10-fix-bluetooth-problems)

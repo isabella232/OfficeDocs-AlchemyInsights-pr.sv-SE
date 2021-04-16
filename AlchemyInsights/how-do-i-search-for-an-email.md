@@ -2,7 +2,7 @@
 title: Hur söker jag efter ett e-postmeddelande?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3054"
 - "9001093"
-ms.openlocfilehash: ca787699c55d377784d269651b19b39b4345acee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 070a264f6af068e09a4d1143b95dabcaf4aeae04
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781697"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811114"
 ---
 # <a name="how-do-i-search-for-an-email"></a>Hur söker jag efter ett e-postmeddelande?
 
-Du kan söka efter ett e-postmeddelande genom att leta upp kontakten som skickade e-postmeddelandet, eller genom att söka efter ett nyckelord i e-postmeddelandet.
+Du kan söka efter ett e-postmeddelande genom att leta upp den kontakt som skickade e-postmeddelandet till dig, eller genom att söka efter ett nyckelord i e-postmeddelandet.
 
-Tryck på förstorings glaset i det nedre navigerings fältet. Skriv sedan Sök förfrågan i rutan högst upp på skärmen. 
+Tryck på förstoringsglaset i det nedre navigeringsfältet. Skriv sedan din sökbegäran i rutan högst upp på skärmen. 
 
-**Tips:** Du kan dubbel tryck på förstorings glaset för att flytta fokus till sökrutan. Resultaten visas när du skriver din begäran. 
+**Tips!** Du kan dubbeltrycka på förstoringsglaset för att fokusera sökrutan. Resultaten visas när du skriver din begäran. 

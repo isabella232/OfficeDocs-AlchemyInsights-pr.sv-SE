@@ -1,8 +1,8 @@
 ---
-title: Hur ställer jag in sändning av Skype-möte
+title: Hur ställer jag in Skype-mötessändning?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: 9dd605c11278a2e9cec79784c31f7868f5936d48
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e85368d8d3e69cd8f2f6d236240c9d65b869053d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781481"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811042"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Går det inte att starta eller ansluta till en Skype-Mötes sändning?
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Kan du inte starta eller ansluta till En Skype-mötessändning?
 
-Om du har problem med att starta eller ansluta till en Skype-Mötes-sändning som en händelse grupp medlem (Mötes Producer) bör du kontrol lera din konfiguration. Skype-Mötes sändning kräver vissa manuella konfigurations steg. Följ stegen i den här artikeln för att kontrol lera att din nätverks-och Skype för företag – Online-Portal är korrekt konfigurerade och att den berörda användaren inte blockeras av en licens för konflikter:
+Om du har problem med att starta eller ansluta till en Skype-mötessändning som en medlem i ett evenemangsteam (mötesförfattare) kontrollerar du konfigurationen. Skype-mötessändning kräver vissa steg för manuell konfiguration. Följ stegen i den här artikeln för att säkerställa att nätverket och Skype för företag – Online-portalen är korrekt konfigurerade och att den aktuella användaren inte blockeras av en licens i konflikt:
 
-[Konfigurera nätverket för sändning av Skype-möte](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
+[Konfigurera nätverket för Skype-mötessändning](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
