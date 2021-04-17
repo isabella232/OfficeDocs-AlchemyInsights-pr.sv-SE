@@ -2,7 +2,7 @@
 title: Lägga till telefonnummer till användare
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002538"
 - "5485"
-ms.openlocfilehash: 7cdd5c6d7e018f06fb7c063c0fea250ed78fd0e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8e8b3a56b25fb7841d4f8d8f84d7d9df766386b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663315"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822041"
 ---
 # <a name="adding-phone-numbers-to-users"></a>Lägga till telefonnummer till användare
 
 I administrationscentret för Microsoft Teams:
 
-1. I det vänstra navigeringsfältet går du till **Röst > telefonnummer**och klickar sedan på **Lägg till**.
+1. I det vänstra navigeringsfältet går du till **Röst > telefonnummer** och klickar sedan på **Lägg till**.
 2. Ange ett namn på ordern och om du vill kan du lägga till en beskrivning.
 3. På sidan **Plats och antal** gör du så här:
     - Välj ett land eller en region under Land eller region.

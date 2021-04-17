@@ -1,8 +1,8 @@
 ---
-title: Metod tips för avancerad jakt frågor
+title: Avancerade metodtips för sökningsfrågor
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: 418408223696a9f9141af46ab57542f7a3927340
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8469e712d68a15f51503081c8bb283713173adde
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696675"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821753"
 ---
-# <a name="advanced-hunting-query-best-practices"></a>Metod tips för avancerad jakt frågor
+# <a name="advanced-hunting-query-best-practices"></a>Avancerade metodtips för sökningsfrågor
 
-Läs mer i artikeln de här rekommendationerna för [frågor](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) och råd om att få detaljerad information om följande:
-- Optimera frågeresultatet.
-- Tips och fall GRO par.
-- Frågor med kommando rader.
+I den fullständiga artikeln Advanced [hunting query best practices](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) finns detaljerade rekommendationer och vägledning om:
+- Optimera frågeprestanda.
+- Frågetips och fallgropar.
+- Frågor med kommandorader.
 
 
