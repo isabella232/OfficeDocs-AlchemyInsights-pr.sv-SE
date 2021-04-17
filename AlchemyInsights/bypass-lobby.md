@@ -1,8 +1,8 @@
 ---
-title: Gå förbi lobbyn
+title: Förbikopplingslobbyn
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 44a930355f1faf8ad747885b72753aaeeb80a6f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb40c6f15e957c0a59911322c3b28f03cd562c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684968"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820052"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Kontrol lera lobbyn och nivå för deltagande i Teams
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Kontrollera lobbyinställningar och nivå för deltagande i Teams
 
-Om du vill tillåta alla, inklusive uppringnings-och externa användare, **kan du använda**PowerShell för att utföra den här åtgärden. Här är ett exempel på hur du ändrar den globala Mötes principen för organisationen.
+Om du vill tillåta att alla, inklusive uppringnings-, externa och anonyma användare, går förbi **lobbyn** kan du använda PowerShell för att utföra den här uppgiften. Här är ett exempel på hur du ändrar den globala mötesprincipen för organisationen.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Denna cmdlet kräver att PowerShell-modulen för Skype för företag används för närvarande. Om du vill konfigurera för att använda denna cmdlet läser du [Hantera principer via PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+För den här cmdleten krävs för närvarande användningen av Skype för företag PowerShell-modulen. Information om hur du kommer igång med att använda denna cmdlet finns i [Hantera principer via PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)
 
-När du har konfigurerat en princip måste du tillämpa den på användarna; Om du har ändrat den globala principen används den automatiskt för användarna. För att principer ska ändras måste du vänta minst **4 timmar upp till 24 timmar** innan principerna börjar gälla. 
+När du har skapat en princip måste du tillämpa den på användarna. Eller, om du ändrade den globala principen, kommer den automatiskt att gälla för användare. För alla principförändringar måste du vänta i minst 4 timmar upp till **24 timmar** för att principerna ska gälla. 
 
-Se till att läsa dokumentationen nedan innan du gör de här ändringarna för att förstå exakt vad det innebär.
+Läs dokumentationen nedan innan du gör ändringarna så att du förstår exakt vad som tillåts.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Förstå Teams kontroller för arbets lag och lobbyn
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Förstå principkontroller för Teams-möten
 
-Dessa inställningar styr vilka Mötes deltagare som väntar i lobbyn innan de tillåts delta i mötet och vilken nivå det deltar i mötet. Du kan använda PowerShell för att uppdatera Mötes princip inställningar som ännu inte har implementerats (med etiketten "kommer snart") i administrations centret för Teams. Se nedan för ett exempel på en PowerShell-cmdlet som tillåter alla användare att gå förbi lobbyn.
+De här inställningarna styr vilka mötesdeltagare som väntar i lobbyn innan de tas emot i mötet och i vilken grad de kan delta i ett möte. Du kan använda PowerShell för att uppdatera inställningar för mötesprinciper som ännu inte har implementerats (märkt "kommer snart") i administrationscentret för Teams. Nedan finns en PowerShell-cmdlet som gör att alla användare kan kringgå lobbyn.
 
-- Att [automatiskt tillåta personer](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) är en princip för varje organisatör som styr om personer ansluter direkt till ett möte eller väntar i lobbyn tills de tillåts av en autentiserad användare.
+- [Automatiskt släppa in personer](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) är en princip för varje organisatör som styr om personer ansluter till ett möte direkt eller vänta i lobbyn tills de tas emot av en autentiserad användare.
 
-- [Tillåt anonyma användare att starta ett möte](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) är en princip för varje organisatör som styr om anonyma personer, inklusive B2B och federerade användare, kan gå med i användarens möten utan en autentiserad användare från organisationen i närvaro.
+- [Tillåt anonyma](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) personer att starta ett möte är en princip per organisatör som styr om anonyma personer, inklusive B2B och externa användare, kan ansluta till användarens möte utan en autentiserad användare från organisationen som är närvarande.
 
-- [Tillåt att uppringda användare kringgår lobbyn](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**kommer snart**) är en regel som styr om personer som ringer via telefon ansluter till mötet direkt eller väntar i lobbyn oavsett vilken inställning som ställs in **automatiskt** .
+- [Tillåt att uppringningsanvändare](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) kringgår lobbyn **(kommer** snart) är en princip per organisatör som styr om personer som  ringer in via telefon ansluts direkt eller väntar i lobbyn oavsett inställningen Tillåt automatiskt personer.
 
-- [Tillåt att organisatörer åsidosätter inställningarna för lobbyn](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**kommer snart**) är en princip för en viss organisatör som styr om mötesorganisatören kan åsidosätta lobbyn-inställningarna som en administratör ställer in **automatiskt** **för att godkänna personer och tillåta att uppringda användare kringgår lobbyn** när de schemalägger ett nytt möte.
+- Tillåt att organisatörer åsidosätter lobbyinställningar (kommer snart) är en princip per organisatör som  styr huruvida mötesorganisatören kan åsidosätta [lobbyinställningarna](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) som en administratör anger i Tillåt automatiskt uppringning att användare kringgår lobbyn när de schemalägger ett nytt möte. 
 
-**Obs!** Läs [Hantera Mötes principer i Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) för en fullständig översikt över Microsoft Teams Mötes principer.
+**Obs!** Läs [Hantera mötes principer i Teams för](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) en fullständig översikt över Mötesprinciper för Microsoft Teams.

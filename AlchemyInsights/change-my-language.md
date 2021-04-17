@@ -1,8 +1,8 @@
 ---
-title: Ändra mitt språk
+title: Ändra språk
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001112"
 - "3073"
-ms.openlocfilehash: 2bb937c2ac2d95680dd1b247765c42ec0247d9f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 87738a913841908e3d0075fb9aa2aacea1db0d70
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682988"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818990"
 ---
-# <a name="change-my-language"></a>Ändra mitt språk
+# <a name="change-my-language"></a>Ändra språk
 
-Outlook-appen översätts automatiskt till det språk enheten är inställd på. 
+Outlook-appen översätts automatiskt till det språk som är inställt på enheten. 
 
 (Se en [lista över språk som stöds i Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).) 
 
-**Så här ändrar du språk på din enhet**: 
+**Så här ändrar du språk på din enhet:** 
 
-**På Android**: 
+**På Android:** 
 
-- Enhets inställningar > språk och inmatning 
+- Enhetsinställningar > språk och inmatning 
 
-**På iOS**: 
+**På iOS:** 
 
-- Enhets inställningar > allmänt > språk & region 
+- Enhetsinställningar > Allmänt > språk & region 

@@ -1,8 +1,8 @@
 ---
-title: Kalender behörigheter
+title: Kalenderbehörigheter
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800009"
 - "611"
-ms.openlocfilehash: cfee520e26587c0a649c08084853c31232d027f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bbd49134bd4a4451649b76bb5f60b19065910cae
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748811"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819926"
 ---
-# <a name="calendar-permissions"></a>Kalender behörigheter
+# <a name="calendar-permissions"></a>Kalenderbehörigheter
 
-Användare kan ändra sina egna kalender behörigheter med Outlook på webben eller andra klienter, men som administratör kan du även behöva undersöka det.  
-Med Exchange PowerShell cmdlet kan du Visa behörigheten för en användares kalender:
+Användare kan ändra sina egna kalenderbehörigheter med Outlook på webben eller andra klienter, men som administratör kan du behöva undersöka också.  
+Med Exchange PowerShell-cmdleten får du behörighet för en användares kalender:
 
 `Get-MailboxFolderPermission <SMTPAddress>:\Calendar | FT -a`
 
-Mer information finns i:
+Mer information finns i följande avsnitt:
 
 - [Get-MailboxFolderPermission](https://docs.microsoft.com/powershell/module/exchange/get-mailboxfolderpermission?view=exchange-ps)
 
@@ -34,9 +34,9 @@ Mer information finns i:
 
 - [Add-MailboxFolderPermission](https://office.visualstudio.com/DefaultCollection/MAX/_queries/query/Add-MailboxFolderPermission)
 
-Kalender behörigheter används för att dela kalendrar, för att få mer information om att dela en Outlook-kalender, se dessa artiklar:
+Kalenderbehörigheter används vid delning av kalendrar. Mer information om hur du delar en Outlook-kalender finns i följande artiklar:
 
 - [Dela en Outlook-kalender med andra](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 - [Dela din kalender i Outlook på webben för företag](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
 
-Om du vill felsöka kalender behörighet kan du använda verktyget för [support och återställning](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f) .
+Om du vill felsöka kalenderbehörighet kan du använda [verktyget Support- och återställningsassistenten.](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f)

@@ -1,8 +1,8 @@
 ---
-title: Ändra Skriv bords bakgrund och färger
+title: Ändra bakgrund och färger för skrivbordet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: 6454493827ada786f057aec6235978522ab25be5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fbc231f9f0e980286346aed0ed78d928cb405cec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793740"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818162"
 ---
-# <a name="change-your-desktop-background-and-colors"></a>Ändra Skriv bords bakgrund och färger
+# <a name="change-your-desktop-background-and-colors"></a>Ändra bakgrund och färger för skrivbordet
 
-Om du vill ändra inställningarna för färger går du till **Start**  >  **Inställningar**  >  **Anpassa**  >  **färger**och väljer sedan en egen färg eller låter Windows dra en accentfärg från bakgrunden.
+Om du vill ändra färginställningen går du till **Startinställningar** Anpassningsfärger och väljer en egen färg eller låter Windows välja en  >    >    >  accentfärg från din bakgrund.
 
-![Anpassa färgerna i Windows.](media/windows-personalization-colors.png)
+![Anpassa dina färger i Windows.](media/windows-personalization-colors.png)
 
-Om du vill ändra Skriv bords bakgrund går du till **Start**  >  **Inställningar**  >  **Anpassa**  >  **bakgrund**och väljer sedan en bild, solid färg eller skapar ett bild spel. 
+Om du vill ändra skrivbordsbakgrunden går du till  >  **Start-inställningar**  >  **Anpassningsbakgrund** och väljer sedan en bild, en färg  >  eller skapar ett bildspel med bilder. 
 
-![Ändra Skriv bords bakgrund i Windows.](media/windows-desktop-background.png)
+![Ändra skrivbordsbakgrunden i Windows.](media/windows-desktop-background.png)
 
-Vill du ha fler bakgrunder och färger? Gå till [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) och välj bland dussin tals gratis teman.
+Vill du ha fler bakgrunder och färger för skrivbordet? Besök [Microsoft Store och](https://www.microsoft.com/store/collections/windowsthemes) välj mellan dussintals kostnadsfria teman.
