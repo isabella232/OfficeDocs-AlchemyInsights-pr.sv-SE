@@ -2,21 +2,22 @@
 title: Uppdatera kontokortsinformation
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2b39c30406924acb3c1b943b81a2719c41b19432
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720083"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830339"
 ---
 # <a name="update-credit-card-information"></a>Uppdatera kontokortsinformation
 
@@ -40,4 +41,4 @@ ms.locfileid: "43720083"
 
 Om du får problem med att läsa in sidan kan du försöka att öppna webbsidan i en annan webbläsare eller öppna sidan i ett privat webbläsarfönster, t. ex. ett InPrivate-fönster i Microsoft Edge eller ett inkognitofönster i Google Chrome. 
 
-Mer information finns i [Lägga till, uppdatera eller ta bort ett kreditkort eller bankkonto i Microsoft 365 för företag](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) och [Felsöka kreditkort och bankkonton](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Mer information finns i [Hantera betalningsmetod](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

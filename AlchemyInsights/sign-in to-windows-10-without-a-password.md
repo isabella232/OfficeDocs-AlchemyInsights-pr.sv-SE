@@ -1,8 +1,8 @@
 ---
-title: Logga in i Windows 10 utan lösen ord
+title: Logga in på Windows 10 utan att använda ett lösenord
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 839b945c457cb007f13605c5b903ded75dadd1d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1c03f00f7b41ea16d3106b19b998edeea6114603
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719971"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830564"
 ---
-# <a name="sign-in-to-windows-10-without-using-a-password"></a>Logga in i Windows 10 utan lösen ord
+# <a name="sign-in-to-windows-10-without-using-a-password"></a>Logga in på Windows 10 utan att använda ett lösenord
 
-För att undvika att behöva ange ett lösen ord när du startar Windows rekommenderar vi att du använder ett av de säkra inloggnings alternativen för Windows Hello, till exempel en PIN-kod, en ansikts igenkänning eller ett finger avtryck, om det är tillgängligt. Om du vill inaktivera säker inloggning kan du läsa anvisningarna "logga in automatiskt på Windows 10" nedan.
+Om du vill undvika att behöva ange ett lösenord vid start av Windows rekommenderar vi att du använder ett av de säkra inloggningsalternativen i Windows Hello, till exempel pin-kod, ansiktsigenkänning eller fingeravtryck, om sådana finns tillgängliga. Om du verkligen vill inaktivera säker inloggning kan du läsa instruktionerna "Logga in automatiskt på Windows 10" nedan.
 
-**Säkra Windows Hello-alternativ till konto lösen ordet**
+**Säkra Windows Hello-alternativ till kontolösenordet**
 
-Gå till **inställningar > konton > inloggnings alternativ** (eller klicka [här](ms-settings:signinoptions?activationSource=GetHelp)). Tillgängliga inloggnings alternativ visas. Ett exempel:
+Gå till **Inställningar > Konton > Inloggningsalternativ (eller** klicka [här](ms-settings:signinoptions?activationSource=GetHelp)). Tillgängliga inloggningsalternativ visas. Till exempel:
 
-![Inloggnings alternativ.](media/sign-in-options.png)
+![Inloggningsalternativ.](media/sign-in-options.png)
 
-Klicka eller tryck på ett av alternativen för att konfigurera det. Nästa gång du startar eller låser upp Windows kan du använda det nya alternativet i stället för ett lösen ord. 
+Konfigurera det genom att klicka eller trycka på något av alternativen. Nästa gång du startar eller låser upp Windows kan du använda det nya alternativet i stället för ett lösenord. 
 
-**Logga in automatiskt i Windows 10**
+**Logga in automatiskt på Windows 10**
 
-**Obs!** automatisk inloggning är bekvämt, men introducerar en säkerhets risk, särskilt om din dator är tillgänglig för flera personer. 
+**Obs!** Automatisk inloggning är praktiskt, men innebär en säkerhetsrisk, särskilt om datorn är tillgänglig för flera personer. 
 
-1. Klicka eller tryck på **Start** -knappen i aktivitets fältet.
+1. Klicka eller tryck på **Start-knappen** i Aktivitetsfältet.
 
-2. Skriv **netplwiz** och tryck på RETUR för att öppna fönstret användar konton.
+2. Skriv **netplwiz** och tryck på Retur för att öppna fönstret Användarkonton.
 
-3. I **användar konton**klickar du på det konto som du vill logga in automatiskt på när Windows startas.
+3. I **Användarkonton** klickar du på det konto som du vill logga in på automatiskt när Windows startar.
 
-4. Avmarkera kryss rutan "användare måste ange användar namn och lösen ord för att använda den här datorn".
+4. Avmarkera kryssrutan "Användare måste ange ett användarnamn och lösenord för att kunna använda den här datorn".
 
-    ![Användare måste ange ett användar namn och lösen ord.](media/users-must-enter-username.png)
+    ![Användarna måste ange ett alternativ för användarnamn och lösenord.](media/users-must-enter-username.png)
 
-5. Klicka på **OK**. Du uppmanas att ange och bekräfta lösen ordet för det konto som du har valt. Klicka på **OK** för att avsluta. Nästa gång Windows 10 startas loggar det automatiskt in på det konto som du har valt.
+5. Klicka på **OK**. Du uppmanas att ange och bekräfta lösenordet för det konto som du valt. Slutför genom att klicka på **OK.** Nästa gång Windows 10 startar loggas det automatiskt in på det konto som du har valt.

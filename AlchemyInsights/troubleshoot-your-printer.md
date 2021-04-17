@@ -2,21 +2,22 @@
 title: Felsöka skrivaren
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: 42125b5103f429c1287400c3c1dc659cfa2067b7
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: 37bc4c1a8f39084e06b6f291c1245fa163e7b638
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034415"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830492"
 ---
 # <a name="troubleshoot-your-printer"></a>Felsöka skrivaren
 
@@ -28,7 +29,7 @@ Prova först **skrivarens energicykel**. Gör så här:
 
 3. Koppla in skrivaren på nytt och slå på skrivaren igen.
 
-Om det inte hjälpte att lösa problemet kan du köra Felsökaren för skrivare genom att gå till **Starta > Inställningar > Uppdateringar och säkerhet > Felsökning**. Klicka på **Skrivare**och klicka sedan på **Kör felsökare**.
+Om det inte hjälpte att lösa problemet kan du köra Felsökaren för skrivare genom att gå till **Starta > Inställningar > Uppdateringar och säkerhet > Felsökning**. Klicka på **Skrivare** och klicka sedan på **Kör felsökare**.
 
 **Om skrivaren är ansluten till datorn via nätverksanslutning** (om du har bråttom kan du kanske få skrivaren att arbeta snabbare med hjälp av en USB-kabel och ansluta skrivaren direkt till datorn):
 
