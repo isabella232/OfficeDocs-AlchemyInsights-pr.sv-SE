@@ -1,8 +1,8 @@
 ---
-title: Kredit förfrågan på grund av ett tjänst avbrott
+title: Kreditbegäran på grund av avbrott i tjänsten
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003020"
 - "5752"
-ms.openlocfilehash: 504df2dd1c09ed2b42d936e974f5993e459a23c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d71712aa863dda10896407acc5a8c5f8c3760ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726865"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826469"
 ---
-# <a name="credit-request-due-to-a-service-outage"></a>Kredit förfrågan på grund av ett tjänst avbrott
+# <a name="credit-request-due-to-a-service-outage"></a>Kreditbegäran på grund av avbrott i tjänsten
 
-För att ansöka om en kredit förfrågan på grund av ett tjänst avbrott, öppna en tjänst förfrågan.
+Om du vill begära kreditbegäran på grund av avbrott i tjänsten öppnar du en servicebegäran.
 
-Se till att du har ett incident-ID som finns på [sidan tjänstens hälsa](https://docs.microsoft.com/office365/enterprise/view-service-health) i administrations centret för Microsoft 365.
+Se till att du har incident-ID: t som finns på sidan [om tjänstens](https://docs.microsoft.com/office365/enterprise/view-service-health) hälsa i administrationscentret för Microsoft 365.
 
-Vi ber om att, eftersom din begäran behandlas, kommer att underkastar sig verifieringar för att ta hänsyn till hur det uppstår.
+När din begäran behandlas genomgår den valideringar för att observera avbrottet.

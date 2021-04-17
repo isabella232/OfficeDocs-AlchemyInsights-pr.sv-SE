@@ -1,8 +1,8 @@
 ---
-title: Stänga ditt Skriv bords Analytics-konto
+title: Så här stänger du ditt konto för skrivbordsanalys
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: 89c6ef78e025657d7b4456bf54f43817ea6bdb6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4fab35e44ab7c08611da89e7e4d798e463356ab1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704732"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825785"
 ---
-# <a name="how-to-close-your-desktop-analytics-account"></a>Stänga ditt Skriv bords Analytics-konto
+# <a name="how-to-close-your-desktop-analytics-account"></a>Så här stänger du ditt konto för skrivbordsanalys
 
-Om du har konfigurerat Skriv bords analys i din miljö och sedan bestämmer dig för att ta bort den kan du använda processen i följande länk:
+Om du har ställt in skrivbordsanalys i din miljö och sedan bestämmer dig för att du måste ta bort den, använder du processen i följande länk:
 
 [Så stänger du ditt konto](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
-Det första steget är att kontakta Microsofts support. Öppna ett support ärende för att stänga ditt Skriv bords Analytics-konto. Fortsätt inte med ytterligare åtgärder tills du får en bekräftelse på att Microsoft har stängt ditt konto.
+Det första steget är att kontakta Microsoft Support. Öppna ett supportfall för att stänga ditt konto för skrivbordsanalys. Fortsätt inte med ytterligare steg förrän du får en bekräftelse på att Microsoft har stängt ditt konto.

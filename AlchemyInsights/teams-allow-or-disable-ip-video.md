@@ -1,8 +1,8 @@
 ---
-title: Teams Tillåt eller inaktivera IP-video
+title: Teams tillåta eller inaktivera IP-video
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002537"
 - "5617"
-ms.openlocfilehash: cf2d67170f846db1d5d2f1ca8c8b50902e200e45
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 059d7a1ad619e25f14bc6f561693b6fe24355132
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670202"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826361"
 ---
-# <a name="teams-allow-or-disable-ip-video"></a>Teams Tillåt eller inaktivera IP-video
+# <a name="teams-allow-or-disable-ip-video"></a>Teams tillåta eller inaktivera IP-video
 
-**Ändra eller skapa en Mötes princip**
+**Ändra eller skapa en mötesprincip**
 
-Om du vill ändra eller skapa en Mötes princip går du till **administrations centret för Microsoft team >-möten > Mötes principer**. Välj en princip från listan eller klicka på **Lägg till**. Om du skapar en ny princip kan du lägga till ett namn och en beskrivning. Namnet får inte innehålla specialtecken eller vara längre än 64 tecken. Välj önskade inställningar och klicka på **OK**.
+Om du vill ändra eller skapa en mötesprincip går du till **administrationscentret** för Microsoft Teams > möten > mötes principer . Välj en princip från listan eller klicka på **Lägg till**. Om du skapar en ny princip kan du lägga till ett namn och en beskrivning. Namnet får inte innehålla specialtecken eller vara längre än 64 tecken. Välj önskade inställningar och klicka på **OK**.
 
-Säg till exempel att du har många användare och vill begränsa hur mycket bandbredd som ska krävas för mötet. Du kan skapa en ny anpassad princip med namnet "Begränsad bandbredd" och inaktivera följande inställningar:
+Säg till exempel att du har många användare och du vill begränsa den mängd bandbredd som skulle krävas för deras möte. Du kan skapa en ny anpassad princip med namnet "Begränsad bandbredd" och inaktivera följande inställningar:
 
 Under **Ljud och video**:
 
@@ -36,8 +36,8 @@ Tilldela sedan principen till användarna.
 
 **Tilldela en mötespolicy till användare**
 
-1. I den vänstra navigeringen i administrationscentret för Microsoft Teams går du till **Användare**och klicka sedan på användaren.
+1. I den vänstra navigeringen i administrationscentret för Microsoft Teams går du till **Användare** och klicka sedan på användaren.
 2. Markera användaren genom att klicka till vänster om användarnamnet och sedan klicka på **Redigera inställningar**.
-3. Under **Mötes princip**väljer du den princip som du vill tilldela och klickar sedan på **Använd**.
+3. Under **Mötesprincip** väljer du den princip du vill tilldela och klickar sedan på **Använd.**
 
-Mer information finns i [Hantera Mötes principer i Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Mer information finns i Hantera [mötesprinciper i Teams.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)

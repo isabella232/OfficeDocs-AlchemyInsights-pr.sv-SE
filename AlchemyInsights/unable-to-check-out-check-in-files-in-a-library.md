@@ -2,7 +2,7 @@
 title: Det går inte att checka ut eller checka in filer i ett bibliotek
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300029"
 - "1688"
-ms.openlocfilehash: 4fbec85abdb2e43dd779a8411706fa3e6bbf8fcf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: 5c92abece3696cde81a3268bd5cbd122fb518667
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50714269"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827846"
 ---
 # <a name="unable-to-check-out-or-check-in-files-in-a-library"></a>Det går inte att checka ut eller checka in filer i ett bibliotek
 
-- Om du har ett obligatoriskt fält i biblioteket och fältet inte fylls i med ett värde gör det att dokumentet är utcheckat tills det fylls i och checkas in.
+- Om du har ett obligatoriskt fält i biblioteket och fältet inte fylls i med ett värde gör det att dokumentet är utcheckat tills det fylls i och sedan checkas in.
 
 - Om du har ett specialtecken i dokumentets rubrik kan det orsaka problem. Ta bort specialtecknet och försök checka in filen.
 
-- Om en användare har checkat ut en fil låses den.  Om det inte finns någon person som har checkat ut filen kan biblioteksägaren checka in filen från Biblioteksinställningar **– > Hantera filer.**
+- Om en användare har checkat ut en fil låses den.  Om det inte finns någon person som har checkat ut filen kan biblioteksägaren checka in filen från Inställningar för bibliotek **-> Hantera filer.**
 
 Här är några användbara länkar om den här funktionen:
 
