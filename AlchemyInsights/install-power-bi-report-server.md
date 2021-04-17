@@ -1,8 +1,8 @@
 ---
-title: Installera Power BI rapport Server
+title: Installera Power BI-rapportserver
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 3ea596547093773ab872ca34e8dd3a4e49e59fd7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8479be2a538228b71033aca3907d3aba2f5e28fb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755113"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832112"
 ---
-# <a name="install-power-bi-report-server"></a>Installera Power BI rapport Server
+# <a name="install-power-bi-report-server"></a>Installera Power BI-rapportserver
 
-1. Hitta PowerBIReportServer.exe och starta installations programmet.
+1. Hitta platsen för PowerBIReportServer.exe och starta installationsprogrammet.
 
-2. Välj **Installera Power BI rapport Server**.
+2. Välj **Installera Power BI Report Server**.
 
-3. Välj en version du vill installera och välj sedan **Nästa**.
+3. Välj en version att installera och välj sedan **Nästa**.
 
-4. Du kan välja antingen utvärdering eller utvecklare i list rutan.  Annars kan du ange en produkt nyckeln för den server som du har erhållit från antingen Power BI-tjänsten eller volym licens tjänst Center. Mer information om hur du hämtar produkt nyckeln finns i avsnittet innan du börjar. Läs och godkänn licens villkoren och välj sedan **Nästa**.
+4. Du kan välja antingen Utvärdering eller Developer Edition i listrutan.  Annars kan du ange en produktnyckel för servern som du har skaffat från antingen Power BI-tjänsten eller Volume License Service Center. Mer information om hur du får en produktnyckel finns i avsnittet Innan du börjar. Läs och godkänn licensvillkoren och välj sedan **Nästa.**
 
-5. Du måste ha en databas motor för att lagra rapport Server databasen. Välj **Nästa** om du endast vill installera rapport servern.
+5. Du måste ha en databasmotorn tillgänglig för att kunna lagra rapportserverdatabasen. Välj **Nästa** för att endast installera rapportservern.
 
-6. Ange installations plats för rapport servern. Välj **Installera** för att fortsätta.
+6. Ange installationsplatsen för rapportservern. Välj **Installera för** att fortsätta.
 
-7. När installationen är klar väljer du **Konfigurera rapport Server** för att starta Konfigurations hanteraren för repor ting Services.
+7. När konfigurationen är lyckad väljer du **Konfigurera rapportserver för** att starta Reporting Services Configuration Manager.
 
-Du behöver inte en SQL Server-databasmotor för installation. Du behöver en för att konfigurera repor ting Services efter installationen.
+Du behöver inte en SQL Server Database Engine-server som är tillgänglig när du installerar. Du behöver en för att konfigurera Reporting Services efter installationen.
 
 Mer information: https://docs.microsoft.com/power-bi/report-server/install-report-server

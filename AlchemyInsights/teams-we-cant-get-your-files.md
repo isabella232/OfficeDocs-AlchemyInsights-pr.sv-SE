@@ -2,7 +2,7 @@
 title: Vi kan inte hämta dina filer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5748"
 - "9003042"
-ms.openlocfilehash: bc7370b4b6f47c9bbf532e23b0439b8204c24b70
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 833f794d079eeed7042362ac440ca85659c30625
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47803873"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833345"
 ---
 # <a name="we-cant-get-your-files"></a>Vi kan inte hämta dina filer
 
-Användarna kan se det här felet om de inte är medlemmar i gruppen. Lägg till användaren i gruppen så att de får åtkomst till grupp webbplatsen.
+Användarna kan se det här felet om de inte är medlemmar i teamet. Lägg till användaren i gruppen för att ge dem åtkomst till gruppwebbplatsen.
 
-- Om du vill ha mer information om hur du lägger till en användare i ett team kan du läsa [lägga till medlemmar i ett team i Teams](https://support.office.com/article/add-people-to-a-team-aff2249d-b456-4bc3-81e7-52327b6b38e9).
-- Om du vill ha mer information om att dela en webbplats direkt kan du läsa [dela en webbplats](https://support.office.com/article/Share-a-site-958771A8-D041-4EB8-B51C-AFEA2EAE3658).
+- Mer information om hur du lägger till en användare i ett team finns i Lägga [till medlemmar i ett team i Teams.](https://support.office.com/article/add-people-to-a-team-aff2249d-b456-4bc3-81e7-52327b6b38e9)
+- Mer information om hur du delar en webbplats direkt finns i [Dela en webbplats.](https://support.office.com/article/Share-a-site-958771A8-D041-4EB8-B51C-AFEA2EAE3658)
 
-Det här felet kan även inträffa om gruppen inte är ansluten till SharePoint-teamet. För mer information om hur du ansluter en grupp till en SharePoint-webbplats, se [ansluta till en Microsoft 365-grupp](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
+Det här felet kan också uppstå om gruppen inte är ansluten till SharePoint-teamet. Mer information om hur du ansluter en grupp till en SharePoint-webbplats finns i [Ansluta till en Microsoft 365-grupp](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)

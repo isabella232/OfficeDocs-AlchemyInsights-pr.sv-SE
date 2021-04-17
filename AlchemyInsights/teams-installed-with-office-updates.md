@@ -1,8 +1,8 @@
 ---
-title: Teams installerat med Office-uppdateringar
+title: Teams installerade med Office-uppdateringar
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,25 +14,25 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 9a09800fcc36876629c7d59182f20b5b16393ef8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36b0b1a7bf37c27304b4124157dba9aba337678c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736522"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832400"
 ---
-# <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft Teams installerat med Office-uppdateringar
+# <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft Teams installerade med Office-uppdateringar
 
-Microsoft Teams är en del av de ***nya installationerna*** av Microsoft 365-appar för Enterprise, Microsoft 365-appar för företag och Office för Mac. För mer information, se [när kommer Microsoft Teams att börja ingå i nya installationer av Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
+Microsoft Teams ingår som en del av ***nya installationer*** av Microsoft 365-appar för företag, Microsoft 365-appar för företag och Office för Mac. Mer information finns i [När börjar Microsoft Teams inkluderas i nya installationer av Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Från och med version 1906 i aktuell kanal kommer Teamerna gradvis att läggas till i ***befintliga installationer*** av Microsoft 365-appar för Enterprise (och Microsoft 365-appar) på enheter med Windows när du uppdaterar din befintliga installation till den senaste versionen. Mer information finns i [Vad händer med befintliga installationer av Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Från och med version 1906 i aktuell kanal kommer  Teams gradvis att läggas till i befintliga installationer av Microsoft 365-appar för företag (och Microsoft 365-appar för företag) på enheter som kör Windows när du uppdaterar din befintliga installation till den senaste versionen. Mer information finns i [Vad är befintliga installationer av Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-**Obs!** Om du inte vill vänta på detta installations schema kan du distribuera Teams som fristående för användarna genom att [följa anvisningarna](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), eller så kan du låta användarna installera Teams från https://teams.microsoft.com/downloads .
+**Obs!** Om du inte vill vänta på det här distributionsschemat kan du distribuera [](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)Teams som fristående för användarna genom att följa de här anvisningarna, eller så kan användarna installera Teams själva från https://teams.microsoft.com/downloads .
 
-Om din organisation inte kan distribuera Teams kan du ***exkludera Teams*** från [nya](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) eller [befintliga](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) installationer av Office. Om du vill att team ska installeras, men inte vill att teamen ska starta automatiskt för användaren när det är installerat, kan du läsa [förhindra att Microsoft Teams startas automatiskt efter installationen](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
+Om din organisation inte är redo att distribuera Teams kan du utesluta ***Teams*** från [nya eller](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) [befintliga](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) installationer av Office. Om du vill att Teams ska installeras, men inte vill att Teams ska starta automatiskt för användaren när det har installerats, se Förhindra att Microsoft Teams startar automatiskt [efter installationen.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)
 
-Information om hur du ***avinstallerar Teams*** från en enhet med Windows finns i [Avinstallera Microsoft Teams](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81). Information om hur du rensar Microsoft Teams från flera mål datorer eller användare finns i [Microsoft Teams Deployment Cleanup](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
+Om ***du vill avinstallera Teams*** från en enhet med Windows, se Avinstallera Microsoft [Teams](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81). Information om hur du rensar upp Microsoft Teams från flera måldatorer eller -användare finns i [Rensning av Microsoft Teams-distribution.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
 
-Om du använder delade datorer, fjärr skrivbords tjänster eller virtuella Skriv bords infrastruktur (VDI) kan du läsa [dela dator och VDI-miljöer med Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Om du använder Office för Mac läser du [Microsoft Teams-installationer på en Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Om du använder delade datorer, Fjärrskrivbordstjänster (RDS) eller VDI (Virtual Desktop Infrastructure) kan du gå till Delade datorer och [VDI-miljöer med Microsoft Teams.](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams) Om du använder Office för Mac kan du gå till [Microsoft Teams-installationer på en Mac.](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)
 
-**Obs!** När Teams har installerats uppdateras det [automatiskt](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) cirka två veckor med nya funktioner och kvalitets uppdateringar. 
+**Obs!** När Teams har installerats uppdateras det [automatiskt ungefär](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) varannan vecka med nya funktioner och kvalitetsuppdateringar. 

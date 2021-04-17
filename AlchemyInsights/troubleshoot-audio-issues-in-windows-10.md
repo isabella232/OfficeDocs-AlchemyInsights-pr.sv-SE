@@ -1,8 +1,8 @@
 ---
-title: Felsöka ljud problem i Windows 10
+title: Felsöka ljudproblem i Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,55 +12,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 88157f9c82bc970e989d47f5cf376b7ce485cb2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750361"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833309"
 ---
-# <a name="troubleshooting-audio-issues-in-windows-10"></a>Felsöka ljud problem i Windows 10
+# <a name="troubleshooting-audio-issues-in-windows-10"></a>Felsöka ljudproblem i Windows 10
 
-**Köra fel sökaren för ljud**
+**Köra felsökaren för ljud**
 
-1.  Öppna [fel söknings inställningar](ms-settings:troubleshoot).
+1.  Öppna [felsökningsinställningarna.](ms-settings:troubleshoot)
 
-2.  Välj **spela upp ljud**  >  **kör fel sökaren**.
+2.  Välj **Ljuduppspelning**  >  **Kör felsökaren**.
 
 **Ange standardenhet**
 
-Om du ansluter till en ljuden het med USB eller HDMI kan du behöva ange enheten som standard:
+Om du ansluter till en ljudenhet med USB eller HDMI kan du behöva ange den enheten som standardenhet:
 
-1. Öppna **Start**  >  **ljud**och välj sedan **ljud** eller **ändra system ljud** i resultat listan.
+1. Öppna **Starta**  >  **ljud** och välj sedan **Ljud eller** Ändra **systemljud** i listan med resultat.
 
-2.  Välj en enhet på fliken **uppspelning** och välj **Ange standard**och sedan **OK**.
+2.  Välj **en enhet** på fliken Uppspelning, välj **Ange standard** och välj sedan **OK.**
 
-**Kontrol lera kablar, volym, högtalare och hörlurar**
+**Kontrollera kablar, volym, högtalare och hörlurar**
 
-1. Kontrol lera att du har kablar och hörlurs samtal och se till att de är anslutna till rätt uttag.
+1. Kontrollera att alla kablar är korrekt anslutna i högtalarna och hörlurarna och att de är anslutna till rätt uttag.
 
-2. Kontrol lera energi-och volym nivåerna och prova att aktivera alla volym kontroller.
+2. Kontrollera ström och volym, och prova att vrida upp alla volymkontroller.
 
-3. Vissa högtalare och appar har sina egna volym kontroller; Du kanske måste kontrol lera dem så att de är på rätt nivå.
+3. Vissa högtalare och appar har egna volymkontroller. du kanske måste kontrollera alla för att säkerställa att de är på rätt nivåer.
 
-4. Prova att ansluta med en annan USB-port.
+4. Prova att ansluta via en annan USB-port.
 
-**Obs!** kom ihåg att dina högtalare kanske inte fungerar när hörlurarna ansluts.
+**Obs!** Kom ihåg att högtalarna kanske inte fungerar när hörlurar är inkopplade.
 
-**Kontrol lera enhets hanteraren**
+**Kontrollera Enhetshanteraren**
 
-Så här kontrollerar du att driv rutinerna är uppdaterade:
+Så här kontrollerar du att drivrutinerna är uppdaterade:
 
-1. Välj **Start**, Skriv **enhets hanteraren**och välj sedan **enhets hanteraren** i resultat listan.
+1. Välj **Start**, **skriv Enhetshanteraren** och välj **sedan Enhetshanteraren** i listan med resultat.
 
-2. Välj ljud kortet under **ljud-, video-och spel enheter**, öppna det, Välj fliken **driv rutin** och välj **Uppdatera driv rutin**.
+2. Under **Ljud-, video- och spelenheter** väljer du ditt ljudkort, öppnar det, väljer fliken **Drivrutin** och väljer Uppdatera **drivrutin.**
 
-**Obs!** om Windows inte hittar en ny driv rutin kan du leta efter en på tillverkarens webbplats och följa deras instruktioner.
+**Obs!** Om Windows inte hittar en ny drivrutin letar du upp en på enhetstillverkarens webbplats och följer deras anvisningar.
 
-**Installera om driv rutinen**
+**Installera om drivrutinen**
 
-Om du inte kan uppdatera via enhets hanteraren eller hitta en ny driv rutin på tillverkarens webbplats kan du prova följande:
+Om du inte kan uppdatera via Enhetshanteraren eller hitta en ny drivrutin på tillverkarens webbplats kan du prova följande:
 
-1. Högerklicka på (eller håll ned) ljud driv rutinen i enhets hanteraren och välj **Avinstallera**. Starta om enheten så försöker Windows installera om driv rutinen.
+1. I Enhetshanteraren högerklickar du på (eller håller ned) ljuddrivrutinen och väljer **Avinstallera.** Starta om enheten så försöker Windows installera om drivrutinen.
 
-2. Om det inte fungerar att installera om driv rutinen kan du försöka använda den allmänna ljud driv rutinen som medföljer Windows. I enhets hanteraren högerklickar du på (eller trycker på och håller ned) ljud driv rutinen > **Uppdatera driv**rutin  >  **Bläddra på den här datorn efter driv**rutiner kan du välja  >  **från en lista på**driv rutinen på datorn, välja HD- **ljudenhet**, välja **Nästa**och följa anvisningarna för att installera den.
+2. Om det inte fungerar att installera om drivrutinen kan du prova att använda den allmänna ljuddrivrutinen som medföljer Windows. I Enhetshanteraren högerklickar du på (eller håller ned) din ljuddrivrutin > Uppdatera drivrutinsprogramvara Bläddra i datorn efter drivrutinsprogramvara Låt mig välja från en lista med drivrutiner på datorn , välj High Definition Audio Device , välj Nästa och följ anvisningarna för att installera  >    >  den.  

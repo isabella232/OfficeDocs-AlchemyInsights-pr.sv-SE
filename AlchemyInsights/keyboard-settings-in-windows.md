@@ -1,8 +1,8 @@
 ---
-title: 'Tangent bords inställningar i Windows 10 '
+title: 'Tangentbordsinställningar i Windows 10 '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: 4edd014c733191aa493a6b63561f7073d43fc87b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb2f7e85b99f1b1eed5da597d26d55aaaf76be2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772821"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832985"
 ---
-# <a name="keyboard-settings-in-windows-10"></a>Tangent bords inställningar i Windows 10
+# <a name="keyboard-settings-in-windows-10"></a>Tangentbordsinställningar i Windows 10
 
-**Ange inställningar**
+**Inställningar för typ**
 
-Om du vill ändra Windows-inställningar som är relaterade till stavnings kontroll, automatisk korrigering, förslag och andra delar av maskin varan och pektangentbordet, går du till **inställningar > enheter > Skriv**. 
+Om du vill ändra Windows-inställningar för stavningskontroll, automatisk korrigering, förslag och andra aspekter av din maskinvara och pektangentbordet går du till Inställningar > **Enheter > Inmatning**. 
 
-**Inställningar för språk och tangent bord**
+**Språk- och tangentbordsinställningar**
 
-Om du vill ändra inställningar för vilket tangent bord eller vilken IME-metod som ska användas för ett Windows-språk, går du till **inställningar > tid & språk > språk**. Välj språk i listan **önskade språk** och klicka på **alternativ** för att lägga till/ta bort tangent bord eller IME: er.
+Om du vill ändra inställningar för vilket tangentbord eller inmatningsmetod som ska användas för ett Windows-språk går du till Inställningar **> Tid & Språk > Språk**. Välj språk i listan **Önskade språk och** klicka på Alternativ om **du** vill lägga till/ta bort tangentbord eller inmatningsmetoder (IMEs).
