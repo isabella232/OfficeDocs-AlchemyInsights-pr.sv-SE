@@ -2,7 +2,7 @@
 title: Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "3569"
-ms.openlocfilehash: 81e34a10b1fa2a3fa9c08b796bab751bd91602bb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a7fd32f2891be499e4bd764f193b6d1d6b7e9f3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674884"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833885"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -26,8 +26,8 @@ Microsoft Stream är en videotjänst för företag där personer i organisatione
 Mer information finns i:
 
 - [Vad är Microsoft Stream?](https://docs.microsoft.com/stream/overview)
-- [Office 365 Video över gång till Microsoft Stream](https://docs.microsoft.com/stream/migrate-from-office-365)
-- [Data ström tjänst uppdateringar](https://techcommunity.microsoft.com/t5/microsoft-stream-service-updates/bd-p/StreamAnnouncements)
+- [Office 365 Video-övergång till Microsoft Stream](https://docs.microsoft.com/stream/migrate-from-office-365)
+- [Streama tjänstuppdateringar](https://techcommunity.microsoft.com/t5/microsoft-stream-service-updates/bd-p/StreamAnnouncements)
 - [Grupper och kanaler i Microsoft Stream](https://docs.microsoft.com/stream/groups-channels-organization)
-- [Live-händelser i Microsoft Stream](https://docs.microsoft.com/stream/live-event-overview)
-- [Dela dina videor i Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
+- [Livehändelser i Microsoft Stream](https://docs.microsoft.com/stream/live-event-overview)
+- [Dela videor i Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)

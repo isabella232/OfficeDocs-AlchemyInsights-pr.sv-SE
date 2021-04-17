@@ -1,8 +1,8 @@
 ---
-title: Roll för modern Commerce-användare
+title: Användarrollen Modern Commerce
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 74108b22e06fc6b3b53f7e027fca094bfd9db869
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 54a2315af50bd6c5df189e7b92f5af1a3cff9304
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667032"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833633"
 ---
-# <a name="modern-commerce-user-role"></a>Roll för modern Commerce-användare
+# <a name="modern-commerce-user-role"></a>Användarrollen Modern Commerce
 
-Den moderna Commerce användar rollen ger vissa användare tillstånd att komma åt Microsoft 365 Admin Center och se de vänstra navigerings posterna för **Start**, **fakturering**och **support**. Innehållet i dessa områden styrs av handelsspecifika roller som tilldelats användare för att hantera produkter som de har köpt för sig själva eller din organisation. Detta kan inkludera uppgifter som betalning av räkningar eller för till gång till fakturerings konton och fakturerings profiler.
+Rollen Användare av modern e-handel ger vissa användare behörighet att komma åt administrationscentret för Microsoft 365 och se de vänstra navigeringsposterna för **Home,** **Billing** och **Support.** Innehållet som är tillgängligt i dessa områden styrs av e-handelsspecifika roller som användare har tilldelats för att hantera produkter som de har köpt åt sig själva eller din organisation. Det kan till exempel vara uppgifter som att betala fakturor eller åtkomst till faktureringskonton och faktureringsprofiler.
 
-Användare med den moderna Commerce användar rollen har vanligt vis administratörs behörighet i andra Microsoft-inköps system, men har inte behörighet som global administratör eller fakturerings administratör.
+Användare med användarrollen Modern Commerce har vanligtvis administratörsbehörighet i andra Microsoft-inköpssystem, men har inte global administratör eller faktureringsadministratörsbehörighet.
 
-Mer information om den här och andra administrativa roller finns i [behörigheter för administratörs roller i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).
+Mer information om den här och andra administrativa roller finns i [Administratörsrollbehörigheter i Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator)

@@ -1,8 +1,8 @@
 ---
-title: Använda Microsoft Authenticator-appen
+title: Använda Appen Microsoft Authenticator
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001679"
 - "3744"
-ms.openlocfilehash: 69ff8e3e0d9eeec2d39d1d5ddb4e4e540895d017
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62c981d616cc612b77922a8cbc4cedf4b3b87cf0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770101"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834353"
 ---
-# <a name="using-the-microsoft-authenticator-app"></a>Använda Microsoft Authenticator-appen
+# <a name="using-the-microsoft-authenticator-app"></a>Använda Appen Microsoft Authenticator
 
-Logga in på ditt personliga Microsoft-konto med ett finger avtryck, en ansikts igenkänning eller en PIN-kod.
+Logga in på ditt Microsoft-konto med ett fingeravtryck, ansiktsigenkänning eller en PIN-kod.
 
-- [Använda Microsoft Authenticator-appen](https://support.microsoft.com/help/4026727/microsoft-account-how-to-use-the-microsoft-authenticator-app). 
+- [Så här använder du Microsoft Authenticator-appen](https://support.microsoft.com/help/4026727/microsoft-account-how-to-use-the-microsoft-authenticator-app). 
 
-- [Konfigurera programmet verifierare](https://docs.microsoft.com/azure/active-directory/user-help/security-info-setup-auth-app) genom att skanna QR-koden eller genom [att manuellt lägga till ett konto](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-add-account-manual).  
+- [Konfigurera Authenticator-appen genom](https://docs.microsoft.com/azure/active-directory/user-help/security-info-setup-auth-app) att skanna QR-koden eller genom att [lägga till ett konto manuellt.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-add-account-manual)  
 
-Mer information finns i [Översikt över verifierings programmet](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview).
+Mer information finns i [Autentiseringsappöversikt.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview)
