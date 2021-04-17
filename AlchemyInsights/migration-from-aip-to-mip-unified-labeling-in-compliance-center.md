@@ -1,8 +1,8 @@
 ---
-title: Migrering från AIP till MIP/Unified-etiketter i Compliance Center
+title: Migrering från AIP till MIP/Unified Labeling i efterlevnadscentret
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 7157eada10db2443f64fb7925f408359275d75eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674344"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825389"
 ---
-# <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Migrering från AIP till MIP/Unified-etiketter i Compliance Center
+# <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Migrering från AIP till MIP/Unified Labeling i efterlevnadscentret
 
-Om du vill migrera från AIP Labels till Unified Etiketting i säkerhets-och kompatibilitetstillstånd gör du så här:
+Så här migrerar du från AIP-etiketter till Unified Labeling i Säkerhets- och efterlevnadscenter:
 
-**Aktivera skydd från Azure-portalen**
+**Aktivera skydd från Azure Portal**
 
-1. Om du inte redan har gjort det öppnar du ett nytt webbläsarfönster och loggar in på [Azure-portalen](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). Navigera till bladet **Azure information Protection** . Klicka till exempel på **alla tjänster** på NAV-menyn och börja skriva in **information** i rutan filter. Välj **Azure information Protection**. Om du inte har fått åtkomst till bladet Azure information Protection innan kan du se de enskilda [åtgärderna](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) för att lägga till bladet i portalen. Om du vill öppna Azure information Protection-bladet måste du ha ett [Azure information Protection Premium-abonnemang](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) eller ett Office 365-abonnemang som innehåller Rights Management. Om du har en av de här prenumerationerna men ser ett meddelande om att det inte går att hitta ett giltigt abonnemang [kontaktar du Microsoft Support](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) eller använder dina Standard Support kanaler.
+1. Om du inte redan har gjort det öppnar du ett nytt webbläsarfönster och [loggar in på Azure Portal.](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) Gå till **bladet för Azure Information Protection.** I till exempel hubb-menyn klickar du **på Alla tjänster** och börjar skriva **Information** i rutan Filter. Välj **Azure Information Protection**. Om du inte har åtkomst till Azure Information Protection-bladet tidigare kan du gå till de ytterligare anvisningarna [för](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) att lägga till det här bladet i portalen. För att kunna öppna Azure Information Protection-bladet måste du ha ett [Azure Information Protection Premium-abonnemang](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) eller ett Office 365-abonnemang som omfattar rättighetshantering. Om du har en av dessa prenumerationer men ser ett meddelande om att det inte går att hitta en giltig prenumeration kontaktar du [Microsoft Support](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) eller använder dina standardsupportkanaler.
 
-2. Leta reda på Meny alternativen **Hantera** och välj **skydds aktivering**. Klicka på **Aktivera**och bekräfta åtgärden. När aktiveringen är färdig visar informations fältet **aktiveringen klar**.
+2. Leta reda **på** menyalternativen Hantera och välj **Skyddaktivering**. Klicka **på** Aktivera och bekräfta sedan åtgärden. När aktiveringen är klar visas aktiveringen **som slutförd i informationsfältet.**
 
-**Migrera Azure information Protection-etiketter till Office 365 Security & Compliance Center**
+**Migrera Azure Information Protection-etiketter till Säkerhets- och & Office 365**
 
-1. Kontrol lera att du är inloggad som en användare med global administratörs behörighet.
+1. Kontrollera att du är inloggad som användare med behörigheten Global administratör.
 
-2. Navigera till bladet **Azure information Protection** .
+2. Gå till **bladet för Azure Information Protection.**
 
-3. Välj **Unified etiketting**i menyn **Hantera** .
+3. I **menyalternativet** Hantera väljer du **Unified Labeling**.
 
-4. På sidan **Azure information Protection-enhetligt etikett** blad klickar du på **Aktivera** och följer instruktionerna online.
+4. I Azure **Information Protection – enhetligt etikettblad klickar** du på Aktivera **och** följer onlineinstruktionerna.
 
-**Obs!** kontrol lera att du har rätt behörighet innan du aktiverar säkerhets &s Center migration. Mer information finns i de här artiklarna:
+**Obs!** Kontrollera att du har rätt behörigheter innan du aktiverar migreringen av säkerhets- & säkerhets- och efterlevnadscentret. Mer information finns i följande artiklar:
 
-1. [Måste du vara global administratör för att konfigurera Azure information Protection eller kan jag delegera till andra administratörer?](https://docs.microsoft.com/azure/information-protection/faqs#do-you-need-to-be-a-global-admin-to-configure-azure-information-protection-or-can-i-delegate-to-other-administrators)
+1. [Behöver du vara global administratör för att konfigurera Azure Information Protection, eller kan jag delegera till andra administratörer?](https://docs.microsoft.com/azure/information-protection/faqs#do-you-need-to-be-a-global-admin-to-configure-azure-information-protection-or-can-i-delegate-to-other-administrators)
 
-2. [Viktig information om administrativa roller efter migrering till säkerhets & Compliance Center.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#important-information-about-administrative-roles)
+2. [Viktig information om administrativa roller efter migrering till Säkerhets- & Efterlevnadscenter.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#important-information-about-administrative-roles)
 
-Mer information om AIP till enhetlig etikett överföring till säkerhets-och efterlevnadsprinciper finns i [migrera etiketter](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels).
+Mer information om migrering av AIP till Unified Labeling till Säkerhets- och efterlevnadscenter finns i [Migrera etiketter.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)

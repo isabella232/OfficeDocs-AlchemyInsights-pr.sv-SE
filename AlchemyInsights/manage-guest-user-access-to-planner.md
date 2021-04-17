@@ -1,8 +1,8 @@
 ---
-title: Hantera gäst användar åtkomst till Planner
+title: Hantera gästanvändaråtkomst till Planner
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001705"
 - "3783"
-ms.openlocfilehash: 5ee138e42d0ab5a8e2a878fec33478adf362c720
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4b7852b101a342256ab64ef580e95512bfdb6860
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777989"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825497"
 ---
-# <a name="manage-guest-user-access-to-planner"></a>Hantera gäst användar åtkomst till Planner
+# <a name="manage-guest-user-access-to-planner"></a>Hantera gästanvändaråtkomst till Planner
 
-Gäst användare kan skapa och ta bort buckets och uppgifter, redigera aktivitets fält och redigera plan namnet. Dessutom får gäst användare en del av de meddelanden som är kopplade till din plan. Här är några vanliga frågor om gäst användare i Planner:
+Gästanvändare kan skapa och ta bort buckets och uppgifter, redigera aktivitetsfält och redigera planens namn. Dessutom får gästanvändare även en del meddelanden som är kopplade till ditt abonnemang. Här är några vanliga frågor om gästanvändare i Planner:
 
-- Planner bygger på [funktionen gäst åtkomst i Microsoft 365 Groups](https://support.office.com/article/Adding-guests-to-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6). 
+- Planner bygger på [gäståtkomstfunktionen i Microsoft 365 Groups.](https://support.office.com/article/Adding-guests-to-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6) 
 
-- Läs mer om hur du lägger till gäst användare i en plan, hur gäst användare kan lämna en plan samt vilka gäst användare som kan göra i Planner i [gäst åtkomst i Microsoft Planner](https://support.office.com/article/Guest-access-in-Microsoft-Planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6).
+- Läs mer om hur du lägger till gästanvändare i en plan, hur gästanvändare kan lämna en plan och vad gästanvändare kan göra i Planner i [gäståtkomst i Microsoft Planner.](https://support.office.com/article/Guest-access-in-Microsoft-Planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6)

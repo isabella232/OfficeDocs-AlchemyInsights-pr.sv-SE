@@ -1,8 +1,8 @@
 ---
-title: Vilken version av Android har appen stöd för?
+title: Vilken version av Android stöder din app?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: e3e4f3bb248959b3826438578c5ae274ac04992f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773073"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824201"
 ---
-# <a name="what-version-of-android-does-your-app-support"></a>Vilken version av Android har appen stöd för?
+# <a name="what-version-of-android-does-your-app-support"></a>Vilken version av Android stöder din app?
 
-För bästa prestanda fungerar vår app på alla enheter med Android version 5,0 och senare.
+För bästa prestanda fungerar vår app på alla enheter med Android version 5.0 och senare.
 
-Om du är uppdaterad på Android OS men fortfarande får aviseringar om operativ systemet som inte är kompatibelt med din enhet, kan du försöka rensa cacheminnet och data från appen spela upp Store.
+Om du är uppdaterad i Android-operativsystemet men fortfarande får meddelanden om att operativsystemet inte är kompatibelt med enheten kan du prova att rensa cacheminnet och data för Play Store-appen.
 
 Gör så här: 
 
-1. På din Android-telefon eller-surfplatta öppnar du **Inställningar** och sedan **appar** eller **program**.
+1. På din Android-telefon eller -surfplatta öppnar **du Inställningar** och sedan **Appar** eller **Program.**
 
-2. Högst upp på skärmen trycker du på **mer** (det här kan också vara en ellips eller tre lodräta punkter) och sedan **Visa system**. 
+2. Tryck på Mer högst upp på skärmen **(det** kan också vara en ellips eller tre lodräta punkter) och sedan **på Visa system.** 
 
 3. Rulla nedåt och tryck på **Google Play-tjänster**. 
 
-4. Tryck på **lagring** och sedan på **Rensa cache**. 
+4. Tryck **på Lagring** och sedan på Rensa **cache.** 
 
-5. Tryck på **Hantera utrymme** och **Rensa alla data**. 
+5. Tryck **på Hantera utrymme** och sedan på Radera alla **data.** 
 
-6. Öppna **Google Play-butiken**. 
+6. Öppna **Google Play Store.** 
 
-7. Vänta 5 minuter och försök igen. 
+7. Vänta i 5 minuter och försök sedan igen. 

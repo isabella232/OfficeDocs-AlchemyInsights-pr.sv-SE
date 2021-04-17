@@ -2,7 +2,7 @@
 title: Action Pack-licenser
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002542"
 - "4909"
-ms.openlocfilehash: 04f5efdd423f0495f1846a0ec5677cd0cbe312c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5362c5150f7c6d70d37b60e90e48a39d8716645
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668617"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823337"
 ---
 # <a name="action-pack-licenses"></a>Action Pack-licenser
 
@@ -25,7 +25,7 @@ Kom igång med verktyg och resurser för att skapa molnmetoder från [Partner Ne
 
 - Om du är en **ny** Microsoft-partner klickar du på [Prenumerera nu](https://aka.ms/MPNActionPackNew) för att **registrera dig** i Action Pack.
 
-- Om du är en **befintlig** Microsoft-partner väljer du [Är du redan en partner?](https://aka.ms/MPNActionPackExisting) för att **förnya/aktivera **Action Pack. 
+- Om du är en **befintlig** Microsoft-partner väljer du [Är du redan en partner?](https://aka.ms/MPNActionPackExisting) för att **förnya/aktivera** Action Pack. 
 
 - Visa [licensguiden](https://aka.ms/MPNActionPackGuide) för att **få reda på fördelarna** med Action Pack. 
 

@@ -1,8 +1,8 @@
 ---
-title: Gå med i Teams möten
+title: Ansluta till Teams-möten
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: a27c6ac118608a6f4ce85b38c2ddaa2bd8f80b4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: caa0cb4aa9a76cf1e18eafb73273c2fe5cc6a6df
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772929"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824021"
 ---
 # <a name="join-a-meeting-in-teams"></a>Ansluta till ett möte i Teams
 
-För att ansluta till ett Teams-möte måste du först ange Mötes principer och sedan dirigera användare till från deras prioriterade enheter:
+Om du vill ansluta till ett Teams-möte anger du först mötesprinciper och sedan dirigerar användarna att ansluta från sina föredragna enheter:
 
-- Ange Mötes principer som styr vem som kan ansluta till mötet som [deltagare eller gäster](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
+- Ange mötesprinciper som styr vem som ska kunna ansluta till mötet som [deltagare eller gäster.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests) 
 
-- Använd Microsoft Teams [PowerShell-cmdlets](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) för att göra princip ändringar.    
+- Använd Microsoft Teams [PowerShell-cmdlets för](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) att göra principändringar.    
 
-**Obs!** Det kan ta upp till 24 timmar innan princip ändringarna börjar gälla.
+**Obs!** Det kan ta upp till 24 timmar innan principändringarna verkställs.

@@ -1,8 +1,8 @@
 ---
-title: Verifiera din domän med Host Gator
+title: Verifiera din domän med Hostgator
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: e364551f50e8c8efdee74842be2fb4fab734bb71
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: c333322ff791a288607e4f6a090d655106e93420
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816415"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824309"
 ---
-# <a name="verify-your-domain-with-hostgator"></a>Verifiera din domän med Host Gator
+# <a name="verify-your-domain-with-hostgator"></a>Verifiera din domän med Hostgator
 
-För att verifiera din domän måste du lägga till en TXT-post i domän registratorn för att verifiera att du äger din domän. 
+Om du vill verifiera domänen måste du lägga till en TXT-post i domänregistratorn för att verifiera att du äger domänen. 
 
-Följ först [guiden Lägg till domän](https://admin.microsoft.com/Adminportal#/Domains) genom att välja **inställnings** \> **domäner**och sedan **lägga till domän**.
+Följ först guiden Lägg [till domän genom att](https://admin.microsoft.com/Adminportal#/Domains) välja **Inställningar** \> **Domäner** och sedan Lägg **till domän.**
   
-Mer information finns i [Skapa DNS-poster på Host Gator för Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) .
+Stegvisa anvisningar finns i Skapa DNS-poster på Hostgator för [Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator)
