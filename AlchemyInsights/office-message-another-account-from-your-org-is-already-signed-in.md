@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365-program – tyvärr, ett annat konto från din organisation är redan inloggad
+title: Meddelande i Microsoft 365-appar – Tyvärr är ett annat konto från din organisation redan inloggad
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: c2bb894cf97c094a1648da8db83cbd459da4fda4
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236038"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836261"
 ---
-# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Microsoft 365-program – tyvärr, ett annat konto från din organisation är redan inloggad
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Meddelande i Microsoft 365-appar – Tyvärr är ett annat konto från din organisation redan inloggad
 
 Lös problemet genom att prova med följande:
 
@@ -33,7 +33,7 @@ Lös problemet genom att prova med följande:
 
 - Starta Office-appen och logga in igen om det behövs. 
 
-**Tips!** På Windows-datorer kan vi diagnostisera och automatiskt åtgärda flera vanliga inloggnings problem för Office. Ladda ned och kör  **[Microsoft support-och återställnings assistenten](https://aka.ms/SaRA-OfficeSignInScenario)** för att använda vårt automatiserade verktyg.
+**Tips** På Windows-datorer kan vi diagnostisera och automatiskt korrigera flera vanliga inloggningsproblem för Office åt dig. Ladda ned och kör **[Support- och återställningsassistenten](https://aka.ms/SaRA-OfficeSignInScenario)** om du vill använda vårt automatiska verktyg.
 
 Om problemet kvarstår kan du försöka med följande: 
 

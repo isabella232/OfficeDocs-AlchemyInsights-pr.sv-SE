@@ -1,28 +1,29 @@
 ---
-title: Behöver du hjälp med e-post skicka gränser?
+title: Behöver du hjälp med begränsningarna för att skicka e-post?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002938"
 - "5630"
-ms.openlocfilehash: 7f563df313c869d18c3e4240d271c649a74914af
-ms.sourcegitcommit: 88d2918aa51f4ba10771527380c3e0db0f5a9147
-ms.translationtype: MT
+ms.openlocfilehash: b5bdfbf818328c97ec93b3468aeedcbe88e03913
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44358359"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836297"
 ---
-# <a name="need-help-with-email-sending-limits"></a>Behöver du hjälp med e-post skicka gränser?
+# <a name="need-help-with-email-sending-limits"></a>Behöver du hjälp med begränsningarna för att skicka e-post?
 
-Nedan visas de **genomdesignasändande gränser** som tillämpas i tjänsten. Mer information om dessa gränser finns [här](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#receiving-and-sending-limits).
+Nedan visas de **avsiktliga sändningsbegränsningarna** som tillämpas i tjänsten. Mer information om de här begränsningarna finns [här](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#receiving-and-sending-limits).
 
-- För att avskräcka från leverans av oönskade massmeddelanden tillämpar vi mottagare per användare **för alla utgående och interna meddelanden.** Den här gränsen är **10 000 mottagare per dag.**  Kunder som behöver skicka legitim kommersiell masssupport (till exempel kundnyhetsbrev) bör använda tredjepartsleverantörer som är specialiserade på dessa tjänster.
-    - **När**gränsen för mottagarfrekvensen har uppnåtts kan meddelanden inte skickas från postlådan förrän antalet mottagare som har skickats meddelanden under de senaste 24 timmarna sjunker under gränsen. Användaren kommer inte att kunna skicka meddelanden förrän den punkten.
-- Meddelandehastighetsgränsen på **30 meddelanden per minut** tillämpas i alla SKU:er. Detta avgör hur många meddelanden en användare kan skicka från sitt Exchange Online-konto inom en angiven period.
-- Det **maximala antalet mottagare som tillåts i fälten Till, Kopia och Hemlig kopia** för ett enskilt e-postmeddelande, för alla SKU:er, är **1 000 mottagare.** Om du vill anpassa den här gränsen går [du hit](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228).
+- För att hindra att oönskade massmeddelanden levereras tillämpar vi **begränsningar för alla utgående och interna meddelanden** per användare. Den här gränsen ligger på **10 000 mottagare per dag** för alla SKU:er.  Kunder som behöver skicka legitima, kommersiella massutskick (till exempel kundbrev) bör använda tredjepartsleverantörer som specialiserar sig i dessa tjänster.
+    - **Obs**: När gränsen har nåtts går det inte att skicka meddelanden från postlådan förrän antalet mottagare som under det senaste dygnet har mottagit meddelanden blir färre än gränsvärdet. Användaren kan inte skicka meddelanden förrän det har skett.
+- Gränsen för meddelandehastigheten på **30 meddelanden per minut** gäller för alla SKU:er. Det här anger hur många meddelanden en användare kan skicka från sitt Exchange Online-konto inom en viss tidsperiod.
+- Det **högsta antalet mottagare som tillåts i fälten Till, Kopia och Hemlig kopia** för ett enskilt e-postmeddelande är **1 000** för alla SKU:er. Om du vill anpassa den här gränsen kan du göra det [här](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228).
