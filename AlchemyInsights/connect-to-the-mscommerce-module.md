@@ -1,8 +1,8 @@
 ---
-title: Ansluta till MSCommerce-modulen
+title: Ansluta till modulen MSCommerce
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: 41dd044d99d14f25ea15699bfb74f7c37e3928c1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e77c6a329ac99a4cea4f143dcb3c661b6a518e35
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713256"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817046"
 ---
-# <a name="connect-to-the-mscommerce-module"></a>Ansluta till MSCommerce-modulen
+# <a name="connect-to-the-mscommerce-module"></a>Ansluta till modulen MSCommerce
 
-Du måste vara ansluten till MSCommerce-modulen innan du kan visa eller ställa in AllowSelfServicePurchase-principen.  
+Du måste vara ansluten till MSCommerce-modulen innan du kan visa eller ange principen AllowSelfServicePurchase.  
 
-Anslut till MSCommerce-modulen genom att ange följande kommando vid PowerShell-uppmaningen (PS C: \) ):
+Anslut till modulen MSCommerce genom att ange följande kommando i PowerShell-kommandotolken (PS \) C: :
 
 `Connect-MSCommerce`
 
-Då öppnas en dialog ruta för inloggning. Ange ditt användar namn och lösen ord för att logga in.
+Då öppnas en inloggningsdialogruta. Ange ditt användarnamn och lösenord för att logga in.
 
-**Obs!** &nbsp; &nbsp; Kontot som används för inloggning måste vara ett företags konto eller en fakturerings administratör.
+**OBS!** &nbsp; &nbsp; Det konto som används för att logga in måste vara företags- eller faktureringsadministratör.

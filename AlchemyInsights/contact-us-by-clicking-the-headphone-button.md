@@ -1,8 +1,8 @@
 ---
-title: Kontakta oss genom att klicka på knappen hörlur
+title: Kontakta oss genom att klicka på knappen för hörlurar
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3494"
 - "9001472"
-ms.openlocfilehash: 0458ae0a6afdc2c4624ea0658f72f85d4a7d6fdd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 329768f62c3da71b5454c7155e66509ae4c01df4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680918"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816974"
 ---
-# <a name="contact-us-by-clicking-the-headphone-button"></a>Kontakta oss genom att klicka på knappen hörlur
+# <a name="contact-us-by-clicking-the-headphone-button"></a>Kontakta oss genom att klicka på knappen för hörlurar
 
-Om du vill kontakta Microsoft support klickar du på **kontakta oss** i det nedre vänstra hörnet i programmet. I fönstret flyger ut guidas du till rätt support kanal när du har valt kategorin produkt och ärende.
+Om du vill kontakta Microsoft Support klickar du på Kontakta oss **i** det nedre vänstra hörnet i appen. I det utfällda fönstret vägleds du till rätt supportkanal när du har valt produkt- och ärendekategori.
 
-![Kontakta oss genom att klicka på hörlurs ikonen.](media/contact-us-headphone-icon.png)
+![Kontakta oss genom att klicka på hörlursikonen.](media/contact-us-headphone-icon.png)
 
-Du kan fortsätta att interagera med resten av programmet även efter att du har initierat en kontakt. Panelen kontakta oss kan minimeras genom att klicka någon annan stans i appen. Om du vill gå tillbaka till samma session klickar du på **kontakta oss** igen.
+Du kan fortsätta att interagera med resten av appen även efter att du har startat en Kontakta oss-session. Panelen Kontakta oss kan minimeras tillfälligt genom att klicka någon annanstans i programmet. Om du vill återgå till samma session klickar du på **Kontakta oss** igen.

@@ -1,8 +1,8 @@
 ---
-title: Kontrol lera status för en AAD-synkronisering
+title: Kontrollera status för AAD-identitetssynkronisering
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,22 +14,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: e06eab76adcdb2b99b8aaa738f677950fa1af16b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27847ac62e418869cc5074808e6ccab02671ea05
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793920"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817874"
 ---
-# <a name="check-aad-identity-sync-status"></a>Kontrol lera status för en AAD-synkronisering
+# <a name="check-aad-identity-sync-status"></a>Kontrollera status för AAD-identitetssynkronisering
 
-Det är enkelt att kontrol lera synkroniseringsstatus:
+Det är enkelt att kontrollera synkroniseringsstatus:
   
-- Logga in på administrations centret för Microsoft 365 och välj **DirSync-status** på Start sidan.
+- Logga in på administrationscentret för Microsoft 365 och välj **DirSync-status** på startsidan.
 
-- Du kan också gå till användare \> aktiva användare och på sidan aktiva användare väljer du mer \> katalog synkronisering.
+- Alternativt kan du gå till Användare aktiva användare och på \> sidan Aktiva användare välja Mer katalogsynkronisering. \>
 
-- I fönstret Directory-synkronisering väljer du gå till DirSync-hanteringen.
+- I fönstret Katalogsynkronisering väljer du Gå till DirSync-hantering.
 
-Om det är problem med katalog synkroniseringen visas felen på den här sidan. Mer information om olika fel som du kan stöta på finns i Visa synkroniseringsfel för [kataloger](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
+Om det är problem med katalogsynkroniseringen visas felen på den här sidan. Mer information om olika fel som kan uppstå finns i Visa [katalogsynkroniseringsfel](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   

@@ -1,8 +1,8 @@
 ---
-title: 'Defender klient manipulations skydd '
+title: 'Skydd mot klientmanipulering i Defender '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4873b026839b7cde8221bf8389cd33023056e605
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680522"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815597"
 ---
-# <a name="defender-tamper-protection"></a>Defender manipulation-skydd 
+# <a name="defender-tamper-protection"></a>Defender Manipuleringsskydd 
 
-Med skydd mot obehörig åtkomst hindras skadliga appar från att vidta åtgärder som dessa:
+Med skydd mot manipulering förhindras skadliga program från att utföra åtgärder som dessa:
 
-- Inaktiverar skydd mot virus och hot
-- Inaktiverar real tids skyddet
-- Inaktivera beteende övervakning
+- Inaktivera skydd mot virus och hot
+- Inaktivera realtidsskydd
+- Stänga av beteendeövervakning
 - Inaktivera antivirus (till exempel IOfficeAntivirus (IOAV))
-- Inaktivera moln skydd
-- Ta bort säkerhets information-uppdateringar
+- Inaktivera moln levererat skydd
+- Ta bort säkerhetsintelligensuppdateringar
 
-Mer information finns i [skydda säkerhets inställningar med skydd mot obehörig](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)åtkomst.
+Mer information finns i Skydda [säkerhetsinställningar med skydd mot manipulering.](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)

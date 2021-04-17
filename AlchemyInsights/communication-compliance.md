@@ -2,7 +2,7 @@
 title: Kommunikationsefterlevnad
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: a002ca92a0ef8bf124ea66267392b30c35ebf95b
-ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
+ms.openlocfilehash: fe834e12f35550cef669c5a60a2f3e460648dbd0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49875157"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817514"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>Kommunikation i Microsoft 365
+# <a name="communication-compliance-in-microsoft-365"></a>Kommunikationsefterlevnad i Microsoft 365
 
-Kommunikations kompatibilitet är en ny Microsoft 365-efterlevnadsprincip som hjälper organisationer att uppfylla kraven på tillsyn och minimera kommunikations riskerna. Den är baserad på kontroll funktionen och innehåller nya förbättringar, bland annat:
+Kommunikationsefterlevnad är en ny Microsoft 365-efterlevnadslösning som hjälper organisationer att uppfylla övervakande efterlevnadskrav och minimera kommunikationsrisker. Den baseras på funktionen för övervakning och innehåller nya förbättringar, bland annat:
 
 - Intelligenta anpassningsbara mallar
-- Flexibla arbets flöden
-- Åtgärds bara insikter
+- Flexibla arbetsflöden för åtgärder
+- Handlingsbara insikter
 
-Om du för närvarande använder [övervaknings principer](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)rekommenderar vi att du använder den nya kommunikations funktionen för att adressera myndighets behov.
+Om du för närvarande använder [principer för efterlevnad](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)rekommenderar vi att du nu använder den nya kommunikationsefterlevnaden för att tillgodose regelbehoven.
 
-Information om hur du konfigurerar kommunikation, finns i avsnittet [Konfigurera kompatibilitet med kommunikation](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
+Information om hur du konfigurerar kommunikationsefterlevnad finns [i Konfigurera kommunikationsefterlevnad.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)
 
-Information om hur du undersöker, granskar och reparerar kommunikations kompatibilitet finns i [undersöka och åtgärda aviseringar om kommunikations krav](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
+Information om hur du undersöker, granskar och åtgärdar kommunikationsefterlevnad finns i [Undersöka och åtgärda aviseringar om kommunikationsefterlevnad.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)
 
-En översikt över funktionen för kommunikations kompatibilitet finns i [kommunikation i Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
+En översikt över funktionen för kommunikationsefterlevnad finns i [Kommunikationsefterlevnad i Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)
 
-Licens krav: användare som övervakas via kommunikations principer måste ha något av följande:
+Licenskrav: Användare som övervakas av kommunikationsprinciper måste ha något av följande:
 
-- Microsoft 365 E5 Compliance licens
-- Office 365 Enterprise, E3-licens med den avancerade tilläggs tillägget
+- Microsoft 365 E5-efterlevnadslicens
+- Office 365 Enterprise, E3-licens med tillägget Advanced Compliance
 - Office 365 Enterprise, E5-abonnemang
 
-Om du inte har något av ovanstående och vill testa kommunikationen kan du **[Registrera dig för en utvärderings version av Office 365 Enterprise, E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+Om du inte har något av ovanstående och vill prova kommunikationsefterlevnad kan du registrera dig för en utvärderingsversion av **[Office 365 Enterprise E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
 > [!NOTE]
-> Det kan ta upp till 24 timmar för e-postmeddelanden att bearbetas i en policy. Kommunikationen i Microsoft Teams, Yammer och plattformar från tredje part kan ta upp till 48 timmar att hantera i en policy.
+> Det kan ta upp till 24 timmar innan e-postmeddelanden behandlas helt i en princip. Kommunikation i Microsoft Teams, Yammer och tredjepartsplattformar kan ta upp till 48 timmar för att helt bearbeta i en princip.

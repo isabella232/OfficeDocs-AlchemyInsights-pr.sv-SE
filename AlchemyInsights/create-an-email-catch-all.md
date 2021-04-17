@@ -1,8 +1,8 @@
 ---
-title: Skapa ett e-postmeddelande Catch alla
+title: Skapa ett e-postmeddelande för att få tag på allt
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001524"
 - "3732"
-ms.openlocfilehash: 262d2c6a7181d94094f3d840c4ba3ebd07000cf4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b9131a620139a93ddb844fd49d8fa2ed68e52c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713004"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816218"
 ---
-# <a name="create-an-email-catch-all"></a>Skapa ett e-postmeddelande Catch alla
+# <a name="create-an-email-catch-all"></a>Skapa ett e-postmeddelande för att få tag på allt
 
-Det är starkt att använda en helt mer. Det är bättre att erbjuda en studs tillbaka till avsändaren och meddela att det inte gick att skicka meddelanden till mottagaren. Du kan också begränsa den övervakade post lådan så att den endast fångar upp tidigare giltiga e-postadresser. 
+Man avråder starkt från att använda en fångad information. Det är bättre att tillhandahålla ett studsa tillbaka till avsändaren så att avsändare vet att deras meddelande inte kunde levereras som adresserat så att de kan vidta åtgärder. Du kan också begränsa den övervakade postlådan till att endast fånga upp tidigare giltiga e-postadresser. 
 
-Alla fångar alla post lådor får ett bra sätt att skicka skräp post och kan till och med fylla om de inte bör övervakas. (Det finns begränsningar.) 
+All catch all mailbox will receive a good deal of spam and may eventually fill if not closely monitor. (Det finns mottagande gränser.) 
 
-Om du vill fortsätta följer du de här stegen:
+Följ de här anvisningarna om du bestämmer dig för att fortsätta:
 
-1. Skapa en dynamisk distributions grupp & inkludera "alla mottagar typer".
+1. Skapa en dynamisk distributionsgrupp där & "Alla mottagartyper".
 
-2. Skapa en dedikerad post låda för att hämta e-post, till exempel catchall@domain.com.
+2. Skapa en dedikerad postlåda för att fånga upp e-postmeddelanden, till exempel catchall@domain.com.
 
-3. Ange DomainType till "InternalRelay" för den specifika domänen. Om du senare tar bort Catch-alla ska du se till att återställa domänen till auktoritär.
+3. För den specifika domänen anger du DomainType till "InternalRelay". Om du senare tar bort alla, se till att ange domänen som Auktoritativ.
 
-4. Skapa en flödes schema regel för flöden så här:
+4. Skapa en transportregel för e-postflöde enligt följande:
 
     - Om avsändaren är "utanför organisationen"
     - Omdirigera meddelandet till Catchall@domain.com
-    - Förutom om mottagaren är medlem i allusers@domain.com (distributions gruppen innehåller alla medlemmar)
-    - Kontrol lera att nya post lådor läggs till i den dynamiska distributions gruppen
+    - Förutom om mottagaren är medlem i allusers@domain.com (distributionsgruppen innehåller alla medlemmar)
+    - Kontrollera att nya postlådor läggs till i gruppen Dynamisk distribution
