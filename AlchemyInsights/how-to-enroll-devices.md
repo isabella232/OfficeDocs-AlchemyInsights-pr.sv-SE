@@ -1,8 +1,8 @@
 ---
-title: Så här registrerar du enheter
+title: Registrera enheter
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "2683"
 - "6200002"
-ms.openlocfilehash: 8fe73750296cb163789e3b7639f6b2404252bc44
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: c40742d6bfb7d0431b788c15517b50d34dd199a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089231"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825677"
 ---
-# <a name="how-to-enroll-devices"></a><span data-ttu-id="7c6ae-102">Så här registrerar du enheter</span><span class="sxs-lookup"><span data-stu-id="7c6ae-102">How to enroll devices</span></span>
+# <a name="how-to-enroll-devices"></a><span data-ttu-id="dc059-102">Registrera enheter</span><span class="sxs-lookup"><span data-stu-id="dc059-102">How to enroll devices</span></span>
 
-<span data-ttu-id="7c6ae-103">Här följer grundläggande information om registrering:</span><span class="sxs-lookup"><span data-stu-id="7c6ae-103">Following are the Enrollment basics:</span></span>
+<span data-ttu-id="dc059-103">Här är grunderna i Registrering:</span><span class="sxs-lookup"><span data-stu-id="dc059-103">Following are the Enrollment basics:</span></span>
 
-- <span data-ttu-id="7c6ae-104">Om du vill veta mer om Intune-registrering kan du läsa [Vad är enhets registrering i Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment).</span><span class="sxs-lookup"><span data-stu-id="7c6ae-104">To learn about Intune enrollment, see [What is device enrollment in Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment).</span></span>
+- <span data-ttu-id="dc059-104">Mer information om Intune-registrering finns [i Vad är enhetsregistrering i Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment).</span><span class="sxs-lookup"><span data-stu-id="dc059-104">To learn about Intune enrollment, see [What is device enrollment in Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment).</span></span>
 
-- <span data-ttu-id="7c6ae-105">Mer detaljerad information om registrering för specifika plattformar, instruktions guider och själv studie kurser finns i [registrera enheter i Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/) -portalen.</span><span class="sxs-lookup"><span data-stu-id="7c6ae-105">For more detailed information on enrollment for specific platforms, how-to guides, and tutorials, see [Enroll devices in Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/) portal.</span></span>
+- <span data-ttu-id="dc059-105">Mer detaljerad information om registrering för specifika plattformar, instruktionsguider och självstudiekurser finns i [Registrera enheter i Microsoft Intune-portalen.](https://docs.microsoft.com/mem/intune/enrollment/)</span><span class="sxs-lookup"><span data-stu-id="dc059-105">For more detailed information on enrollment for specific platforms, how-to guides, and tutorials, see [Enroll devices in Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/) portal.</span></span>
 
-<span data-ttu-id="7c6ae-106">**Felsöka problem med enhets registrering**</span><span class="sxs-lookup"><span data-stu-id="7c6ae-106">**Troubleshooting device enrollment issues**</span></span>
+<span data-ttu-id="dc059-106">**Felsöka problem med enhetsregistrering**</span><span class="sxs-lookup"><span data-stu-id="dc059-106">**Troubleshooting device enrollment issues**</span></span>
 
-- [<span data-ttu-id="7c6ae-107">Felsöka enhets registrering i Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="7c6ae-107">Troubleshoot device enrollment in Microsoft Intune</span></span>](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+- [<span data-ttu-id="dc059-107">Felsöka enhetsregistrering i Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="dc059-107">Troubleshoot device enrollment in Microsoft Intune</span></span>](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-- [<span data-ttu-id="7c6ae-108">Felsöka enhets registrering för iOS/iPad</span><span class="sxs-lookup"><span data-stu-id="7c6ae-108">Troubleshoot iOS/iPadOS device enrollment</span></span>](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
+- [<span data-ttu-id="dc059-108">Felsöka enhetsregistrering för iOS/iPadOS</span><span class="sxs-lookup"><span data-stu-id="dc059-108">Troubleshoot iOS/iPadOS device enrollment</span></span>](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-- [<span data-ttu-id="7c6ae-109">Felsöka problem med Windows-enhetsupptäckning</span><span class="sxs-lookup"><span data-stu-id="7c6ae-109">Troubleshoot Windows device enrollment problems</span></span>](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
+- [<span data-ttu-id="dc059-109">Felsöka problem med registrering av Windows-enheter</span><span class="sxs-lookup"><span data-stu-id="dc059-109">Troubleshoot Windows device enrollment problems</span></span>](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
 
-- [<span data-ttu-id="7c6ae-110">Felsöka automatisk registrering i Windows 10</span><span class="sxs-lookup"><span data-stu-id="7c6ae-110">Troubleshoot Windows 10 auto-enrollment</span></span>](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
+- [<span data-ttu-id="dc059-110">Felsöka automatisk registrering i Windows 10</span><span class="sxs-lookup"><span data-stu-id="dc059-110">Troubleshoot Windows 10 auto-enrollment</span></span>](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
 
-- [<span data-ttu-id="7c6ae-111">Felsöka problem med Android-företags enheter</span><span class="sxs-lookup"><span data-stu-id="7c6ae-111">Troubleshoot Android Enterprise device problems</span></span>](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
+- [<span data-ttu-id="dc059-111">Felsöka problem med Android Enterprise-enheter</span><span class="sxs-lookup"><span data-stu-id="dc059-111">Troubleshoot Android Enterprise device problems</span></span>](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
 
 
