@@ -1,8 +1,8 @@
 ---
-title: Enheter väntar på registrerings status
+title: Enheter är i läget Väntar registrering
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: c5e1cdb4d6e456b6f1af1c0794bd04180205bbf7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 220da7807f178a9dff4a78c61dd3e0cc8004c9c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730753"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815372"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a><span data-ttu-id="bdfda-102">Enheter har statusen "väntar på registrering"</span><span class="sxs-lookup"><span data-stu-id="bdfda-102">Devices are in "Awaiting Enrollment" state</span></span>
+# <a name="devices-are-in-awaiting-enrollment-state"></a><span data-ttu-id="9858e-102">Enheter är i läget "Väntar registrering"</span><span class="sxs-lookup"><span data-stu-id="9858e-102">Devices are in "Awaiting Enrollment" state</span></span>
 
-<span data-ttu-id="bdfda-103">Dator analys har inte diagnostikdata för den här enheten.</span><span class="sxs-lookup"><span data-stu-id="bdfda-103">Desktop Analytics doesn't have diagnostic data for this device.</span></span> 
+<span data-ttu-id="9858e-103">Skrivbordsanalys har inte diagnostikdata för den här enheten.</span><span class="sxs-lookup"><span data-stu-id="9858e-103">Desktop Analytics doesn't have diagnostic data for this device.</span></span> 
 
-<span data-ttu-id="bdfda-104">Det här problemet kan uppstå om du nyligen har lagt till enheten i mål samlingen och inte har skickat data ännu.</span><span class="sxs-lookup"><span data-stu-id="bdfda-104">This issue may occur because you recently added the device to the target collection and it hasn't yet sent data.</span></span> <span data-ttu-id="bdfda-105">Det kan också betyda att enheten inte fungerar korrekt med tjänsten och att de senaste diagnostikdata är äldre än 28 dagar.</span><span class="sxs-lookup"><span data-stu-id="bdfda-105">It can also mean the device isn't properly communicating with the service, and the latest diagnostic data is more than 28 days old.</span></span>
+<span data-ttu-id="9858e-104">Det här problemet kan uppstå om du nyligen har lagt till enheten i målsamlingen och att den ännu inte har skickat data.</span><span class="sxs-lookup"><span data-stu-id="9858e-104">This issue may occur because you recently added the device to the target collection and it hasn't yet sent data.</span></span> <span data-ttu-id="9858e-105">Det kan också betyda att enheten inte kommunicerar korrekt med tjänsten och att den senaste diagnostikinformationen är mer än 28 dagar gammal.</span><span class="sxs-lookup"><span data-stu-id="9858e-105">It can also mean the device isn't properly communicating with the service, and the latest diagnostic data is more than 28 days old.</span></span>
 
-<span data-ttu-id="bdfda-106">Kontrol lera att enheten kan kommunicera med tjänsten.</span><span class="sxs-lookup"><span data-stu-id="bdfda-106">Make sure the device can communicate with the service.</span></span> <span data-ttu-id="bdfda-107">Mer information finns i [slut punkter](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).</span><span class="sxs-lookup"><span data-stu-id="bdfda-107">For more information, see [Endpoints](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).</span></span>
+<span data-ttu-id="9858e-106">Kontrollera att enheten kan kommunicera med tjänsten.</span><span class="sxs-lookup"><span data-stu-id="9858e-106">Make sure the device can communicate with the service.</span></span> <span data-ttu-id="9858e-107">Mer information finns i [Slutpunkter](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).</span><span class="sxs-lookup"><span data-stu-id="9858e-107">For more information, see [Endpoints](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).</span></span>
 
-<span data-ttu-id="bdfda-108">Mer information om den inväntande registrerings statusen finns i [övervaka anslutnings](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)status.</span><span class="sxs-lookup"><span data-stu-id="bdfda-108">For more information about the awaiting enrollment status, see [Monitor Connection Health](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).</span></span>
+<span data-ttu-id="9858e-108">Mer information om statusen för väntar på registrering finns i [Övervaka anslutningshälsa.](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)</span><span class="sxs-lookup"><span data-stu-id="9858e-108">For more information about the awaiting enrollment status, see [Monitor Connection Health](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).</span></span>
