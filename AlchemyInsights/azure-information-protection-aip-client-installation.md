@@ -2,21 +2,22 @@
 title: 'Azure Information Protection: AIP-klientinstallation'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: da49fb3e5d7a6a4697259897133461cdc9e340ad
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: 97316befa65bad54d5de603aae804a22af7688c6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944552"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820772"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>Azure Information Protection: AIP-klientinstallation
 
@@ -33,4 +34,8 @@ Använd följande rekommenderade steg om du installerar AIP-klienten:
 
 4. Om du fortfarande har problem med att installera själva klienten efter att du har kört verktyget ovan letar du reda på mappen **%temp%** och tillhandahåller loggfilen för klientinstallationen som börjar med Microsoft_Azure_Information_Protection_XXXXXXXXXX.log.
 
-5. Om installationen lyckades och du fortfarande har problem med att använda AIP väljer du lämpligt supportämne för att få relevanta lösningar.
+För mer information:
+
+- Granska [AIP-dokumentation (Azure Information Protection),](https://docs.microsoft.com/azure/information-protection/what-is-information-protection), konfigurations-[krav ](https://docs.microsoft.com/azure/information-protection/get-started/requirements) och plats för att [ladda ned AIP-klienten](https://www.microsoft.com/download/details.aspx?id=53018).
+
+- Information om Azure-prenumerationer finns i [Azure Information Protection-prenumerationer och funktioner](https://azure.microsoft.com/pricing/details/information-protection).

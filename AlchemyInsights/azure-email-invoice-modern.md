@@ -1,8 +1,8 @@
 ---
-title: Moderna Azure e-postfakturering
+title: Modern e-postfakturering i Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6866"
-ms.openlocfilehash: 65df6091a97d4937379ded384a78b5d07aa76e42
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 4df8c49880fe638c1659f76edc0905532d091e45
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922145"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820844"
 ---
 # <a name="email-invoicing-in-azure"></a>E-postfakturering i Azure
 
-Du måste ha en ägare eller deltagar roll i fakturerings profilen eller dess fakturerings konto för att kunna uppdatera e-postfakturans preferens. När du har valt det får alla användare med rollerna ägare, deltagare, läsare och faktura chef i en fakturerings profil sin faktura via e-post.
+Du måste ha en ägar- eller en deltagarroll i faktureringsprofilen eller det tillhörande faktureringskontot för att kunna uppdatera inställningen för e-postfakturering. När du har anmält dig får alla användare med en ägar-, deltagar-, läsar- och fakturahanteringsroller i en faktureringsprofil fakturan via e-post.
 
 1. Logga in på [Azure-portalen](https://portal.azure.com/).
-2. Sök efter **kostnads hantering + fakturering**.
-3. Välj **fakturor** till vänster och välj sedan **e-postfaktura** längst upp på sidan.
-4. Om du har flera fakturerings profiler väljer du en fakturerings profil och väljer sedan **opt in**.
+2. Sök på **Kostnadshantering + fakturering**.
+3. Välj **Fakturor** på den vänstra sidan och välj sedan **E-postfaktura** högst upp på sidan.
+4. Om du har flera faktureringsprofiler väljer du en faktureringsprofil och väljer sedan **Anmäl dig**.
 
 5. Välj **Uppdatera**.
-6. Om du har flera fakturerings profiler väljer du en fakturerings profil och väljer sedan **opt in**.
+6. Om du har flera faktureringsprofiler markerar du en faktureringsprofil och väljer sedan **Anmäl dig**.
 
-Du ger andra till gång till Visa, ladda ned och betala fakturor genom att tilldela dem rollen som faktura chef för en betalnings profil för MCA eller MPA. Om du har valt att få fakturan i ett e-postmeddelande får användarna också fakturor via e-post.
+Du ger andra tillgång till att visa, ladda ned och betala fakturor genom att tilldela dem rollen som fakturahanterare för en MCA- eller MPA-faktureringsprofil. Om du har valt att hämta fakturan via e-post får även användarna sina fakturor via e-post.
 
 1. Logga in på [Azure-portalen](https://portal.azure.com/).
-2. Sök efter **kostnads hantering + fakturering**.
-3. Välj **betalnings profiler** från vänster sida. I listan betalnings profiler väljer du en betalnings profil som du vill tilldela en faktura administratörs roll.
-4. Välj **åtkomst kontroll (IAM)** från den vänstra sidan och välj sedan **Lägg till** högst upp på sidan.
+2. Sök på **Kostnadshantering + fakturering**.
+3. Markera **Faktureringsprofiler** på den vänstra sidan. Markera en faktureringsprofil i listan med faktureringsprofiler som du vill tilldela en fakturahanteringsroll.
+4. Markera **Åtkomstkontroll (IAM)** på den vänstra sidan och markera sedan **Lägg till** högst upp på sidan.
 
-I list rutan Role väljer du **faktura chef**. Ange e-postadressen för den användare som ska ge åtkomst. Välj **Spara** för att tilldela rollen.
+I listrutan Roll markerar du **Fakturahanterare**. Ange användarens e-postadress för att ge åtkomst. Markera **Spara** för att tilldela rollen.

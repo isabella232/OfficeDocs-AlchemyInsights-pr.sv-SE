@@ -1,8 +1,8 @@
 ---
-title: Abonnemangs typer som stöds
+title: Prenumerationstyper som stöds
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,53 +12,53 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6675"
-ms.openlocfilehash: 46bc60435c3f8477e9f274d90c39d0f1c6a523c6
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: dcf5855bff8725ea746196c1f07d689ce1797f8c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807981"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820700"
 ---
-# <a name="supported-subscription-types"></a>Abonnemangs typer som stöds
+# <a name="supported-subscription-types"></a>Prenumerationstyper som stöds
 
-Granska de abonnemangs typer som stöds för att fortsätta.
+Granska vilka prenumerationstyper som stöds för att gå vidare.
 
-[Abonnemangs typer som stöds](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#supported-subscription-types)
+[Prenumerationstyper som stöds](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#supported-subscription-types)
 
-**Överför ägandes Kap**
+**Överför faktureringsägarskap**
 
-Azure-portalen som [konto administratör](https://ms.portal.azure.com/) för det fakturerings konto som har den prenumeration du vill överföra
+Azure Portal som [Kontoadministratör](https://ms.portal.azure.com/) för det faktureringskonto som har den prenumeration du vill överföra.
 
-- Sök på **kostnads hantering + fakturering** . Välj **prenumerationer** från vänster fönster ruta. Beroende på åtkomst kan du behöva välja en fakturerings omfattning och sedan **prenumerationer** eller **Azure-prenumerationer** .
-- Välj överför ägandes Kap för abonnemanget som du vill överföra
-- Ange e-postadressen för en användare som är fakturerings administratör för det konto som kommer att bli den nya ägaren för abonnemanget och sedan välja **Skicka överförings förfrågan**
-- Användaren får ett e-postmeddelande med instruktioner för att kontrol lera din överföringsbegäran. För att godkänna överföringsbegäran väljer användaren länken i e-postmeddelandet och följer anvisningarna.
+- Sök på **Kostnadshantering + fakturering**. Välj **Prenumerationer** från den vänstra rutan. Beroende på åtkomst kan du behöva välja ett faktureringsomfång och sedan **Prenumerationer** eller **Azure-prenumerationer**.
+- Välj Överför faktureringsägarskap för den prenumeration du vill överföra.
+- Ange e-postadressen till en användare som är faktureringsadministratör för kontot som kommer att bli den nya ägaren för prenumerationen och välj sedan **Skicka begäran om överföring**.
+- Användaren får ett e-postmeddelande med instruktioner för att granska din överföringsbegäran. Om du vill godkänna överföringsbegäran väljer användaren länken i e-postmeddelandet och följer anvisningarna.
 
-Obs! Om du överför fakturerings ägandet för ditt abonnemang till en användares konto i en annan Azure AD-klient organisation, tas alla aktiviteter för [rollbaserad åtkomst kontroll (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) för att hantera resurser i prenumerationen permanent bort. Endast den nya ägaren får åtkomst till att hantera resurser i prenumerationen. Mer information finns i [överföra ett abonnemang till en användare i en annan Azure AD-klient organisation](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
+Tänk på att om du överför faktureringsägarskapet för prenumerationen till ett användarkonto i en annan Azure AD-klientorganisation, tas alla uppgifter för [rollbaserad åtkomstkontroll (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) för att hantera resurser i prenumerationen bort permanent. Det är bara den nya ägaren som får åtkomst till hantering av resurser i prenumerationen. Om du vill ha mer information kan du läsa [Överföra prenumeration till en användare i en annan Azure AD-klientorganisation](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-**Överför Ägandes Kap för abonnemang**
+**Överföra ägarskap för prenumeration**
 
-Abonnemangs ägarskap överföring för nödvändiga roller baserad åtkomst (RBAC) för att hantera resurser i prenumerationen förlorar deras åtkomst. Mer information om hur du lägger till befintliga abonnemang i en klient organisation finns i [associera eller lägga till en Azure-prenumeration i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
+Överföring av ägarskap för prenumeration förutsätter rollbaserad åtkomstkontrollsroll (RBAC) för att hantera resurser i prenumerationen, de som hade den rollen förlorar åtkomsten vid överföringen. Mer information om hur du lägger till en befintlig prenumeration för en klientorganisation finns i [Koppla eller lägga till en Azure-prenumeration i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-- Abonnemangs överföring med ett befintligt utestående belopp från den aktuella debiterings perioden överförs inte till det nya betalnings instrumentet i det nya kontot. Den enda tillgängliga informationen för användarna på det nya kontot är den senaste månadens kostnad för ditt abonnemang. Resten av användnings-och fakturerings historiken överförs inte med abonnemanget.
-- Överföring av fakturerings ägandes Kap för Enterprise Agreement-prenumerationer (EA) stöds för närvarande endast i Enterprise Agreement-portalen
-- Att överföra ett kundorienteradt abonnemang som Visual Studio, BizSpark, Microsoft Partner Network till en ny användare måste ha en Visual Studio/Microsoft Partner Network-licens för att acceptera överföringsbegäran
-- Alla resurser som virtuella datorer, diskar och webbplatser överförs till det nya kontot. Följande resurser kan påverkas av en prenumeration på flera innehavare:
+- Prenumerationsöverföring med ett befintligt utestående belopp från den aktuella faktureringsperioden överförs inte till det nya betalningsinstrumentet på det nya kontot. Den enda information som är tillgänglig för användarna på det nya kontot är den senaste månadens kostnad för prenumerationen. Resten av användnings- och faktureringshistoriken överförs inte med prenumerationen.
+- Överföra faktureringsägarskap för prenumerationer av Enterprise-avtal (EA) stöds för närvarande endast i portalen för Enterprise-avtal
+- För att en ny användare ska kunna acceptera en överföringsbegäran på kreditinriktade prenumerationer som Visual Studio, BizSpark och Microsoft Partner Network, behövs en Visual Studio/Microsoft Partner Network-licens
+- Alla resurser som Virtual Machines, diskar och webbplatser överförs till det nya kontot. Följande resurser kan påverkas i en prenumerationsöverföring mellan klientorganisationer:
 
 **Azure AD Domain Services**
 
-Azure Key-valv
+Azure Key Vaults
 
-- [SQL-relaterade användare och databaser](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support) kan påverkas, särskilt om kunden använder en Azure Active Directory-relaterad verifikation
-- **Program tjänster** som har kon figurer ATS med Azure Active Directory-auktorisering kan påverka
-- **Visual Studio-teamet** Tjänster som är anslutna till Azure-prenumerationer kan tillfälligt förlora åtkomst när det anslutna Azure-abonnemanget avbryts
+- [SQL-relaterade användare och databaser](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support)kan påverkas, särskilt om kunden använder en Azure Active Directory-relaterad autentisering
+- **App-tjänster** som är konfigurerade med Azure Active Directory-autentisering kan påverkas
+- **Visual Studio Team**-tjänstkonton som är anslutna till Azure-prenumerationer kan tillfälligt förlora åtkomst när den anslutna Azure-prenumerationen avbryts
 
 **Rekommenderade dokument**
 
-Steg efter att du har accepterat fakturerings ägandet:
+Steg efter att du har accepterat faktureringsägarskap:
 
-- Om du vill behålla fakturerings ägandet men ändra typen för ditt abonnemang kan du läsa: [byta ditt Azure-abonnemang till ett annat erbjudande](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Överför Visual Studio, Microsoft Partner Network (MPN) och betala allt eftersom med prov abonnemang](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
-- [Överföra fakturerings ägandes Kap för Enterprise Agreement (EA)-abonnemang](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transfer-billing-ownership-of-enterprise-agreement-ea-subscriptions)
-- [Vanliga frågor och svar om ägarskap](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
-- [Felsöka problem med överförings ägarskap](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
+- Om du vill behålla faktureringsägarskap men ändra typen, läs: [Ändra din Azure-prenumeration till ett annat erbjudande](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Överföring av utvecklings-/testprenumerationer för Visual Studio, Microsoft Partner Network (MPN) och Betala per användning](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
+- [Överföra faktureringsägarskap för prenumerationer av Enterprise-avtal (EA)](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transfer-billing-ownership-of-enterprise-agreement-ea-subscriptions)
+- [Vanliga frågor och svar om överföring av ägarskap](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
+- [Felsöka problem med överföring av ägarskap](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)

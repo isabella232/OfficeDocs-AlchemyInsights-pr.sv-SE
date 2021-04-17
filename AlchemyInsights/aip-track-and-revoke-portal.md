@@ -1,8 +1,8 @@
 ---
-title: 'AIP: spåra och återkalla Portal'
+title: 'AIP: Portalen för att spåra och återkalla'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: af2deff6b1ac8531fca9020277265f1d9d958775
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b187cd9a0f11168f54deb226c4828c280c0763cd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663171"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821609"
 ---
-# <a name="aip-track-and-revoke-portal"></a>AIP: spåra och återkalla Portal
+# <a name="aip-track-and-revoke-portal"></a>AIP: Portalen för att spåra och återkalla
 
-Använd **webbplatsen dokument uppföljning** i Azure-portalen för att spåra och återkalla dokument när du använder Azure information Protection. Office-programmen (Word, Excel och PowerPoint) och Utforskaren kan också användas för att spåra och återkalla dokument.
+Använd webbplatsen **för dokumentuppföljning** i Azure Portal för att spåra och återkalla dokument när du använder Azure Information Protection. Office-programmen (Word, Excel och PowerPoint) och Utforskaren kan också användas för att spåra och återkalla dokument.
 
-1. Klicka på **återkalla åtkomst**på webbplatsen dokument uppföljning. Om du återkallar ett dokument tas åtkomst från godkända användare bort. dokumentet tas inte bort.
+1. Klicka på Återkalla åtkomst på webbplatsen **för dokumentuppföljning.** Om du återkallar ett dokument tas åtkomsten bort från behöriga användare. dokumentet tas inte bort.
 2. I Office-programmet:
-    - Öppna det skyddade dokumentet som du vill spåra eller återkalla.
-    - På fliken **Start** i gruppen **skydd** klickar du på **skydda > spår och återkalla**.
+    - Öppna det skyddade dokument som du vill spåra eller återkalla.
+    - Klicka **på Skydda** eller spåra **och återkalla** i gruppen Skydd på **> Start.**
 
-- Mer information om hur du spårar och återkallar ett dokument finns i [spåra och återkalla](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke).
+- Mer information om att spåra och återkalla ett dokument finns i [Spåra och återkalla.](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
 
-Information om hur du använder PowerShell för att hantera dokument uppföljnings webbplatsen finns i följande avsnitt:
-- [Användar guide: spåra och återkalla dina dokument när du använder Azure information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
-- [Administratörs guide: Konfigurera och använda dokument spårning för Azure information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
-- [Rättighets hantering användnings licens](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
-- [Granska prenumerationer och funktioner för Azure information Protection](https://azure.microsoft.com/pricing/details/information-protection)
-- [Krav för Azure information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Snabb starts själv studie kurs för Azure information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+Information om hur du använder PowerShell för att hantera webbplatsen för dokumentspårning finns i följande avsnitt:
+- [Användarhandbok: Spåra och återkalla dokument när du använder Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
+- [Administratörsguide: Konfigurera och använda dokumentspårning för Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
+- [Rights Management-användningslicens](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
+- [Granska Prenumerationer och funktioner för Azure Information Protection](https://azure.microsoft.com/pricing/details/information-protection)
+- [Krav för Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Snabbstartskurs för Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)

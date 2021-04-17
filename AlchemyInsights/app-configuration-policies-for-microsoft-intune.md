@@ -2,24 +2,35 @@
 title: Principer för appkonfiguration för Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "1030"
-ms.openlocfilehash: 6f7c5f7cc3dc47ca8f5899ef96c5aafa8505342b
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
-ms.translationtype: MT
+- "9003770"
+- "6709"
+ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423976"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821348"
 ---
 # <a name="app-configuration-policies-for-microsoft-intune"></a>Principer för appkonfiguration för Microsoft Intune
 
-Appkonfigurationsprinciper i Microsoft Intune innehåller konfigurationsinställningar för iOS- eller Android-program. Med de här konfigurationsinställningarna kan en app anpassas. Konfigurationsprincipens stöd begränsas av operativsystemversioner och program.
+Principer för appkonfiguration för Microsoft Intune används för att tillhandahålla konfigurationsinställningar för iOS- eller Android-program Dessa konfigurationsinställningar gör att en app kan anpassas. Tänk på att det finns begränsningar för vilka operativsystemsversioner och vilka program som stöder användningen av konfigurationsprinciper.
 
-Mer information finns i [Appkonfigurationsprinciper för Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview).
+Läs följande dokumentation för mer information
+
+[Principer för appkonfiguration för Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+
+[Lägg till principer för appkonfiguration för hanterade iOS-enheter](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
+
+[Lägg till principer för appkonfiguration för hanterade Android-enheter](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
+
+[Lägg till principer för appkonfiguration för hanterade appar utan enhetsregistrering](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)

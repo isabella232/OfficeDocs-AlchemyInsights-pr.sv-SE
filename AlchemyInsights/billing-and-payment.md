@@ -2,7 +2,7 @@
 title: Fakturering och betalning
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,50 +12,50 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: e1f40da41eddc56c8086881a426bddb363c92446
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686048"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820412"
 ---
 # <a name="billing-and-payment"></a>Fakturering och betalning
 
-Du hittar dina fakturor på fliken **fakturerings**  >  [fakturor &-betalningar](https://go.microsoft.com/fwlink/p/?linkid=848039) .  Den senaste 3 månaders perioden visas som standard.  Om du vill visa äldre fakturor justerar du filtret.  Klicka på **PDF-länken Ladda ned faktura** för att Visa fakturan.
+Dina räkningar finns på fliken **&**  >  [Faktureringsfakturor.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Som standard visas fakturorna för de senaste 3 månaderna.  Justera filtret om du vill visa äldre fakturor.  Klicka på **PDF-länken Ladda** ned faktura för att visa fakturan.
 
 **Ta emot fakturor via e-post**
 
-På sidan **betalnings**  >  [påminnelse meddelanden](https://go.microsoft.com/fwlink/p/?linkid=853212) kan du aktivera den här funktionen och hantera de **on** användare som ska få fakturan som en e-postbilaga. Fakturan skickas till användarnas e-postadresser i listan med mottagar meddelanden. Listan innehåller alla fakturerings-och globala administratörer.  Du kan hantera vem som får faktura aviseringar genom att ändra rollen.  Om du tar bort rollen global eller fakturerings administratör tar du bort användaren från mottagar listan, och om du lägger till rollen global eller fakturerings administratör läggs användaren till i mottagar listan.
+På sidan  >  [Faktureringsfaktureringsaviseringar](https://go.microsoft.com/fwlink/p/?linkid=853212) kan du aktivera och hantera de användare som ska få fakturan som en  e-postbilaga. Fakturan skickas till användarnas e-postadresser i listan Meddelandemottagare. Listan innehåller alla fakturerings- och globala administratörer.  Du kan hantera vem som får fakturameddelanden genom att ändra rollen.  Om du tar bort rollen som global administratör eller faktureringsadministratör tas användaren bort från mottagarlistan, och om du lägger till den globala rollen eller faktureringsadministratörsrollen läggs användaren till i mottagarlistan.
 
-**Obs!** du får två separata e-postmeddelanden: en som du kan använda för att ta reda på att din faktura är klar, med instruktioner för att logga in i administrations centret för att visa den och ett andra e-postmeddelande som innehåller fakturerings utdraget som en bilaga.
+**Obs!** Du får två separata e-postmeddelanden: ett som visar att fakturan är klar, med instruktioner för att logga in på administrationscentret för att visa den och ett andra e-postmeddelande som innehåller faktureringsutdraget som en bifogad fil.
 
-**Betalas**
+**Betalning**
 
-Om du betalar med kredit kort eller bank konto debiteras den betalnings metod som är associerad med abonnemanget (er) inom några dagar efter det att fakturan har skapats. Om betalningen Miss lyckas kan du uppdatera eller ändra din betalnings metod.
+Om du betalar med kreditkort eller bankkonto debiteras den betalningsmetod som är kopplad till dina prenumerationer inom några dagar efter att fakturan har skapats. Om betalningen misslyckas uppdaterar eller ändrar du din betalningsmetod.
 
-Om du har lagt till ett nytt kort och ändå får ett varnings meddelande om det gamla kredit kortet kan du behöva associera det nya kortet med abonnemanget.
+Om du har lagt till ett nytt kort och du fortfarande får ett meddelande om avböjande på det gamla kreditkortet kan du behöva koppla det nya kortet till prenumerationen.
 
-1. I administrations centret går du till **Billing**  >  sidan betalnings metoder för **& betalning**  >  [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
+1. I administrationscentret går du till sidan **Fakturering** > **Fakturor och betalningar** > [Betalningsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Välj raden för betalnings metoden som du vill ersätta. I det högra fönstret visas alla fakturerings profiler och enskilda abonnemang med den valda betalnings metoden.
+2. Markera raden för betalningsmetoden som ska ersättas. I det högra fönstret visas alla faktureringsprofiler och enstaka prenumerationer som använder den valda betalningsmetoden.
 
-3. I det högra fönstret väljer du **Ersätt betalnings metod för alla objekt**.
+3. I det högra fönstret väljer du **Ersätt betalningsmetod för alla objekt**.
 
-4. Om du vill använda en befintlig betalnings metod väljer du en i list rutan och väljer sedan **Ersätt**.
+4. Om du vill använda en befintlig betalningsmetod väljer du en i listrutan och väljer sedan **Ersätt**.
 
     > [!NOTE]
-    > Om du har abonnemang kopplade till en fakturerings profil kan du bara använda ett kredit-eller betalkort för att betala för dem. Om du har bank konton som visas på sidan **betalnings sätt** kan de inte väljas i list rutan.
+    > Om du har prenumerationer som är associerade till en faktureringsprofil kan du bara använda kredit- eller betalkort för att betala för dem. Om du har bankkonton listade på sidan **Betalningsmetoder**, kan de inte väljas i listrutan.
 
-5. Om du vill lägga till en ny betalnings metod väljer du **Lägg till betalnings metod**.
+5. Om du vill lägga till en ny betalningsmetod väljer du **Lägg till betalningsmetod**.
 
-6. Ange konto informationen i fönstret **Lägg till betalnings metod** och välj sedan **Spara**. Du måste använda en betalnings metod från samma land som din klient organisation.
+6. I fönstret **Lägg till en betalningsmetod** anger du kontoinformationen och väljer sedan **Spara**. Du måste använda en betalningsmetod som utfärdats från samma land/region som din klientorganisation.
 
-7. Den nya betalnings metoden har redan valts i list rutan. Välj **Ersätt**.
+7. Den nya betalningsmetoden är redan vald i listrutan. Välj **Ersätt**.
 
-Mer information finns i [Hantera betalnings metoder](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Mer information finns i [Hantera betalningsmetoder.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-**Fakturerings frekvens**
+**Faktureringsfrekvens**
 
-Räkningar skapas varje månad eller varje år beroende på vilken betalnings frekvens som valts vid kassan.  
+Fakturor genereras varje månad eller per år beroende på vilken faktureringsfrekvens som valts i kassan.  
 
-**Obs!** beställningar med årlig fakturering kan få en växel efter halva tiden om ändringar gjorts som att lägga till eller ta bort licenser. [Ändra fakturerings frekvensen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Obs!** Order med årlig fakturering kan få en faktura mitt under en period om ändringar har gjorts, t.ex. att lägga till eller ta bort licenser. [Ändra faktureringsfrekvensen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

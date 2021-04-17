@@ -1,8 +1,8 @@
 ---
-title: Fakturering för reserverad instans
+title: Fakturering för reserverat köp av instans
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,104 +12,104 @@ ms.collection: Adm_O365
 ms.custom:
 - "6814"
 - "9003552"
-ms.openlocfilehash: 6cdcb5af27a475cc838eb434ff025eb18356360c
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 9d71554d2089a6d9e5d4850149d113959f3d43c0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823171"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820340"
 ---
-# <a name="billing-for-reserved-instance-purchase"></a>Fakturering för reserverad instans
+# <a name="billing-for-reserved-instance-purchase"></a>Fakturering för reserverat köp av instans
 
-Den reserverade instans köpet debiteras den betalnings metod som du väljer vid inköps tillfället. Abonnemangs typen måste vara ett företags avtal (erbjudande nummer: MS-AZR-0017P), betala allt eftersom (erbjudande nummer: MS-AZR-0003P), Microsoft-kundavtal eller KRYPTOGRAFIPROVIDER.
+Det reserverade instansköpet debiteras mot den betalningsmetod som är kopplad till prenumerationen som du väljer vid köpet. Prenumerationstypen måste vara ett enterprise-avtal (erbjudandenummer: MS-AZR-0017P), Pay-As-You-Go (erbjudandenummer: MS-AZR-0003P), Microsofts kundavtal eller CSP.
 
-- När det gäller en företags prenumeration dras avgifterna från den monetära åtagande personens pengar och debiteras som överliggande.
-- För att betala allt eftersom-abonnemang debiteras kredit kort eller faktura betalnings metod för abonnemanget.
+- För en företagsprenumeration dras debiteringarna av från registreringens monetära åtagandesaldo eller debiteras som övervärde
+- För prenumeration med betalning per abonnemang debiteras debiteringarna till kreditkorts- eller fakturabetalningsmetoden för prenumerationen
 
-**Avbryter reservation**
+**Annullera reservation**
 
-- **Själv service:** Du kan annullera eller byta ut en reserverad instans med [Azure Portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Välj reservation och klicka på åter betalning eller utbyte. Observera att du måste ha ägar åtkomst på reservations ordern till Exchange eller åter betalning. Till gång till reservationen gör inte att du kan fortsätta med åter betalning eller utbytet. Be reservations order ägaren ge dig ägar åtkomst till reservations ordern
-- **Exchange-princip:** Du kan utbyta en reservation för en annan reservation av samma typ – det finns **inga sanktioner** för reservation Exchange. Det totala åtagandet med ny reservation ska vara större än summan av den utbytta reservationens åter betalning och framtida månads betalningar (om tillämpligt)
-- **Åter betalnings policy:** Summan av åter betalning och de annullerade framtida betalningarna får inte överstiga $50 000 USD i ett rullande fönster med 12 månader. Vi **debiterar för närvarande inte något straff** för åter betalningar men kan debitera det på framtida åter betalningar
+- **Självbetjäning:** Du kan avbryta eller byta ut en reserverad instans själv med [hjälp av Azure Portal.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Välj reservationen och klicka på återbetalning eller byte. Observera att du måste ha ägaråtkomst på reservationsbeställningen för att kunna byta eller återbetala. Endast åtkomst till reservationen låter dig inte fortsätta med återbetalning eller byte. Be ägaren av reservationsbeställningen att ge dig ägaråtkomst till reservationsbeställningen
+- **Exchange-policy:** Du kan utväxta en reservation för en annan reservation av samma typ – **det finns** inga garantier för bokningsbyte. Det totala åtagandet med nya reservationer bör vara större än summan av den utbytna reservationens återbetalningsbelopp och kommande månadsbetalningar (om tillämpligt)
+- **Återbetalningspolicy:** Summan av återbetalningen och de inställda framtida betalningarna får inte överstiga 500 000 USD i ett rullande fönster på 12 månader. Vi **debiterar för närvarande inte några återbetalningar** men kan debitera det vid framtida återbetalningar
 
-**Undantag:** Själv service för Exchange och Cancel är inte tillgängligt för kunder i USA:
+**Undantag:** Självbetjäning för byte och avbokning är inte tillgängligt för kunder med ett företagsavtal för amerikanska myndigheter
 
-- Stöd för **API/PS/CLI** är inte tillgängligt för [självbetjänings utbyte och åter betalningar för Azure-reservationer](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Själv service för Exchange och Cancel är inte tillgängligt för kunder i USA: Andra amerikanska abonnemangs typer, inklusive betala allt eftersom-CSP stöds
+- **API-/PS-/CLI-support** är inte tillgänglig för avbokning och återbetalning av [börser via självbetjäning](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support) och återbetalning för Azure-bokningar
+- Funktionen för självbetjäning för byte och avbokning är inte tillgänglig för kunder med amerikanska government Enterprise Agreement. Andra prenumerationstyper för myndigheter i USA, bland annat Betala efter du-går och CSP stöds
 
-Läs mer: [hur retur-och Exchange-transaktioner behandlas](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) mer: [utbytes-och åter betalnings policy](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) andra frågor: [besök reserverade instans dokument](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Läs mer: [Hur retur- och exchangetransaktioner behandlas Läs mer:](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) Principer för [Exchange och återbetalning](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) Andra frågor: Besök reserverade [instansdokument](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Exchange en befintlig reserverad instans (själv tjänst)**
+**Byta ut en befintlig reserverad instans (självbetjäning)**
 
-Du kan utbyta en reservation för en annan reservation av samma typ. Du kan också återbetala en reservation, upp till $50 000 USD per år, om du inte längre behöver den. Själv service för Exchange och Cancel är inte tillgängligt för kunder i USA: Andra amerikanska abonnemangs typer, inklusive betala allt eftersom-CSP stöds. Du måste ha ägar åtkomst till reservations ordern för att kunna utbyta eller återbetala en befintlig reservation.
+Du kan utbyta en reservation mot en annan reservation av samma typ. Du kan också återbetala en reservation, upp till 50 000 USD per år, om du inte längre behöver den. Funktionen för självbetjäning för byte och avbokning är inte tillgänglig för kunder med amerikanska government Enterprise Agreement. Andra abonnemangstyper för myndigheter i USA, bland annat Betala efter du-går och CSP stöds. Du måste ha ägaråtkomst i reservationsbeställningen för att kunna byta eller återbetala en befintlig reservation.
 
-Följ stegen nedan för att slutföra transaktionen
+Följande steg vägleder dig om proceduren för att slutföra transaktionen
 
-1. Logga in på din [Azure-Portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Välj de reservationer som du vill återbetala och klicka på **Exchange** 2. Välj den VM-produkt som du vill köpa och ange en kvantitet. Se till att den nya inköps summan är större än den total summan [bestämmer rätt storlek innan du köper](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy).
-3. granska och Slutför transaktionen
+1.Logga in på din [Azure Portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Välj de bokningar som du vill återbetala och klicka på **Exchange** 2.Välj den VM-produkt som du vill köpa och ange ett antal. Kontrollera att totalsumman för nytt köp är mer än den returnerade summan [Fastställ rätt storlek innan du köper](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy).
+3.Granska och slutför transaktionen
 
-**Åter betalning för en reserverad instans**
+**Återbetalning för en reserverad instans**
 
-Om du vill återbetala en reservation går du till **reservations uppgifter** och klickar på **åter betalning**
+Om du vill återbetala en reservation går du till **Reservationsinformation** och klickar på **Återbetalning**
 
-**Pro-betygsatt åter betalning:**
+**Återbetalning klassificerad:**
 
-**Exempel på tekniker och minsta krav för åter betalning och utbyte** Exempel på direkt reservation:
+**Exempel på ersättning och minimikrav för återbetalning och byte** Exempel på förhandsbokning:
 
-- Du köper ett års perioden RI för $120 den 1 januari
-- Den sjunde april du vill återbetala eller utväxla denna reservation
-- Eftersom reservationen har varit aktiv i 97 dagar får du (1-97/365) * $120 tillbaka. (d.v.s. $88,1). Det finns inga straff för åter betalningar
-- Om du utbyter är ditt nya inköp större än $88,1
-- Det är för närvarande inga straff för åter betalningar
+- Du köper en ettårig ri för $120 den 1 januari
+- Den 7 april vill du återbetala eller byta den här reservationen
+- Eftersom reservationen har varit live i 97 dagar, får du (1-97/365) * $120 tillbaka. (88,1 kr). Återbetalningen är för närvarande inte återbetalningsbar
+- Om du utbyter bör ditt nya köp vara större än 88,1 usd
+- Återbetalningen är inte återbetalningsbar just nu
 
-**Exempel på fakturerings plan reservation:**
+**Exempel på reservation av faktureringsplan:**
 
-- Du köper ett års perioden RI för $10 per månad
-- Den sjunde april du vill återbetala eller utväxla denna reservation
-- Eftersom den senaste betalningen skedde 7 dagar får du (1-7/31) * $10 tillbaka. (d.v.s. $7,74)
-- De framtida betalningarna annulleras $80. Det finns inga straff för åter betalningar
-- Denna annullering dras $87,74 från dig att du använder gränsen för $50 000-bidrag
-- Om du utbyter bör det totala värdet för nya inköp vara högre än $87,74
+- Du köper en ettårig RI för 10 USD per månad
+- Den 7 april vill du återbetala eller byta den här reservationen
+- Eftersom den senaste betalningen inträffade i 7 dagar får du (1-7/31) * 100 kr tillbaka. (t.ex. 7,74 kr)
+- De framtida betalningarna är 80 kr. Återbetalningen är för närvarande inte återbetalningsbar
+- Återbetalningen dras av från 87,74 USD från att du har en återbetalningsgräns på 500 000 kr
+- Vid utbyte ska det totala värdet av ett nytt köp vara större än 877,74 kr
 
-**Det går inte att se faktura för den senaste fakturerings perioden**
+**Det går inte att se fakturan för den senaste faktureringsperioden**
 
-Det kan bero på att du inte ser en faktura:
+Några möjliga orsaker till att du inte ser en faktura:
 
-- Du har ett månads belopp på ditt abonnemang, eller om du har en gratis prov period. En faktura skapas bara när du är skyldig
-- Det är mindre än 30 dagar från den dag du abonnerar på Azure
-- Fakturan skapas ännu inte. Vänta till slutet av fakturerings perioden
-- Om du inte är konto administratör kanske inte gamla fakturor vara tillgängliga för dig
+- Du har ett månatligt kreditbelopp för prenumerationen som du inte har överskridit eller om du har en kostnadsfri utvärderingsversion. En faktura genereras endast när du är skyldig att betala pengar
+- Det är mindre än 30 dagar från det att du prenumererade på Azure
+- Fakturan har inte genererats än. Vänta till slutet av faktureringsperioden
+- Om du inte är kontoadministratör kanske äldre fakturor inte är tillgängliga för dig
 
-**Ladda ned din faktura från Azure Portal (. pdf)**
+**Ladda ned fakturan från Azure Portal (.pdf)**
 
-- Välj ditt abonnemang på sidan [prenumerationer](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) i Azure Portal som [användare med åtkomst till fakturor](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Välj **fakturor**
-- Klicka på **Ladda ner faktura** för att visa en kopia av din PDF-faktura. Om det **inte är tillgängligt** , se [Varför ser jag inte en faktura för den senaste fakturerings perioden?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+- Välj din prenumeration på [sidan Prenumerationer](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) i Azure Portal som användare med åtkomst [till fakturor](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Välj **Fakturor**
+- Klicka **på Ladda ned faktura** om du vill visa en kopia av PDF-fakturan. Om det **står Inte tillgänglig** går du till Varför visas inte en faktura för den senaste [faktureringsperioden?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
 
-**Ta emot din faktura via e-post (. pdf)**
+**Få din faktura via e-post (.pdf)**
 
-- Välj ditt abonnemang på sidan [prenumerationer](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) . Klicka på **fakturor** och skicka e-post till fakturan
-- Klicka på **opt in** och godkänn villkoren. Du måste välja för varje prenumeration du äger
+- Välj din prenumeration på [sidan](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) Prenumerationer. Klicka på **Fakturor** och skicka fakturan via e-post
+- Klicka **på registrera** dig och godkänn villkoren. Du måste registrera dig för varje prenumeration som du äger
 
-Obs! Om du inte får ett e-postmeddelande när du har åtgärdat anvisningarna kontrollerar du att din e-postadress är korrekt i [kommunikations inställningarna för din profil](https://account.windowsazure.com/profile)
+Obs! Om du inte får något e-postmeddelande när du har följt anvisningarna kontrollerar du att din e-postadress är rätt i [kommunikationsinställningarna i din profil](https://account.windowsazure.com/profile)
 
-**Ladda ned användnings data från Azure-portalen**
+**Ladda ned dina användningsdata från Azure Portal**
 
-- Logga in på [Azure-konto Center](https://account.windowsazure.com/Subscriptions) som [konto administratör](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
-- Välj den prenumeration som du vill använda för fakturan och informationen
-- Välj **fakturerings historik**
-- Välj **Visa aktuell sats** för att se en uppskattning av dina avgifter vid den tidpunkt då uppskattningen genererades
-- Välj **Hämta användning** för att hämta den dagliga användnings informationen som en CSV-fil. Om du ser två versioner tillgängliga kan du ladda ned version 2
+- Logga in på [Azure-kontocentret](https://account.windowsazure.com/Subscriptions) som [kontoadministratör](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
+- Välj prenumerationen som du vill ha faktura- och användningsinformation för
+- Välj **Faktureringshistorik**
+- Välj **Visa aktuellt kontoutdrag** om du vill se en uppskattning av dina avgifter vid den tid då uppskattningen skapades
+- Välj **Ladda ned användning** för att ladda ned dagliga användningsdata som en CSV-fil. Om du ser två versioner tillgängliga laddar du ned version 2
 
-Andra frågor: [besök reserverade instans dokument](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Andra frågor: [Besök reserverade instansdokument](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Rekommenderade dokument**
 
-- [Grundläggande om fakturering](https://docs.microsoft.com/partner-center/billing-basics/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Förstå hur reserverad instans rabatt används](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Ladda ned eller Visa din faktura för fakturering och daglig användnings data](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Förstå hur reserverad instans rabatt används](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Förstå den reserverade instans användningen för ditt abonnemang på prenumerationen](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Förstå reserverad instans användning för din företags registrering](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Windows-programkostnader som inte ingår i reserverade instanser](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Reserverade instanser i KRYPTOGRAFIPROVIDER-programmet (partner Central Cloud Solution Provider)](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Grunderna för fakturering](https://docs.microsoft.com/partner-center/billing-basics/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Förstå hur rabatten för reserverade instanser tillämpas](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Ladda ned eller visa din Azure-faktura och daglig användningsdata](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Förstå hur rabatten för reserverade instanser tillämpas](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Förstå reserverad användning av en instans för din prenumeration med betalning efter användning](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Förstå reserverad instans-användning för företagsregistrering](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Kostnader för Windows-programvara ingår inte i reserverade instanser](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Reserverade instanser i leverantörsprogrammet för partner central molnlösning (CSP)](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)

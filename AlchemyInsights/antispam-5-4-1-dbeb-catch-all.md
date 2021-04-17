@@ -2,7 +2,7 @@
 title: AntiSpam 5.4.1 DBEB catch-all
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: f9d613457ae33dc7e00f20391bbdff029500a123
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c6ce26a133428dc7351912d8250ef096dfc7521a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717379"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821465"
 ---
-# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Åtgärda leverans problem för felkod 550 5.4.1 Relä åtkomst nekad
+# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Korrigera leveransproblem för felkod 550 5.4.1 Nekad reläåtkomst
 
-Det här problemet uppstår när [du kontrollerar om en e-postadress är giltig för att förhindra bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) när du anger Microsoft Network. Prova följande:
+Det här problemet inträffar när [du kontrollerar om en e-postadress är giltig för att förhindra återstuds när](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) du går till Microsoft-nätverket. Prova följande:
 
-1. Avgöra om problemet är specifikt för en hel domän eller en enskild e-post adress:
-    - Hela domänen: domänen måste synkroniseras. pröva att [ange domänen som intern och sedan tillbaka till auktoritär](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
-    - En e-postadress: ibland måste adressen synkroniseras; att ändra SMTP-proxyadress och sedan ändra tillbaka den kan hjälpa dig.
-2. Avgöra om problemet är specifikt för en grupp eller en gemensam mapp. För vissa objekt typer kan objekten behöva skapas manuellt i Azure Active Directory.
+1. Avgör om problemet är specifikt för en hel domän eller en enda e-postadress:
+    - Hela domänen: Ibland behöver domänen synkroniseras. Prova [att ange domänen som Intern och sedan tillbaka till Auktoritativ](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
+    - Enskild e-postadress: Ibland behöver adressen synkroniseras. Det kan vara bra att ändra smtp-proxyadressen och sedan ändra tillbaka den.
+2. Avgör om problemet är specifikt för en grupp eller offentlig mapp. För vissa objekttyper kan objekten behöva skapas manuellt i Azure Active Directory.
 
-Om du behöver mer hjälp kan du öppna ett support ärende och ange omfattningen för problemet (inklusive den typ av objekt som du skickar till) så att du lättare får till gång till det.
+Om du behöver mer hjälp kan du öppna ett support ärende och ange omfattningen av problemet (inklusive typen av objekt som du skickar till) så att vi kan hjälpa dig bättre.
