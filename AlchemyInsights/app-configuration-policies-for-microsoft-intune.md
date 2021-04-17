@@ -2,24 +2,35 @@
 title: Principer för appkonfiguration för Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "1030"
-ms.openlocfilehash: 6f7c5f7cc3dc47ca8f5899ef96c5aafa8505342b
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
-ms.translationtype: MT
+- "9003770"
+- "6709"
+ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423976"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821348"
 ---
-# <a name="app-configuration-policies-for-microsoft-intune"></a><span data-ttu-id="74b7b-102">Principer för appkonfiguration för Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="74b7b-102">App Configuration policies for Microsoft Intune</span></span>
+# <a name="app-configuration-policies-for-microsoft-intune"></a><span data-ttu-id="b838f-102">Principer för appkonfiguration för Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="b838f-102">App Configuration policies for Microsoft Intune</span></span>
 
-<span data-ttu-id="74b7b-103">Appkonfigurationsprinciper i Microsoft Intune innehåller konfigurationsinställningar för iOS- eller Android-program.</span><span class="sxs-lookup"><span data-stu-id="74b7b-103">App configuration policies in Microsoft Intune provide configuration settings for iOS or Android applications.</span></span> <span data-ttu-id="74b7b-104">Med de här konfigurationsinställningarna kan en app anpassas.</span><span class="sxs-lookup"><span data-stu-id="74b7b-104">These configuration settings allow an app to be customized.</span></span> <span data-ttu-id="74b7b-105">Konfigurationsprincipens stöd begränsas av operativsystemversioner och program.</span><span class="sxs-lookup"><span data-stu-id="74b7b-105">Configuration policy support is limited by operating system versions and applications.</span></span>
+<span data-ttu-id="b838f-103">Principer för appkonfiguration för Microsoft Intune används för att tillhandahålla konfigurationsinställningar för iOS- eller Android-program</span><span class="sxs-lookup"><span data-stu-id="b838f-103">App configuration policies in Microsoft Intune are used to provide configuration settings for iOS or Android applications..</span></span> <span data-ttu-id="b838f-104">Dessa konfigurationsinställningar gör att en app kan anpassas.</span><span class="sxs-lookup"><span data-stu-id="b838f-104">These configuration settings allow an app to be customized.</span></span> <span data-ttu-id="b838f-105">Tänk på att det finns begränsningar för vilka operativsystemsversioner och vilka program som stöder användningen av konfigurationsprinciper.</span><span class="sxs-lookup"><span data-stu-id="b838f-105">Be aware that there are limitations in respect of which operating system versions and which applications support the use of configuration policies.</span></span>
 
-<span data-ttu-id="74b7b-106">Mer information finns i [Appkonfigurationsprinciper för Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview).</span><span class="sxs-lookup"><span data-stu-id="74b7b-106">For more details, see [App configuration policies for Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview).</span></span>
+<span data-ttu-id="b838f-106">Läs följande dokumentation för mer information</span><span class="sxs-lookup"><span data-stu-id="b838f-106">Please review the following documentation for details</span></span>
+
+[<span data-ttu-id="b838f-107">Principer för appkonfiguration för Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="b838f-107">App configuration policies for Microsoft Intune</span></span>](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+
+[<span data-ttu-id="b838f-108">Lägg till principer för appkonfiguration för hanterade iOS-enheter</span><span class="sxs-lookup"><span data-stu-id="b838f-108">Add app configuration policies for managed iOS devices</span></span>](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
+
+[<span data-ttu-id="b838f-109">Lägg till principer för appkonfiguration för hanterade Android-enheter</span><span class="sxs-lookup"><span data-stu-id="b838f-109">Add app configuration policies for managed Android devices</span></span>](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
+
+[<span data-ttu-id="b838f-110">Lägg till principer för appkonfiguration för hanterade appar utan enhetsregistrering</span><span class="sxs-lookup"><span data-stu-id="b838f-110">Add app configuration policies for managed apps without device enrollment</span></span>](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)
