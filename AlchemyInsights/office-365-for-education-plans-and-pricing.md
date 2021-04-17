@@ -1,8 +1,8 @@
 ---
-title: Office 365 för utbildning och prissättning
+title: Abonnemang och priser för Office 365 för utbildning
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 6d6292fddfceb03191c29dc14e9b2295da52e4ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 95d398a7f287899d11dc069e9874db805c5f51a8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729601"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829610"
 ---
-# <a name="get-microsoft-365-free-for-your-entire-school"></a><span data-ttu-id="2486a-102">Skaffa Microsoft 365 gratis för hela skolan</span><span class="sxs-lookup"><span data-stu-id="2486a-102">Get Microsoft 365 free for your entire school</span></span>
+# <a name="get-microsoft-365-free-for-your-entire-school"></a><span data-ttu-id="eddf6-102">Skaffa Microsoft 365 kostnadsfritt för hela skolan</span><span class="sxs-lookup"><span data-stu-id="eddf6-102">Get Microsoft 365 free for your entire school</span></span>
 
-<span data-ttu-id="2486a-103">Förbättra samarbetet mellan klass rummet och skolan med kostnads fria verktyg.</span><span class="sxs-lookup"><span data-stu-id="2486a-103">Improve classroom and school collaboration with free productivity tools.</span></span> <span data-ttu-id="2486a-104">Du måste kontrol lera att du är en ackrediterad akademiska institution för att utnyttja dessa erbjudanden.</span><span class="sxs-lookup"><span data-stu-id="2486a-104">You will need to verify that you are an accredited academic institution to take advantage of these offers.</span></span>
+<span data-ttu-id="eddf6-103">Förbättra samarbetet i klassrummet och på skolan med gratis produktivitetsverktyg.</span><span class="sxs-lookup"><span data-stu-id="eddf6-103">Improve classroom and school collaboration with free productivity tools.</span></span> <span data-ttu-id="eddf6-104">Du måste bekräfta att du har en godkänd akademisk institution för att kunna dra nytta av erbjudandena.</span><span class="sxs-lookup"><span data-stu-id="eddf6-104">You will need to verify that you are an accredited academic institution to take advantage of these offers.</span></span>
   
-- [<span data-ttu-id="2486a-105">Granska utbildnings abonnemangen</span><span class="sxs-lookup"><span data-stu-id="2486a-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
+- [<span data-ttu-id="eddf6-105">Granska Education-abonnemangen</span><span class="sxs-lookup"><span data-stu-id="eddf6-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
 
-- [<span data-ttu-id="2486a-106">Jämför alla Microsoft 365-abonnemang</span><span class="sxs-lookup"><span data-stu-id="2486a-106">Compare all Microsoft 365 subscriptions</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [<span data-ttu-id="eddf6-106">Jämföra alla Microsoft 365-prenumerationer</span><span class="sxs-lookup"><span data-stu-id="eddf6-106">Compare all Microsoft 365 subscriptions</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)

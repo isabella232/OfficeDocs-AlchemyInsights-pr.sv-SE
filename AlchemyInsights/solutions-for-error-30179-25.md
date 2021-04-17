@@ -1,8 +1,8 @@
 ---
-title: Lösningar för fel 30179-25
+title: Lösningar på fel 30179-25
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,16 +13,16 @@ ms.assetid: 858c2f23-bcf5-42e4-92c5-8749eed29dfb
 ms.custom:
 - "835"
 - "2000020"
-ms.openlocfilehash: 34118e85d7a16be963f2ff0ee3bab93fcbe69f4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 42b275309ff7a63899bc03898dd29884fd797a4c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738737"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828278"
 ---
-# <a name="solutions-for-error-30179-25"></a><span data-ttu-id="7d4ba-102">Lösningar för fel 30179-25</span><span class="sxs-lookup"><span data-stu-id="7d4ba-102">Solutions for error 30179-25</span></span>
+# <a name="solutions-for-error-30179-25"></a><span data-ttu-id="1ca4b-102">Lösningar på fel 30179-25</span><span class="sxs-lookup"><span data-stu-id="1ca4b-102">Solutions for error 30179-25</span></span>
 
-<span data-ttu-id="7d4ba-103">Du kanske ser ett fel med meddelandet "Det gick inte att strömma Office" (felkod [30179-25](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)) om utrymmet tar slut.</span><span class="sxs-lookup"><span data-stu-id="7d4ba-103">You might see an error with the message, "Couldn't stream Office" (Error code [30179-25](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)) if your hard drive is running out of space.</span></span>
+<span data-ttu-id="1ca4b-103">Ett felmeddelande kan visas: "Det gick inte att strömma Office" (felkod [30179-25)](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)om hårddiskutrymmet är på.</span><span class="sxs-lookup"><span data-stu-id="1ca4b-103">You might see an error with the message, "Couldn't stream Office" (Error code [30179-25](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)) if your hard drive is running out of space.</span></span>
   
-<span data-ttu-id="7d4ba-104">[Frigör utrymme på hård disken](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) och [installera om Office](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="7d4ba-104">[Free up space on your hard drive](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) and then [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+<span data-ttu-id="1ca4b-104">[Frigör utrymme på hårddisken och installera](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) om [Office](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="1ca4b-104">[Free up space on your hard drive](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) and then [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
   
