@@ -1,8 +1,8 @@
 ---
-title: Ansluta till MSCommerce-modulen
+title: Ansluta till modulen MSCommerce
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3529"
-ms.openlocfilehash: 15dc7038426a8d436c236a91aa0f3462f6a3e366
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e6819f6d6ff37baab4bdd49cb5a87c32490f841
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702633"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829754"
 ---
-# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce kräver ett företags-eller fakturerings konto
+# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce kräver ett företags- eller faktureringsadministratörskonto
 
-Modulen MSCommerce kräver ett konto med administratörs behörighet för företaget eller fakturerings administratören. Om du får följande fel meddelande måste du återansluta till ett annat konto.
+Modulen MSCommerce kräver ett konto med administratörsbehörigheter för företag eller fakturering. Om du får följande felmeddelande måste du återansluta till ett annat konto.
 
-*ErrorMessage-fjärrservern returnerade ett fel: (403) förbjudet. ErrorDetails – på Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 tecken: 5*<br>
-*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError-ErrorContext $ _-CustomErrorMessage "misslyckades med retri...*<br>
+*ErrorMessage – Fjärrservern returnerade ett fel: (403) Förbjudet. ErrorDetails – på C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 char:5*<br>
+*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError -ErrorContext $_ -CustomErrorMessage "Failed totri ...*<br>
 \+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo: NotSpecified: (:) [Skriv-fel], WriteErrorException*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId: Microsoft. PowerShell. kommandon. WriteErrorException, HandleError*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo: NotSpecified: (:) [Write-Error], WriteErrorException*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId : Microsoft.PowerShell.Commands.WriteErrorException,HandleError*
 
-Om ditt konto inte har administratörs behörighet för företag eller fakturering kontaktar du IT-administratören.
+Om ditt konto inte har administratörsbehörigheter för företag eller fakturering kontaktar du IT-administratören.

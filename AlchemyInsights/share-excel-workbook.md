@@ -2,7 +2,7 @@
 title: Dela Excel-arbetsbok
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 7691ef33408b8aa4acc7f641699f7696785e8fe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38422d44e584c68db1913198228b0091869a87b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739303"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828458"
 ---
-# <a name="collaborate-on-excel-documents"></a>Samar beta i Excel-dokument
+# <a name="collaborate-on-excel-documents"></a>Samarbeta i Excel-dokument
 
-Om du vill samar beta med kollegor i Excel-dokument använder du **funktionen för samtidig redigering**. 
+Om du vill samarbeta med kollegor i **Excel-dokument kan du använda funktionen för samtidig redigering**. 
 
-Lär dig mer om hur du aktiverar och använder den här funktionen, samt hur du kan se svar på vanliga frågor om att dela och redigera scenarier, i [samar beta i Excel-arbetsböcker samtidigt med samtidig redigering](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).
+Läs mer om hur du aktiverar och använder den här funktionen, förutom att få svar på vanliga frågor om delning och samtidig redigering, i Samarbeta i [Excel-arbetsböcker](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)samtidigt med andra med samtidig redigering .

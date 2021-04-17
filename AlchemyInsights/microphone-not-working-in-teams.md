@@ -1,8 +1,8 @@
 ---
-title: Mikrofonen fungerar inte i Teams
+title: Mikrofon fungerar inte i Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003568"
 - "6654"
-ms.openlocfilehash: 20aea78deaa63091183ca72380903ba6aa6c98cd
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
-ms.translationtype: MT
+ms.openlocfilehash: 32461b94abb4d7caf80096a1d36f414801e52cfc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365023"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830015"
 ---
-# <a name="microphone-isnt-working-in-teams"></a>Mikrofonen fungerar inte i Teams
+# <a name="microphone-isnt-working-in-teams"></a>Mikrofon fungerar inte i Teams
 
-Starta fel sökningen genom att göra följande:
+Börja felsöka genom att göra följande:
 
 - Söker efter uppdateringar för Windows och Teams.
-- Stänga andra program som använder mikrofonen.
-- Ring ett prov samtal för att kontrol lera om mikrofonen fungerar som den ska.
+- Stänga andra appar som använder mikrofonen.
+- Ringa ett testsamtal för att kontrollera om mikrofonen fungerar som den ska.
 
-Mer information och mer fel söknings anvisningar finns i [min mikrofon fungerar inte i Teams](https://support.microsoft.com/office/666d1123-9dd0-4a31-ad2e-a758b204f33a).
+Mer information och fler felsökningssteg finns [i Min mikrofon fungerar inte i Teams](https://support.microsoft.com/office/666d1123-9dd0-4a31-ad2e-a758b204f33a).
