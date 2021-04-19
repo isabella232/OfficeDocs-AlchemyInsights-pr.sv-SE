@@ -1,49 +1,50 @@
 ---
-title: Skapa en organisationsrelation så att användarna kan samarbeta med en annan organisation
+title: Skapa en organisationsrelation så att dina användare kan samarbeta med en annan organisation
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 2c6cd6a178c6e012bfe1c8d769b037168ffa3254
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
+ms.openlocfilehash: b595fb87e18a055a7df1ff4c782a93591dd1f024
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862192"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816146"
 ---
-# <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Skapa en organisationsrelation så att användarna kan samarbeta med en annan organisation
+# <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Skapa en organisationsrelation så att dina användare kan samarbeta med en annan organisation
 
-1. Gå till **Admin**Exchange på instrumentpanelen i Microsoft 365 admin center  >  **Exchange**.
-2. Gå **organization**till  >  **organisationsdelning**.
-3. Klicka på **Nytt** under **Organisationsdelning.**
-4. I **den nya organisationsrelationen**skriver du ett eget namn för organisationsrelationen i rutan **Relationnamn.**
-5. I rutan **Domäner som ska delas med** skriver du domänen för den externa office 365- eller Exchange-organisation som du vill att dina kalendrar ska visas. Om du behöver ange mer än en domän avgränsar du domännamnen med ett kommatecken. Till exempel contoso.com, service.contoso.com.
-6. Markera kryssrutan **Aktivera ledig/upptagen-informationsdelning** i kalendern om du vill aktivera kalenderdelning med de domäner som du listade. Ange delningsnivån för ledig/upptagen-information i kalendern och ange vilka användare som kan dela ledig/upptagen-information i kalendern.  
+1. Från instrumentpanelen i administrationscentret för Microsoft 365 går du till **Admin**  >  **Exchange**.
+2. Gå till  >  **organisationsdelning**.
+3. Klicka **på Nytt** under **Organisationsdelning.**
+4. Ange **ett eget namn** på **organisationsrelationen i** rutan Relationsnamn i den nya organisationsrelationen.
+5. I rutan **Domäner att** dela med anger du domänen för den externa office 365- eller Exchange-lokala organisationen som du vill ska kunna se dina kalendrar. Om du behöver ange mer än en domän avgränsar du domännamnen med kommatecken. Till exempel contoso.com, service.contoso.com.
+6. Markera kryssrutan **Aktivera delning av kalenderinformation om du** vill aktivera kalenderdelning med de domäner som du har angett. Ange delningsnivå för ledig/upptagen-information och ange vilka användare som kan dela ledig/upptagen-information.  
 
-Om du vill ange ledig/upptagen åtkomstnivå väljer du något av följande:
+Välj något av följande för att ställa in åtkomstnivån ledig/upptagen:
 
 - **Ledig/upptagen med information om enbart tid**
-- **Kalender ledig/upptagen med tid, ämne och plats**  
+- **Kalendern är ledig/upptagen med tid, ämne och plats**  
 
- Om du vill ange vilka användare som ska dela ledig/upptagen-information i kalendern väljer du något av följande:
+ Välj något av följande om du vill ange vilka användare som ska dela ledig/upptagen-information i kalendern:
 
 - **Alla i organisationen**
 - **En angiven säkerhetsgrupp**  
 
-Klicka **på Bläddra** för att välja säkerhetsgruppen från en lista och klicka sedan på **ok**.
+Klicka **på** Bläddra och välj säkerhetsgrupp från en lista och klicka sedan på **OK.**
 
-Klicka på **Spara** för att skapa organisationsrelationen.  
+Klicka **på Spara** för att skapa en organisationsrelation.  
 
-**Obs:** Konfigurationer mellan klienter stöder inte personliga kontakter för ledig/upptagen sökning. Kontakter måste inkluderas i den globala adresslistan för att ledig/upptagen-sökning ska fungera.
+**Obs!** Konfigurationer mellan klientorganisationen stöder inte personliga kontakter för sökning ledig/upptagen. Kontakter måste finnas med i den globala adresslistan för att uppslag som är ledig/upptagen ska fungera.
 
-**För full förståelse för detta ämne läs:**
+**Mer information för fullständig förståelse av det här avsnittet finns här:**
 
 - [Skapa en organisationsrelation i Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
 - [Ändra en organisationsrelation i Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
