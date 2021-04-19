@@ -2,21 +2,22 @@
 title: Aktivera Microsoft 365-appar
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 94f4c8802e511bbb8b42570ac3c4536b61a1c5db
-ms.sourcegitcommit: 462522e6bccde76f6c46795b0eca71320c5d442d
+ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "44735230"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823049"
 ---
 # <a name="activating-microsoft-365-apps"></a>Aktivera Microsoft 365-appar
 
@@ -26,7 +27,7 @@ Så här aktiverar du Office:
 
 - [Aktivera Office på en Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Obs:**  Kontrollera att du har en Office 365- eller Microsoft 365-prenumeration som [innehåller Office-klientappar](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), t.ex. Kontrollera dessutom att användarkontot som du använder för att logga in på Office-appar har [en licens tilldelad](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+**Obs!**  Kontrollera att du har en Office 365- [](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)eller Microsoft 365-prenumeration som omfattar Office-klientappar, t.ex. Microsoft 365 Business Standard, Microsoft 365-appar för företag eller Microsoft 365-appar för företag. Kontrollera dessutom att det användarkonto som du använder för att logga in på Office-appar har [en tilldelad licens.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Så här korrigerar du problem med aktivering av Office:
 
@@ -35,7 +36,9 @@ Så här korrigerar du problem med aktivering av Office:
 
 - [Så här gör du om det inte går att installera eller aktivera Office för Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-Om du inte kan logga in på Microsoft 365-appar följer du stegen nedan:
+**Tips** På Windows-datorer kan vi diagnostisera och automatiskt korrigera flera vanliga inloggningsproblem för Office åt dig. Ladda ned och kör **[Support- och återställningsassistenten](https://aka.ms/SaRA-OfficeSignInScenario)** om du vill använda vårt automatiska verktyg.
+
+Om du inte kan logga in på Microsoft 365-apparna följer du stegen nedan:
 
 1. Öppna en Office-app och [logga ut](https://go.microsoft.com/fwlink/?linkid=2114082) med befintliga användarkonton.
 

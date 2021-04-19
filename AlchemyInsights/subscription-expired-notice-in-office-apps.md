@@ -1,24 +1,25 @@
 ---
-title: Meddelande om att prenumerationen har gått ut i Office-appar
+title: Meddelande om att prenumerationen har gått ut i Microsoft 365-appar
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 19ec94291497cd6cf3758e1ee2bb3c7c3631f001
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: 466f164e5010476ff67d2b2bdbb1e802351795cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789284"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823589"
 ---
-# <a name="subscription-expired-notice-in-office-apps"></a>Meddelandet ”Prenumerationen har gått ut” i Office-appar
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Meddelande om att prenumerationen har gått ut i Microsoft 365-appar
 
 - Gå till [sidan Tjänststatus](https://docs.microsoft.com/office365/enterprise/view-service-health) för att se om det finns några kända problem med tjänsten.
 
@@ -30,7 +31,7 @@ ms.locfileid: "43789284"
 
 - Kör [aktiveringsfelsökaren](https://aka.ms/SARA-OfficeActivation-Alchemy) och starta om datorn.
 
-- [Återställ aktiveringsstatusen för Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632) på datorn som påverkas.
+- [Återställ aktiveringsstatusen för Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state) på datorn som påverkas.
 
 Detaljerade anvisningar finns i: 
 

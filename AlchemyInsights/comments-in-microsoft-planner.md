@@ -2,21 +2,22 @@
 title: Kommentarer i Microsoft Planner
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: 98246b52e21c7a24d04e18ce77d96b28c65e7909
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: HT
+ms.openlocfilehash: 09385fd0235939d01e0baf141362cb8b76910682
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911238"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817658"
 ---
 # <a name="comments-in-microsoft-planner"></a>Kommentarer i Microsoft Planner
 
@@ -32,4 +33,4 @@ Här är några svar på vanliga problem som rör kommentarer:
 
 - **Borttagna användare får e-postmeddelanden** – Om en användare kommenterar en uppgift innan hen tas bort från planen inkluderar e-posttråden användarna för alla kommentarer som skrivs om uppgiften.
 
-Mer information om kommentarer i Microsoft Planner finns i [Så här fungerar Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) och [Kommentera uppgifter i Microsoft Planner](https://support.microsoft.com/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1).
+Mer information om kommentarer i Microsoft Planner finns i [Så här fungerar Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) och [Kommentera uppgifter i Microsoft Planner](https://support.microsoft.com/office/fd4aedde-7785-4cd0-96ee-122fbc9140e1).
