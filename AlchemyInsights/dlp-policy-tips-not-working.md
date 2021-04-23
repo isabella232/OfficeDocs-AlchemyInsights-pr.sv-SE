@@ -1,5 +1,5 @@
 ---
-title: Tips för DLP-principer fungerar inte
+title: DLP-principtips fungerar inte
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,28 +13,23 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68387bf6f5f91657f1d853b9d67bdea6fac21bde
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679603"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952210"
 ---
-# <a name="dlp-policy-tip-issues"></a>Problem med DLP-princip Tips
+# <a name="dlp-policy-tip-issues"></a>Problem med DLP-policytips
 
 **Viktigt**: under denna extraordinära tid vidtar vi åtgärder för att se till att SharePoint Online- och OneDrive-tjänsterna har hög tillgänglighet. Mer information finns i [temporära funktionsjusteringar för SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**Tips för DLP-principer**
+Så här konfigurerar du principtips för DLP-principen i säkerhets- & säkerhets- och efterlevnadscenter i fullständigt tvingande läge:
 
-När du använder **DLP-principer**kan användarna få en policy överträdelse av **princip Tips**. Administratörer kan konfigurera princip tips som ska visas när de testar sina DLP-principer eller när principen är i fullständigt tvingande läge.
-  
-Gör så här om du vill konfigurera princip Tips för DLP-principen i säkerhets-och kompatibilitetstillstånd i fullständigt tvingande läge:
-  
-- Se till att princip tipsen har **Aktiver ATS** för DLP-regler enligt anvisningarna [här](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
+- Kontrollera att principtips har **aktiverats** för DLP-regeln. Instruktioner finns i Skicka [e-postaviseringar och visa principtips för DLP-principer.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-- Se till att ditt **innehåll matchar** vad som **krävs** för att utlösa regeln i den [här artikeln.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Se till att ditt innehåll matchar det som krävs för att utlösa regeln som beskrivs i [definitionerna för entitet av typen Känslig information.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- Princip tips visas i både OWA och Outlook. När du använder **Outlook 2013 eller senare**visas också princip tips under vissa förhållanden. Dessa villkor finns här: [villkor för Outlook 2013 eller senare för att Visa princip Tips](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+Policytips visas i både OWA och Outlook. Men när du använder Outlook 2013 eller senare visas principtips endast under vissa förhållanden. Listan med specifika villkor finns i Villkor [som stöds för Outlook 2013 eller senare för visning av policytips.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-Mer information om DLP-princip tips finns i: [Visa princip Tips för DLP-principer](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-  
+Mer information om DLP-principtips finns i [Referens för DLP-principtips](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) och [Supportmatris för DLP-principtips.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
