@@ -13,24 +13,24 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: d5d5288dc3ea8a708e92d79adf03eb21d65d42ac
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0c9e7a5bed309e473cc626f2572f902f1a581234
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811078"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261785"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – ljudkonferens
 
-Behöver du hjälp med att aktivera eller konfigurera [ljudkonferens för Microsoft Teams?](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)  Har användaren nyligen skapats? I så fall måste du flera timmar innan inställningarna börjar gälla.
+Behöver du hjälp med att aktivera eller [konfigurera ljudkonferens för Microsoft Teams?](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)  Har användaren nyligen skapats? I så fall måste du flera timmar innan inställningarna börjar gälla.
 
-Om [licenser har köpts](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)kontrollerar du att användaren är licensierad för Microsoft 365-ljudkonferens och har ett standardbelagda nummer.
+Om [licenser har köpts](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)kontrollerar du att användaren är licensierad för Microsoft 365 och har ett standardbelagda nummer.
 
 1. Gå till [Aktiva användare](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) och markera den aktuella användaren.
 
 2. Beroende på version av administratörscenter väljer du antingen **Licenser och appar** eller klickar **Redigera** på **Produktlicenser**.
 
-3. Bekräfta att användaren har valt licenser för **Microsoft 365-ljudkonferenser, Microsoft Teams** och Skype för företag – Online **(abonnemang 2).** Om du **inte har någon ljudkonferenslicens för Microsoft 365** måste du köpa [tilläggslicenser](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business) först.
+3. Kontrollera att användaren har valt licenser för **Microsoft 365 ljudkonferens, Microsoft Teams** och **Skype för företag Online (abonnemang 2).** Om Microsoft 365 **för ljudkonferens** inte finns måste du köpa [tilläggslicenser](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business) först.
 
 4. Användarens **Administratörscenter**, klicka på **Visa alla** och sedan **Teams**.
 
@@ -40,4 +40,4 @@ Om [licenser har köpts](https://docs.microsoft.com/microsoftteams/set-up-audio-
 
 7. Välj användaren i fråga och kontrollera att användaren har ett **Avgiftsbelagt standardnummer**.
 
-Om du behöver mer hjälp med att köpa licenser för **Microsoft-ljudkonferenser** kan du ringa [Microsofts faktureringssupport.](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support)
+Om du behöver mer hjälp med att köpa licenser för **Microsoft-ljudkonferenser** kan du ringa [Microsofts faktureringssupport.](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support)

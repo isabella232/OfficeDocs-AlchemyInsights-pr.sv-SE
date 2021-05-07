@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.openlocfilehash: d4c5fcf5140f079bfb6ae0f76ec2d080c6befd0a
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 1c9c57be405b6bfd530cebc801671fd017df859b
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896885"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261610"
 ---
 # <a name="canceling-your-subscription"></a>Vill du avbryta prenumerationen?
 
 Vi beklagar att du vill avbryta prenumerationen, men om du vill avbryta prenumerationen finns följande alternativ:
   
 - Om du har färre än 25 tilldelade licenser kan du avbryta prenumerationen online. Gå till  sidan \> **[Fakturering Dina](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter och leta reda på den prenumeration som du vill avbryta. Välj **Fler åtgärder** (tre punkter) och välj sedan **Avbryt prenumeration**.
-- Om du har fler än 25 licenser tilldelade till användare ringer du [supporten för att avbryta prenumerationen.](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
+- Om du har fler än 25 licenser tilldelade till användare ringer du [supporten för att avbryta prenumerationen.](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
   
 **Återbetalning: En återbetalning i procent återbetalas till dig under nästa faktureringsperiod.**
 

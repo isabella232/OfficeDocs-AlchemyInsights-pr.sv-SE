@@ -1,5 +1,5 @@
 ---
-title: Klassiska redovisnings rapporter för SharePoint
+title: Klassiska SharePoint granskningsloggrapporter
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,41 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1372"
 - "3100005"
-ms.assetid: ''
-ms.openlocfilehash: daf79f8d75ccdff8ad54f0f307648a5832a6bb71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f84a86331ffe714ffb5154d55608a91725a2fbfb
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662226"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233624"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>Gransknings loggar för SharePoint och OneDrive
+# <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint och OneDrive granskningsloggar
 
-## <a name="sharepoint-classic-audit-logs"></a>Klassiska SharePoint-gransknings loggar
+* [Aktivera/inaktivera enhetlig granskningsloggning](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
 
-SPO Legacy-granskning migrerades till Unified audit log (UAL). Alla SPO-gransknings rapporter kommer nu att startas med UAL och de äldre gransknings signalerna har migrerats till UAL.
+Använd granskningsloggning för att kontrollera aktiviteten för filer, mappar, användare och behörigheter:
 
-Viktiga ändringar:
-
-* Trimning är inte tillgänglig som en funktion.
-* Det går inte att välja specifika händelser som ska granskas. I [det här dokumentet](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) finns en fullständig lista över granskade händelser som är tillgängliga som standard.
-* Alternativet **plats** under **anpassade rapporter** är inte tillgängligt.
-* Alternativet för att **Öppna eller ladda ned dokument** händelser är inte tillgängligt.
-
-[Konfigurera gransknings inställningar för en webbplats samling](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
-
-## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>SharePoint-och OneDrive-moderna enhetliga redovisnings loggar från efterlevnad
-
-* [Aktivera/inaktivera enhetlig gransknings loggning](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
-
-Det krävs ingen ytterligare konfiguration i SharePoint eller OneDrive.
-
-Använd gransknings loggnings sökning för att kontrol lera aktivitet för filer, mappar, användare, behörigheter:
-
-* [Fil-och sid aktiviteter](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
+* [Fil- och sidaktiviteter](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
 * [Mappaktiviteter](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#folder-activities)
 * [Aktiviteter för delning och åtkomstbegäran](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-* [Synkroniseringsuppgift](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-* [Aktiviteter för webbplats administration](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+* [Synkroniseringsaktiviteter](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+* [Aktiviteter för webbplatsadministration](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 
-Mer information om hur du hämtar de här händelserna finns i [söka i gransknings loggen](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Mer information om hur du hämtar dessa händelser finns i [Söka i granskningsloggen](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+
+Den äldre SPO-granskning har migrerats till UAL (Unified Audit Log). Alla äldre SPO-granskningsrapporter använder UAL och äldre granskningssignaler har migrerats till UAL. Mer information finns i Konfigurera [granskningsdata för en webbplatssamling](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2).

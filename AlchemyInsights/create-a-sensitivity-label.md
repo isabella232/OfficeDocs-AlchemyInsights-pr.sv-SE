@@ -1,6 +1,6 @@
 ---
 title: Så här skapar du en känslighetsetikett
-ms.author: pebuam
+ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/21/2021
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: 0daa46f35f80eb423a75b150a1742c23e90389f8
-ms.sourcegitcommit: 69206a3d292d681c81f0ac74b1fcec3ae50912de
+ms.openlocfilehash: d90645758100e3ff29d77dd09848b36f33c3f526
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "52125277"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233408"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Så här skapar du en känslighetsetikett
 
@@ -30,8 +30,8 @@ ms.locfileid: "52125277"
 
     Mer information om automatisk märkning finns i [Använda en känslighetsetikett på innehållet automatiskt.](https://go.microsoft.com/fwlink/?linkid=2105837)
 
-1. Upprepa de här stegen för att skapa fler etiketter. Om du vill skapa ett underetikett väljer du först den överordnade etiketten, **väljer ...** för **Fler** åtgärder och väljer sedan Lägg **till underetikett**.
+1. Upprepa de här stegen om du vill skapa fler etiketter. Om du vill skapa ett underetikett väljer du först den överordnade etiketten, **väljer ...** för **Fler** åtgärder och väljer sedan Lägg **till underetikett**.
 
 1. När du har skapat alla etiketter du behöver bör du granska deras ordning och om det behövs flytta dem uppåt eller nedåt. 
     
-    Om du vill ändra ordningen på en etikett väljer **du ...** **för Fler** åtgärder och väljer sedan Flytta **upp** eller **Flytta ned**.
+    Om du vill ändra ordningen på en etikett väljer du **...** för **Fler åtgärder**. Välj sedan **Flytta uppåt** eller **Flytta nedåt**.
