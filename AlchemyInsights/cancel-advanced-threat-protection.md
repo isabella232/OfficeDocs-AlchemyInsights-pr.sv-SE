@@ -1,5 +1,5 @@
 ---
-title: Avbryt Avancerat skydd
+title: Avbryt avancerat skydd mot hot
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 0919862f1954058d2d891abb35d91a19ee948933
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416289"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543523"
 ---
-# <a name="cancel-advanced-threat-protection"></a><span data-ttu-id="381dc-102">Avbryt Avancerat skydd</span><span class="sxs-lookup"><span data-stu-id="381dc-102">Cancel Advanced Threat Protection</span></span>
+# <a name="cancel-advanced-threat-protection"></a><span data-ttu-id="8864c-102">Avbryt avancerat skydd mot hot</span><span class="sxs-lookup"><span data-stu-id="8864c-102">Cancel Advanced Threat Protection</span></span>
 
-<span data-ttu-id="381dc-103">Administratörer kan avbryta prenumerationen på det avancerade hotet för organisationen i administrations centret för Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="381dc-103">Admins can cancel the Advanced Threat Protection subscription for their organization in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="8864c-103">Administratörer kan avbryta prenumerationen på Avancerat skydd för organisationen Microsoft 365 administrationscentret.</span><span class="sxs-lookup"><span data-stu-id="8864c-103">Admins can cancel the Advanced Threat Protection subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="381dc-104">Gå till sidan för **fakturering**  >  [av dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="381dc-104">Go to the  **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
-2. <span data-ttu-id="381dc-105">På fliken **produkter** letar du reda på det avancerade skydds abonnemang som du vill avbryta.</span><span class="sxs-lookup"><span data-stu-id="381dc-105">On the **Products** tab, find the Advanced Threat Protection plan that you want to cancel.</span></span> <span data-ttu-id="381dc-106">Välj **fler åtgärder** (tre punkter) och välj sedan **Avbryt prenumeration**.</span><span class="sxs-lookup"><span data-stu-id="381dc-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
-3. <span data-ttu-id="381dc-107">I fönstret **Avsluta prenumeration** väljer du en orsak till varför du avbryter.</span><span class="sxs-lookup"><span data-stu-id="381dc-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="381dc-108">Du kan också lämna feedback.</span><span class="sxs-lookup"><span data-stu-id="381dc-108">Optionally, provide any feedback.</span></span>
-4. <span data-ttu-id="381dc-109">Välj **Spara**.</span><span class="sxs-lookup"><span data-stu-id="381dc-109">Select **Save**.</span></span>
+1. <span data-ttu-id="8864c-104">Gå till sidan **Fakturering**  >  [dina](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.</span><span class="sxs-lookup"><span data-stu-id="8864c-104">Go to the  **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="8864c-105">Leta rätt **på** planen för Avancerat skydd på fliken Produkter som du vill avbryta.</span><span class="sxs-lookup"><span data-stu-id="8864c-105">On the **Products** tab, find the Advanced Threat Protection plan that you want to cancel.</span></span> <span data-ttu-id="8864c-106">Välj de tre punkterna (fler åtgärder) och välj sedan **Avbryt prenumeration.**</span><span class="sxs-lookup"><span data-stu-id="8864c-106">Select the three dots (more actions), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="8864c-107">I fönstret **Avbryt prenumeration** väljer du en anledning till varför du avbryter prenumerationen.</span><span class="sxs-lookup"><span data-stu-id="8864c-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="8864c-108">Alternativt kan du ge valfri feedback.</span><span class="sxs-lookup"><span data-stu-id="8864c-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="8864c-109">Välj **Spara**.</span><span class="sxs-lookup"><span data-stu-id="8864c-109">Select **Save**.</span></span>
 
-<span data-ttu-id="381dc-110">**Åter betalning:** Eventuell uppskattad kredit kommer att återföras till dig inom nästa fakturerings period.</span><span class="sxs-lookup"><span data-stu-id="381dc-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
+<span data-ttu-id="8864c-110">**Återbetalning:** All proportionerlig kredit kommer returneras till dig inom nästa faktureringscykel.</span><span class="sxs-lookup"><span data-stu-id="8864c-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
 
-<span data-ttu-id="381dc-111">Mer information finns i [avbryta prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="381dc-111">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="8864c-111">Mer information finns i [Avsluta din prenumeration.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="8864c-111">To learn more, see [Cancel your subscription](/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
