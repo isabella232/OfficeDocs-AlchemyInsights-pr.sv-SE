@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 73edb04a186f81e1745ac1758f0d89f9d23af1e0
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 4ab3fb7929fe9c00c2e07985e95b9cc821579576
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489187"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545466"
 ---
 # <a name="unable-to-access-my-account"></a>Jag kan inte öppna mitt konto
 
@@ -25,9 +25,9 @@ Om din prenumeration upphör, inaktiveras av Microsoft eller om du har avbrutit 
 
 **Återaktivera en prenumeration**
 
-1. Gå till sidan fakturering i administrations centret **Billing**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. På fliken **produkter** letar du reda på den prenumeration du vill återaktivera. Välj **fler åtgärder** (tre punkter) och välj **återaktivera det här abonnemanget**.
-3. I fönstret **återaktivera det här abonnemanget** väljer du en betalnings metod i list rutan eller väljer **Lägg till betalnings metod**.
+1. I administrationscentret går du till sidan **Fakturering** > [Dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Gå till **fliken** Produkter och leta reda på den prenumeration som du vill återaktivera. Välj de tre punkterna (fler åtgärder) och välj sedan **Återaktivera den här prenumerationen.**
+3. I fönstret **Återaktivera den här** prenumerationen väljer du en betalningsmetod i listrutan eller välj Lägg **till betalningsmetod.**
 4. Välj **Spara**.
 
-Mer information finns i [Återaktivera prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Mer information finns i [Återaktivera prenumerationen](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

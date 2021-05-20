@@ -1,5 +1,5 @@
 ---
-title: 2681 angrepps Simulator i Microsoft 365
+title: 2681 Attack Attack i Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,31 +12,31 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: e7d71fdb77b4a047c1998e9aba75cdd469a936a8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801569"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545744"
 ---
-# <a name="attack-simulator-in-microsoft-365"></a>Angrepps Simulator i Microsoft 365
+# <a name="attack-simulator-in-microsoft-365"></a>Attack Attack in Microsoft 365
 
-- Saknar du angrepps Simulator? För angrepps Simulator krävs **Microsoft Defender för Office 365 abonnemang 2 (ATP-abonnemang 2)** eller **Office 365 Enterprise E5** . Angrepps Simulator ingår **inte** i Microsoft Defender för Office 365 abonnemang 1 (ATP-abonnemang 1), Office 365 Enterprise E3 eller något Microsoft 365-program för Business-prenumerationer.
+- Saknar du Attack Attack? Attack Attack Attack kräver **Microsoft Defender för Office 365 abonnemang 2** eller Office 365 Enterprise **E5.** Attack Attack Attack **ingår** inte i Microsoft Defender för Office 365 abonnemang 1, Office 365 Enterprise E3 eller andra Microsoft 365-applikationer för affärsverksamhet prenumerationer.
 
-- Det konto som du använder för att starta simulerade attacker kräver den globala administratören eller säkerhets administratören och multifaktorautentisering. Mer information om krav för attack simulatorn finns i [det här avsnittet](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Det konto du använder för att starta simulerade attacker kräver global administratör eller säkerhetsadministratörsbehörighet och multifaktorautentisering (MFA). Mer information om attackkraven finns i det [här avsnittet.](/microsoft-365/security/office-365-security/attack-simulator)
 
-- Viktiga saker du bör veta om att simulering av **lösen ords attacker är brutet** :
+- Viktiga saker att veta om **Råstyrt lösenord-attack** simuleringar:
 
-  - Om det finns MFA aktiverat för mål kontot och lösen ordet har gissats till är det inte säkert att kontot påverkas (den andra autentiseringsprocessen är ofullständigt).
+  - Om målkontot har MFA aktiverat och lösenordet gissades rätt visas inte kontot som komprometterat (den andra autentiseringsfaktorn är ofullständig).
 
-  - Lösen ords filen får inte vara större än 10 MB. Använd ett lösen ord per rad och inkludera en tom rad (rad matning) efter det senaste lösen ordet i listan.
+  - Lösenordsfilen får inte vara större än 10 MB. Använd ett lösenord per rad och ta med en tom rad (vagnretur) efter det sista lösenordet i listan.
 
-- Viktiga saker du bör veta om **Spear nät fiske** :
+- Viktiga saker att veta om **simuleringar av nätfiske:**
 
-  - Efter design kan du inte ange ett anpassat värde för **URL-adressen till nätfiske-inloggningen** .
+  - Som design kan du inte ange ett anpassat värde för URL för **nätfiskeinloggningsserver.**
 
-  - Om en mottagare använder [tillägget aktivera rapport meddelande](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) om du vill rapportera meddelandet som nätfiske kanske du inte får aviseringar om meddelandet (eftersom det är ett simulerat angrepp).
+  - Om en mottagare använder [tillägget](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) Aktivera rapportmeddelandet för att rapportera meddelandet som nätfiske kanske du inte får aviseringar om meddelandet (eftersom det är en simulerad attack).
 
-- Rapporter: när det simulerade angreppet är slutfört kan du klicka på **angrepps information** för att visa rapporten.
+- Rapporter: När den simulerade attacken är slutförd kan du klicka på **Attackinformation** för att se rapporten.
 
-- Detaljerade instruktioner och nya funktioner i angrepps Simulator finns i [angrepps Simulator i Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Detaljerade instruktioner och nya funktioner i Attack Attack Attack finns i [Attack Attack Microsoft 365](/microsoft-365/security/office-365-security/attack-simulator).

@@ -13,20 +13,20 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 05ce5b6d8916db795919036aee1b3687a809bf93
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 27828325832f3a7313743327a95e6cee0ae26a15
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489026"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545502"
 ---
-# <a name="reactivate-a-microsoft-365-subscription"></a>Återaktivera en Microsoft 365-prenumeration
+# <a name="reactivate-a-microsoft-365-subscription"></a>Återaktivera en Microsoft 365 prenumeration
 
-Om ditt abonnemang går ut har inaktiverats av Microsoft, eller du avbröt det mitt i en abonnemangs period, kan du återaktivera den i administrations centret.
+Om prenumerationen går ut, inaktiverats av Microsoft eller om du har avbrutit den mitt i en prenumerationsperiod kan du återaktivera den i administrationscentret.
   
-1. Gå till sidan fakturering i administrations centret **Billing**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. På fliken **produkter** letar du reda på den prenumeration du vill återaktivera. Välj **fler åtgärder** (tre punkter) och välj **återaktivera det här abonnemanget**.
-3. I fönstret **återaktivera det här abonnemanget** väljer du en betalnings metod i list rutan eller väljer **Lägg till betalnings metod**.
+1. I administrationscentret går du till sidan **Fakturering** > [Dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Gå till **fliken** Produkter och leta reda på den prenumeration som du vill återaktivera. Välj de tre punkterna (fler åtgärder) och välj sedan **Återaktivera den här prenumerationen.**
+3. I fönstret **Återaktivera den här** prenumerationen väljer du en betalningsmetod i listrutan eller välj Lägg **till betalningsmetod.**
 4. Välj **Spara**.
 
-Mer information finns i [Återaktivera prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Mer information finns i [Återaktivera prenumerationen](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

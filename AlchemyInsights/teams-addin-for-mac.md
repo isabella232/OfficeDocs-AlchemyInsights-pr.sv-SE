@@ -1,5 +1,5 @@
 ---
-title: Teams-tillägg för Mac
+title: Teams för Mac
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6173"
+- "6166"
 - "9003233"
-ms.openlocfilehash: 1e5f6d66386398ad8600f9383f9f7a1dcf0ce69f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9002573"
+ms.openlocfilehash: 45df4381688335f10f6699d8b5ff1aaafd6f7257
+ms.sourcegitcommit: 730efbac8eec016b2b4f83f1b0e01e077f28c444
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670346"
+ms.lasthandoff: 05/20/2021
+ms.locfileid: "52582088"
 ---
-# <a name="teams-add-in-for-mac"></a>Teams-tillägg för Mac
+# <a name="teams-add-in-for-mac"></a>Teams för Mac
 
-Följ de här anvisningarna om du vill felsöka ett tilläggsprogram för Mac-operativsystem för användare med ett team som saknas:
+Så här felsöker du Teams tillägg för Mac-operativsystemanvändare:
 
-**Steg 1:** Om du har hybrid Exchange lokalt (2016 CU3 eller senare krävs) kan du använda Test-HMA.ps1 verktyget för att bekräfta att hybrid modern verifikation är korrekt konfigurerad. Mer information finns i [validera hybrid modern konfiguration för Outlook för iOS och Android](https://aka.ms/AA980zq).  
+**Steg 1:** Om du har hybrid-Exchange lokalt (2016 CU3 eller senare krävs) använder du verktyget Test-HMA.ps1 för att bekräfta att modern hybridautentisering är korrekt konfigurerad. Mer information finns i Validera [modern hybridautentiseringskonfiguration för Outlook för iOS och Android.](https://aka.ms/TestHMAEAS)  
 
-**Obs!** Använda UPN-adress format (till exempel [username@contoso.com](mailto:username@contoso.com)), inte domain\username. Gör detta även för användare med Exchange Online-postlådor.
+**Obs!** Använd UPN-adressformatet (till exempel [username@contoso.com](mailto:username@contoso.com)), inte domän\användarnamn. Gör detta även för användare Exchange Online postlådor.
 
-**Steg 2:** Få användaren att gå till **verktyg**  >  **konton**... Leta upp och Välj kontot i Outlook för Mac. Bekräfta att username visas i UPN-format (till exempel [username@contoso.com](mailto:username@contoso.com)).
+**Steg 2:** Be användaren gå till **Verktygskonton**  >  ... i Outlook för Mac, och leta reda på och markera kontot. Bekräfta att användarnamnet som visas är i UPN-format (till exempel [username@contoso.com](mailto:username@contoso.com)).
 
-**Steg 3:** Bekräfta att användaren är en licensierad Microsoft Teams-användare. Användaren måste använda Office 365 för Mac-prenumerationen, produkt version 16,24 eller senare.
+**Steg 3:** Bekräfta att användaren är en licensierad Microsoft Teams användare. Användaren måste använda Office 365 Mac-prenumeration, produktversion 16.24 eller senare.

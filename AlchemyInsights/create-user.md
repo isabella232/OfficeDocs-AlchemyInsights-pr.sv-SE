@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: 742ff857141d08031302fdcff7e49b3eef90e0f7
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 800baae2d748708d8cb7a5fb0e73fce5dcf455cb
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747028"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569765"
 ---
 # <a name="create-user"></a>Skapa användare
 
 **MEDDELANDE:**
 
-- [Utfasning av WebView-inloggningssupport från Google från och med den 4 januari 2021.](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Testa om dina appar kan påverkas av att [följa Googles anvisningar](https://go.microsoft.com/fwlink/?linkid=2157323) om kompatibilitetstestning.
-- Kontrollera att du använder systemets webbvy eller systemwebbläsare när du loggar in dina användare med Google-konsumentkonton. Mer information finns i [Problem med att logga in på program med bara Chrome.](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
+- [Utfasning av WebView-inloggningssupport från Google från och med den 4 januari 2021.](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Testa om dina appar kan påverkas av att [följa Googles anvisningar](https://go.microsoft.com/fwlink/?linkid=2157323) om kompatibilitetstestning.
+- Kontrollera att du använder systemets webbvy eller systemwebbläsare när du loggar in dina användare med Google-konsumentkonton. Mer information finns i [Problem med att logga in på program med bara Chrome.](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
 
 **Jag kan inte skapa en ny användare i min Azure AD-katalog**
 
@@ -37,5 +37,5 @@ ms.locfileid: "50747028"
 1. Se [domännamnen för](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) Azure AD.
 1. Granska [granskningsloggar](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) om du vill se mer detaljerad information om en nyligen skapad eller borttagna användare, till exempel vem som utförde åtgärden och när.
 1. Mer information om hur du lägger till nya användare finns [i Använda Azure Portal för att skapa en ny användare i azure AD.](/azure/active-directory/active-directory-users-create-azure-portal)
-1. [Azure AD-administratörsroller:](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles)Administratörsrollbehörigheter i Azure Active Directory
-1. Du kan också [använda Azure AD PowerShell för att skapa en ny användare.](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
+1. [Azure AD-administratörsroller:](/azure/active-directory/active-directory-assign-admin-roles)Administratörsrollbehörigheter i Azure Active Directory
+1. Du kan också [använda Azure AD PowerShell för att skapa en ny användare.](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
