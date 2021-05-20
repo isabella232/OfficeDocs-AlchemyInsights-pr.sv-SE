@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.custom:
 - "433"
 - "1500001"
-ms.openlocfilehash: 4358c7ea329b86b49fae7c412d8387a2da7ffe88
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: c34dc93f7ad091c08f23f11cdf0dddea6afb9a04
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602382"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544488"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hur ändrar jag från kreditkort till faktura?
 
 > [!NOTE]
-> Du kan bara ändra till betalning med faktura om dina prenumerationskostnader är högre än ett visst belopp. Du måste först betala all utestående saldo för kreditkort eller bankkort eller bankkonto innan du kan ändra till att betala med faktura.
+> Du kan bara byta till betalning via faktura om dina prenumerationskostnader är högre än ett visst belopp. Du måste först betala all utestående saldo på kredit- eller betalkortet eller bankkontot innan du kan byta till att betala med faktura.
 
-1. Gå till sidan Fakturering för dina produkter  >  [i administrationscentret.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. Leta upp **prenumerationen** som du vill betala för med den alternativa betalningsmetoden på fliken Produkter.
-3. Välj **Fler åtgärder** (tre punkter) och sedan Ersätt **betalningsmetod.**
-4. Välj **Lägg till betalningsmetod** i fönstret **Ersätt betalningsmetod.**
-5. Välj **Faktura eller banköverföring** i fönstret Lägg **till en betalningsmetod.**
+1. I administrationscentret går du till sidan **Fakturering** > [Dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. På fliken **Produkter** hittar du den prenumeration som du vill betala för med den alternativa betalningsmetoden.
+3. Välj de tre punkterna (fler åtgärder) och välj **sedan Ersätt betalningsmetod.**
+4. I fönstret **Ersätt betalningsmetod** väljer du Lägg **till betalningsmetod.**
+5. I fönstret **Lägg till en betalningsmetod** väljer du Faktura eller **banköverföring.**
 6. Ange namn, adress och telefonnummer. Du kan också lägga till ett inköpsordernummer som ska visas på fakturan.
-7. Välj Spara när du är **klar.**
+7. När du är klar väljer du **Spara**.
 
-Mer information finns i [Hur du betalar för din prenumeration.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Mer information finns i [Betala för din prenumeration.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

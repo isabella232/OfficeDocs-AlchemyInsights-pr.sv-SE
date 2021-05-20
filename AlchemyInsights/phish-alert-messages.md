@@ -1,5 +1,5 @@
 ---
-title: 2491 Avisera e-postmeddelanden från principen "Phish som skickas på grund av klient-eller användar åsidosättningar"
+title: 2491 Avisering e-postmeddelanden från principen "Phish Delivered due to tenant or user override"
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,29 +11,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 5b5faa08542cb5878107f10afb34427f636562ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b373423cf3e63b76a62465dd62076c023580e94
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728629"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544596"
 ---
-# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Avisera e-postmeddelanden från principen "Phish som skickas på grund av klient-eller användar åsidosättningar"
+# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Avisering e-postmeddelanden från principen "Phish Delivered due to tenant or user override"
 
-En standard aviserings princip med namnet "Phish levererad på grund av klient-eller användar åsidosättning" har distribuerats till klient organisationer med Office 365 ATP-och P2-licenser. Om du fick den här aviseringen kan du undersöka:
+En standardaviseringsprincip med namnet "Phish Delivered due to tenant or user override" har distribuerats till klientorganisationen med Microsoft Defender för Office 365 P1- och P2-licenser. Om du fick det här aviseringen finns det anvisningar för att undersöka detta:
 
-1. Klicka på **Visa varning** i aviserings meddelandet för att gå till sidan **aviseringar** i säkerhets & efterlevnad.
+1. Från varningsmeddelandet klickar du **på Visa avisering** för **att** gå till sidan Aviseringar i & säkerhets- och efterlevnadscenter.
 
-2. Välj varningen om du vill se alternativet att **Visa meddelande listan** eller **Visa meddelanden i Utforskaren**. Båda dessa alternativ tar dig till meddelandets information, som innehåller meddelande-ID. Observera att länken Threat Explorer automatiskt filtrerar meddelanden som matchar aviserings villkoren. Du kan behöva justera datum filtret i Threat Explorer.
+2. Välj aviseringen om du vill se alternativet **Visa meddelandelista eller** **Visa meddelanden i Utforskaren**. Båda dessa alternativ tar dig till meddelandets information, som innehåller Meddelande-ID. Observera att länken Hotutforskaren automatiskt filtrerar meddelanden som matchar aviseringskriterierna. Du kan behöva justera datumfiltret i Hotutforskaren.
 
-Nät fiske meddelandet levererades på grund av en manuellt konfigurerad åsidosättning:
+Nätfiskemeddelandet levererades på grund av en manuellt konfigurerad åsidosättning:
 
-- En avsändare eller domän som anges av användaren.
+- En tillåten avsändare eller domän som har angetts av användaren.
 
-- En avsändare eller domän som angetts av administratören i en policy för skräp post.
+- En tillåten avsändare eller domän som anges av administratören i en princip mot skräppost.
 
-- En tillåten IP-adress i en anslutnings filter princip.
+- En tillåten IP-adress i en princip för anslutningsfilter.
 
-- En regel för e-postflöde (kallas även transport regel) som är konfigurerad för att tillåta meddelanden i.
+- En e-postflödesregel (kallas även transportregel) som är konfigurerad för att tillåta meddelanden.
 
-Om du tror att meddelandet inte hade marker ATS som Phish kan du använda [tillägget Outlook rapportera meddelande](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) för att skicka meddelanden till Microsoft.
+Om du anser att meddelandet felaktigt har markerats som phish använder du tillägget Outlook [Report Message](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) för att skicka exempel på meddelanden till Microsoft.

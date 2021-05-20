@@ -1,5 +1,5 @@
 ---
-title: Så här köper du licenser för din prenumeration på Microsoft 365-appar för företag
+title: Köpa licenser för din Microsoft 365-applikationer för affärsverksamhet prenumeration
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: cefa266e26a5ddeb60ca0496742e9051d6f14830
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 7b60f51f394c28d90b42a7d86ad08d1aeefd8a78
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232349"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545358"
 ---
-# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Så här köper du licenser för din prenumeration på Microsoft 365-appar för företag
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Köpa licenser för din Microsoft 365-applikationer för affärsverksamhet prenumeration
 
-När du tilldelar licenser till användarna kanske du behöver köpa ytterligare licenser.
+När du tilldelar licenser till användarna kan det hända att du behöver köpa fler licenser.
 
 **Titta på en video** som visar hur du gör detta: [Köpa nya licenser](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-1. Gå till sidan Fakturering för dina  >  [produkter i administrationscentret.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. Leta rätt **på** den prenumeration som du vill uppdatera på fliken Produkter. Välj **Fler åtgärder** (tre punkter) och välj sedan Köp **licenser.**
-3. I fönstret **Köp** licenser **under** Nytt  antal i rutan Totalt antal licenser anger du det totala antalet licenser som du vill använda för prenumerationen. Om du till exempel har 100 licenser och vill lägga till ytterligare 25 skriver du 125.
+1. I administrationscentret går du till sidan **Fakturering** > [Dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Gå till **fliken** Produkter och leta reda på den prenumeration som du vill uppdatera. Välj de tre punkterna (fler åtgärder) och välj sedan **Köp licenser.**
+3. I fönstret **Köp licenser,** under **Nytt** antal i rutan **Totalt** antal licenser, anger du det totala antalet licenser som du vill använda för prenumerationen. Om du till exempel har 100 licenser och vill lägga till ytterligare 25 skriver du 125.
 4. Välj **Spara**.
 
-Mer information finns i Köpa [eller ta bort licenser.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+Mer information finns i Köpa [eller ta bort licenser.](/microsoft-365/commerce/licenses/buy-licenses)

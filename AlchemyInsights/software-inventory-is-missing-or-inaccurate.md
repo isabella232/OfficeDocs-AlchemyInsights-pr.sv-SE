@@ -1,5 +1,5 @@
 ---
-title: Program varu inventering saknas eller är felaktig
+title: Programvaruinventering saknas eller är felaktig
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 9a2013dfdfec32086f3ba029b6f78bffd9fcf79c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665304"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543982"
 ---
-# <a name="software-inventory-is-missing-or-inaccurate"></a>Program varu inventering saknas eller är felaktig
+# <a name="software-inventory-is-missing-or-inaccurate"></a>Programvaruinventering saknas eller är felaktig
 
-Program varu inventeringen i Microsoft Defender ATP-tjänsten ger produkt namnet eller leverantören, det senaste versions numret och problem med svagheter och sårbarheter. Mer information finns i [program varu inventering – hot-och sårbarhets hantering](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
+Inventeringen av programvaran i Microsoft Defender ATP förser produktnamnet eller leverantören, dess senaste versionsnummer samt upptäckta svagheter och svagheter. Mer information finns i Lager [av programvara - Hantering av hot och säkerhetsrisker](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
 
-Du kan rapportera vag eller ofullständig information, felaktiga versions nummer eller åtgärdade program varu lager genom att följa de här anvisningarna.  
+Du kan rapportera vag eller ofullständig information, felaktiga versionsnummer eller åtgärdad information om programvaruinventering genom att följa de här stegen.  
 
-1. Öppna den utfällbara program varan och välj programmet på sidan Software Inventory.
-2. Markera **rapportera**inaktivitet och välj en kategori i den nedrullningsbara menyn.
-3. Fyll i din e-postadress och information om hur du felstämmer.
+1. Öppna den utfällna programvaran och välj programmet på sidan För programvaruinventering.
+2. Välj **Rapportens felaktigheter och** välj en kategori i den nedrullningrullningade menyn i det utfällkommna fönstret.
+3. Fyll i din e-postadress och information om felaktigheter.
 4. Välj **Skicka**.</br>
-    Din feedback skickas omedelbart till hotet & säkerhets problem hanterings experter.
+    Din feedback skickas omedelbart till experter på & och sårbarhetshantering.

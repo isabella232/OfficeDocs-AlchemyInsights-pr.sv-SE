@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 49f690a08ed39e5132f9e23b514d3e353b126840
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 486ac58b9b5b88b11fe45b7ace5b084190cfcee2
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750521"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543739"
 ---
 # <a name="increase-protection-from-advanced-threats"></a>Öka skyddet mot avancerade hot
 
 Konfigurera eller hantera Microsoft Defender för Office 365:
 
-1. Funktionerna i Microsoft Defender för Office 365 är tillgängliga i Enterprise E5, Education A5 och Microsoft 365 Business. Alla andra abonnemang kräver en ATP-prenumeration med tillägget. Du måste ha *behörighet som global administratör* eller *säkerhetsadministratör* för att komma åt Defender för Office 365.
+1. Microsoft Defender för Office 365 finns i Enterprise E5, Education A5 och Microsoft 365 Business. Alla andra abonnemang kräver ett tillägg från Microsoft Defender för Office 365 prenumeration. Du måste ha *behörighet som global administratör* eller *säkerhetsadministratör* för att komma åt Microsoft Defender för Office 365.
 2. I administrationscentret väljer du [Konfigurera](https://go.microsoft.com/fwlink/p/?linkid=2075721).
 3. Gå till **Inloggning och säkerhet Öka** skyddet mot avancerade  >  **hot** och välj sedan [Visa](https://go.microsoft.com/fwlink/?linkid=2109302).
 4. Välj **Hantera** och välj sedan vilken av de tillgängliga typerna av principer som du vill ändra.

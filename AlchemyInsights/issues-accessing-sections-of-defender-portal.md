@@ -1,5 +1,5 @@
 ---
-title: Problem med åtkomst till delar av Microsoft Defender ATP-portalen
+title: Problem med åtkomst till avsnitt i Microsoft Defender för Office 365 portalen
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6031"
 - "9001222"
-ms.openlocfilehash: 3b6fe048713500aec1558d611b67c715b6b21317
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: cf460b45bfc6caf0b627265e9926c2794cd27179
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50714329"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545250"
 ---
-# <a name="issues-accessing-sections-of-microsoft-defender-atp-portal"></a>Problem med åtkomst till delar av Microsoft Defender ATP-portalen
+# <a name="issues-accessing-sections-of-microsoft-defender-for-office-365-portal"></a>Problem med åtkomst till avsnitt i Microsoft Defender för Office 365 portalen
 
-Om instrumentpanelen på portalen och andra avsnitt visar ett felmeddelande, till exempel "Data är inte tillgängliga just nu", är det troligt att vissa URL-domäner och alla underdomäner är tillåtna i organisationen och är öppna för kommunikation. 
+Om instrumentpanelen på portalen och andra avsnitt visar ett felmeddelande, till exempel "Data är för närvarande inte tillgänglig", är det troligt att vissa URL-domäner och alla underdomäner är tillåtna i organisationen och är öppna för kommunikation. 
 
-Mer information finns i Felsöka [åtkomstproblem för prenumerationer och portaler.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal)
+Mer information finns i Felsöka [problem med prenumerations- och portalåtkomst.](/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal)
