@@ -1,5 +1,5 @@
 ---
-title: Problem med åtkomst till delar av Microsoft Defender ATP-portalen
+title: Problem med åtkomst till avsnitt i Microsoft Defender för Office 365 portalen
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6031"
 - "9001222"
-ms.openlocfilehash: 3b6fe048713500aec1558d611b67c715b6b21317
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: cf460b45bfc6caf0b627265e9926c2794cd27179
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50714329"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545250"
 ---
-# <a name="issues-accessing-sections-of-microsoft-defender-atp-portal"></a><span data-ttu-id="0a27d-102">Problem med åtkomst till delar av Microsoft Defender ATP-portalen</span><span class="sxs-lookup"><span data-stu-id="0a27d-102">Issues accessing sections of Microsoft Defender ATP portal</span></span>
+# <a name="issues-accessing-sections-of-microsoft-defender-for-office-365-portal"></a><span data-ttu-id="4f114-102">Problem med åtkomst till avsnitt i Microsoft Defender för Office 365 portalen</span><span class="sxs-lookup"><span data-stu-id="4f114-102">Issues accessing sections of Microsoft Defender for Office 365 portal</span></span>
 
-<span data-ttu-id="0a27d-103">Om instrumentpanelen på portalen och andra avsnitt visar ett felmeddelande, till exempel "Data är inte tillgängliga just nu", är det troligt att vissa URL-domäner och alla underdomäner är tillåtna i organisationen och är öppna för kommunikation.</span><span class="sxs-lookup"><span data-stu-id="0a27d-103">If the portal dashboard and other sections show an error message such as "Data currently isn't available", it is likely that certain URL domains and all sub-domains are allowed in your organization and open for communication.</span></span> 
+<span data-ttu-id="4f114-103">Om instrumentpanelen på portalen och andra avsnitt visar ett felmeddelande, till exempel "Data är för närvarande inte tillgänglig", är det troligt att vissa URL-domäner och alla underdomäner är tillåtna i organisationen och är öppna för kommunikation.</span><span class="sxs-lookup"><span data-stu-id="4f114-103">If the portal dashboard and other sections show an error message such as "Data currently isn't available", it is likely that certain URL domains and all sub-domains are allowed in your organization and open for communication.</span></span> 
 
-<span data-ttu-id="0a27d-104">Mer information finns i Felsöka [åtkomstproblem för prenumerationer och portaler.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal)</span><span class="sxs-lookup"><span data-stu-id="0a27d-104">For more information, see [Troubleshoot subscription and portal access issues](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal).</span></span>
+<span data-ttu-id="4f114-104">Mer information finns i Felsöka [problem med prenumerations- och portalåtkomst.](/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal)</span><span class="sxs-lookup"><span data-stu-id="4f114-104">For more information, see [Troubleshoot subscription and portal access issues](/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal).</span></span>
