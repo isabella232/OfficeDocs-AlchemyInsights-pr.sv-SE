@@ -1,5 +1,5 @@
 ---
-title: 9001220 avancerade särskilda identifieringar av jakt
+title: 9001220 avancerad sökning anpassade identifieringar
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,22 +14,22 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 40351bd7852b69e0ff2ae6f630749ecbc1e0f13b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: ea478cfbbbe96065608990770e0453d8f2613981
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801536"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543019"
 ---
-# <a name="advanced-hunting-custom-detections"></a>Avancerade jakt anpassade identifieringar
+# <a name="advanced-hunting-custom-detections"></a>Anpassade identifieringar av avancerad sökning
 
-Du kan lära dig hur du skapar och hanterar regler för anpassade identifieringar baserat på avancerade frågor. Med anpassade identifieringar kan du proaktivt övervaka och svara på olika händelser och system tillstånd, inklusive misstänkt överträdelse och felkonfigurerade enheter. Du kan göra det med anpassningsbara identifierings regler som automatiskt utlöses för aviseringar och svar
+Du kan lära dig hur du skapar och hanterar anpassade identifieringsregler baserat på avancerade sökfrågor. Med anpassade identifieringar kan du proaktivt övervaka för och svara på olika händelser och systemhändelser, inklusive misstänkt intrångsaktivitet och felkonfigurerade enheter. Det kan du göra med anpassningsbara identifieringsregler som automatiskt utlöser aviseringar och svarsåtgärder
   
-Om du använder Microsoft Defender ATP kan du läsa följande avsnitt för information: 
-- [Översikt över anpassade identifieringar](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
-- [Skapa anpassade identifierings regler](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
-- [Visa och hantera anpassade identifierings regler](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
+Om du använder Microsoft Defender ATP finns det mer information i följande avsnitt: 
+- [Översikt över anpassade identifieringar](/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
+- [Skapa anpassade identifieringsregler](/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
+- [Visa och hantera anpassade identifieringsregler](/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-Om du använder Microsoft 365 Defender kan du läsa mer i följande avsnitt: 
-- [Översikt över anpassade identifieringar](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
-- [Skapa och hantera regler för anpassat identifiering](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)
+Om du använder Microsoft 365 Defender finns mer information i följande avsnitt: 
+- [Översikt över anpassade identifieringar](/microsoft-365/security/mtp/custom-detections-overview)
+- [Skapa och hantera anpassade identifieringsregler](/microsoft-365/security/mtp/custom-detection-rules)

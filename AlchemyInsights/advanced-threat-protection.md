@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801245"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542911"
 ---
 # <a name="microsoft-defender-for-office-365"></a>Microsoft Defender för Office 365
 
-- Säkra bifogade filer, säkra länkar och anti-nätfiske är en del av Microsoft Defender för Office 365 (ATP). Enterprise, E5, Education A5 och Microsoft 365 Business Premium inkluderar ATP. Alla andra abonnemang kräver ett tilläggs abonnemang för ATP.
+- Valv Bifogade filer Valv länkar och nätfiskeskydd är en del av Microsoft Defender för Office 365. Enterprise E5, Education A5 och Microsoft 365 Business Premium microsoft Defender för Office 365. Alla andra abonnemang kräver ett tillägg från Microsoft Defender för Office 365 prenumeration.
 
-- Du måste tilldela rätt licenser för att skydda användarna enligt Office 365 ATP. I [det här avsnittet](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) finns anvisningar om hur du Mass gäller för användare.
+- Du måste tilldela licenser för att skydda användarna med Microsoft Defender för Office 365. Se [Lägga till användare och tilldela licenser samtidigt](/microsoft-365/admin/add-users/add-users) för anvisningar om hur du mass apply licenses to your users.
 
-- Globala administratörer och säkerhets administratörer kan komma åt Office 365 ATP-funktioner i säkerhets & Compliance Center på **Threat Managmeent** \> **policy** .
+- Globala administratörer eller säkerhetsadministratörer kan komma åt Microsoft Defender Office 365 funktioner i Säkerhets- & efterlevnadscenter på **Threat Managmeent** \> **Policy**.
 
-- Safe attachment och Safe Link policies kan begränsas till hela organisationen, specifika domäner eller mindre grupper av användare.
+- Valv Principer för Valv och länkar kan vara begränsade till hela organisationen, specifika domäner eller mindre användargrupper.
 
-- Det finns ingen standard policy för säker säkerhets bilaga för ATP. Du måste [skapa en policy](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) och använda den för användarna.
+- Det finns ingen standardprincip Valv för bifogade filer. Du måste skapa [en princip och](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) tillämpa den på dina användare.
 
-- Det finns en standard policy för säkerhet för säkerhets ATP som gäller för alla i organisationen. Information om hur du redigerar den här principen eller skapar anpassade principer finns i [det här avsnittet](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Det finns en Valv princip för länkar som gäller för alla i organisationen. Om du vill redigera den här principen eller skapa anpassade principer kan du Valv i Konfigurera principer för [länkar i Microsoft Defender Office 365](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).

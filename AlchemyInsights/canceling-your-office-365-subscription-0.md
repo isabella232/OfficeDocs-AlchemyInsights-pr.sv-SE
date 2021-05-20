@@ -1,5 +1,5 @@
 ---
-title: Avbryter du Microsoft 365-prenumerationen?
+title: Vill du avbryta Microsoft 365 prenumerationen?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "86"
 - "1400001"
-ms.openlocfilehash: 0541c68ffc71503cccba47501f318939fc9e0a53
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 85ce33aaf5fbcde6a8c32c692977647f4f44c953
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416334"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543307"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Avbryter du Microsoft 365-prenumerationen?
+# <a name="canceling-your-microsoft-365-subscription"></a>Vill du avbryta Microsoft 365 prenumerationen?
 
-Vi beklagar att du går!
+Vi beklagar att du vill ge dig av!
   
-Vi tror att alla dina nuvarande abonnemang har färre än 25 platser, baserat på organisationens data. Om du vill avbryta ditt abonnemang online går du till sidan för **fakturering** \> [av din produkt](https://go.microsoft.com/fwlink/p/?linkid=842054) . På fliken **produkter** letar du reda på den prenumeration du vill avbryta, väljer **fler åtgärder** (tre punkter) och väljer sedan **Avbryt prenumeration**.
+Baserat på dina organisationsdata tror vi att dina aktuella prenumerationer har färre än 25 platser. Om du vill avbryta prenumerationen online går du till  \> [sidan Fakturering dina](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter. På fliken **Produkter** hittar du den prenumeration du vill avbryta, väljer de tre punkterna (fler åtgärder) och väljer sedan **Avbryt prenumeration.**
   
-**Åter betalning:** Eventuell uppskattad kredit kommer att återföras till dig inom nästa fakturerings period.
+**Återbetalning:** All proportionerlig kredit kommer returneras till dig inom nästa faktureringscykel.
 
-Mer information finns i [avbryta prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Mer information finns i [Avsluta din prenumeration.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: d90645758100e3ff29d77dd09848b36f33c3f526
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 1f73d41abf9318943772c0e4f18d4dfd9f3869b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233408"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543667"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Så här skapar du en känslighetsetikett
 
@@ -30,8 +30,8 @@ ms.locfileid: "52233408"
 
     Mer information om automatisk märkning finns i [Använda en känslighetsetikett på innehållet automatiskt.](https://go.microsoft.com/fwlink/?linkid=2105837)
 
-1. Upprepa de här stegen om du vill skapa fler etiketter. Om du vill skapa ett underetikett väljer du först den överordnade etiketten, **väljer ...** för **Fler** åtgärder och väljer sedan Lägg **till underetikett**.
+1. Upprepa de här stegen om du vill skapa fler etiketter. Om du vill skapa ett underetikett väljer du först den överordnade etiketten, väljer de tre punkterna (fler åtgärder) och väljer sedan Lägg **till underetikett.**
 
 1. När du har skapat alla etiketter du behöver bör du granska deras ordning och om det behövs flytta dem uppåt eller nedåt. 
     
-    Om du vill ändra ordningen på en etikett väljer du **...** för **Fler åtgärder**. Välj sedan **Flytta uppåt** eller **Flytta nedåt**.
+    Om du vill ändra ordningen på en etikett markerar du de tre punkterna (fler åtgärder) och väljer sedan **Flytta uppåt** eller **Flytta nedåt.**

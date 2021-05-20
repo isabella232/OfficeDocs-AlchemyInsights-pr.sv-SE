@@ -1,5 +1,5 @@
 ---
-title: Outlook-tillägg för Teams
+title: Teams Outlook (Dela i ett Teams, Möte nu, Nytt Teams-möte, Anslut Teams möte)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835037"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542767"
 ---
-# <a name="teams-outlook-add-in"></a>Outlook-tillägg för Teams
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook (Dela i ett Teams, Möte nu, Nytt Teams-möte, Anslut Teams möte)
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Felsöka ett Teams Outlook-tillägg som saknas
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Felsöka ett Teams Outlook tillägg
 
-1. Kör tjänstdiagnostik i administrationsportalen. 
-2. Om Tjänstdiagnostik inte anger några problem diagnostiserar och korrigerar du klientproblem på berörda användardatorer genom att hämta och köra Outlook-tilläggsscenariot [Microsoft Support-](https://aka.ms/SaRA-TeamsAddInScenario)och  >  **återställningsassistenten för Teams.**
+1. Kör diagnostiken "Team-tillägget saknas i Outlook", som verifierar att en användare har rätt principer för att aktivera Teams Outlook-tillägget. Om du vill komma åt **diagnostiken skriver du Diag: Teams tillägget Saknas i Outlook** i sökrutan.
 
-Om du manuellt vill felsöka ett Teams Outlook-tillägg granskar du listan över möjliga faktorer som kan göra att Teams-tillägget inte visas. Mer information finns i [Teams-mötes tillägget i Outlook för Windows visas inte](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+1. Om tjänstdiagnostik inte anger några problem diagnostiserar och korrigerar du klientproblem på berörda användardatorer genom att hämta och köra [Microsoft Support- och återställningsassistenten](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook-scenariot.**
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Felsöka schemaläggning av ett Teams-möte åt någon annan (ombud)
+Om du vill felsöka Teams Outlook tillägg manuellt granskar du listan över potentiella faktorer som kan leda till att Teams-tillägget inte visas i listan. Mer information finns i [Teams mötes tillägg i Outlook för Windows inte visas.](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
 
-Information om hur du schemalägger ett Teams-möte för någon annans räkning finns [i Felsöka interaktionsproblem i Microsoft Teams och Exchange Server.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Felsöka schemaläggning av Teams möte åt någon annan (ombud)
+
+Om du vill schemalägga Teams möte för någon annans räkning kan du gå till [Felsöka problem Microsoft Teams Exchange Server interaktion](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).

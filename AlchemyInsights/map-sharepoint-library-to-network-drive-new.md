@@ -1,5 +1,5 @@
 ---
-title: Mappa ett SharePoint-bibliotek till en nätverks enhet
+title: Mappa SharePoint mappa ett bibliotek till en nätverksenhet
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,23 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 9115a3ab8d1234127a95628a9a49679ef06f6d39
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b7cb38362baa26bd39fe7478ef6dd1971b5b063
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806201"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542839"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Mappa ett SharePoint-bibliotek till en nätverks enhet
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Mappa SharePoint mappa ett bibliotek till en nätverksenhet
 
-Att mappa ett bibliotek som en nätverks enhet är temporärt och stöds bara via Internet Explorer. Du måste ibland öppna SharePoint-webbplatsen i Internet Explorer och välja **vara inloggad** för att förhindra att sessionen går ut. [Synkronisera SharePoint-filer istället med den nya synkroniseringsklienten](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) </a> för OneDrive som tillhandahåller [filer på begäran](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e). Komma åt alla dina filer på OneDrive utan att använda lokalt lagrings utrymme.
+I stället för att mappa en nätverksenhet kan SharePoint filer med den nya OneDrive synkroniseringsklienten, som tillhandahåller Filer på begäran. Komma åt alla filer på OneDrive utan att använda lokalt lagringsutrymme. Mer information finns i [Synkronisera SharePoint](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88) och Teams filer med datorn och Spara diskutrymme med OneDrive Filer på begäran [för Windows 10.](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e)
 
-Om du väljer att mappa en enhet i stället för att [använda den nya synkroniseringsklienten för OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)kontrollerar du att du följer anvisningarna i artikeln nedan. 
+Om du väljer att mappa en enhet i stället för att [använda den OneDrive synkroniseringsklienten](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88)ska du se till att följa de här stegen:
 
+- [Felsöka mappade nätverksenheter som ansluter till SharePoint Online](/sharepoint/support/administration/troubleshoot-mapped-network-drives)
 
-**Konfigurera och felsöka anslutna nätverks enheter**
+- [Autentiseringsfel inträffar när klienten inte har stöd för TLS 1.2](/sharepoint/troubleshoot/administration/authentication-errors-tls12-support#network-drive-mapped-to-a-sharepoint-library)  
 
-
-Se [Felsöka anslutna nätverks enheter som ansluter till SharePoint Onlines](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
-
-Obs! Om du använder Internet Explorer 10 med Windows 8 eller Windows 7, och mottagning **nekas** eller om du inte kan få åtkomst till **sökvägen** när du mappar en enhet, kan du lösa problemet genom att installera [den här snabb korrigeringen](https://support.microsoft.com/help/2846960) . 
+**OBS!** Om du använder Internet Explorer 10 med Windows 8 eller Windows 7 och det inte  går att komma åt **Access** nekad eller Sökväg när du mappar en enhet löser du problemet genom att installera den här [snabbkorrigeringen.](https://support.microsoft.com/topic/error-when-you-open-a-sharepoint-document-library-in-windows-explorer-or-map-a-network-drive-to-the-library-after-you-install-internet-explorer-10-96e640ba-059f-9b09-bb91-2a0319ee8b1d)

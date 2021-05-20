@@ -1,5 +1,5 @@
 ---
-title: Abonnemangs status
+title: Prenumerationsstatus
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: edb5a78343a99196379aca052b51b0ef1f7249c5
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 262bafc9354e14c45eeda974cc9824be24f9d502
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286976"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542803"
 ---
-# <a name="subscription-status"></a>Abonnemangs status
+# <a name="subscription-status"></a>Prenumerationsstatus
 
-Prenumerationens status, utgångs datum och antal licenser finns på sidan **produkter** i administrations centret för Microsoft 365.
+Prenumerationsstatus, utgångsdatum och antal licenser finns på **sidan Dina produkter** i administrationscentret Microsoft 365 prenumeration.
 
-1. Gå till sidan fakturering i administrations centret **Billing**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. På fliken **produkter** visas som standard alla abonnemang och deras status (aktiv, upphört, inaktiverat eller borttaget). Om du vill se en delmängd av alla prenumerationer väljer du filter ikonen och väljer sedan den **prenumerations status** som du vill visa.
-3. Välj **fler åtgärder** (tre punkter) för att återaktivera ett inaktuellt eller inaktiverat abonnemang och välj **återaktivera det här abonnemanget**.
-4. På sidan **produkter** visas även följande information:
-    - Antalet licenser som har tilldelats till användarna visas i kolumnen **tilldelade licenser** .
-    - Det totala antalet licenser som ingår i abonnemanget visas i kolumnen **inköpt antal** .
-    - Sista giltighets datum i kolumnen **abonnemangs status** .
-    - Betalnings metoden som används för att betala för varje abonnemang visas i kolumnen **betald med** .
-    - Det fakturerings konto som är kopplat till varje abonnemang visas i kolumnen **fakturerings konto** .
-5. Välj **Välj kolumner**om du vill lägga till eller ta bort kolumner.
+1. I administrationscentret går du till sidan **Fakturering** > [Dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. På fliken **Produkter** ser du som standard alla prenumerationer och deras status (Aktiv, Förfallen, Inaktiverad eller Borttagna). Om du vill se en delmängd av alla prenumerationer väljer du filterikonen och sedan **prenumerationsstatusen** som du vill se.
+3. Om du vill återaktivera en prenumeration som har gått ut eller inaktiverats väljer du de tre punkterna (fler åtgärder) och sedan **Återaktivera den här prenumerationen.**
+4. På **sidan** Dina produkter visas även följande information:
+    - Antalet licenser som tilldelats användare visas i kolumnen **Tilldelade** licenser.
+    - Det totala antalet licenser som ingår i prenumerationen visas i kolumnen **Köpt** antal.
+    - Utgångs- eller förnyelsedatumet i **kolumnen Prenumerationsstatus.**
+    - Den betalningsmetod som används för att betala för varje prenumeration visas i **kolumnen Betalad** med.
+    - Det faktureringskonto som är kopplat till varje prenumeration visas i **kolumnen Faktureringskonto.**
+5. Om du vill lägga till eller ta bort kolumner väljer **du Välj kolumner**.
