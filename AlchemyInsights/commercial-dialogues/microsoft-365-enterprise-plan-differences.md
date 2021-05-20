@@ -1,5 +1,5 @@
 ---
-title: Skillnader i Microsoft 365 Enterprise-abonnemang
+title: Microsoft 365 Enterprise planskillnader
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf35cee7bf3f1d6b761043be865dc35d80071c32
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 628c200d00f1d28d02a4efd560a4ca1e4f7eae0e
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748519"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539770"
 ---
-# <a name="microsoft-365-enterprise-plan-differences"></a>Skillnader i Microsoft 365 Enterprise-abonnemang
+# <a name="microsoft-365-enterprise-plan-differences"></a>Microsoft 365 Enterprise planskillnader
 
-Microsoft 365 Enterprise E5 innehåller alla funktioner i Microsoft 365 Enterprise, E3 plus avancerade säkerhetsåtgärder som:
+Microsoft 365 Enterprise E5 innehåller alla funktioner i Microsoft 365 Enterprise E3, samt avancerade säkerhetsåtgärder som:
 
-- Advanced Threat Protection (ATP)
+- Skydd mot hot
 - Avancerad datastyrning
 - Customer Lockbox
 - Microsoft 365 Cloud App Security
@@ -31,7 +31,7 @@ Microsoft 365 Enterprise E5 innehåller alla funktioner i Microsoft 365 Enterpri
 - Rights Management Services
 - Azure-nyckelvalv
 
-Microsoft 365 Enterprise E5 levereras också med kraftfulla analys- och röstfunktioner, till exempel:
+Microsoft 365 Enterprise E5 innehåller även kraftfulla analys- och röstfunktioner, till exempel:
 
 - Liveinstrumentpaneler
 - Rapporter med Power BI
@@ -39,7 +39,7 @@ Microsoft 365 Enterprise E5 levereras också med kraftfulla analys- och röstfun
 - Ljudkonferens
 - Onlinemöten
 
-Om du vill veta mer om Microsoft 365 Enterprise, E5 eller registrera dig för en provprenumeration kan du läsa Prova eller köpa en [Microsoft 365-prenumeration.](https://go.microsoft.com/fwlink/?linkid=2099673)
+Mer information om hur du Microsoft 365 Enterprise E5 eller registrerar dig för en provprenumeration finns i Prova eller [köpa en Microsoft 365-prenumeration.](https://go.microsoft.com/fwlink/?linkid=2099673)
 
 Om du vill jämföra funktioner i olika Enterprise-abonnemang kan [du gå till Jämför Enterprise-abonnemang.](https://go.microsoft.com/fwlink/?linkid=2097200)
 

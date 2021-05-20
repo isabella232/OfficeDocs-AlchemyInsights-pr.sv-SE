@@ -1,5 +1,5 @@
 ---
-title: Läs mer om ATP
+title: Läs mer om Microsoft Defender för Office 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: 62eb0d38519292a951c69ba096503e51e31ee543
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403581"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539806"
 ---
-# <a name="learn-about-atp"></a>Läs mer om ATP
+# <a name="learn-about-microsoft-defender-for-office-365"></a>Läs mer om Microsoft Defender för Office 365
 
-Här är lite information om Office 365 Advanced Threat Protection (ATP):
+Här är lite information om Microsoft Defender för Office 365:
 
-**Vad är ATP?**
+**Vad är Microsoft Defender för Office 365?**
 
-ATP är en molnbaserad tjänst för e-postfiltrering som hjälper till att skydda organisationer mot okänd skadlig programvara och virus genom att ge ett stabilt skydd utan dag. Den innehåller funktioner för att skydda organisationer från skadliga länkar i realtid.
+Microsoft Defender för Office 365 är en molnbaserad tjänst för e-postfiltrering som hjälper till att skydda organisationer mot okänd skadlig programvara och virus genom att ge ett stabilt skydd utan dag. Den innehåller funktioner för att skydda organisationer från skadliga länkar i realtid.
 
-**Hur aktiverar jag ATP?**
+**Hur aktiverar jag Microsoft Defender för Office 365?**
 
-Säkra bifogade filer, säkra länkar och skydd mot nätfiske är en del av ATP-funktionen. Enterprise E5, Education A5 och Microsoft 365 Business innehåller inbyggda ATP-funktioner. Alla andra abonnemang kräver en ATP-prenumeration med tillägget. Du måste tilldela lämpliga licenser till användarna för att skyddas av Office 365 ATP. Du måste ha behörighet som global administratör eller säkerhetsadministratör för att komma åt den här funktionen. Mer information om hur du masslicensierar slutanvändarna finns i Tilldela användare licenser [i Office 365 för företag.](https://go.microsoft.com/fwlink/?linkid=2093435)
+Valv Bifogade filer Valv länkar och nätfiskeskydd är en del av funktionen Microsoft Defender Office 365 nätfiske. Enterprise E5, Education A5 och Microsoft 365 Business inbyggda Microsoft Defender för Office 365 funktioner. Alla andra abonnemang kräver ett tillägg från Microsoft Defender för Office 365 prenumeration. Du måste tilldela lämpliga licenser till användarna för att skyddas av Microsoft Defender för Office 365. Du måste ha behörighet som global administratör eller säkerhetsadministratör för att komma åt den här funktionen. Mer information om hur du masslicensierar slutanvändarna finns i Tilldela användare licenser [i Office 365 för företag.](https://go.microsoft.com/fwlink/?linkid=2093435)
 
-**Hur hanterar jag ATP eller lär mig mer om det?**
+**Hur hanterar jag Microsoft Defender för Office 365 vill läsa mer om det?**
 
 a. Gå till [Inställningar.](https://go.microsoft.com/fwlink/p/?linkid=2075721)
 b. Under **Inloggning och säkerhet hittar** du Öka skyddet mot avancerade **hot** och välj sedan [Visa](https://go.microsoft.com/fwlink/?linkid=2109302).

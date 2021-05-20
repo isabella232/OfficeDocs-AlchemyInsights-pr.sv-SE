@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 2f09de066bf234bcc92935f662f2d3b1077d0217
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233804"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539662"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Publicera en känslighetsetikett
 
@@ -36,6 +36,6 @@ ms.locfileid: "52233804"
 
 1. Upprepa de här stegen om du behöver olika principinställningar för olika användare eller platser. Du kanske till exempel vill använda ytterligare etiketter för en grupp användare eller en annan standardetikett för en del av användarna.
 
-1. Om du skapar fler än en etikettprincip som kan leda till en konflikt för en användare eller plats bör du granska principordningen och, om det behövs, flytta dem uppåt eller nedåt. Om du vill ändra ordningen för en etikettprincip väljer du **...** för **Fler åtgärder**. Välj sedan **Flytta uppåt** eller **Flytta nedåt**.
+1. Om du skapar fler än en etikettprincip som kan leda till en konflikt för en användare eller plats bör du granska principordningen och, om det behövs, flytta dem uppåt eller nedåt. Om du vill ändra ordningen på en etikettprincip markerar du de tre punkterna (fler åtgärder) och väljer **sedan Flytta upp** eller Flytta **ned.**
 
 När du slutför guiden publiceras etikettprincipen automatiskt.
