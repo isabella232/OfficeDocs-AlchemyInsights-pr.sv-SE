@@ -1,10 +1,11 @@
 ---
 title: Hantera förnyelse av prenumeration
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,25 +13,21 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 1f54b65f9e20bed4f69bdd08dbbbc3b03a1a22e5
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
-ms.translationtype: HT
+ms.openlocfilehash: cefdc227b9a9c7151dc2ec9d5075db2f29134840
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195253"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545538"
 ---
 # <a name="manage-subscription-renewal"></a>Hantera förnyelse av prenumeration
 
 Du kan hantera månads- eller årsfakturor genom att aktivera eller inaktivera **återkommande fakturor**.
 
-1. I administrationscentret går du till sidan **Fakturering > [Produkter och tjänster](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. I administrationscentret går du till sidan  >  **[Fakturering dina](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter.
+2. Leta reda **på** den prenumeration du vill hantera på fliken Produkter, välj de tre punkterna (fler åtgärder) och välj sedan **Redigera återkommande fakturering.**
+3. I fönstret **Redigera återkommande** fakturering väljer **du På**, **På, förnyar en gång** eller **Av**.
+4. Välj **Spara**.
 
-2. Välj prenumerationen som du vill hantera den återkommande fakturan för.
+Mer information finns i [Inaktivera och aktivera återkommande fakturor](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-3. Under **Fakturering** bredvid **Förnyas den** eller **Gäller till** klickar du på **Redigera**.
-
-4. I **inställningsfönstret för återkommande fakturor** klickar du på **Inaktivera** om du vill inaktivera alternativet. Om du redan har stängt av återkommande fakturering väljer du **Varje månad** eller **En gång** för att aktivera funktionen.
-
-5. Klicka sedan på **Skicka ändring**.
-
-Mer information finns i [Inaktivera och aktivera återkommande fakturor](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
