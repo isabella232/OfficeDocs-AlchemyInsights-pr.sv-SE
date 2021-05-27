@@ -1,5 +1,5 @@
 ---
-title: SharePoint-lagring
+title: Hantera din SharePoint onlinelagring
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 876b2fccc192de9ef9934932b874e57fbc8e4812
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96136c9d59ef43890a63db3a18157744bc08f9c
+ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773757"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52689876"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>Hantera SharePoint Online-lagringen
+# <a name="manage-your-sharepoint-online-storage"></a>Hantera din SharePoint onlinelagring
 
-Lär dig hur [lagring av klient organisationer beräknas](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) baserat på ditt abonnemang.
+För de flesta organisationer SharePoint hanteras lagringsutrymmet automatiskt, så du behöver inte ange begränsningar per webbplatssamling. Mer information om hur lagring i klientorganisationen beräknas baserat på ditt abonnemang finns i [Begränsningar efter plan.](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan)
 
-För de flesta organisationer hanteras SharePoint Storage automatiskt, så du behöver inte ange gränser för varje webbplats samling.
+Mer information finns i:
 
-Lär dig hur du [visar det totala och tillgängliga lagrings utrymmet för din organisation](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+- [Hantera lagringsgränser för webbplatser](/sharepoint/manage-site-collection-storage-limits)
 
-Lär dig hur du [hanterar enskilda lagrings gränser för webbplats samlingar](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+- [Hantera enskilda lagringsgränser för webbplatser](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)
 
-Om din webbplats är slut eller om du vill veta vilket bibliotek eller vilken lista som använder utrymmet kan du gå till **webbplats inställningarna**  >  **lagrings mått** (webbplats samlingens administratörs behörighet krävs).
+Om din webbplats är slut på utrymme eller om du vill ta reda på vilket bibliotek eller vilken lista som använder utrymmet går du till Webbplats **Inställningar**  >  **Storage Mätvärden (administratörsbehörigheter** för webbplatssamlingar krävs).
 
-Lär dig hur du [övervakar lagrings gränser för webbplatser med PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
+Mer information finns i:
 
-Lär dig hur du [köper extra lagrings utrymme](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space). 
+- [Övervaka lagringsbegränsningar för webbplatser med hjälp av PowerShell](/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)
+
+- [Lagt till lagringsutrymme för din prenumeration](/microsoft-365/commerce/add-storage-space) 
   
