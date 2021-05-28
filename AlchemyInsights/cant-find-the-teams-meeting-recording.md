@@ -1,5 +1,5 @@
 ---
-title: Kan inte hitta inspelning av Teams-möte
+title: Kan inte hitta den Teams mötesinspelningen
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 62548fd9a09cf1835671dd051b1523027138ff47
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 24ebe3d619ce4d0043736ccbb63f7ca8d71ded74
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294376"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696954"
 ---
-# <a name="cant-find-the-teams-meeting-recording"></a>Kan inte hitta inspelning av Teams-möte
+# <a name="cant-find-the-teams-meeting-recording"></a>Kan inte hitta den Teams mötesinspelningen
 
-Om du inte kan hitta eller hitta en inspelning av ett Teams-möte kan du läsa följande felsökningsdokumentation:
+Om du inte kan hitta eller hitta en Teams mötesinspelning ska du först köra diagnostik för saknad mötesinspelning genom att skriva **Diag: Saknad** inspelning i rutan ovan. 
 
-[Felsöka problem med Mötesinspelning i Teams – Microsoft Teams | Microsoft Docs](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
+Inspelningar finns i Streama, OneDrive och SharePoint beroende på hur klientorganisationen är konfigurerad och om inspelningen var för ett kanalmöte. Anvisningar om hur du hittar mötesinspelningen manuellt finns i: 
 
-Mötesinspelningen finns antingen i Stream, OneDrive eller SharePoint beroende på hur klientorganisationen är konfigurerad.
+[Problem 2: Länken till mötesinspelningen visas inte i ett chattfönster](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-Anvisningar om hur du hittar mötesinspelningen finns i:
-
-**[Problem 2: Länken till mötesinspelningen visas inte i ett chattfönster](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)**
+Mer information finns i [Problem med mötesinspelningar.](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
