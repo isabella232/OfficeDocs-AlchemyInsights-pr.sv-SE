@@ -14,27 +14,28 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
+ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470288"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721654"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Importtjänst
 
-Med Microsoft 365 importtjänsten kan du massimporta flera PST-filer till Exchange Online postlådor.
-
 Så här öppnar du importtjänsten och startar importen:
 
-1. Gå till [Säkerhets- & efterlevnadscenter](https://protection.office.com) och logga in med autentiseringsuppgifterna för ett administratörskonto i organisationen.
+1. Gå till [efterlevnadscentret för M365](https://compliance.microsoft.com/)och logga in med autentiseringsuppgifterna för ett administratörskonto i din organisation.
 
-2. I den vänstra rutan i **säkerhets- & Säkerhets- och efterlevnadscenter** klickar du på **> Informationsstyrning.**
+1. I den vänstra rutan i M365 efterlevnadscenter under **Lösningar** väljer du **Import av informationsstyrning.**  >  
 
-3. Klicka på **Nytt** importjobb **på sidan Importera.**
+1. På sidan **Importera** väljer du **Nytt importjobb**.
 
-4. Följ de här stegvisa anvisningarna för att [slutföra stegen i guiden.](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)
+1. För att slutföra stegen i guiden, se [Använda nätverksuppladdning för att importera organisationens PST-filer till Microsoft 365](/compliance/use-network-upload-to-import-pst-files).
 
-**Viktigt!** För att **komma** åt sidan Importera i Säkerhets- & säkerhets- och efterlevnadscenter har du [tilldelats rätt behörigheter.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)
+För att komma **åt** sidan Importera kontrollerar du att du har tilldelats rätt behörigheter. Mer information finns i Använda [nätverksuppladdning för att importera PST-filer.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 
-Om du bara vill importera en PST-fil till din postlåda kan du läsa den [här artikeln.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+Om du vill importera en PST-fil till din postlåda kan du gå till Importera e-post, kontakter och kalender från [en Outlook PST-fil.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+
+Om du har problem med en import kan du gå till Problem [som påverkar PST-importjobb.](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
+
