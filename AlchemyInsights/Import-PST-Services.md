@@ -14,27 +14,28 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
+ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470288"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721654"
 ---
-# <a name="microsoft-365-import-service"></a><span data-ttu-id="c0b88-102">Microsoft 365 Importtjänst</span><span class="sxs-lookup"><span data-stu-id="c0b88-102">Microsoft 365 Import service</span></span>
+# <a name="microsoft-365-import-service"></a><span data-ttu-id="72a5b-102">Microsoft 365 Importtjänst</span><span class="sxs-lookup"><span data-stu-id="72a5b-102">Microsoft 365 Import service</span></span>
 
-<span data-ttu-id="c0b88-103">Med Microsoft 365 importtjänsten kan du massimporta flera PST-filer till Exchange Online postlådor.</span><span class="sxs-lookup"><span data-stu-id="c0b88-103">The Microsoft 365 Import service lets you to bulk-import multiple PST files to Exchange Online mailboxes.</span></span>
+<span data-ttu-id="72a5b-103">Så här öppnar du importtjänsten och startar importen:</span><span class="sxs-lookup"><span data-stu-id="72a5b-103">To access the Import service and start the import process:</span></span>
 
-<span data-ttu-id="c0b88-104">Så här öppnar du importtjänsten och startar importen:</span><span class="sxs-lookup"><span data-stu-id="c0b88-104">To access the Import service and start the import process:</span></span>
+1. <span data-ttu-id="72a5b-104">Gå till [efterlevnadscentret för M365](https://compliance.microsoft.com/)och logga in med autentiseringsuppgifterna för ett administratörskonto i din organisation.</span><span class="sxs-lookup"><span data-stu-id="72a5b-104">Go to the [M365 Compliance Center](https://compliance.microsoft.com/), and sign in using the credentials for an administrator account in your organization.</span></span>
 
-1. <span data-ttu-id="c0b88-105">Gå till [Säkerhets- & efterlevnadscenter](https://protection.office.com) och logga in med autentiseringsuppgifterna för ett administratörskonto i organisationen.</span><span class="sxs-lookup"><span data-stu-id="c0b88-105">Go to the [Security & Compliance Center](https://protection.office.com) and sign in using the credentials for an administrator account in your organization.</span></span>
+1. <span data-ttu-id="72a5b-105">I den vänstra rutan i M365 efterlevnadscenter under **Lösningar** väljer du **Import av informationsstyrning.**  >  </span><span class="sxs-lookup"><span data-stu-id="72a5b-105">In the left pane of the M365 Compliance Center under **Solutions**, select **Information governance** > **Import**.</span></span>
 
-2. <span data-ttu-id="c0b88-106">I den vänstra rutan i **säkerhets- & Säkerhets- och efterlevnadscenter** klickar du på **> Informationsstyrning.**</span><span class="sxs-lookup"><span data-stu-id="c0b88-106">In the left pane of the **Security & Compliance Center**, click **Information governance > Import**.</span></span>
+1. <span data-ttu-id="72a5b-106">På sidan **Importera** väljer du **Nytt importjobb**.</span><span class="sxs-lookup"><span data-stu-id="72a5b-106">On the **Import** page, select **New import job**.</span></span>
 
-3. <span data-ttu-id="c0b88-107">Klicka på **Nytt** importjobb **på sidan Importera.**</span><span class="sxs-lookup"><span data-stu-id="c0b88-107">On the **Import** page, click **New import job**.</span></span>
+1. <span data-ttu-id="72a5b-107">För att slutföra stegen i guiden, se [Använda nätverksuppladdning för att importera organisationens PST-filer till Microsoft 365](/compliance/use-network-upload-to-import-pst-files).</span><span class="sxs-lookup"><span data-stu-id="72a5b-107">To complete the steps in the wizard, see [Use network upload to import your organization's PST files to Microsoft 365](/compliance/use-network-upload-to-import-pst-files).</span></span>
 
-4. <span data-ttu-id="c0b88-108">Följ de här stegvisa anvisningarna för att [slutföra stegen i guiden.](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)</span><span class="sxs-lookup"><span data-stu-id="c0b88-108">To complete the steps in the wizard, follow these [step-by-step instructions](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md).</span></span>
+<span data-ttu-id="72a5b-108">För att komma **åt** sidan Importera kontrollerar du att du har tilldelats rätt behörigheter.</span><span class="sxs-lookup"><span data-stu-id="72a5b-108">To access the **Import** page, make sure you have been assigned the appropriate permissions.</span></span> <span data-ttu-id="72a5b-109">Mer information finns i Använda [nätverksuppladdning för att importera PST-filer.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)</span><span class="sxs-lookup"><span data-stu-id="72a5b-109">For more info, see [Using network upload to import PST files](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).</span></span>
 
-<span data-ttu-id="c0b88-109">**Viktigt!** För att **komma** åt sidan Importera i Säkerhets- & säkerhets- och efterlevnadscenter har du [tilldelats rätt behörigheter.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)</span><span class="sxs-lookup"><span data-stu-id="c0b88-109">**Important**: To access the **Import** page in the Security & Compliance Center, you have be assigned  [the appropriate permissions](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md).</span></span>
+<span data-ttu-id="72a5b-110">Om du vill importera en PST-fil till din postlåda kan du gå till Importera e-post, kontakter och kalender från [en Outlook PST-fil.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)</span><span class="sxs-lookup"><span data-stu-id="72a5b-110">If you want to import a PST to your mailbox, see [Import email, contacts, and calendar from an Outlook .pst file](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span></span>
 
-<span data-ttu-id="c0b88-110">Om du bara vill importera en PST-fil till din postlåda kan du läsa den [här artikeln.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)</span><span class="sxs-lookup"><span data-stu-id="c0b88-110">If you just want to import a PST to your mailbox, see [this article](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span></span>
+<span data-ttu-id="72a5b-111">Om du har problem med en import kan du gå till Problem [som påverkar PST-importjobb.](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)</span><span class="sxs-lookup"><span data-stu-id="72a5b-111">If you're having a problem with an import, see [Issues that affect PST import jobs](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).</span></span>
+
