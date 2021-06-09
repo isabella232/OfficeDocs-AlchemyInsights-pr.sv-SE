@@ -12,25 +12,27 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 9c879512c5fbdfafe6162490cafacd0f409792db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d148f528ba74c71bbcc34482e42ba06c12a485e2
+ms.sourcegitcommit: 8878c313b41194808bd88b1f6b766f76ed17bc09
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755688"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52853887"
 ---
 # <a name="information-about-gdpr"></a>Information om GDPR
 
-- Komma igång med [service Trust Portal.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+- [GDPR förenklat: En guide för småföretag](/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
-- För allt som rör **data bearbetnings avtal** (DPA), granska:
+- Kom igång med Service [Trust Portal.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
-  - [Data skydds resurser](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
+- Läs följande om allt **som rör** databearbetningsavtal (DPA):
 
-  - [Gransknings rapporter](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
+  - [Dataskyddsresurser](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
 
-- Information om **data subjekt begär Anden** (DSR)-Upptäck, åtkomst, rätta, begränsa, ta bort, exportera är [här.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+  - [Granskningsrapporter](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Information om **data brotts meddelande** finns [här.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
+- Information om DSR-begäranden **(Data Subject Requests)** – upptäcka, åtkomst, hitta, begränsa, ta bort, exportera finns [här.](/microsoft-365/compliance/gdpr-dsr-office365)
 
-- Information om **data platser** finns [här.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
+- Information om **meddelandet om dataintrång** [finns här.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
+
+- Information om **dataplatser finns** [här.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
