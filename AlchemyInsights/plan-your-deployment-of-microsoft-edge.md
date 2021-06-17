@@ -12,16 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005291"
 - "9140"
-ms.openlocfilehash: 91f94fa8739bad387c18586fc89f69cc49675b04
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+- "11087"
+- "9006490"
+ms.openlocfilehash: dd3449ccd6eeb5fc9162e9679f5de39bacc46efa
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037367"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989951"
 ---
 # <a name="plan-your-deployment-of-microsoft-edge"></a>Planera distributionen av Microsoft Edge
 
-Att distribuera en ny webbläsare till en mängd användare kan kännas som en massa andra. Vi kan hjälpa dig att dela upp det i steg och gå igenom var och en av dem. Om du följer de här sju stegen får du en lyckad Distribution av Microsoft Edge med minimal frustration bland användarna:
+Att distribuera en ny webbläsare till en mängd användare kan kännas som en massa andra. Vi kan hjälpa dig att dela upp det i steg och gå igenom var och en av dem. Om du följer de här sju stegen får du en lyckad distribution Microsoft Edge minimal frustration bland användarna:
 
 1. Utvärdera din befintliga webbläsarmiljö och dina behov.
 2. Fastställa din distributionsmetodik.
@@ -31,4 +33,4 @@ Att distribuera en ny webbläsare till en mängd användare kan kännas som en m
 6. Testa appkompatibilitet.
 7. Distribuera Microsoft Edge till en pilotgrupp och verifiera den.
 
-Information om hur du arbetar med de här stegen på egen hand finns [i Planera distribution av Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2129990)
+Mer information om hur du arbetar med de här stegen på egen [hand finns i Planera distribution av Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2129990).

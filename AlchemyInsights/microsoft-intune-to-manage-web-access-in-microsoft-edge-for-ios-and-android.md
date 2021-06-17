@@ -1,5 +1,5 @@
 ---
-title: Använda Microsoft Intune för att hantera Internet åtkomst i Microsoft Edge för iOS och Android
+title: Använda Microsoft Intune för att hantera webbåtkomst i Microsoft Edge för iOS och Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,35 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003846"
 - "6895"
-ms.openlocfilehash: 4d6ab4df4ff9588ce5052421602e347c76c91c3f
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+- "9006502"
+- "11144"
+ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679609"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989722"
 ---
-# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Använda Microsoft Intune för att hantera Internet åtkomst i Microsoft Edge för iOS och Android
+# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Använda Microsoft Intune för att hantera webbåtkomst i Microsoft Edge för iOS och Android
 
 Med Microsoft Edge för iOS och Android kan en användare surfa på webben från flera, helt separata profiler.
 
-De bredaste skydds funktionerna för Microsoft 365-data blir tillgängliga när du abonnerar på företags mobilitet + säkerhets paketet, som innehåller Microsoft Intune och Azure Active Directory Premium-funktioner, till exempel villkorlig åtkomst. Ett minimum är att du vill distribuera en princip för villkorsstyrd åtkomst som (1) låter användare ansluta från mobila enheter till Microsoft Edge för iOS och Android och det (2) implementerar en Microsoft Intune App-Protection-princip som ger en skyddad webbläsare.
+De bredaste skyddsfunktionerna för Microsoft 365-data blir tillgängliga när du prenumererar på Enterprise Mobility + Security-paketet, som omfattar Microsoft Intune- och Azure Active Directory Premium-funktioner, till exempel villkorlig åtkomst. Som ett minimum bör du distribuera en princip för villkorsstyrd åtkomst som (1) låter användare ansluta från mobila enheter till Microsoft Edge för iOS och Android och som (2) implementerar en appskyddsprincip för Microsoft Intune som ger en skyddad webbupplevelse.
 
 Information om hur du kan använda villkorsstyrd åtkomst och principer finns i:
 
-[Tillämpa principer för villkorsstyrd åtkomst för Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2132481)
+[Använda villkorsstyrda åtkomstprinciper i Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2132481)
 
-[Skapa säkerhets principer för Microsoft Intune-appar](https://go.microsoft.com/fwlink/?linkid=2132651)
+[Skapa appskyddsprinciper för Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2132651)
 
-[Använda enkel inloggning för Azure Active Directory – anslutna webb program i lösenordsskyddade webbläsare](https://go.microsoft.com/fwlink/?linkid=2132482)
+[Använda enkel inloggning för Azure Active Directory-anslutna webbappar i principskyddade webbläsare](https://go.microsoft.com/fwlink/?linkid=2132482)
 
-[Använd program konfigurationen för att hantera webbläsaren](https://go.microsoft.com/fwlink/?linkid=2132483)
+[Använda programkonfiguration för att hantera surfupplevelsen](https://go.microsoft.com/fwlink/?linkid=2132483)
 
-[Tillåt endast arbets-och skol konton](https://go.microsoft.com/fwlink/?linkid=2132652)
+[Tillåt endast användning av arbets- och skolkonton](https://go.microsoft.com/fwlink/?linkid=2132652)
 
-[Distribuera allmänna konfigurations principer för appar](https://go.microsoft.com/fwlink/?linkid=2132653)
+[Distribuera allmänna principer för programkonfiguration](https://go.microsoft.com/fwlink/?linkid=2132653)
 
-[Distribuera konfigurations principer för appar för data skydd](https://go.microsoft.com/fwlink/?linkid=2132654)
+[Distribuera principer för programkonfiguration för dataskydd](https://go.microsoft.com/fwlink/?linkid=2132654)
 
-[Använda Microsoft Endpoint Manager för att distribuera program konfigurations principer](https://go.microsoft.com/fwlink/?linkid=2132707)
+[Använda Microsoft Endpoint Manager för att distribuera principer för programkonfiguration](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-Information om hur du kommer åt hanterade program loggar finns i [använda Microsoft Edge för iOS och Android för att komma åt hanterade program loggar](https://go.microsoft.com/fwlink/?linkid=2132578).
+Mer information om hur du kommer åt hanterade apploggar finns [i Använda Microsoft Edge för iOS och Android för att komma åt hanterade apploggar.](https://go.microsoft.com/fwlink/?linkid=2132578)

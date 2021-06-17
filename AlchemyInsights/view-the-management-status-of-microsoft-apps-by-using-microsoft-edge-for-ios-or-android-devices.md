@@ -1,5 +1,5 @@
 ---
-title: Visa hanterings status för Microsoft-program med Microsoft Edge för iOS-eller Android-enheter
+title: Visa status för hantering av Microsoft-appar med hjälp av Microsoft Edge för iOS- eller Android-enheter
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,18 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003896"
+- "9006502"
 - "6950"
-ms.openlocfilehash: e670981d2cb9a918ad33cc9e6ce15663c112df1d
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+- "11143"
+ms.openlocfilehash: 321dac91dfbfea560b6b488b003940518637e642
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679201"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989915"
 ---
-# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Visa hanterings status för Microsoft-program med Microsoft Edge för iOS-eller Android-enheter
+# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Visa status för hantering av Microsoft-appar med hjälp av Microsoft Edge för iOS- eller Android-enheter
 
-Om du vill använda program loggar för att felsöka dina hanterade iOS-eller Android-appar öppnar du Microsoft Edge och skriver **om: intunehelp** i rutan adress. Microsoft Edge öppnas i fel söknings läge.
+Om du vill komma åt apploggar för användning i felsökning av hanterade iOS- eller Android-appar öppnar du Microsoft Edge och skriver **about:intunehelp** i adressrutan. Microsoft Edge i felsökningsläge.
 
-En lista över de inställningar som lagras i program loggar finns i [Granska klient program skydds loggar](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log).
+En lista över de inställningar som lagras i apploggarna finns i [Granska klientprogramskyddsloggar](/mem/intune/apps/app-protection-policy-settings-log).
 
-Information om hur du visar program loggar på Android-enheter finns i [Ladda upp och skicka e-postloggning](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android).
+Mer information om hur du visar apploggar på Android-enheter finns i Upload [och e-postloggar](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android).
