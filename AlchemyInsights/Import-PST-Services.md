@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721654"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023121"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Importtjänst
 
@@ -29,9 +29,9 @@ Så här öppnar du importtjänsten och startar importen:
 
 1. I den vänstra rutan i M365 efterlevnadscenter under **Lösningar** väljer du **Import av informationsstyrning.**  >  
 
-1. På sidan **Importera** väljer du **Nytt importjobb**.
+1. På sidan **Importera** väljer du **Nytt importjobb**. Ange ett jobbnamn och välj **Nästa**.
 
-1. För att slutföra stegen i guiden, se [Använda nätverksuppladdning för att importera organisationens PST-filer till Microsoft 365](/compliance/use-network-upload-to-import-pst-files).
+1. Välj **Upload dina data för** att använda nätverksuppladdningsalternativet för **importjobbtypen**. Detaljerade instruktioner finns i Använda [nätverksuppladdning för att importera organisationens PST-filer till Microsoft 365](/compliance/use-network-upload-to-import-pst-files).
 
 För att komma **åt** sidan Importera kontrollerar du att du har tilldelats rätt behörigheter. Mer information finns i Använda [nätverksuppladdning för att importera PST-filer.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 

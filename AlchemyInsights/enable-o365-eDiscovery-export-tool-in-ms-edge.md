@@ -1,5 +1,5 @@
 ---
-title: Aktivera Office 365 eDiscovery export Tool i Microsoft Edge
+title: Aktivera Office 365 eDiscovery-exportverktyget i Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Admin_O365
 ms.custom:
 - "9003878"
 - "6930"
-ms.openlocfilehash: c3d4b45d77ffb47db458f11aeab183230d3fa9cc
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "11694"
+- "9006005"
+ms.openlocfilehash: 00b64ee8999ce47cac1f36a8fc3af32783e2e1a1
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583677"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023193"
 ---
-# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Aktivera Office 365 eDiscovery export Tool i Microsoft Edge
+# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Aktivera Office 365 eDiscovery-exportverktyget i Microsoft Edge
 
-Support för ClickOnce är inte längre aktive rad i Microsoft Edge som standard. För att kunna fortsätta använda Microsoft Office 365 eDiscovery export Tool måste du använda Microsoft Internet Explorer eller aktivera alternativet ClickOnce-support i Krombaserade Microsoft Edge:
+Stöd för ClickOnce är inte längre aktiverat Microsoft Edge som standard. Om du vill fortsätta använda Microsoft Office 365 eDiscovery-exportverktyget måste du använda Microsoft Internet Explorer eller aktivera ClickOnce-supportalternativet i Chromium-baserade Microsoft Edge, enligt följande:
 
-1. Gå till edge://flags/#edge-Click-once.
-1. För alternativet **ClickOnce support** ändrar du värdet från **default** eller **Disabled** till **Enabled**.
-1. Klicka på **starta om** längst ned i webbläsarfönstret. Ändringen börjar gälla efter att du har startat om Microsoft Edge.
+1. Gå till edge://flags/#edge-click-once.
+1. Under alternativet **ClickOnce ändrar** du värdet från Standard **eller Inaktiverad** **till** **Aktiverad.**
+1. Klicka på Starta om längst ned i **webbläsarfönstret.** Ändringen börjar gälla när du startar om Microsoft Edge.
 
-Mer information finns i [använda Office 365 EDiscovery export Tool i Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).
+Mer information finns i [Använda verktyget Office 365-dataidentifieringsexport i Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2111611)
