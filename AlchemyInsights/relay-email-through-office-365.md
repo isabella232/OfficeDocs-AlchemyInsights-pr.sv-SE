@@ -13,18 +13,24 @@ ms.custom:
 - "154"
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 56936541c52e56d7aa9b0f5dad7b9a359c5b6185
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 3b07dd4ccc8570e77a9ce30df48f9ac987a1db71
+ms.sourcegitcommit: 93292c46464ac94971d11adfb808d066ab8bc406
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809673"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53118001"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email"></a>Konfigurera en multifunktionsenhet eller ett multifunktionsprogram för att skicka e-post
 
-Mer information om alternativ och anvisningar finns i [Konfigurera en multifunktionsenhet eller ett multifunktionsprogram för att skicka e-post med hjälp av Microsoft 365](https://docs.microsoft.com/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).
+Mer information om alternativ och anvisningar finns i [Konfigurera en multifunktionsenhet eller ett multifunktionsprogram för att skicka e-post med hjälp av Microsoft 365](/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).
   
-**Obs!** Om du har en enhet eller ett program som nyligen har slutat fungera vill vi göra dig uppmärksam på att vi nyligen har börjat [inaktivera 3DES-chiffreringen](https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption) som planerat. Om du vill se påverkade enheter går du till rapporten [SMTP Auth-klienter](https://protection.office.com/mailflow/dashboard). Vanliga fel kan vara: Autentiseringsfel, TLS-fel, felaktig chiffreringsalgoritm, algoritmkonflikt eller avbruten anslutning. Så här löser du problemet:
+Om du har en enhet eller ett program som nyligen slutat fungera är de vanligaste problemen:
 
- - **Windows Server 2003 IIS SMTP fungerar inte längre – en nyare version av Windows krävs.**  
- - Kontakta leverantören för programmet eller enheten och kontrollera om en modern chiffrering stöds eller om det finns en uppdatering.
+- **Autentiseringsrelaterade fel när du använder sändning via SMTP-autentiseringsklient** Vi har nyligen gjort några ändringar som rör hur SMTP-autentisering fungerar. Mer information om hur du löser problem finns i avsnittet om autentisering som inte lyckades i Åtgärda problem med [skrivare, skannrar](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off#error-authentication-unsuccessful)och LOB-program som skickar e-post med hjälp av Microsoft 365 eller Office 365.
+- **Vi accepterar endast TLS 1.2-versionen när en säker anslutning upprättas till Office 365** Om du använder Säker anslutning (TLS) kontrollerar du att programenheten har stöd för TLS 1.2. Mer information finns i Förbereda [för TLS 1.2 i Office 365 och Office 365 GCC.](/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
+ 
+Andra problem och lösningar finns i Åtgärda problem med [skrivare, skannrar](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off)och LOB-program som skickar e-post med hjälp av Microsoft 365 eller Office 365.
+
+Om du vill se påverkade enheter går du till rapporten [SMTP Auth-klienter](https://protection.office.com/mailflow/dashboard).
+
+**Obs!** Exchange Online kan inte hantera scenarier för massutskick. Om du vill skicka massutskick av kommersiell e-post (till exempel nyhetsbrev från kunder) bör du använda tredjepartsleverantörer som tar del av dessa tjänster.
