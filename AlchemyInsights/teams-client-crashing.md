@@ -1,5 +1,5 @@
 ---
-title: Kraschar Teams-klienten?
+title: Teams klient kraschar
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,39 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: 20f03b075787cab85ab15d5272c0416b88ebbaee
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7acb2f5f87a9cfbd67cd94efca696665fd80fc4a
+ms.sourcegitcommit: 3cdfde87b7311c200431196031af92c640fd0d8d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826289"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53187739"
 ---
-# <a name="teams-client-crashing"></a>Kraschar Teams-klienten?
+# <a name="teams-client-crashing"></a>Teams klient kraschar
 
 Om Teams-klienten kraschar kan du prova följande:
 
 - Om du använder skrivbordsversionen av Teams kan du [kontrollera att programmet är helt uppdaterat](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Kontrollera att alla [URL:er och adressintervall för Microsoft 365](https://docs.microsoft.com/microsoftteams/connectivity-issues) är tillgängliga.
+- Kontrollera att alla [Microsoft 365 URL:er och adressintervall](/microsoftteams/connectivity-issues) är tillgängliga.
 
-- Logga in med ditt klientadministratörskonto och kontrollera hälsoinstrumentpanelen för att verifiera att det inte finns något avbrott eller försämrad tjänst. [](https://docs.microsoft.com/office365/enterprise/view-service-health)
+- Logga in med ditt klientadministratörskonto och kontrollera hälsoinstrumentpanelen för att verifiera att det inte finns något avbrott eller försämrad tjänst. [](/office365/enterprise/view-service-health)
 
-- Avinstallera och installera om Teams-programmet (länk)
-    - Bläddra till mappen %appdata%\Microsoft\teams\ på datorn och ta bort alla filer i katalogen.
-    - [Ladda ned och installera Teams-appen](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)och installera om möjligt Teams som administratör (högerklicka på Teams-installationsprogrammet och välj Kör som administratör om det finns).
+- Avinstallera och installera om Teams program
+    - Bläddra till mappen %appdata%\Microsoft\Teams\ på datorn och ta bort alla filer i katalogen.
+    - [Ladda ned och installera Teams-appen](https://www.microsoft.com/microsoft-teams/download-app)och installera om möjligt Teams som administratör (högerklicka på Teams-installationsprogrammet och välj Kör som administratör om det **finns).**
 
-Kan du återskapa problemet om Teams-klienten fortfarande kraschar? Gör så här:
+Om din Teams-klient ändå kraschar försöker du att återskapa problemet. Om du kan:
 
 1. Använd Steps Recorder för att spela in dina steg.
     - Stäng alla onödiga eller konfidentiella program.
     - Starta Steps Recorder och återskapa problemet när du är inloggad med det aktuella användarkontot.
-    - [Samla in de teamloggar som avbildar de inspelade återpropro-stegen](https://docs.microsoft.com/microsoftteams/log-files). **Obs!** Se till att du registrerar inloggningsadressen för den påverkade användaren.
-    - Samla in information om avdump och/eller fel bucket (Windows). Starta Windows Powershell på den dator där kraschen inträffar och kör följande kommandon:
+    - [Samla in de teamloggar som avbildar de inspelade återpropro-stegen](/microsoftteams/log-files). **Obs!** Se till att du registrerar inloggningsadressen för den påverkade användaren.
+    - Samla in information om avdump och/eller fel bucket (Windows). Starta Windows Powershell på den dator där kraschen inträffar och kör följande kommandon (tryck på Retur efter varje kommando):
 
-        `
-        PS C:\Users\user01> cd $env:temp
-        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
-        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
-        `
+    `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`
+    `notepad .\FaultBuckets.txt`
     
-2. Bifoga filen till ditt supportfall.
+2. När textfilen har genererats och visas på skärmen sparar du filen och bifogar den till tjänstbegäran. 
