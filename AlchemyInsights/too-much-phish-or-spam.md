@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: ab0baac563fd4cce628eef0525c04b1613a2ea38
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: d5db78a8427c45c272a72435f2bf1e485a3a366b
+ms.sourcegitcommit: d6b1e4c843206d1977af861542f139d7a5042de7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544848"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53195538"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Får du för mycket phish eller skräppost i din postlåda?
 
@@ -27,3 +27,7 @@ Som administratör Microsoft 365 är det bästa sättet att avgöra varför ett 
 För att göra det enklare kan du tillåta dina användare att rapportera direkt till Microsoft via [tillägget Rapportmeddelande.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 
 **Visste du detta?**: Du kan nu skicka exempel direkt från [Meddelandespårning](https://security.microsoft.com/messagetrace) och E5/Microsoft Defender för Office 365 abonnemang 2-kunder kan skicka exempel från [Threat Explorer.](/microsoft-365/security/office-365-security/threat-explorer)
+
+Mer information om hur du skickar meddelanden för analys i Microsoft 365 Defender-portalen finns i videon [Skicka exempel för analys](https://go.microsoft.com/fwlink/?linkid=2166435).
+
+Mer information om hur du undersöker falska negativa tal i Microsoft Defender för Office 365 finns i videon [Falsk negativ strategi](https://go.microsoft.com/fwlink/?linkid=2166434).
