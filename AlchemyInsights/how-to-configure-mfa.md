@@ -12,15 +12,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 4f535ddf697925b56ba8d72c0e68ed320bd8ea11
-ms.sourcegitcommit: cc7c443f23deede96de9532888e0e009430e61a4
+ms.openlocfilehash: 334282a9d8e1467e698abfcad829fb15d573e215
+ms.sourcegitcommit: a3a82c038e1f64d95b7c72e5ac981228ad06529c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53218792"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53347862"
 ---
-# <a name="configure-multi-factor-authentication"></a>Konfigurera multifaktorautentisering
+# <a name="configure-multifactor-authentication"></a>Konfigurera multifaktorautentisering
 
-Information om hur du konfigurerar MFA [finns i Konfigurera multifaktorautentisering](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) eller [Administrationscenter för Microsoft 365 konfigurationsguiden.](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/mfasetupguide:)
+Information om hur du konfigurerar MFA finns i Konfigurera multifaktorautentisering eller [Administrationscenter för Microsoft 365 konfigurationsguiden.](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/mfasetupguide) [](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication)
 
 **Obs!** Du måste vara global administratör för att aktivera och konfigurera MFA.
