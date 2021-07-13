@@ -13,16 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: f5b3a07f05b31b05e2105fb1f6efbe23fb630179
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: 66fae5b5602dd67954ac9208b26bc2005adda0e3
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52125668"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389199"
 ---
 # <a name="domain-status---no-services-selected"></a>Domänstatus – Inga tjänster har markerats
 
-Status för domänhälsa är tillgänglig när du ansluter domänen direkt till Microsoft 365, till exempel Exchange. Det gör du genom att gå Microsoft 365 administrationscenter och välja **DNS-poster**  >  **Hantera DNS.**
+**Inga tjänster valda** innebär att du inte har valt några Microsoft 365-tjänster som Exchange Online, Skype för företag eller Intune eller Hantering av mobila enheter för Microsoft 365 som ska användas med din egen domän. Om du använder Exchange hybridfiltrering (Exchange lokalt med Exchange Online) eller extern skräppostfiltrering med Exchange och inga andra Microsoft-tjänster kan du ignorera det här meddelandet. Status för domänhälsa är endast tillgänglig för domäner som är anslutna direkt till tjänsten.
 
-Om du inte kan ansluta domänen direkt till Microsoft 365 tjänsten är status för domänens hälsa inte tillgänglig. Till exempel när du använder anpassad DNS-routning för e-post, externa filtreringstjänster för skräppost eller använder både Exchange lokalt och Exchange Online (kallas även hybriddistribution).
+Så här väljer du tjänster för domänen:
+
+1. I **Inställningar**  >  [**Domäner**](https://admin.microsoft.com/Adminportal/Home)markerar du kryssrutan bredvid domänen med statusmeddelandet **Inga tjänster markerat.**
+1. Välj **Hantera DNS för** att starta domäninstallationsguiden.
+    - Om du väljer **Lägg till dina egna DNS-poster** ska du se till att välja en tjänst när du uppmanas att göra det. Fler tjänster kan vara tillgängliga under **Avancerade alternativ.**
+    - Om du väljer **Låt Microsoft lägga till dina DNS-poster** eller **Fler** alternativ Konfigurera onlinetjänsterna åt mig föreslås alla tillgängliga tjänster  >   och väljs automatiskt.
+1. Fortsätt genom guiden för att slutföra DNS-installationen och tjänstalternativen.
+ 
+Mer hjälp med att konfigurera din domän finns i Lägga [till DNS-poster för att ansluta din domän.](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
