@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1db4d15b45ff95a643ceca788667de9fb6a8f4bc
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539662"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532273"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Publicera en känslighetsetikett
 
-1. Gå till Office 365 säkerhets- & kompatibilitetscenter > **etiketter**  >  **för klassificeringskänslighet.**
+1. Gå till Microsoft 365 kompatibilitetscenter > **informationsskyddsetiketter**  >  .
 
-1. På sidan Känslighetsetiketter väljer du **fliken Etikettprinciper** och väljer sedan **Publicera etiketter.**
+1. Välj **+ Publicera etikett** för att starta guiden Ny känslighetsetikett.
 
 1. Välj **Välj känslighetsetiketter att publicera**. Markera de etiketter som du vill göra tillgängliga i appar och tjänster, och välj sedan **Lägg till**.
 

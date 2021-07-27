@@ -1,5 +1,5 @@
 ---
-title: Felsöka arbets flöden i SharePoint
+title: Felsöka arbetsflöden i SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -15,21 +15,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: eedfb806100c479e0e20acbeefdda7c3c81f99e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0d05285539d498aa27b1f54880da9c5110acf98
+ms.sourcegitcommit: e2f1c3a8adcce7e7e545ec13d5aeae3cf2f67db7
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800266"
+ms.lasthandoff: 07/26/2021
+ms.locfileid: "53586952"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a>Felsöka arbets flöden i SharePoint
+# <a name="troubleshoot-workflows-in-sharepoint"></a>Felsöka arbetsflöden i SharePoint
 
-**Felsöka och felsöka arbets flöden i SharePoint**
+**Felsöka och felsöka arbetsflöden i SharePoint**
 
-Se [Felsöka SharePoint Workflow Validation-fel](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) och felsöka [SharePoint-arbetsflöden](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+Mer information finns i:
 
-**Automatisk strömförsörjning**
+- [Felsöka SharePoint arbetsflödesverifieringsfel](/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
+- [Felsökning av SharePoint arbetsflöden](/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+- [Samla SharePoint 2013-arbetsflödesfelsökningsdata med ShowScopeDebugInfo](/sharepoint/troubleshoot/workflows/gather-workflow-data)
 
-Om du bara kommer igång med arbets flöden kan du använda [Power automatisering](https://docs.microsoft.com/power-automate/modern-approvals) i stället för de klassiska SharePoint Workflow-lösningarna.
+**Power Automate**
 
-Mer information finns i [SharePoint-arbetsflöden](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).
+Om du precis har börjat med arbetsflöden kan du överväga att Power Automate [i](/power-automate/modern-approvals) stället för de klassiska SharePoint arbetsflödeslösningarna.
+
+Mer information finns i [SharePoint in alla arbetsflöden](/alchemyinsights/sharepoint-workflows-retiring).
