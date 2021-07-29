@@ -1,5 +1,5 @@
 ---
-title: Identifiera extern vidarebefordran av e-post i post lådor i gransknings loggar
+title: Identifiera extern vidarebefordran av e-post i postlådor i granskningsloggar
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,31 +13,31 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d06ef83adcae1342173a6fe75f79525c7e1797ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7146b2b09b6ac1e33b192dcbcbfb72ea2593313
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696315"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630267"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identifiera när extern e-postvidarebefordran är konfigurerad på post lådor
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identifiera när extern vidarebefordran av e-post konfigureras för postlådor
 
-När en Microsoft 365-användare konfigurerar extern e-postvidarebefordran i en post låda granskas aktiviteten som en del av cmdleten **set-post låda** . Du kan se aktiviteten med hjälp av gransknings loggs ökning i centret för säkerhets & efterlevnad.
+När en Microsoft 365 konfigurerar extern vidarebefordran av e-post för en postlåda granskas aktiviteten som en del av cmdleten **Set-Mailbox.** Du kan se aktiviteten med hjälp av granskningsloggsökning i Säkerhets- & efterlevnadscenter.
 
-1. Logga in på [Microsoft 365 Security & Compliance Center](https://protection.office.com/).
+1. Logga in på [Microsoft 365 Kompatibilitetscenter.](https://protection.office.com/)
 
-2. Gå till sidan **Sök**  >  **gransknings loggs sökning** .
+2. Gå till sidan **Sök**  >  **granskningsloggsökning.**
 
-3. Välj datum intervall i fälten **start datum** och **slutdatum** . Du behöver inte ange ett användar namn. Kontrol lera att fältet **aktiviteter** är inställt på **Visa resultat för alla aktiviteter**.
+3. Välj datumintervallet i **fälten Startdatum** **och** Slutdatum. Du behöver inte ange ett användarnamn. Kontrollera att **fältet** Aktiviteter är inställt **på Visa resultat för alla aktiviteter.**
 
-4. Klicka på **Sök**.
+4. Klicka **på Sök**.
 
-Klicka på **filter resultat** och skriv **in post låda** i rutan aktivitets filter. Välj en gransknings post i resultatet. I den utfällbara **informationen** klickar du på **Mer information**. Du måste granska detaljerna för varje gransknings post för att avgöra om aktiviteten är relaterad till vidarebefordran via e-post.
+I resultatet klickar du på **Filtrera resultat** och **skriver Set-Mailbox** i aktivitetsfilterrutan. Välj en granskningspost i resultatet. Klicka på **Mer** information i den **utfällna menyn Information.** Du måste granska informationen för varje granskningspost för att avgöra om aktiviteten är relaterad till vidarebefordran av e-post.
 
-- **ObjectID**: Ali Aset för post lådan som har ändrats.
+- **ObjectId:** Aliasvärdet för postlådan som ändrades.
 
-- **Parametrar**: _ForwardingSmtpAddress_ anger mål-e-postadress.
+- **Parametrar:** _ForwardingSmtpAddress_ anger målets e-postadress.
 
-- **UserID**: användaren som konfigurerade e-postvidarebefordran på post lådan i fältet **ObjectID** .
+- **UserId:** Användaren som konfigurerade vidarebefordran av e-post för postlådan i **fältet ObjectId.**
 
-Mer information finns i [bestämma vem som konfigurerar e-postvidarebefordran för en post låda](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).
+Mer information finns i Fastställa [vem som har konfigurerat vidarebefordran av e-post för en postlåda.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)

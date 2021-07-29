@@ -1,5 +1,5 @@
 ---
-title: Identifiera IP-adress och klient i gransknings loggar
+title: Identifiera IP-adress och klient i granskningsloggar
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,27 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 295418f3c433df2ba1004f4bec4377c68e6bb155
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a596dd4bed90a0d777dcf19c4c82b41c67fac812
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668328"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630303"
 ---
-# <a name="identify-ip-address-and-client-in-audit-logs"></a>Identifiera IP-adress och klient i gransknings loggar
+# <a name="identify-ip-address-and-client-in-audit-logs"></a>Identifiera IP-adress och klient i granskningsloggar
 
-Den IP-adress som motsvarar en aktivitet av en Microsoft 365-användare eller-administratör visas i gransknings loggarna. Klient informationen loggas också. Här är de här stegen för att identifiera sådan information
+IP-adressen som motsvarar en aktivitet av en Microsoft 365 användare eller administratör visas i granskningsloggarna. Klientinformationen loggas också. Här är stegen för att identifiera sådan information
 
-1. Logga in på [Microsoft 365 Security & Compliance Center](https://protection.office.com/).
+1. Logga in på [Microsoft 365 Kompatibilitetscenter.](https://protection.office.com/)
 
-2. Gå till sidan **Sök**  >  **gransknings loggs sökning** .
+2. Gå till sidan **Sök**  >  **granskningsloggsökning.**
 
-   Om du är intresse rad av en viss aktivitet väljer du den i listan **aktiviteter** . Annars returneras alla aktiviteter för den valda användaren (standardinställningen).
+   Om du är intresserad av en viss aktivitet väljer du den i **listan** Aktiviteter. Om det inte är markerat returneras alla aktiviteter för den valda användaren (standardinställning).
 
-   **Obs!** vissa aktiviteter kanske inte är tillgängliga i menyn **aktiviteter** . dessa gransknings objekt returneras emellertid om **Visa resultat för alla aktiviteter** är markerat (standardinställningen).
+   **Obs!** Vissa aktiviteter kanske inte är tillgängliga på **menyn** Aktiviteter. Dessa granskningsobjekt returneras emellertid om **Visa resultat för alla aktiviteter** är markerat (standardinställning).
 
-3. Ange användar namnet i fältet **användare** , Välj lämpligt datum intervall för aktiviteten och klicka sedan på **Sök**.
+3. Ange användarnamnet i **fältet Användare,** välj lämpligt datumintervall för aktiviteten och klicka sedan på **Sök**.
 
-I resultatet kan du se IP-adressen för den aktiviteten i resultat fönstret. Välj gransknings posten för att se detaljerad information om utfällbar **information** (till exempel klient, användare som utförde åtgärder osv.).
+I resultatet visas IP-adressen för aktiviteten i resultatfönstret. Välj granskningsposten om du  vill se detaljerad information i den utfällna informationen (till exempel Klient, Användare som utfört en åtgärd osv.).
 
-Mer information finns i [hitta IP-adressen för datorn som används för att komma åt ett komprometterat konto](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
+Mer information finns i Hitta [IP-adressen för datorn som används för att komma åt ett komprometterat konto.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)

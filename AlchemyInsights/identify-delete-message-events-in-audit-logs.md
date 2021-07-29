@@ -1,5 +1,5 @@
 ---
-title: Identifiera händelser för ta bort meddelanden i gransknings loggar
+title: Identifiera borttagningsmeddelandehändelser i granskningsloggar
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,27 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: bc78076706aee15a3133c4b1a89064591f790b58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7dd9c98bd45c29702fbc6cc14bf82bf7bce7d89d
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696531"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630087"
 ---
-# <a name="audit-logs-for-deleted-email-messages"></a>Gransknings loggar för borttagna e-postmeddelanden
+# <a name="audit-logs-for-deleted-email-messages"></a>Granskningsloggar för borttagna e-postmeddelanden
 
-Från och med den 2019 januari aktiverar Microsoft automatiskt gransknings loggning för post låda. Om du till exempel vill ta bort meddelande händelser för en viss användare måste du manuellt aktivera borttagnings åtgärderna för granskning. Om gransknings loggning för post lådor är aktiverat för din organisation eller för en viss användare följer du stegen nedan.
+Från och med januari 2019 startar Microsoft granskningsloggning för postlådor som standard. Annars måste du manuellt aktivera borttagningsåtgärder för granskning om du vill granska borttagningshändelser för en viss användare. Om granskningsloggning för postlådor redan är aktiverad för organisationen eller för en viss användare följer du stegen nedan.
 
-1. Logga in på [Microsoft 365 Security & Compliance Center](https://protection.office.com/)
+1. Logga in på [Microsoft 365 Efterlevnadscenter](https://protection.office.com/)
 
-2. Klicka på **Sök och** granska och välj **gransknings loggs ökning**.
+2. Klicka **på Sökning och undersökning** och välj **Granskningsloggsökning**.
 
-3. Välj datum intervall i fälten **start datum** och **slutdatum** . Ange användar namn för den användare som du vill undersöka (användaren som tog bort objekten). I fältet **aktiviteter** väljer du **borttagna meddelanden från mappen Borttaget** och **flyttade meddelanden till mappen Borttaget**.
+3. Välj datumintervallet i **fälten Startdatum** **och** Slutdatum. Ange användarnamn för den användare som du vill undersöka (den användare som tog bort objekten). I fältet **Aktiviteter** väljer du **Borttaget från mappen Borttaget och** **Flyttade meddelanden till mappen Borttaget.**
 
-4. Klicka på **Sök**.
+4. Klicka **på Sök**.
 
-Välj en gransknings post i resultatet. I den utfällbara informationen klickar du på **Mer information**. Ytterligare information om det borttagna objektet (till exempel raden ämne och platsen för objektet när det togs bort) visas i fältet **AffectedItems** . Egenskapen **ClientInfoString** visar om borttagningen skedde i Outlook, Outlook på webben (tidigare Outlook Web App) eller annan enhet.
+Välj en granskningspost i resultatet. Klicka på Mer information i den **utfällade informationen.** Ytterligare information om det borttagna objektet (till exempel ämnesraden och platsen för objektet när det togs bort) visas i **fältet AffectedItems.** Egenskapen **ClientInfoString** visar om borttagningen inträffade på Outlook, Outlook på webben (tidigare kallad Outlook Web App) eller någon annan enhet.
 
-Mer information finns i [bestämma vem som konfigurerar e-postvidarebefordran för en post låda](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
+Mer information finns i Fastställa [vem som har konfigurerat vidarebefordran av e-post för en postlåda.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
 
-**Obs!** du kan inte hämta borttagna objekt med hjälp av Gransknings logg funktionen. Information om hur du hämtar borttagna meddelanden i Outlook på webben finns i [återställa borttagna objekt i Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
+**Obs!** Du kan inte hämta borttagna objekt med hjälp av granskningsloggfunktionen. Information om hur du hämtar borttagna Outlook på webben finns i [Återskapa borttagna objekt i Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
