@@ -1,8 +1,9 @@
 ---
-title: Vad händer med mina data och åtkomst när min Microsoft 365 för företag-prenumeration går ut?
+title: Vad händer med mina data och åtkomst när prenumerationen för Microsoft 365 för företag går ut?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -11,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 5861aa9b952b571b620dca1d56adef7cc0fa420c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 865056484b449f1dd33b595eec9f3cb740536ba0
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668941"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688272"
 ---
-# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Vad händer med mina data och åtkomst när min Microsoft 365 för företag-prenumeration går ut?
+# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Vad händer med mina data och åtkomst när prenumerationen för Microsoft 365 för företag går ut?
 
-Om ditt abonnemang går ut, antingen för att det upphör, eller om du väljer Avbryt, kan du gå igenom flera tillstånd innan abonnemanget är helt inaktiverat eller  *avetablerats*  . Om du är medveten om denna status är du bättre rustad för att återställa ditt abonnemang till ett aktivt tillstånd innan det är för sent, eller – om du lämnar Microsoft – säkerhetskopiera dina data innan de tas bort.
+Om prenumerationen upphör – antingen för att den går ut eller för att du bestämt dig för att avbryta den – går åtkomsten till tjänster, program och kunddata igenom flera olika tillstånd innan prenumerationen helt stängs av eller *återkallas.* Om du känner till hur det går har du större möjlighet att återställa prenumerationen till aktivt läge innan det är för sent eller, om du vill lämna Microsoft, att backa upp dina data innan de tas bort permanent.
   
-Innan abonnemanget når utgångs datumet har du några alternativ för att **hantera återkommande fakturering för abonnemanget**.
+Innan prenumerationen går ut kan du välja mellan Hantera **återkommande fakturering** för prenumerationen .
   
-- Om **du redan har aktiverat** automatisk förnyelse behöver du inte göra något. Ditt-abonnemang debiteras på dess **återkommande betalnings** datum och du debiteras för ytterligare ett år eller en månad, beroende på din aktuella fakturerings frekvens. Om **du av någon anledning har aktiverat automatisk** förnyelse kan du aktivera automatisk [återställning](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+- Om **Återkommande fakturering** redan har aktiverats behöver du inte vidta någon åtgärd. Prenumerationen förnyas automatiskt  på det återkommande faktureringsdatumet och du debiteras för ett extra år eller månad, beroende på vilken faktureringsfrekvens du har. Om du av någon anledning har **inaktiverat Återkommande fakturering** kan du alltid [aktivera återkommande fakturering igen.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)
 
-- Om du är Open Volume Licensing Customer med ett förbetalt abonnemang på ett år kontaktar du din partner för att köpa en ny produkt. Du får instruktioner via e-post för att aktivera din-prenumeration i [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). Information om hur du hittar en ny partner, eller partnern som du har arbetat med tidigare finns i [hitta din Microsoft 365-partner eller åter försäljare](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).
+- Kontakta din partner för att köpa en ny produktnyckel om du är kund hos Open Volume Licensing med en förbetald prenumeration på ett år. Du får instruktioner via e-post för att aktivera nyckeln i [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). Mer information om hur du hittar en ny partner, eller en partner som du har samarbetat med tidigare, finns i Hitta en [Microsoft 365 partner eller återförsäljare.](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller)
