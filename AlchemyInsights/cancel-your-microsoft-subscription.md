@@ -3,6 +3,7 @@ title: Avbryt din Microsoft-prenumeration
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 218ed088ca13c5d7964600559857f49c5dd00f19
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 5a753e6ef663281916626747df836bc57c459d97
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543343"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687300"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Avbryt din Microsoft-prenumeration
 
-Administratörer kan avbryta prenumerationen för organisationen Microsoft 365 administrationscentret.
+Administratörer kan avbryta prenumerationen för organisationen i Administrationscenter för Microsoft 365.
 
 1. Gå till sidan **Fakturering** \> [dina](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
 2. Leta rätt **på** den prenumeration du vill avbryta på fliken Produkter. Välj de tre punkterna (fler åtgärder) och välj sedan **Avbryt prenumeration**.

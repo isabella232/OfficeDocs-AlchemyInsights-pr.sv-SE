@@ -3,20 +3,23 @@ title: Hur ändrar jag från kreditkort till faktura?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: c34dc93f7ad091c08f23f11cdf0dddea6afb9a04
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: be744c88181d97edfe0f98f2d5e6bc02ff1bf30b
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544488"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685968"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hur ändrar jag från kreditkort till faktura?
 
@@ -25,7 +28,7 @@ ms.locfileid: "52544488"
 
 1. I administrationscentret går du till sidan **Fakturering** > [Dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. På fliken **Produkter** hittar du den prenumeration som du vill betala för med den alternativa betalningsmetoden.
-3. Välj de tre punkterna (fler åtgärder) och välj **sedan Ersätt betalningsmetod.**
+3. Välj de tre punkterna (fler åtgärder) och välj sedan **Ersätt betalningsmetod**.
 4. I fönstret **Ersätt betalningsmetod** väljer du Lägg **till betalningsmetod.**
 5. I fönstret **Lägg till en betalningsmetod** väljer du Faktura eller **banköverföring.**
 6. Ange namn, adress och telefonnummer. Du kan också lägga till ett inköpsordernummer som ska visas på fakturan.

@@ -1,8 +1,10 @@
 ---
-title: Faktura-och betalnings information
+title: Faktura- och betalningsinformation
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,27 +13,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
+- commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 4328ced877e65de542226232e3335dd7c8046d1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1f7c6cc7003165140f519b51ac0cc40636e71a3e
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696063"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687228"
 ---
-# <a name="invoice-and-payment-information"></a>Faktura-och betalnings information
+# <a name="invoice-and-payment-information"></a>Faktura- och betalningsinformation
 
-**Betalas**
+**Betalning**
 
-När du köper en Microsoft 365 för företag-prenumeration direkt från Microsoft kan du betala med kredit-eller betalkort.  I vissa länder/regioner kan du även betala med ett bank konto.  Du kan lära dig hantera och felsöka betalnings metoderna från [Hantera betalnings metoder](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods). Detta inkluderar lösning av problem när kredit kortet nekas och uppdatering av betalnings information.
+När du köper en Microsoft 365 för företag-prenumeration direkt från Microsoft kan du betala med kreditkort eller bankkort.  I vissa länder/regioner kan du också betala med ett bankkonto.  Du kan lära dig att hantera och felsöka de här betalningsmetoderna [från Hantera betalningsmetoder.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods) Det omfattar att lösa problem när kreditkortet nekas och uppdatera betalningsinformation.
 
-**Faktura/fakturering**
+**Faktura/faktura**
 
-Du kan söka efter och hämta dina **fakturor på**  >  [betalnings sidan & betalning](https://go.microsoft.com/fwlink/p/?linkid=848039) .  
+Du hittar och laddar ned dina fakturor på **sidan**  >  [& fakturor.](https://go.microsoft.com/fwlink/p/?linkid=848039)  
 
-**Obs!** om inga fakturor syns kan du behöva justera filtret datum intervall.  Den senaste 3 månaders perioden visas som standard.
+**Obs!** Om inga fakturor visas kan du behöva justera filtret för datumintervall.  Som standard visas fakturorna för de senaste 3 månaderna.
 
-Fakturor skapas varje månad eller varje år, beroende på vilken betalnings frekvens som valts under köpet.  Om du betalar årligen kan du få en skuld period när du lägger till eller tar bort licenser för ett abonnemang.
+Fakturor skapas varje månad eller per år beroende på vilken faktureringsfrekvens som valts vid köp.  Om du betalar årligen kan du få en faktura under en mittperiod när du lägger till eller tar bort licenser för en prenumeration.
 
-- Mer information finns i [förstå din faktura för Microsoft 365 för företag](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+- Mer information finns i [Förstå din faktura för Microsoft 365 för företag.](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)

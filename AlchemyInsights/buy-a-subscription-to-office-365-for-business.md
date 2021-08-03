@@ -1,8 +1,10 @@
 ---
-title: Köp ett abonnemang till Microsoft 365 för företag från din gratis prov period
+title: Köpa en prenumeration på Microsoft 365 för företag från en kostnadsfri utvärderingsversion
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,32 +12,33 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: e4e2024031ea539ae5107569481eb30e20649067
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: b45615a13d566c4c66b55bc989971864890ded9c
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416192"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686076"
 ---
-# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Köp ett abonnemang till Microsoft 365 från din gratis prov period
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Köpa en prenumeration på Microsoft 365 från en kostnadsfri utvärderingsversion
 
-Du har provat Microsoft 365 och nu är du redo att köpa. Du har två alternativ när du köper Microsoft 365 från utvärderings versionen:
+Du har provat Microsoft 365 och är nu redo att köpa den. Du har två alternativ när du köper Microsoft 365 från utvärderingsversionen:
   
  **Köp samma abonnemang som din utvärderingsversion**.
   
 1. I administrationscentret går du till sidan **Fakturering** \> [Dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. På fliken **produkter** väljer du den prenumeration som du vill köpa.
-3. På sidan prenumerations information, i avsnittet **licens** , väljer du **köp betalt abonnemang nu**och följer stegen för att checka ut.
+2. På **fliken** Produkter väljer du den prenumeration som du vill köpa.
+3. I avsnittet Licens på sidan prenumerationsinformation **väljer** du Köp **betald prenumeration nu** och följer anvisningarna för att gå till avsnittet Licens.
  
-**Köp ett annat abonnemang**
+**Köpa en annan prenumeration**
   
-1. Gå till sidan fakturering i administrations centret **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) .
-2. Leta reda på den prenumeration du vill köpa, Välj **köp**och följ stegen för att checka ut.
+1. I administrationscentret går du  till sidan \> [Faktureringsköpstjänster.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+2. Leta reda på den prenumeration du vill köpa, **välj Köp** och följ anvisningarna för att gå till utcheckningen.
 
-Mer information finns i [köpa ett abonnemang från din gratis prov period](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).
+Mer information finns i Köpa [en prenumeration från en kostnadsfri utvärderingsversion.](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)
 
 **Felsökning**
 

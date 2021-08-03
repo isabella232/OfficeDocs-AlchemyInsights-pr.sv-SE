@@ -1,9 +1,10 @@
 ---
-title: Köpa utbildnings erbjudandet
+title: Köpa erbjudande för utbildning
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
+ms.date: 04/21/2020
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,25 +12,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "328"
 - "369"
 - "1500009"
-ms.openlocfilehash: fa70e88af2e5e964ed78824411ff78cd600d7777
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: a4841ee6d0ae782b310c6a6ef9233675144ff6bd
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489295"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686760"
 ---
-# <a name="how-to-purchase-an-education-offer"></a>Köpa ett utbildnings erbjudandet
+# <a name="how-to-purchase-an-education-offer"></a>Köpa ett erbjudande för utbildning
 
 Du har godkänts för Office 365 Education. Så här genomför du ett köp:
   
 1. I administrationscentret går du till sidan **Fakturering** \> [Dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. På fliken **produkter** väljer du utvärderings versionen för **elever eller lärare**.
-3. På sidan prenumerations information, i avsnittet **licens** , väljer du **köp betalt abonnemang nu**.
-4. Följ de återstående anvisningarna för att checka ut.
+2. På fliken **Produkter** väljer du utvärderingsversionen **för studenter eller lärare.**
+3. Välj Köp betalprenumeration **nu** i avsnittet Licens **på sidan prenumerationsinformation.**
+4. Följ de återstående stegen för att komma till utcheckningen.
 
-Om du vill köpa ett annat abonnemang än utvärderings prenumerationen går du till sidan **fakturerings** \> [Köp tjänster](https://go.microsoft.com/fwlink/p/?linkid=868433) . Under **utbildnings planer**väljer du det abonnemang du vill ha.
+Om du vill köpa en annan prenumeration än din utvärderingsprenumeration går du till **sidan Tjänster för** \> [faktureringsköp.](https://go.microsoft.com/fwlink/p/?linkid=868433) Under **Utbildningsabonnemang** väljer du det abonnemang du vill ha.
 
-Mer information finns i [köpa ett abonnemang från din gratis prov period](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).
+Mer information finns i Köpa [en prenumeration från en kostnadsfri utvärderingsversion.](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)

@@ -3,6 +3,8 @@ title: Fakturering och betalning
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820412"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686904"
 ---
 # <a name="billing-and-payment"></a>Fakturering och betalning
 
@@ -52,10 +55,10 @@ Om du har lagt till ett nytt kort och du fortfarande får ett meddelande om avb�
 
 7. Den nya betalningsmetoden är redan vald i listrutan. Välj **Ersätt**.
 
-Mer information finns i [Hantera betalningsmetoder.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Mer information finns i [Hantera betalningsmetod](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Faktureringsfrekvens**
 
 Fakturor genereras varje månad eller per år beroende på vilken faktureringsfrekvens som valts i kassan.  
 
-**Obs!** Order med årlig fakturering kan få en faktura mitt under en period om ändringar har gjorts, t.ex. att lägga till eller ta bort licenser. [Ändra faktureringsfrekvensen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Obs!** Order med årlig fakturering kan få en faktura mitt under en period om ändringar har gjorts, t.ex. att lägga till eller ta bort licenser. [Ändra faktureringsfrekvensen](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
