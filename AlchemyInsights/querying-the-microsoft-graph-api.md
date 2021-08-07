@@ -1,5 +1,5 @@
 ---
-title: Fråga Microsoft Graph API
+title: Fråga Microsofts Graph API
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,95 +12,95 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7846"
-ms.openlocfilehash: 527e88c7b3cb1cc4f5535e3b0d2bc4d8d1163336
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: eda5d8d1d76d0d87312b1441aeae89d8e250abe0e8b613d4a43fcc2345a6f021
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974687"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923257"
 ---
-# <a name="querying-the-microsoft-graph-api"></a>Fråga Microsoft Graph API
+# <a name="querying-the-microsoft-graph-api"></a>Fråga Microsofts Graph API
 
-Det här avsnittet kan även gälla utvecklare som fortfarande använder Azure AD Graph API. Men **vi rekommenderar att** du använder Microsoft Graph för alla scenarier med katalog-, identitets-och åtkomst hantering.
+Det här avsnittet kan även gälla för utvecklare som fortfarande använder Azure AD Graph API. Vi rekommenderar dock starkt **att** du använder Microsoft Graph för alla scenarier för hantering av katalog, identitet och åtkomst.
 
-**Autentiserings-eller auktoriseringsfel**
+**Autentiserings- eller auktoriseringsproblem**
 
-- Om appen inte kan **Hämta tokens** för att ringa till Microsoft Graph kan du välja **ett problem med att hämta en** Microsoft Graph-kategori för att få mer specifikt hjälp och support för det här avsnittet.
-- Om ditt program **tar emot 401-eller 403-auktoriseringsfel** när du anropar Microsoft Graph väljer du Microsoft Graph API-kategorin **få ett fel meddelande om nekad åtkomst (Authorization)** i det här avsnittet.
+- Om appen inte kan hämta **token** för att ringa till Microsoft Graph väljer du Problem med att få en åtkomsttoken **(autentisering)** Microsoft Graph-kategori för att få mer specifik hjälp och support för det här avsnittet.
+- Om appen får **401- eller 403-auktoriseringsfel** när du ringer Microsoft Graph väljer du kategorin Få åtkomst nekad **(Auktorisering)** Microsoft Graph API för att få mer specifik hjälp och support för det här avsnittet.
 
-**Jag vill använda Microsoft Graph men inte vet var du ska börja**
+**Jag vill använda Microsoft Graph, men vet inte var jag ska börja**
 
 Mer information om Microsoft Graph finns i:
 
 - [Översikt över Microsoft Graph](https://docs.microsoft.com/graph/overview)
-- [Översikt över identitets-och åtkomst hantering i Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
-- [Komma igång med att bygga Microsoft Graph-appar](https://docs.microsoft.com/graph/)
-- **Microsoft Graph-Utforskaren** – testa Microsoft Graph API: er i din klient organisation eller en demo klient organisation
+- [Översikt över identitets- och åtkomsthantering i Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
+- [Komma igång med att skapa Microsoft Graph appar](https://docs.microsoft.com/graph/)
+- **Microsoft Graph –** testa Microsofts Graph-API:er i klientorganisationen eller en demoklientorganisation
 
-**Jag vill använda Microsoft Graph men stöder det v 1.0-katalog-API: erna jag behöver?**
+**Jag vill använda Microsoft Graph, men stöder det de v1.0-katalog-API:er jag behöver?**
 
-Microsoft Graph är den rekommenderade API för katalog, identitet och åtkomst hantering. Det finns emellertid ett fåtal luckor mellan vad som är möjligt i Azure AD Graph och Microsoft Graph. Läs följande artiklar som markerar de senaste skillnaderna för att hjälpa dig.
+Microsoft Graph är det rekommenderade API:t för hantering av katalog, identitet och åtkomst. Det finns dock fortfarande några skillnader mellan vad som är möjligt i Azure AD Graph och Microsoft Graph. Läs följande artiklar, där du hittar de senaste skillnaderna som kan vara till hjälp:
 
-- [Resurs typs skillnader mellan Azure AD Graph och Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
-- [Skillnader mellan Azure AD Graph och Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
-- [Metod skillnader mellan Azure AD och Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
+- [Skillnader i resurstyp mellan Azure AD Graph och Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
+- [Skillnader i egenskap mellan Azure AD Graph och Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
+- [Skillnader i metod mellan Azure AD och Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
 
 **När jag frågar *användarobjektet* saknas många av dess egenskaper**
 
-`GET https://graph.microsoft.com/v1.0/users` returnerar endast 11 egenskaper som Microsoft Graph Auto-väljer en standard uppsättning med *användar* egenskaper som ska returneras. Om du behöver andra *användar* egenskaper kan du använda $SELECT för att välja vilka egenskaper som krävs. Prova först i **Microsoft graphs Utforskare** .
+`GET https://graph.microsoft.com/v1.0/users`returnerar bara 11 egenskaper eftersom Microsoft Graph automatiskt väljer en standarduppsättning användaregenskaper *som* ska returneras. Om du behöver andra *användaregenskaper* kan $select för att välja de egenskaper som programmet behöver. Testa det först **i Microsoft Graph Explorer.**
 
-**Vissa värden för användar egenskaper är *Null* trots att jag vet att de är inställda**
+**Vissa användaregenskapsvärden *är null* även om jag vet att de har angetts**
 
-Den mest sannolika förklaringen är att programmet har tilldelats *användaren. ReadBasic. all* behörighet. Detta gör att programmet kan läsa en begränsad uppsättning användar egenskaper och returnerar alla andra egenskaper som null även om de redan har angetts. Prova att tilldela program *användaren. Läs alla* behörigheter i stället.
+Den troligaste förklaringen är att programmet har beviljats *behörigheten User.ReadBasic.All.* Då kan programmet läsa en begränsad uppsättning användaregenskaper och returnera alla andra egenskaper som null även om de har angetts tidigare. Försök att ge programmet *behörigheten User.Read.All* i stället.
 
-Mer information finns i [användar behörigheter för Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference#user-permissions).
+Mer information finns i [Microsoft Graph användarbehörigheter.](https://docs.microsoft.com/graph/permissions-reference#user-permissions)
 
-**Jag har problem med att använda OData-frågeparametrar för att filtrera data i Mina förfrågningar**
+**Jag har problem med att använda OData-frågeparametrar för att filtrera data i mina begäranden**
 
-Även om Microsoft Graph har stöd för en mängd olika OData-frågeparametrar stöds inte många av dessa parametrar fullt av katalog tjänster (resurser som ärver från *directoryObject*) i Microsoft Graph. Samma begränsningar som fanns i Azure AD Graph finns kvar för den mesta delen i Microsoft Graph:
+Även om Microsoft Graph har stöd för ett brett utbud av OData-frågeparametrar stöds inte många av dessa parametrar helt av katalogtjänsterna (resurser som ärver från *katalogObjekt*) i Microsoft Graph. Samma begränsningar som fanns i Azure AD-Graph finns kvar, oftast i Microsoft Graph:
 
-1. **Stöds inte**: $count, $search och $filter värden för *Null* eller *icke-null*
-2. **Stöds inte**: $filter på vissa egenskaper (se resurs avsnitt där egenskaper är filterade)
-3. **Stöds inte**: växling, filtrering och sortering samtidigt
-4. **Stöds inte**: filtrering för en relation. Till exempel – hitta alla medlemmar i ingenjörs gruppen i Storbritannien.
-5. **Delvis stöd**: $OrderBy på *användare* (DisplayName och userPrincipalName) och *grupp*
-6. **Delvis stöd**: $filter (stöd för endast *EQ*-, *StartsWith*- *eller*, *and*-and *-Limit-* funktioner) kan $Expand (när du expanderar ett enskilt objekts relationer returneras alla relationer, men expanderar en samling med objekts relationer är begränsad)
+1. **Stöds inte:**$count, $search eller $filter *null-värden* eller *inte null-värden*
+2. **Stöds inte:**$filter för vissa egenskaper (se resursavsnitt om vilka egenskaper som kan filtreras)
+3. **Stöds inte:** sidnumrering, filtrering och sortering samtidigt
+4. **Stöds inte:** filtrering av en relation. Till exempel – hitta alla medlemmar i teknikgruppen som finns i Storbritannien.
+5. **Delvis stöd:**$orderby *användare* (endast displayName och userPrincipalName) och *grupp*
+6. **Delvis stöd:**$filter (stöder endast *eq* ,  *startswith*, eller och begränsat stöd för *)*$expand (när du expanderar ett objekts relationer returneras alla relationer, men det är begränsat att expandera en samling av objektrelationer)
 
-Mer information finns i [Anpassa svar med frågeparametrar](https://docs.microsoft.com/graph/query-parameters).
+Mer information finns i Anpassa [svar med frågeparametrar](https://docs.microsoft.com/graph/query-parameters).
 
-**Det API jag ringer fungerar inte-var kan jag testa mer?**
+**API:t jag anropar fungerar inte – var kan jag testa mer?**
 
-**Microsoft Graph-Utforskaren** – testa Microsoft Graph API: er i din klient organisation eller en demo klient organisation och kontrol lera **exempel frågorna** i Microsoft Graph Explorer.
+**Microsoft Graph Utforskaren** – testa Microsoft Graph-API:er i din klientorganisation eller  en demoklientorganisation och ta även en titta på exempelfrågorna i Microsoft Graph Explorer.
 
-**När jag frågar för att få en ofullständig data uppsättning tillbaka**
+**När jag frågar efter data verkar det som om jag får tillbaka en ofullständig datauppsättning**
 
-Om du frågar en samling (som *användare*) används sid begränsningar i Microsoft Graph så att resultaten alltid returneras med en standard sid storlek. Programmet bör alltid förvänta sig att bläddra igenom de samlingar som returneras från tjänsten.
-
-Mer information finns i:
-
-- [Metod tips för Microsoft Graph](https://docs.microsoft.com/graph/best-practices-concept)
-- [Växling av Microsoft Graph-data i din app](https://docs.microsoft.com/graph/paging)
-
-**Mitt program är för långsamt och får också begränsat. Vilka förbättringar kan jag göra?**
-
-Beroende på ditt scenario finns det en mängd olika alternativ som du kan använda för att göra ditt program mer gjort och i vissa fall mindre känsligt för tjänsten (när du gör för många samtal).
+Om du avfrågar en samling (t.ex. användare) använder Microsoft Graph begränsningar på serversidan så att resultaten alltid returneras med en standardstorlek på sidan. Programmet bör alltid gå igenom samlingar som returneras från tjänsten.
 
 Mer information finns i:
 
-- [Metod tips för Microsoft Graph](https://docs.microsoft.com/graph/best-practices-concept)
-- [Gruppbegäran](https://docs.microsoft.com/graph/json-batching)
-- [Spåra ändringar via delta-frågor](https://docs.microsoft.com/graph/delta-query-overview)
-- [Få meddelanden om ändringar via webhookar](https://docs.microsoft.com/graph/webhooks)
-- [Begränsnings vägledning](https://docs.microsoft.com/graph/throttling)
+- [Microsoft Graph metodtips](https://docs.microsoft.com/graph/best-practices-concept)
+- [Sidnumrering för Microsoft Graph data i appen](https://docs.microsoft.com/graph/paging)
+
+**Min app är för långsam och begränsas också. Vilka förbättringar kan jag göra?**
+
+Beroende på scenariot finns det en mängd olika alternativ som du har tillgång till för att göra programmet mer mer uttjänat, och i vissa fall är det mindre risk för att du begränsas av tjänsten (när du ringer för många samtal).
+
+Mer information finns i:
+
+- [Microsoft Graph metodtips](https://docs.microsoft.com/graph/best-practices-concept)
+- [Grupperingsförfrågningar](https://docs.microsoft.com/graph/json-batching)
+- [Spåra ändringar via deltafråga](https://docs.microsoft.com/graph/delta-query-overview)
+- [Få ett meddelande om ändringar via webhooks](https://docs.microsoft.com/graph/webhooks)
+- [Begränsningsvägledning](https://docs.microsoft.com/graph/throttling)
 
 **Var hittar jag mer information om fel och kända problem?**
 
-- [Information om felsvar i Microsoft Graph](https://docs.microsoft.com/graph/errors)
+- [Microsoft Graph information om felsvar](https://docs.microsoft.com/graph/errors)
 - [Kända problem med Microsoft Graph](https://docs.microsoft.com/graph/known-issues)
 
-**Var kan jag kontrol lera status för tjänst tillgänglighet och anslutnings barhet?**
+**Var kan jag kontrollera status för tjänstens tillgänglighet och anslutning?**
 
-Tjänst tillgänglighet och anslutnings barhet för de underliggande tjänsterna som kan nås via Microsoft Graph kan påverka den allmänna tillgängligheten och prestandan i Microsoft Graph.
+Tjänstens tillgänglighet och anslutning för de underliggande tjänsterna som kan nås via Microsoft Graph kan påverka Microsofts övergripande tillgänglighet och prestanda Graph.
 
-- För Azure Active Directory-tjänstens hälsa kontrollerar du status för säkerhets-och **identitets** tjänster som visas på sidan för [Azure-status](https://azure.microsoft.com/status/).
-- För Office-tjänster som bidrar till Microsoft Graph bör du kontrol lera status för tjänsterna i [instrument panelen för Office-tjänsten](https://portal.office.com/adminportal/home#/servicehealth).
+- För Azure Active Directory tjänstens hälsa kontrollerar du statusen för **säkerhets- och identitetstjänster** som visas på [Azure-statussidan.](https://azure.microsoft.com/status/)
+- Om Office tjänster som kan bidra till Microsoft Graph kontrollerar du statusen för de tjänster [Office Hälsoinstrumentpanelen](https://portal.office.com/adminportal/home#/servicehealth).

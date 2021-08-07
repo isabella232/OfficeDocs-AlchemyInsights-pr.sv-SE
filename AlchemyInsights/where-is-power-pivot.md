@@ -15,31 +15,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 3be4424d6a0d76136bf10b2629e43c0a321720ab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e50382496c5f1040f3e7f149e4781392b8b48c59d0619b74a20ea324ebc8995
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719107"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907900"
 ---
 # <a name="where-is-power-pivot"></a>Var finns Power Pivot?
 
-Det finns tre anledningar till varför du kanske inte ser Power Pivot:
+Det finns tre anledningar till att du inte ser Power Pivot:
   
-**Den här versionen av Excel inkluderar inte den**
+**Din version Excel inte innehåller den**
   
-Inte alla versioner av Excel inkluderar Power Pivot. Du måste uppgradera till en version av Office som innehåller Power Pivot. [Kontrol lera listan med versioner som stöds.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+Power Pivot ingår inte Excel alla versioner av Excel pivotdiagram. Du måste uppgradera till en version av Office som innehåller Power Pivot. [Kontrollera listan över versioner som stöds.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
-**Du har inte aktiverat Power Pivot**
+**Du inte har aktiverat Power Pivot**
   
-Om du arbetar i en version av Excel med stöd för Power Pivot kontrollerar du att tillägget är aktiverat:
+Om du arbetar i en version av Excel som stöder Power Pivot kontrollerar du att tillägget är aktiverat:
   
-1. Välj tillägg för **fil** \> **Inställningar** \> **Add-Ins**.
+1. Välj  \>  \> **Filalternativ tillägg**.
 
-2. Välj **com-tillägg** i list rutan **Hantera** och klicka på **gå**.
+2. Välj  COM-tillägg i **listrutan Hantera och** klicka på **OK.**
 
-3. I dialog rutan **com-tillägg** markerar du rutan bredvid **Microsoft Power Pivot för Excel**och klickar sedan på **OK**.
+3. I **dialogrutan Com-tillägg** markerar du kryssrutan bredvid **Microsoft Power Pivot** för att Excel och klickar sedan på **OK.**
 
 **Du har flera prenumerationer eller konton**
   
-Du kanske har olika Microsoft 365-abonnemang kopplade till olika användar konton. Kontrol lera att du är inloggad på ett konto med en version av Excel som har stöd för Power Pivot. Kontrol lera listan med [versioner som stöds](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)och följ anvisningarna för att [Växla mellan olika Office-konton](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
+Du kanske har olika Microsoft 365 prenumerationer som tilldelats olika användarkonton. Kontrollera att du är inloggad på ett konto med en version av Excel som stöder Power Pivot. Kontrollera listan över versioner [som stöds](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)och följ instruktionerna för att växla mellan olika [Office konton.](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)

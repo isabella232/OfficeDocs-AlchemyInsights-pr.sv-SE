@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 0b29aa150d9eead7fa97768a1cd59c1601cfce77
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aff548db493087e16629e81f5da9990a00c53e510bc5f92743dee393956d9c1c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834137"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036582"
 ---
 # <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word-dokument öppnades i fel app eller öppnades inte
 
@@ -31,19 +31,19 @@ Prova något av följande förslag:
 
 1. Gå till **Kontrollpanelen för > program > program och funktioner**.
 
-2. Välj den Office-produkt du vill reparera och välj sedan **Ändra**.
+2. Välj den Office produkt du vill reparera och välj sedan **Ändra**.
 
 3. Välj alternativet **Snabbreparation** och välj sedan **Reparera**.
 
-**Avinstallera versioner av Office som du inte använder**
+**Avinstallera versioner Office du inte använder**
 
-1. Gå till **Kontrollpanelen > Avinstallera ett program** och välj sedan den version av Office som du vill ta bort.
+1. Gå till **Kontrollpanelen genom > avinstallera ett program** och välj sedan den version av Office du vill ta bort.
 
 2. Klicka **på Avinstallera.**
 
 3. Starta om datorn.
 
-**Kör den här felsökaren för att ange att Office-filnamnstilläggen ska öppnas i Office**
+**Kör den här felsökaren för Office ange att filnamnstilläggen ska öppnas Office**
 
 1. Kör den här felsökaren: https://aka.ms/diag_officefile .
 

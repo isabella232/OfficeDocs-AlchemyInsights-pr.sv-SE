@@ -1,5 +1,5 @@
 ---
-title: Konfigurera virtuellt skriv bord i Windows
+title: Konfigurera det Windows virtuella skrivbordet
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004219"
 - "7427"
-ms.openlocfilehash: 7b3c91745d8136d6f508c8dbd3a63a1b0a67def3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 4734c05d62ca5369dee0a41ea7e361d34538481ee89335c7b47dfe4e9d2966cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679633"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036654"
 ---
-# <a name="set-up-windows-virtual-desktop"></a>Konfigurera virtuellt skriv bord i Windows
+# <a name="set-up-windows-virtual-desktop"></a>Konfigurera det Windows virtuella skrivbordet
 
-Windows Virtual Desktop är en omfattande tjänst för dator-och program virtualisering som körs i molnet. Det är den enda virtuella Skriv bords infrastrukturen (VDI) som ger förenklad hantering, multi-session Windows 10, optimeringar för Microsoft 365-appar och stöd för fjärr skrivbords tjänster (RDS). Distribuera och skala dina Windows-datorer och appar till Azure i minuter och få inbyggda funktioner för säkerhet och efterlevnad.
+Windows Virtuellt skrivbord är en omfattande tjänst för skrivbords- och app virtualisering som körs i molnet. Det är den enda virtuella skrivbordsinfrastrukturen (VDI) som tillhandahåller förenklad hantering, Windows 10 för flera sessioner, optimeringar för Microsoft 365-applikationer och stöd för RDS-miljöer (Remote Desktop Services). Distribuera och skala Windows datorer och appar till Azure på några minuter och få inbyggda säkerhets- och efterlevnadsfunktioner.
 
-[Installations guiden för Windows Virtual Desktop](https://go.microsoft.com/fwlink/?linkid=2146236) innehåller administratörer med planerings resurser och förutsättningar för distribution, konfigurations vägledning och ytterligare resurser.
+I [Windows för virtuella skrivbord](https://go.microsoft.com/fwlink/?linkid=2146236) har administratörer tillgång till planeringsresurser och förutsättningar för distribution, konfigurationsvägledning och ytterligare resurser.

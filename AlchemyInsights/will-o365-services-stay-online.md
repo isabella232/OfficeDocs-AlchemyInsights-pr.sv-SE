@@ -1,5 +1,5 @@
 ---
-title: Kommer Office 365-tjänster att vara online?
+title: Kommer Office 365 att vara online?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003899"
 - "6953"
-ms.openlocfilehash: 172f8c9bdf54b608de8d5cac33a4cf7f4193dc61
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 3e511bf287d9dad3a00d45686308d036f81372e6f9bc700c6043ed76aa5b184e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680340"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036870"
 ---
-# <a name="will-office-365-services-stay-online"></a>Kommer Office 365-tjänster att vara online?
+# <a name="will-office-365-services-stay-online"></a>Kommer Office 365 att vara online?
 
-Ja. Vi har tagit fram de här tjänsterna med återhämtning i åtanke. Alla tjänster kör flera instanser samtidigt, så även om en instans har problem påverkas inte våra kunder. Varje tjänst ingår också, så om det uppstår ett problem med en tjänst sprids den inte till resten av dem. Dessutom har säkerhets kontroller byggts in i koden för varje tjänst för att förhindra att problem överförs via tjänsten.
+Ja. Vi har utvecklat de här tjänsterna med motståndskraft i åtanke. Varje tjänst kör flera instanser samtidigt, så även om en instans har problem påverkas inte våra kunder. Varje tjänst finns också, så om ett problem uppstår med en tjänst kommer den inte att spridas till resten av dem. Slutligen har säkerhetsåtgärder inbyggd i koden för varje tjänst för att förhindra problem från att överlappa genom tjänsten.
 
-Om du vill ha mer information om våra ansträngningar att hålla våra tjänster stabila kan du läsa mer i [företags kontinuitet för företag (EBCM) med moln tjänster](https://go.microsoft.com/fwlink/?linkid=2124377).
+Mer information om våra åtgärder för att upprätthålla våra tjänster finns i [EBCM (Enterprise Business Continuity Management) med molntjänster.](https://go.microsoft.com/fwlink/?linkid=2124377)
 
-Vi uppskattar din feedback, så välj **Ja** / **Nej** till frågan som visas och Bedöm sedan upplevelsen.
+Vi uppskattar din feedback, så välj **Ja** Nej på /  frågan som visas och betygsätta sedan din upplevelse.

@@ -1,5 +1,5 @@
 ---
-title: Abonnemangs hantering-frågor om säkerhet och efterlevnad-ackreditering för Azure-branschen
+title: Prenumerationshantering – begäran om säkerhet och efterlevnad – azure-efterlevnadsstandard
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,55 +13,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: b29991dccd0a97115fc1dbc3191dd2e52e6b5d23
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755601"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998961"
 ---
-# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Abonnemangs hantering-frågor om säkerhet och efterlevnad-ackreditering för Azure-branschen
+# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Prenumerationshantering – begäran om säkerhet och efterlevnad – azure-efterlevnadsstandard
 
-Vi har hittat en lösning på problemet. De flesta kunder kunde lösa sina problem efter att ha följt vår dokumentation.
+Baserat på din problembeskrivning har vi hittat en lösning åt dig. De flesta kunder kunde lösa problemet på egen hand efter att ha följt vår dokumentation.
 
-- **Policy**: för alla frågor om Microsoft Compliance-dokument, se [efterlevnad för Azure Trust Center](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
+- **Princip:** För frågor om Microsofts efterlevnadsdokument, se [Azure Säkerhetscenter efterlevnad](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
 
-- **HIPAA och HITECH Act**: se Windows Azure HIPAA-guiden om du är intresse rad av HIPAA och HITECH Act för att förstå relevanta funktioner i Windows Azure.
+- **HIPAA och HITECH Act:** Se Windows Azure HIPAA Guide om du är intresserad av HIPAA och HITECH Act för att förstå de relevanta funktionerna i Windows Azure.
 
-- **FedRamp-certifiering**: information om FedRamp-certifiering finns på FedRamp Marketplace.
+- **FedRamp-certifiering**: Information om FedRamp-certifiering finns på FedRamp Marketplace.
 
-- **Azure PCI DSS-efterlevnad**: de Azure-relaterade dokumenten för att nå kredit korts branschens efterlevnad är "attestering av efterlevnad" och "ansvars matris", vilka båda som är tillgängliga i Azure Trust Center. Kontrol lera om du har dessa dokument. Om du har de här dokumenten men behöver ytterligare bevis för kompatibilitet med Microsoft Azure PCI Data Security Standard, se [Microsoft och PCI DSS](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS).
+- **AzurePENDS-efterlevnad: De** Azure-relaterade dokument som krävs för att uppnå efterlevnadar inom betalningskortsbranschen är "Attestation of Compliance" och "Responsibility Matrix", som båda finns tillgängliga i Azure Säkerhetscenter. Kontrollera att du har dessa dokument. Om du har de här dokumenten men behöver ytterligare bevis för hur Microsoft Azure DATA SECURITY Standard standardefterlevnad kan du gå till [Microsoft och DATABLAD DSS.](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS)
 
-- **Azure-operationer/-efterlevnad**: om du har allmänna säkerhetsrelaterade frågor på Azure läser du vanliga svar på begäran om information Microsoft Azure-säkerhet, sekretess och efterlevnad om du har frågor rörande efterlevnaden, se: Microsoft STP-Compliance and Service Trust Portal.
+- **Azure-åtgärder/säkerhet/efterlevnad:** Om du har allmänna säkerhetsrelaterade frågor om Azure kan du gå till Standardsvar vid begäran om information Microsoft Azure säkerhet, sekretess och efterlevnad Om du har frågor om efterlevnad, se Vanliga frågor och svar om Microsoft STP - efterlevnads- och tjänstförtroendeportalen.
 
-Om du har frågor som rör efterlevnad kan du läsa vanliga frågor och svar om [STP – efterlevnad](https://www.microsoft.com/trust-center/compliance/compliance-overview) och support.
+Om du har frågor om efterlevnad kan du gå till Vanliga [frågor om Microsoft STP - Efterlevnad](https://www.microsoft.com/trust-center/compliance/compliance-overview) och Service Trust Portal.
 
-- **GDPR efterlevnad**: om du har frågor om data bearbetnings avtal kan du läsa "data skydds villkor" som startar på sidan 7 i "Online Services-villkoren". OST innehåller primära data bearbetnings villkor men ingår i det vanliga kommersiella kontraktet. Bland annat ingår ett avtals åtagande angående våra GDPR-skyldigheter. Se även de GDPR villkoren i slutet av kontraktet i "bilaga 4", från sidan 42. Dessa områden täcker Microsofts GDPR förpliktelser som en data processor och som en under processor till en annan data processor.
-
-> [!NOTE]
-> Du rekommenderas att använda Adobe Acrobat Reader för att öppna PDF-dokument, som problem med andra PDF-visningsprogram. Det rekommenderas också att hämta filen lokalt i stället för att öppna den i ett webbläsarfönster, som kan orsaka fel.
-
-- **HDS efterlevnad**: Azure är nu "Health data hosting", certifierad enligt franska bestämmelser. Mer information finns i "Microsoft Azure är nu certifierat för att hantera känslig information i Frankrike".
-
-- **Test av inträngda** test: processen med att skicka en begäran om att "pentest" är en självbetjänings process.
-
-Mer information om inträngda test finns i [testa inträngda tester](https://docs.microsoft.com/azure/security/fundamentals/pen-testing).
-
-- **Kund aviseringar för under processerna**: du kan välja att få aviseringar om ändringar i listan Microsoft personal data under processor.
+- **GDPR:s** efterlevnad: Om du har frågor om databearbetningsavtal, se "Dataskyddsvillkor" från och med sidan 7 i villkoren för onlinetjänster. OST innehåller de primära villkoren för databearbetning men införlivas i det kommersiella standardkontraktet. Avtalet innehåller bland annat ett avtalsenligt åtagande gällande våra GDPR-skyldigheter. Se även gdpr-specifika villkor i slutet av avtalet i "Bilaga 4", med början på sida 42. De här avsnitten omfattar Microsofts GDPR-skyldigheter som databehandlare och som underbehandlare för en annan databehandlare.
 
 > [!NOTE]
-> Kunddata för online tjänster och meddelanden om person uppgifter är helt automatiserade. Mer information finns i förhand givet Data Protection Resources.
+> Vi rekommenderar starkt att du använder Adobe Acrobat Reader för att öppna PDF-dokument, eftersom vi har nämnt problem med andra PDF-läsare. Du bör också ladda ned filen lokalt i stället för att öppna den i ett webbläsarfönster, eftersom det kan orsaka fel.
+
+- **HDS-efterlevnad:** Azure är nu "Health Data Hosting", certifierat enligt franska krav. Mer information finns i "Microsoft Azure har certifierats för att lagra känsliga hälsodata i Frankrike".
+
+- **Testtestning:** Hela processen som skickas in med Testtest är att serveringsprocessen är självbetjäningsprocess hos "pentest".
+
+Mer information om testning finns i [Testtestning.](https://docs.microsoft.com/azure/security/fundamentals/pen-testing)
+
+- **Kundmeddelanden om ändringar av underprocessor**: Du kan välja att få aviseringar om ändringar i underprocessorlistan för Microsofts personliga data.
+
+> [!NOTE]
+> Avisering om onlinetjänsters kunddata och personliga datalistor är helt automatiserade. Mer information finns i Microsofts Dataskyddsresurser.
 
 **Rekommenderade dokument**
 
-- [Exportera eller ta bort inställningar i Azure-portalen](https://docs.microsoft.com/azure/azure-portal/set-preferences)
-- [Hitta aktivitets rapporter i Azure-portalen](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)
-- [Azure Active Directory-risker](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Att användare riskerar](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Riskfyllda inloggnings program](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Vad är Azure Active Directory-rapporter?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
+- [Exportera eller ta bort inställningar i Azure Portal](https://docs.microsoft.com/azure/azure-portal/set-preferences)
+- [Hitta aktivitetsrapporter i Azure Portal](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)
+- [Azure Active Directory riskhändelser](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Användare i riskabelt-för-](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Riskfyllda inloggningar](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Vad är Azure Active Directory rapporter?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
 - [Microsoft och HIPAA och HITECH Act](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
-- [USA-avdelningen för försvar (DoD) preliminär dokumentation om godkännande på IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
+- [Dokumentation om det amerikanska försvar (DoD) Asauktorisering på IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
 
 
 

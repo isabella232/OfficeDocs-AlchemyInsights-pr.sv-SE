@@ -1,5 +1,5 @@
 ---
-title: Rekommendera lösningar för lagrings problem i Dynamics 365
+title: Rekommenderade lösningar för dynamics 365-Storage lösningsproblem
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "1429"
 - "6200006"
-ms.openlocfilehash: 6e4aedd13adcaaf80dd98a130fb43f85a0b581e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 81e39b5fb798ce83f02acece353883286e507812c8eac90fbfe4e03316fa635e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799186"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922969"
 ---
-# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Rekommendera lösningar för lagrings problem i Dynamics 365
+# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Rekommenderade lösningar för problem med Dynamics 365-lagring
 
-* Som global administratör kan du Visa lagrings uppdelning efter miljö, de 10 viktigaste tabellerna och mer
+* Som global administratör kan du visa lagringsfördelningen efter miljö, 10 högsta tabeller och mycket mer
 
-* [Frågor om lagrings fakturering och abonnemang](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
+* [Storage frågor om fakturering och prenumerationer](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
 
-* [Dynamics 365 pris-och licens guide](https://dynamics.microsoft.com/pricing/)
+* [Dynamics 365 – pris- och licensguide](https://dynamics.microsoft.com/pricing/)
 
-* [Köpa mer lagrings utrymme](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
+* [Köpa mer lagringsutrymme](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
 
-* [Så här frigör du lagring](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)
+* [Hur du frigör lagringsutrymme](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)

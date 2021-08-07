@@ -1,5 +1,5 @@
 ---
-title: Skicka supportbegäranden för PowerApps eller Microsoft Flow
+title: Skicka PowerApps Microsoft Flow supportbegäranden
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.custom:
 - "1494"
 - "1495"
 - "6200027"
-ms.openlocfilehash: 8e2b04a32af02679ce9a9ade92895011391b2ae7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4d271dfa95224ea5359b54816109459b23ed843e5693721eb264e416cbe29eb0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827990"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999576"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Skicka supportbegäranden för PowerApps eller Microsoft Flow
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Skicka PowerApps Microsoft Flow supportbegäranden
 
-Om du är **PowerApps- eller** **Microsoft Flow-kund** kan du skicka ditt ärende via det nya [administrationscentret för Power-plattformen.](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819) Den nya portalen ger en mer direkt väg till assisterad support som är optimerad för PowerApps och andra produkter på Power-plattformen.
+Om du är **PowerApps eller** **Microsoft Flow** ska du skicka ett ärende via det nya [administrationscentret för Power-plattformen.](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819) Den nya portalen ger en mer direkt väg till assisterad support som är optimerad för PowerApps och andra produkter på Power-plattformen.
 
-[Skicka supportbegäran för Microsoft Flow](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[Skicka Microsoft Flow supportbegäran](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)

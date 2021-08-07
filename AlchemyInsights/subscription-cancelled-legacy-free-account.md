@@ -1,5 +1,5 @@
 ---
-title: Abonnemang avbrutet – bakåtkompatibelt-kostnads fritt-konto
+title: Prenumerationen har avbrutits – äldre – kostnadsfritt konto
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6847"
-ms.openlocfilehash: 36755f68e45d3a0099c0e378e166bff82362e490
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: e2cedead6e93fa7303e5d54b8d79fda14ae2cb9987a17986c6327ac78189c4e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573885"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999222"
 ---
-# <a name="subscription-cancelled---legacy---free-account"></a>Abonnemang avbrutet – bakåtkompatibelt-kostnads fritt-konto
+# <a name="subscription-cancelled---legacy---free-account"></a>Prenumerationen har avbrutits – äldre – kostnadsfritt konto
 
-Ditt abonnemang är inaktiverat eftersom Azure-krediten har gått ut.
+Prenumerationen inaktiveras när Azure-krediten har gått ut.
 
-**Azure-krediten har upphört**
+**Azure-krediten har gått ut**
 
-När du registrerar dig för ett Azure-kostnads fritt-konto får du ett gratis prov abonnemang som ger dig $200 i Azure-kredit i 30 dagar och tolv månaders kostnads fria tjänster. I slutet av 30 dagar inaktiverar Azure din prenumeration. Ditt-abonnemang är inaktiverat för att skydda dig från att ringa avgifter för användning utöver kredit och gratis tjänster som ingår i ditt abonnemang. För att kunna fortsätta använda Azure-tjänsterna måste du [Uppgradera prenumerationen](https://docs.microsoft.com/azure/cost-management-billing/manage/upgrade-azure-subscription). När du har uppgraderat har ditt abonnemang fortfarande till gång till kostnads fria tjänster i 12 månader. Du debiteras bara för användning utöver de kostnads fria tjänsterna och kvantiteterna.
+När du registrerar dig för ett kostnadsfritt Azure-konto får du en kostnadsfri provprenumeration som ger dig 200 USD i Azure-krediter i 30 dagar och 12 månader med kostnadsfria tjänster. I slutet av 30 dagar inaktiverar Azure din prenumeration. Din prenumeration inaktiveras för att skydda dig från att av misstag ådra dig avgifter för användning utanför krediten och de kostnadsfria tjänsterna som ingår i prenumerationen. Om du vill fortsätta använda Azure-tjänster måste [du uppgradera din prenumeration.](https://docs.microsoft.com/azure/cost-management-billing/manage/upgrade-azure-subscription) Efter att du har uppgraderat har prenumerationen fortfarande tillgång till kostnadsfria tjänster i 12 månader. Du debiteras endast för användning utanför de kostnadsfria tjänsterna och kvantiteterna.
 
 Så här uppgraderar du din prenumeration:
 
 1. Logga in på [Azure-portalen](https://portal.azure.com/).
-2. Sök efter **prenumerationer**.
-3. Välj den prenumeration som skapades när du registrerade dig för ett Azure-kostnads fritt konto.
-4. I prenumerations översikten klickar du på knappen **uppgradera prenumeration** i kommando fältet. Om du inte ser knappen uppgradera prenumeration klickar du på uppgraderings banderollen högst upp på sidan.
-5. Om du inte har någon betalnings metod för ditt konto uppmanas du att lägga till en.
-6. Du kan behöva ange ett telefonnummer för att bekräfta din identitet.
-7. Skriv ett namn på prenumerationen.
-8. Klicka på  **Uppgradera**.
+2. Sök efter **Prenumerationer.**
+3. Välj prenumerationen som skapades när du registrerade dig för ett kostnadsfritt Azure-konto.
+4. I prenumerationsöversikten klickar du **på knappen** Uppgradera prenumeration i kommandofältet. Om du inte ser knappen för att uppgradera prenumeration klickar du på uppgraderingsbanderollen högst upp på sidan.
+5. Om du inte har någon betalningsmetod för ditt konto uppmanas du att lägga till en.
+6. Du kan behöva ange ett telefonnummer för att verifiera din identitet.
+7. Ange ett namn för prenumerationen.
+8. Klicka  **på Uppgradera**.
