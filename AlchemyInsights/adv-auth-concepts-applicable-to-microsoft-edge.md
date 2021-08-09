@@ -1,5 +1,5 @@
 ---
-title: Avancerade autentiseringsbegrepp som är tillämpliga i Microsoft Edge
+title: Avancerade autentiseringskoncept som tillämpas på Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -14,14 +14,14 @@ ms.custom:
 - "6986"
 - "8329"
 - "9004625"
-ms.openlocfilehash: d469973c4f8605b00d32f6f625eb5fdd17e8f390
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 8ddec37260ec4e3bcc390dcc8adb7397368de19555ee31be458be033d3886386
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398603"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934383"
 ---
-# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Avancerade autentiseringsbegrepp som är tillämpliga i Microsoft Edge
+# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Avancerade autentiseringskoncept som tillämpas på Microsoft Edge
 
 Här följer de avancerade autentiseringsbegreppen som gäller för Microsoft Edge:
 
@@ -29,11 +29,11 @@ Här följer de avancerade autentiseringsbegreppen som gäller för Microsoft Ed
 
 När du aktiverar [principen ProactiveAuthEnabled](https://go.microsoft.com/fwlink/?linkid=2134621) försöker Microsoft Edge proaktivt autentisera inloggade användare via Microsoft-tjänster. Med jämna mellanrum används en onlinetjänst för att söka efter ett uppdaterat manifest som innehåller konfiguration som reglerar proaktiv autentisering.
 
-Fördelar: Proaktiv autentisering möjliggör autentisering till nyckeltjänster, till exempel sidan Ny flik i Office. Om Bing används som sökmotor förbättrar proaktiv autentisering prestandan i adressfältet och hjälper till att generera sökresultat som är anpassade efter behoven i ditt företag.
+Fördelar: Proaktiv autentisering aktiverar autentisering till nyckeltjänster, till exempel sidan Office ny flik. Om du Bing sökmotor förbättrar proaktiv autentisering adressfältets prestanda och genererar sökresultat som är anpassade efter behoven i ditt företag.
 
 **Windows Hello CredUI för NTLM-autentisering**
 
-Om enkel inloggning (SSO) inte är tillgänglig när en webbplats försöker logga in på användaren via NTLM- eller förhandlasmekanismen gör den här funktionen att användaren kan dela operativsystemets autentiseringsuppgifter med webbplatsen och uppfylla autentiseringsutmaningen med hjälp av windows Hello-gränssnittet i Cred. Det här inloggningsflödet visas bara i Windows 10 och bara för användare som inte får SSO under en NTLM- eller en förhandlans utmaning.
+Om enkel inloggning (SSO) inte är tillgänglig när en webbplats försöker logga in på användaren via NTLM- eller förhandlasmekanismen gör den här funktionen att användaren kan dela os-autentiseringsuppgifterna med webbplatsen och uppfylla autentiseringsutmaningen med hjälp av Windows Hello Cred UI. Det här inloggningsflödet visas bara i Windows 10 och bara för användare som inte får SSO under en NTLM- eller en förhandlans utmaning.
 
 **Använd sparade lösenord för att logga in automatiskt**
 
