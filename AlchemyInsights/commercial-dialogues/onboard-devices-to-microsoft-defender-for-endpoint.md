@@ -1,5 +1,5 @@
 ---
-title: Onboard devices to Microsoft Defender for Endpoint
+title: Registrera enheter till Microsoft Defender för Endpoint
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38d650936d61b78d1f54cd3f6101283d57c6949f
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 39fd7a0e93fbf5d13c23f941c31293789c694929c529b70e9d2a9558dc3f2874
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748432"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967495"
 ---
-# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Onboard devices to Microsoft Defender for Endpoint
+# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Registrera enheter till Microsoft Defender för Endpoint
 
-Microsoft Defender för Endpoint tillhandahåller en centraliserad säkerhetsoperation för Windows- och icke-Windows-plattformarna. Det hjälper dig att skydda organisationens nätverk och att använda Microsoft Defender Säkerhetscenter för att granska aviseringar från olika operativsystem som stöds:
+Microsoft Defender för Endpoint tillhandahåller en centraliserad säkerhetsoperationer för Windows och icke-Windows plattformar. Det hjälper dig att skydda organisationens nätverk och använda Microsoft Defender Säkerhetscenter att granska aviseringar från olika operativsystem som stöds:
 
-- För **Windows 10-datorer**, se [Onboarding-verktyg och -metoder för Windows 10-enheter.](https://go.microsoft.com/fwlink/?linkid=2143460)
-- För **Windows-servrar**, [se Onboard servers till Microsoft Defender för Endpoint-tjänsten](https://go.microsoft.com/fwlink/?linkid=2143627).
-- För **slutpunkter som inte är Windows** kontrollerar du att ditt system uppfyller kraven för [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) [eller Linux](https://go.microsoft.com/fwlink/?linkid=2143462)och fortsätt sedan med [onboarding](https://go.microsoft.com/fwlink/?linkid=2143628).
+- Information **Windows 10 maskiner finns** i [Onboarding-verktyg och -metoder för Windows 10 enheter.](https://go.microsoft.com/fwlink/?linkid=2143460)
+- Mer **Windows finns** i [Onboard-servrar till Microsoft Defender för Endpoint-tjänsten](https://go.microsoft.com/fwlink/?linkid=2143627).
+- För **icke-Windows - slutpunkter**, kontrollera att ditt system uppfyller kraven för [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) eller [Linux](https://go.microsoft.com/fwlink/?linkid=2143462)och fortsätt sedan att [registrera .](https://go.microsoft.com/fwlink/?linkid=2143628)

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001691"
 - "3768"
-ms.openlocfilehash: 6dfae58a398db088ba00d9c2ea9788bab929ccc1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 526b92013f26675b5bf42077271ae7dc7003af31fa8f605d76aea92e0ccabfa1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828170"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909844"
 ---
 # <a name="startup-settings-in-windows-10"></a>Startinställningar i Windows 10
 
@@ -33,15 +33,15 @@ ms.locfileid: "51828170"
 
 2. Högerklicka på programmet, klicka på **Mer och** klicka sedan på **Öppna filplats**. Då öppnas den plats där genvägen till programmet sparas. Om det inte finns något alternativ för Öppna filplats betyder det att programmet inte kan köras vid start.
 
-3. Med filplatsen öppen trycker du på **Windows-tangenten + R,** skriver **shell:startup** och klickar sedan på **OK.** Då öppnas mappen Autostart.
+3. Med filplatsen öppen trycker du på **Windows+ R,** skriver **shell:startup** och klickar sedan på **OK.** Då öppnas mappen Autostart.
 
 4. Kopiera och klistra in genvägen till programmet från filens plats i startmappen.
 
-**Avancerade startalternativ (inklusive felsäkert läge, UEFI-inställningar och start från en annan enhet)**
+**Avancerade startalternativ (inklusive Valv läge, UEFI-inställningar och start från en annan enhet)**
 
 1. Spara ditt arbete och stäng alla öppna dokument eftersom de här stegen startar om datorn.
 
-2. Gå till [Inställningar > Uppdatering & Säkerhetsinställningar > Återställning](ms-settings:recovery?activationSource=GetHelp).
+2. Gå till [Inställningar > för & säkerhetsuppdatering > Recovery](ms-settings:recovery?activationSource=GetHelp).
 
 3. Klicka **på Starta om** nu under Avancerad **start.** 
 
@@ -49,6 +49,6 @@ ms.locfileid: "51828170"
 
     - Om du vill starta från en enhet som en USB-enhet klickar du **på Använd en enhet**.
 
-    - Om du vill ange UEFI-inställningarna (kallas ibland FÖR TIDSKONFIGURATION) klickar du **> Avancerade alternativ > inbyggd UEFI-inställning.** 
+    - Om du vill ange UEFI-inställningarna (kallas ibland FÖR TIDSKONFIGURATION) klickar du på > avancerade **> inbyggd** Inställningar . 
 
-    - Om du vill öppna felsäkert läge eller ändra avancerade startinställningar klickar du > På avancerade **> inställningar** och sedan på Starta **om**. Du kan bli ombedd att ange din [BitLocker-återställningsnyckel](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key). När datorn har startats om igen klickar du på den startinställning du vill använda.
+    - Om du vill Valv startläge eller ändra avancerade startinställningar klickar du på **> Avancerade alternativ > startinställningar Inställningar** klicka sedan på Starta **om.** Du kan bli ombedd att ange din [BitLocker-återställningsnyckel](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key). När datorn har startats om igen klickar du på den startinställning du vill använda.
