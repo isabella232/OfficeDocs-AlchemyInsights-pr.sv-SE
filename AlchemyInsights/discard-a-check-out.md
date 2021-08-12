@@ -9,21 +9,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: 51835611492b70627ef8f563f98b2922ee1454f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b2b3068d2874df7f1884968766e6c00776d2023e5c44ef697401485b57f9fadf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712346"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928531"
 ---
-# <a name="discard-a-check-out-from-a-document-library"></a>Ignorera en utcheckning från ett dokument bibliotek
+# <a name="discard-a-check-out-from-a-document-library"></a>Ignorera en utcheckning från ett dokumentbibliotek
 
-1. Högerklicka på filen som du vill ignorera utcheckningen.
+1. Högerklicka på filen som du vill ignorera utcheckningen på.
     
-2. Klicka på **mer**och sedan på **Ignorera utcheckning**. 
+2. Klicka **på** Mer och sedan på **Ignorera utcheckning.** 
     
-3. Klicka på **Ignorera** utcheckning i dialog rutan för att ta bort utcheckningen. 
+3. Klicka på Ignorera utcheckning i dialogrutan **för att** avmarkera utcheckningen. 
     
-Ytterligare frågor om att checka in och checka ut finns i [vanliga frågor om utcheckning, incheckning och versioner](https://go.microsoft.com/fwlink/?linkid=2018786).
+Fler frågor om hur du checkar in och checkar ut finns i [Vanliga frågor om utcheckning, incheckning och versioner.](https://go.microsoft.com/fwlink/?linkid=2018786)
   
 

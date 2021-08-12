@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "7613"
-ms.openlocfilehash: 28a04424cdace0083ac012b7301595a7b9ca2687
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: e797c8ea75aa9a11358cec6ccac0f51f203f93aa5e6e0a0811ec50178c914b20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706773"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928783"
 ---
 # <a name="disable-comments-on-lists"></a>Inaktivera kommentarer för listor
 
-Administratörer kan inaktivera funktionen på organisations nivå genom att ändra parametern **CommentsOnListItemsDisabled** i PowerShell-cmdleten **Set-SPOTenant** .
+Administratörer kan inaktivera funktionen på organisationsnivå genom att ändra parametern **CommentsOnListItemsDisabled** i **PowerShell-cmdleten Set-SPOTenant.**
 
-Det går för närvarande inte att inaktivera kommentarer på webbplats-eller listnivå. Vi hoppas att få de här kontrollerna i en senare uppdatering, troligt vis under det första kvartalet av 2021.
+Det går för närvarande inte att inaktivera kommentarer på webbplats- eller listnivå. Vi hoppas att de kontrollerna finns i en senare uppdatering, förmodligen under det första kvartalet 2021.

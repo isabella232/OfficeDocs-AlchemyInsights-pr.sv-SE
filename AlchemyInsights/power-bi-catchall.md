@@ -1,5 +1,5 @@
 ---
-title: 'Power BI: fånga alla'
+title: Power BI fånga alla
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2716"
 - "9000775"
-ms.openlocfilehash: 8ffa088c6e4c3a777b7eae35bbd17c25b70a865a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2401db85130a2a21703f9d60052db2199b033dfbed3edc6fd0f88ea9f6246573
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51800916"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911788"
 ---
-# <a name="power-bi-troubleshooting"></a>Felsökning i Power BI
+# <a name="power-bi-troubleshooting"></a>Power BI felsökning
 
-Information om felsökning av Power BI finns på https://powerbi.microsoft.com/support/ .
+Information Power BI felsökning finns på https://powerbi.microsoft.com/support/ .
