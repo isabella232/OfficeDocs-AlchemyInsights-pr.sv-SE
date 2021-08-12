@@ -1,5 +1,5 @@
 ---
-title: Det går inte att ta bort filer eller foton från filer i Outlook på webben
+title: Det går inte att ta bort filer eller foton från Filer i Outlook på webben
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000031"
-ms.openlocfilehash: 10864e19efeee0e65845de8fff4e021813cde3d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d73662feb79496e8a0901588d35359ef6d878067d93adf2172504e4d96af1cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796018"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961466"
 ---
 # <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a>Det går inte att ta bort filer eller foton från filer i Outlook på webben
 
-**Filer** visar filer och foton som bifogats till meddelanden i post lådan. Om du vill ta bort filer och foton från filer, måste du ta bort e-postmeddelandena som de är kopplade till. När du har tagit bort meddelandena måste du även ta bort dem från mappen Borttaget.
+**I** Filer visas de filer och foton som bifogats till meddelanden i postlådan. Om du vill ta bort filer och foton från Filer måste du ta bort de e-postmeddelanden som de är bifogade till. När du har tagit bort meddelandena måste du också ta bort dem från mappen Borttaget.

@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000010"
 - "1995"
-ms.openlocfilehash: 7ce9cda279435beb74d43eaa433cf3c4ce358ff4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b13d7dafeabb87d027cdd3ae7659ccde79be2abfc328682885bfb0f95c1b442
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799330"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961393"
 ---
 # <a name="change-your-email-address"></a>Ändra din e-postadress 
 
-Om du vill ändra din e-postadress behöver du administratörs behörighet.
+Om du vill ändra din e-postadress måste du ha administratörsbehörighet.
   
-Följ instruktionerna i [ändra ett användar namn och en e-postadress i Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
+Följ anvisningarna i [Ändra ett användarnamn och en e-postadress i Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
