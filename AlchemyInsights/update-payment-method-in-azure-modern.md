@@ -1,5 +1,5 @@
 ---
-title: Uppdatera betalnings information i Azure (modern)
+title: Uppdatera betalningsinformationen i Azure (modern)
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,30 +12,30 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9003546"
 - "6857"
-ms.openlocfilehash: bb032f772077318e54ac4fde42a72f432703d828
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 39f77710d25add89d1bb9610ae1875784b538ad68512a4db29c1388e53e0fd75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807879"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007340"
 ---
-# <a name="update-payment-details-in-azure"></a>Uppdatera betalnings information i Azure
+# <a name="update-payment-details-in-azure"></a>Uppdatera betalningsinformation i Azure
 
-Om kredit kortet förnyas och numret förblir detsamma kan du uppdatera de befintliga kredit korts uppgifterna som utgångs datum. Om ditt kreditkorts nummer ändras på grund av att kortet förloras, blir stulet eller upphör att gälla följer du anvisningarna i avsnittet [lägga till ett kredit kort som betalnings metod](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#addcard) . Du behöver inte uppdatera CVV.
+Om kreditkortet förnyas och numret förblir detsamma uppdaterar du den befintliga kreditkortsinformationen, som utgångsdatumet. Om kreditkortsnumret ändras på grund av att kortet försvinner, blir stulen eller har upphört att gälla följer du stegen i avsnittet Lägga till ett [kreditkort som betalningsmetod.](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#addcard) Du behöver inte uppdatera CVV.om du vill.
 
-Betalnings metoderna är kopplade till [fakturerings profiler](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile). Endast den användare som har registrerat sig för Azure och skapat fakturerings kontot kan uppdatera betalnings metoden. Följ de här stegen för att uppdatera betalnings metoden.
+Dina betalningsmetoder är kopplade till [faktureringsprofiler](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile). Endast den användare som registrerade sig för Azure och skapade faktureringskontot kan uppdatera betalningsmetoden. Följ de här anvisningarna för att uppdatera betalningsmetoden.
 
 1. Logga in på [Azure-portalen](https://portal.azure.com/).
 
-2. Sök på **kostnads hantering + fakturering** .
+2. Sök på **Kostnadshantering + fakturering**.
 
-3. I menyn till vänster väljer du **fakturerings profiler** .
+3. Välj Faktureringsprofiler i menyn **till vänster.**
 
-4. Välj en fakturerings profil.
+4. Välj en faktureringsprofil.
 
-5. Välj **betalnings sätt** i menyn till vänster.
+5. I menyn till vänster väljer du **Betalningsmetoder.**
 
-6. Leta upp det kredit kort som du vill redigera i avsnittet **ditt kredit kort** .
+6. Leta **rätt på det** kreditkort du vill redigera i avsnittet Dina kreditkort.
 7. Markera ellipsen **(...)** i slutet av raden.
 
-8. Om du vill redigera dina kreditkorts uppgifter väljer du  **Redigera**  på snabb menyn.
+8. Om du vill redigera kreditkortsuppgifterna väljer  **du**  Redigera på snabbmenyn.
