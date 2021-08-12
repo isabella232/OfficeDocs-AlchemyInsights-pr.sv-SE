@@ -1,5 +1,5 @@
 ---
-title: Förstå faktureringsbelopp
+title: Förstå faktureringsbeloppet
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827882"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919687"
 ---
-# <a name="understand-billing-amount"></a>Förstå faktureringsbelopp
+# <a name="understand-billing-amount"></a>Förstå faktureringsbeloppet
 
 **Kundledd (WD):**
 
 - Mer information om hur du granskar och förstår din faktura finns i: [Självstudiekurs: Granska din enskilda Azure Bill](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Förstå villkoren på fakturan: Så [här fungerar villkoren för Azure-fakturor](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Förstå villkor för Azure-användningsavgifter: [Användningsvillkor förklaras](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- För att få en PDF av fakturan och en kopia av din detaljerade dagliga användningsfil (. CSV): [Hämta faktura- och användningsdata](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Hämta en PDF-fil med din faktura och en kopia av din detaljerade fil för daglig användning (.CSV): [Hämta faktura- och användningsdata](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Obs!** Om du avbryter prenumerationen/resursen mitt i faktureringsperioden kanske du fortfarande ser en debitering, vilket skulle vara för all användning den föregående månaden. Om faktureringscykeln till exempel var från den 26:e i varje månad till den 25:e i nästa månad & inaktiverade du prenumerationen den 23: e, som är 28 dagar in i faktureringscykeln för juni, kan du se en avgift för de 28 dagarnas användning. Om du inte ser någon avgift för att avbryta en prenumeration bör du kontrollera att du inte har några andra supportabonnemang som orsakar avgiften. Om du vill kan du avbryta abonnemanget.
 
@@ -44,10 +44,10 @@ ms.locfileid: "51827882"
 - Mer information om hur du granskar och förstår din faktura finns i: [Självstudiekurs: Granska din microsoft partneravtalsfaktura](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Förstå villkoren på fakturan: Förklaring [av villkor i microsoft partneravtalsfaktura](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Företagsavtal (EA)**
+**företagsavtal (EA)**
 
-- Mer information om hur du granskar och förstår din faktura finns på Förstå [din Azure Enterprise-avtalsfaktura](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Om du är Azure-kund med ett Enterprise Agreement (EA-kund) kan du inte ladda ned organisationens fakturor. Fakturor skickas till dem som har angetts för att ta emot fakturor för registreringen. Du kan ladda ned användningen i [Azure Portal.](https://portal.azure.com/)
+- Mer information om hur du granskar och förstår din faktura finns på: [Förstå din Azure företagsavtal faktura](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Om du är Azure-kund med en företagsavtal (EA-kund) kan du inte ladda ned organisationens fakturor. Fakturor skickas till dem som har angetts för att ta emot fakturor för registreringen. Du kan ladda ned användningen i [Azure Portal.](https://portal.azure.com/)
 
 Granska serviceöverfaktura:
 
@@ -69,9 +69,9 @@ Jämför summan för Azure Marketplace i Rapporter > användningsöversikten i F
 - Summan **i Azure Marketplace** ska matcha **totalförsäljningen** på din marketplace-faktura
 - Gå till **Ladda ned användning** för att få mer information om dina användningsbaserade debiteringar. Under **Marketplace-avgifter** väljer **du Ladda** **ned** anteckning: Den här rapporten inkluderar inte skatter eller visar
 
-**Leverantör av molnlösningar (CSP)**
+**Molnlösningsleverantör (CSP)**
 
-- Läs mer om hur fakturering fungerar i Azure Molnlösningsleverantörsprogram (Azure CSP): [Azure CSP-fakturering](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Läs mer om hur fakturering fungerar i Azure Molnlösningsleverantör-program (Azure CSP): [Azure CSP-fakturering](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Läs om att läsa och förstå din leverantörsfaktura för Moln moln: [Azure CSP-faktura](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Rekommenderade dokument**
@@ -81,4 +81,4 @@ Jämför summan för Azure Marketplace i Rapporter > användningsöversikten i F
 - [Förstå Gräns för Azure-utgifter](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Förstå din Azure-fakturering för externa serviceavgifter: [Hur externa tjänster faktureras](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Vanliga frågor och svar om Kostnadsfritt Azure-konto](https://azure.microsoft.com/free/free-account-faq/)
-- [Förstå administrativa roller i Azure Enterprise Agreement i Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Förstå Azure företagsavtal administrativa roller i Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)

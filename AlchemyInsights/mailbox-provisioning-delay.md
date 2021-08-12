@@ -1,5 +1,5 @@
 ---
-title: Fördröjning för etablering av post låda
+title: Fördröjning av postlådeetablering
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -10,17 +10,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
-ms.openlocfilehash: 36fd55ece2d3edd605fecfd11ed5dfdb1f194633
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 047c7d854b1afeecaf47cfd7358dd219913f5354ad7ad329a33a795c75da5d7f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794424"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912472"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Användarens post låda skapas
+# <a name="your-users-mailbox-is-being-created"></a>Användarens postlåda skapas
 
-Det kan ta upp till en timme innan en ny post låda är klar att användas.
+Det kan ta upp till en timme innan en ny postlåda är klar att använda.
   
-Om en användares post låda har blivit "förbereder" för mer än en timme kan du försöka ta bort och sedan återskapa användaren eller använda alternativet "Låt oss ringa dig" för att prata med en support tekniker.
+Om "förberedelsen" av en användares postlåda varat i mer än en timme kan du prova att ta bort och sedan återskapa användaren, eller använd alternativet att meddela oss så att en supporttekniker kan ringa upp dig.
   
 

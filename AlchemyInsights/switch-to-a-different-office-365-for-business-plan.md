@@ -1,5 +1,5 @@
 ---
-title: Byta till ett annat Microsoft 365 för företag-abonnemang
+title: Byta till ett Microsoft 365 för företag-abonnemang
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,12 +13,12 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 81cbfc71f5cdbf616f998212ee4eb2734b09728c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6882f76deeaac4b2f7a67b955ce1fea977cd41697cb5fdacbc2d866b3933ef8a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824921"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909664"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Byta till en annan Microsoft 365 för företag-prenumeration
 

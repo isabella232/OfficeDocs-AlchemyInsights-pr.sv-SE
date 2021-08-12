@@ -1,5 +1,5 @@
 ---
-title: Regel för inaktive ring av abonnemang/konto
+title: Regel för prenumeration/konto inaktiverad
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,57 +12,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6676"
-ms.openlocfilehash: 6a350c6bca18306e64f647cfa3a7f14fa204109b
-ms.sourcegitcommit: 9626d39e5891f83774ba31574a00b0bae92ad442
+ms.openlocfilehash: 8918b0da0172e0421ade6f0cca936e14d1d609896bc4c75c5a8491c0dbe75aff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "48758605"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938461"
 ---
-# <a name="azure-subscription-disabled"></a>Azure-prenumeration inaktive rad
+# <a name="azure-subscription-disabled"></a>Azure-prenumeration inaktiverad
 
-Ditt Azure-abonnemang kan inaktive ras på grund av att din kredit har upphört att gälla, du har nått din utgifts gräns, har en förfallen faktura, nått kredit korts gränsen eller på grund av att prenumerationen annullerades av konto administratören. Se nedan om hur du kan återaktivera prenumerationen. Läs mer: [återaktivera Azure-abonnemang](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
+Din Azure-prenumeration kan inaktiveras eftersom din kredit har upphört att gälla, du har nått din utgiftsgräns, har en förfallen faktura, nått din kreditkortsgräns eller eftersom prenumerationen avbröts av kontoadministratören. Se nedan hur du kan återaktivera din prenumeration. Läs mer: [Återaktivera Azure-prenumeration](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Återaktivera **ditt Azure-abonnemang (abonnemanget har annullerats av misstag)** [Konto administratören](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) kan återaktivera ett annullerat betala allt eftersom-abonnemang i konto Center:
+**Återaktivera din Azure-prenumeration (prenumerationen avbröts av misstag)** [Kontoadministratören](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) kan återaktivera en avbruten prenumeration med betalning enligt abonnemang i kontocentret:
 
-1. Logga in på [konto Center](https://account.windowsazure.com/Subscriptions).
-2. Välj den annullerade prenumerationen. Klicka på **återaktivera** .
+1. Logga in på [kontocentret](https://account.windowsazure.com/Subscriptions).
+2. Välj den inställda prenumerationen. Klicka **på Återaktivera**.
 
-För andra abonnemangs typer [kontaktar du support](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) för att få ditt abonnemang aktiverat.
+För andra prenumerationstyper kontaktar [du supporten](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) för att få prenumerationen återaktiverad.
 
-**Förfallet kredit kort**
+**Utgånget kreditkort**
 
-När du registrerar dig för ett **Azure-kostnads fritt-konto** får du ett gratis prov abonnemang som ger dig $200 i Azure-kredit i 30 dagar och tolv månaders kostnads fria tjänster. I slutet av 30 dagar inaktiverar Azure din prenumeration. Ditt-abonnemang är inaktiverat för att skydda dig från att ringa avgifter för användning utöver kredit och gratis tjänster som ingår i ditt abonnemang. För att kunna fortsätta använda Azure-tjänsterna måste du [Uppgradera prenumerationen](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support). När du har uppgraderat har ditt abonnemang fortfarande till gång till kostnads fria tjänster i 12 månader. Du debiteras bara för användning utöver de kostnads fria tjänsterna och kvantiteterna.  
-Läs mer: [kredit kort har gått ut](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support#your-credit-is-expired)
+När du registrerar dig för ett kostnadsfritt **Azure-konto** får du en kostnadsfri provprenumeration som ger dig 200 USD i Azure-krediter i 30 dagar och 12 månader med kostnadsfria tjänster. I slutet av 30 dagar inaktiverar Azure din prenumeration. Din prenumeration inaktiveras för att skydda dig från att av misstag ådra dig avgifter för användning utanför krediten och de kostnadsfria tjänsterna som ingår i prenumerationen. Om du vill fortsätta använda Azure-tjänster måste [du uppgradera din prenumeration.](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support) Efter att du har uppgraderat har prenumerationen fortfarande tillgång till kostnadsfria tjänster i 12 månader. Du debiteras endast för användning utanför de kostnadsfria tjänsterna och kvantiteterna.  
+Läs mer: [Utgånget kreditkort](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support#your-credit-is-expired)
 
-**Utgifts gräns uppnådd**
+**Utgiftsgräns uppnådd**
 
-När din användning når utgifts gränsen, inaktiverar Azure ditt abonnemang för resten av fakturerings perioden. Ditt-abonnemang är inaktiverat för att skydda dig från att oavsiktligt debiteras krediten på din prenumeration. Om du vill ta bort din utgifts gräns läser du i [gräns för Azure-utgifter](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support).  
-Läs mer: [din utgifts gräns har uppnåtts](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled?WT.mc_id=Portal-Microsoft_Azure_Support#you-reached-your-spending-limit)
+När din användning når utgiftsgränsen inaktiverar Azure din prenumeration för resten av faktureringsperioden. Din prenumeration inaktiveras för att skydda dig från att av misstag ådra dig avgifter för användning utöver krediten som ingår i din prenumeration. Information om hur du tar bort din utgiftsgräns finns [i Azure-utgiftsgränsen.](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)  
+Läs mer: [Nått din utgiftsgräns](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled?WT.mc_id=Portal-Microsoft_Azure_Support#you-reached-your-spending-limit)
 
-**Förfallet till betalning**
+**Förfallen faktura**
 
-Information om hur du kan lösa förfallna saldon finns i [lösa förfallet saldo för ditt Azure-abonnemang efter att ha fått ett e-postmeddelande](https://docs.microsoft.com/azure/billing/billing-azure-subscription-past-due-balance?WT.mc_id=Portal-Microsoft_Azure_Support)
+Information om hur du löser problemet med förfallen betalning finns i Lösa förfallodatum [för din Azure-prenumeration efter att du fått ett e-postmeddelande från Azure.](https://docs.microsoft.com/azure/billing/billing-azure-subscription-past-due-balance?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Beloppet överskrider din kredit korts gräns**
+**Fakturan överskrider din kreditkortsgräns**
 
-Lös problemet genom [att byta till ett annat kredit kort](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support). Om du representerar ett företag kan du [byta till betala via faktura](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice?WT.mc_id=Portal-Microsoft_Azure_Support).
+Lös problemet genom att [byta till ett annat kreditkort](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support). Om du representerar ett företag kan du byta [till att betala med faktura.](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Obs!** en ny prenumerations dag (sa) tilldelas abonnemang som har återaktiverats. Antalet dagar (Interval) som abonnemanget har upphävts i kommer att läggas till det ursprungliga SA-datumet. Varje Årsdags dag med 29, 30 eller 31 kommer att leda till att SA-datumet ställs in på den första av följande månad.  
+**Obs!** Ett nytt SA-datum (Subscription Anniversary) tilldelas prenumerationer som har aktiverats på nytt. Det antal dagar (intervall) då prenumerationen inaktiverades, läggs till på det ursprungliga SA-datumet. Varje Anniversary-datum som inträffar den 29, 30 eller 31:e resulterar i att SA-datumet ställs in på den 1:a i följande månad.  
 Exempel:
 
-- Den första prenumerationen är den 25: e;
-- Abonnemanget har upphört på 10/3 och återaktiverats 10/9;
-- Abonnemanget har inaktiverats i 6 dagar (intervallet 6);
-- Intervallet läggs då till i det ursprungliga SA och summan blir det nya SA-datumet (25 + 6 = 31). 
+- Din ursprungliga prenumerations anniversary är den 25:e;
+- Prenumerationen avbröts 3/10 och återaktiverades 2019-10.
+- Prenumerationen inaktiverades i 6 dagar (intervall på 6);
+- Intervallet läggs sedan till i det ursprungliga SA:et och summan blir det nya SA-datumet (25+6=31). 
 
-**Obs!** i det här exemplet, eftersom sa-datumet är större än 28, blir det nya sa-datumet den första av följande månad.
+**Obs!** I det här exemplet kommer det nya SA-datumet att vara den 1:a i följande månad eftersom SA-datumet nu är större än 28.
 
 **Rekommenderade dokument**
 
-- [Byta abonnemang](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)  
+- [Byta prenumeration](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)  
 - [Avbryt prenumeration](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)  
 - [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/?source=datamarket)
-- Leta reda på [konto administratören](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
-- [Vad gör jag om min Azure-prenumeration blir inaktive rad?](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Antal Azure-utgifter](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Hitta [kontoadministratören](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
+- [Vad gör jag om min Azure-prenumeration inaktiveras?](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Gräns för Azure-utgifter](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)

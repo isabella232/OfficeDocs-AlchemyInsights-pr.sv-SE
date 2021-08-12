@@ -12,32 +12,32 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: bd3a6c0d7206801ff76be121c4878b8343cc9886
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53f6fd009d3dab3cd66d33d9cd248201219caa1605c7a4e7758a5a8d720f68c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691593"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910384"
 ---
-# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Åtgärda problem med att dela SharePoint-innehåll med externa användare
+# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Åtgärda problem med att SharePoint innehåll med externa användare
 
-Kontrol lera att extern delning är aktiverat för organisationen:
+Kontrollera att extern delning är aktiverat för din organisation:
   
-1. Gå till [sidan tjänster &amp; -tillägg i administrations centret för Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)och klicka på **webbplatser**.
+1. Gå till [sidan &amp; Tjänster-tillägg i Administrationscenter för Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)och klicka på **Webbplatser.**
     
-2. Kontrol lera att inställningen är på. Om "endast befintliga externa användare" är markerat kontrollerar du att den externa användaren finns med i Microsoft 365 Admin Center.
+2. Kontrollera att inställningen är "På". Om "Endast befintliga externa användare" är markerat kontrollerar du att den externa användaren står med i listan Administrationscenter för Microsoft 365.
     
-Kontrol lera att extern delning är aktiverat för webbplatsen. För en klassisk webbplats samling:
+Kontrollera att extern delning är aktiverat för webbplatsen. För en klassisk webbplatssamling:
   
-1. Klicka på **webbplatser**i det nya administrations centret för SharePoint.
+1. Klicka på SharePoint i den vänstra rutan i det nya **administrationscentret.**
     
-2. Välj webbplatsen eller platserna och klicka på **delning**i menyfliksområdet.
+2. Markera webbplatsen eller webbplatserna och klicka på Delning i **menyfliksområdet.**
     
-För en grupp webbplats som tillhör en Microsoft 365-grupp eller en kommunikations webbplats:
+För en gruppwebbplats som tillhör en Microsoft 365 grupp eller en kommunikationswebbplats:
   
-- Dessa nya webbplats typer har samma delnings inställningar som inställning för hela organisationen, såvida inte inställningen för hela organisationen tillåter att filer delas med länkar som inte kräver inloggning. I det här fallet kan webbplatserna dela med nya och befintliga externa användare som loggar in. Om du vill ändra inställningen för vissa webbplatser kan du använda det nya administrations centret för SharePoint eller PowerShell. [Mer information](https://go.microsoft.com/fwlink/?linkid=871863).
+- De här nya webbplatstyperna har samma delningsinställning som inställningen för hela organisationen, om inte inställningen för hela organisationen tillåter delning av filer med länkar som inte kräver inloggning. I det här fallet tillåter webbplatserna delning med nya och befintliga externa användare som loggar in. Om du vill ändra inställningen för specifika webbplatser använder du det SharePoint administrationscentret eller PowerShell. [Mer information](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
-> Inställningen för extern delning för en webbplats kan vara mer restriktiv än inställningen för hela organisationen, men inte fler tillåtna än inställningen för hela organisationen. 
+> Inställningen för extern delning för alla webbplatser kan vara mer restriktiv än den organisationsomfattande inställningen, men inte mer tillåtande än inställningen för hela organisationen. 
   
 
