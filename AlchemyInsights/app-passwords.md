@@ -1,5 +1,5 @@
 ---
-title: 500-applösenord
+title: 500 applösenord
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -15,25 +15,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 13d83b4d97a2bab2251acb8eaf08cf80a769b639
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a384ea0de9b4f6ed58215fd988f9520ba0031af041eb326fda467b80d28406ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717055"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931971"
 ---
 # <a name="app-passwords"></a>Applösenord
 
-Ett applösenord är en kod som ger en app eller en enhet tillstånd att komma åt ditt Microsoft-konto för arbete eller skola. Om ditt konto kräver multifaktorautentisering (MFA) och appen ansluter till ditt konto måste du skapa ett applösenord så att appen kan ansluta till Microsoft. I Outlook 2016 och tidigare versioner av krävs ett applösenord.
+Ett applösenord är en kod som ger en app eller enhet behörighet att komma åt ditt arbets- eller skolkonto hos Microsoft. Om ditt konto kräver multifaktorautentisering (MFA) och programmet ansluter till ditt konto måste du skapa ett applösenord så att programmet kan ansluta till Microsoft. Exempel: Outlook 2016 tidigare versioner eller Outlook kräver ett applösenord.
 
- **Obs!** innan du provar följande anvisningar bör du kontrol lera med din Microsoft 365-administratör att MFA krävs för ditt konto. Om det inte gör det är de alternativ som beskrivs i stegen inte tillgängliga för dig.
+ **Obs!** Innan du provar följande steg bör du kontrollera med Microsoft 365 administratör att MFA krävs för ditt konto. Om det inte är det är alternativen som beskrivs i stegen inte tillgängliga för dig.
 
-1. Logga in med ditt arbets-eller skol konto och ditt lösen ord.
+1. Logga in med ditt arbets- eller skolkonto och ditt lösenord.
 
-2. Välj **Ställ in det nu**.
+2. Välj **Set it up now (konfigurera det nu).**
 
 3. Välj autentiseringsmetod och följ anvisningarna.
 
-4. När du har verifierat din alternativa kontakt metod väljer du **Nästa**.
+4. När du har verifierat den alternativa kontaktmetoden väljer du **Nästa.**
 
-5. Du får ett applösenord som du kan använda med Outlook, Apple Mail och andra appar som kräver det. Välj **Kopiera** för att kopiera lösen ordet så att du kan klistra in det någon annan stans (du behöver inte komma ihåg det).
+5. Du får ett applösenord som du kan använda med Outlook, Apple Mail och andra appar som kräver det. Välj **Kopiera** för att kopiera lösenordet så att du kan klistra in det någon annanstans (du behöver inte komma ihåg det).

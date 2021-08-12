@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 408
 ms.assetid: 99553a9f-3713-4d57-a243-add33813f360
-ms.openlocfilehash: ab0cc63ef12c675eeda8676fe129636ddb085c3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c185a606460b7b204d2f0ff11f6f77cb147c681feb6aa51401e1515ca8017a68
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797962"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911140"
 ---
-# <a name="about-room-mailboxes"></a>Om rums post lådor
+# <a name="about-room-mailboxes"></a>Om rumspostlådor
 
-En rums post låda är en resurs post låda som är tilldelad en fysisk plats, till exempel ett konferens rum, en Auditorium eller ett utbildningsrum. Mer information om rums post lådor finns i [skapa och hantera Room-postlådor](https://go.microsoft.com/fwlink/p/?linkid=717533).
+En rumspostlåda är en resurspostlåda som har tilldelats en fysisk plats, till exempel ett konferensrum, ett auditorium eller ett utbildningsrum. Mer information om rumspostlådor finns i Skapa [och hantera rumspostlådor.](https://go.microsoft.com/fwlink/p/?linkid=717533)

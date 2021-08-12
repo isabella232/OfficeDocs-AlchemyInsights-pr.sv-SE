@@ -1,5 +1,5 @@
 ---
-title: Åtkomst från mobila enheter till gemensam mapp
+title: Åtkomst till gemensamma mappar från mobila enheter
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -13,16 +13,16 @@ ms.custom:
 - "634"
 - "3500007"
 ms.assetid: 3a0915f6-9f4e-4049-82e2-804a498e70ee
-ms.openlocfilehash: 8be6ae5faec7bf2703dcd4582c60e5d98d7f87af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 31a18174c92716b1e94396fea9a772fc8f2d3e655142029247e6e99dae18b03a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768481"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911284"
 ---
-# <a name="public-folder-access-from-mobile-devices"></a>Åtkomst från mobila enheter till gemensam mapp
+# <a name="public-folder-access-from-mobile-devices"></a>Åtkomst till gemensamma mappar från mobila enheter
 
-Åtkomst till gemensamma mappar fungerar inte med mobila enheter, Använd OWA (Outlook på webben) eller Outlook för Windows skriv bord eller Outlook för Mac-klienter för att få åtkomst till gemensamma mappar.
+Åtkomst till gemensamma mappar fungerar inte med mobila enheter. Använd OWA (Outlook på webben) eller Outlook för Windows- eller Outlook för Mac-klienter för åtkomst till gemensamma mappar.
 
-Om du vill ha funktionalitet som liknar gemensamma mappar och har innehåll som är tillgängligt på mobila enheter kan du läsa [mer i Microsoft 365-grupper](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) för bättre alternativ.
+Om du vill ha funktioner som liknar gemensamma mappar och har innehåll tillgängligt på mobila enheter kan du läsa Läs om [Microsoft 365 grupper](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) för ett bättre alternativ.
   

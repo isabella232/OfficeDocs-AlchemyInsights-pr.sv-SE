@@ -12,26 +12,26 @@ ms.custom:
 - "1251"
 - "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: 9e14a18174d7bd5be5b64ecf1ee71befc3b96201
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 60136dd385320760595bd061b226f5649b2c6ca9953ea87aa743dcf4156759a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774765"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911104"
 ---
 # <a name="about-office-2019"></a>Om Office 2019
 
-Office 2019 är för kunder som inte är redo för molnet än eller som har ett specifikt behov för lokal-eller hybrid distribution av Office. Den innehåller en betydelsefull mängd funktioner som redan har lagts till i Microsoft 365 under de senaste tre åren, men den är inte en del av Microsoft 365.
+Office 2019 är för kunder som ännu inte är redo för molnet eller som har ett specifikt behov av lokal distribution eller Office hybriddistribution. Den innehåller en meningsfull del av funktioner som redan har lagts till i Microsoft 365 de senaste tre åren, men den ingår inte i några Microsoft 365.
   
-Microsoft 365-appar för företag, den molnbaserade versionen av Office, levererar den mest effektiva och mest säkra Office-upplevelsen. Den ger till gång till en rad tjänster utöver vad de lokala versionerna har och tar emot nya funktions uppdateringar kontinuerligt.
+Microsoft 365-appar för företag, den molnbaserade versionen av Office, ger den mest produktiva och säkraste Office upplevelsen. Det ger tillgång till en uppsättning tjänster utöver vad de lokala versionerna har och kontinuerligt får nya funktionsuppdateringar.
   
-Om du har Office-programmen som en del av ditt Microsoft 365-abonnemang har du redan den senaste versionen av Office.
+Om du har skrivbordsapparna Office som en del av din Microsoft 365-prenumeration har du redan den senaste versionen av Office.
   
 Mer information finns i:
   
-[Vanliga frågor och svar om Office 2019 för Windows och Mac](https://support.microsoft.com/help/4133312)
+[Office 2019 Commercial för Windows och Mac](https://support.microsoft.com/help/4133312)
   
-[Huvud versions numret för Office 2019 är 16,0](https://docs.microsoft.com/deployoffice/office2019/overview)
+[Huvudversionsnumret för Office 2019 stannar kvar på 16,0](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[Års beteckning i Office 2016-och Microsoft 365-klientprogram tas bort från Start-menyns poster](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
+[Årsbeteckning i Office 2016 och Microsoft 365-klientappar tas bort från Start-menyn poster](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   
