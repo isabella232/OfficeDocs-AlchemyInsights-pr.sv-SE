@@ -1,5 +1,5 @@
 ---
-title: Gransknings resultat är tomma
+title: Granskningsresultatet är tomt
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: c72d3623dc2deaf28892513e268db4e1a8d8f228
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 30395b291818c8f193fc2147e5302e04efe9929dad8df96586be1c3e75bd35aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715255"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917729"
 ---
-# <a name="auditing-results-are-blank"></a>Gransknings resultat är tomma
+# <a name="auditing-results-are-blank"></a>Granskningsresultatet är tomt
 
- **Gransknings rapporter för klassiska webbplatser**
+ **Granska rapporter för klassiska webbplatser**
   
-Om du vill visa en gransknings rapport för en SharePoint-webbplatssamling måste du vara administratör för webbplats samlingen. Information om hur du lägger till dig själv som administratör finns i [lägga till administratörer för webbplats samlingar som en global administratör eller SharePoint-admin](https://go.microsoft.com/fwlink/?linkid=869390). Information om hur du arbetar med gransknings loggen finns i [Visa Gransknings logg rapporter](https://go.microsoft.com/fwlink/?linkid=395237). 
+Om du vill visa en granskningsrapport för SharePoint en webbplatssamling måste du vara administratör för webbplatssamlingen. Om du vill lägga till dig själv som [administratör kan du gå till Lägga till webbplatssamlingsadministratörer som globala administratörer SharePoint administratör.](https://go.microsoft.com/fwlink/?linkid=869390) Mer information om hur du arbetar med granskningsloggen finns i [Visa granskningsloggrapporter.](https://go.microsoft.com/fwlink/?linkid=395237) 
   
  **Söka i granskningsloggen**
   
-Du måste vara global administratör för att kunna arbeta med gransknings loggen i [säkerhetsövervakning &amp; ](https://protection.office.com). Innan du börjar aktiverar du gransknings loggning. Sedan kan du köra en gransknings loggs ökning. 
+Du måste vara global administratör för att kunna arbeta med granskningsloggen i [ &amp; Säkerhetsefterlevnadscenter.](https://protection.office.com) Innan du börjar aktiverar du granskningsloggning. Sedan kan du köra en granskningsloggsökning. 
   
-[Lär dig att söka i gransknings loggen](https://go.microsoft.com/fwlink/?linkid=708432).
+[Lär dig hur du söker i granskningsloggen](https://go.microsoft.com/fwlink/?linkid=708432).
   
 
