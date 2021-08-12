@@ -1,5 +1,5 @@
 ---
-title: Konvertera en webbplats till en nav webbplats
+title: Konvertera en webbplats till en navplats
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,23 +12,23 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: e3011b8af2271761c96d8e9bcecd317682c096d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bc8728583a547e2407e2c91bf777adb23c221015c63d325df33db6c691f98e71
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733021"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929827"
 ---
-# <a name="create-a-sharepoint-hub-site"></a>Skapa en SharePoint-hubb
+# <a name="create-a-sharepoint-hub-site"></a>Skapa en SharePoint navplats
 
-1. I det nya administrations centret för SharePoint klickar du på **aktiva webbplatser**under **webbplatser**.
+1. I det nya SharePoint klickar du på **Aktiva webbplatser** under **Webbplatser.**
 
-2. Välj den webbplats du vill ska vara en nav webbplats, klicka på **nav webbplats**och klicka sedan på **Registrera som hubb**.
+2. Välj den webbplats du vill använda som navplats, klicka **på Hubben-webbplats** och klicka sedan på **Registrera som navplats**.
 
-3. Ange ett visnings namn för NAV webbplatsen och ange de enskilda användare eller säkerhets grupper som du vill tillåta att webbplatser kopplas till navet.
+3. Ange ett visningsnamn för navplatsen och ange de enskilda användare eller säkerhetsgrupper som du vill tillåta att webbplatser kopplas till navet.
 
     > [!NOTE]
-    >  Vi rekommenderar att du väljer en kommunikations webbplats eller en grupp webbplats där den nya mallen används. Om du använder en klassisk grupp webbplats visas nav navigeringen endast på moderna sidor och inställningarna för Hub-webbplatser visas bara på moderna sidor. Webbplatser som redan är kopplade till ett annat nav kan inte registreras som en nav webbplats.
+    >  Vi rekommenderar att du väljer en kommunikationswebbplats eller en gruppwebbplats som använder den nya mallen. Om du använder en klassisk gruppwebbplats visas navnavigeringen bara på moderna sidor och navplatsinställningarna visas bara på moderna sidor. Webbplatser som redan är associerade med ett annat nav kan inte registreras som en navplats.
   
-[Lär dig mer om nav webbplatser](https://go.microsoft.com/fwlink/?linkid=869149)
+[Läs mer om navplatser](https://go.microsoft.com/fwlink/?linkid=869149)
   

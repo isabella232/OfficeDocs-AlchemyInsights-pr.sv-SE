@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "9655"
-ms.openlocfilehash: 9dc3b1d54bb263d5e53e02a4e4dadc8cf3c1e400
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: cd7533f09ed8361e134b81979532cdebbf49971c54553a0172c7527f30e319bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51405322"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951151"
 ---
 # <a name="app-registration-owner-issues"></a>Problem med appregistreringsägare
 
@@ -33,11 +33,11 @@ Här är de tillgängliga metoderna för att lägga till huvudnamn som ägare av
 - Använda Azure CLI - `az ad app owner add`
 
     Referens: [az ad-appägare](https://docs.microsoft.com/cli/azure/ad/app/owner)
-- Använda MS Graph –
+- Använda MS Graph -
 
     Referens: [Lägg till ägare – Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/application-post-owners)
 - Använda Azure AD-portalen – gå [till portal.azure.com](https://portal.azure.com/) > Azure Active Directory > appregistrering > Välj ditt program > ägare > Lägg till ägare
 
 **Kan du inte visa ditt program i blad för appregistreringar trots att du är ägare till det programmet?**
 
-Ägaren av en app är inte en administrativ roll. Om inställningen Begränsa [åtkomst till Azure AD-administrationsportalen](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions) är aktiverad kan bara administratören visa programmen på appregistreringsportalen. För att en ägare ska kunna visa programmen inaktiverar du den här inställningen (Ange det som NEJ) eller tilldelar administratörsrollen till ägaren för bara det specifika programmet. För detta behöver du dock en Azure AD Premium P2-licens och aktivera hantering [av privilegierad identitet.](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)
+Ägaren av en app är inte en administrativ roll. Om inställningen Begränsa [åtkomst till Azure AD-administrationsportalen](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions) är aktiverad kan bara administratören visa programmen på appregistreringsportalen. För att en ägare ska kunna visa programmen inaktiverar du den här inställningen (Ange det som NEJ) eller tilldelar administratörsrollen till ägaren för bara det specifika programmet. För detta krävs dock en licens för Azure AD Premium P2 och aktivera [Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure).
