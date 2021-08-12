@@ -1,5 +1,5 @@
 ---
-title: Data plats
+title: Dataplats
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,15 +11,15 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b42fd2380fc1a98d33443aa8cacdb23e55fa8832
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 848285b940c19e3d6bb2b42483f01d39bce3952f42aa723d51b1a6392f0f1dcc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731473"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914633"
 ---
-# <a name="data-location"></a>Data plats
+# <a name="data-location"></a>Dataplats
 
-Du kan visa klient organisationens plats i administrations centret genom att gå till [sidan **organisations profil** ](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) och välja **data plats**.
+Du kan visa klientorganisationens plats i administrationscentret genom att gå till [ **sidan Organisationsprofil** och](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) välja **Dataplats.**
 
-För program som du inte abonnerar på kan du läsa [var dina Microsoft 365-kunddata lagras](https://docs.microsoft.com/office365/enterprise/o365-data-locations).
+Information om program som du inte prenumererar på finns i Var [dina Microsoft 365 kunddata lagras](https://docs.microsoft.com/office365/enterprise/o365-data-locations).

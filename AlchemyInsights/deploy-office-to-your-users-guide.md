@@ -15,15 +15,15 @@ ms.custom:
 - "7379"
 - "2000022"
 - "871"
-ms.openlocfilehash: e65735633619315081505c10c55e844101bd1538
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 13719bdb50d8cf838532a3c5f9cacca94c4c96a371ebd181f6ab04b3c51db0a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448697"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948109"
 ---
 # <a name="deploy-office-to-your-users-guide"></a>Distribuera Office till användarguiden
 
-Distribuera Office-program från molnet med möjligheten att anpassa installationen med distributionsverktyget för Office.
+Distribuera Office-program från molnet med möjlighet att anpassa installationen med hjälp av Office Deployment Tool.
 
-Guiden [Distribuera Office till användarna hjälper](https://go.microsoft.com/fwlink/?linkid=2146451) dig att skapa en anpassad Office-konfiguration med avancerade inställningar, eller så kan du använda en inbyggd rekommenderad konfiguration. I den här avancerade guiden får du stegvisa instruktioner för att ge användarna en Office-installation som är skräddarsydd för din organisation, oavsett om användarna utför en självinstallation eller om du distribuerar till användarna enskilt eller i grupp.
+Guiden [Distribuera Office](https://go.microsoft.com/fwlink/?linkid=2146451) användare hjälper dig att skapa en anpassad Office konfiguration med avancerade inställningar, eller så kan du använda en inbyggd rekommenderad konfiguration. Oavsett om användarna utför en självinstallation eller om du distribuerar till användarna enskilt eller i grupp får du i den här avancerade guiden stegvisa instruktioner för att ge användarna en Office-installation anpassad efter din organisation.

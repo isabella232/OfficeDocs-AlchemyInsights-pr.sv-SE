@@ -1,5 +1,5 @@
 ---
-title: Distribuera Azure AD reactive Identity Management (PIM)
+title: Distribuera Azure AD Privileged Identity Management (PIM)
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003895"
 - "6949"
-ms.openlocfilehash: 6c9bbd7e55a283e421f76ebbda70aa579cb8b60c
-ms.sourcegitcommit: 2ff035d33e3277a268a5d88f1209dca77a87d689
+ms.openlocfilehash: e7e52ebf7fdb6a7cb07cf1d960fc14263ad0dbfab00ea9968feabbfa4b05c975
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680281"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914201"
 ---
-# <a name="deploy-azure-ad-privileged-identity-management-pim"></a>Distribuera Azure AD reactive Identity Management (PIM)
+# <a name="deploy-azure-ad-privileged-identity-management-pim"></a>Distribuera Azure AD Privileged Identity Management (PIM)
 
-Information om hur du planerar distributionen av administratören för administratör i Azure Active Directory-organisationen (Azure AD) finns i [Distribuera Azure AD recalled Identity Management (PIM)](https://go.microsoft.com/fwlink/?linkid=2132095).
+Mer information om hur du planerar distributionen av Privileged Identity Management (PIM) i din Azure Active Directory-organisation (Azure AD) finns i [Distribuera Azure AD Privileged Identity Management (PIM).](https://go.microsoft.com/fwlink/?linkid=2132095)
