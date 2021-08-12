@@ -1,5 +1,5 @@
 ---
-title: Problem med utskrifts hanteraren är löst
+title: Problem med utskriftshanteraren har lösts
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: 66b39434ef6f9ad2b8392f811704e67c1bcffd2b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 73ff86928c043dd41f49d456d30c2fcf7947bd4cb304d0456c634d4fa5808239
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801859"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911356"
 ---
-# <a name="print-spooler-issue-is-resolved"></a>Problem med utskrifts hanteraren är löst
+# <a name="print-spooler-issue-is-resolved"></a>Problem med utskriftshanteraren har lösts
 
-Om enheten har uppdaterats med Windows 10  **OS version 19041,329**kanske du har iakttagit ett problem där vissa skrivare inte kan skriva ut. Utskrifts hanteraren kan utlösa fel eller avsluta oväntat när du försöker skriva ut, och ingen utskrift kommer från den aktuella skrivaren. Det här problemet löses i OS version  **19041,331**, [KB4567523](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523).  
+Om enheten uppdaterades med Windows 10 **OS version 19041.329** kan du ha observerat ett problem där vissa skrivare inte kan skrivas ut.   Utskriftshanteraren kan ge ett fel eller stängas oväntat vid försök att skriva ut och inga utdata kommer från den aktuella skrivaren. Det här problemet är löst i **OS-version 19041.331**, [KB4567523.](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523)  
 
 **Pågående undersökning**
 
-Den lokala LSASS-filen (Subsystem File System) (**Isass.exe**) kanske inte fungerar på vissa enheter med fel meddelandet "en kritisk system process, C:\WINDOWS\system32\Isass.exe, misslyckades med status kod c0000008. Datorn måste nu startas om.  **Microsoft jobbar med en lösning och tillhandahåller en uppdatering i en kommande version.**
+LSASS-filen (Local Security Authority Subsystem Service) (**Isass.exe**) kan misslyckas på vissa enheter med felmeddelandet "En kritisk systemprocess, C:\WINDOWS\system32\Isass.exe, misslyckades med statuskoden c0000008. Nu måste datorn startas om."  **Microsoft arbetar på en lösning och kommer att tillhandahålla en uppdatering i en kommande version.**
 
-Mer information finns i  [Windows 10 Version 2004 kända problem](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc).
+Mer information finns i Windows 10 [version 2004.](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc)

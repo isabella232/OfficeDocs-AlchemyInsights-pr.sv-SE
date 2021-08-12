@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4fad0a513f7c6d2f0337019488a4055c25e1650d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 96579b28923e392a0fa05c56833fed1b45eb118437ac7e8333c610ed69126f8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749247"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916433"
 ---
 # <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>Konfigurera och validera undantag för MDATP på en Linux-dator
 
@@ -26,4 +26,4 @@ Du kan utesluta vissa filer, mappar, processer och process öppna filer från MD
 Mer information finns i [Konfigurera och validera undantag för MDATP för Linux.](https://go.microsoft.com/fwlink/?linkid=2144517)
 
 > [!IMPORTANT]
-> Undantagen som beskrivs i den här artikeln gäller inte för andra funktioner i MDATP för Linux, inklusive identifiering och svar av slutpunkter (EDR). Filer som du exkluderar med hjälp av metoderna som beskrivs i den här artikeln kan fortfarande utlösa EDR-aviseringar och andra identifieringsfunktioner.
+> Undantagen som beskrivs i den här artikeln gäller inte andra funktioner i MDATP för Linux, inklusive identifiering och åtgärd på slutpunkt (Identifiering och åtgärd på slutpunkt). Filer som du undantar med hjälp av de metoder som beskrivs i den här artikeln kan fortfarande utlösa Identifiering och åtgärd på slutpunkt aviseringar och andra identifieringsfunktioner.

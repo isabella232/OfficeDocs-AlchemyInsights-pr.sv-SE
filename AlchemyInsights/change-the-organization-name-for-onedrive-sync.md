@@ -1,5 +1,5 @@
 ---
-title: Ändra organisationsnamnet för OneDrive-synkroniseringsklienten
+title: Ändra organisationens namn för OneDrive-synkronisering klienten
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003077"
 - "5850"
-ms.openlocfilehash: ca545ba51e39209f3302acdee1c24048515e2c1b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 217998f1c2912d74c89c676e4375769d2c0eb3f5b8e5df303071bc3c51ef74d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818342"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916865"
 ---
-# <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>Ändra organisationsnamnet för OneDrive-synkroniseringsklienten
+# <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>Ändra organisationens namn för OneDrive-synkronisering klienten
 
-OneDrive använder organisationsnamnet som angetts av en innehavaradministratör.  Du [kan ändra organisationens adress, tekniska kontakt med mera.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more) När ändringen utförs för klientorganisationen återspeglar inte OneDrive-synkroniseringsklienten det nya namnet förrän användarna tar bort länken och länkar om sitt OneDrive-konto.
+OneDrive använder organisationsnamnet som angetts av en innehavaradministratör.  Du [kan ändra organisationens adress, tekniska kontakt med mera.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more) När ändringen utförs för klientorganisationen återspeglar OneDrive-synkronisering-klienten inte det nya namnet förrän användarna avlänkar och länkar om sitt OneDrive konto.
 
 Så här tar du bort länken till kontot:
 
-1. Välj den blå OneDrive-molnikonen längst till höger i aktivitetsfältet och välj sedan Mer  **> Inställningar > Konto**.
+1. Välj den blå OneDrive molnikonen längst till höger i aktivitetsfältet och välj sedan **Mer > Inställningar > Konto**.
 2. Hitta det konto du vill ta bort länken till och välj **Ta bort länken till den här datorn** och sedan Ta bort länken till **kontot.**
 
-Om du vill länka kontot igen väljer  **du Lägg till ett** konto på  **fliken** Konto i Inställningar och loggar in på OneDrive igen.
+Om du vill länka kontot igen  väljer du Lägg till **ett** konto på fliken Konto i Inställningar och loggar sedan in på OneDrive.
