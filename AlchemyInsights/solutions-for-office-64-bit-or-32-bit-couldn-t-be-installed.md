@@ -1,5 +1,5 @@
 ---
-title: Lösningar för "Office (64-bitars eller 32-bitars) kunde inte installeras
+title: Lösningar för 'Office (64-bitars eller 32-bitars) kunde inte installeras
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -14,30 +14,30 @@ ms.custom:
 - "905"
 - "2000023"
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: 9a5615a02f58ae747aebe88099629ad0bacb8add
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21c4ea922fd3e24c818cab441c9847c2ab8b3cdf6701a922fe30d284317d2291
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738259"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957262"
 ---
 # <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Lösningar för "Office (64-bitars eller 32-bitars) kunde inte installeras
 
-Felet "Det gick inte att installera Office (64-bitars eller 32-biten) eftersom du inte kan blanda 64-bitars-och 32-bitars versioner av Office.
+Felet "Office (64-bitars eller 32-bitars) kunde inte installeras" beror på att det inte går att blanda 64- och 32-bitarsversioner av Office.
   
-För att åtgärda felet och byta från 32-bitar till 64-bitar måste du göra följande i den här ordningen.
+Om du vill åtgärda det här felet och byta från 32-bitars till 64-bitars måste du göra följande i den här ordningen.
   
 1. Ladda ned och installera [Support- och återställningsassistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. När den **öppnas väljer du** den version som du vill avinstallera och väljer **Nästa**.
+1. När det öppnas går du **till Avinstallera Office produkter** väljer den version som du vill avinstallera och väljer **Nästa.**
 
 2. Fortsätt gå igenom skärmarna och starta om datorn när du uppmanas till det.
 
-    Efter omstarten öppnas support-och återställnings assistenten automatiskt för att slutföra avinstallationen.
+    Efter omstarten öppnas Support- och återställningsassistenten igen för att slutföra avinstallationen.
 
-3. Följ återstående uppmaningar och [installera om Office](https://portal.office.com/OLS/MySoftware.aspx) med rätt 32-bitars-eller 64-bitars version.
+3. Följ de återstående instruktionerna och [installera Office](https://portal.office.com/OLS/MySoftware.aspx) med rätt 32-bitars- eller 64-bitarsversion.
 
-    Följ stegen i [installera Office på en PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
+    Följ anvisningarna i [Installera Office på en PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
 
-Mer information finns i [fel meddelandet "Office (64-bitars eller 32-bitars) kunde inte installeras" när du försöker installera](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)
+Mer information finns i [felmeddelandet "det Office (64-bitars eller 32-bitars)](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA) kunde inte installeras" när du försöker installera
   

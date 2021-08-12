@@ -1,5 +1,5 @@
 ---
-title: Hantera program grupper med Azure Portal för Windows Virtual Desktop
+title: Hantera appgrupper med hjälp av Azure-portalen för Windows Virtuellt skrivbord
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003956"
 - "7013"
-ms.openlocfilehash: 0dd08d04ad6328e7afa158b36517839fc31a8566
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 260a0b2b8d3f8fcc1fd6096373a8a8ecd90585adc5865ff1fb832870cb62102e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722054"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912076"
 ---
-# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Hantera program grupper med Azure Portal för Windows Virtual Desktop
+# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Hantera appgrupper med hjälp av Azure-portalen för Windows Virtuellt skrivbord
 
-Standard program gruppen som skapas för en ny Windows-adresspool för virtuella skriv bord publicerar också hela Skriv bordet. Med Azure-portalen kan du dessutom skapa en eller flera RemoteApp-gruppgrupper för Host-poolen.
+Standardappgruppen som skapas för en ny Windows värdpool för virtuellt skrivbord publicerar också det fullständiga skrivbordet. Med hjälp av Azure Portal kan du dessutom skapa en eller flera RemoteApp-appgrupper för värdpoolen.
 
-Distributions processen gör följande:
+Distributionsprocessen gör följande:
 
-1. Skapa gruppen RemoteApp-program.
-2. Lägg till dina markerade appar i program gruppen.
-3. Publicera enskilda användare eller användar grupper i program gruppen.
-4. Registrera program gruppen, om du väljer att göra det.
-5. Skapa en länk till en Azure Resource Manager-mall enligt din konfiguration, som du kan ladda ned och spara.
+1. Skapa appgruppen RemoteApp.
+2. Lägg till de valda apparna i programgruppen.
+3. Publicera enskilda användare eller användargrupper i programgruppen.
+4. Registrera appgruppen om du väljer att göra det.
+5. Skapa en länk till en Azure Resource Manager-mall beroende på din konfiguration, som du kan ladda ned och spara.
 
-Om du vill skapa en RemoteApp-grupp för Windows Virtual Desktop följer du instruktionerna i [hantera program grupper med Azure-portalen](https://go.microsoft.com/fwlink/?linkid=2129550).
+Om du vill skapa en RemoteApp-grupp Windows virtuellt skrivbord följer du anvisningarna i [Hantera appgrupper med Azure-portalen.](https://go.microsoft.com/fwlink/?linkid=2129550)

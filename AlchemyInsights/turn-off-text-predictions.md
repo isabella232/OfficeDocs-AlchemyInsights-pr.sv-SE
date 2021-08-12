@@ -1,5 +1,5 @@
 ---
-title: Inaktivera text förutsägelser
+title: Inaktivera textförutsägelse
 ms.author: v-smandalika
 author: v-smandalika
 manager: v-aiyengar
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000059"
 - "6217"
-ms.openlocfilehash: 3ee4aecabb8fc534bc45d40a7546928eee679bc8
-ms.sourcegitcommit: e69e79d7dc632ec6f1da4d303d2cdc81249852b8
+ms.openlocfilehash: df62814d3fcd843faf6c6e1a227963a5c682cb1799498433ade15ab1b9e9a6fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447540"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920269"
 ---
-# <a name="turn-off-text-predictions"></a>Inaktivera text förutsägelser
+# <a name="turn-off-text-predictions"></a>Inaktivera textförutsägelse
 
-1. Välj **inställningar > Visa alla Outlook-inställningar > e-post > Skriv och svara**.
-2. Under **text förutsägelse** avmarkerar **du föreslå ord med fraser när jag skriver**.
+1. Välj **Inställningar > Visa alla Outlook inställningar > e-> Skriv och svara**.
+2. Avmarkera **Föreslå ord i** fraser medan jag skriver under **Textförutsägelser.**
 
-Mer information finns i [använda Intelligent teknologi i Outlook på webben och Outlook.com](https://support.microsoft.com/office/use-intelligent-technology-in-outlook-on-the-web-and-outlook-com-24b30683-8340-4b69-b8ac-4193ec528a70).
+Mer information finns i Använda [intelligent teknik i Outlook på webben och Outlook.com.](https://support.microsoft.com/office/use-intelligent-technology-in-outlook-on-the-web-and-outlook-com-24b30683-8340-4b69-b8ac-4193ec528a70)
