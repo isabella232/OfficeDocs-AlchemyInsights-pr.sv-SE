@@ -1,5 +1,5 @@
 ---
-title: Skriv skydd för underhålls meddelande när du försöker använda SharePoint eller OneDrive
+title: Read-Only visas ett meddelande om underhåll när du försöker använda SharePoint eller OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,33 +13,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670850"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910564"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Skriv skydd för underhålls meddelande när du försöker använda SharePoint eller OneDrive
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only visas ett meddelande om underhåll när du försöker använda SharePoint eller OneDrive
 
-Användare kan få ett **skrivskyddat för underhålls** meddelande när de försöker använda SharePoint eller OneDrive för något av följande scenarier. 
+Användare kan få ett **meddelande om skrivskydd** för underhåll när de försöker använda SharePoint eller OneDrive något av följande scenarier. 
 
--   En planerad eller aktiv underhålls aktivitet.  Leta efter dem genom att gå till [meddelande Center](https://portal.office.com/adminportal/home#/messagecenter).
--   Ett högprioriterat, aktivt tjänst problem som kan uppstå. Sök efter eventuella rådgivare/incidenter genom att gå till [tjänstens hälsa](https://portal.office.com/adminportal/home#/servicehealth).
--   Ett mindre automatiskt återställnings scenario som kan förekomma på grund av eventuella oväntade händelser på de servrar som eventuellt har varit mindre än 30 minuter. 
+-   En planerad eller aktiv underhållsaktivitet.  Se om de finns i [meddelandecentret.](https://portal.office.com/adminportal/home#/messagecenter)
+-   En aktiv tjänsthändelse med hög prioritet som kan inträffa. Leta efter rådgivningar/incidenter genom att gå till [Tjänstens hälsa.](https://portal.office.com/adminportal/home#/servicehealth)
+-   Ett mindre scenario för automatisk återställning som kan inträffa på grund av oväntade händelser på servrarna som kan pågå i mindre än 30 minuter. 
     
-    Det finns inga poster för meddelande Center eller tjänstens hälsa för dessa mindre återställningar, men du bör vara tillbaka till normalt.
+    Det finns inga inlägg i Meddelandecenter eller Tjänstens hälsa för dessa mindre återställningar men du bör vara helt normal inom kort.
 
-Under de senaste inloggningarna observerade vi att ett av de tre ovanstående scenarierna var orsaken och att tjänsten har återställts men att användarens webbläsare inte har rensats.
+Vi har mycket få gånger sett att någon av de tre scenarierna ovan har varit orsaken och att tjänsten har återställts, men användarnas cacheminne har inte rensats.
 
 Försök rensa webbläsarens cache innan du navigerar till webbplatsen.
 
-1. I webbläsaren Microsoft Edge väljer du **Inställningar**och sedan **Sekretess och säkerhet**.
-2. Under **Rensa bläddring**väljer **du Välj vad du vill rensa**.
-3. Välj **cookies och sparade webbplats data**och välj **Rensa**.
+1. I Microsoft Edge väljer du **Inställningar** och sedan Sekretess **och säkerhet.**
+2. Under **Rensa surfning** väljer du **Välj vad som ska rensas.**
+3. Välj **Cookies och sparade webbplatsdata** och välj **Rensa**.
 
 >[!Note] 
-> De här stegen kan skilja sig från andra webbläsare, till exempel Mozilla Firefox och Google Chrome.
+> De här stegen kan skilja sig när du använder andra webbläsare, till exempel Mozilla Firefox eller Google Chrome.
 
 >[!Note] 
 > Ett annat alternativ är att öppna SharePoint-webbplatsen eller OneDrive i ett nytt InPrivate-fönster.

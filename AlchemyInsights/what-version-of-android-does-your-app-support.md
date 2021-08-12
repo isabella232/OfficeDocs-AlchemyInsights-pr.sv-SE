@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3ad25cd49fb37a34afe4d65106d0f881fb051224ed0a7e2a27a1fd2f52645433
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824201"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970745"
 ---
 # <a name="what-version-of-android-does-your-app-support"></a>Vilken version av Android stöder din app?
 
@@ -27,13 +27,13 @@ Om du är uppdaterad i Android-operativsystemet men fortfarande får meddelanden
 
 Gör så här: 
 
-1. På din Android-telefon eller -surfplatta öppnar **du Inställningar** och sedan **Appar** eller **Program.**
+1. På din Android-telefon eller -surfplatta öppnar **Inställningar** sedan **Appar** eller **Program**.
 
 2. Tryck på Mer högst upp på skärmen **(det** kan också vara en ellips eller tre lodräta punkter) och sedan **på Visa system.** 
 
 3. Rulla nedåt och tryck på **Google Play-tjänster**. 
 
-4. Tryck **på Lagring** och sedan på Rensa **cache.** 
+4. Tryck **Storage** och sedan **på Rensa cacheminnet.** 
 
 5. Tryck **på Hantera utrymme** och sedan på Radera alla **data.** 
 
