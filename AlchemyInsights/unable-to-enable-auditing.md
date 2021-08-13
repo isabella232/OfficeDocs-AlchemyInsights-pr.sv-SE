@@ -1,5 +1,5 @@
 ---
-title: 2419-det går inte att aktivera-granskning
+title: 2419-unable-to-enable-auditing
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 2419
 ms.assetid: ''
-ms.openlocfilehash: 81fd8e33feb2f2b10b04cc7cdc746a8603aa366b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0566a8d002b1bd9e38f3184824193394e49d56494d347338f96cfcdfdb758f4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767617"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007808"
 ---
 # <a name="unable-to-enable-unified-auditing"></a>Det går inte att aktivera enhetlig granskning
 
-När du försöker aktivera enhetlig granskning för din organisation kan du få ett fel av följande slag:
+När du försöker aktivera enhetlig granskning för organisationen kan du få ett felmeddelande som ser ut ungefär så här:
 
 ```
 Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 500 Exception message: {"Message":"The command you tried to run isn't currently allowed in your organization. To run this command, you first need to run the command: Enable-OrganizationCustomization."
@@ -29,7 +29,7 @@ Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 50
 
 Lös problemet genom att följa de här stegen:
 
-1. [Anslut till Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
+1. [Anslut till Exchange Online Powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
 
 2. Kör följande cmdlet:
 
@@ -37,7 +37,7 @@ Lös problemet genom att följa de här stegen:
    Enable-OrganizationCustomization
    ```
 
-3. Vänta till 60 minuter innan föregående inställning börjar gälla.
+3. Vänta i 60 minuter på att den föregående inställningen ska gälla.
 
 4. Kör följande kommando i Exchange Online PowerShell:
 
@@ -47,6 +47,6 @@ Lös problemet genom att följa de här stegen:
 
 Mer information finns i följande artiklar:
 
-- [Ansluta till Exchange Online PowerShell med multifaktorautentisering](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
+- [Anslut att Exchange Online PowerShell med multifaktorautentisering](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
 
 -  [Aktivera och inaktivera granskningsloggsökning](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off)
