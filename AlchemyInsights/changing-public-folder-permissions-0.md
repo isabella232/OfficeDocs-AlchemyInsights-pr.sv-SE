@@ -1,5 +1,5 @@
 ---
-title: Ändra behörigheter för en gemensam mapp
+title: Ändra behörigheter för gemensamma mappar
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -12,27 +12,27 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: a2a902e8fdfd8628772364c173979c633d25a169
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 16c2fb89f8dd256afb7e922ca74976097501173bf605e6c5fccc73019a71edcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714265"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950206"
 ---
-# <a name="changing-public-folder-permissions"></a>Ändra behörigheter för en gemensam mapp
+# <a name="changing-public-folder-permissions"></a>Ändra behörigheter för gemensamma mappar
 
-Behörigheter för den offentliga mappen kan ändras av användare och administratörer i Outlook. Administratörer kan även kontrol lera behörigheter från administrations centret för Exchange (UK) genom att göra följande:
+Behörigheter för gemensamma mappar kan ändras av användare och administratörer i Outlook. Administratörer kan också kontrollera behörigheter Exchange Admin Center (EAC) genom att göra följande:
   
-1. Öppna administrations centret för Microsoft 365 och gå **till** \> **Exchange**-tjänsten.
+1. I Administrationscenter för Microsoft 365 går du till **Administrationscenter** \> **för Exchange**.
 
-2. Välj **gemensamma mappar**.
+2. Välj **Gemensamma mappar**.
 
-3. Därifrån kan du ändra behörigheterna för enskilda gemensamma mappar genom att tilldela säkerhets grupper till behörigheter. För att slutanvändaren ska kunna ändra behörigheter för en gemensam mapp måste användaren ha ägar rättigheter för mappen.
+3. Därifrån kan du ändra behörigheter för enskilda gemensamma mappar genom att tilldela säkerhetsgrupper till behörigheter. För att en slutanvändare ska kunna ändra behörigheter för gemensamma mappar måste användaren ha ägarbehörighet för mappen.
 
-Följ anvisningarna i artikeln om [hur du kan diagnostisera och åtgärda problem med den offentliga mappen](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) för att felsöka problem med den offentliga mappen.
+Följ anvisningarna som beskrivs i Diagnostisera [och åtgärda problem med behörigheter för](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) gemensamma mappar för att felsöka behörighetsproblem för gemensamma mappar.
 
-**Obs!** det finns flera kända problem som du kan stöta på när du försöker ändra behörigheter för gemensamma mappar. Mer information finns i följande artiklar.
+**Obs!** Det finns flera kända problem som kan uppstå när du försöker ändra behörigheter för gemensamma mappar. Mer information finns i följande artiklar.
 
-- [Det går inte att tillämpa behörigheter för undermappar i gemensamma mappar i UK](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+- [Det går inte att tillämpa behörigheter på undermappar till gemensamma mappar i EAC](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
 
-- [Felet "post lådan hittas inte i den lokala skogen" när du öppnar gemensamma mappar](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
+- [Felet "Postlådan finns inte i den lokala skogen" visas när du öppnar gemensamma mappar](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)

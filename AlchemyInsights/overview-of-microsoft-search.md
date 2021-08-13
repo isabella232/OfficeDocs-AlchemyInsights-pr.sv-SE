@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "6443"
 - "9003287"
-ms.openlocfilehash: 8171ec494197abf53a073cc87fce0898d23f9490
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 00eb6c5fdabc56a7d81b27c48bdc1f1e562cbac9bfb6046b9ea7c2c0f4920800
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "48194215"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924567"
 ---
 # <a name="overview-of-microsoft-search"></a>Översikt över Microsoft Search
 
-Planera för Microsoft Search i [Översikt över Microsoft Search](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
+Information om hur du planerar Microsoft Search finns [i Översikt över Microsoft Search](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
 
 - [Ange Microsoft Search](https://docs.microsoft.com/microsoftsearch/setup-microsoft-search)
-- Upptäck [vanliga frågor och svar](https://docs.microsoft.com/microsoftsearch/faqs)om Microsoft Search.
+- Upptäck Microsoft Search [vanliga frågor och svar](https://docs.microsoft.com/microsoftsearch/faqs).

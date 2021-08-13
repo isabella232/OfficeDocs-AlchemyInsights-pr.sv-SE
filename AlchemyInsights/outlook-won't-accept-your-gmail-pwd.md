@@ -1,5 +1,5 @@
 ---
-title: Outlook accepterar inte ditt Gmail-lösenord
+title: Outlook Accepterar inte ditt Gmail-lösenord
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "7351"
-ms.openlocfilehash: 60e4f04fbf4cd2c3c2a21e6e18845ac6e93119d2
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: af07110d3b5231f25fad078cf7b71ef991600c345e1c057d8bfe1614d9570580
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678760"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924679"
 ---
-# <a name="outlook-wont-accept-your-gmail-password"></a>Outlook accepterar inte ditt Gmail-lösenord
+# <a name="outlook-wont-accept-your-gmail-password"></a>Outlook accepterar inte gmail-lösenordet
 
-Vi rekommenderar att du aktiverar tvåfaktorautentisering och använder ett applösenord.
+Vi rekommenderar att du använder tvåfaktorautentisering och att du använder ett applösenord.
 
-Följ stegen nedan om du vill aktivera tvåfaktorautentisering och få ett applösenord.
+Använd följande steg för att aktivera tvåfaktorautentisering och få ett applösenord.
 
-1. Gå till Gmail från webbläsaren och klicka på **Google Apps** -ikonen i det övre högra hörnet av skärmen.
-1. Klicka på **säkerhet** till vänster.
-1. Om **tvåstegsverifiering** **är inaktiverat** under Logga in på Google klickar du på **>** bredvid **av** för att aktivera det.  Annars går du vidare till steg 4.
-1. Klicka på **Fortsätt** på den första skärmen.
-1. Ange ditt Gmail-lösenord om du uppmanas till det och klicka sedan på **Nästa**.
-1. Ange ditt telefonnummer och välj om du vill få dina verifierings koder via SMS eller ett telefonsamtal.
-1. Klicka på **Nästa**.
-1. Ange den kod du fick och klicka på **Nästa**.
-1. Klicka på **Aktivera** för att slutföra konfigurationen av tvåstegsverifiering.
-1. Gå tillbaka till föregående skärm genom att klicka på vänsterpilen högst upp på skärmen bredvid **tvåstegsverifiering**.
-1. Välj **>** längst till höger på raden med **applösenord** .
-1. Ange ditt Google-lösen ord och klicka sedan på **Logga in**. Längst ned på nästa skärm klickar du på **e-post** och **Windows-dator** från List rutorna och klickar sedan på **skapa**.
-Google visar ett applösenord för dig. 
-13. Kopiera lösen ordet (utan blank steg) och ange lösen ordet när du uppmanas till det för ett lösen ord.
+1. Gå till Gmail från webbläsaren och klicka på **Google Apps-ikonen** i det övre högra hörnet av skärmen.
+1. Klicka på Säkerhet till **vänster.**
+1. Om tvåstegsverifiering är **AV** under Logga in på Google **klickar** du på **>** bredvid **AV** för att aktivera **det.** Annars går du vidare till steg 4.
+1. Klicka på FORTSÄTT på den första **skärmen.**
+1. Om du uppmanas till det anger du ditt Gmail-lösenord och klickar sedan på **NÄSTA.**
+1. Ange ditt telefonnummer och välj om du vill ta emot verifieringskoder via SMS eller telefonsamtal.
+1. Klicka **på NÄSTA.**
+1. Ange koden du fick och klicka på **NÄSTA.**
+1. Klicka **på AKTIVERA för** att slutföra inställningen för tvåstegsverifiering.
+1. Gå tillbaka till föregående skärm genom att klicka på vänsterpilen högst upp på skärmen bredvid **Tvåstegsverifiering**.
+1. Markera längst **>** till höger på raden **Applösenord.**
+1. Ange Google-lösenordet och klicka sedan på **Logga in.** Längst ned på nästa skärm klickar du på **E-Windows sedan** på Dator i listrutan och sedan på  **Generera**.
+Ett applösenord visas i Google. 
+13. Kopiera lösenordet (utan mellanslag) och ange lösenordet när Outlook uppmanar dig att ange ett lösenord.
 
-Mer information finns i [lägga till ett Gmail-konto i Outlook – Outlook (Microsoft.com)](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081).
+Mer information finns i Lägga [till ett Gmail-konto Outlook – Outlook (microsoft.com)](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081).

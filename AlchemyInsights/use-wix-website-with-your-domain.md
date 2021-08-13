@@ -1,5 +1,5 @@
 ---
-title: Använda Wix-webbplatsen med köpta eller hanterade domäner i Office 365
+title: Använda Wix-webbplats med Office 365 köpta eller hanterade domäner
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001516"
 - "3582"
-ms.openlocfilehash: ef2e7278b1a70aedca1b2ad9c13c249bf8b09c00
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d7df06d768eabb44bcaee4a7450d16ecdb3395da4cee4810503d3dae358736ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825965"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980195"
 ---
-# <a name="using-wix-website-with-office-365-purchased-or-managed-domains"></a>Använda Wix-webbplatsen med köpta eller hanterade domäner i Office 365
+# <a name="using-wix-website-with-office-365-purchased-or-managed-domains"></a>Använda Wix-webbplats med Office 365 köpta eller hanterade domäner
 
 - [Uppdatera DNS-poster för att behålla din webbplats hos ditt nuvarande webbhotell](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider)
 - Wix-artikeln "Ansluta en domän till Wix med pekmetoden" rekommenderar att du pekar (lägger till DNS-poster per länken ovan) i stället för att ändra namnservrar när du använder Office 365

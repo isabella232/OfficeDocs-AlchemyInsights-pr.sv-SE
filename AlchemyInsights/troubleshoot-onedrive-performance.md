@@ -1,5 +1,5 @@
 ---
-title: Felsöka OneDrive-prestanda
+title: Felsöka OneDrive prestanda
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,25 +10,25 @@ localization_priority: Normal
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: 4699f6113acd70b4778f9feeaeec012ff8fdd63f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 15d9067e6b55b91af312671db9209f93ffc58859aaf69d63c84dbc354aff3dd3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757903"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939145"
 ---
-# <a name="troubleshoot-onedrive-performance"></a>Felsöka OneDrive-prestanda
+# <a name="troubleshoot-onedrive-performance"></a>Felsöka OneDrive prestanda
 
-Om du har problem med att synkronisera eller liknande prestanda problem med OneDrive:
+Om synkroniseringen går långsammare än väntat eller liknande prestandaproblem när du OneDrive:
 
-- Bekräfta att det inte finns några kända problem med [instrument panelen för tjänste hälsa](https://portal.office.com/adminportal/home?ref=/servicehealth).
+- Kontrollera att det inte finns några kända problem med [instrumentpanelen för tjänstens hälsa.](https://portal.office.com/adminportal/home?ref=/servicehealth)
 
-- [Aktivera filer på begäran](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) så att du kan komma åt alla filer på OneDrive utan att behöva ladda ned dem och använda lagrings utrymme på din enhet.
+- [Aktivera Filer på begäran](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) så att du kan komma åt alla filer i OneDrive utan att behöva ladda ned dem och använda lagringsutrymmet på enheten.
 
-- [Läs metod tips](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) för nätverks planering och prestanda.
+- [Gå igenom metodtipsen](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) för nätverksplanering och nätverksprestanda.
 
-- [Maximera uppladdnings-och nedladdnings hastighet](https://support.office.com/article/maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43), särskilt om du synkroniserar en enhet för första gången.
+- [Maximera uppladdnings- och](https://support.office.com/article/maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)nedladdningshastigheten, särskilt om du synkroniserar en enhet för första gången.
 
-- Om du synkroniserar ett bibliotek med fler än 100 000 objekt kan synkronisering med OneDrive verka vara en längre tid eller statusen visar 0KB för xMB. " [Läs mer om hur du synkroniserar fler än 100 000-filer](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) samt OneDrive-funktioner som [stöds för 300 000-filer](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- Om du synkroniserar ett bibliotek med fler än 100 000 objekt kan OneDrive-synkronisering verka ha fastnat under en längre tid eller status visas Bearbetar 0kB av xMB." Läs mer om synkronisering av fler än [100 000](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) filer samt om OneDrive-filer som stöds [på 300 000 filer.](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-- När en användare överskrider användnings gränserna begränsas eventuella fler förfrågningar från det användar kontot under en kort period. Alla användar åtgärder begränsas medan begränsningen gäller.
+- När en användare överskrider användningsbegränsningarna begränsar SharePoint Online eventuella ytterligare förfrågningar från det användarkontot under en kort period. Alla användaråtgärder begränsas medan begränsningen är i kraft.

@@ -13,12 +13,12 @@ ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.custom:
 - "781"
 - "6200002"
-ms.openlocfilehash: 72aa0e84bc50f91281d59f0eb405bf2970cad2f0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f89ecc2cffde920feda46090658b938101e0d6027492949dd03612c2b0811555
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823445"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939217"
 ---
 # <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Felsöka problem med registrering av macOS-enheter i Microsoft Intune
 
@@ -28,7 +28,7 @@ Granska resurserna nedan för att lösa problemet nu.
 
 2. I [det här dokumentet](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) finns en lista över vanliga fel som förhindrar registrering och upplösning till var och en.
 
-3. [Lär dig hur du registrerar macOS-enheter i Microsoft Intune.](https://docs.microsoft.com/intune/macos-enroll)
+3. [Lär dig hur du registrerar macOS-enheter i Microsoft Intune](https://docs.microsoft.com/intune/macos-enroll).
 
-[Läs användarhandboken för att registrera macOS-enhet i Microsoft Intune](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
+[Se användarhandboken för att registrera macOS-enhet i Microsoft Intune](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   

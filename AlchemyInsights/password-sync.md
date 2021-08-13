@@ -1,5 +1,5 @@
 ---
-title: Kontrol lera synkroniseringsstatus för lösen ord
+title: Kontrollera status för lösenordssynkronisering
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 3b8a7f1ef0910214d297436b69c3699264c39b1d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 66920e7bcc6880892cf1b3c3f34e7298dd6491cc79b5fd8ea6540ee10339f33e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665664"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960889"
 ---
-# <a name="enable-password-sync"></a>Aktivera Lösenordssynkronisering
+# <a name="enable-password-sync"></a>Aktivera lösenordssynkronisering
 
-1.  Välj **DirSync-status** på Start sidan för administrations centret för Microsoft 365. 
+1.  Välj **DirSync-status** Administrationscenter för Microsoft 365 på startsidan. 
     
-     *Du kan också gå till **användare** \> **aktiva användare**och på sidan aktiva användare väljer du **mer** \> **katalog synkronisering.*** 
+     *Alternativt kan du gå till Användare **aktiva användare** och på sidan Aktiva användare väljer du Mer \>  **katalogsynkronisering.** \>* 
     
-2. I fönstret Directory-synkronisering väljer du **gå till DirSync-hanteringen**. 
+2. I fönstret Katalogsynkronisering väljer du **Gå till DirSync-hantering**. 
     
-3. Nu ser du din status och gör ändringar:
+3. Nu visas din status och du kan göra ändringar:
     
-    **Lösenordssynkronisering aktive rad:** (sant eller falskt). Anger om du har aktiverat Lösenordssynkronisering mellan lokala och din klient organisation. 
+    **Lösenordssynkronisering aktiverad:** (Sant eller Falskt). Anger om du har lösenordssynkronisering aktiverad mellan lokal och klientorganisation. 
     
-    **Senaste lösen ords synkronisering:** (senaste gången Lösenordssynkronisering har synkroniserats). Då visas en varning och en länk till ett fel söknings verktyg om den senaste synkroniseringen var över tre dagar sedan. 
+    **Senaste lösenordssynkronisering:** (senaste gången lösenordssynkronisering kördes). Här visas en varning och en länk till ett felsökningsverktyg, om den senaste synkroniseringen gjordes för mer än tre dagar sedan. 
     
 
