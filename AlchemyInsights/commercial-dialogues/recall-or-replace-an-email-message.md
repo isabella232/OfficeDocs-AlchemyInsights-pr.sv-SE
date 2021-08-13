@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: 46e491c51cdceaf8b46e97fbec2754f94d7ee66e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b1a5ca296c62956ef0a8a95ed8ea9c967d268bcedb9cd5122b39a9678ba1f152
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750079"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967207"
 ---
 # <a name="recall-or-replace-email-message"></a>Återkalla eller ersätta e-postmeddelande
 
 Du kan bara återkalla eller ersätta meddelanden som skickas till adresser i din organisation. Meddelanden som skickas till en Gmail-adress kan till exempel inte återkallas.
 
-1. I mappfönstret till vänster i Outlook-fönstret väljer du **mappen Skickat.**
+1. I mappfönstret till vänster i Outlook väljer du **mappen Skickat.**
 2. Öppna meddelandet som du vill återkalla. Du måste dubbelklicka för att öppna meddelandet. Du kan inte återkalla meddelandet genom att markera det så att det visas i läsfönstret.
 3. Välj Åtgärder **Återkalla detta** meddelande **på**  >  **fliken Meddelande.**
 4. Klicka **på Ta bort olästa exemplar av detta meddelande** eller Ta bort **olästa exemplar och ersätta med ett** nytt meddelande och klicka sedan på **OK.**
