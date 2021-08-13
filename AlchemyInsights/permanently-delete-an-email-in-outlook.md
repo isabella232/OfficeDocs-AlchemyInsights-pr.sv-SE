@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: e9eee884a90d961a68f63aca73bce32da21fe1fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b0aa1c016f229399f451655f691486c4618fce55d2952ea677edb902349dd270
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836117"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944401"
 ---
 # <a name="permanently-delete-an-email-in-outlook"></a>Ta bort ett e-postmeddelande permanent i Outlook
 
 - I inkorgen trycker du länge på ett meddelande så visas papperskorgsikonen. Tryck på ikonen om du vill ta bort meddelandet.
 
-- Du kan också ange "ta bort" som ett svepalternativ (**Inställningar -> Svepalternativ**); sveper du på e-postmeddelandet som du vill ta bort med fingret. 
+- Du kan också ange "ta bort" som ett svepalternativ (Inställningar **-> Svepalternativ**); sveper du på e-postmeddelandet som du vill ta bort med fingret. 
 
 - Om du vill ta bort ett meddelande från en öppen e-postvy trycker du på papperskorgsikonen högst upp på skärmen. Borttagna meddelanden flyttas till papperskorgen. 
 
