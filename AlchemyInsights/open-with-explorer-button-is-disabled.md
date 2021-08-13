@@ -1,5 +1,5 @@
 ---
-title: Knappen Öppna med Utforskaren är avaktiverad
+title: Knappen Öppna med Utforskaren är inaktiverad
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 4bfb877c52bab26eb3e43c95901857ef731d0bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff4d8a16cbb92aa36f165f9a6525ccba7dedff49ccc1805097206dbab43ce40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694690"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944617"
 ---
-# <a name="the-open-with-explorer-button-is-disabled"></a>Knappen Öppna med Utforskaren är avaktiverad
+# <a name="the-open-with-explorer-button-is-disabled"></a>Knappen Öppna med Utforskaren är inaktiverad
 
-- Gå till SharePoint-eller OneDrive-platsen i Internet Explorer 10 eller Internet Explorer 11. Knappen är inte kompatibel med andra webbläsare.
+- Bläddra till platsen SharePoint eller OneDrive i Internet Explorer 10 eller Internet Explorer 11. Knappen är inte kompatibel med andra webbläsare.
     
 > [!NOTE]
-> Det är praktiskt att öppna ett bibliotek i Utforskaren om du behöver kopiera eller flytta flera filer och mappar en gång, men om du ofta vill arbeta i biblioteket rekommenderar vi att du synkroniserar det. Om du behöver hjälp och felsöka andra problem som öppnas i Utforskaren kan du läsa [Öppna i Utforskaren](https://go.microsoft.com/fwlink/?linkid=871665). Information om hur du konfigurerar synkronisering finns i [Synkronisera SharePoint-filer med den nya synkroniseringsklienten för OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Att öppna ett bibliotek i Utforskaren är användbart om du behöver kopiera eller flytta flera filer och mappar en gång, men om du vill arbeta regelbundet i biblioteket rekommenderar vi att du synkroniserar det. Mer hjälp och felsökning av andra problem som kan öppna i Utforskaren finns i [Öppna i Utforskaren.](https://go.microsoft.com/fwlink/?linkid=871665) Mer information om hur du inställningar för synkronisering [finns i SharePoint filer med den nya OneDrive-synkronisering klienten.](https://go.microsoft.com/fwlink/?linkid=871666) 
   
 

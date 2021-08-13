@@ -12,16 +12,16 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 8b0c44ffd3dd1a9f8f2a021299dc8d9ada200636
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: db84609e28283da902d4a299bbf1fe164b74366f3818510eba5f10d2ebbdf4f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704732"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992930"
 ---
 # <a name="managing-yammer-users"></a>Hantera Yammer användare
 
-1. Mer information om hur du Yammer användare från Microsoft 365 finns [i Hantera Yammer användare under hela livscykeln.](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle) Det omfattar information om:
+1. Information om hur du hanterar Yammer användare från Microsoft 365 finns i [Hantera Yammer användare under hela livscykeln.](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle) Det omfattar information om:
 
   - Skapa en användare
 
@@ -29,7 +29,7 @@ ms.locfileid: "50704732"
 
   - Hantera Yammer användare från Microsoft 365
 
-2. Se Lägg [till, blockera eller ta bort Yammer för](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) information om hur du hanterar användare Yammer administratörskonsolen. Det omfattar:
+2. Mer information om hur du hanterar användare Yammer användare finns i Lägga [till,](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) blockera eller ta bort användare Yammer administratörskonsolen. Detta omfattar följande:
 
   - Bjuda in eller ta bort användare
 
@@ -37,4 +37,4 @@ ms.locfileid: "50704732"
 
   - Exportera användarlistan
 
-3. Mer information om hur du lägger till, tar bort och hanterar externa användare finns i Lägga till externa [meddelandedeltagare i Yammer nätverket.](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)
+3. Information om hur du lägger till, tar bort och hanterar externa användare finns i [Lägga till externa meddelandedeltagare i ditt Yammer nätverk.](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)

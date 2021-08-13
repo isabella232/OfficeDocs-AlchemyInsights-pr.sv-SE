@@ -14,19 +14,19 @@ ms.custom:
 - "7280"
 - "10908"
 - "9006389"
-ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: cdac95f094b9791daa258b6480f72392828e09f3cf603a856446eda7cc6472d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692772"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992860"
 ---
 # <a name="start-using-microsoft-edge"></a>Börja använda Microsoft Edge
 
-Microsoft har släppt nya Microsoft Edge, som är nästa generation av sin webbläsare. Den bygger på Chromium Open Source Foundation och har optimerats för att fungera med Microsoft-produkter som SharePoint och OneDrive.
+Microsoft har släppt den nya Microsoft Edge, som är nästa generation av sin webbläsare. Den bygger på Chromium grund för öppen källkod och har optimerats för att fungera med Microsoft-produkter, t.ex. SharePoint och OneDrive.
 
 Om du har problem med Google Chrome, Mozilla Firefox eller Safari rekommenderar vi att du använder Microsoft Edge.
 
-Om du är administratör för en stor organisation kan du komma igång med hjälp av vår installationsguide för [Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2142423)
+Om du är administratör för en stor organisation kan du använda vår [Microsoft Edge för att](https://go.microsoft.com/fwlink/?linkid=2142423) komma igång.
 
-Om du vill ladda ned Microsoft Edge på en enhet i taget går du [till Introduktion till nya Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2141049)
+Om du Microsoft Edge på en enhet i taget går du till [Introduktion till nya Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141049).
