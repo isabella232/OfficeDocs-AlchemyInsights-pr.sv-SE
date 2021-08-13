@@ -1,5 +1,5 @@
 ---
-title: Dragning av Access Services
+title: Åtkomsttjänster kommer tillbaka
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,26 +11,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: 943066d5ac76c0630554ee724bbab9a94086fae4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 32da879de230dc0ed99563ad881ab5b2479b8453933a127961a26d619e108ab9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698700"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938713"
 ---
-# <a name="access-services-retirement"></a>Dragning av Access Services
+# <a name="access-services-retirement"></a>Åtkomsttjänster kommer tillbaka
 
-Som vi presenterade ursprungligen annonserade i MC97576 mars 2017 och fortsatte att kommunicera under det tidigare året Access Services håller på att avvecklas. Nästa steg i processen kommer att ta bort Access-webbdatabaser som använder SharePoint-listor som sin underliggande data lagring.
+Som vi ursprungligen meddelade i MC97576, i mars 2017, och fortsätter att kommunicera under det senaste året Access Services kommer att dras tillbaka. Nästa steg i den här processen är att ta bort Access-webbdatabaser som använder SharePoint-listor som underliggande datalagring.
 
-**Hur påverkar detta mig?**
+**Hur påverkar det här mig?**
 
-Från och med den 2019 juni kommer vi att sluta skapa nya Access-databaser i SharePoint Online och stänga av tjänsten och eventuella återstående appar från april 2020.
+Från och med juni 2019 kommer vi att sluta skapa nya Access-databaser i SharePoint Online och avsluta tjänsten och eventuella återstående appar senast i april 2020.
 
-**Vad behöver jag göra för att förbereda den här ändringen?**
+**Vad behöver jag göra för att förbereda mig inför ändringen?**
 
-Vi uppmuntrar dig att skapa ett över gångs abonnemang för organisationens Access-webbdatabaser. Administratörer kan använda [program skannern för SharePoint Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) för att få en inventering av de Access-appar som webbplatser använder.
+Vi rekommenderar att du skapar en övergångsplan för organisationens Access-webbdatabaser. Administratörer kan använda [Access SharePoint appskannern för](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) att skaffa en inventering av Access-apparna som webbplatser använder.
 
-Det finns flera sätt att migrera webb databas data från Access:
+Det finns flera sätt att migrera data i Access-webbdatabaser:
 
-- Importera till en lokal Access-databas (. ACCDB) eller till en Excel-fil.
-- Vi rekommenderar också att du utforskar Microsoft PowerApps som en alternativ plattform för att skapa företags lösningar utan kod för webb-och mobila enheter.
+- Importera till en lokal Access-databas (. ACCDB) eller till en Excel fil.
+- Vi rekommenderar också att du utforskar Microsoft PowerApps som en alternativ plattform för att skapa kodkodade affärslösningar för webb- och mobilenheter.

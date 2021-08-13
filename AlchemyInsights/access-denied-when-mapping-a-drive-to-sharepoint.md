@@ -1,5 +1,5 @@
 ---
-title: Åtkomst nekad vid mappning av en enhet till SharePoint
+title: Access denied when mapping a drive to SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: 8fc866390d63443c94beef76b6a53a628b85d6d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1ed67ec926c3e73f7a16b927729255505dfe93a0ae442a5dff9400afafb41d8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668761"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938749"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Åtgärda problem med SharePoint-bibliotek som mappats till nätverks enheter
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Åtgärda problem med SharePoint mappade till nätverksenheter
 
-När du bläddrar till en mappad nätverks enhet kan något av följande meddelanden visas:
+När du bläddrar till en mappad nätverksenhet kan du se något av följande meddelanden:
   
-- **\\Sökvägen är inte tillgänglig. Du kanske inte har behörighet att använda den här nätverks resursen. Kontakta administratören för den här servern för att ta reda på om du har åtkomst behörighet.**
+- **\\Sökvägen är inte tillgänglig. Du kanske inte har behörighet att använda den här nätverksresursen. Kontakta administratören för den här servern för att ta reda på om du har åtkomstbehörighet.**
 
-- **Åtkomst nekad. Innan du öppnar filer på den här platsen måste du först lägga till webbplatsen i listan över tillförlitliga platser, bläddra till webbplatsen och välja alternativet att logga in automatiskt.**
+- **Åtkomst nekad. Innan du kan öppna filer på den här platsen måste du först lägga till webbplatsen i listan över betrodda webbplatser, bläddra till webbplatsen och välja alternativet att logga in automatiskt.**
 
-[Få hjälp med att felsöka anslutna nätverks enheter](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
+[Få hjälp med felsökning av mappade nätverksenheter](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
   
-Det går bara att mappa ett bibliotek som en nätverks enhet i Internet Explorer. [Synkronisera SharePoint-filer i stället med den nya synkroniseringsklienten för OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) som inkluderar [filer på begäran](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Komma åt alla dina filer på OneDrive utan att använda lokalt lagrings utrymme.
+Mappning av ett bibliotek som en nätverksenhet är tillfällig och stöds endast i Internet Explorer. Synkronisera i [stället SharePoint filer med den nya OneDrive-synkronisering klient](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) som innehåller Filer på [begäran.](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx) Komma åt alla filer på OneDrive utan att använda lokalt lagringsutrymme.
   
