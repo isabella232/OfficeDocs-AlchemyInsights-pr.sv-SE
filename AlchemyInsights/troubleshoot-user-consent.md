@@ -1,5 +1,5 @@
 ---
-title: Felsöka användar medgivande
+title: Felsöka användarens medgivande
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7785"
-ms.openlocfilehash: 7249bafe1b047c66d9351a79f1782cfcc1a936a1
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: db784c133fec554604ad09f5b27941879d97ff238f926ff6338d0f3b7c3c4105
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901628"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007916"
 ---
-# <a name="troubleshoot-user-consent"></a>Felsöka användar medgivande
+# <a name="troubleshoot-user-consent"></a>Felsöka användarens medgivande
 
-1. Du kan konfigurera hur slutanvändarna samtycker till program genom Azure Portal eller PowerShell. Se [Inställningar för användar medgivande](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) för mer information.
-1. En administratör kan även använda [Microsoft Graph API](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) för att ge medgivande till delegerade behörigheter för en enskild användares räkning. Mer information finns i [få åtkomst för en användare](https://docs.microsoft.com/graph/auth-v2-user).
-1. [Användar medgivande fel](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error): i den här artikeln diskuteras fel som kan uppstå när du samtycker till ett program. Om du felsöker oväntade frågor om medgivande som inte innehåller några fel meddelanden, se [autentiseringsmetoder för Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).
+1. Du kan konfigurera hur slutanvändarna samtycker till program via Azure Portal eller PowerShell. Mer information [finns i Inställningar](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) för användarmedgivande.
+1. En administratör kan också använda [Microsofts Graph API för](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) att bevilja medgivande till delegerade behörigheter för en enskild användares räkning. Mer information finns i [Få åtkomst för en användare.](https://docs.microsoft.com/graph/auth-v2-user)
+1. [Fel i användarens medgivande:](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)I den här artikeln beskrivs fel som kan uppstå under medgivandeprocessen för ett program. Om du felsöker uppmaningar om oväntade medgivanden som inte innehåller några felmeddelanden kan du gå till [Autentiseringsscenarier för Azure AD.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)

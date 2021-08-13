@@ -11,24 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0cbf3d1382bd4757a7a4d8e923138009f69f80f29f9f19905c88ea37ac1f0cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807533"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915461"
 ---
-# <a name="configure-supervision-policies"></a>Konfigurera övervaknings principer
+# <a name="configure-supervision-policies"></a>Konfigurera principer för övervakning
 
-Med övervaknings principer i Microsoft 365 kan du övervaka Exchange-e-post, Skype för företag – Online, Microsoft Teams och kommunikation från tredje part som skickas inom och utanför organisationen. De avsedda granskarna kan kontrol lera övervakade meddelanden för att säkerställa att de är kompatibla med organisationens principer, riskhantering och regler för efterlevnad och lösa dem med en klassificerings typ.
+Med hjälp av principer för Microsoft 365 kan du övervaka e Exchange-post, Skype för företag Online Microsoft Teams postmeddelanden och meddelanden från tredje part som skickas inom och utanför organisationen. Utsedda granskare kan granska övervakade meddelanden för att säkerställa att de är kompatibla med organisationens policyer, riskhantering och standarder för regelefterlevnad och lösa dem med en klassificeringstyp.
 
-Om du vill använda övervaknings principer i din organisation måste du:
+Om du vill använda principer för övervakning i din organisation måste du:
 
-- Fastställ vilka meddelanden som ska övervakas.
-- Bestäm vem som ska utföra kommunikationen.
-- Konfigurera övervaknings principer
+- Fastställa kommunikationen som ska övervakas.
+- Bestäm vem som ska utföra kommunikationsgranskningen.
+- Konfigurationspolicys
 
-Lära sig mer:
+Läs mer:
 
-- [Översikt över övervaknings principer](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
-- [Konfigurera övervaknings principer](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
+- [Översikt över övervakningsprinciper](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [Konfigurera principer för övervakning](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)

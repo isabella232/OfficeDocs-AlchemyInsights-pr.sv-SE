@@ -1,5 +1,5 @@
 ---
-title: Ansluta en SharePoint-webbplats till en grupp
+title: Anslut en SharePoint till en grupp
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 738d0f57b9b9dac5ed343037579a23d6d217f58b07da9730eb0bd08bc78c25e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817082"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915425"
 ---
-# <a name="connect-a-sharepoint-site-to-a-group"></a>Ansluta en SharePoint-webbplats till en grupp
+# <a name="connect-a-sharepoint-site-to-a-group"></a>Anslut en SharePoint till en grupp
 
-Använd guiden Gruppanslutning för att ansluta en SharePoint-webbplats till en Microsoft 365-grupp.
+Använd guiden Gruppanslutning för att ansluta en webbplats SharePoint till en Microsoft 365 Grupp.
 
-1. Från webbplatsen du vill ansluta till en grupp väljer du Inställningar **(kugghjulsikonen).**
-2. Välj  **Anslut till ny Microsoft 365-grupp**.
+1. Från den webbplats du vill ansluta till en grupp väljer du Inställningar **(kugghjulsikonen)**.
+2. Välj **Anslut till ny Microsoft 365 grupp**.
 3. Följ guiden för att slutföra anslutningen.
 
-**Obs!**  Om Ansluta till ny Microsoft 365-grupp inte är tillgängligt har webbplatsen inte stöd för en gruppanslutning.
+**Obs!**  Om Anslut till Microsoft 365 Grupp inte är tillgängligt har webbplatsen inte stöd för en gruppanslutning.
 
-Mer information finns i Ansluta [till en Office 365-grupp.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
+Mer information finns i Anslut [en Office 365 grupp](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
