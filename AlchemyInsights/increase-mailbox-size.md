@@ -13,20 +13,20 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 10e069f3fcd6338705a01ab9dd15574c81f88572
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6fd683253dbf6c34a3cea61df2dd3387d8642a409682019aa62ef3b619e84aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830231"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913156"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Byt prenumeration för att öka postlådans storlek
 
 Om postlådans storlek redan är 100 GB går det inte att utöka storleken.
   
-Om postlådans storlek är 50 GB kan du öka den till 100 GB genom att byta till [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) eller [Office 365 Enterprise E5.](https://products.office.com/business/office-365-enterprise-e5-business-software) Här är stegen för att byta till en annan prenumeration:
+Om postlådans storlek är 50 GB kan du öka den till 100 GB genom att byta [till Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) [Office 365 Enterprise E5.](https://products.office.com/business/office-365-enterprise-e5-business-software) Här är stegen för att byta till en annan prenumeration:
   
-1. I administrationscentret för Microsoft 365 går du till **sidan** \> **[Fakturering dina](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter.
+1. I Administrationscenter för Microsoft 365 du till sidan **Fakturering** \> **[dina](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter.
 
 2. Välj den prenumeration som du vill uppgradera.
 

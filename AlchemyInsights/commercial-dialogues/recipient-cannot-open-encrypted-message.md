@@ -1,5 +1,5 @@
 ---
-title: Åtgärda problem med att visa skyddat meddelande i Outlook
+title: Åtgärda problem med att visa skyddade meddelanden i Outlook
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 3ed8f26a7745ab11282f4f52ad7dc5c84885227b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750070"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967171"
 ---
 # <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Åtgärda problem med att visa skyddade meddelanden i Outlook
 
