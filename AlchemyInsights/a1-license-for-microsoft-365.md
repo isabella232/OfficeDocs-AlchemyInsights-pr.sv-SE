@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: 7cc451fce065754146d09073b218ecc79d49612b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 87f4b73432e242f21373696d2a06404fd76dc921c8c80e65c91e230cf0212ccc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51804102"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917765"
 ---
 # <a name="a1-license-for-office-365"></a>A1-licens för Office 365
 
-- Om ditt universitet redan har kvalificerat sig för Office 365 Education kan du lägga till **A1-abonnemanget** på ditt konto från [Köptjänster.](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription#buy-another-subscription)
+- Om ditt universitet redan är kvalificerad Office 365 Education, kan du lägga till **A1-abonnemanget** i ditt konto från [Köptjänster.](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription#buy-another-subscription)
 
-- Om ditt universitet ännu inte har konfigurerat Office 365 Education, men du vill [](https://www.microsoft.com/education/products/office) lägga till det kostnadsfritt, kan du komma igång genom att skicka din e-post.
+- Om ditt universitet ännu inte har Office 365 Education, men du vill lägga till det kostnadsfritt, kan du börja genom att ange din e-postadress. [](https://www.microsoft.com/education/products/office)
 
 - Om du vill byta från **ett annat** akademiskt abonnemang till A1-abonnemanget kan du gå till Byta till ett [annat abonnemang.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually)
 
@@ -31,4 +31,4 @@ ms.locfileid: "51804102"
 
 **Viktigt**! Du kan behöva vänta upp till 24 timmar innan ändringarna träder i kraft.
 
-Mer information finns i [Office 365 Education, Undervisning](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) och inlärning på distans och [Att göra övergången till distansutbildning.](https://www.microsoft.com/education/remote-learning)
+Mer information finns i [Office 365 Education, Undervisning och inlärning](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) på distans [och Övergången till distansutbildning.](https://www.microsoft.com/education/remote-learning)

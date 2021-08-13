@@ -1,5 +1,5 @@
 ---
-title: Program registrering
+title: Appregistrering
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "7780"
-ms.openlocfilehash: 75e7b57d279e508971f3a846c2ad3ede927e9c2f
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: d21f6ee8206c9bf0f02dbe147333b9d714aa43895812888e28d564e37f56dca1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901576"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969629"
 ---
-# <a name="application-registration"></a>Program registrering
+# <a name="application-registration"></a>Appregistrering
 
-1. [Registrera en app med Azure Active Directory](https://docs.microsoft.com/powerapps/developer/data-platform/walkthrough-register-app-azure-active-directory): i den här själv studie kursen beskrivs hur du registrerar ett program med Azure Active Directory, som gör att en användare med Power Apps användar konto kan ansluta till sin Microsoft Dataverse-miljö från externa klient program med OAuth-autentisering.
-1. [Registrera ett program med Microsofts identitets plattform](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app): i det här snabb starts programmet registrerar du en app i Azure-portalen så att Microsoft Identity Platform kan tillhandahålla autentiserings-och Authorization Services för ditt program och dess användare.
+1. [Registrera](https://docs.microsoft.com/powerapps/developer/data-platform/walkthrough-register-app-azure-active-directory)en app med Azure Active Directory : I den här självstudiekursen beskrivs hur du registrerar ett program med Azure Active Directory, vilket gör att en användare med Power Apps-användarkonto kan ansluta till Sin Microsoft-dataversummiljö från externa klientprogram med OAuth-autentisering.
+1. [Registrera ett program med Microsofts identitetsplattform:](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app)I den här snabbstarten registrerar du en app i Azure-portalen så att Microsofts identitetsplattform kan tillhandahålla autentiserings- och auktoriseringstjänster för ditt program och dess användare.
