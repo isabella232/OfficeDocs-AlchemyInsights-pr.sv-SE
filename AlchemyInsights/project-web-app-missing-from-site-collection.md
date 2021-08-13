@@ -1,5 +1,5 @@
 ---
-title: Project Web App saknas i SharePoint-webbplatssamling
+title: Project Web App saknas i SharePoint webbplatssamling
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1777"
 - "9000207"
-ms.openlocfilehash: 5b699130b7896c12b757f10356072281b49766ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82487c13bfc763387d3f433f31e4dc895d6ce3c04f6d8b6426e999a8b5f4b79f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801598"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973103"
 ---
-# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web App saknas i SharePoint-webbplatssamling
+# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web App saknas i webbplatssamlingen SharePoint webbplatssamlingen
 
-Project Web App saknas i SharePoint-webbplats samlingen av följande skäl:
+Project Web App webbplatssamlingen kanske saknas SharePoint webbplatssamlingen av följande anledningar:
 
-1. Organisationer har bara en licens för Project Online Essentials. Administratörer måste lägga till en licens för Project Online Professional och/eller Premium. Webbplatsen kommer inte att visas som skrivskyddad. Mer information finns i [jämföra lösningar för projekt hantering](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
-2. Klient organisationen har påbörjat ett etablerings problem där etableringen för Project Web App-webbplatsen har fördröjts. Om det inte finns mer än 24 timmar och du fortfarande har problem kan du logga in ett support ärende. Vi förstår att 24 timmar kan tyckas vara en längre tid. I många fall jobbar vi redan med en lösning. Ange minst 24 timmar för att slutföra en lösning.
+1. Organisationer har Project Online Essentials endast en licens. Administratörer måste lägga till en licens Project Online Professional och/eller Premium licens. Då är webbplatsen skrivskyddad. Mer information finns i [Jämför Project Management Solutions.](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
+2. Klientorganisationen har stött på ett etableringsproblem där Project Web App webbplatsetablering har försenats. Om det har gått mer än 24 timmar och du fortfarande upplever problemet kan du logga in ett support ärende. Vi förstår att ett dygn kanske känns som en lång tid. I många fall arbetar vi redan med en lösning. Ge oss minst 24 timmar för att slutföra en lösning.

@@ -1,5 +1,5 @@
 ---
-title: Skapa och använda en delad post låda
+title: Skapa och använda en delad postlåda
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,18 +12,18 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: e132171e6ee89fdfa011992000332ccbbbcde7b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4c03a4285ecc837c0fc7657bd6eb893586bf4aca0733ea306d6f6c783ff402d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712679"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914921"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a>Skapa och använda en delad post låda
+# <a name="create-and-use-a-shared-mailbox"></a>Skapa och använda en delad postlåda
 
-Med en delad post låda kan fler än en person skicka och ta emot e-post för ett alias som sales@contoso.com, utan att tilldela ytterligare en licens.
+Med en delad postlåda kan mer än en person skicka och ta emot e-post för ett alias, till exempel sales@contoso.com, utan att tilldela ytterligare en licens.
   
-- [Följ de här anvisningarna](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) i Microsoft 365 Admin Center för att komma igång. 
+- [Följ anvisningarna](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) i Administrationscenter för Microsoft 365 för att komma igång. 
 
-Du kan också läsa artikeln om att [skapa en delad post låda](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) som innehåller allt du behöver veta om delade post lådor, till exempel hur du använder dem.
+Du kan också läsa artikeln [Skapa](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) en delad postlåda där du får reda på allt du behöver veta om delade postlådor, inklusive hur du använder dem.
   

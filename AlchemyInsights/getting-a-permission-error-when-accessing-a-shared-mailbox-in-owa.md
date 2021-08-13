@@ -1,5 +1,5 @@
 ---
-title: 124 få ett behörighets fel när du försöker öppna en delad post låda i OWA?
+title: 124 Får du ett behörighetsfel när du öppnar en delad postlåda i OWA?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,14 +14,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: ed3e94ba400a2683c2e023a1832bbd16a1e24b65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5281445378814dc9a50760420ae05815fc90836f5e66a14c00993afbb1921d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706721"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913517"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Får du ett behörighets fel när du öppnar en delad post låda i Outlook på webben?
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Får du ett behörighetsfel när du öppnar en delad postlåda i Outlook på webben?
 
-Om du får fel meddelandet **något gick fel. Du har inte behörighet att öppna post lådan.** När du försöker öppna en delad post låda i Outlook på webben kanske ditt konto inte har behörighet att komma åt den delade post lådan. Din organisations administratör kan tilldela dina konto behörigheter till den delade post lådan genom att följa anvisningarna i avsnittet [skapa en delad post låda](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
+Om du får felmeddelandet **Något gick fel. Du har inte behörighet att öppna den här postlådan.** När du försöker öppna en delad postlåda i Outlook på webben kan det hända att ditt konto inte har behörighet att komma åt den delade postlådan. Din organisationsadministratör kan tilldela din kontobehörighet till den delade postlådan genom att följa anvisningarna i avsnittet [Skapa en delad postlåda.](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)
   

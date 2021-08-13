@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7304"
-ms.openlocfilehash: 8a8a13956237fe146340ff19024a626981138a43
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 17cd75fb3eacd35a5177affc0308c4864359b35ace3aebe317c0c126092b6bba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564980"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980987"
 ---
 # <a name="transfer-a-domain-to-microsoft"></a>Överföra en domän till Microsoft
 
-Det går inte att överföra en domän registrering och fakturering till Microsoft.
+Domänregistrering och fakturering kan inte överföras till Microsoft.
 
-Om du vill lägga till en domän som du redan äger följer du [guiden Lägg till domän](https://admin.microsoft.com/Adminportal/Domains/Wizard)eller går till **Inställningar**  >  **domäner**  >  **Add Domain**.
+Om du vill lägga till en domän som du redan äger följer du [guiden Lägg](https://admin.microsoft.com/Adminportal/Domains/Wizard)till domän eller går till sidan **Inställningar**  >  **Domains**  >  **Add domain**.
 
-Mer information om DNS-ändringar som krävs för att verifiera din domän finns i [lägga till DNS-poster för att ansluta din domän](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Mer information om DNS-ändringar som krävs för att verifiera din domän finns i Lägga [till DNS-poster för att ansluta din domän.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
-Frågor om domäner finns i [vanliga frågor och svar om domäner](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Om du har frågor om domäner går du till [Vanliga frågor och svar om domäner.](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)

@@ -1,5 +1,5 @@
 ---
-title: Åtkomst nekad till en Project Web App-webbplats
+title: Åtkomst nekades till en Project Web App webbplats
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: a5809e4afd3ea316bf97796899fcf2347e804ecd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e242b42e76f234eb3287001e7ed3800f08b114f09aa93362eea215109ea7bac5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663675"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955363"
 ---
 # <a name="give-users-permissions-in-project-online"></a>Ge användare behörigheter i Project Online
 
-Ge användare åtkomst till en Project Web App-webbplats med SharePoint-behörighets läget:
+Ge användare åtkomst till en Project Web App-webbplats SharePoint i behörighetsläge:
 
 1. Logga in på Project Online som administratör.
-2. På Start sidan för Project Web App väljer du **dela** i det övre högra hörnet.
-3. I dialog rutan **dela Project Web App** skriver du in användar namnet på den person som du vill ge åtkomst till i rutan **Bjud in personer** .
-4. Välj **Visa alternativ**och välj **projektledarna för Project Web App**i menyn **Välj en behörighets nivå** .
-5. Välj **dela**.
+2. På Project Web App väljer du **Dela** i det övre högra hörnet.
+3. I **dialogrutan Project Web App** du namnet på den person som du vill ge åtkomst till i rutan **Bjud** in personer.
+4. Välj **Visa alternativ** och välj sedan **Hanterare för Project** i menyn Välj en **behörighetsnivå Project Web App**.
+5. Välj **Dela.**
 
-Om du använder läget Project-behörighet eller för mer information, se [lägga till personer i Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+Om du använder Project eller om du vill ha mer information kan du läsa Lägga [till personer i Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
