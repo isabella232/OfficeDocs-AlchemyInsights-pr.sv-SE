@@ -1,5 +1,5 @@
 ---
-title: Kommentarer om List objekt
+title: Kommentarer för listobjekt
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
-ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
+ms.openlocfilehash: d72e3de6da9f51ebd5dd8a4eb06e94d7bc5cca81f86bd61902a9587b00f7b7b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49724172"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995525"
 ---
-# <a name="comments-on-list-items"></a>Kommentarer om List objekt
+# <a name="comments-on-list-items"></a>Kommentarer för listobjekt
 
-Användare kan visa alla kommentarer på ett List objekt och filtrera mellan vyer som visar kommentarer eller aktiviteter relaterade till ett objekt.
+Användarna kan visa alla kommentarer för ett listobjekt och filtrera mellan vyer som visar kommentarer eller aktiviteter relaterade till ett objekt.
 
-Användare måste anteckna följande innan de kan lägga till och ta bort kommentarer:
+Användarna måste notera följande innan de kan lägga till och ta bort kommentarer:
 
-- Kommentarer följer de behörighets inställningar som finns i SharePoint.
-- Klassiska listor som ännu inte har byggts för att visas i moderna användar gränssnitt, som aktivitets listor, har inte den här kommentars funktionen.
-- Det går inte att kommentera listor i Teams med den här versionen.
-- Kommentarer indexeras inte efter sökning.
+- Kommentarer följer de behörighetsinställningar som är SharePoint.
+- Klassiska listor som ännu inte är byggda för att visas i moderna användargränssnitt, till exempel uppgiftslistor, har inte den här kommentarsfunktionen.
+- Kommentarer för listor i Teams inte tillgänglig i den här versionen.
+- Kommentarer indexeras inte av Sök.
 
-Administratörer kan inaktivera den här funktionen på organisations nivå genom att ändra parametern **CommentsOnListItemsDisabled** i PowerShell-cmdleten **Set-SPOTenant** .
+Administratörer kan inaktivera den här funktionen på organisationsnivå genom att ändra parametern **CommentsOnListItemsDisabled** i **PowerShell-cmdleten Set-SPOTenant.**
 
-Det går för närvarande inte att inaktivera kommentarer på webbplats-eller listnivå. Vi hoppas att få dessa kontroller i en senare uppdatering, troligen i det första kvartalet 2021.
+Det går för närvarande inte att inaktivera kommentarer på webbplats- eller listnivå. Vi hoppas att de kontrollerna finns i en senare uppdatering, förmodligen under det första kvartalet 2021.

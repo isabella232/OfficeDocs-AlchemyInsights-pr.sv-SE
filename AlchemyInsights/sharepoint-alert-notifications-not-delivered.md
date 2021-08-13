@@ -1,5 +1,5 @@
 ---
-title: SharePoint-aviseringar skickas inte
+title: SharePoint aviseringsmeddelanden som inte levereras
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,31 +14,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f4002dc865fb7a03b07a9256709b947d6d774cb0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05bd913098372a57d3061e8c516a6a6b4f0a9bdafde02acc930062d6281d06dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751261"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957919"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint-aviseringar skickas inte
+# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint aviseringsmeddelanden som inte levereras
 
-Kontrol lera mappen skräp post i e-postmeddelandet, så snart meddelanden kan komma dit.
+Titta i skräppostmappen eftersom ibland kan aviseringar finnas där.
 
-Avgöra om **alla aviseringar inte levereras** eller om **en enskild avisering** från en viss fil eller ett visst bibliotek inte levereras.
+Avgöra om **alla aviseringar inte levereras eller** om en enskild **avisering** från en viss fil eller ett visst bibliotek inte levereras.
 
-- **Enskilda meddelanden levereras inte**: om en enskild avisering från en viss fil eller ett visst bibliotek inte levereras kan du försöka ta bort och återskapa den. Se [Hantera, Visa eller ta bort SharePoint-aviseringar](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) för att återskapa aviseringen.
-- **Alla notifieringar levereras inte**: om alla aviseringar från flera filer eller bibliotek inte levereras kan du gå till [instrument panelen för tjänstens hälsa](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) för att söka efter eventuella rådgivare/händelser som kan komma att inträffa med SharePoint eller Exchange. Problemet kan uppstå med aviserings kapaciteten för SharePoint eller fördröjningar i e-postmeddelanden via Exchange. Det är också viktigt att notera om andra e-postmeddelanden levereras och om så inte är fallet beror problemet sannolikt på Exchange-fördröjningar.
+- **Enskilda aviseringar levereras inte:** Om en enskild avisering från en viss fil eller ett visst bibliotek inte levereras kan du försöka ta bort och återskapa den. Mer [information finns i Hantera, visa SharePoint ta bort en avisering](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) om du vill återskapa aviseringen.
+- **Alla aviseringar** levereras inte: Om alla aviseringar från flera [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) filer eller bibliotek inte levereras kan du gå till hälsoinstrumentpanelen för att se om det finns rådgivningar/incidenter som SharePoint eller Exchange. Problemet kan vara med funktionen för SharePoint eller fördröjningar av e-postmeddelanden via Exchange. Det är också viktigt att observera om annan e-post levereras och om den inte levereras är problemet sannolikt Exchange fördröjningar.
 
-Vanliga frågor och svar:
+Vanliga frågor och svar om aviseringar:
 
-- Det går inte att skicka meddelanden till distributions gruppen, endast säkerhets-och O365-grupper stöds.
-- Du kan inte anpassa e-postmallar för aviseringar; Du måste använda Microsoft FLOW eller SharePoint Designer-arbetsflöde för att få dem.
+- Det går inte att skicka aviseringar till distributionsgruppen, det är bara säkerhets- och O365-grupper som stöds.
+- Du kan inte anpassa aviseringsmallar för e-post. måste du använda Microsoft FLOW eller SharePoint Designer-arbetsflödet för att uppnå dem.
 
 ## <a name="related-topics"></a>Relaterade ämnen
 
 Vill du prova Microsoft Flow i SharePoint Online?
 
-- [Skapa flöde](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [Skapa Flow](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint och flöde](https://flow.microsoft.com//blog/sharepoint-and-flow/)
+- [SharePoint och Flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)

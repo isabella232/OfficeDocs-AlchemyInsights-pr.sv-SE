@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 03821a5a0b4ee283c0f0fa8a1bb81e88941ed0aa
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2495ded9e8ddc6528aca99e548c37a3bc209ac5916ba5326b15c8ff4fab46ded
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483525"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995459"
 ---
 # <a name="azure-active-directory-security-and-identity"></a>Azure Active Directory (säkerhet och identitet)
 
 Välj någon av följande installationsguider:
 
-- **Azure Active Directory** [](https://go.microsoft.com/fwlink/?linkid=2071310) Connect-synkroniseringsanvändare till din katalog Konfigurera synkronisering av lösenordshashar eller direktautentisering, så att användarna kan logga in på sin e-post och till din lokala Active Directory (domänkontrollant) med samma lösenord. Du kan också konfigurera federationsde logga in med AD FS (Active Directory Federation Services).
+- **Azure Active Directory Anslut** [](https://go.microsoft.com/fwlink/?linkid=2071310) Synkronisera användare till din katalog Konfigurera synkronisering av lösenordshashar eller direktautentisering, så att användarna kan logga in på sin e-post och din lokala Active Directory (domänkontrollant) med samma lösenord. Du kan också konfigurera federations inloggning med AD FS (Active Directory Federation Services).
 
-- **Konfigurera Azure-funktioner** i konfigurationsguiden för [Azure AD](https://go.microsoft.com/fwlink/?linkid=2134390) Konfigurera avancerade funktioner som är tillgängliga i Azure Active Directory Premium, till exempel multifaktorautentisering, enhetsregistrering och säkerhetsövervakning.
+- **Konfigurera Azure-funktioner Konfigurationsguiden** för [Azure AD](https://go.microsoft.com/fwlink/?linkid=2134390) Konfigurera avancerade funktioner som är tillgängliga i Azure Active Directory Premium, t.ex. multifaktorautentisering, enhetsregistrering och säkerhetsövervakning.

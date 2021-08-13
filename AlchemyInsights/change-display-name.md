@@ -1,5 +1,5 @@
 ---
-title: 959 ändra visnings namn
+title: 959 Ändra visningsnamn
 ms.author: pdigia
 author: pebaum
 ms.date: 04/21/2020
@@ -12,25 +12,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: dea443384edf60028d3e4b25ed48388e335c0e0f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7657935ca752744b6a53fbbff1e69b8642239a074376722cbb0b1fa4036650c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756913"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979439"
 ---
-# <a name="change-your-display-name"></a>Ändra ditt visnings namn
+# <a name="change-your-display-name"></a>Ändra visningsnamn
   
-Gör så här om du vill ändra ditt visnings namn i Outlook:
+Gör så här om du Outlook ändra visningsnamnet i Outlook visningsnamn.
   
-1. I Outlook väljer du **File** \> konto inställningar för fil **konto inställningar** \> **Account Settings**.
+1. I Outlook väljer du **Arkiv konto** \> **Inställningar** Konto \> **Inställningar**.
 
-2. Välj e-postkontot och välj sedan **ändra**.
+2. Markera e-postkontot och välj sedan **Ändra**.
 
     > [!NOTE]
-    > Om du inte ser alternativet att ändra ditt visnings namn använder du antagligen ett Microsoft Exchange-e-postkonto. I det här fallet måste du kontakta administratören för att ändra ditt visnings namn. Se [ändra ett användar namn och en e-postadress](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
+    > Om du inte ser alternativet för att ändra ditt visningsnamn använder du förmodligen ett Microsoft-konto Exchange postkonto. I så fall måste du kontakta administratören för att ändra visningsnamnet. Se [Ändra ett användarnamn och en e-postadress.](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
-3. När du har ändrat ditt visnings namn sparar du ändringarna genom att klicka på **OK** . Det kan ta några timmar innan ändringarna förspeglas i organisationen.
+3. När du har ändrat visningsnamnet klickar du på **OK för** att spara ändringarna. Det kan ta några timmar innan ändringarna har återspeglat i hela organisationen.
 
-Mer information finns i [ändra visnings namnet som e-postmottagare ser](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
+Mer information finns i Ändra [visningsnamnet som e-postmottagarna ser.](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx)
   

@@ -1,5 +1,5 @@
 ---
-title: 607 fel sökaren för ledig/upptagen
+title: Felsökaren för ledig/upptagen i 607
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,15 +13,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 69a89f4a18008024bae1d24d23933276c57f189f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82ffc520211180da8118fd357f12b3559ec7eb43cc0329ad4f7e58f42bd8c3eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708053"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987701"
 ---
-# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Fel söknings steg för kalender tillgänglighet (ledig/upptagen)
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Felsökningssteg för tillgänglighet i kalendern (ledig/upptagen)
 
-Vanligt vis är det bästa verktyget för fel sökning av ledig/upptagen-problem är att [Exchange Remote Connectivity Analyzer (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) fungerar. Med RCA får du detaljerad information om vad som har fungerat och vad som misslyckades med specifika fel meddelanden som du kan söka efter för att hitta lösningar. Det finns även en länk till [Microsoft-assistenten för support och återställning](https://diagnostics.office.com/).
+Det bästa verktyget för felsökning av problem med ledig/upptagen [är Exchange (RCA) (Remote Connectivity Analyzer)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) för att se var det fungerar. RCA ger dig en detaljerad post över vad som fungerade och vad som misslyckades med specifika felmeddelanden som du kan leta efter lösningar på. Den har också en länk till [Microsoft-Support- och återställningsassistenten](https://diagnostics.office.com/).
 
-Ett annat bra verktyg är att använda [kalender kontroll verktyget för Outlook](https://www.microsoft.com/download/details.aspx?id=28786) om användaren har Outlook.
+Ett annat bra verktyg att prova är [verktyget Kalenderkontroll för att Outlook](https://www.microsoft.com/download/details.aspx?id=28786) om användaren har Outlook.
