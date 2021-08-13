@@ -1,5 +1,5 @@
 ---
-title: Outlook.com saknas
+title: Outlook.com Mappar som saknas
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,19 +16,19 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: 5ebabab51cceb9750ebc592218074c9c6604d7ca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ede5d5a7dede4356e20af57740440ce8773d27ddc97de699466ad05c1c7a4bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777587"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984083"
 ---
-# <a name="find-missing-folders"></a>Hitta saknade mappar
+# <a name="find-missing-folders"></a>Söka efter mappar som saknas
 
-Vissa användare kanske inte kan se det vänstra mappfönstret när de visas på en liten skärm.
+Vissa användare kanske inte kan se det vänstra mappfönstret när de tittar på en liten skärm.
 
-- Om du inte kan se mappfönstret kan du maximera webbläsarfönstret eller bläddra till vänster för att visa mapplistan.
-- Expandera mappfönstret bara när du behöver det. Välj den tre rad ikonen i det vänstra sid fältet för att visa eller dölja mappar.
-- Öppna [layoutinställningarna](https://outlook.live.com/mail/options/mail/layout) och välj **Dölj Läs fönstret** och sedan **Spara**. Detta ger skärmen mer utrymme för visning av mappar.
+- Om du inte kan se mappfönstret maximerar du webbläsarfönstret eller bläddrar åt vänster för att visa mapplistan.
+- Expandera bara mappfönstret när du behöver det. Välj ikonen med tre linjer i det vänstra sidofältet för att visa eller dölja mappar.
+- Öppna [layoutinställningarna,](https://outlook.live.com/mail/options/mail/layout) välj **Dölj läsfönster** och sedan **Spara**. På så sätt får skärmen mer utrymme att visa mappar.
 
-Om du av misstag tar bort en mapp kan du återställa den om den fortfarande finns kvar i mappen Borttaget. Mer information finns [i återställa borttagna e-postmeddelanden i Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).
+Om du tar bort en mapp av misstag kan du återställa den om den fortfarande finns kvar i mappen Borttaget. Mer information finns i [Återställa borttagna e-postmeddelanden på Outlook.com.](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)

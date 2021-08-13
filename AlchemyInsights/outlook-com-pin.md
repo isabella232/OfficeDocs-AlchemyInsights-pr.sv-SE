@@ -1,5 +1,5 @@
 ---
-title: 9000233 Outlook.com-PIN
+title: 9000233 OUTLOOK.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1817"
 - "9000233"
-ms.openlocfilehash: 85d65dc2071f7a0e50fb096ae881b2e344410435
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 430d4782ed17fe880f326e5ff6f4c96d51e1edf590ff75efd5ce59fe4ee1c379
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798214"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983867"
 ---
-# <a name="change-your-pin"></a>Ändra din PIN-kod
+# <a name="change-your-pin"></a>Ändra PIN-koden
 
-Outlook.com använder inte en PIN-kod, men du kan logga in på datorn med en PIN-kod eller Windows Hello. Så här ändrar du din PIN-kod i Windows 10:
+Outlook.com använder inte en PIN-kod, men du kan logga in på datorn med en PIN-kod eller en Windows Hello. Så här ändrar du PIN-koden Windows 10:
 
-1. Välj Start-knappen eller tryck på Windows-tangenten på tangent bordet och välj sedan **Inställningar**för  >  **Accounts**  >  **inloggnings alternativ**.
-2. Välj knappen **ändra** under **PIN-kod**.
-3. Ange din PIN-kod och ange och bekräfta sedan din nya PIN-kod.
+1. Välj Start-knappen eller tryck Windows på tangentbordet och välj **Inställningar**  >    >  **inloggningsalternativ för Konton.**
+2. Välj knappen **Ändra** under **PIN-kod.**
+3. Ange din nuvarande PIN-kod och ange och bekräfta sedan den nya PIN-koden under denna.
 
 [Läs mer om Windows Hello.](https://support.microsoft.com/help/17215/)

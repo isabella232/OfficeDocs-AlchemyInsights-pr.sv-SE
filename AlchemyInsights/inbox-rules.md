@@ -1,5 +1,5 @@
 ---
-title: 922 Inkorgshanteraren
+title: 922 Inkorgsregler
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,19 +13,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: be3200b8da759be9e688030d1134784c9216a0cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00bbde6dc85f9abcb6916718966928f723df7dd12a4b0609aa454ac3c9bdb3e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778565"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926381"
 ---
-# <a name="inbox-rules-in-outlook-desktop"></a>Regler för Inkorgen i Skriv bords versionen av Outlook
+# <a name="inbox-rules-in-outlook-desktop"></a>Regler för Inkorgen Outlook skrivbordet
 
-1. Gå till **fil > hantera regler & aviseringar** för att öppna dialog rutan **regler och aviseringar** .
-2. Klicka på **ny regel**på fliken **e-postregler** .
-3. Välj en av mallarna från **steg 1**. Om du vill börja med en tom regel väljer du **tillämpa regel på meddelanden som jag tar emot eller tillämpa regel på meddelanden som jag skickar**.
-4. I **steg 2: redigera regel beskrivningen**klickar du på ett understruket alternativ för att ställa in dem. Om du till exempel markerade **Flagga meddelanden från någon för uppföljning** i steg 1 klickar du på **personer eller offentlig grupp** för att välja vilka avsändare som du vill flagga. Klicka sedan på **Följ upp den här gången** för att välja en flagga och ett uppföljnings datum.
-5. Klicka på **Nästa**.
+1. Gå till **Arkiv > Hantera regler & aviseringar** för att öppna dialogrutan Regler **och** aviseringar.
+2. Klicka på **Ny regel** på **fliken E-postregler.**
+3. Välj någon av mallarna från **steg 1.** Om du vill börja med en tom regel väljer du Tillämpa regel på meddelanden som jag tar emot **eller Tillämpa regel på meddelanden som jag skickar.**
+4. I rutan **Steg 2: Redigera regelbeskrivningen klickar du på** understrukna alternativ för att ange dem. Om du till  exempel valde Flagga meddelanden från någon för  uppföljning i steg 1 klickar du på personer eller offentlig grupp för att välja vilka avsändare meddelanden du vill flagga. klicka **sedan på Följ upp just nu** för att välja en flagga och ett uppföljningsdatum.
+5. Klicka **Nästa**.
 
-Mer information om hur du arbetar med regler för Inkorgen finns i [Hantera e-postmeddelanden med hjälp av regler](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).
+Mer information om hur du arbetar med inkorgsregler finns i [Hantera e-postmeddelanden med hjälp av regler.](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59)

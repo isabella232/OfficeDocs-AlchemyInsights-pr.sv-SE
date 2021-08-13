@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: e56a4d4ae22c51d9e80892bcc0b5478a879cebab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba562c2a31fd39c86debc36c7520f1c3d27ac0c370894929b566147d965f3ad7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732445"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965407"
 ---
-# <a name="create-or-edit-an-outlook-profile"></a>Skapa eller redigera en Outlook-profil
+# <a name="create-or-edit-an-outlook-profile"></a>Skapa eller redigera en Outlook profil
 
-Gör så här om du vill skapa en ny Outlook-profil, redigera en profil eller byta namn på en profil.
+Så här skapar du Outlook profil, redigerar en profil eller byter namn på en profil.
   
-1. I Outlook väljer du inställningar för **fil** \> **konto** \> **Hantera profiler**.
+1. I Outlook väljer  du \> **Arkivkonto Inställningar** \> **Hantera profiler**.
     
-2. I dialog rutan **Konfigurera e-post** väljer du **Visa profiler**.
+2. Välj Visa **profiler i** dialogrutan Konfigurera **e-post.**
     
 3. Gör något av följande:
     
-  - Välj **Lägg till**om du vill skapa en ny profil.
+  - Om du vill skapa en ny profil väljer du **Lägg till**.
     
   - Om du vill redigera eller byta namn på en profil väljer du **Egenskaper**.
     
-Om du har problem med att skapa eller redigera en Outlook-profil kan du köra [Outlook-profil verktyget](https://aka.ms/SaRA-OutlookSetupProfile) på den påverkade datorn. Då utförs vissa kontroller och när du är redo skapas en Outlook-profil med e-postadressen. 
+Om du har problem med att skapa eller redigera Outlook profil kan du köra [Outlook profilverktyget på](https://aka.ms/SaRA-OutlookSetupProfile) den aktuella datorn. Det utförs några kontroller och när du är klar skapas en ny Outlook med din e-postadress. 
   
 

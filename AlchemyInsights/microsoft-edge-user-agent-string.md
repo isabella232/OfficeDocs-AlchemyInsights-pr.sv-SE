@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge användar agent sträng (skriv bord)
+title: Microsoft Edge användaragentsträng (skrivbord)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003862"
 - "6914"
-ms.openlocfilehash: b4106dde1e09e0ce07b4b9adc2b2984cc5609c3b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 9311f17298fff3fee3282fe05bd1ddcd02780a80097e86b29d56ffd575a9a571
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679332"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976019"
 ---
-# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge användar agent sträng (skriv bord)
+# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge användaragentsträng (skrivbord)
 
-Användar Agent-strängar kan användas för att identifiera vilken version av en viss webbläsare som används på ett visst operativ system. Precis som andra webbläsare innehåller Microsoft Edge den här informationen i "användar agent" HTTP-rubriken när den gör en begäran till en webbplats. Webbläsare-versions informationen kan även nås via Java Script genom att fråga värdet på "Navigator. userAgent".
+UA-strängar (User Agent) kan användas för att identifiera vilken version av en viss webbläsare som används i ett visst operativsystem. Liksom i andra webbläsare Microsoft Edge den här informationen i HTTP-rubriken "användaragent" när en webbplats begärs. Du kan också komma åt informationen om webbläsarversionen via JavaScript genom att fråga värdet för "navigator.userAgent".
 
-Vi rekommenderar webutvecklare att använda funktions identifiering när det är möjligt för att förbättra kod underhåll, minska koden fragility och eliminera risken för kod brott i händelse av framtida uppdateringar av UA-strängar.
+Vi rekommenderar att webbutvecklare använder funktionen för identifiering av funktioner när det är möjligt för att förbättra kod underhållas, minska kod väldolighet och eliminera risken för kodbrytning i händelse av framtida UA-stränguppdateringar.
 
-Mer information finns i [Microsoft Edge user agent string (skriv bord)](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string).
+Mer information finns i [Microsoft Edge Användaragentsträng (skrivbord)](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string).

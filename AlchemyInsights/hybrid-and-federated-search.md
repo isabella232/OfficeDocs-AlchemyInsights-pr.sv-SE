@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 6f6e19baf0701c1feafa218773af7f0dcce5eaaa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 283d85678d8dae8e2d26a7a3ca74ae309c5313df89c163b26efa0e2c4b3393ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51795894"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926551"
 ---
 # <a name="hybrid-and-federated-searches"></a>Hybridsökningar och federerade sökningar 
 
-Mer information om hybridsökning och federerad sökning i SharePoint Online finns [i Hybridsökning i SharePoint.](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)
+Mer information om hybridsökning och federerad sökning i SharePoint Online finns [i Hybridsökning i SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
 
-Information om hur du planerar federerad hybridsökning finns i [Planera federerad hybridsökning för SharePoint Server.](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)
+Information om hur du planerar federerad hybridsökning finns i [Planera federerad sökning](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)av SharePoint Server.
