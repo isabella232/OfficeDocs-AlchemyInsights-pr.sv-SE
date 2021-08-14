@@ -1,5 +1,5 @@
 ---
-title: Program fel
+title: Programfel
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,62 +13,62 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7841"
-ms.openlocfilehash: 2ef90b54ce222a06740e05891fabe87b6565cb14
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: ce4c89da79112726ed4fb25527edc8d082bd37f239595b9eab7279abeeecfd7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49984657"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931467"
 ---
-# <a name="application-errors"></a>Program fel
+# <a name="application-errors"></a>Programfel
 
-Letar du efter information om **AADSTS-felkoderna** som returneras från Azure Active Directory (Azure AD) säkerhetstokentjänst? Läs [Azure AD-autentiserings-och auktoriseringsfel](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) för att hitta AADSTS fel beskrivningar, korrigeringar och vissa föreslagna lösningar.
+Letar du efter information om **de AADSTS-felkoder** som returneras från STS-tjänsten för Azure Active Directory-säkerhetstoken (Azure AD) ? Läs [Azure AD-autentisering och auktoriseringsfelkoder](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) för att hitta AADSTS felbeskrivningar, korrigeringar och några förslag på lösningar.
 
-Auktoriseringsfel kan uppstå på grund av flera olika problem, som de flesta skapar ett 401-eller 403-fel. Följande kan till exempel ge upphov till auktoriseringsfel:
+Auktoriseringsfel kan vara ett resultat av flera olika problem, varav de flesta genererar ett 401- eller 403-fel. Följande kan till exempel leda till auktoriseringsfel:
 
-- Felaktiga [inköps flöden](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) för åtkomsttoken 
-- Dåligt konfigurerade [behörighets omfattningar](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes) 
-- [Godkännande](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent) saknas
+- Felaktiga [förvärvsflöden av åtkomsttoken](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) 
+- Dåligt konfigurerade [behörighetsomfattningar](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes) 
+- Brist på [medgivande](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)
 
-Om du vill lösa vanliga auktoriseringsfel kan du försöka med de steg som visas nedan så att det stämmer överens med det fel du får. Fler än en kan tillkomma.
+För att lösa vanliga auktoriseringsfel provar du de steg nedan som bäst matchar det fel du får. Fler än en kan användas.
 
-**401 ej behörigt fel: är din token giltig?**
+**401 Ej behörig: Är din token giltig?**
 
-Kontrol lera att din ansökan visar en giltig åtkomsttoken för Microsoft Graph som en del av begäran. Det här felet innebär ofta att åtkomsttoken kan saknas i huvudet HTTP unheading Request eller att token är ogiltig eller har upphört att gälla. Vi rekommenderar starkt att du använder [Microsoft-autentiseringsschemat (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/msal-overview) för hämtning av Access-token. Dessutom kan det här fel meddelandet visas om du försöker använda en delegerad åtkomsttoken som har tilldelats ett personligt Microsoft-konto för att få åtkomst till ett API som bara stöder arbets-eller skol konton (organisations konton).
+Kontrollera att programmet presenterar en giltig åtkomsttoken till Microsoft Graph som en del av begäran. Det här felet innebär ofta att åtkomsttoken kanske saknas i rubriken för HTTP-autentiseringsbegäran eller att token är ogiltig eller har upphört att gälla. Vi rekommenderar att du använder [Microsoft Authentication Library (MSAL) för hämtning](https://docs.microsoft.com/azure/active-directory/develop/msal-overview) av åtkomsttoken. Det här felet kan också inträffa om du försöker använda en delegerad åtkomsttoken som tilldelas ett personligt Microsoft-konto för att få åtkomst till ett API som bara har stöd för arbets- eller skolkonton (organisationskonton).
 
-**403 otillåtet fel: har du valt rätt uppsättning behörigheter?**
+**403 Förbjudit fel: Har du valt rätt behörighetsuppsättning?**
 
-Kontrol lera att du har begärt rätt uppsättning behörigheter baserat på API-anropen för Microsoft Graph. Rekommenderade minst privilegierade behörigheter tillhandahålls i alla ämnen för Microsoft Graph API Reference. Dessa behörigheter måste dessutom beviljas av en användare eller administratör. Beviljande av behörigheter sker normalt via en medgivande sida eller genom att bevilja behörigheter med hjälp av ett program registrerings blad för Azure Portal. I **inställnings** bladet för programmet klickar du på **nödvändiga behörigheter** och sedan på **tilldela behörigheter**.
+Kontrollera att du har begärt rätt uppsättning behörigheter baserat på Microsofts Graph-API:er dina appsamtal. Rekommenderade behörigheter med minst behörighet anges i alla avsnitt om Microsoft-Graph API-referens. Dessutom måste de behörigheterna beviljas till programmet av en användare eller administratör. Att bevilja behörigheter sker vanligtvis via en medgivandesida eller genom att bevilja behörigheter med hjälp av registreringsbladet för Azure Portal-appen. I **Inställnings-** bladet för programmet klickar du på **Obligatoriska behörigheter** och klickar sedan på **Bevilja behörigheter**.
 
 - [Microsoft Graph-behörigheter](https://docs.microsoft.com/graph/permissions-reference) 
 - [Förstå Azure AD-behörigheter och medgivande](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
 
-**403 förbud: har appen skaffat ett token för att matcha de valda behörigheterna?**
+**403 Förbjudit fel: Har appen skaffat en token som matchar valda behörigheter?**
 
-Se till att den behörighets typ som begärs eller ges matchar den typ av åtkomsttoken som appen erhåller. Du kanske begär och beviljar program behörigheter men använder delegerade interaktiva kodnings flöde för klienter i stället för flöden för klient referenser, eller begära och bevilja delegerade behörigheter, men som använder flöden för klient referenser i stället för delegerade kodningar för kod flöden.
+Kontrollera att den typ av behörighet som begärs eller beviljats matchar den typ av åtkomsttoken som appen hämtar. Du kan begära och bevilja programbehörigheter men använda delegerade interaktiva kodflödestoken i stället för flödestoken för klientbehörigheter, eller begära och bevilja delegerade behörigheter men använda flödestoken för klientbehörigheter i stället för delegerade kodflödestoken.
 
-- [Åtkomst för användares och delegerade behörigheter](https://docs.microsoft.com/graph/auth_v2_user) 
-- [Azure AD v 2.0-flödet för OAuth 2,0-Authorization](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
-- [Få åtkomst utan en användare (daemon-tjänst) och program behörigheter](https://docs.microsoft.com/graph/auth_v2_service) 
-- [Azure AD v 2.0 – flödet för OAuth 2,0-klienten](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) 
+- [Få åtkomst för användare och delegerade behörigheter](https://docs.microsoft.com/graph/auth_v2_user) 
+- [Azure AD v2.0 – OAuth 2.0 flödet för auktoriseringskod](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
+- [Få åtkomst utan användare (daemon-tjänst) och programbehörigheter](https://docs.microsoft.com/graph/auth_v2_service) 
+- [Azure AD v2.0 – OAuth 2.0 flödet för klientautentiseringsuppgifter](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) 
 
-**403 otillåtet fel: återställer lösen ordet**
+**403 Förbjudit fel: Återställa lösenord**
 
-För närvarande finns det inga behörigheter för behörighets daemon för program som gör att du kan återställa lösen ord. Dessa API: er stöds bara med den interaktiva delegerade kod som flödar med en inloggad administratör.
+Det finns för närvarande inga programbehörigheter för daemon-tjänst till tjänst som tillåter återställning av användarlösenord. De här API:erna stöds endast med hjälp av interaktiva delegerade kodflöden med en inloggad administratör.
 
 - [Microsoft Graph-behörigheter](https://docs.microsoft.com/graph/permissions-reference)
 
-**403 förbud: har användaren åtkomst och är de licensierade?**
+**403 Förbjudit: Har användaren åtkomst och är de licensierade?**
 
-För delegerade kod flöden utvärderar Microsoft Graph om begäran är tillåten baserat på de behörigheter som har tilldelats programmet och de behörigheter som den inloggade användaren har. Vanligt vis anger det här felet att användaren inte är tillräckligt hemlig för att utföra begäran eller att användaren inte är licensierad för de data som nås. Endast användare med nödvändig behörighet eller licenser kan göra så att begäran lyckas.
+För delegerade kodflöden utvärderar Microsoft Graph om begäran tillåts utifrån de behörigheter som tilldelats appen och de behörigheter som den inloggade användaren har. I allmänhet innebär det här felet att användaren inte är privilegierad nog att utföra begäran eller användaren inte är licensierade för data som används. Endast användare med den behörighet eller licenser som krävs kan göra begäran framgångsrikt.
 
-**403 förbud: valde du rätt resurs-API?**
+**403 Förbjudit: Har du valt rätt resurs-API?**
 
-API-tjänster som Microsoft Graph kontrol lera att AUD-anspråk (mål gruppen) i den mottagna åtkomst-token matchar det värde som förväntas för sig själv, och om det inte så resulterar det i ett 403-otillåtet fel. Ett vanligt misstag som resulterade i att det här felet används för att använda en token som skaffats för Azure AD Graph API: er, Outlook API: er eller SharePoint/OneDrive API för samtal till Microsoft Graph (eller vice versa). Kontrol lera att resursen (eller omfattningen) som din app hämtar ett token för matchar det API som programmet ringer upp.
+API-tjänster som Microsoft Graph kontrollerar att aud-anspråket (målgruppen) i tokenen för mottagen åtkomst matchar det värde som förväntas för sig själv, och om inte resulterar det i felet 403 Åtkomst nekas. Ett vanligt misstag som resulterar i detta fel är att man försöker använda en token som förvärvats för Azure AD Graph API:er, Outlook API:er eller SharePoint/OneDrive-API:er för att anropa Microsoft Graph (eller tvärtom). Kontrollera att resursen (eller omfattningen) som din app förvärvar en token för matchar API:t som appen anropar.
 
-**400 Felaktig begäran eller 403 förbud: ser användaren att uppfylla organisationens principer för villkorsstyrd åtkomst (CA)?**
+**400 Felaktig begäran eller 403 Förbjudit: Följer användaren organisationens principer för villkorsstyrd åtkomst?**
 
-Utifrån en organisations CERTIFIKATUTFÄRDARCERTIFIKAT kan en användare som har till gång till Microsoft Graph-resurser via ditt program anropas för ytterligare information som inte finns i Access-säkerhetstoken som appen ursprungligen skaffade. I det här fallet får din app ett 400 med *interaction_required* fel under hämtning av en åtkomsttoken eller 403 med *insufficient_claims* fel när du anropar Microsoft Graph. I båda fallen innehåller fel svaret ytterligare information som kan visas för behörighets slut punkten för att utmana användaren att få ytterligare information (som multifaktorautentisering eller enhets registrering).
+Baserat på organisationens ca-principer kan en användare som använder Microsoft Graph-resurser via programmet uppmanas att ta del av ytterligare information som inte finns i den åtkomsttoken som appen köptes från början. I det här fallet får din app ett 400-fel med ett *interaction_required*-fel vid insamling av åtkomsttoken eller ett 403-fel med *insufficient_claims*-fel när man anropar Microsoft Graph. I båda fallen innehåller felsvaret ytterligare information som kan presenteras för auktoriseringsslutpunkten för att utmaning användaren om ytterligare information (som multifaktorautentisering eller enhetsregistrering).
 
-- [Hantera villkorade åtkomst problem med MSAL ](https://docs.microsoft.com/azure/active-directory/develop/msal-handling-exceptions#conditional-access-and-claims-challenges)
-- [Utvecklings vägledning för villkorlig åtkomst för Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/conditional-access-dev-guide)
+- [Hantera villkorsstyrda åtkomstutmaningar med MSAL ](https://docs.microsoft.com/azure/active-directory/develop/msal-handling-exceptions#conditional-access-and-claims-challenges)
+- [Utvecklarvägledning för villkorlig åtkomst i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/conditional-access-dev-guide)

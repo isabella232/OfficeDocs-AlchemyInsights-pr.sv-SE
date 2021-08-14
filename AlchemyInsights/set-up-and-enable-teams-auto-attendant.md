@@ -1,5 +1,5 @@
 ---
-title: Konfigurera och aktivera automatisk Teams-dirigering
+title: Konfigurera och aktivera Teams automatisk dirigering
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2386"
 - "9000548"
-ms.openlocfilehash: d996c31668d463a5df7be45a3e16a0ecb0946d3c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b54108c9df524f97b111a17952cfc8dfb5f2e8aa09cdf105e9452fcc27dc1028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51787335"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921709"
 ---
 # <a name="set-up-a-cloud-auto-attendant"></a>Konfigurera en automatisk molndirigering
 
-Automatiska dirigeringar har för närvarande särskilda licenskrav. Se [Vad är automatiska molndirigeringar? om du](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) vill veta mer om att skapa och konfigurera automatiska Teams-dirigeringar. 
+Automatiska dirigeringar har för närvarande särskilda licenskrav. Mer [information om hur du skapar och inställningar](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) Teams automatiska dirigeringar finns i Vad är automatiska molndirigeringar?. 
 
 Mer information finns i:
 

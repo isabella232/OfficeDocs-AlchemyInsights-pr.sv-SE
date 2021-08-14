@@ -1,5 +1,5 @@
 ---
-title: Konfigurera microsoft informationsstyrning
+title: Konfigurera informationsstyrning för Microsoft
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7428"
 - "9000273"
 - "9245"
-ms.openlocfilehash: 96fa4850636d9eb56fa91106bf5503c6eccb77ad
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 367b22259ba619230404ef967eef1530969b23aab0a5c5916382fd19cdb5986d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448776"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921637"
 ---
-# <a name="set-up-microsoft-information-governance"></a>Konfigurera microsoft informationsstyrning
+# <a name="set-up-microsoft-information-governance"></a>Konfigurera informationsstyrning för Microsoft
 
-Konfigurationsguiden för [Microsoft Information governance](https://go.microsoft.com/fwlink/?linkid=2146529) ger dig den information du behöver för att konfigurera och hantera organisationens hanteringsstrategi för att säkerställa att dina data klassificeras och hanteras i enlighet med de specifika riktlinjer för livscykeln som du anger.
+I konfigurationsguiden för microsoft [informationsstyrning](https://go.microsoft.com/fwlink/?linkid=2146529) får du den information du behöver för att konfigurera och hantera organisationens hanteringsstrategi för att se till att dina data klassificeras och hanteras i enlighet med de specifika livscykelriktlinjer som du anger.
 
-I den här guiden får du lära dig hur du skapar, tillämpar automatiskt eller publicerar etiketter, etikettprinciper och bevarandeprinciper som tillämpas på organisationens återanvändningsbara innehåll och efterlevnadsposter. Du får också information om hur du importerar CSV-filer med en filplan för massscenarier eller för att använda dem manuellt i enskilda dokument.
+Med den här guiden får du lära dig hur du skapar, tillämpar automatiskt eller publicerar etiketter, etikettprinciper och bevarandeprinciper som används i organisationens återanvändningsbara innehåll och efterlevnadsposter. Du får också information om hur du importerar CSV-filer med en filplan för massscenarier eller för att använda dem manuellt på enskilda dokument.

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: 254c192084ef7022f7bfbb146ecf8df57e6ff2a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 91fa09c3d90db6d313a811c2b78a2feda4b001f48f7914c0d6e2b81627400fbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51807396"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990165"
 ---
 # <a name="view-wi-fi-network-password-in-windows-10"></a>Visa Wi-Fi nätverkslösenord i Windows 10
 
-1. Kontrollera att din Windows 10-dator är ansluten till Wi-Fi nätverk.
+1. Kontrollera att Windows 10 dator är ansluten till Wi-Fi nätverk.
 
-2. Gå till **Inställningar > Nätverk & till Internet > Status**, [](ms-settings:network?activationSource=GetHelp) eller klicka eller tryck här om du vill låta oss ta dig dit nu.)
+2. Gå till **Inställningar > i & eller > Status**, eller klicka [](ms-settings:network?activationSource=GetHelp) eller tryck här så tar vi dig dit nu.)
 
 3. Klicka **på Nätverks- och delningscenter.**
 

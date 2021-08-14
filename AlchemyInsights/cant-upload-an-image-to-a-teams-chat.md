@@ -1,5 +1,5 @@
 ---
-title: Det går inte att ladda upp en bild till en gruppchatt
+title: Det går inte att ladda upp en bild till en Teams chatt
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003308"
 - "6212"
-ms.openlocfilehash: 1fdec1dd18d521e52f7c5879bb5b7c14c989d158
-ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
+ms.openlocfilehash: 858ab4986a269d307b50965ad9077adb425541938cd91e60dc470db27d81d954
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49950034"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930819"
 ---
-# <a name="cant-upload-an-image-to-a-teams-chat"></a>Det går inte att ladda upp en bild till en gruppchatt
+# <a name="cant-upload-an-image-to-a-teams-chat"></a>Det går inte att ladda upp en bild till en Teams chatt
 
-Fel söknings förslag:
+Felsökningsförslag:
 
-- Om du använder Teams på webben kan du försöka med en annan webbläsare. En lista över vilka webbläsare som stöds finns i avsnittet "webbläsare" i [begränsningar och specifikationer för Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams).
-- Kontrol lera maskinvaru-och OS-kompatibiliteten. Mer information finns i [maskin varu krav för Microsoft Teams](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app).
-- Kontrol lera att du har den senaste team versionen. Mer information finns i [team Update process](https://docs.microsoft.com/microsoftteams/teams-client-update) för information.
+- Om du använder Teams på webben kan du prova en annan webbläsare. En lista över webbläsare som stöds finns i avsnittet "Webbläsare" i Begränsningar [och specifikationer för Microsoft Teams.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams)
+- Kontrollera kompatibiliteten för maskinvaran och operativsystemet. Mer information finns i [Maskinvarukrav för Microsoft Teams](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app).
+- Kontrollera att du har den senaste Teams versionen. Mer information finns i [Teams uppdateringsprocessen](https://docs.microsoft.com/microsoftteams/teams-client-update) för mer information.
