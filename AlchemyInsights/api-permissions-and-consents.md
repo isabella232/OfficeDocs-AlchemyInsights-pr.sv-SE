@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7756"
-ms.openlocfilehash: c99e5e2e8fb9bcc88e5221890ed9c28ed9e7d0c8
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: c45bab67d414c8f0f2ca1c5275084d4ecce538c5256154292302080ba5bd8175
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974995"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932115"
 ---
 # <a name="api-permissions-and-consent"></a>API-behörigheter och medgivande
 
-Program som integreras med Microsoft Identity Platform följer en Authorization-modell som gör att användare och administratörer kan styra hur data nås. Implementeringen av auktoriserings modellen har uppdaterats på slut punkten för Microsoft Identity Platform. Det ändrar hur en app måste interagera med Microsofts identitets plattform. [Behörigheter och medgivande i Microsoft Identity Platform-slutpunkten](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) täcker de grundläggande begreppen i den här verifierings modellen, inklusive omfattningar, behörigheter och medgivande.
+Program som integreras med Microsofts identitetsplattform följer en auktoriseringsmodell som ger användare och administratörer kontroll över hur data kan nås. Implementeringen av auktoriseringsmodellen har uppdaterats på Microsofts identitetsplattform slutpunkt. Det ändrar hur en app måste interagera med Microsofts identitetsplattform. [Behörigheter och medgivande i Microsofts identitetsplattform omfattar](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) de grundläggande begreppen i den här auktoriseringsmodellen, inklusive omfattningar, behörigheter och medgivande.
 
-Med [godkännande ramverket för Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) blir det enkelt att utveckla klient program för flera innehavare. Dessa program tillåter inloggning av användar konton från en Azure AD-klient organisation som skiljer sig från den där programmet är registrerat. De kan även behöva komma åt webb-API: er, till exempel Microsoft Graph API (för åtkomst till Azure AD, Intune och tjänster i Microsoft 365) och andra Microsoft-tjänsters API: er, utöver dina egna API: er för Internet.
+Med [Azure Active Directory (Azure AD) medgivanderam](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) gör det enkelt att utveckla webbprogram med flera klientgrupper och inbyggda klientprogram. Med de här programmen kan du logga in med användarkonton från en Azure AD-klientorganisation som skiljer sig från den där programmet är registrerat. De kan också behöva åtkomst till webb-API:er som Microsoft Graph API (för åtkomst till Azure AD, Intune och tjänster i Microsoft 365) och andra MICROSOFT-TJÄNSTER-API:er, utöver dina egna webb-API:er.
 

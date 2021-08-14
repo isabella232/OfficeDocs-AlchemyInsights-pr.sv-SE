@@ -1,5 +1,5 @@
 ---
-title: 1047 AntiSpam 550 5.7.708-tjänsten är inte tillgänglig. Åtkomst nekad, trafik inte godkänd från denna IP
+title: 1047 AntiSpam 550 5.7.708 Service unavailable. Access denied, traffic not accepted from this IP
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "1986"
 - "3100025"
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
-ms.openlocfilehash: cbfef03232f14fa29d98f16066b4ae29dfd26660
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9cca7f38a38c28216371ac6d034d1f00870e814a48b5552edbc58f4faf871ac6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717235"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932151"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 åtkomst nekad, trafik inte godkänd från denna IP
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 Access denied, traffic not accepted from this IP
 
-Det här felet uppstår när du skickar e-post från kända, billiga IP-adresser som vanligt vis används av nya kunder.
+Det här felet inträffar när du skickar e-post från kända IP-adresser med låg rykte som vanligtvis används av nya kunder.
 
-Om du måste skicka e-post från dessa IP-adresser innan du kan köpa licenser kan du kontakta supporten för att begära ett undantag tills du kan köpa licenser.
+Om du måste skicka e-post från dessa IP-adresser innan du kan köpa licenser kontaktar du supporten för att begära ett undantag tills du kan köpa licenser.

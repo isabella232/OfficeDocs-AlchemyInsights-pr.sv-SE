@@ -1,5 +1,5 @@
 ---
-title: Installationsguide för Microsoft Search
+title: Microsoft Search konfigurationsguiden
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004591"
 - "8203"
-ms.openlocfilehash: 681fc808a167f365ce017df6a5cafcb1744c4d41
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: f61d90967af882ef5b9871e8535704e112e26125878e6540b772f2ae54e83d37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50428280"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975833"
 ---
-# <a name="microsoft-search-setup-guide"></a>Installationsguide för Microsoft Search
+# <a name="microsoft-search-setup-guide"></a>Microsoft Search konfigurationsguiden
 
-Använd [installationsguiden för Microsoft Search för](https://go.microsoft.com/fwlink/?linkid=2153798) att konfigurera Microsoft Search. Oavsett om du vill pilottesta den till en grupp användare eller distribuera den till alla i organisationen. Du tilldelar sökadministratörer och sökredigerare och anpassar sedan sökfunktionen för dina användare med svar och ytterligare alternativ, t.ex. att lägga till Bing-tillägget till Chrome eller att ange Bing som standardsökmotor.
+Använd guiden [Microsoft Search för att](https://go.microsoft.com/fwlink/?linkid=2153798) konfigurera och konfigurera Microsoft Search. Oavsett om du vill pilottesta den till en grupp användare eller distribuera den till alla i organisationen. Du tilldelar sökadministratörer och sökredigerare och anpassar sedan sökfunktionen för dina användare med svar och ytterligare alternativ som att lägga till Bing-tillägget till Chrome eller ange Bing som standardsökmotor.
