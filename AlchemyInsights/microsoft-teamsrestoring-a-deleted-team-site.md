@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teams-återställa en borttagen grupp webbplats
+title: Microsoft Teams – Återställa en borttagna gruppwebbplats
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,13 +11,13 @@ ms.custom:
 - "404"
 - "6500002"
 ms.assetid: b26be13f-7b8f-4393-9083-2b4d97b6cd80
-ms.openlocfilehash: 1b7e1d7aab665c1a529d5bfec8c7fc36bbc73441
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5e51b9b34223b3122b59fd602b09103e4ca2e94444679f767e2a7005a9928694
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703029"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975479"
 ---
-# <a name="restoring-a-deleted-team-in-microsoft-teams"></a>Återställa ett borttaget team i Microsoft Teams
+# <a name="restoring-a-deleted-team-in-microsoft-teams"></a>Återställa ett borttagna team i Microsoft Teams
 
-Tog du bort ett team av misstag? Om det är mindre än 30 dagar sedan du tog bort teamet befinner du dig i tur och reser. Du kan återställa den. Gör så här: [Återställ ett borttaget team](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
+Raderade du ett team av misstag? Om det har gått mindre än 30 dagar sedan du tog bort teamet har du tur. kan du återställa den. Det gör du genom att följa stegen här: [Återställa ett borttagna team](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
