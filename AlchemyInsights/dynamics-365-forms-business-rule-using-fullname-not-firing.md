@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365-formulär företags regel med fältet fullständigt namn ej uppfyllt
+title: Affärsregel i Dynamics 365 Forms med fullname-fält som inte går ut
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1928"
 - "6200018"
-ms.openlocfilehash: 50588b25d1cb23daee188c6be9132142f8ae98c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ccb50ae836357ef48cd0b4a2a640cceb0a1ff88137e79a57d4fcd9027994ce45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711545"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947425"
 ---
-# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Fältet fullständigt namn stöds inte med enhetliga inteface-appar
+# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Fältet Fullständigt namn stöds inte med enhetliga heltalsappar
 
-Åtgärder eller villkor som använder ett **fullständigt namn** -fält stöds inte i program som baseras på det enhetliga gränssnittet. Du kan också använda åtgärder eller villkor med fälten **First name** (förnamn) och **efter namn** (LastName).
+Åtgärder eller villkor som använder **ett fält med** fullständigt namn (fullständigt namn) stöds inte i program som är baserade på det enhetliga gränssnittet. Alternativt kan du använda åtgärder eller villkor med **fälten Förnamn** (förnamn) och Efternamn **(efternamn).**
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues)
