@@ -1,5 +1,5 @@
 ---
-title: Har du problem med självbetjäning för återställning av lösen ord (SSPR)?
+title: Har du problem med självbetjäning för återställning av lösenord (SSPR) ?
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "7663"
-ms.openlocfilehash: 4f1f94be299c980a6a359d727fb24f411f98b785
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: bd76ae6b2ce140fd8feb490a5fffe1baa36598e7650107f176baec30d71b8628
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722045"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945868"
 ---
-# <a name="having-self-service-password-reset-sspr-problems"></a>Har du problem med självbetjäning för återställning av lösen ord (SSPR)?
+# <a name="having-self-service-password-reset-sspr-problems"></a>Har du problem med självbetjäning för återställning av lösenord (SSPR) ?
 
-Vanliga problem med återställning av lösen ord (SSPR) i hybrid moln och lokala miljöer är:
+Vanliga problem med lösenordsåterställning via självbetjäning (SSPR) i hybridmoln och lokala miljöer är:
 
-- [SSPR lösen ord för ångra inte aktive rad](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
-- [Azure AD Premium-licens inte tilldelad](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
-- [Azure AD Connect-problem](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) eller [nätverks problem](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
-- [SSPR inte registrerade autentiseringsmetoder](https://mysignins.microsoft.com/security-info)
-- [Scenarier för tillbakaskrivning som inte stöds](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) , till exempel Microsoft 365 Admin Center eller administratörer med SSPR
+- [Tillbakaskrivning av SSPR-lösenord har inte aktiverats](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
+- [Azure AD Premium-licens tilldelad](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
+- [Problem med Azure AD Anslut eller](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) [nätverksproblem](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
+- [SSPR-autentiseringsmetoder som inte är registrerade](https://mysignins.microsoft.com/security-info)
+- [Återskrivningsscenarier som inte](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) stöds, Microsoft 365 Admin Center eller Administratörer som använder SSPR
 
 
 Mer information finns i:
 
-- [Felsöka självbetjäning för återställning av lösen ord](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr)
-- [Fel sökning för självbetjäning för återställning av lösen ord i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
+- [Felsöka lösenordsåterställning via självbetjäning](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr)
+- [Felsöka återställning av lösenordsåterställning via självbetjäning i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)

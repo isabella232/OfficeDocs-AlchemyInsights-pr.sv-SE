@@ -1,5 +1,5 @@
 ---
-title: 604 fel söknings kategorier
+title: 604 Felsökningskategorier
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,15 +14,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: 4c06a6e1ddd333fff147912ac37a339574da4c9a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e2ca842df04a7d4b702606d57757192ffe328cad79f3f5a07abc450f8ff92288
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690008"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972545"
 ---
-# <a name="outlook-categories"></a>Outlook-kategorier
+# <a name="outlook-categories"></a>Outlook kategorier
 
-Kategorier gäller endast för objekt i kalendern. Om du använder en färg kategori för en Mötes förfrågan eller ett möte som du har fått från en annan person visas den kategorin bara i kalendern.  Om du använder en färg kategori på en delad post låda kan du delegera post låda, grupp post låda, rums post låda etc. färg kategorin påverkar bara vyn.
+Kategorier gäller endast för objekt i kalendern. Om du använder en färgkategori för en mötesförfrågan eller ett möte som du har fått från en annan person visas färgkategorin endast i din kalender.  Om du använder en färgkategori för en delad postlåda, delegerad postlåda, grupppostlåda, rumspostlåda och så vidare. Färgkategorin påverkar bara din vy.
 
-Mer information: [tilldela en färg kategori till en avtalad tid, ett möte eller en händelse i kalendern](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
+Mer information: Tilldela [en färgkategori till en avtalad tid, ett möte eller en händelse i kalendern](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)

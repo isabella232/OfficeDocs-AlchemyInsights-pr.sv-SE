@@ -1,5 +1,5 @@
 ---
-title: Förhindra att team startar automatiskt
+title: Förhindra Teams från att starta automatiskt
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6662"
 - "9003571"
-ms.openlocfilehash: cc5951a271173d1f6849df0d9d2b67df8b776bdc
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 0e35a182fb8ffbb48e5c3bff72881c2cd14d778f83c759efc99c372900de6991
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365212"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923836"
 ---
-# <a name="prevent-teams-from-starting-automatically"></a>Förhindra att team startar automatiskt
+# <a name="prevent-teams-from-starting-automatically"></a>Förhindra Teams från att starta automatiskt
 
-Team öppnas automatiskt när du startar enheten.
+Som standard Teams automatiskt när du startar enheten.
 
-Om du vill ändra den här inställningen väljer du din profil bild och väljer sedan **Inställningar**  >   **Allmänt**. Avmarkera **programmet automatisk start**under **program**.
+Om du vill ändra den här inställningen markerar Teams profilbild och väljer **Inställningar**  >   **Allmänt.** Under **Program** avmarkerar du **Starta program automatiskt.**
 
-Mer information finns i  [ändra inställningar i Teams](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7).
+Mer information finns i [Ändra inställningar i Teams](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7).
