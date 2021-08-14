@@ -1,5 +1,5 @@
 ---
-title: Funktionen åtkomst begär Anden
+title: Funktionen Åtkomstbegäranden
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 4b7e0f0dfed0a96ed46b88c400bd6afaf8d3f225
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 79b2eb434a4d346843b86c2b284e5961439aea412e3828847b28927a08f17a70
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800734"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941971"
 ---
-# <a name="give-users-access-to-sharepoint-site"></a>Ge användarna åtkomst till SharePoint-webbplatsen
+# <a name="give-users-access-to-sharepoint-site"></a>Ge användare åtkomst till SharePoint webbplats
 
-Med funktionen åtkomstbegäran kan användarna begära åtkomst till innehåll som de inte har behörighet att se. Som webbplats ägare kan du konfigurera funktionen för att skicka e-post när någon begär åtkomst till en webbplats. Mer information finns i [Konfigurera och hantera åtkomst förfrågningar](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
+Med funktionen för åtkomstförfrågningar kan användare begära åtkomst till innehåll som de för närvarande inte har behörighet att se. Som webbplatsägare kan du konfigurera funktionen så att du får ett e-postmeddelande när någon begär åtkomst till en webbplats. Mer information finns i Konfigurera [och hantera åtkomstförfrågningar.](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3)
 
-Här är några vanliga länkar angående åtkomst begär Anden:
+Här är några vanliga länkar om åtkomstförfrågningar:
 
-- [Åtkomst nekad för listan med åtkomst begär Anden eller "begär godkännande misslyckades" när du bearbetar en väntande begäran i SharePoint Online](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
+- [Åtkomst nekad" till listan Åtkomstbegäranden eller "Begäran om godkännande misslyckades" när du bearbetar en väntande begäran i SharePoint Online](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
 
-- [Ändra inställningar för åtkomst förfrågningar](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
+- [Ändra inställningar för åtkomstförfrågningar](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 
-- [Godkänna eller neka åtkomst begär Anden för en webbplats](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
+- [Godkänna eller avvisa åtkomstförfrågningar för en webbplats](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
 
 - [Hantera inbjudningar till externa användare (endast SharePoint Online)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
 

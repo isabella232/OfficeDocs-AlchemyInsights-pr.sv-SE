@@ -1,5 +1,5 @@
 ---
-title: Återställa en borttaget fil eller mapp
+title: Återställa en borttagna fil eller mapp
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,18 +13,18 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: b7bf64c009235bc1dbd3e922296ff6c4bb239450
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 2e0b9f6cb795a7314dd97ad6ebe7ddd73b37ae918d8b31d78c150945c8a9dfd1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708296"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942079"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>Återställa borttagna objekt från SharePoint
 
 När du tar bort ett objekt eller en webbplats från SharePoint tas de inte bort direkt. Borttagna objekt hamnar i papperskorgen under en viss tidsperiod. Under denna tid kan du återställa de objekt som du har tagit bort till deras ursprungliga plats. Mer information finns på länkarna nedan.
 
-- [Återställa objekt i Papperskorgen för en SharePoint-webbplats](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
+- [Återställa objekt i Papperskorgen på en SharePoint webbplats](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 
 - [Återställa borttagna filer eller mappar i OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
@@ -34,7 +34,7 @@ När du tar bort ett objekt eller en webbplats från SharePoint tas de inte bort
 
 - [Återställa en borttagna OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-- [SharePoint Online PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
+- [SharePoint Online-PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
 **Funktionen Återställ filer**
 
