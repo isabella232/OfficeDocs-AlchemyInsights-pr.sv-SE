@@ -1,5 +1,5 @@
 ---
-title: Problem med administratörs medgivande
+title: Problem med administratörsmedgivande
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004354"
 - "7786"
-ms.openlocfilehash: 6154b4b9cce51be3271cb25132f409319d8da14b
-ms.sourcegitcommit: 113b802081101de70810fc73938ea92f7518d8c6
+ms.openlocfilehash: 08d3bfa84fd5ab31d7165090c392866d863898545ade7631e820a100eef89dea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901513"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952591"
 ---
-# <a name="admin-consent-issues"></a>Problem med administratörs medgivande
+# <a name="admin-consent-issues"></a>Problem med administratörsmedgivande
 
-1. Aktivera [arbets flödet för administratörer](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow) för att tillåta användare att begära administratörs godkännande direkt från medgivande skärmen.
+1. Aktivera [arbetsflödet för administratörsmedgivande](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow) för att tillåta användare att begära godkännande från administratören direkt från skärmen med medgivande.
 
-1. Om du eller dina programs användare ser oväntade fel under medgivande processen läser du den här artikeln för fel söknings steg: [oväntat fel vid medgivande till ett program](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).
+1. Om du eller ditt programs användare ser oväntade fel under medgivandeprocessen läser du den här artikeln för felsökningssteg: Oväntat fel när användare utför medgivande [till ett program.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)
 
-1. Läs mer om [Administratörs medgivande på Microsoft Identity Platform](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent), hur [medgivande meddelandet](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent) fungerar och hur du [utvärderar en begäran om klient medgivande](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent).
+1. Läs mer om [administratörsmedgivande Microsofts identitetsplattform](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent), [](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent) hur medgivandeuppslag fungerar och hur du utvärderar en begäran om administratörsmedgivande [för hela klientorganisationen.](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent)
 
-1. Program som integreras med Microsoft Identity Platform följer en Authorization-modell som gör att användare och administratörer kan styra hur data nås. Implementeringen av auktoriserings modellen har uppdaterats på slut punkten för Microsoft Identity Platform och ändrar hur en app måste samverka med Microsofts identitets plattform. Se [behörigheter och medgivande i slut punkten för Microsoft Identity Platform](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent) för en översikt över den här verifierings modellen, inklusive omfattningar, behörigheter och medgivande.
+1. Program som integreras med Microsofts identitetsplattform följer en auktoriseringsmodell som ger användare och administratörer kontroll över hur data kan nås. Implementeringen av auktoriseringsmodellen har uppdaterats Microsofts identitetsplattform slutpunkten och den ändrar hur en app måste interagera med Microsofts identitetsplattform. Se [Behörigheter och medgivande i Microsofts identitetsplattform-slutpunkten](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent) för en översikt över den här auktoriseringsmodellen, inklusive omfattningar, behörigheter och medgivande.

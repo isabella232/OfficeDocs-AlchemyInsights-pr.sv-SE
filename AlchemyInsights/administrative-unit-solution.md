@@ -1,5 +1,5 @@
 ---
-title: Administratör för administrativa enheter
+title: Lösning för administrativa enheter
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "7896"
-ms.openlocfilehash: c32d0652642fa4143b037662809f3ca5dec079f0
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: 93b77f0a23bc53035d63e08869067aff25270aed559d7cddded04aaa92285302
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885382"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952483"
 ---
-# <a name="administrative-unit-solution"></a>Administratör för administrativa enheter
+# <a name="administrative-unit-solution"></a>Lösning för administrativa enheter
 
-1. Kontrol lera att användaren som skapar administrativa enheter och tilldelar roller är en global administratör eller administratör för rättighets administratörer.
-2. Se till att du tilldelar användare direkt till de administrativa enheterna. Om du tilldelar en grupp till en administrativ enhet tilldelas inte alla medlemmar i gruppen till den administrativa enheten.
-3. För att en Mass åtgärd ska utföras på en administrativ enhet kan ändringarna ta tid att återspegla i användar gränssnittet, beroende på olika faktorer, till exempel aktuell tjänst belastning.
+1. Se till att användaren som skapar de administrativa enheterna och tilldelar roller är en global administratör eller behörighetsadministratör.
+2. Se till att användarna tilldelas direkt till de administrativa enheterna. Att tilldela en grupp till en administrativ enhet tilldelar inte alla medlemmar i gruppen till administratörsenheten.
+3. Om en massåtgärd utförs på en administrativ enhet kan det ta tid att återspegla ändringarna i användargränssnittet, beroende på olika faktorer, till exempel aktuell tjänstbelastning.
 
-Mer information om administrativa enheter finns i [hantera roller i en administrativ enhet](https://docs.microsoft.com/azure/active-directory/roles/administrative-units).
+Mer information om administrativa enheter finns i [Hantera roller i administrativ enhet.](https://docs.microsoft.com/azure/active-directory/roles/administrative-units)
