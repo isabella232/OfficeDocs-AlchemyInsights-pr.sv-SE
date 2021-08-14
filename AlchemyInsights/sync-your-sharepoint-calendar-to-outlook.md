@@ -1,5 +1,5 @@
 ---
-title: Synkronisera SharePoint-kalendern med Outlook
+title: Synkronisera din SharePoint med Outlook
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 95ea9fbe0fbb4ab4d07f164e6096cc7985a72ac5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ea1a6bf5b02f804014eb6841e774a67e2e6b23dd6a0758c48f05271644f1601
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659184"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008897"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a>Problem med att synkronisera kalendern med enheter
+# <a name="issues-synchronizing-your-calendar-to-devices"></a>Problem med synkronisering av kalendern med enheter
 
-SharePoint-kalendrar är klassiska List typer som ibland förväxlas med Microsoft 365-gruppkalendrar.
+SharePoint Kalendrar är klassiska listtyper som ibland förväxlas med Microsoft 365 av gruppkalendrar.
 
-Följ de här stegen om du vill synkronisera en SharePoint-kalender med Outlook:
+Om du vill synkronisera SharePoint kalender med Outlook följer du de här stegen:
 
-1. Klicka på kugg hjuls ikonen **Inställningar** och sedan på **webbplats innehåll**.
-2. Öppna den kalender som du vill synkronisera (som är en typ av händelse lista).
-3. Klicka på **kalender**i den klassiska menyfliksområdet och klicka sedan på **Anslut till Outlook**.
-4. I popup-fönstret där du ombeds att bekräfta synkroniseringen klickar du på **Tillåt**.
+1. Klicka på **Inställningar** kugghjulsikonen och sedan på **Webbplatsinnehåll.**
+2. Öppna den kalender som du vill synkronisera (vilket är en händelselista).
+3. I den klassiska menyfliken klickar du **på** Kalender och sedan på Lägg **Anslut att Outlook**.
+4. Klicka på Tillåt i popup-menyn där du uppmanas att **bekräfta synkroniseringen.**
 
 >[!Note]
-> När du gör en ändring i den synkroniserade Outlook-kalendern visas den i SharePoint-kalendern och vice versa.
+> När du gör en ändring i den synkroniserade Outlook visas den i SharePoint och tvärtom.
 
-Mer information om Microsoft 365-grupper finns i den här [artikeln](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Mer information om hur Microsoft 365 grupper finns i den här [artikeln.](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)

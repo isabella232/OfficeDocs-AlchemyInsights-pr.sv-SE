@@ -1,5 +1,5 @@
 ---
-title: Åtgärda regler för avsändaradress/domänlista
+title: Åtgärda Avsändaradress-/domänlistregler
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a57016ce0b5e8ed741889a50e3858c68578c6713
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750590"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930043"
 ---
-# <a name="fix-sender-addressdomain-list-rules"></a>Åtgärda regler för avsändaradress/domänlista
+# <a name="fix-sender-addressdomain-list-rules"></a>Åtgärda Avsändaradress-/domänlistregler
 
 En policy för skräppostskydd i klientorganisationen påverkade det här meddelandet. Meddelandets avsändare finns med i listan Tillåt eller Spärra. Så här granskar du principen:
 
-1. Gå till [Säkerhets- och & Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143)och gå sedan **till** Policy för hothantering mot  >    >  [skräppost.](https://go.microsoft.com/fwlink/?linkid=2101518)
+1. Gå till [Office 365 säkerhets- & säkerhets-](https://go.microsoft.com/fwlink/p/?linkid=2077143)och efterlevnadscenter och gå **sedan** till Policy för hothantering  >    >  [mot skräppost.](https://go.microsoft.com/fwlink/?linkid=2101518)
 2. Om **Standardinställningar** är aktiverat **på fliken Standard** markerar du listorna **Tillåt** och **Spärra.**
 3. Om Anpassade **inställningar** är aktiverat på **fliken** Anpassad granskar du principerna genom att välja Redigera **princip** och markera listorna **Tillåt** **och Spärra.**
 
