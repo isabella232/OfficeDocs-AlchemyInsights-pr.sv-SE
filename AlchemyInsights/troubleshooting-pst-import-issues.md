@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
-ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
+ms.openlocfilehash: 549af832f9c58db1cdd8fbe80b8b5bd2aba9bd937f33116806a9391cbc9a5d4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52059833"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972437"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>Felsöka problem med PST-import
 
-- Om du importerar inom Outlook-klienten kan du gå till [Åtgärda problem med att importera en Outlook.pst-fil.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
+- Om du importerar inom Outlook-klienten kan du gå till [Åtgärda problem med att importera Outlook .pst-fil.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
 
-- Om du använder importtjänsten och den har fastnat bör du observera att varje PST-fil som du laddar upp till Azure Storage-platsen inte ska vara större än 20 GB. PST-filer som är större än 20 GB kan påverka prestandan för PST-importen. Mer information om felsökning av jobb som fastnat finns i [Problem som påverkar PST-importjobb.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
+- Om du använder importtjänsten och den har fastnat bör varje PST-fil som du laddar upp till Azure Storage inte vara större än 20 GB. PST-filer som är större än 20 GB kan påverka prestandan för PST-importen. Mer information om felsökning av jobb som fastnat finns i [Problem som påverkar PST-importjobb.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
 
 - Om du vill verifiera statusen för ett visst importjobb använder du [Get-MailboxImportRequest -batchname](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest).
 

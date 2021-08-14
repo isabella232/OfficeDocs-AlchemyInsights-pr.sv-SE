@@ -1,5 +1,5 @@
 ---
-title: Återställa en borttagen webbplats
+title: Återställa en borttagna webbplats
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 570284765f32212b4ef2062db5b70f427b28c121
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f9a5f78c1a0eae2632fbf7c5132e520847feef415f7b6887d5d7796af720304
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692061"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958855"
 ---
-# <a name="restore-a-deleted-site"></a>Återställa en borttagen webbplats
+# <a name="restore-a-deleted-site"></a>Återställa en borttagna webbplats
 
-När en administratör tar bort en SharePoint-webbplats placeras den i pappers korgen för webbplats samlingen, där den bevaras i 93 dagar innan den tas bort permanent. Så här återställer du webbplatsen:
+När en administratör tar bort en SharePoint-webbplats placeras den i webbplatssamlingens papperskorg, där den sparas i 93 dagar innan den tas bort permanent. Så här återställer du webbplatsen:
   
-1. I det nya administrations centret för SharePoint klickar du på **pappers korgen** i menyfliksområdet. 
+1. I det SharePoint administrationscentret klickar du **på Papperskorgen i** menyfliksområdet. 
     
-2. Markera kryss rutan bredvid den webbplats samling du vill återställa.
+2. Markera kryssrutan bredvid den webbplatssamling du vill återställa.
     
-3. Klicka på **Återställ borttagna objekt**.
+3. Klicka **på Återställ borttagna objekt.**
     
-Om du vill återställa en borttagen kommunikations webbplats kan du använda det nya administrations centret för SharePoint. I annat fall måste du använda Microsoft PowerShell. Om du vill återställa en webbplats som tillhör en Microsoft 365-grupp måste du återställa gruppen i administrations centret för Exchange. Grupper kan återställas i 30 dagar efter att de har tagits bort.
+Om du vill återställa en borttagna kommunikationswebbplats kan du använda det nya SharePoint administrationscentret. I annat fall måste du använda Microsoft PowerShell. Om du vill återställa en webbplats som tillhör Microsoft 365 grupp måste du återställa gruppen i Exchange administrationscenter. Grupper kan återställas i 30 dagar efter att de tagits bort.
   
 

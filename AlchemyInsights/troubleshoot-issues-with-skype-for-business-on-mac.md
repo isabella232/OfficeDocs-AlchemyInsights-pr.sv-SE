@@ -1,5 +1,5 @@
 ---
-title: Felsöka problem med Skype för företag för Mac
+title: Felsöka problem med Skype för företag på Mac
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5984"
 - "9003195"
-ms.openlocfilehash: 794ec70971fc2eff31047f8346284118eb9d6add
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b2bfe1f4291a7703a94582cdfe381ffbf02797a8b7a785e6ac9d74cf04290707
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665052"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980555"
 ---
-# <a name="troubleshoot-issues-with-skype-for-business-on-mac"></a>Felsöka problem med Skype för företag för Mac
+# <a name="troubleshoot-issues-with-skype-for-business-on-mac"></a>Felsöka problem med Skype för företag på Mac
 
 Mer information finns i: 
 
-- Vissa funktioner, till exempel funktioner för svars grupp eller beständig chatt, kanske inte är tillgängliga eller stöds inte på Mac Platform. Kontrol lera att funktionerna stöds på Mac Platform. Om du har funktioner för Mac kan du läsa om jämförelse av funktioner för [Skype för företag](https://technet.microsoft.com/library/Dn951412.aspx) och [Skriv bords klienten för Skype för företag](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison).
-- Om du har ett inloggnings problem i Skype för företag Mac-appen ska du kontrol lera att din autentiseringstoken stöds. Detaljerad information om den metod som stöds finns i [topologier för Skype för företag som stöds med modern autentisering](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/modern-authentication/topologies-supported).  
-- Om den här informationen inte svarar på dina frågor öppnar du ett support ärende. Samla in så mycket information som möjligt innan biljetten öppnas. Till exempel: samla in alla loggar och fel meddelanden. Om du vill samla in loggar på en Mac går du till  **SFB program**  >  **Inställningar**  >  **samla in loggar**.  Loggen bör innehålla så detaljerad information som möjligt från inloggnings platsen.
+- Vissa funktioner, till exempel svarsgruppsfunktioner eller fortlöpande chatt, kanske inte är tillgängliga eller stöds på Mac-plattformen. Kontrollera att funktionen stöds på Mac-plattformen. För tillgänglighet av Mac-funktioner, se [Jämförelse av mobil klientfunktion för Skype för företag](https://technet.microsoft.com/library/Dn951412.aspx) och jämförelse av [skrivbordsklienter för Skype för företag.](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison)
+- Om du har inloggningsproblem i Mac-Skype för företag kontrollerar du att autentiseringstopologin stöds. Detaljerad information om vilken metod som stöds finns i Skype för företag [som stöds med modern autentisering.](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/modern-authentication/topologies-supported)  
+- Om informationen inte besvarar dina frågor kan du öppna ett support ärende. Samla in så mycket information som möjligt innan du inviger biljetten. Samla till exempel in alla loggar och felmeddelanden. Om du vill samla in loggar på Mac går du till  **SfB App**  >  **Preferences Collect**  >  **logs**.  Loggen ska innehålla så mycket information som möjligt från inloggning till tidpunkten för felet.

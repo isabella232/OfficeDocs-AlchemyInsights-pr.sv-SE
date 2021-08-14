@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: eee1080a95955332e205db3852381e39aaf5ae0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b223bad66fb7cc6d1d7c0a2b3ccc7a081c061b4974060dbcafec84dfb24eb782
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801787"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923662"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>När synkroniserar profil ändringarna till användar profil programmet för SharePoint?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>När synkroniseras mina profiländringar till SharePoint-profilprogrammet?
 
-SharePoint Online använder det tidsinställda Active Directory import-jobbet (AD-import) för att importera användare och grupper till användar profil programmet. 
+SharePoint Online använder det tidsinställda jobbet för import av Active Directory (AD Import) för att importera användare och grupper till användarprofilprogrammet. 
   
-1. AD import-synkroniseringar ändras från SharePoint online-katalogen till användar profil programmet. Dessa ändringar bearbetas i batchar.
+1. AD-import synkroniserar ändringar från SharePoint Online Directory Store till användarprofilprogrammet. Dessa ändringar bearbetas i grupper.
     
-2. Det tidsinställda jobbet körs tills ändringarna synkroniseras.
+2. Tidsinställt jobb körs tills ändringarna har synkroniserats.
     
 > [!NOTE]
-> Hur lång tid det tar att köra jobbet beror på antalet ändringar i processen. Ett stort antal ändringar tar längre tid. Service nivå avtalet (SLA) anger att en ändring av en användare i SharePoint online-katalogen återspeglas i användar profil programmet inom 24 timmar. 
+> Hur lång tid det tar att köra jobbet beror på antalet ändringar som ska bearbetas. Ett stort antal ändringar tar längre tid. SLA (Service Level Agreement) innebär att en ändring av en användare i SharePoint Online-katalogen återspeglas i användarprofilprogrammet inom 24 timmar. 
   
-[Mer information om synkronisering av användar profiler i SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
+[Mer information om synkronisering av användarprofiler i SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
   
 

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: b0b95f8b6460418d92314dede2ca8bc1326b033e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7b6d7fde295e963fb1e8a86171ed4b0e6e2ebc66b7136835d75f5f8c1b19f9de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747895"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988817"
 ---
 # <a name="create-a-journal-rule"></a>Skapa en journalregel
 
 Så här gör du:
 
-1. I [Exchange admin center går](https://go.microsoft.com/fwlink/p/?linkid=2059104)du till **journalregler för**  >  **efterlevnadshantering** och väljer sedan ikonen Lägg till **(+).**
+1. I dialogrutan [Exchange går du](https://go.microsoft.com/fwlink/p/?linkid=2059104)till **journalregler för**  >  **efterlevnadshantering** och väljer sedan ikonen Lägg till **(+).**
 2. Ange **ett namn för** journalregeln i den nya journalregeln och tävla sedan med följande fält:  
     - **Skicka journalrapporter till:** Ange adressen till den postlåda för journaler som ska skickas till alla journalrapporter.  
     - **Om meddelandet skickas till eller tas emot från**: Ange mottagaren att regeln ska ha som mål. Du kan antingen välja en viss mottagare eller tillämpa regeln på alla meddelanden.  

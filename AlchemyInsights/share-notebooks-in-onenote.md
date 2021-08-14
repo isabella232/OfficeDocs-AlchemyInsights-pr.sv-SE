@@ -1,5 +1,5 @@
 ---
-title: Dela antecknings böcker i OneNote för webben eller OneNote 2016
+title: Så här delar du anteckningsböcker i OneNote för webben eller OneNote 2016
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000556"
 - "2406"
-ms.openlocfilehash: 524141e55f72e96d69bca407a941ab694326aaaa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f66f55325f52ed89b077923615de03d7818c50cab0043dca98aadca3e725bc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739123"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958063"
 ---
-# <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a>Dela antecknings böcker i OneNote för webben eller OneNote 2016
+# <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a>Dela anteckningsböcker i OneNote för webben eller OneNote 2016
 
-I OneNote för webben kan du dela med dig av anteckningar genom att antingen bjuda in andra att visa och göra ändringar i antecknings boken, eller genom att skapa en länk till en sida med anteckningar som du kan klistra in i ett e-postmeddelande, en blogg eller en webb sida. Mer information finns i [använda OneNote för webben för att dela anteckningar med andra](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)
+I OneNote för webben kan du dela anteckningar genom att antingen bjuda in andra att visa och göra ändringar i anteckningsboken, eller genom att skapa en länk till en sida med anteckningar som du kan klistra in i ett e-postmeddelande, en blogg eller på en webbsida. Mer information finns i Använda [OneNote för webben för att dela anteckningar med andra](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)
 
-I OneNote 2016 kontrollerar du att din OneNote 2016-anteckningsbok är på OneDrive så att andra kan komma åt den. Om du vill dela kan du bjuda in personer i e-post eller skaffa en delnings länk. Mer information finns i [dela en OneNote 2016 för Windows-anteckningsbok med andra](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)
+I OneNote 2016 kontrollerar du att anteckningsboken OneNote 2016 är på OneDrive så att andra kan komma åt den. Om du vill dela kan du bjuda in personer via e-post eller hämta en delningslänk. Mer information finns i Dela [en anteckningsbok i OneNote 2016 för Windows anteckningsbok med andra](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)
