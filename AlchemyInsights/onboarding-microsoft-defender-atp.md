@@ -1,5 +1,5 @@
 ---
-title: Introduktions Microsoft Defender ATP
+title: Onboarding Microsoft Defender ATP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: a82adad9b9f72bbf9e053cd6721cefaf23e34a5c
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: de38bd58c83ed840ccc8c610b61aa8d8b956251dea20895a7fc0e193d11585df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545322"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985487"
 ---
-# <a name="onboarding-microsoft-defender-atp"></a>Introduktions Microsoft Defender ATP
+# <a name="onboarding-microsoft-defender-atp"></a>Onboarding Microsoft Defender ATP
 
-Information om resurser för Microsoft Defender ATP för Windows 10, Windows- och Mac- och Linux-datorer finns i: 
+Information om resurser för att registrera Microsoft Defender ATP Windows 10, Windows- och Mac- och Linux-datorer finns i: 
 
 - **Windows 10 datorer** Beroende på dina affärskrav kan du välja bland alternativ för att registrera en dator som kör Windows 10. Mer information finns i [Onboarding-verktyg och -metoder för Windows 10 enheter.](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints) 
 
-- **Windows servrar** Information om Microsoft Defender ATP för din version av Windows finns i [Onboard servers to the Microsoft Defender ATP service](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).
+- **Windows servrar** Information om hur du onboardar Microsoft Defender ATP för din version Windows Server finns i [Onboard servers to the Microsoft Defender ATP service](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).
 
 - **Slutpunkter som Windows inte är slutpunkter**  Innan du börjar ett Windows-system måste du uppfylla systemkraven för [Mac](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) eller [Linux.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)
 

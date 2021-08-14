@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "8198"
-ms.openlocfilehash: e0df3bb3ed1ca61b34133814332f643c280a2251
-ms.sourcegitcommit: 05a9dd3121c21322dc9ddec4c2eec548cafd5a43
+ms.openlocfilehash: 88ee2793e926cb8704a730e18a3c44fe89853d16142f1163707149d8b01be5d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50177730"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965551"
 ---
 # <a name="create-email-signature-in-outlook-on-the-web"></a>Skapa en e-postsignatur i Outlook på webben
 
 1. Logga in i Outlook på webben.
-2. Välj Inställningar för E-post i det **övre navigeringsfältet.**  >  
-3. Välj **E-postlayout** under  **E-post** på  >  **panelen Alternativ.**
-4. I textrutan skriver du signaturen och använder tillgängliga formateringsalternativ för att ändra dess utseende.
+2. I det övre navigeringsfältet väljer du **Inställningar**  >  **E-post.**
+3. På panelen **Alternativ under** E-post **väljer** du **Layout E-postsignatur**  >  .
+4. Skriv din signatur i textrutan och använd tillgängliga formateringsalternativ för att ändra dess utseende.
 
     > [!TIP]
-    > Det går inte att infoga en bildfil (till exempel i .gif- eller .jpg-format) i signaturen, men du kan kopiera en bild från en webbsida och klistra in den i signaturrutan.
+    > Det går inte att infoga en bildfil (till exempel i ett .gif- eller .jpg-format) för din signatur, men du kan kopiera en bild från en webbsida och klistra in den i signaturrutan.
 
-5. Om du vill att din signatur ska visas längst ned i alla utgående e-postmeddelanden, inklusive svar och vidarebefordrade meddelanden, väljer du Inkludera automatiskt min signatur i nya meddelanden **som jag skriver.**
+5. Om du vill att din signatur ska visas längst ned i alla utgående e-postmeddelanden, inklusive svar och vidarebefordrade meddelanden, markerar du Inkludera automatiskt min signatur i nya meddelanden **som jag skriver.**
 6. Klicka på **Spara**.

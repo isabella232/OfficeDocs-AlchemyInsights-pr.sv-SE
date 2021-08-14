@@ -1,5 +1,5 @@
 ---
-title: Överförings tjänster-flytta alla RDFE-tjänster till en annan prenumeration
+title: Överföringstjänster – flytta alla RDFE-tjänster till en annan prenumeration
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,57 +12,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004116"
 - "7196"
-ms.openlocfilehash: d6744484fe42f09f03de562a00fd56712607d418
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 89217922b8b51f2548f9fff53bf80364c0e897b1d9b34bfb7016f0b0f197cf17
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692178"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940111"
 ---
-# <a name="transfer-services---move-all-rdfe-services-to-another-subscription"></a>Överförings tjänster-flytta alla RDFE-tjänster till en annan prenumeration
+# <a name="transfer-services---move-all-rdfe-services-to-another-subscription"></a>Överföringstjänster – flytta alla RDFE-tjänster till en annan prenumeration
 
 **Flytta resurser**
 
-Azure-resurser kan flyttas till antingen en annan Azure-prenumeration eller resurs grupp under samma abonnemang med Azure Portal, Azure PowerShell, Azure CLI eller REST API för att flytta resurser.
+Azure-resurser kan flyttas till en annan Azure-prenumeration eller resursgrupp under samma prenumeration med hjälp av Azure-portalen, Azure PowerShell, Azure CLI eller REST API för att flytta resurser.
 
-Innan du kan flytta resurser, se:
+Innan du kan flytta resurser kan du se:
 
-- [Check lista innan du flyttar resurser](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#checklist-before-moving-resources)
+- [Checklista innan resurser flyttas](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#checklist-before-moving-resources)
 - [Tjänster som kan flyttas](https://docs.microsoft.com/azure/azure-resource-manager/move-support-resources?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Verifiera flytten](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#validate-move)
+- [Så här verifierar du flytten](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#validate-move)
 - [Flytta vägledning för tjänster](https://docs.microsoft.com/azure/azure-resource-manager/move-limitations/app-service-move-limitations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Om du vill flytta befintliga resurser till en annan resurs grupp eller prenumeration kan du använda:
+Om du vill flytta befintliga resurser till en annan resursgrupp eller prenumeration kan du använda:
 
 - [Azure Portal](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-the-portal)
 - [Azure PowerShell](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-azure-powershell)
 - [Azure CLI](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-azure-cli)
-- [REST API](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-rest-api)
+- [REST-API](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-rest-api)
 
-Själv studie kurs: [Flytta Azure-resurser till en annan resurs grupp eller prenumeration](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-tutorial-move-resources)
+Självstudiekurs: [Flytta Azure-resurser till en annan resursgrupp eller prenumeration](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-tutorial-move-resources)
 
 **Felsöka fel med Azure Resource Manager**
 
-Läs artiklarna nedan för att få mer information om vanliga Azure-distributionspaket och hur du löser dem. Om du inte hittar felkoden för distributions felet, se [find felkod](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors?WT.mc_id=Portal-Microsoft_Azure_Support#find-error-code).
+I artiklarna nedan finns information om några vanliga Azure-distributionsfel och information om hur du löser dem. Om du inte hittar felkoden för distributionsfelet kan du gå till [Hitta felkod](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors?WT.mc_id=Portal-Microsoft_Azure_Support#find-error-code).
 
-- [Felsöka distributions fel](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors)
-- [Felsöka flytt av Azure-resurser till en ny resurs grupp eller prenumeration](https://docs.microsoft.com/azure/azure-resource-manager/troubleshoot-move)
+- [Felsöka distributionsfel](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors)
+- [Felsöka flytt av Azure-resurser till ny resursgrupp eller prenumeration](https://docs.microsoft.com/azure/azure-resource-manager/troubleshoot-move)
 
-Observera att om du vill uppgradera ditt Azure-abonnemang, till exempel att byta från gratis för att betala allt eftersom, måste du konvertera prenumerationen.
+Observera att om du vill uppgradera din Azure-prenumeration, till exempel byta från kostnadsfri till betalning efter behov, måste du konvertera din prenumeration.
 
-- Om du vill uppgradera en kostnads fri utvärderings version kan [du läsa uppgradera din gratis prov period eller Microsoft Föreställ dig Azure-abonnemang för att betala allt eftersom](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription).
-- Information om hur du ändrar ett konto för betala allt eftersom finns i [ändra ditt Azure betala-allteftersom-abonnemang till ett annat erbjudande](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer).
+- Om du vill uppgradera en kostnadsfri utvärderingsversion kan du läsa Uppgradera din kostnadsfria utvärderingsversion eller [Microsoft Imagine Azure-prenumeration till Betala per användning.](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription)
+- Om du vill ändra ett konto med betalning efter användning kan du läsa Ändra [din Azure-prenumeration](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer)med betalning efter användning till ett annat erbjudande.
 
-**Lägga till eller koppla ett Azure-abonnemang till din Azure Active Directory-klient organisation:**
+**Så här lägger du till eller kopplar en Azure-prenumeration Azure Active Directory klientorganisationen:**
 
-1. Logga in och välj den prenumeration du vill använda från [sidan prenumerationer i Azure Portal](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
-2. Välj **ändra katalog**.
-3. Granska eventuella varningar som visas och välj sedan **ändra**.
-4. Katalogen ändras för abonnemanget och du får ett meddelande om att meddelandet lyckades.
-5. Gå till den nya katalogen med *katalog* växlaren. Det kan ta upp till 10 minuter innan allting visas korrekt.
+1. Logga in och välj den prenumeration du vill använda från sidan [Prenumerationer i Azure Portal.](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)
+2. Välj **Ändra katalog**.
+3. Granska alla varningar som visas och välj sedan **Ändra**.
+4. Katalogen ändras för prenumerationen och du får ett meddelande om detta.
+5. Använd *Katalogväxeln* för att gå till den nya katalogen. Det kan ta upp till 10 minuter för allt att visas korrekt.
 
 **Rekommenderade dokument**
 
-- [Överföra ägande av en Azure-prenumeration](https://docs.microsoft.com/azure/billing-subscription-transfer)
-- [Flytta resurser till en ny resurs grupp eller prenumeration](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources)
-- [Hantera resurser med Azure Portal](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-portal)
+- [Överföra ägarskapet för en Azure-prenumeration](https://docs.microsoft.com/azure/billing-subscription-transfer)
+- [Flytta resurser till en ny resursgrupp eller prenumeration](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources)
+- [Hantera resurser med Hjälp av Azure Portal](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-portal)

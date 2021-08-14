@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "6875"
-ms.openlocfilehash: d5adc7f14baef80704d7455fafef36aed6cd5318
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 7948013bb4c1715512572880369a04adaff3c06b824d245394139380abc65378
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50482995"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953131"
 ---
 # <a name="adding-members-to-private-channels"></a>Lägga till medlemmar i privata kanaler
 
-En ägare av den privata kanalen är den som skapar en privat kanal och den här personen har bara behörighet att lägga till eller ta bort personer från den direkt. Ägare av privata kanaler kan lägga till valfri teammedlem i en privat kanal som de har skapat, inklusive gäster.
+En ägare till en privat kanal är en som skapar en privat kanal och den här personen har bara behörighet att lägga till eller ta bort personer från den direkt. Ägare av privata kanaler kan lägga till valfri teammedlem i en privat kanal som de har skapat, inklusive gäster.
 
-Teamägare kan se namnen på alla privata kanaler i teamet och kan också ta bort alla privata kanaler i teamet (en borttagna privat kanal kan återställas inom 30 dagar efter att den tagits bort).) Teamägare kan inte se filerna i en privat kanal eller i konversationerna och medlemslistan för en privat kanal om de inte är medlemmar i den privata kanalen.
+Teamägare kan se namnen på alla privata kanaler i teamet och kan även ta bort alla privata kanaler i teamet (en borttagna privat kanal kan återställas inom 30 dagar efter att den tagits bort).) Teamägare kan inte se filerna i en privat kanal eller konversationerna och medlemslistan för en privat kanal om de inte är medlemmar i den privata kanalen.
 
 Teammedlemmar kan bara se privata kanaler som de har lagts till i.
 

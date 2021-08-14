@@ -1,5 +1,5 @@
 ---
-title: Bevarande och borttagning av OneDrive
+title: OneDrive och ta bort
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,25 +13,25 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: c5fd94b91d0938f6adbfa10848d875a02ba23f00
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ed62445ffbac108bba6e7b8b8f4d8fcbcb3777d199e2a183fa457949cfe830a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673479"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985379"
 ---
-# <a name="onedrive-retention-and-deletion"></a>Bevarande och borttagning av OneDrive
+# <a name="onedrive-retention-and-deletion"></a>OneDrive och ta bort
 
-- Du kan [återställa en borttagen användare i OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) . De är i pappers korgen för 93 dagar.
+- Du kan [återställa en borttagna användare OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) själv. De finns i papperskorgen i 93 dagar.
 
-- Mer information finns i [den här artikeln](https://docs.microsoft.com/onedrive/retention-and-deletion) :
-    - Ge en annan användare åtkomst till en borttagen användares OneDrive.
-    - Vad händer med en användares OneDrive när du tar bort användarens Microsoft 365-konto för din organisation.
-    - Konfigurera automatisk delegering av åtkomst.
-    - Hur borttagnings processen för OneDrive fungerar.
+- Läs [den här artikeln om du](https://docs.microsoft.com/onedrive/retention-and-deletion) vill veta mer:
+    - Hur du ger en annan användare åtkomst till en borttagna användares OneDrive.
+    - Vad händer med en användares OneDrive när du tar bort användarens Microsoft 365 för organisationen.
+    - Så här konfigurerar du automatisk åtkomstdelegering.
+    - Så OneDrive borttagningsprocessen fungerar.
 
-- Information om hur du återställer objekt från pappers korgen i OneDrive finns i [återställa borttagna filer och mappar](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
+- Mer information om hur du återställer objekt från papperskorgen i OneDrive finns i [Återställa borttagna filer eller mappar.](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
 
-- Intresse rad av säkerhets-och efterlevnadsprinciper bevarande och håll?
-    - [Bevarande principer för OneDrive-och SharePoint-webbplatser](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-    - [eDiscovery-undantag för OneDrive-och SharePoint-webbplatser](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- Vill du veta mer om bevarande och bevarande av säkerhets- och efterlevnadscenter?
+    - [Bevarandeprinciper för OneDrive och SharePoint webbplatser](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+    - [eDiscovery-hold för OneDrive och SharePoint webbplatser](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
