@@ -1,5 +1,5 @@
 ---
-title: Återställa borttagna Stream-videor från papperskorgen
+title: Återställa borttagna Stream-videor från Papperskorgen
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "8282"
-ms.openlocfilehash: 173df399f90ed2bae9b4b91d0f731bee7984c9ab
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 48e3aa2ac47b031f8380c6a03b43eb22419ba89eb149b98a0b63b71f3713ca0c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294385"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959449"
 ---
-# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>Återställa borttagna Stream-videor från papperskorgen
+# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>Återställa borttagna Stream-videor från Papperskorgen
 
 När videor tas bort i Microsoft Stream ligger de i en papperskorg på 30 dagar.
 
-Med videokorgen kan du återställa videor om de togs bort av misstag eller om du permanent ville ta bort videor som redan fanns i papperskorgen före 30 dagars gräns.
+Med videokorgen kan du återställa videoklipp om de togs bort av misstag eller om du permanent vill ta bort videor som redan finns i papperskorgen före 30-dagarsgränsen.
 
 Mer information finns i:
 
-- [Återställa borttagna videor från papperskorgen](https://docs.microsoft.com/stream/portal-my-recycle-bin)
-- [Videoåterkorg för Stream-administratör](https://docs.microsoft.com/stream/admin-recycle-bin)
+- [Återställa borttagna videor från Papperskorgen](https://docs.microsoft.com/stream/portal-my-recycle-bin)
+- [Papperskorgen för video för Stream-administratören](https://docs.microsoft.com/stream/admin-recycle-bin)

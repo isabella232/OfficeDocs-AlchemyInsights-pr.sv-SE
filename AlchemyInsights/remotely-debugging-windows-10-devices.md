@@ -1,5 +1,5 @@
 ---
-title: Komma igång med fjärrfelsökning på Windows 10-enheter
+title: Komma igång med fjärrfelsökning på Windows 10 enheter
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "6980"
 - "10188"
 - "9005827"
-ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 829f8edc6c1d9887f157f503071aa7cab2f334ed34d66765042a42a4d7d97113
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398582"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959413"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Komma igång med fjärrfelsökning på Windows 10-enheter
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Komma igång med fjärrfelsökning på Windows 10 enheter
 
-Så här felsöker du liveinnehåll på en Windows 10-enhet på en Windows- eller macOS-dator:
+Så här felsöker du liveinnehåll på en Windows 10-enhet från en Windows eller macOS-dator:
 
-1. Konfigurera din Windows 10-enhet för fjärrfelsökning och anslut sedan till den från utvecklingsdatorn.
-2. Inspektera och felsöka liveinnehåll på din Windows 10-enhet från utvecklingsdatorn.
-3. Skärmbild av innehåll från din Windows 10-enhet till en DevTools-instans på utvecklingsdatorn.
+1. Konfigurera din Windows 10 för fjärrfelsökning och anslut sedan till den från utvecklingsdatorn.
+2. Inspektera och felsöka liveinnehåll på Windows 10-enheten från utvecklingsdatorn.
+3. Skärmbild av innehåll från din Windows 10 till en DevTools-instans på utvecklingsdatorn.
 
-Mer information finns i Komma [igång med fjärrfelsökning av Windows 10-enheter med Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2142172)
+Mer information finns i [Kom igång med fjärrfelsökning och Windows 10 enheter med Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).

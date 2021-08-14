@@ -14,21 +14,21 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 1068f9e3b88dcc98a4d1042e923f235bf21ee727
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 425c5c0f12bed27bb72a0eb0fec803d7b61d9d0f873563dc6439cbfda9fdd08c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799251"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959377"
 ---
 # <a name="remove-the-large-attachment"></a>Ta bort den stora bifogade filen
 
-1. I Outlook väljer du **Skicka/ta**  >  **emot arbete offline.** 
+1. I Outlook väljer du **Skicka/ta emot**  >  **arbete offline.** 
 2. Välj Utkorgen i **navigeringsfönstret.** Härifrån kan du: 
     - Ta bort meddelandet (markera det och välj sedan Ta **bort**).
     - Dra meddelandet till mappen Utkast, dubbelklicka för att öppna det och ta bort den bifogade filen genom att markera det och sedan välja Ta **bort**).
-3. Om du får ett felmeddelande om att Outlook försöker överföra meddelandet stänger du Outlook. Det kan ta en stund att avsluta. Om Outlook inte stängs trycker du på Ctrl+Alt+Delete och väljer **Starta Aktivitetshanteraren.** I Aktivitetshanteraren väljer du **fliken Processer,** bläddrar ned till outlook.exe och väljer **Avsluta process.**
-4. När Outlook stängs startar du om det och upprepar steg 2 och 3. 
+3. Om du får ett felmeddelande som säger Outlook försöker överföra meddelandet stänger du Outlook. Det kan ta en stund att avsluta. Om Outlook aktivitetshanteraren inte stängs trycker du på Ctrl+Alt+Delete och väljer **Starta Aktivitetshanteraren.** I Aktivitetshanteraren väljer du **fliken Processer,** bläddrar ned till outlook.exe och väljer **Avsluta process.**
+4. När Outlook stänger startar du om den och upprepar steg 2 och 3. 
 5. När du har tagit bort den bifogade filen klickar **du på Skicka/ta** emot  >  **arbete offline för** att fortsätta arbeta online. 
 
 Meddelanden fastnar också i Utkorgen när du klickar **på Skicka,** men du är inte ansluten. Klicka **på Skicka/ta** emot och titta på **knappen Arbeta offline.** Om den är blå kopplas du bort. Klicka på den för att ansluta (knappen blir vit) och klicka **på Skicka alla**.

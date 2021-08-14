@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "8340"
-ms.openlocfilehash: 6ac90611bbe626e7f11b817965fd2d3c7fbf98c1
-ms.sourcegitcommit: c202c0df2d141e63f4f7eb13a56efbfc2f57348f
+ms.openlocfilehash: 9493d4cede39b4fb5aa41638c0f709b9025b2468ade322be6991bdad17e97d5d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50508571"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932871"
 ---
 # <a name="android-enterprise-enrollment-error-mgp-set-up-detection"></a>Registreringsfel i Android Enterprise: Identifiering av MGP-set-up
 
-Vi har upptäckt att Hanterad Google Play inte är konfigurerad eller frånkopplad för ditt konto. Det här kan orsaka problem med att registrera enheter i Android Enterprise-scenarier där en hanterad Google Play-anslutning krävs.
+Vi har upptäckt att Hanterad Google Play inte har ställts in eller kopplats från för ditt konto. Detta kan orsaka problem med att registrera enheter i Android Enterprise-scenarier där en hanterad Google Play-anslutning krävs.
 
-Du kan kontrollera status för hanterad Google Play-anslutning i MEM-konsolen under Innehavaradministration >-klientorganisationens **status > Anslutningsstatus** och i följande dokumentation finns information om hur du ansluter ditt Intune-konto till ditt hanterade Google-konto: Anslut ditt **[Intune-konto](https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise)** till ditt hanterade Google Play-konto.
+Du kan kontrollera statusen för Hanterad Google Play-anslutning i MEM-konsolen under Status för klientorganisation **> klientorganisationsstatus >** Anslutningsstatus och se följande dokumentation för mer information om hur du ansluter ditt Intune-konto till ditt hanterade Google-konto: Anslut ditt **[Intune-konto](https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise)** till ditt hanterade Google Play-konto.
