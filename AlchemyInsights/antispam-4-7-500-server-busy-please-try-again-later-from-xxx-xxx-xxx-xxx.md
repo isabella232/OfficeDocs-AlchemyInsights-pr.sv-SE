@@ -1,5 +1,5 @@
 ---
-title: 1050 antispam 4.7.500 server upptagen. Försök igen senare från [XXX.XXX.XXX.XXX]
+title: 1050 Antispam 4.7.500 Server busy. Försök igen senare från [XXX.XXX.XXX.XXX]
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1050"
 - "3100024"
 ms.assetid: a97b7845-4884-4d99-bab6-52539603cab2
-ms.openlocfilehash: 76182c54fe16a01843db02f66dd7f94b4514d31e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 84a5dfccd7ec3e4640c728ab1740220309a0d97b61157d0fd4e463ed95aef0d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717559"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932655"
 ---
-# <a name="47500-server-busy-please-try-again-later"></a>4.7.500 server upptagen, försök igen senare
+# <a name="47500-server-busy-please-try-again-later"></a>4.7.500 Server upptagen, försök igen senare
 
-Det här felet uppstår när volymen för e-posttrafik från käll-IP-adressen överskrider gräns värdet utifrån ditt rykte (eller avsaknad av rykte) för käll-IP-adressen.
+Det här felet inträffar när volymen av e-posttrafik från käll-IP-adressen överskrider gränsen baserat på ryktet (eller brist på rykte) för käll-IP-adressen.
 
-Blockering av e-post från käll-IP-adress upphör att gälla inom en timme. Om käll-IP-adressen är en lokal e-postserver som tillhör dig kontrollerar du konfigurationen för e-postflöde. Om problemet fortsätter under mer än en timme kontaktar du supporten för att begära ett undantag för käll-IP-adressen.
+Blockeringen av e-post från käll-IP-adressen upphör att gälla inom en timme. Om käll-IP-adressen är en lokal e-postserver som tillhör dig kontrollerar du konfigurationen av e-postflödeskopplingen. Om beteendet kvarstår i mer än en timme kontaktar du supporten för att begära ett undantag för käll-IP-adressen.

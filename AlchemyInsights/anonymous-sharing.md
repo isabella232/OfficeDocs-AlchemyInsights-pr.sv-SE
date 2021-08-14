@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: e2b0d6f6841481e7864c25872e6e8570b8a2fba3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8b94898e703a14fdfa4903565a680e7d5dea0f1cafedc59412d425b4ff9bbb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717739"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932799"
 ---
 # <a name="anonymous-sharing"></a>Anonym delning
 
  **Aktivera anonym åtkomst**
   
-I det nya administrations centret för SharePoint klickar du på **delning** i det vänstra fönstret. 
+I det SharePoint administrationscentret klickar du **på delning** i den vänstra rutan. 
   
-- Välj följande: **Tillåt delning till autentiserade externa användare och användning av anonym åtkomst.**
+- Välj följande: Tillåt **delning för autentiserade externa användare och med anonym åtkomst.**
   
-(Om du vill kan du ange att länkarna ska upphöra om ett visst antal dagar och välja hur mottagarna kan använda länkarna.)
+(Du kan också ange att länkar ska upphöra att gälla efter ett visst antal dagar och välja hur mottagarna kan använda länkarna.)
     
  **Dela en fil eller mapp anonymt**
   
-- Markera den fil eller mapp du vill dela och klicka sedan på **dela**. 
+- Markera den fil eller mapp som du vill dela och klicka sedan på **Dela**. 
     
-- Vem vill du att den här länken ska fungera för? Klicka på **vem som helst.**
+- Vem vill du att länken ska fungera för? klicka **på Alla.**
   
- **Obs!** **alla** skapar en länk som alla kan använda för att komma åt dokumentet eller mappen, även om de inte är inloggade i Microsoft 365 eller OneDrive. Använd det här om du vill dela med vem som helst, inom eller utanför företaget. Den här länken kan även vidarekopplas till vem som helst. 
+ **Obs!** **Alla** skapar en länk som alla kan använda för åtkomst till dokumentet eller mappen, även om de inte är inloggade på Microsoft 365 eller OneDrive. Används för att dela med vem som helst, inom eller utanför företaget. Den här länken kan också vidarebefordras till vem som helst. 
     
 

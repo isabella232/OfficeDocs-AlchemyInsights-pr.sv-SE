@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "9000594"
 - "2438"
-ms.openlocfilehash: 864e08c3dd9e424b7c59772274321249f2bad9f4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 15082cbce2d7ff041842fc7506d611bee419a003646e56d1e7488981dd4d7020
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769021"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962689"
 ---
 # <a name="adblock"></a>AdBlock
 
-Vissa användare har för närvarande problem med att läsa eller skriva e-post när du använder Google Chrome med AdBlock-tillägget. Så här löser du problemet:
+Vissa användare har för närvarande problem med att läsa eller skriva e-post när de använder Google Chrome med AdBlock-tillägget. Så här kan du komma runt det här problemet:
 
-1. Använd [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge)   eller en annan webbläsare.
-1. Exkludera Outlook.com från AdBlock-inställningarna.I det övre högra hörnet av Google Chrome väljer du **Adblock**   och väljer sedan **Kör inte på sidor på den här domänen**.Uppdatera webbläsaren för att ladda Outlook.com igen.
+1. Använd [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) eller en annan webbläsare.
+1. Uteslut Outlook.com från AdBlock-inställningarna. Välj **AdBlock** i det övre högra hörnet av Google Chrome och välj sedan **Kör inte på sidor i den här domänen.** Uppdatera webbläsaren för att läsa Outlook.com igen.

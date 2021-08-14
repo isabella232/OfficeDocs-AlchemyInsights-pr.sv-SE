@@ -1,5 +1,5 @@
 ---
-title: Ändra ditt profil namn i Outlook.com
+title: Ändra profilnamn på Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,17 +14,17 @@ ms.custom:
 - "8000036"
 - "777"
 - "806"
-ms.openlocfilehash: 7727dcb552fbbd31d4bec57bf16ac188f6783006
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc5d0d93091cdd4c74b6703e4295bfac18c911f8ad630b8bd7db5a17b1ffb9d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802435"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962473"
 ---
-# <a name="change-your-profile-name-in-outlookcom"></a>Ändra ditt profil namn i Outlook.com
+# <a name="change-your-profile-name-in-outlookcom"></a>Ändra profilnamn på Outlook.com
 
-1. Gå till [ditt Microsoft-konto](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Gå till [Dina Microsoft-kontouppgifter.](https://go.microsoft.com/fwlink/p/?linkid=860841)
 2. Välj **Redigera namn**.
-3. Ange förnamn och efter namn och välj **Spara**.
+3. Ange ett förnamn och efternamn och välj **Spara**.
 
-Låt upp till 24 timmar behöva ändra ditt profil namn för att börja gälla.
+Det kan ta upp till 24 timmar innan ändringar av profilnamnet verkställs.

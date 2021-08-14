@@ -1,5 +1,5 @@
 ---
-title: 1049 AntiSpam 4.5.3 för många mottagare (AS780090)
+title: 1049 AntiSpam 4.5.3 Too many recipients (AS780090)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1049"
 - "3100024"
 ms.assetid: fa3d4be9-c90a-4926-9754-4b708b038bf6
-ms.openlocfilehash: deb57e6e872ce5769a339c7d130a63a8e90ab4c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f187674294a8fd64b164697946ac0366b41f30894478fba3f37843730f445d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717811"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932759"
 ---
-# <a name="453-too-many-recipients-as780090"></a>4.5.3 för många mottagare (AS780090)
+# <a name="453-too-many-recipients-as780090"></a>4.5.3 För många mottagare (AS780090)
 
-Det här felet uppstår när volymen för e-posttrafik från käll-IP-adressen överskrider gräns värdet utifrån ditt rykte (eller avsaknad av rykte) för käll-IP-adressen.
+Det här felet inträffar när volymen av e-posttrafik från käll-IP-adressen överskrider gränsen baserat på ryktet (eller brist på rykte) för käll-IP-adressen.
 
-Blockering av e-post från käll-IP-adress upphör att gälla inom en timme. Om käll-IP-adressen är en lokal e-postserver som tillhör dig kontrollerar du konfigurationen för e-postflöde. Om problemet fortsätter under mer än en timme kontaktar du supporten för att begära ett undantag för käll-IP-adressen.
+Blockeringen av e-post från käll-IP-adressen upphör att gälla inom en timme. Om käll-IP-adressen är en lokal e-postserver som tillhör dig kontrollerar du konfigurationen av e-postflödeskopplingen. Om beteendet kvarstår i mer än en timme kontaktar du supporten för att begära ett undantag för käll-IP-adressen.

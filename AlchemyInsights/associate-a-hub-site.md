@@ -1,5 +1,5 @@
 ---
-title: Koppla en nav webbplats
+title: Koppla en hubb-webbplats
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: dc81648caee1d824e525c73c9d7a90b9e1490e21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9cc6512e50a7f2c49013d6b6659240e240141337396c961edc04225e130f54b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715759"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989645"
 ---
-# <a name="associate-existing-site-with-a-hub-site"></a>Associera befintlig webbplats med en nav webbplats
+# <a name="associate-existing-site-with-a-hub-site"></a>Koppla befintlig webbplats till en navplats
 
-Så här kopplar du en befintlig webbplats till din nav webbplats:
+Så här kopplar du en befintlig webbplats till din navplats:
   
-1. På din webbplats väljer du **Inställningar** (kugg hjuls ikonen i det övre högra hörnet) och väljer sedan **webbplatsinformation**.
+1. På webbplatsen väljer du **Inställningar** (kugghjulsikonen i det övre högra hörnet) och sedan **Webbplatsinformation**.
 
-2. På panelen **Redigera webbplats information** väljer du den nav **webbplats du** vill koppla till webbplatsen och klickar sedan på **Spara**. Utseendet på din webbplats ändras så att det stämmer överens med nav webbplatsen och navigations fältet för hubben visas överst.
+2. På panelen **Redigera webbplatsinformation** i menyn **Navwebbplatsassociating** väljer du den navwebbplats du vill koppla till din webbplats och klickar sedan på **Spara**. Webbplatsens utseende ändras så att det matchar navplatsens utseende och navplatsens navigeringsfält visas högst upp.
 
->**Fotnot**
+>**Obs!**
 >
->Om alternativet nav plats Association saknas eller inga webbplatser visas kan det hända att nav webbplatser inte är aktiverade eller att du inte har behörighet att koppla webbplatser till en nav webbplats. Kontakta administratören för mer information.
+>Om alternativet för navplatsassociatering inte finns eller om inga webbplatser visas där, kanske navwebbplatser inte är aktiverade eller så kanske du inte har behörighet att associera webbplatser med en navplats. Kontakta administratören om du vill ha mer information.
 >
->Det finns inga begränsningar för hur många webbplatser som kan kopplas till en nav webbplats.
+>Det finns ingen gräns för antalet webbplatser som kan associeras med en navplats.
   

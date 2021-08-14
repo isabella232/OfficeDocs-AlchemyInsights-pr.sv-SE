@@ -1,5 +1,5 @@
 ---
-title: Kalender information för 608
+title: 608 Kalenderinformation om hybridkonfigurationer
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "896"
 - "3800005"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
-ms.openlocfilehash: beeaeeacffc8e56f7b25458a9978d0bdfe954af1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e946c6594f0244706835f13bbee1594a7e705306740e20ce599cad18d70fb79c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684608"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989573"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Ledig/upptagen-problem med kalendern i hybrid miljöer
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Ledig/upptagen-problem för kalendern i hybridmiljöer
 
-Om användarna har problem med att se ledig/upptagen-information för kalendern i hybrid miljöer kör du hybrid konfigurations guiden igen. Mer information om hybrid konfigurations guiden finns i [hybrid konfigurations guiden](https://go.microsoft.com/fwlink/p/?linkid=528149).
+Om användarna har problem med att se kalenderns ledig/upptagen-information i hybridmiljöer kan du köra hybridkonfigurationsguiden. Mer information om hybridkonfigurationsguiden finns i [Hybridkonfigurationsguiden.](https://go.microsoft.com/fwlink/p/?linkid=528149)
 
-Anvisningar för fel sökning i hybrid miljöer finns i [Felsöka en hybrid distribution](https://technet.microsoft.com/library/jj659053.aspx).
+Information om felsökningssteg i hybridmiljöer finns i [Felsöka en hybriddistribution.](https://technet.microsoft.com/library/jj659053.aspx)
