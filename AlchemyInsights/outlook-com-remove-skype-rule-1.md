@@ -1,5 +1,5 @@
 ---
-title: Outlook.com ta bort Skype
+title: Outlook.com Ta bort Skype
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: f5494dec1960daea144fb2e2ddd0413689e03ab3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 03a866ac063d6136a5069b22216a9f3bf43a1202f9020f16ac5edb7cf89ce9ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723337"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962113"
 ---
-# <a name="skype-icon-missing"></a>Skype-ikonen saknas
+# <a name="skype-icon-missing"></a>Skype ikon saknas
 
-Vi har tillfälligt tagit bort Skype-ikonen från Outlook.com som en del av en design uppdatering och funktions uppdatering vi är glada att kunna lanseras. Vi uppskattar ditt tålamod medan vi förbereder ett nytt och förbättrat gränssnitt för dig.
+Vi har tillfälligt tagit bort ikonen Skype från Outlook.com som en del av en designuppdatering och funktionsuppdatering som ser fram emot att lanseras. Vi uppskattar ditt tålamod medan vi förbereder en ny och förbättrad upplevelse för dig.
 
-Du kan fortfarande använda Skype via webbläsaren på [Web.Skype.com](https://web.skype.com/).
+Du kan fortfarande använda Skype via webbläsaren på [web.skype.com](https://web.skype.com/).
