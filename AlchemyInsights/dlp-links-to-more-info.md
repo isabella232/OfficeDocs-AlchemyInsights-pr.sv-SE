@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: eafa52e81bfffbd9082ec3aee738d313736c3a72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fee9defac7b29999056cac161f271c4c97306e2fe2cbd9a23b1b956b2ee02e98
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679747"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030848"
 ---
 # <a name="information-about-dlp-issues"></a>Information om DLP-problem
 
@@ -26,13 +26,13 @@ ms.locfileid: "47679747"
 
 Med en DLP-princip kan du identifiera, övervaka och automatiskt skydda känslig information i Microsoft 365.
 
-Besök dessa länkar för mer information:
+Gå till de här länkarna om du vill ha mer information:
 
-- [Översikt över skydd mot data förlust](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
-- [Så här ser den känsliga informations typen ut](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
-- [Skapa en anpassad känslig informations typ](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
-- [Skicka e-postmeddelanden och Visa princip Tips](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-- [Skydda SharePoint Online-filer med bevarande etiketter och DLP](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [Översikt över dataförlustskydd](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
+- [Vad typer av känslig information letar efter](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+- [Skapa en anpassad känslig informationstyp](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
+- [Skicka e-postaviseringar och visa principtips](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- [Skydda SharePoint onlinefiler med bevarandeetiketter och DLP](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
 - [DLP och Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)
 
-Om du vill testa dina data med en inbyggd eller anpassad känslig informations typ använder du alternativet **testtyp** under **klassificerings**  >  **känsliga informations typer**. Mer information finns i [testa anpassade typer av känslig information](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
+Om du vill testa dina data med en inbyggd eller anpassad typ av känslig information använder du alternativet **Testtyp** under Typer **av känslig** information  >  **i Klassificeringar.** Mer information finns i Testa [anpassade typer av känslig information.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center)

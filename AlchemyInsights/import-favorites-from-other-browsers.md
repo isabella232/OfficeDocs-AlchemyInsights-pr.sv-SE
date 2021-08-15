@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9450"
 - "9005491"
-ms.openlocfilehash: 48e6d5ac22278544587d167f8bdd9957079f85d8
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
-ms.translationtype: MT
+ms.openlocfilehash: 1a40e87d293e8f48650f3a6b8933c36cadd45b2290e3a074a499c964a274d59b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51492150"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014954"
 ---
 # <a name="import-favorites-from-a-browser-other-than-internet-explorer-google-chrome-or-mozilla-firefox"></a>Importera favoriter från en annan webbläsare än Internet Explorer, Google Chrome eller Mozilla Firefox
 
 1. Spara favoriter i en HTML-fil i webbläsaren där du vill importera dina favoriter.
 
-1. Öppna Microsoft Edge och välj sedan **Inställningar med mera ...**  >  **Inställningar**  >  **Importera webbläsardata**.
+1. Öppna Microsoft Edge och välj sedan Inställningar **och mer ...**  >  **Inställningar**  >  **Importera webbläsardata**.
 
 1. På menyn **Importera från** väljer du Favoriter **eller bokmärken för HTML-fil** Välj fil och väljer sedan  >  HTML-filen med dina favoriter.
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 81a7f77bd6565c52ec9d752934a872e59cc11e89b90a646d17c3549d72e8a69f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833309"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039444"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>Felsöka ljudproblem i Windows 10
 
@@ -55,12 +55,12 @@ Så här kontrollerar du att drivrutinerna är uppdaterade:
 
 2. Under **Ljud-, video- och spelenheter** väljer du ditt ljudkort, öppnar det, väljer fliken **Drivrutin** och väljer Uppdatera **drivrutin.**
 
-**Obs!** Om Windows inte hittar en ny drivrutin letar du upp en på enhetstillverkarens webbplats och följer deras anvisningar.
+**Obs!** Windows du inte hittar en ny drivrutin letar du upp en på enhetstillverkarens webbplats och följer deras instruktioner.
 
 **Installera om drivrutinen**
 
 Om du inte kan uppdatera via Enhetshanteraren eller hitta en ny drivrutin på tillverkarens webbplats kan du prova följande:
 
-1. I Enhetshanteraren högerklickar du på (eller håller ned) ljuddrivrutinen och väljer **Avinstallera.** Starta om enheten så försöker Windows installera om drivrutinen.
+1. I Enhetshanteraren högerklickar du på (eller håller ned) ljuddrivrutinen och väljer **Avinstallera.** Starta om enheten så Windows att försöka installera om drivrutinen.
 
 2. Om det inte fungerar att installera om drivrutinen kan du prova att använda den allmänna ljuddrivrutinen som medföljer Windows. I Enhetshanteraren högerklickar du på (eller håller ned) din ljuddrivrutin > Uppdatera drivrutinsprogramvara Bläddra i datorn efter drivrutinsprogramvara Låt mig välja från en lista med drivrutiner på datorn , välj High Definition Audio Device , välj Nästa och följ anvisningarna för att installera  >    >  den.  

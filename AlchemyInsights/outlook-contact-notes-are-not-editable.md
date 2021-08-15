@@ -1,6 +1,6 @@
 ---
 ms.author: pebaum
-title: Outlook Contact-anteckningar är inte redigerbara
+title: Outlook kan inte redigeras
 author: pebaum
 manager: joallard
 ms.date: 04/21/2020
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 9000185
 ms.assetid: ''
-ms.openlocfilehash: 114c0b3765bf6f09c4368fd51e34509672d54c56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e518c10622b1bc07524d0393b1f04d67017dfe31209ed5d1e8283b7fc14917b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722401"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991985"
 ---
-# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Det går inte att redigera antecknings fältet för en kontakt i Outlook
-Detta är ett känt problem. Vi arbetar för att åtgärda det och statusen uppdateras i [kan inte redigera antecknings fältet för en kontakt](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
+# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Det går inte att redigera anteckningsfältet för en kontakt i Outlook
+Det här är ett känt problem. Vi arbetar med att åtgärda det och statusen uppdateras i [Det går inte att redigera anteckningsfältet för en kontakt.](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe)
 
-**Lösning**: om du använder ett Microsoft 365-eller ett Outlook.com-konto kan du redigera dina kontakter med hjälp av webben. Om du använder ett IMAP-eller POP-konto finns det ingen lösning för tillfället.
+**Lösning:** Om du använder ett Microsoft 365 eller ett Outlook.com-konto kan du redigera dina kontakter med hjälp av webben. Om du använder ett IMAP- eller POP-konto finns det för närvarande ingen lösning.

@@ -12,20 +12,20 @@ ms.custom:
 - "720"
 - "6000003"
 ms.assetid: 254b58a6-a85d-4c1c-b19f-de61b8f9a227
-ms.openlocfilehash: 5ff325ea3d4b736b115b09bf4d8513938a61b1a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b4348ecb55a8f0dc57e1b51f913f21ccd2e2830fd62a81e4f47a77ef371a226
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778061"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976667"
 ---
 # <a name="manage-groups-in-yammer"></a>Hantera grupper i Yammer
 
-- **Behörighet att skapa grupper.** Yammer styr inte vem som kan skapa en grupp. Det går att hantera grupp skapande för anslutna Microsoft 365-grupper. Se [Hantera vilka som kan skapa Microsoft 365-grupper](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups) för mer information.
+- **Behörighet att skapa grupper.** Yammer styr inte vem som kan skapa en grupp. Det går dock att hantera skapande av grupper för anslutna Microsoft 365 Grupper. Mer [information finns i Hantera vem som Microsoft 365 skapa grupper.](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)
 
-- **Dynamiskt grupp medlemskap.** Mer information om hur du skapar dynamiska medlemskap för Yammer-anslutna Microsoft 365-grupper finns [i skapa en dynamisk grupp i Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group) .
+- **Dynamiskt gruppmedlemskap.** Mer information om [hur du skapar dynamiskt medlemskap Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group) anslutna Microsoft 365 grupper finns i Skapa Yammer dynamiska grupper.
 
-- **Återställa borttagna grupper.** Återställning av Yammer-grupper är möjlig via [Återställ en borttagen Microsoft 365-grupp](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group) ej anslutna grupper kan inte återställas efter borttagning.
+- **Återställa borttagna grupper.** Återställning av Yammer grupp går att återställa via Återställ en borttagen grupp [Microsoft 365 Grupper](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group) som inte är anslutna kan inte återställas efter borttagningen.
 
-Mer information om hur du hanterar en grupp finns i [hantera en grupp i Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). Information om anslutna Microsoft 365-grupper finns i [Yammer och Microsoft 365 Groups](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups).
+Mer information om hur du hanterar en grupp finns [i Hantera en grupp i Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). Mer information om anslutna Microsoft 365 grupper finns i Yammer [och Microsoft 365 Grupper.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups)
   
