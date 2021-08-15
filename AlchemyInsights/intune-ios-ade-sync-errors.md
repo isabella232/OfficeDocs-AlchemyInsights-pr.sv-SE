@@ -1,5 +1,5 @@
 ---
-title: Synkroniseringsfel för automatisk enhetsregistrering för Apple
+title: Synkroniseringsfel för Apple Automatisk enhetsregistrering
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "7256"
-ms.openlocfilehash: 912c9e56b4c468fb333769f15bd7c212594dc11a
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 1664a26b313c4a38c9c6d78cdb89997749ba175fd3dd72f278e99bbd50b0ee84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448940"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013766"
 ---
-# <a name="apple-automatic-device-enrollment-sync-errors"></a>Synkroniseringsfel för automatisk enhetsregistrering för Apple
+# <a name="apple-automatic-device-enrollment-sync-errors"></a>Synkroniseringsfel för Apple Automatisk enhetsregistrering
 
-"Vi har upptäckt att du har en eller flera ADE/DEP-token som är i ett felläge. Tills feltillståndet har lösts för varje påverkad token fungerar inte ADE-funktionerna som förväntat."
+"Vi har upptäckt att du har en eller flera ADE/DEP Tokens som har ett feltillstånd. Tills feltillståndet har lösts för varje påverkad token fungerar ADE-funktionen inte som förväntat.".
 
-Det här felet kan visa sig på flera olika sätt, bland annat:
+Det här felet kan visa sig på flera olika sätt:
 
-1. Enheter kan inte synkronisera från ABM/ASM till Intune
-2. Profiltilldelningar i registrering kanske inte fungerar
+1. Enheter kan inte synkroniseras från ABM/ASM till Intune
+2. Registreringsprofiltilldelningar kanske inte fungerar
 3. Enheter kanske inte slutför ADE-registreringen
 
-Kontrollera om synkroniseringsfelet har rapporterats på Intune-konsolen under Enheter > Registrera enheter **> Apple-registrering > token för registreringsprogram.**
+Kontrollera om synkroniseringsfelet har rapporterats i Intune-konsolen under Enheter > Registrera enheter **> Apple-registrering > Token** för registreringsprogram .
 
-En av de vanligaste orsakerna till synkroniseringsfel är att den aktuella tokenet förfaller. I många fall löser förnyelsen av den aktuella tokenen problemet.
+En av de vanligaste orsakerna till synkroniseringsfel är förfallotiden för den aktuella tokenen. I många fall löses problemet om den aktuella tokenen förnyas.
 
 Om en eller flera av dina token har upphört att gälla kan du läsa följande dokumentation som hjälper dig att förnya dem efter behov:
 
@@ -39,7 +39,7 @@ Om en eller flera av dina token har upphört att gälla kan du läsa följande d
 
 Dessutom kan du se följande dokumentation för att se möjliga åtgärder för andra fel som orsakar tokensynkroniseringsfel:
 
-[ABM-/ASM-synkroniseringsfel för iOS-/iPadOS- och macOS-token för automatisk enhetsregistrering](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
+[ABM-/ASM-synkroniseringsfel för iOS-/iPadOS- och macOS-automatiska token för enhetsregistrering](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
 
 
 
@@ -47,4 +47,4 @@ Dessutom kan du se följande dokumentation för att se möjliga åtgärder för 
 
 
 
-[ABM-/ASM-synkroniseringsfel för iOS-/iPadOS- och macOS-token för automatisk enhetsregistrering](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)
+[ABM-/ASM-synkroniseringsfel för iOS-/iPadOS- och macOS-automatiska token för enhetsregistrering](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)

@@ -1,5 +1,5 @@
 ---
-title: 1829 – eDiscovery – problem
+title: 1829-ediscovery-issues
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: fe980d8ba54b710deca3bce9d8eca422d6c74da7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2a949afa39da637e32c6a254b7343df0eac402b3579e511d3b41e13b2b00bf7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710969"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030443"
 ---
 # <a name="ediscovery-issues"></a>eDiscovery-problem
 
-Letar du efter eDiscovery-alternativ? Med den återutgivna navigeringen i säkerhets & Compliance Center kan dina eDiscovery-alternativ ha flyttats.  Du hittar eDiscovery-alternativen på följande platser i säkerhets & efterlevnad baserat på vad du försöker göra:
+Letar du efter eDiscovery-alternativ? Med den omdesignade navigeringen i säkerhets- & efterlevnadscenter kanske eDiscovery-alternativen redan har flyttats.  Du hittar eDiscovery-alternativen på följande platser i säkerhets- & efterlevnadscenter baserat på vad du försöker göra:
 
-- Använda innehålls sökning för att söka efter innehåll i e-post, dokument, Skype för företag-konversationer och sedan exportera data – gå till **sök > innehålls sökning**
+- Använd Innehållssökning för att söka efter innehåll i e-post, dokument Skype för företag konversationer och exportera sedan data – Gå till Sök **efter innehåll > innehållssökning**
 
-- Skapa ett eDiscovery-ärende för att söka efter innehåll och placera innehålls platserna när de parkeras – gå till **ediscovery > eDiscovery**
+- Skapa ett e-dataidentifieringsfall för att söka efter innehåll och skapa plats att vänta på – gå till **eDiscovery > eDiscovery**
 
-- Använd den nya heltäckande eDiscovery-lösningen från slut punkt till slut för att identifiera och kommunicera med Custodians, bevara custodian data som är relevanta för ärendet, samla in data och lägga till den i en gransknings uppsättning och minska volymen för data genom att använda analys för att sprida onödiga data och fokusera på det mest relevanta i ärendet – gå till **eDiscovery > Advanced eDiscovery**
+- Använd den nya end-to-end Advanced eDiscovery-lösningen för att identifiera och kommunicera med identifierare, bevara bevarandedata som är relevanta för ärendet, samla in data och lägga till dem i en granskningsuppsättning samt minska mängden data genom att använda analyser för att undvika onödiga data och fokusera på det som är mest relevant för ärendet – Gå till **eDiscovery > Advanced eDiscovery**
 
 Mer information finns i:
 
-- [Innehålls sökning](https://docs.microsoft.com/microsoft-365/compliance/content-search)
+- [Innehållssökning](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [eDiscovery-ärenden i säkerhets & efterlevnad](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
+- [eDiscovery-ärenden i Säkerhets- & säkerhets- och efterlevnadscenter](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-- [Avancerad eDiscovery-lösning i Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)
+- [Advanced eDiscovery lösning i Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)

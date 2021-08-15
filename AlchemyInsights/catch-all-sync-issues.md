@@ -14,22 +14,22 @@ ms.custom:
 - "1674"
 - "9000241"
 - "1951"
-ms.openlocfilehash: 681bdc16efac19c4b8ea0b91b13aa38cd4e9007c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 16240588ac763c9da180dad94cb1dcc3eb1ecdf3b65eff99aadf478331b91d59
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819422"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979619"
 ---
-# <a name="basic-outlook-sync-troubleshooting"></a>Grundläggande synkroniseringsfelsökning i Outlook
+# <a name="basic-outlook-sync-troubleshooting"></a>Grundläggande Outlook synkroniseringsfelsökning
 
 Om du har problem med synkroniseringen kan du prova följande:
 
 - Kör [detta diagnostikverktyg](https://aka.ms/sara-outlooksendreceive) på den aktuella datorn.
-- Minska antalet mappar i den primära eller delade postlådan. Se [Prestandaproblem i Outlook när det finns för många objekt eller mappar i en cachelagrad mapp för .ost- eller .pst-filer.](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)
+- Minska antalet mappar i den primära eller delade postlådan. Se Outlook prestandaproblem när det finns för många objekt eller mappar i [en cachelagrad .ost- eller .pst-filmapp.](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)
 - Inaktivera cachelagring av alla delade mappar.
-- Ändra konfigurationen av den sekundära Exchange-postlådan till ett andra Exchange-konto i din profil.
+- Ändra konfigurationen av den sekundära e Exchange postlådan till ett andra Exchange konto i din profil.
 - Kontrollera att användaren kan ansluta till Internet. 
 - [Kontrollera att du är online.](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9)
 - [Bestäm om en regel ska användas](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).
-- Kontrollera att **Ladda ned delade mappar** är aktiverat genom att gå till   >  **Kontoinställningar**  >  **Kontoinställningar**  >  **Fler inställningar**  >  **Avancerat.**
+- Kontrollera att **Ladda ned delade mappar** är aktiverat genom att gå till   >  **Arkivkonto Inställningar** Konto  >  **Inställningar**  >  **Mer Inställningar**  >  **Avancerat.**

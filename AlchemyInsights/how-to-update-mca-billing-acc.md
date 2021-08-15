@@ -1,5 +1,5 @@
 ---
-title: Uppdatera sålda till och fakturerings adresser kopplade till dina MCA-rekommenderade steg
+title: Uppdatera såld till- och fakturaadressen som är kopplade till din MCA – rekommenderade steg
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: 8cdd2c64a95e88eb2fb4624c6e2696f77b75e198
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679980"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001526"
 ---
-# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Uppdatera sålda till och fakturerings adresser kopplade till dina MCA-rekommenderade steg
+# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Uppdatera såld till- och fakturaadressen som är kopplade till din MCA – rekommenderade steg
 
-Du kan uppdatera den sålda och fakturerings adress som är kopplad till ditt Microsoft Customer Agreement (MCA). 
+Du kan uppdatera såld till- och faktureringsadressen som är kopplad till Microsofts kundavtal (MCA). 
 
 > [!NOTE]
-> Endast en användar administratör kan göra ändringar i användar profil informationen för Azure Active Directory. Om du inte har rollen som användar administratör kontaktar du din användar administratör. Mer information om hur du ändrar en användares profil finns i [lägga till eller uppdatera en användares profil information med Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
+> Det är bara en användaradministratör som kan göra ändringar Azure Active Directory informationen i användarprofilen. Om du inte har tilldelats användaradministratörsrollen kontaktar du din användaradministratör. Mer information om hur du ändrar en användares profil finns i [Lägga till eller uppdatera en användares profilinformation med hjälp av Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
-**Såld till adress** – den sålda adressen är adressen och kontakt informationen för organisationen eller den person som ansvarar för ett fakturerings konto. Det visas i alla fakturor som genereras för fakturerings kontot.
+**Såld till-adress** – Såld till-adressen är adressen och kontaktinformationen för organisationen eller personen som ansvarar för ett faktureringskonto. Det visas i alla fakturor som skapats för faktureringskontot.
 
-**Fakturerings adress** – fakturerings adress är adressen och kontakt informationen för organisationen eller personen, som är ansvarig för de fakturor som genereras för ett fakturerings konto. För ett fakturerings konto för en MCA finns det en fakturerings adress för varje fakturerings profil och den visas i fakturan som genereras för fakturerings profilen.
+**Faktureringsadress** – Faktureringsadressen är adressen och kontaktinformationen för organisationen eller personen som ansvarar för fakturorna som genereras för ett faktureringskonto. För ett faktureringskonto för en MCA finns det en faktureringsadress för varje faktureringsprofil och den visas på fakturan som genereras för faktureringsprofilen.
 
-**Så här uppdaterar du ett MCA-konto för fakturerings adress**:
+**Så här uppdaterar du ett MCA-faktureringskonto som sålts till-adressen:**
 
-1. Logga in på Azure-portalen med hjälp av e-postadressen, som har en ägare eller deltagar roll på fakturerings kontot för en MCA.
-1. Sök efter fakturering av **kostnads hantering**  +  .
-1. Klicka på **Egenskaper**  >  **Uppdatera försäljning till**.
+1. Logga in på Azure Portal med e-postadressen, som har en ägare eller en deltagarroll på faktureringskontot för en MCA.
+1. Sök efter **Fakturering för**  +  **kostnadshantering.**
+1. Klicka **på**  >  **Egenskaper update såld till**.
 1. Ange den nya adressen och klicka på **Spara**.
 
-Vissa konton kräver ytterligare verifiering innan deras sålda adress kan uppdateras. Om ditt konto kräver manuellt godkännande uppmanas du att kontakta Azure-supporten.
+Vissa konton kräver ytterligare verifiering innan adressen som sålts till kan uppdateras. Om ditt konto kräver manuell godkännande uppmanas du att kontakta Azure-supporten.
 
-**Så här uppdaterar du en MCA fakturerings konto adress**: 
+**Så här uppdaterar du en MCA-faktureringsadress:** 
 
-1. Logga in på Azure-portalen med hjälp av e-postadressen, som har en ägare eller en deltagar roll på ett fakturerings konto eller en fakturerings profil för en MCA.
-1. Sök efter fakturering av **kostnads hantering**  +  .
-1. Klicka på **betalnings profiler** och välj en betalnings profil för att uppdatera fakturerings adressen.
-1. Klicka på **Egenskaper**  >  **Uppdatera adress**.
-1. Ange en ny adress och klicka sedan på **Spara**.
+1. Logga in på Azure Portal med e-postadressen som har en ägar- eller deltagarroll på ett faktureringskonto eller en faktureringsprofil för en MCA.
+1. Sök efter **Fakturering för**  +  **kostnadshantering.**
+1. Klicka **på Faktureringsprofiler** och välj en välj en faktureringsprofil för att uppdatera faktureringsadressen.
+1. Klicka **på Egenskaper** uppdatera  >  **adress**.
+1. Ange den nya adressen och klicka sedan på **Spara**.
 
 **Rekommenderade dokument**
 
-[Ändra kontakt information för ett Azure Bill-konto](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
-[Uppdatera konto inställningar för fakturering](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
-[Förstå administrativa roller för Microsofts kund avtal i Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
+[Ändra kontaktinformation för ett Azure-faktureringskonto](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
+[Uppdatera inställningar för faktureringskonto](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+[Förstå administrativa roller i Microsoft Customer Agreement i Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
