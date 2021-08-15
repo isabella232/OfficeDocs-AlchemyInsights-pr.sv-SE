@@ -1,5 +1,5 @@
 ---
-title: Lägga till eller uppdatera moms-ID-bakåtkompatibelt WD + MCA CL _ rekommenderade steg
+title: Lägga till eller uppdatera moms-/skatte-ID – äldre WD + MCA CL _ Rekommenderade steg
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7291"
-ms.openlocfilehash: ba97ec48492b1777a12bf2b27a68d411690eab76
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 172453664d2e950634c46977b8c543a054afbf6dfbed1356b7b13416ecf80b22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953707"
 ---
-# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>Lägga till eller uppdatera moms-ID-bakåtkompatibelt WD + MCA CL-rekommenderade steg
+# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>Lägga till eller uppdatera moms-/skatte-ID – äldre WD + MCA CL – rekommenderade steg
 
-Moms-ID: t används för moms befrielse och visas på fakturan.
+Skatte-ID används för beräkning av skattebefrielse och visas på fakturan.
 
-1. Gå till sidan [Cost Management + Bill](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) . 
-2. Klicka på **Egenskaper** på vänster sida. 
-3. Klicka på **Hantera moms-ID: n** i fönstret Moms- **ID** och ange sedan ditt nya moms-ID.
-4. Klicka på **Uppdatera**. 
+1. Gå till sidan [Kostnadshantering +](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) Fakturering. 
+2. Klicka **på** Egenskaper från vänster sida. 
+3. Klicka **på Hantera skatte-ID** från **fönstret Skatte-ID:n** och ange sedan det nya skatte-ID:t.
+4. Klicka **på Uppdatera**. 
 
-Om du inte ser fönstret **skatte-ID** , innebär det att skatte-ID inte ännu har samlats in för din region, eller att det inte går att uppdatera moms-ID: n i portalen för ditt konto.
+Om du inte ser  fönstret Skatte-ID:er innebär det att skatte-ID:er ännu inte samlas in för din region, eller att uppdatering av skatte-ID i portalen inte stöds för ditt konto.
 
 **Rekommenderade dokument**
 

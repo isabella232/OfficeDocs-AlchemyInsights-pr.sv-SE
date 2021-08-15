@@ -1,5 +1,5 @@
 ---
-title: Organisations princip inställningar för externa användare
+title: Organisationsprincipinställningar för externa användare
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2674"
 - "9000196"
-ms.openlocfilehash: 893b954ef6c1333f52dac645902236984a209599
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef1eaa4e6ddd2995d5f6a970a6b7d1444b7746ea2251e94220c857b10da41d0d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769453"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011318"
 ---
-# <a name="organization-policy-settings-for-external-users"></a>Organisations princip inställningar för externa användare
+# <a name="organization-policy-settings-for-external-users"></a>Organisationsprincipinställningar för externa användare
 
-Användarna kan se följande varnings meddelande när de försöker dela med externa användare i organisationen: 
+Följande varningsmeddelande kan visas för användare som försöker dela med externa användare i organisationen: 
 
-   **Organisationens principer tillåter inte att du delar med dessa användare. Gå till extern delning i Microsoft 365 Admin Center för att aktivera den.** 
+   **Organisationens principer tillåter inte att du delar med dessa användare. Gå till Extern delning i Administrationscenter för Microsoft 365 för att aktivera den.** 
 
-Detta inträffar ofta första gången du försöker dela med externa användare eller när du delar med nya externa användare. Mer information finns i artikeln nedan:
+Det här händer ofta första gången du försöker dela med externa användare eller när du delar med nya externa användare. Mer information finns i artikeln nedan:
 
-[Organisationens policy tillåter inte att du delar med dessa användare](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+[Organisationens principer tillåter inte att du delar med dessa användare](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 
 
 
