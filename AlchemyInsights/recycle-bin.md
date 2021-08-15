@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 6cfb01fbe117fe3c1d3c3bddbec9f5a8188066ae
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 1a4843f43e1f5a261b06a0beca1231380a25c302605a2a82ef7143791f2964e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709232"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991684"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>Återställa objekt i SharePoint Online
 
-När du tar bort objekt i SharePoint Online sparas de i totalt 93 dagar. De ligger kvar i webbplatsens papperskorg hela tiden, såvida du inte tömmer den eller tar bort objekten från den. I så fall går objekten till webbplatssamlingens papperskorg, där de finns kvar i resten av 93 dagarna. Objekten tas bort permanent i slutet av tiden. Så här återställer du borttagna objekt från webbplatsens papperskorg:
+När du tar bort objekt SharePoint Online behålls de i totalt 93 dagar. De ligger kvar i webbplatsens papperskorg hela tiden, såvida du inte tömmer den eller tar bort objekten från den. I så fall går objekten till webbplatssamlingens papperskorg där de finns kvar i resten av 93 dagarna. I slutet av tiden tas objekten bort permanent. Så här återställer du borttagna objekt från webbplatsens papperskorg:
   
-1. Gå till webbplatsen och klicka **på Papperskorgen** i den vänstra rutan. 
+1. Gå till webbplatsen och klicka **på Papperskorgen i** den vänstra rutan. 
     
-    Om du inte ser Papperskorgen **i** den vänstra rutan klickar du på ikonen Inställningar i det övre högra hörnet och sedan på **Webbplatsinnehåll.** Papperskorgen finns längst till höger i kommandofältet högst upp.
+    Om du inte ser Papperskorgen **i** den vänstra rutan klickar du på Inställningar i det övre högra hörnet och sedan på **Webbplatsinnehåll.** Papperskorgen finns längst till höger i kommandofältet högst upp.
     
-2. Markera de **objekt du vill** återställa på sidan Papperskorgen genom att peka på dem och klicka på bockikonen som visas. 
+2. På sidan **Papperskorgen väljer du** de objekt du vill återställa genom att peka på dem och klicka på bockikonen som visas. 
     
 3. Klicka på **Återställ**.
     

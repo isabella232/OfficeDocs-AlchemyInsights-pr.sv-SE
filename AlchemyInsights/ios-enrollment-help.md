@@ -1,5 +1,5 @@
 ---
-title: hjälp för iOS-registrering
+title: Hjälp om iOS-registrering
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 967088dfda5445d4c77f51eb177dbbb721f8a775
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c4249b81e218b5d7d133c9d96b34fd5051277fb7ed849b0f6e90b2c18fb0e0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695919"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001418"
 ---
-# <a name="ios-enrollment-help"></a>hjälp för iOS-registrering
+# <a name="ios-enrollment-help"></a>Hjälp om iOS-registrering
 
-Vi har upptäckt att det är problem med iOS-registreringen. Här är några artiklar som vi tror kan hjälpa: 
+Vi har lagt märke till att du kan ha ett problem med iOS-registrering. Här är några artiklar som kan vara till hjälp: 
 
-[Vanliga registrerings fel och lösningar för iOS](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
+[Vanliga fel och lösningar för iOS-registrering](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
 
 [Komma igång med Intune och iOS](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[Allmän fel sökning av registreringar](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[Felsökning för allmän registrering](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Använda fel söknings portalen för Intune för att diagnosticera och lösa vanliga registrerings fel](https://docs.microsoft.com/intune/help-desk-operators)
+[Använda intune-felsökningsportalen för att diagnostisera och lösa vanliga registreringsproblem](https://docs.microsoft.com/intune/help-desk-operators)

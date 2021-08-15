@@ -1,5 +1,5 @@
 ---
-title: Använda Microsoft Graph API för att hantera tjänstens huvud namn
+title: Använda Microsoft Graph API för att hantera tjänstens huvudnamn
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7848"
-ms.openlocfilehash: 88e621904c54cbe3c566b9fb3c65e06c235dc766
-ms.sourcegitcommit: eab164189ef0b542b24d9ff553196a721464b9c4
+ms.openlocfilehash: 0675de17be1738da65017bb61043211113b62ba758751ca75ea4926683006e38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49950110"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038022"
 ---
-# <a name="use-microsoft-graph-api-to-manage-service-principal"></a>Använda Microsoft Graph API för att hantera tjänstens huvud namn
+# <a name="use-microsoft-graph-api-to-manage-service-principal"></a>Använda Microsoft Graph API för att hantera tjänstens huvudnamn
 
-Med [tjänstens huvud gränssnitt](https://docs.microsoft.com/graph/api/resources/serviceprincipal)kan du program mässigt hantera program instanser och kontrol lera vilka program som kan utföras inom din klient organisation.
+Med [tjänstens huvud-API](https://docs.microsoft.com/graph/api/resources/serviceprincipal)kan du programmässigt hantera instanser av program och styra vad ett program kan göra i klientorganisationen.
 
-Mer information om förhållandet mellan program och tjänste principer finns i [program-och tjänst huvud objekt i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals).
+Mer information om relationen mellan program och tjänsthuvudnamn finns i Program [och tjänstens huvudobjekt i Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)

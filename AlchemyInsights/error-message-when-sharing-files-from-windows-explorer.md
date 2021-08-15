@@ -1,5 +1,5 @@
 ---
-title: Fel meddelande när du delar filer från Utforskaren
+title: Felmeddelande när du delar filer Windows Utforskaren
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,20 +12,20 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 56e25b064f0a81da2c8440156d46da150d3c0436
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 516f72930765cfc5a48ad4f9182b1e90f342d8866ecb03767772f47676911d2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783857"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030110"
 ---
-# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Fel meddelande när du delar filer från Utforskaren
+# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Felmeddelande när du delar filer Windows Utforskaren
 
-När du försöker dela från Utforskaren kan du få följande fel meddelande:
+När du försöker dela Windows Utforskaren kan du få följande felmeddelande:
   
-"Det går inte att nå servern just nu. Försök igen senare "
+"Det går tyvärr inte att nå servern just nu. Försök igen senare"
   
-Lös fel meddelande genom att gå till **verktyg** \> på fliken Avancerat **i Internet Explorer** \> och **Advanced** sedan avmarkera kryss rutan **Spara inte krypterade sidor på disken**.
+Lös felmeddelandet genom att från  Internet Explorer gå till \> **Verktyg Internet-alternativ** klicka på fliken Avancerat och sedan avmarkera kryssrutan Spara inte krypterade sidor \> på **disken.** 
   
- **Obs!** du kan behöva starta om webbläsaren för att inställningen ska börja gälla. Mer information finns i [fel meddelandet "det går inte att nå servern just nu" när du delar filer](https://go.microsoft.com/fwlink/?linkid=2022914).
+ **Obs!** Du kan behöva starta om webbläsaren innan inställningen börjar gälla. Mer information finns i [felmeddelandet "Det går inte att nå servern just nu" när du delar filer.](https://go.microsoft.com/fwlink/?linkid=2022914)
   
