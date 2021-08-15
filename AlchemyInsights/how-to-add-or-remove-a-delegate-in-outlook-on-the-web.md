@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7335"
-ms.openlocfilehash: fc8e3ed77867db5242927c466e680325e471dd7a
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: d28b857a95a9959ed3b6b8954878f9c60a367db6d53e67e6729b174c5ce7b364
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573814"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993443"
 ---
 # <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Lägga till eller ta bort ett ombud i Outlook på webben (OWA)
 
-Så här kopplar du en redigerare eller ombuds åtkomst till din kalender:
+Så här tilldelar du en redaktör eller ombudsåtkomst till din kalender:
 
-1. I Outlook på webben väljer du kalender ikonen längst ned på sidan.
-2. Välj **dela > kalender** högst upp på sidan.
-3. På sidan **delning och behörigheter** skriver du namnet eller e-postadressen för den person som du vill dela kalendern med. Du kan dela din kalender med fler än en person, men du kan bara lägga till en person i taget från Outlook på webben.
-4. När du har lagt till den person du vill hantera kalendern för väljer du List rutan bredvid deras namn och väljer vilken nivå av åtkomst du vill att de ska ha.
+1. I Outlook på webben väljer du ikonen Kalender längst ned på sidan.
+2. Högst upp på sidan väljer du **Dela > Kalender**.
+3. På sidan **Delning och behörigheter** skriver du namnet på eller e-postadressen till den person som du vill dela kalendern med. Även om du kan dela din kalender med fler än en person kan du bara lägga till en person i taget Outlook på webben.
+4. När du har lagt till den person som du vill ska hantera kalendern väljer du listrutan bredvid namnet och sedan vilken åtkomstnivå du vill att personen ska ha.
 
-    - Välj **kan redigera** om du vill ge dem tillstånd att göra ändringar i kalendern.
-    - Välj **delegera** om du vill ge dem samma behörighet som en redigerare plus att de tar emot Mötes förfrågningar och svar åt dig.
+    - Välj **Kan redigera** om du vill ge dem behörighet att göra ändringar i din kalender.
+    - Välj **Delegera** om du vill ge dem samma behörighet som en redigerare, plus att de får mötesförfrågningar och svar för din räkning.
     > [!NOTE]
-    > När ett ombud svarar på en mötesinbjudan för din räkning ser du inte svaret på inbjudan i inkorgen när du använder Outlook på webben. Möten som accepteras eller preliminärt accepteras visas i kalendern och visar att ditt ombud har accepterat dem.
-    - Alternativen **kan visa när jag är upptagen**, **kan visa rubriker och platser** och **kan visa all information** gör att andra kan visa din kalender men inte göra ändringar i den. Åtkomst till personer utanför organisationen är begränsad till dessa alternativ.
+    > När ett ombud svarar på en mötesinbjudan åt dig ser du inte svaret på inbjudan i inkorgen när du använder Outlook på webben. Möten som har accepterats eller preliminärt accepterats visas i kalendern och du ser att ditt ombud har accepterat dem.
+    - Med alternativen **Kan visa när** jag är upptagen , Kan visa rubriker och platser och Kan visa **all** information kan andra visa kalendern men inte göra ändringar i den.  Åtkomst för personer utanför organisationen begränsas till de här alternativen.
 
-5. När du har lagt till den person du vill dela kalendern med och har valt vilken behörighet du vill ge dem väljer du **dela**. Om du bestämmer dig för att inte dela din kalender just nu väljer du **ta bort**.
+5. När du har lagt till den person som du vill dela kalendern med och valt vilken behörighet personen ska ha väljer du **Dela.** Om du bestämmer dig för att inte dela kalendern just nu väljer du Ta **bort**.
 
-Den du delade kalendern med kommer att få ett e-postmeddelande som talar om det. När de väljer **Accept** -knappen i inbjudan lägger den till din kalender i sin lista med kalendrar.
+Den person som du delat kalendern med får ett e-postmeddelande som berättar om detta. När de väljer **knappen** Acceptera i inbjudan kommer din kalender att läggas till i deras lista med kalendrar.
 
 > [!NOTE]
-> Kalender objekt som är markerade som **privata** är skyddade. De flesta personer som du delar kalendern med ser bara tiden för objekt som har marker ATS som **privata**, inte ämne, plats eller annan information. Om du markerar kryss rutan **Låt ombudet Visa privata händelser** .
+> Kalenderobjekt som är **markerade som** privata är skyddade. De flesta personer som du delar din kalender med ser bara tiden för privata **objekt,** inte ämne, plats eller annan information. Det enda undantaget är om du markerar **kryssrutan Låt ombudet visa privata** händelser.
 
-Så här tar du bort ett ombud i Outlook på webben (OWA):
+Så här tar du bort ett ombud Outlook på webben (OWA):
 
-1. I Outlook på webben väljer du kalender ikonen längst ned på sidan.
-2. Högst upp på sidan väljer du **dela** och väljer den kalender som du vill sluta dela.
-3. Välj **ta bort** bredvid den person som du vill sluta dela kalendern med.
+1. I Outlook på webben väljer du ikonen Kalender längst ned på sidan.
+2. Högst upp på sidan väljer du **Dela** och sedan den kalender som du vill sluta dela.
+3. Välj **Ta** bort bredvid den person som du vill sluta dela din kalender med.

@@ -1,5 +1,5 @@
 ---
-title: Installera Microsoft Search i Bing-tillägget i Google Chrome
+title: Installera Microsoft Search i Bing Google Chrome
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9262"
-ms.openlocfilehash: 25126eda542beeb51d86b812e60795fcc9c78df2
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: a313ee2188c9581d8db5174b0640e32e55b619286f11f79d1a0293b66cc7c374
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51405462"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014630"
 ---
-# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>Installera Microsoft Search i Bing-tillägget i Google Chrome
+# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>Installera Microsoft Search i Bing Google Chrome
 
-Så här installerar du Microsoft Search i Bing-tillägget i Google Chrome:
+Om du Microsoft Search ett Bing Google Chrome gör du följande:
 
 1. Kontrollera att enheten uppfyller [villkoren för](https://go.microsoft.com/fwlink/?linkid=2152236) att installera tillägget.
-2. Välj att få tillägget installerat genom att konfigurera lämpliga inställningar i **avsnittet Microsoft Search** i administrationscentret för Microsoft 365.
-3. Installera en bakgrundstjänst för Microsoft Search i Bing på användarens enhet. Den här bakgrundstjänsten ingår i Microsoft 365-appar för företag.
+2. Välj att få tillägget installerat genom att konfigurera lämpliga inställningar i Microsoft Search **i** Administrationscenter för Microsoft 365.
+3. Installera en bakgrundstjänst på användarens enhet för att Microsoft Search i Bing. Den här bakgrundstjänsten ingår i Microsoft 365-appar för företag.
 
-Mer information finns i [Hur installeras Microsoft Search i Bing-tillägget för Google Chrome?](https://go.microsoft.com/fwlink/?linkid=2150992)
+Mer information finns i [Hur installeras tillägget Microsoft Search i Bing Google Chrome?](https://go.microsoft.com/fwlink/?linkid=2150992)

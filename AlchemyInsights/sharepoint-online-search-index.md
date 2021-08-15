@@ -8,28 +8,28 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: f790efbe6ed445786933efa3fc980f974693d1d9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: daf21e311d29b801bd04e48adfba9446abf78de9377d2a029aebccbac3910c62
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770785"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022820"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Innehålls crawlning och indexering i SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Innehållssökning och indexering i SharePoint Online
 
-Innehållet måste crawlas och läggas till i Sök indexet för att användarna ska kunna hitta det du söker efter i SharePoint Online.
+Innehåll måste crawlas och läggas till i sökindexet för att användare ska kunna hitta det de söker efter i SharePoint Online.
 
-- Kontrol lera att innehåll kan hittas genom [att göra webbplats innehållet sökbart](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
+- Se till att du hittar innehåll genom att [göra webbplatsinnehållet sökbart.](https://docs.microsoft.com/sharepoint/make-site-content-searchable)
 
-- När du har ändrat en hanterad egenskap eller om du har ändrat mappningen av crawlade och hanterade egenskaper måste webbplatsen crawlas igen innan ändringarna återspeglas i Sök indexet.
+- När du har ändrat en hanterad egenskap, eller när du har ändrat mappningen av crawlade och hanterade egenskaper, måste webbplatsen crawlas på nytt innan dina ändringar visas i sökindexet.
 
-- Mer information finns i [manuell crawlning och Omindexering av en webbplats, ett bibliotek eller en lista](https://docs.microsoft.com/sharepoint/crawl-site-content).
+- Mer information finns i [Manuellt begära crawlning och omindexering av en webbplats, ett bibliotek eller en lista.](https://docs.microsoft.com/sharepoint/crawl-site-content)
 
-- Vänta minst 24 timmar efter att ha begärt en crawlning och fullständig Omindexering för att se om problemet kvarstår.
+- Vänta i minst 24 timmar efter att du manuellt begär en crawlning och fullständig omindexering för att se om du fortfarande har problem.
 
-- Om mer än 24 timmar har passerat sedan du initierade crawlningen och fullständig Omindexering loggar du in ett support ärende. I många fall jobbar vi redan med en lösning. Ange minst 24 timmar för att slutföra en lösning.
+- Om det har gått mer än 24 timmar sedan du initierade crawlningen och fullständig omindexering ska du logga ett supportfall. I många fall arbetar vi redan med en lösning. Ge oss minst 24 timmar för att slutföra en lösning.
 
-**Viktigt**: om en webbplats, ett dokument (ett bibliotek) eller en lista har tagits bort och fortfarande visas i Sök resultaten, får användarna en **Felkod 404-fil som inte hittades** när de försöker komma åt den. Detta problem bör loggas som ett support ärende för ytterligare undersökningar.
+**Viktigt:** Om en webbplats, ett dokument (bibliotek) eller en lista har tagits bort och fortfarande visas i sökresultaten bör användarna få **felmeddelandet Fel 404,** Hittades inte när de försöker komma åt den. Det här problemet bör loggas som ett supportfall för ytterligare undersökning.
 
 
 

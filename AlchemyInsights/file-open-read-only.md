@@ -13,12 +13,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fb75f7ac5b8c7023f0258a567becdc5d023476b5e905d8f2cc17479faea76af1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813202"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029822"
 ---
 # <a name="file-open-read-only"></a>Öppna med skrivskydd
 
@@ -36,13 +36,13 @@ Du kan kontrollera filegenskaperna genom att högerklicka på filen och välja E
   
 Filer från Internet och andra eventuellt osäkra platser kan innehålla virus, maskar eller annan skadlig programvara som kan skada datorn. Detta gäller även ofta e-postbilagor och nedladdade filer. För att skydda datorn öppnas filer från sådana potentiellt osäkra platser i Skyddad vy. Genom att använda Skyddad vy kan du läsa en fil och visa dess innehåll samtidigt som du minskar risken. Mer information om Skyddad vy och hur du ändrar inställningar finns i den här artikeln: [Vad är Skyddad vy?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
- **Är OneDrive fullt?**
+ **Är OneDrive full?**
   
-Om filen lagras på OneDrive och ditt OneDrive-lagringsutrymme är fullt kan du inte spara dokumentet förrän det finns plats i ditt tilldelade utrymme. Du kan kontrollera ditt lediga utrymme på OneDrive genom att klicka på OneDrive-ikonen i meddelandecentret och välja Hantera lagring. Du kan också gå till , logga in och anteckna mängden använt utrymme längst ned till vänster på [https://onedrive.live.com](https://onedrive.live.com) skärmen.
+Om filen lagras i OneDrive och OneDrive-lagringsutrymmet är fullt kan du inte spara dokumentet förrän det finns plats i ditt tilldelade utrymme. Du kan kontrollera ditt lediga utrymme på OneDrive genom att klicka på ikonen OneDrive i meddelandecentret och välja Hantera lagring, eller så kan du gå till , logga in och anteckna mängden använt utrymme i det nedre vänstra hörnet av [https://onedrive.live.com](https://onedrive.live.com) skärmen.
   
  **Är Office aktiverat?**
   
-Om Office inte är aktiverat, eller om prenumerationen har gått ut, kan du vara i det skrivskyddade läget Nedsatt funktionalitet. Information om hur du aktiverar Office finns i: [Office-felmeddelanden om olicensierad produkt och aktivering.](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+Om Office inte är aktiverat, eller om prenumerationen har upphört att gälla, kan du vara i det skrivskyddade läget Nedsatt funktionalitet. Mer information om hur du aktiverar Office licens finns i: [Felmeddelanden](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)om olicensierad produkt och aktivering i Office .
   
  **Om allt annat misslyckas ...**
   
