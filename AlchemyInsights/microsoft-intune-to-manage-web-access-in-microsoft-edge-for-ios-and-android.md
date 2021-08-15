@@ -14,26 +14,26 @@ ms.custom:
 - "6895"
 - "9006502"
 - "11144"
-ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: 798b28fa20291c7ef5e94d555b9ae72c3b193d343b892affd22b6a23e780d523
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989722"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975875"
 ---
 # <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Använda Microsoft Intune för att hantera webbåtkomst i Microsoft Edge för iOS och Android
 
-Med Microsoft Edge för iOS och Android kan en användare surfa på webben från flera, helt separata profiler.
+Microsoft Edge för iOS och Android kan en användare surfa på webben från flera, helt separata profiler.
 
-De bredaste skyddsfunktionerna för Microsoft 365-data blir tillgängliga när du prenumererar på Enterprise Mobility + Security-paketet, som omfattar Microsoft Intune- och Azure Active Directory Premium-funktioner, till exempel villkorlig åtkomst. Som ett minimum bör du distribuera en princip för villkorsstyrd åtkomst som (1) låter användare ansluta från mobila enheter till Microsoft Edge för iOS och Android och som (2) implementerar en appskyddsprincip för Microsoft Intune som ger en skyddad webbupplevelse.
+De bredaste skyddsfunktionerna för Microsoft 365 data blir tillgängliga när du prenumererar på Enterprise Mobility + Security-programsviten, som omfattar Microsoft Intune och Azure Active Directory Premium funktioner, till exempel villkorlig åtkomst. Som ett minimum bör du distribuera en princip för villkorsstyrd åtkomst som (1) låter användare ansluta från mobila enheter till Microsoft Edge för iOS och Android och som (2) implementerar en Microsoft Intune-programskyddsprincip som ger en skyddad webbupplevelse.
 
 Information om hur du kan använda villkorsstyrd åtkomst och principer finns i:
 
-[Använda villkorsstyrda åtkomstprinciper i Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2132481)
+[Använda Azure Active Directory för villkorsstyrd åtkomst](https://go.microsoft.com/fwlink/?linkid=2132481)
 
-[Skapa appskyddsprinciper för Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2132651)
+[Skapa Microsoft Intune för programskydd](https://go.microsoft.com/fwlink/?linkid=2132651)
 
-[Använda enkel inloggning för Azure Active Directory-anslutna webbappar i principskyddade webbläsare](https://go.microsoft.com/fwlink/?linkid=2132482)
+[Använd enkel inloggning för Azure Active Directory-anslutna webbprogram i principskyddade webbläsare](https://go.microsoft.com/fwlink/?linkid=2132482)
 
 [Använda programkonfiguration för att hantera surfupplevelsen](https://go.microsoft.com/fwlink/?linkid=2132483)
 
@@ -45,4 +45,4 @@ Information om hur du kan använda villkorsstyrd åtkomst och principer finns i:
 
 [Använda Microsoft Endpoint Manager för att distribuera principer för programkonfiguration](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-Mer information om hur du kommer åt hanterade apploggar finns [i Använda Microsoft Edge för iOS och Android för att komma åt hanterade apploggar.](https://go.microsoft.com/fwlink/?linkid=2132578)
+Mer information om hur du kommer åt hanterade apploggar finns [i använda Microsoft Edge för iOS och Android för att komma åt hanterade apploggar.](https://go.microsoft.com/fwlink/?linkid=2132578)

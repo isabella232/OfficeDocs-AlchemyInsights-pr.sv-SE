@@ -1,5 +1,5 @@
 ---
-title: Skapa AIP
+title: Skapa AIP-etikettprinciper
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,31 +10,31 @@ localization_priority: Normal
 ms.custom:
 - "4539"
 - "9002266"
-ms.openlocfilehash: bef170d8e38dcc91094b95604aeb1968d5c57fca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d24696b63663c69b22c783072141af62ecf124dba7b49bca827381f39f88640e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732193"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032000"
 ---
-# <a name="creating-aip-label-policies"></a>Skapa AIP
+# <a name="creating-aip-label-policies"></a>Skapa AIP-etikettprinciper
 
-AIP-etiketter (Azure information Protection) kan användas med hela data mängden som en organisation vanligt vis skapar och lagrar från den lägsta klassificeringen av person uppgifter till den högsta klassificeringen av mycket konfidentiell information. Azure information Protection policy gäller för Azure information Protection (AIP) Classic-klienten och inte  [AIP Unified Labeling-klienten](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). Du kan konfigurera flera element i en AIP policy, till exempel:
+Azure Information Protection(AIP)-etiketter kan användas med alla data som en organisation normalt skapar och lagrar, från den lägsta klassificeringen av personuppgifter till den högsta klassificeringen av konfidentiella data. Azure Information Protection-principer gäller för den klassiska Azure Information Protection-klienten (AIP) och inte [för AIP Unified Labeling-klienten.](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history) Du kan konfigurera flera element i en AIP-princip, inklusive alternativ som:
 
-- Alternativ för vilken etikett gör det möjligt för administratörer eller användare att klassificera och lösenordsskydda dokument och e-postmeddelanden
-- Alternativ för att tvinga klassificering när användare sparar dokument och skickar e-post
+- Alternativ för vilken etikett gör det möjligt för administratörer eller användare att klassificera och skydda(valfritt) dokument och e-postmeddelanden
+- Alternativ för att tillämpa klassificering när användare sparar dokument och skickar e-post
 - Alternativ för att automatiskt märka ett e-postmeddelande, baserat på bifogade filer.
-- Alternativ för att kontrol lera om informations skydds fältet visas i Office-program
+- Alternativ för att kontrollera om fältet Informationsskydd ska visas i Office program
 
-Ytterligare alternativ och information om Azure information Protection-principer finns i: [Översikt över Azure policy för informations skydd](https://docs.microsoft.com/azure/information-protection/overview-policy).  
+Fler alternativ och information om Azure Information Protection-principer finns i: [Översikt över Azure Information Protection-principen](https://docs.microsoft.com/azure/information-protection/overview-policy).  
 
-Andra användbara resurser angående AIP policys finns i:
+Andra användbara resurser om AIP-principer finns i:
 
-- [Själv studie kurs: Konfigurera princip inställningar för Azure information Protection och skapa en ny etikett](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
-- [Konfigurera Azure information Protection policy](https://docs.microsoft.com/azure/information-protection/configure-policy)  
+- [Självstudiekurs: Konfigurera inställningar för Azure Information Protection-policy och skapa en ny etikett](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
+- [Konfigurera Azure Information Protection-principen](https://docs.microsoft.com/azure/information-protection/configure-policy)  
 - [Skapa och konfigurera känslighetsetiketter och deras principer](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)  
-- [Instruktions guider för vanliga scenarier som använder Azure information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
-- [Granska dokumentationen för Azure information Protection](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
-- [Krav för Azure information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
-- [Snabb starts själv studie kurs för Azure information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
-- [Ladda ned Azure information Protection-klient](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Guider för vanliga scenarier där Azure Information Protection används](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [Granska dokumentation om Azure Information Protection](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
+- [Krav för Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements).  
+- [Snabbstartskurs för Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial).  
+- [Hämta Azure Information Protection-klient](https://www.microsoft.com/download/details.aspx?id=53018)
