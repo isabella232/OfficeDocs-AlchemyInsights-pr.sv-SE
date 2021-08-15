@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 2adf35662797e9e9e354ddd0c513f5ce2463d07c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749975"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994883"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>Ange ClientAccessServerEnabled till True
 
@@ -27,10 +27,10 @@ Om du inte kan öppna ett krypterat e-postmeddelande och i stället ser en **bif
 1. Ansluta till Exchange Online PowerShell.
 
 > [!NOTE]
-> Om du vill ansluta till Exchange Online PowerShell måste du logga in med en global administratör eller ett Exchange-administratörskonto.
+> Om du vill ansluta Exchange Online PowerShell måste du logga in med en global administratör Exchange administratörskonto.
 
-   a. Öppna Windows PowerShell och kör sedan följande kommando: `$UserCredential = Get-Credential`
-b. I dialogrutan **Begäran om autentiseringsuppgifter för Windows PowerShell** anger du ditt arbets- eller skolkonto och ditt lösenord, c. Klicka på **OK**. 
+   a. Öppna Windows PowerShell och kör sedan följande kommando:`$UserCredential = Get-Credential`
+b. I dialogrutan **Windows PowerShell Begäran om autentiseringsuppgifter anger** du ditt arbets- eller skolkonto och lösenord, c. Klicka på **OK**. 
 
 2. Kör följande kommando för att skapa en ny session:
 

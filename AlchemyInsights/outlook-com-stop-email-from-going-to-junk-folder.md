@@ -1,5 +1,5 @@
 ---
-title: Stoppa meddelanden från att gå till mappen skräp post i Outlook.com
+title: Hindra meddelanden från att gå till mappen Skräppost på Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 6e10fb27472c770bb9530a20d86fd0ec1d3cb0dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c4d223d25e77562b60c516a149183aab83444d011a504f71424479792c97cfa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694293"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041136"
 ---
-# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Hindra meddelanden från att gå till mappen skräp post
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Hindra meddelanden från att gå till mappen Skräppost
 
-Om du upptäcker att ett e-postmeddelande i mappen skräp post i Outlook.com inte är skräp post:
+Om du upptäcker att ett e-postmeddelande i mappen Skräppost i Outlook.com inte är skräppost:
 
-1. Öppna [mappen skräp post](https://outlook.live.com/mail/junkemail).
-1. Markera meddelandet. (*Obs!* objekt i mappen skräp post tas bort efter 30 dagar.)
-1. Välj **inte skräp**post ovanför meddelande listan  >  **Not junk**.
+1. Öppna [mappen Skräppost.](https://outlook.live.com/mail/junkemail)
+1. Markera meddelandet. (*Obs!* Objekt i mappen Skräppost tas bort efter 30 dagar.)
+1. Ovanför meddelandelistan väljer du **Inte**  >  **skräppost.**
 
-Om du vill förhindra att meddelanden från en avsändare hamnar till mappen skräp post lägger du till avsändaren i listan med betrodda avsändare:
+Om du vill förhindra att meddelanden från en avsändare går till mappen Skräppost lägger du till avsändaren i listan Betrodda avsändare:
 
-1. Öppna [inställningarna för skräp post](https://go.microsoft.com/fwlink/?linkid=2035804).
-1. Under **Betrodda avsändare och domäner**väljer du **Lägg till**, anger e-postadressen eller domänen som du vill lägga till och väljer **Spara**.
+1. Öppna inställningarna [för skräppost.](https://go.microsoft.com/fwlink/?linkid=2035804)
+1. Under **Valv och domäner väljer** du Lägg **till**, anger den e-postadress eller domän som du vill lägga till och väljer **Spara**.
 
-Mer information finns [i Markera e-post som skräp post eller blockera avsändare i Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Mer information finns i [Markera e-post som skräppost eller spärra avsändare i Outlook.com.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)

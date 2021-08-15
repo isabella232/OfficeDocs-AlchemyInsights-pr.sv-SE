@@ -1,5 +1,5 @@
 ---
-title: 1800001 ta bort profil
+title: 1800001 Ta bort profil
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,30 +14,30 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: a00b419a8feaebe7d0f5f0bd1a1e1d9bd9da76d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680117"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005543"
 ---
 # <a name="delete-a-profile"></a>Radera en profil
 
-Så här tar du bort en profil:
+Gör så här om du vill ta bort en profil.
   
-1. I Outlook väljer du inställningar för **fil** \> **konto** \> **Hantera profiler**.
+1. I Outlook väljer  du \> **Arkivkonto Inställningar** \> **Hantera profiler**.
 
 2. Välj **Visa profiler**.
 
-3. I dialog rutan **e-post** väljer du den profil som du vill ta bort och klickar sedan på **ta bort**.
+3. I dialogrutan **E-post** väljer du den profil du vill ta bort och klickar sedan på Ta **bort**.
 
     > [!NOTE]
-    > Outlook kan varna dig om att borttagna profiler tar bort offlinedata. Du förlorar inte informationen som lagras i dina Outlook-datafiler (. pst) eller information som lagras på dina online-konton, till exempel Outlook.com, Exchange eller Microsoft 365-konton.
+    > Outlook varna dig om att offlinedata tas bort när du tar bort din profil. Du förlorar ingen information som lagras i dina Outlook-datafiler (.pst) eller information som lagras på dina onlinekonton, till exempel Outlook.com-, Exchange- eller Microsoft 365-konton.
   
-Information om profil hantering för **Outlook för Mac** finns i [Hantera profiler eller identiteter i Outlook för Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) eller så här:
+Mer **Outlook för Mac** profilhantering finns [i Hantera profiler eller identiteter i Outlook för Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) eller använd följande steg.
   
-1. Öppna mappen **program** från Finder.
+1. Från Finder, öppna mappen **Ansökningar**.
 
-2. Ctrl + klicka eller högerklicka på **Microsoft Outlook**och välj sedan **Visa paket innehåll**.
+2. Ctrl-klicka eller högerklicka **Microsoft Outlook** och välj sedan **Visa paketets innehåll**.
 
-3. Välj **innehålls** \> **delnings stöd**och starta sedan **Outlook Profile Manager**.
+3. Välj **Innehåll** \> **delat stöd** och starta sedan Outlook Profile **Manager**.
