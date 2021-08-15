@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a4f25f5cdcfefaad91f12864dfaa2e000c357716
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c28a54bb2ebdbb95c3f33bce7bb569a76d48751168189dc23cbc37390d95613f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748415"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016610"
 ---
 # <a name="permissions-and-browser-related-requirements-for-microsoft-365-defender"></a>Behörigheter och webbläsarrelaterade krav för Microsoft 365 Defender
 
-- Behörigheter: Om du vill aktivera Microsoft 365 Defender måste du vara global administratör eller säkerhetsadministratör i Azure Active Directory. I Hantera åtkomst till [Microsoft 365 Defender](https://go.microsoft.com/fwlink/?linkid=2143626)finns en lista över de roller som kan använda Microsoft 365 Defender och om du vill se hur åtkomsten till data är reglerade.
+- Behörigheter: För att aktivera Microsoft 365 Defender måste du vara global administratör eller säkerhetsadministratör i Azure Active Directory. Om du vill se listan över roller som kan använda Microsoft 365 Defender och hur åtkomsten till data är reglerade finns i Hantera åtkomst [till Microsoft 365 Defender.](https://go.microsoft.com/fwlink/?linkid=2143626)
 
-- Webbläsarrelaterade krav: Om du vill komma åt Microsoft 365 Defender i Säkerhetscenter för Microsoft 365 ska du använda Microsoft Edge, Internet Explorer 11 eller en HTML 5-kompatibel webbläsare.
+- Webbläsarrelaterade krav: För att komma Microsoft 365 Defender i Microsoft 365 säkerhetscenter använder du Microsoft Edge, Internet Explorer 11 eller en HTML 5-kompatibel webbläsare.

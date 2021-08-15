@@ -8,19 +8,19 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: cfdd11c9ecbcc4613c6337db7877f4cddca939a6
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 20fe0db53fd329a51dfbcf8be6add27ff7b5c7d40e3caf69bc252dc0c5c07738
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299911"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960025"
 ---
 # <a name="publish-deploy-and-manage-add-ins"></a>Publicera, distribuera och hantera tillägg
 
-Det finns olika sätt att göra Office-tillägg tillgängliga. Här är några bra start punkter:
+Det finns olika metoder för Office tillägg tillgängliga. Nedan följer några bra utgångspunkter:
 
-- [Ange administratörer och användare som kan installera och hantera tillägg för Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)
-- [Publicera Office-tillägg med centraliserad distribution via administrations centret för Microsoft 365](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)
+- [Ange de administratörer och användare som kan installera och hantera tillägg för Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)
+- [Publicera Office tillägg med centraliserad distribution via Administrationscenter för Microsoft 365](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)
 - [Distribuera tillägg i administrations centret för](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide)
 - [Hantera tillägg i administrationscentret](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide)
-- [Översikt över plattformen för Office-tillägg](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins)
+- [Office Plattformsöversikt för tillägg](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins)

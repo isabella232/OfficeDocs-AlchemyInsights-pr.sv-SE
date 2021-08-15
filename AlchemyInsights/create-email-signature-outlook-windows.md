@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9808"
 - "9005728"
-ms.openlocfilehash: 70d3c745c251ac6a473538d991a83c3aaff730ac
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 2c284e38e36658dde8d28214908865a4cb8ed3065bf571eb450ce540b9207cd2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037158"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016358"
 ---
 # <a name="create-an-email-signature-in-outlook-for-windows"></a>Skapa en e-postsignatur i Outlook för Windows
 
 Skapa en e-postsignatur för nyare versioner av Outlook, till exempel Outlook 2019, 2016 eller 2013, genom att göra följande:
 
-1. Gå till fliken Start **i** Outlook, välj **Nytt e-postmeddelande** och välj sedan **fliken** Meddelande.
+1. I Outlook väljer du **Nytt e-postmeddelande** på **fliken Start** och sedan **fliken** Meddelande.
 
 1. Välj **Signatur** i gruppen **Inkludera** och välj sedan **Signaturer.**
 
@@ -36,5 +36,5 @@ Skapa en e-postsignatur för nyare versioner av Outlook, till exempel Outlook 20
 
 1. Under **Redigera signatur** skriver du den signatur du vill använda och väljer **OK.**
 
-Information om hur du skapar en e-postsignatur i äldre versioner av Outlook, till exempel Outlook 2010 eller 2007, finns i Skapa och lägga till en [signatur i meddelanden.](https://support.microsoft.com/office/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#ID0EAADAAA=Office_2007_-_2010)
+Information om hur du skapar en e-postsignatur i äldre versioner av Outlook till exempel Outlook 2010 eller 2007 finns i Skapa och lägga till en signatur i [meddelanden.](https://support.microsoft.com/office/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#ID0EAADAAA=Office_2007_-_2010)
 
