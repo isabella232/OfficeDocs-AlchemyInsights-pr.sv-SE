@@ -1,5 +1,5 @@
 ---
-title: Ny utvärderingsversion av Office 365 E1
+title: Ny Office 365 E1 utvärderingsversion
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: fc2f20488e55f73ed2437220d3fd56ff64848450
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 53be3bad8018b434bdac15ea953d3ccf5a83f59377f19bb2441247ee4892e26c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825209"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025448"
 ---
-# <a name="new-office-365-e1-trial"></a>Ny utvärderingsversion av Office 365 E1
+# <a name="new-office-365-e1-trial"></a>Ny Office 365 E1 utvärderingsversion
 
-Från och med den 1 juli 2020 är utvärderingsversionen av Office 365 E1 inte längre tillgänglig. Om du behöver licensiera användare för Microsoft Teams läser du [tjänstbeskrivningen](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) för Microsoft Teams för en lista över betalda prenumerationer som innehåller Teams. Alternativt kan kvalificerade organisationer använda den [kostnadsfria versionen av Teams](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c)eller anställda kan aktivera [funktionen för gruppering.](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory)
+Från och med den 1 juli 2020 Office 365 E1 utvärderingsversionen inte längre tillgänglig. Om du behöver licensiera användare för Microsoft Teams läser du [tjänstbeskrivningen Microsoft Teams en](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) lista över betalda prenumerationer som innehåller Teams. Alternativt kan kvalificerade organisationer använda den kostnadsfria [versionen av Teams](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c), eller så kan anställda aktivera Teams [exploratorisk](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory) upplevelse.
