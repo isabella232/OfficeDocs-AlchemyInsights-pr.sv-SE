@@ -1,5 +1,5 @@
 ---
-title: Sluta dela OneDrive- eller SharePoint-filer eller -mappar
+title: Sluta dela OneDrive eller SharePoint filer eller mappar
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3169"
-ms.openlocfilehash: 4f498cc2658a9a78fd802cffe4a947acb57f6af3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4282bb30a94a1d8179e56772f79350ac9c6f756d87ccfbec46e0418a3cc18612
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828134"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021146"
 ---
-# <a name="how-to-stop-sharing-onedrive-or-sharepoint-files-or-folders"></a>Sluta dela OneDrive- eller SharePoint-filer eller -mappar
+# <a name="how-to-stop-sharing-onedrive-or-sharepoint-files-or-folders"></a>Hur slutar du dela OneDrive eller SharePoint eller mappar
 
 Om du är ägare till objektet kan du sluta dela det, se vem det har delats med eller ändra behörigheter som andra har till det.
 
-[Sluta dela OneDrive- eller SharePoint-filer eller -mappar](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+Mer information finns i: 
+
+- [Sluta dela OneDrive eller SharePoint filer eller mappar](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [Ta bort användare från SharePoint](/sharepoint/remove-users)
