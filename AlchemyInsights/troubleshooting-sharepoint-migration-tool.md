@@ -1,5 +1,5 @@
 ---
-title: Felsöka problem och fel med Migreringsverktyget för SharePoint
+title: Felsökning SharePoint problem och fel i migreringsverktyget
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,17 +14,17 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 4277c524f5900ef92d39608655453a210f4ed601
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96b9dc16251701bd24e59153a72ec9a82f75663166b0dac796276e6f66c6424
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735757"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020678"
 ---
-# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Felsöka problem och fel med Migreringsverktyget för SharePoint
+# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Felsökning SharePoint problem och fel i migreringsverktyget
 
-Du kan stöta på vanliga problem och fel när du använder Migreringsverktyget för SharePoint (SPMT). Mer information finns i länkarna nedan.
+Du kan stöta på några vanliga problem och fel när du SharePoint migreringsverktyget (SPMT). Se länkarna nedan för mer information.
 
-- [Felsöka vanliga SPMT problem och fel](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+- [Felsöka vanliga SPMT-problem och fel](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
 
-- [Felsöka problem med SPMT installation](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)
+- [Felsöka SPMT-installationsproblem](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)
