@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "9439"
-ms.openlocfilehash: 5cd58303b0629e55b0ed67157f9fcf01668fda1e
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: 5481d1d63e6cf1f2fdbe1c17420dd041e5fe8b4f5be17a891b9e0bf871d27baf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50696316"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002102"
 ---
 # <a name="how-to-manage-an-app"></a>Så här hanterar du en app
 
 Så här hanterar du en app:
 
-- Börja med [Hantera appar](https://admin.teams.microsoft.com/policies/manage-apps) i administrationscentret för Microsoft Teams för att lägga till en app för din organisation.
-- Du kan använda [principer för appbehörigheter](https://admin.teams.microsoft.com/policies/app-permission) i administrationscentret för Microsoft Teams för att tillåta eller blockera en app och tilldela den till användare.
-- Om du vill ändra ordningen som en app presenteras för användare eller fästa en app använder du principer för [appkonfiguration](https://admin.teams.microsoft.com/policies/app-setup) i administrationscentret för Microsoft Teams.
+- Börja med [Hantera appar](https://admin.teams.microsoft.com/policies/manage-apps) i Microsoft Teams för att lägga till ett program för din organisation.
+- Du kan använda [principer för programbehörighet](https://admin.teams.microsoft.com/policies/app-permission) Microsoft Teams administrationscenter för att tillåta eller blockera ett program och tilldela det till användare.
+- Om du vill ändra ordningen som en app presenteras för användare eller för att fästa en app använder du [principer](https://admin.teams.microsoft.com/policies/app-setup) för appkonfiguration Microsoft Teams administrationscentret.
 
 Mer information om hur du skapar appprinciper för organisationen finns i:
 
-- [Hantera dina appar i administrationscentret för Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [Hantera dina appar i Microsoft Teams administrationscenter](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
 - [Hantera appbehörighetsprinciper i Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
 - [Hantera principer för appkonfiguration i Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)

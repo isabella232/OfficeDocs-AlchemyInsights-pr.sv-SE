@@ -1,5 +1,5 @@
 ---
-title: Outlook Mobile-mappar i ny ordning
+title: Outlook Mobilmappar i ny ordning
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3072"
 - "9001111"
-ms.openlocfilehash: 58cc5b4245218bf98e314ad680e62d9b719cf981
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 56c90f989f6ce918f935610b907d0cc87410dcc015a558751c9065928eb17386
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772244"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000266"
 ---
 # <a name="my-folders-are-in-a-new-order"></a>Mina mappar är i en ny ordning
 
-Med att lägga till Favoritmappar och grupper i Outlook för iOS och Android kan du se att dina mappar är i en ny ordning. Om du har favoriter visas ett avsnitt längst upp i marginal listen. Du kan lägga till favoriter med Penn ikonen högst upp på marginal listen. Då sparas alla dina viktigaste mappar och grupper högst upp där du kan komma åt dem.
+Med tillägget av favoritmappar och grupper i Outlook för iOS och Android kanske du märker att dina mappar ligger i en ny ordning. Om du har favoriter visas avsnittet Favoriter högst upp i sidofältet. Du kan lägga till favoriter med pennikonen högst upp i sidofältet. På så sätt ligger alla dina viktigaste mappar och grupper överst där du enkelt kan komma åt dem.
