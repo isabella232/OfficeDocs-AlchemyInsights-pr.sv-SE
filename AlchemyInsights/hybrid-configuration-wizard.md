@@ -1,5 +1,5 @@
 ---
-title: Hybrid konfigurations guiden
+title: Hybridkonfigurationsguiden
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,19 +13,19 @@ ms.custom:
 - "603"
 - "3500010"
 ms.assetid: 94bdd043-be92-435e-8e0f-7ce453368919
-ms.openlocfilehash: 13361962fe2a3ee88a820c44c0839611c2b9b4e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: afb38121fdfbd244da39377a19f6756a5f0370f6707fade98eaf53def6981696
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743781"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015062"
 ---
-# <a name="hybrid-configuration-wizard"></a>Hybrid konfigurations guiden
+# <a name="hybrid-configuration-wizard"></a>Hybridkonfigurationsguiden
 
-Hybrid konfigurations guiden är en app som hjälper dig att skapa en ny hybrid distribution mellan den lokala Exchange-organisationen och Microsoft 365. Om du redan har installerat en hybrid distribution kan du uppdatera inställningarna för hybrid distribution i guiden. Mer information finns i:
+Hybridkonfigurationsguiden är ett program som hjälper dig att konfigurera en ny hybriddistribution mellan din lokala Exchange och Microsoft 365. Om du redan har en konfigurerad hybriddistribution får du hjälp med att uppdatera inställningarna för hybriddistribution i guiden. Mer information finns här:
   
-- [Kör hybrid konfigurations guiden](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
+- [Kör hybridkonfigurationsguiden](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
 
-- [Hybrid konfigurations guiden](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
+- [Hybridkonfigurationsguiden](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
 
-- [Vanliga frågor om konfigurations guiden](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
+- [Vanliga frågor och svar om hybridkonfigurationsguiden](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
