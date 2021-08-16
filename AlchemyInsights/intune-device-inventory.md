@@ -1,5 +1,5 @@
 ---
-title: Enhets inventering i Intune
+title: Intune-enhetsinventering
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1281"
 - "6700008"
-ms.openlocfilehash: 5d2be7485be8578f7fdee3216dc6f3970be67fd1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00ee4f1d7130c239272e28ee8e051a18e6e0baf13040d2a892866be5900adfaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667896"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014090"
 ---
-# <a name="intune-device-inventory"></a>Enhets inventering i Intune
+# <a name="intune-device-inventory"></a>Intune-enhetsinventering
 
-Med enheten enheter får administratören en inblick i enheter under hantering i Intune per enhet. Informationen som visas är: maskin vara, upptäckta program, enhetens kompatibilitetsstatus och status för enhets konfiguration.
+Bladet Enheter ger administratörsinsikter på enheter under hantering i Intune per enhet. Informationen som visas omfattar: Maskinvara, Identifierade program, Tillstånd för enhetsefterlevnad och Enhetskonfiguration.
 
-Lager data för hård vara och upptäckta program samlas in på sju dagar. Vilka program och specifika delar av maskin varan som rapporteras varierar beroende på enhetens operativ system och om enheten är personligen eller ägda.
+Lagerdata för maskinvara och identifierade program samlas in under en sjudagarscykel. Vilka program och specifika delar av maskinvara som rapporteras varierar beroende på enhetens operativsystem och om enheten personligen eller företaget ägs.
 
-Mer information finns i [Se enhets detaljer i Intune](https://docs.microsoft.com/intune/device-inventory).
+Mer information finns i [Visa enhetsinformation i Intune](https://docs.microsoft.com/intune/device-inventory).
 
 **FAQ**
 
-F: Jag får inte en fullständig inventering av program som finns på Intune-registrerade Windows-enheter. Varför inte?
+F: Jag får inte en fullständig lagerlista med program som finns på Intune-registrerade Windows enheter. Varför inte?
 
-A: i det här fallet visas bara moderna appar för Windows 10-datorer som identifieras som företags enheter. Intune samlar inte in information om Win32-program som är installerade på dessa enheter.
+S: För stunden finns endast moderna appar listade för Windows 10-datorer som identifieras som företagsenheter. Intune samlar inte in information om Win32-appar som är installerade på dessa enheter.
 
-F: Varför hämtas inte telefonnummer från alla enheter?
+F: Varför samlas inte telefonnummer in från alla enheter?
 
-A: telefoner kategoriserade som företags enheter i Intune identifieras inte med deras fullständiga telefonnummer när du till exempel kör en inventerings rapport för mobila enheter. Fasta enheter telefonnummer är alltid delvis maskerade med asterisker (* * * *) och bara visa de fyra sista siffrorna.
+S: Telefoner som kategoriserats som företagsenheter i Intune identifieras inte med deras fullständiga telefonnummer när du till exempel kör en inventeringsrapport för mobila enheter. Telefonnummer med egen enhet är alltid delvis maskerade med asterisker (****) och endast de sista fyra siffrorna visas.

@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: e11c356e5a49667d26906989038215fe65f609f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b42e8299484feb84fdbd80e26508ff110daea0191e33043d55ac9880f12919d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811629"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014306"
 ---
 # <a name="install-visio"></a>Installera Visio
 
-Visio säljs som ett fristående program så om du inte har det ännu, [köp eller prova Visio](https://products.office.com/visio). 
+Visio som ett fristående program, så om du inte har det ännu kan du köpa eller [prova Visio.](https://products.office.com/visio) 
 
-**Obs!** Visio Online-abonnemang 1 innehåller ingen Skriv bords version av Visio, så ingen installation är möjlig.
+**Obs!** Visio Online-abonnemang 1 innehåller inte en skrivbordsversion av Visio, så ingen installation är möjlig.
 
-Om du har ett abonnemang på Visio online plan 2 måste du [tilldela en licens](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) till en användare, eller så har de inget alternativ för att installera Visio från **Mina installationer** på [My Account-portalen](https://portal.office.com/account#installs). 
+Om du har en prenumeration på Visio Online abonnemang [](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) 2 måste du tilldela en licens till en användare,  annars har de inte något alternativ för att installera Visio från Mina installationer i portalen Mitt [konto.](https://portal.office.com/account#installs) 
 
-En licens version i Visio Standard eller Visio Professional är kopplad till Microsoft-konton och kan inte hanteras i administrations centret. För att installera dessa versioner måste användarna logga in på [Account.Microsoft.com](https://account.microsoft.com) med det Microsoft-konto som är associerat med den här versionen av Visio.
+Icke-volymlicensversioner av Visio Standard eller Visio Professional är kopplade till Microsoft-konton och kan inte hanteras i administrationscentret. För att installera dessa versioner måste användarna logga in på account.microsoft.com med det [Microsoft-konto](https://account.microsoft.com) som är kopplat till den här versionen Visio.
 
-Mer detaljerad information finns i [installera Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) och följa anvisningarna för din version av Visio.
+Mer detaljerad information finns i [Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) och följ anvisningarna för din version av Visio.
 
 Mer information finns i:<br>
-[Distributions guide för Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[Scenarier med stöd för installation av olika versioner av Office, Project och Visio på samma dator](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
-[Visio-licensiering](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)
+[Distributionsguide för Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[Scenarier som stöds för att installera olika versioner Office, Project och Visio på samma dator](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
+[Visio Licensiering](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)
