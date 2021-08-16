@@ -1,5 +1,5 @@
 ---
-title: Vad är en nav webbplats?
+title: Vad är en navplats?
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c74df953-2ddc-4375-aea0-9f410881bb2e
-ms.openlocfilehash: f6bcd7acd0562860414b72b9199a8c4a24d9bcf8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5d2523832f91c98c452ef1c21586888da236082ff551b3b1a349757b48f6e99d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767473"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989825"
 ---
-# <a name="whats-a-hub-site"></a>Vad är en nav webbplats?
+# <a name="whats-a-hub-site"></a>Vad är en navplats?
 
-Med en nav webbplats kan du ordna webbplatser och ge dem en gemensam navigering och anpassning. Globala och SharePoint-administratörer kan skapa nav webbplatser och ange vilka användare som kan koppla sina webbplatser till nav webbplatsen. Mer information finns i [SharePoint Hub-webbplatser](https://go.microsoft.com/fwlink/?linkid=869388).
+Med en navplats kan du organisera webbplatser och ge dem en gemensam navigering och profilering. Globala administratörer SharePoint globala administratörer kommer att kunna skapa navplatser och ange vilka användare som kan associera sina webbplatser med navplatsen. Mer information finns i SharePoint [navplatser.](https://go.microsoft.com/fwlink/?linkid=869388)
   

@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: d6d652d107d453692751ad802ebe397e52df5627
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e80bfd24c319a411493e88c6bac31365c347a2e67f8ecb2dc9ba52fb24fc5d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724705"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012434"
 ---
-# <a name="experiencing-problems-with-a-cloud-service"></a>Har du problem med en moln tjänst?
+# <a name="experiencing-problems-with-a-cloud-service"></a>Har du problem med en molntjänst?
 
-Om du har problem med en moln tjänst kan du kontrol lera [tjänstens status](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) i administrations centret för Microsoft 365 för att avgöra om det är ett känt problem med en lösning som pågår innan du ringer supporten eller tar fram tid fel sökning. Problemet kanske är mycket temporärt och har redan identifierats av Microsoft, men det kan hända att det inte går att identifiera och publicera på instrument panelen för tjänste hälsa. Fortsätt att kontrol lera tjänste instrument panelen för ytterligare uppdateringar.
+Om du har problem med en molntjänst [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) kan du kontrollera tjänstens hälsa i Administrationscenter för Microsoft 365 för att avgöra om det är ett känt problem där en lösning är på gång innan du ringer supporten eller ägnar tid åt felsökning. Problemet kan vara väldigt tillfälligt och redan identifierat av Microsoft, men det kan uppstå intervall mellan problemidentifiering och publicering på hälsoinstrumentpanelen för tjänsten. Fortsätt att titta på instrumentpanelen för tjänster för fler uppdateringar.
 
-**Meddelande princip**
+**Meddelandeprincip**
 
-När en tjänste olycka inträffar känner Microsoft av att det är avgörande för kundernas korrekta, riktade och riktiga kommunikation. Microsoft meddelar administratörer genom att uppdatera den klient organisationens [hälso instrument panel (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) på Microsoft 365-administratörs portalen. Uppdateringar av tjänstens händelser tillhandahålls på en Tim tider eller, om en annan tider krävs, kommer den att anges i SHD kommunikation. Mer information finns i [så här kontrollerar du Microsoft 365-tjänstens hälsa](https://docs.microsoft.com/office365/enterprise/view-service-health).
+När ett tjänsthändelse inträffar känner Microsoft igen att det är viktigt för kunderna att kommunicera i rätt tid och på rätt sätt. Microsoft meddelar administratörerna genom att uppdatera den klientspecifika [Hälsoinstrumentpanelen (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) på Microsoft 365 Admin portalen. Uppdateringar av tjänsttillbud tillhandahålls per timme eller, om ett annat takten krävs, anges det i SHD-kommunikationsinsändningen. Mer information finns i Kontrollera [Microsoft 365 tjänstens hälsa.](https://docs.microsoft.com/office365/enterprise/view-service-health)
 
