@@ -1,5 +1,5 @@
 ---
-title: Kalender tillstånd för 411
+title: 411 Kalenderbehörighet
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9cf95572-4741-47d4-8770-544648ecb905
 ms.custom: 411
-ms.openlocfilehash: ef522719c152c9629522a3feb2ab986d46b0e58a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca71f3570cd11cf107ff0ee376796470c88536d5d1e1adbebd4d816ea470d5f3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684031"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035934"
 ---
-# <a name="calendar-permissions"></a>Kalender behörigheter
+# <a name="calendar-permissions"></a>Kalenderbehörigheter
 
-Om du har problem med att komma åt kalendern eller andra kalendrar använder du [Microsoft-assistenten för support och återställning för microsoft 365](https://diagnostics.office.com/).
+Om du har problem med åtkomsten till din eller andra kalendrar kan du använda [Microsoft-Support- och återställningsassistenten för Microsoft 365](https://diagnostics.office.com/).
   
-Mer information om hur du delar dina kalendrar finns i [dela en Outlook-kalender med andra](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).
+Mer information om hur du delar din kalender finns i [Dela Outlook kalender med andra](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).
   
 

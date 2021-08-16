@@ -1,5 +1,5 @@
 ---
-title: Ändra det konto du använder för att logga in på din Windows 10-dator
+title: Ändra det konto du använder för att logga in på Windows 10 dator
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9816"
 - "9005388"
-ms.openlocfilehash: c2f2c1de72db3c5c33d24473420f2581d8466d83
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 578cf67ee951966ad05f2680609712ce53ac98920c609f557542c2164fd7aa36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037007"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018626"
 ---
-# <a name="change-the-account-you-use-to-sign-in-to-your-windows-10-pc"></a>Ändra det konto du använder för att logga in på din Windows 10-dator
+# <a name="change-the-account-you-use-to-sign-in-to-your-windows-10-pc"></a>Ändra det konto du använder för att logga in på Windows 10 dator
 
-**Obs!** Om du säljer eller donerar din dator bör du överväga att återställa den helt i stället för att ta bort all personlig information. Om du vill ta bort alla filer, inställningar och appar kan du gå till Innan du säljer eller ger [bort din Windows 10-enhet eller Xbox One.](https://support.microsoft.com/help/10547/microsoft-account-selling-gifting-windows-10-device-xbox-one)
+**Obs!** Om du säljer eller donerar din dator bör du överväga att återställa den helt i stället för att ta bort all personlig information. Om du vill ta bort alla filer, inställningar och appar kan du gå till Innan du säljer eller [Windows 10 din enhet eller Xbox One](https://support.microsoft.com/help/10547/microsoft-account-selling-gifting-windows-10-device-xbox-one).
 
 Så här ersätter du en befintlig användare med ett nytt konto:
 
@@ -36,15 +36,15 @@ Så här ersätter du en befintlig användare med ett nytt konto:
 
 **Byta till ett annat användarkonto**
 
-1. Välj **Start** (Start-knappen med Windows-logotypen) i Aktivitetsfältet. 
+1. Välj **Start** (Windows start-knappen) i Aktivitetsfältet. 
 
-1. Till vänster på Start-menyn väljer du ikonen för kontonamn (eller bild) > Växla användare > en annan användare.
+1. På vänster sida av Start-menyn väljer du ikonen för kontonamn (eller bild) > Växla användare > en annan användare.
 
 **Så här ändrar du vilken typ av konto som används för att logga in**
 
 - Ändra från ett Microsoft-konto till ett lokalt konto
 
-    1. Välj Start och sedan **Inställningar Konton**  >  **>** Din information.
+    1. Välj Start-knappen och välj **Inställningar**  >  **Konton** > Din information.
 
     1. Om du använder ett lokalt konto som inte är kopplat till en e-postadress men du vill använda ett Microsoft-konto väljer du Logga in med ett **Microsoft-konto i stället**.
 
@@ -56,7 +56,7 @@ Så här ersätter du en befintlig användare med ett nytt konto:
 
 - Byta från ett standardkonto till en administratör
 
-    1. Välj Start och välj sedan **Inställningar**  >    >  **Kontofamilj & andra** personer (eller **Andra** personer om du använder Windows 10 Enterprise).
+    1. Välj Start och välj **Inställningar**  >    >  **kontofamilj & personer** (eller Andra personer om du använder Windows 10 Enterprise).
 
     1. Välj det konto som du vill göra till administratör och välj **Ändra konto**.
 
