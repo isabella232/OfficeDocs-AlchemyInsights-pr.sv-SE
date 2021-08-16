@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1b53dd25f4aa4b9409ffa52cc0fa9d0914c682ee0d21ccc0b6f0b484a3186626
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966991"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58296069"
 ---
 # <a name="release-quarantined-messages"></a>Släppa meddelanden i karantän
 
-Du kan släppa ett meddelande i karantän (eller en uppsättning meddelanden) till alla mottagare eller bara släppa meddelandet till vissa personer som du väljer i listan med alla mottagare.
+Du kan släppa ett meddelande i karantän (eller en uppsättning meddelanden) till alla mottagare eller bara släppa meddelandet till vissa personer som du väljer i listan med alla mottagare. Så här gör du:
 
-1. Gå till [Säkerhets- & Efterlevnadscenter](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Gå till **karantän för hantering** av  >    >  **hot.**
-3. Välj det meddelande eller de meddelanden som du vill släppa.
-4. När du släppt ett meddelande väljer **du Uppdatera** för att uppdatera dina data och dubbelklickar sedan på meddelandet. Du bör se att meddelandet har släppts till de avsedda mottagarna.
+1. Gå till Microsoft 365 Defender postgransknings <https://security.microsoft.com> sätt i **karantänen för & samarbete i** \> **portalen** \> **på**.
+
+   Om du vill gå direkt **till sidan** Karantän använder du <https://security.microsoft.com/quarantine> .
+
+2. På sidan **Karantän** kontrollerar du att **e-postfliken** är markerad och gör sedan något av följande:
+   - **Enskilt meddelande:** Markera meddelandet. I den utfällsalternativ för informationen som visas väljer du **Släpp** e-post , konfigurerar de alternativ du vill använda och klickar sedan på **Släpp meddelande**.
+   - **Flera meddelanden:** Välj upp till 100 meddelanden för att släppa meddelandet till alla mottagare (du kan inte ange enskilda ursprungliga mottagare). I **listrutan Massåtgärder** som visas väljer du **Släpp meddelanden**, konfigurerar de alternativ du vill använda och klickar sedan på **Släpp meddelande.**
+
+Mer information finns i följande artiklar:
+
+- [Hitta och släppa meddelanden i karantän som användare](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Hantera meddelanden och filer i karantän som administratör](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

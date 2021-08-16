@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 2732c9c1f644e3ba30db9716a7a0ab53e51c2d29d4cfeabc485133ed99531a05
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d18a5e56c758119bec0cbed9e60fb015ff17855b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53987413"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295925"
 ---
 # <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>Importera en PST-fil från Outlook för Windows till Outlook för Mac 
 
@@ -28,7 +28,7 @@ Om du vill överföra meddelanden och andra objekt från en Windows-baserad dato
 
 1. På menyn Outlook för Mac **väljer** du **Importera**.
 
-2. Välj **Outlook för Windows arkivfil (.pst)** och klicka sedan på **Fortsätt.**
+2. Välj **Outlook för Windows arkivfil (.pst) och** klicka sedan på **Fortsätt.**
 
 3. Leta reda på datafilen på datorn och klicka sedan på **Importera**.
 
@@ -53,8 +53,7 @@ Om du vill överföra meddelanden och andra objekt från en Windows-baserad dato
 
    De importerade objekten visas i navigeringsfönstret under **På den här datorn.**
 
-> [!NOTE]
-> Outlook för Mac kan bara importera Unicode-baserade PST-filer, som är standardformatet för personliga mappfiler för Outlook (för Windows) 2003 och senare versioner. ANSI-formaterade .pst-filer, även kallade personliga mappfiler för Outlook 97-2002, var standardformat för personliga mappfiler för att spara data i Outlook för Windows i versionerna 97-2002. Det här filformatet kan inte importeras till Outlook för Mac. Om du har den äldre versionen av en ANSI-formaterad .pst-fil finns det inget automatiskt sätt att konvertera filen till det nyare filformatet. Du kan dock skapa en ny Outlook-datafil (.pst) i Microsoft Outlook för Windows 2003 eller senare versioner, och sedan importera objekt från den äldre filen till den nya filen. Sedan kan du importera den nya PST-filen till Outlook för Mac. Mer information om hur du skapar PST-filer  och importerar objekt finns i hjälpen för din version av Outlook för Windows.
+**Obs!** Outlook för Mac kan bara importera Unicode-baserade PST-filer, som är standardformatet för personliga mappfiler för Outlook (för Windows) 2003 och senare versioner. ANSI-formaterade PST-filer, även kallade personliga mappfiler för Outlook 97-2002, var standardformat för personliga mappar för att spara data i Outlook för Windows i versionerna 97-2002. Det här filformatet kan inte importeras till Outlook för Mac. Om du har den äldre versionen av en ANSI-formaterad .pst-fil finns det inget automatiskt sätt att konvertera filen till det nyare filformatet. Du kan dock skapa en ny Outlook-datafil (.pst) i Microsoft Outlook för Windows 2003 eller senare versioner, och sedan importera objekt från den äldre filen till den nya filen. Sedan kan du importera den nya PST-filen till Outlook för Mac. Mer information om hur du skapar PST-filer  och importerar objekt finns i hjälpen för din version av Outlook för Windows.
 
 **Öppna en Outlook (.pst eller .olm)**
 
@@ -72,8 +71,7 @@ Du kan importera en Outlook för Windows (.pst) eller en Outlook för Mac -dataf
 
 De importerade objekten visas i navigeringsfönstret under **På den här datorn.**
 
-> [!NOTE]
-> Outlook för Mac kan bara importera Unicode-baserade PST-filer, som är standardformatet för personliga mappfiler för Outlook (för Windows) 2003 och senare versioner. De ANSI-formaterade PST-filerna, som även kallas Outlook 97-2002 Personliga mappfiler, kan inte importeras till Outlook för Mac. Om du har den äldre versionen av en ANSI-formaterad .pst-fil finns det inget automatiskt sätt att konvertera filen till det nyare filformatet. Du kan dock skapa en ny Outlook-datafil (.pst) i Microsoft Outlook för Windows 2003 eller senare och sedan importera objekt från den äldre filen till den nya filen. Sedan kan du importera den nya PST-filen till Outlook för Mac. Mer information om hur du skapar PST-filer och importerar objekt finns i hjälpen för din version av Outlook för Windows. 
+**Obs!** Outlook för Mac kan bara importera Unicode-baserade PST-filer, som är standardformatet för personliga mappfiler för Outlook (för Windows) 2003 och senare versioner. De ANSI-formaterade .pst-filerna, som även kallas Outlook 97-2002 Personliga mappfiler, kan inte importeras till Outlook för Mac. Om du har den äldre versionen av en ANSI-formaterad .pst-fil finns det inget automatiskt sätt att konvertera filen till det nyare filformatet. Du kan dock skapa en ny Outlook-datafil (.pst) i Microsoft Outlook för Windows 2003 eller senare och sedan importera objekt från den äldre filen till den nya filen. Sedan kan du importera den nya PST-filen till Outlook för Mac. Mer information om hur du skapar PST-filer och importerar objekt finns i hjälpen för din version av Outlook för Windows. 
 
 **Öppna entourage-objekt från ett arkiv eller en tidigare version**
 
@@ -83,14 +81,14 @@ Du kan importera objekt som e-postmeddelanden, kontakter och händelser från En
 
 2. Klicka **på Entourage-information från ett arkiv eller tidigare version**, klicka på högerpilen och följ sedan instruktionerna.
 
-> [!NOTE]
+**Obs!**
 - Om du använde ett Microsoft Exchange-konto med Entourage laddas alla objekt i Exchange-kontot ned från Exchange-servern när importen är klar. Alla regler eller scheman relaterade till Exchange måste konfigureras om i Outlook.
 
-- Om du importerar objekt från Entourage 2004 eller Entourage 2008, importeras inte kategoriinformation för objekt i ett Exchange-konto till Outlook. Men med Entourage 2008 Web Services Edition laddas kategoriinformation ned från Exchange server.
+- Om du importerar objekt från Entourage 2004 eller Entourage 2008, importeras inte kategoriinformation för objekt i ett Exchange-konto till Outlook. Men med Entourage 2008, Web Services Edition, laddas kategoriinformation ned från Exchange server.
 
-- Outlook inte ingår i Project Center. Om du har använt Project Center i Entourage och sedan importerar din Entourage-information till Outlook, Project Center-associationer konverteras till kategorier. Om du till exempel lade till objekt i ett projekt som hette "Forskningsarbete" i Entourage, tilldelas dessa objekt en kategori som kallas "Forskningsarbete" i Outlook.
+- Outlook inte finns i Project Center. Om du har använt Project Center i Entourage och sedan importerar din Entourage-information till Outlook konverteras Project Center-associationer till kategorier. Om du till exempel lade till objekt i ett projekt som hette "Forskningsarbete" i Entourage, tilldelas dessa objekt en kategori som kallas "Forskningsarbete" i Outlook.
 
-- Anpassade vyer, sökinställningar och information om händelserestid från Entourage importeras inte till Outlook. Outlook händelser inkluderar inte någon information om restid.
+- Anpassade vyer, sökinställningar och information om händelserestid från Entourage importeras inte till Outlook. Outlook inte innehåller någon information om restid.
 
 **Flytta ett objekt från en arkivmapp till en annan mapp i Outlook**
 
@@ -100,8 +98,7 @@ Du kan importera objekt som e-postmeddelanden, kontakter och händelser från En
 
 3. I sökrutan anger du namnet på mappen som du vill flytta och klickar på **Flytta**.
 
-> [!TIP]
-> Om du vill kopiera ett objekt från en arkivmapp till en annan Outlook i mappen drar du objektet till den mapp där du vill placera kopian.
+   **Tips!** Om du vill kopiera ett objekt från en arkivmapp till en annan mapp i Outlook drar du objektet till den mapp där du vill placera kopian.
 
 **Se även**
 
