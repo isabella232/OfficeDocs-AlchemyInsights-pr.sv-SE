@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 3e3e350f74b19420155c29cb282f065e7db6d4d7
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fa38d893a8bd543e87c0239f1a88d9c1caa33153ced6e33ef31c309be8989e95
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747938"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035204"
 ---
 # <a name="configure-quarantine-notifications-sent-to-users"></a>Konfigurera karantänaviseringar som skickas till användare
 
 Så här skickar du meddelanden till användarna om vad som har satts i karantän:
 
-1. Gå till administratörscentrat **Skräppostfilter för**  >  **Exchange**  >  **Protection i**  >  **administrationscentret.**
+1. Gå till administrationscentret för att **gå till**  >  **administrationscentret Exchange**  >    >  **Skräppostfilter för skydd.**
 2. Välj den policy för skräppostfilter som du vill aktivera aviseringar för.
 3. I den högra rutan väljer du **länken Konfigurera skräppostaviseringar för slutanvändare.**
 4. I nästa dialogruta väljer du **Aktivera skräppost-aviseringar för slutanvändaren.** Välj att aktivera skräppostaviseringar för den här principen.
