@@ -1,5 +1,5 @@
 ---
-title: Använd Microsoft Edge för att skydda användare mot PUAs
+title: Använda Microsoft Edge för att skydda användare mot PUA:er
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004025"
 - "7091"
-ms.openlocfilehash: 2b62e800fe67460192e0cd79a078e544004c4834
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: aaae60092dd49d15f2f437750d876d469bf7f8e39180bcaa3d44fdea5410e028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679921"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000518"
 ---
-# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Använd Microsoft Edge för att skydda användare mot PUAs
+# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Använda Microsoft Edge för att skydda användare mot PUA:er
 
-Microsoft Edge-versioner 80.0.361.50 och senare blockerar nedladdning av potentiellt oönskade program (PUAs) och tillhör ande URL: er. Så här aktiverar du funktionen:
+Microsoft Edge version 80.0.361.50 och senare blockera hämtningar av potentiellt oönskade program och tillhörande URL:er. Så här aktiverar du den här funktionen:
 
-1. Gå till **Inställningar**  >  **integritet och tjänster** i webbläsaren.
+1. Gå **till Inställningar**  >  **sekretess och** tjänster i webbläsaren.
 
-2. Bläddra ned till avsnittet **tjänster** och kontrol lera att **Microsoft Defender SmartScreen** och **blockera potentiellt oönskade appar** är aktiverade.
+2. Rulla ned till **avsnittet Tjänster** och kontrollera att **Microsoft Defender SmartScreen** Blockera **potentiellt oönskade appar** är aktiverat.
 
-    Nästa gång Microsoft Defender SmartScreen upptäcker en PUA blockerar den och meddelar dig om detta.
+    Nästa gång Microsoft Defender SmartScreen en PUA blockeras den och du meddelas.
 
-    Mer information finns i [så här blockerar du PUA URL: er](https://go.microsoft.com/fwlink/?linkid=2133024).
+    Mer information finns i blockera [mot PUA-associerade URL:er.](https://go.microsoft.com/fwlink/?linkid=2133024)

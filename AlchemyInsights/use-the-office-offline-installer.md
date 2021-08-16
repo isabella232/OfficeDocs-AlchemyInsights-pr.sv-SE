@@ -1,5 +1,5 @@
 ---
-title: Använda installations programmet för Office offline
+title: Använd det Office offlineinstallationsprogrammet
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "938"
 - "2000022"
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
-ms.openlocfilehash: 6098ac9ad117264ad2a6d38eb077cec9541954d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cfd666ddb0aa5edb4d0f4fc0a03c6442b201d331da7d2193e7ad8615790c36a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770209"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037950"
 ---
-# <a name="use-the-office-offline-installer"></a>Använda installations programmet för Office offline
+# <a name="use-the-office-offline-installer"></a>Använd det Office offlineinstallationsprogrammet
 
-Du måste vara ansluten till Internet för att ladda ned installationsfilerna, men när det är klart kan du installera Office offline på en PC med hjälp av distributions verktyget för Office (ODT)
+Du måste vara ansluten till Internet för att ladda ned installationsfilerna, men när det är klart kan du sedan installera Office offline på en dator när du vill med distributionsverktyget för Office (ODT)
 
-ODT är utformat för företags miljöer och körs från kommando raden, så stegen är mer komplicerade – men de fungerar fortfarande för installation på en och samma enhet. Se [använda installations programmet för Office offline](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
+ODT är avsett för företagsmiljöer och körs från kommandoraden, så stegen är mer komplicerade – men de fungerar fortfarande för installation på en enda enhet. Se [Använda Office offlineinstallationsprogrammet](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
   

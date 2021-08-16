@@ -1,5 +1,5 @@
 ---
-title: Beräkna SharePoint-lagring
+title: Beräkna SharePoint lagringsutrymme
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000355"
 - "10010"
-ms.openlocfilehash: aaabcc52b4811c1eea9cd3f0c65e2bf81644354b
-ms.sourcegitcommit: 9540ba561c98b511483d6f3264c43bbecbf9f4d5
+ms.openlocfilehash: 7feac3177052b8647ff571f875f6978e84b046e06283bc8ac5ba48cc148f14a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51420932"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046446"
 ---
-# <a name="calculate-sharepoint-storage"></a>Beräkna SharePoint-lagring
+# <a name="calculate-sharepoint-storage"></a>Beräkna SharePoint lagringsutrymme
 
-**Lagringsformel:** 1 TB plus 10 GB per licens för ett berättigande abonnemang köpt plus eventuella **[Office 365](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)** Extra File Storage-tillägg som köpts. [](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)
+**Storage:** 1 TB plus 10 GB per licens för [berättigade abonnemang](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space) köpta plus **[alla Office 365 extra fillagring](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)** tillägg som köpts.
 
-Mer information finns i Begränsningar [för SharePoint-lagring efter abonnemang.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
+Mer information finns i [SharePoint lagringsbegränsningar efter abonnemang.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
