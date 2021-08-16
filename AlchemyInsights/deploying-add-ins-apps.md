@@ -1,5 +1,5 @@
 ---
-title: Distribuera tillägg för Microsoft 365 program
+title: Distribuera tillägg för Microsoft 365-applikationer
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 3aacc3c6675f4102a5b34a435c862215dbfd0479b75549d608ed3c91021ed3d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233552"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031424"
 ---
-# <a name="deploying-add-ins-for-microsoft-365-apps"></a>Distribuera tillägg för Microsoft 365 program
+# <a name="deploying-add-ins-for-microsoft-365-apps"></a>Distribuera tillägg för Microsoft 365-applikationer
 
 Centraliserad distribution är det rekommenderade sättet Office distribuera tillägg till användare och grupper inom organisationen. Följ stegen nedan för att distribuera tillägg:
 
 **Obs!** Information om hur du installerar tillägg Office enskilda användare finns i Visa, hantera och installera tillägg [i Office program.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Se också till att enskilda Office Store-tillägg är aktiverat. Mer information finns i Förhindra att tillägg hämtas genom att stänga av Office Store för alla klienter [(utom Outlook)](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook).
 
 1. Kontrollera att miljön uppfyller kraven för distribution av tillägg med hjälp av centraliserad distribution. Mer information finns i [Krav](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements).
-2. Gå **Inställningar**  >  **appar Skaffa**  >  **appar** i administrationscentret Microsoft 365 och distribuera tillägg. 
+2. Gå **Inställningar**  >  **integrerade appar**  >  **Hämta** appar i Administrationscenter för Microsoft 365 distribuera tillägg. 
 
 Kommentarer: 
 
@@ -46,6 +46,6 @@ Mer information finns i:
 [Distribuera tillägg i administrationscentret](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins) 
  [Hantera tillägg i administrationscentret](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center) 
  [Använda PowerShell-cmdlets för](https://docs.microsoft.com/microsoft-365/enterprise/use-the-centralized-deployment-powershell-cmdlets-to-manage-add-ins) centraliserad distribution för att hantera tillägg 
- [Publicera Office tillägg med hjälp av centraliserad distribution via Microsoft 365 administrationscenter](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 
+ [Publicera Office tillägg med hjälp av centraliserad distribution via Administrationscenter för Microsoft 365](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 
  [Felsökning: Användaren ser inte tillägg](https://docs.microsoft.com/office365/troubleshoot/access-management/user-not-seeing-add-ins) 
  [Felsöka användarfel med Office tillägg](https://docs.microsoft.com/office/dev/add-ins/testing/testing-and-troubleshooting)

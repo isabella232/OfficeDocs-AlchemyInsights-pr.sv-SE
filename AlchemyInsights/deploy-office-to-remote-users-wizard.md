@@ -1,5 +1,5 @@
 ---
-title: Guiden distribuera Office till fjärranslutna användare
+title: Guiden Office distribuera till fjärranvändare
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004224"
 - "7433"
-ms.openlocfilehash: bef318409ffc54ec25d97eca5120374f277a684c
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 0f3234d26cece5bcff586b7b654635a3fc71de98ed11653e3d52699e1bc965de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679572"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031460"
 ---
-# <a name="deploy-office-to-remote-users-wizard"></a>Guiden distribuera Office till fjärranslutna användare
+# <a name="deploy-office-to-remote-users-wizard"></a>Guiden Office distribuera till fjärranvändare
 
-Nu när du arbetar på en fjärran sluten dator är det viktigt att användarna tar emot organisationens Office-inställningar när de inte är anslutna till det interna nätverket eller när de använder sina egna enheter.
+Nu när det är normen att arbeta på distans måste användarna få organisationens Office när de inte är anslutna till det interna nätverket eller när de använder sina egna enheter.
 
-Använd guiden [distribuera Office till fjärranslutna användare](https://go.microsoft.com/fwlink/?linkid=2149564) för att skapa en anpassad Office-installation och sedan skicka användare ett genererat PowerShell-skript som smidigt kan installera Office med din konfiguration.
+Använd guiden [Distribuera Office](https://go.microsoft.com/fwlink/?linkid=2149564) till fjärranvändare om du vill skapa en anpassad Office-installation och sedan skicka ett genererat PowerShell-skript som enkelt installerar Office med konfigurationen.
