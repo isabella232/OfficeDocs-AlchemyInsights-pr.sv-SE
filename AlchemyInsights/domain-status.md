@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: 1ddf6475e7cf466a39f76486e0f809097917657bc8f4ae7f7f2b516657308f39
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1476a88c7b974a9e6cfe443f6842df8cdc3d7073a73c0add7e6f183dd0528de1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53947461"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874413"
 ---
 # <a name="domain-status---no-services-selected"></a>Domänstatus – Inga tjänster har markerats
 
@@ -26,11 +26,11 @@ ms.locfileid: "53947461"
 
 Så här väljer du tjänster för domänen:
 
-1. I **Inställningar**  >  [**Domäner**](https://admin.microsoft.com/Adminportal/Home)markerar du kryssrutan bredvid domänen med statusmeddelandet **Inga tjänster markerat.**
+1. I **Inställningar**  >  [**Domains**](https://admin.microsoft.com/Adminportal/Home)markerar du kryssrutan bredvid domänen med statusmeddelandet **Inga tjänster markerat.**
 1. Välj **Hantera DNS för** att starta domäninstallationsguiden.
     - Om du väljer **Lägg till dina egna DNS-poster** ska du se till att välja en tjänst när du uppmanas att göra det. Fler tjänster kan vara tillgängliga under **Avancerade alternativ.**
     - Om du väljer **Låt Microsoft lägga till dina DNS-poster** eller **Fler** alternativ Konfigurera onlinetjänsterna åt mig föreslås alla tillgängliga tjänster  >   och väljs automatiskt.
 1. Fortsätt genom guiden för att slutföra DNS-installationen och tjänstalternativen.
  
-Mer hjälp med att konfigurera din domän finns i Lägga [till DNS-poster för att ansluta din domän.](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+Mer hjälp med att konfigurera din domän finns i Lägga [till DNS-poster för att ansluta din domän.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 

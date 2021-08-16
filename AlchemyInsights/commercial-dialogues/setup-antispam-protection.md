@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 8bc5c98dc9f60ae23b52b36d2087cafbb9fd6491
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: a5eec054a8459453be9f3b9de79596030a34049a5ce75fbce31240d8e413d5b9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401853"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874593"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Konfigurera ett skydd mot skräppost
 
-Gör så här:
+1. Gå Microsoft 365 Defender Principer för samarbete & e-& i avsnittet Principer för säkerhet mot skräppost i Microsoft 365 Defender i <https://security.microsoft.com/>  \>  \>  \> **webbportalen för** **e-post.**
 
-1. Gå till [Säkerhets- och & Office 365.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Gå till **Policy för hantering**  >  **av** hot och klicka **[på Skräppostskydd.](https://go.microsoft.com/fwlink/p/?linkid=2077143)**
-1. Aktivera **Anpassade** inställningar på **fliken** Anpassad.
-1. Expandera **standardprincipen för skräppostfilter,** **klicka på Redigera** princip och ange sedan följande inställningar:
-    1. I avsnittet **Skräppost- och massåtgärder** anger du tröskelvärdet till värdet 5 eller 6.
-1. Klicka på **Spara**.
+   Om du vill gå direkt till sidan **Principer för skräppostskydd** använder du <https://security.microsoft.com/antispam>.
 
-Mer information om policyalternativen för skydd mot skräppost finns i [Konfigurera principer för skydd mot skräppost.](https://go.microsoft.com/fwlink/?linkid=2092051)
+2. Gör **något av följande på** sidan Principer för skydd mot skräppost:
+   - Om du vill lägga till en ny princip väljer **du + Skapa** \> **inkommande.** En guide startas så att du kan definiera dina principinställningar.
+   - Om du vill redigera en befintlig princip markerar du principen genom att klicka på namnet på principen **(Typ** är Custom **anti-spam policy** eller **Name** is **Anti-Spam inbound policy (Default)**). I den utfällingstext för information som **visas väljer** du Redigera i avsnittet som innehåller de inställningar du vill konfigurera.
+
+3. När du har granskat inställningarna väljer du **Skicka** (ny) eller **Spara** (redigera).
+
+Mer information finns i [Konfigurera principer för skräppostskydd i EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).
