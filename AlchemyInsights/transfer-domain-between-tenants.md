@@ -1,5 +1,5 @@
 ---
-title: Överföra domänen mellan klient organisationer
+title: Överföra domän mellan klientorganisationen
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7305"
-ms.openlocfilehash: d696c9d095fb6b2b374d8c5872e94cc7e32dceb8
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 942ca306951fdd8e971ea27da88af5601325185b7c169b4df3dfd9e43e1650c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564989"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048642"
 ---
-# <a name="transfer-domain-between-tenants"></a>Överföra domänen mellan klient organisationer
+# <a name="transfer-domain-between-tenants"></a>Överföra domän mellan klientorganisationen
 
-En egen domän, till exempel forthcoffee.com, kan tas bort manuellt från en klient organisation och sedan verifieras i en ny klient organisation.
+En anpassad domän, till exempel forthcoffee.com, kan tas bort manuellt från en klientorganisation och sedan verifieras i en ny klientorganisation.
 
-Följ de här anvisningarna för att [ta bort en domän](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain). Sedan går du till **inställnings**  >  **domäner**  >  **Lägg till domän**.
+Följ de här anvisningarna för [att Ta bort en domän.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain) I den nya klientorganisationen går du sedan **till Inställningar**  >  **Domains Add**  >  **domain**.
 
-Mer komplexa scenarion finns i [Microsoft 365-migreringar för klient organisationer](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations).
+Mer komplexa scenarier finns i [Microsoft 365 migreringar från klientorganisation till klientorganisation.](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations)
 
-**Observera också**:
-- Den ursprungliga onmicrosoft.com-domänen kan inte tas bort eller flyttas mellan innehavare.
-- En anpassad domän som har köpts från Microsoft kan inte flyttas mellan innehavare.
+**Observera också:**
+- Den första onmicrosoft.com kan inte tas bort eller flyttas mellan klientorganisationen.
+- En egen domän som köpts från Microsoft kan inte flyttas mellan klientorganisationen.

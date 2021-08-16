@@ -14,23 +14,23 @@ ms.custom:
 - "5676"
 - "9000292"
 - "5680"
-ms.openlocfilehash: 551fc98b2b2053811a3b282edd03d6245ed7df26
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ba373dc3a21e75870e30f6dd3fd60223738aab7b72e721cf7a1067aa69d829ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814940"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030731"
 ---
 # <a name="document-library-faq"></a>Vanliga frågor och svar om dokumentbibliotek
 
 **Felsöka problem med dokumentbibliotek:**
 
-Navigera till [felsökning i SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/online) och "Filtrera efter rubrik" eller öka detaljgranskningen manuellt i artiklar under avsnittet "Listor och bibliotek".
+Gå till [SharePoint Online-felsökning](https://docs.microsoft.com/sharepoint/troubleshoot/online) och "Filtrera efter rubrik" eller öka manuellt i artiklar under avsnittet "Listor och bibliotek".
 
 **Mer information om dokumentbibliotek:**
 
 - [Skapa ett dokumentbibliotek i SharePoint](https://support.office.com/article/Create-a-document-library-in-SharePoint-306728fe-0325-4b28-b60d-f902e1d75939)
-- [Ladda upp filer till ett bibliotek](https://support.office.com/article/upload-files-to-a-library-da549fb1-1fcb-4167-87d0-4693e93cb7a0)
+- [Upload filer till ett bibliotek](https://support.office.com/article/upload-files-to-a-library-da549fb1-1fcb-4167-87d0-4693e93cb7a0)
 - [Redigera behörigheter för en lista eller ett bibliotek](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 - [Flytta eller kopiera en mapp, fil eller länk i ett dokumentbibliotek](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc)
 - [Aktivera och konfigurera versionshantering för en lista eller ett bibliotek](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37)

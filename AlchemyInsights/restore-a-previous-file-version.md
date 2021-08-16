@@ -1,5 +1,5 @@
 ---
-title: Återställa en tidigare version av filen
+title: Återställa en tidigare filversion
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
-ms.openlocfilehash: 5fead002ffe2089835f9419e9fe0ce0353c9dd03
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e2a728b80d7c175682f17117cc1e61c109f56eb987483be12187d048467a4c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720628"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039588"
 ---
-# <a name="restore-a-previous-file-version"></a>Återställa en tidigare version av filen
+# <a name="restore-a-previous-file-version"></a>Återställa en tidigare filversion
 
-Med versions historik online kan du se och återställa äldre versioner av dina filer på OneDrive eller SharePoint. Versions historik fungerar med alla filtyper, till exempel PDF, CAD-filer, foton och videor. Så här återställer du en tidigare fil version:
+Med hjälp av online versionshistorik kan du se och återställa tidigare versioner av dina filer i OneDrive eller SharePoint. Versionshistoriken fungerar med alla filtyper, inklusive PDF-filer, CAD-filer, foton och videor. Återställa en tidigare filversion:
   
-1. Öppna SharePoint-dokumentbiblioteket eller OneDrive-platsen.
+1. Öppna SharePoint dokumentbibliotek eller OneDrive plats.
     
-2. Klicka till vänster om filen för att markera den och klicka sedan på **versions historik**. Om du inte ser versions historik i kommando fältet klickar du på mer ( **...** ). 
+2. Markera filen genom att klicka till vänster om den och klicka sedan på **Versionshistorik**. Om du inte ser Versionshistorik i kommandofältet klickar du på Mer ( **...** ). 
     
-3. Klicka på den version som du vill visa eller klicka på mer ( **...** ) till höger om en version och klicka sedan på **Återställ**.
+3. Klicka på den version du vill visa eller klicka på Mer ( **...** ) till höger om en version och klicka sedan på **Återställ**.
     
 

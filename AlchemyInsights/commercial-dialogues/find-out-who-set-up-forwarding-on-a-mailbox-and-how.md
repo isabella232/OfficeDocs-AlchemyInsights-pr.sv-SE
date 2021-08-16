@@ -1,5 +1,5 @@
 ---
-title: Ta reda på vem som konfigurerade vidarebefordran för en postlåda och hur
+title: Ta reda på vem som har ställt in vidarebefordran för en postlåda och hur
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 6a1a1376758024339939d10a7d17520faa8505ea
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 6243e787bb6b51f26cf22782d9ec80f946430b864f53de7ea626b7166a674d2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483355"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988251"
 ---
-# <a name="find-out-who-set-up-forwarding-on-a-mailbox-and-how"></a>Ta reda på vem som konfigurerade vidarebefordran för en postlåda och hur
+# <a name="find-out-who-set-up-forwarding-on-a-mailbox-and-how"></a>Ta reda på vem som har ställt in vidarebefordran för en postlåda och hur
 
 Om extern vidarebefordran har angetts för en postlåda granskas aktiviteten som en del av Set-Mailbox-cmdleten. Så här hittar du aktiviteten i granskningsloggen:
 
-1. Gå till [Säkerhets- och & Office 365.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Välj **Sök** >  **granskningsloggsökning.**
+1. Gå till [säkerhets- Office 365 för & säkerhets- och efterlevnadscenter.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Välj **Sök i** >  **granskningsloggsökning**.
     > [!NOTE]
     > Om du ser ett meddelande om att du måste aktivera granskning kan du aktivera den nu. Om den här funktionen inte är aktiverad kan inte sökresultat hämta data från tidigare datum.
-1. Kontrollera att fältet **Aktiviteter** är inställt på **Visa resultat för alla aktiviteter** (standard). Ange datumintervallet. Du behöver inte ange ett användarnamn.
-1. Välj **Sök.** Aktiviteterna visas under **Resultat.**
-1. Välj **Filtrera resultat** och ange sedan Ange postlåda **i** fältet **Aktivitetsfilter.** Då returneras **alla Aktiviteter för Uppsättningspostlåda.**
-1. Om du vill visa informationen väljer du en aktivitet och sedan **Mer information.** Under **Parametrar** kan du se vidarebefordran av e-postadressen som ställts in för postlådan. **Användar-ID** representerar den användare som konfigurerade extern vidarebefordran för postlådan.
-Mer information finns i Söka [i Office 365-granskningsloggen för att felsöka vanliga scenarier.](https://go.microsoft.com/fwlink/?linkid=2103944)
+1. Kontrollera att **fältet Aktiviteter** är inställt på Visa resultat för alla **aktiviteter** (standard). Ange datumintervallet. Du behöver inte ange ett användarnamn.
+1. Välj **Sök**. Aktiviteterna visas under **Resultat.**
+1. Välj **Filtrera** resultat och ange sedan **Set-mailbox** i **filterfältet** Aktivitet. Då returneras alla **Aktiviteter i Set-Mailbox.**
+1. Om du vill visa informationen väljer du en aktivitet och sedan **Mer information**. Under **Parametrar** ser du den e-postadress för vidarebefordran som ställts in för postlådan. UserID **representerar** den användare som konfigurerade extern vidarebefordran för postlådan.
+Mer information finns i Söka [i Office 365 granskningsloggen för att felsöka vanliga scenarier](https://go.microsoft.com/fwlink/?linkid=2103944).

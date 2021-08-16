@@ -1,5 +1,5 @@
 ---
-title: Exempel på princip för säkra bifogade filer i Microsoft Defender för Office 365
+title: Exempel på en princip för bifogad fil Office 365 Valv Microsoft Defender för företag
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 077762dd37a2974b4e519c1f242fa753623cb49a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7294be81a24fa61a92367bae304798a333cb916c8718e28b1a87314c15ef6c8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749195"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988313"
 ---
-# <a name="example-microsoft-defender-for-office-365-safe-attachment-policy"></a>Exempel på princip för säkra bifogade filer i Microsoft Defender för Office 365
+# <a name="example-microsoft-defender-for-office-365-safe-attachment-policy"></a>Exempel på en princip för bifogad fil Office 365 Valv Microsoft Defender för företag
 
 De här inställningarna aktiverar principen *No delays* (Inga fördröjningar) som skickar meddelanden direkt och sedan återansluter bifogade filer när de har skannats:
 
 - **Namn**: Inga fördröjningar
 - **Beskrivning**: Levererar meddelanden omedelbart ochbibiar bifogade filer efter genomsökning.
-- **Svar:** Välj **alternativet Dynamisk** leverans. Mer information finns i Principer [för dynamisk leverans i säkra bifogade filer.](https://go.microsoft.com/fwlink/?linkid=2092328)
+- **Svar:** Välj **alternativet Dynamisk** leverans. Mer information finns i Principer [för dynamisk leverans i Valv för bifogade filer.](https://go.microsoft.com/fwlink/?linkid=2092328)
 - **Avsnittet Omdirigera bifogad** fil: Välj alternativet Aktivera omdirigering och ange sedan e-postadressen till din globala Microsoft 365-administratör, säkerhetsadministratör eller säkerhetsanalytiker som ska undersöka skadliga bifogade filer. 
 - **Avsnittet Används** för: **Välj Mottagarens domän är** och välj sedan din domän. Välj **lägg** till och välj sedan **OK.** Välj Spara när du är **klar.**
 
-Mer information finns i Säkra [bifogade filer i Microsoft Defender för Office 365.](https://go.microsoft.com/fwlink/?linkid=2092213)
+Mer information finns i Lägga [Valv i Microsoft Defender för Office 365](https://go.microsoft.com/fwlink/?linkid=2092213).
