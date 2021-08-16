@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: e6065c9ec681e377f8f8a51232d1b411bc91845e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0367cf3f76a9668e71dec52645a5b3aed44ccec93c0c39bccfa883212009633b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747193"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033800"
 ---
 # <a name="use-securescore"></a>Använda SecureScore
 
-Secure Score är ett säkerhetsanalysverktyg som rekommenderar vad du kan göra för att ytterligare minska risken. Med Secure Score visas dina Office 365-inställningar och aktiviteter och de jämförs med en baslinje som fastställts av Microsoft. Du får en poäng som baseras på hur du ligger till med metodtips för säkerhet.
+Secure Score är ett säkerhetsanalysverktyg som rekommenderar vad du kan göra för att ytterligare minska risken. Med Secure Score visas dina Office 365 inställningar och aktiviteter och de jämförs med en baslinje som fastställts av Microsoft. Du får en poäng som baseras på hur du ligger till med metodtips för säkerhet.
 
 Vill du prova Secure Score? När du är inloggad i Office 365 som global administratör går du till [SecureScore.com.](https://securescore.office.com/)
