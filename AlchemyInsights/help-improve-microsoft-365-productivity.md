@@ -1,5 +1,5 @@
 ---
-title: Förbättra Microsoft 365-produktiviteten
+title: Förbättra produktiviteten Microsoft 365 produktivitet
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004612"
 - "8268"
-ms.openlocfilehash: 599b914e15e86e7899988a0178864b24d1782af1
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 4a7aae1a1e95aa6e8d35a57ed7a7de692cf85901fc6879bcaa8dade37456eba3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256979"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002210"
 ---
-# <a name="help-improve-microsoft-365-productivity"></a>Förbättra Microsoft 365-produktiviteten
+# <a name="help-improve-microsoft-365-productivity"></a>Förbättra produktiviteten Microsoft 365 produktivitet
 
-Produktivitetsresultatet stöder din organisations digitala transformation med insikter om hur Microsoft 365-produkter används och de tekniska upplevelserna bakom dem.
+Produktivitetsresultatet stöder organisationens digitala omvandling med insikter om hur Microsoft 365 produkter används och teknikupplevelserna bakom dem.
 
 Mer information finns i:
 
-- [hur resultatet beräknas](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
-- [så här tolkar du organisationens poäng](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
+- [hur poängen beräknas](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
+- [så här tolkar du organisationens resultat](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
 - [sekretesskontroller för Productivity Score](https://docs.microsoft.com/microsoft-365/admin/productivity/privacy)
 
-Mer information finns i [Microsoft Productivity Score Overview.](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
+Mer information finns i Microsoft [Productivity Score Overview](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score).

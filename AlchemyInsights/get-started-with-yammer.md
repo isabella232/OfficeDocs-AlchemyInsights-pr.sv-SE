@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004222"
 - "7430"
-ms.openlocfilehash: ba3cff52a4907a0c11fb1cef165fe805ae369cc0
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: a4bd4a24484596b8d14202d9490be297f5633b6b9ccd1a4958673b49752f77c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679308"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002312"
 ---
 # <a name="get-started-with-yammer"></a>Komma igång med Yammer
 
-Yammer är ett välliggande, säkert och privat socialt företags nätverk. Yammer tillhandahåller en engagerande och lättanvänd upplevelse på webben och i Yammer-appen för Android-och iOS-enheter. Yammer kan integreras med Microsoft Teams och Outlook. Yammer ger också en uppdaterad integrerings upplevelse i SharePoint Online.
+Yammer är ett förstklassigt, säkert och privat socialt nätverk för företag. Yammer en engagerande och lättanvänd upplevelse på webben och i Yammer för Android- och iOS-enheter. Yammer kan integreras med Microsoft Teams och Outlook. Yammer har även en uppdaterad integreringsupplevelse i SharePoint Online.
 
-Använd Yammer för att förbereda Yammer-nätverket genom att lägga till domäner, definiera administratörer och kombinera Yammer-nätverk. Distribuera Yammer och anpassa sedan utseendet, Konfigurera säkerhet och efterlevnad och förfina inställningarna.
+Använd Yammer för att förbereda ditt Yammer genom att lägga till domäner, definiera administratörer och kombinera Yammer nätverk. Distribuera Yammer anpassa sedan utseendet, konfigurera säkerhet och efterlevnad och förfina inställningarna.
