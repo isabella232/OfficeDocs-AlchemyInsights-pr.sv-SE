@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teams-gäst åtkomst
+title: Microsoft Teams – gäståtkomst
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.custom:
 - "2679"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 83739b66057dd25ef9c95a138598e61db4f221bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 96a57d523c75a2e0b3cebff6abe23377fa7d2525ce00cedeb1a16c6669255c8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777659"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026888"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft Teams-gäst åtkomst
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams – gäståtkomst
 
-Behöver du hjälp med att aktivera och konfigurera funktionen gäst åtkomst i Microsoft Teams?  
+Behöver du hjälp med att aktivera och konfigurera gäståtkomstfunktionen i Microsoft Teams?  
 
-Kontrol lera först att du har följt alla stegen i [Check lista för gäst åtkomst](https://docs.microsoft.com/microsoftteams/guest-access-checklist). När alla de här stegen är klara måste du [vänta upp till 24 timmar](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) innan inställningarna börjar gälla.
+Kontrollera först att du följt alla steg i checklistan [för gäståtkomst.](https://docs.microsoft.com/microsoftteams/guest-access-checklist) När alla dessa steg är slutförda måste du vänta upp till [24 timmar](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) på att inställningarna ska gälla.
 
-Om du är säker på att du har slutfört alla stegen i check listan och det är mer än 24 timmar, kan du försöka [lägga till en gäst i gruppen](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Om du är säker på att du har slutfört alla steg i checklistan och det har gått mer än 24 timmar kan du försöka lägga till en gäst i [teamet.](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)
 
-Mer information om hur du gör videoklipp finns i [gäst åtkomst i Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
+Mer information, inklusive videofilmer, finns i [Gäståtkomst i Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
