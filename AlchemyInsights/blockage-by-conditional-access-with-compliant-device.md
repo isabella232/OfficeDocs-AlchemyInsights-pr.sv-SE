@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9835"
 - "9003257"
-ms.openlocfilehash: 240bd25f4d62505202c8cd7ceabe4c1cd3d5c0b5
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 709749b1a62f2d9cdabfb3fe4b7538c22101d7109204d9163f6059336b817bf8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037078"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019166"
 ---
 # <a name="im-getting-blocked-by-conditional-access-with-compliant-device"></a>Jag blockeras av villkorsstyrd åtkomst med kompatibel enhet
 
@@ -36,13 +36,13 @@ Verifiera att enheten är registrerad med en godkänd MDM-leverantör som Intune
 
 2. **Enheten är inte ansluten till organisationens nätverk:**
 
-För åtkomst till organisationsresurser måste enheten vara ansluten till organisationens nätverk, antingen via direktanslutning eller via ett virtuellt privat nätverk (VPN), och även ansluten till lokalt eller Azure Active Directory. Information om hur du ansluter till en arbetsenhet i organisationens nätverk finns i [Ansluta din arbetsenhet till organisationens nätverk.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-join-device-on-network) Information om hur du registrerar en personlig/BYOD-enhet [finns i Registrera din personliga enhet i organisationens nätverk.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-register-device-on-network)
+För åtkomst till organisationsresurser måste enheten vara ansluten till organisationens nätverk, antingen via direkt anslutning eller via ett virtuellt privat nätverk (VPN), och även ansluten till lokalt eller Azure Active Directory. Information om hur du ansluter till en arbetsenhet i organisationens nätverk finns i [Ansluta din arbetsenhet till organisationens nätverk.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-join-device-on-network) Information om hur du registrerar en personlig/BYOD-enhet [finns i Registrera din personliga enhet i organisationens nätverk.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-register-device-on-network)
 
 - För att verifiera om enheten har anslutit till nätverket kan du följa stegen för registrerade enheter [här](https://docs.microsoft.com/azure/active-directory/user-help/user-help-register-device-on-network#to-verify-that-youre-registered) eller arbetsenheter [här](https://docs.microsoft.com/azure/active-directory/user-help/user-help-join-device-on-network#to-make-sure-youre-joined). Följ riktlinjerna nedan för att begränsa problemet till organisationsnätverksanslutning:
 
-    1. Logga in på Windows med ditt arbets- eller skolkonto, till exempel genom att alain@contoso.com.
-    2. Anslut till din organisations nätverk via ett VPN eller DirectAccess.
-    3. När du är ansluten trycker du på **Windows-tangenten + L för** att låsa enheten.
+    1. Logga in på Windows ditt arbets- eller skolkonto, t.ex. alain@contoso.com.
+    2. Anslut din organisations nätverk via ett VPN eller DirectAccess.
+    3. När du är ansluten trycker du på **Windows+L för** att låsa enheten.
     4. Lås upp enheten med ditt arbets- eller skolkonto och försök sedan få åtkomst till appen eller tjänsten med problem igen.
 
 Om du ser **felmeddelandet Du kan inte komma dit härifrån igen** är problemet sannolikt någon annanstans.
@@ -51,9 +51,9 @@ Om du ser **felmeddelandet Du kan inte komma dit härifrån igen** är problemet
 
 Kontrollera att du kör en version av operativsystemet som stöds, inklusive:
 
-- **Windows-klient:** Windows 7 eller senare
+- **Windows Klient**: Windows 7 eller senare
 
-- **Windows Server:** Windows Server 2008 R2 eller senare
+- **Windows Server**: Windows Server 2008 R2 eller senare
 
 - **macOS**: macOS X eller senare
 
@@ -61,16 +61,16 @@ Kontrollera att du kör en version av operativsystemet som stöds, inklusive:
 
 4. **Webbläsare stöds inte:**
 
-Du hittar webbläsare som stöds nedan. För Chrome-stöd med Windows 1703 eller senare versioner krävs ett tillägg för Windows 10-konton. För Edge 85+ måste användaren vara inloggad för att kunna överföra information om enhetsefterlevnad korrekt. Mer information finns i [här](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-conditions#chrome-support).
+Du hittar webbläsare som stöds nedan. För Chrome-stöd Windows 1703 eller senare versioner krävs Windows 10 Tillägg för konton. För Edge 85+ måste användaren vara inloggad för att kunna överföra information om enhetsefterlevnad korrekt. Mer information finns i [här](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-conditions#chrome-support).
 
 - **Windows 10**: Microsoft Edge, Internet Explorer, Chrome
-- **Windows 8/ 8.1**: Internet Explorer, Chrome
-- **Windows 7:** Internet Explorer, Chrome
-- **iOS:** Microsoft Edge, Intune Managed Browser, Safari
-- **Android:** **Microsoft Edge:** Intune Managed Browser, Chrome
-- **Windows Phone:** Microsoft Edge, Internet Explorer
+- **Windows 8 / 8.1**: Internet Explorer, Chrome
+- **Windows 7**: Internet Explorer, Chrome
+- **iOS**: Microsoft Edge, Intune Managed Browser, Safari
+- **Android:** **Microsoft Edge**: Intune Managed Browser, Chrome
+- **Windows Phone**: Microsoft Edge, Internet Explorer
 - **Windows Server 2019**: Microsoft Edge, Internet Explorer, Chrome
-- **Windows Server 2016**: Internet Explorer
+- **Windows Server 2016:** Internet Explorer
 - **Windows Server 2012 R2**: Internet Explorer
 - **Windows Server 2008 R2**: Internet Explorer
 - **macOS**: Chrome, Safari

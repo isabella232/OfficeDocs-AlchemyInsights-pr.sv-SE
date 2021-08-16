@@ -1,5 +1,5 @@
 ---
-title: Om kvarhållningstider i granskningsloggar
+title: Om bevarandeperioder för granskningsloggar
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5a8601bc7757e77882d8dab709e007a2f6df3b0c
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: d98e11748027a0262b8353063fca68894abc3783238e368f59f7457ea2ba0a8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483516"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006361"
 ---
-# <a name="about-audit-logs-retention-periods"></a>Om kvarhållningstider i granskningsloggar
+# <a name="about-audit-logs-retention-periods"></a>Om bevarandeperioder för granskningsloggar
 
-Kvarhållningsperioden för granskningsloggar beror på organisationens Office 365-prenumeration.
+Kvarhållningsperioden för granskningsloggar beror på organisationens prenumeration Office 365 prenumeration.
 
-- **Office 365 E3:** 90 dagar.
-- **Office 365 E5**: 365 dagar. Ett års bevarande är för närvarande en förhandsgranskning.
-- **Tillägg för E3 och Office 365 Advanced Compliance:** 365 dagar. Ett års bevarande är för närvarande en förhandsgranskning.
-- Om du vill registrera dig i förhandsgranskningsprogrammet arkiverar du en begäran till Microsoft Support och inkluderar följande som beskrivning av vad du behöver hjälp med: Långsiktiga privata förhandsversioner av **Office 365-granskningsloggen.**
+- **Office 365 E3**: 90 dagar.
+- **Office 365 E5**: 365 dagar. Det ettåriga bevarandet är för närvarande en förhandsversion.
+- **E3 Office 365 Advanced Compliance tillägg:** 365 dagar. Det ettåriga bevarandet är för närvarande en förhandsversion.
+- Om du vill registrera dig i förhandsgranskningsprogrammet gör du en begäran hos Microsoft Support och inkluderar följande som beskrivning av vad du behöver hjälp med: Långsiktigt Office 365 privat förhandsgranskning av **granskningsloggen.**
 > [!NOTE]
-> Bevarandetiden baseras på licensiering per användare. Om en användare i organisationen till exempel har en E3-licens sparas granskningsposterna för aktiviteter som utförs av den användaren i 90 dagar. Om en annan användare har en E5-licens sparas granskningsposterna i ett år.
+> Bevarandetiden baseras på licensiering per användare. Om en användare i organisationen till exempel har en E3-licens behålls granskningsposterna för aktiviteter som utförts av den användaren i 90 dagar. Om en annan användare har en E5-licens behålls granskningsposterna i ett år.
 
-Mer information finns i det här avsnittet för vanliga [frågor och svar.](https://go.microsoft.com/fwlink/?linkid=2115336)
+Mer information finns i Vanliga frågor och [svar.](https://go.microsoft.com/fwlink/?linkid=2115336)

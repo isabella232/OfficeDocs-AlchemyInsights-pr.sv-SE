@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 08a5d4a51ee8de1a29607bb04ebc05d85faaddaa
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5cef08bd626ae7362fd3bf33f2f58a7b83b2b7cca7a64ee5abc9efaa546acd72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749715"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006368"
 ---
 # <a name="add-a-subdomain"></a>Lägga till en underdomän
 
@@ -32,7 +32,7 @@ Så här lägger du till en underdomän:
 1. I administrationscentret går du till **Konfigurera > Domäner.**
 2. Klicka på **Lägg till en domän.**
 3. Skriv namnet på underdomänen. Om du till exempel äger **domändomänen contoso.com** kanske din **_underdomän_** london.contoso.com .
-4. Klicka på **Nästa**.
+4. Klicka **Nästa**.
 5. Om du vill konfigurera onlinetjänster för underdomänen går du vidare till guiden ELLER
 6. Om du inte vill konfigurera onlinetjänster för underdomänen klickar du på **Spara** och stänger fönstret.
 
