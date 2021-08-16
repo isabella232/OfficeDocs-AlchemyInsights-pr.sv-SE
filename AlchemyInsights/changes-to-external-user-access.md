@@ -1,5 +1,5 @@
 ---
-title: Ändringar av åtkomst till externa användare
+title: Ändringar av åtkomst för externa användare
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: abdb45fb-93b0-4df9-994d-b997fcfcaff5
-ms.openlocfilehash: 1be2a05efdf46a1ec05992963a3e03519dc2c3d5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3c3ccbd8dd4f43a5f927f727e8757ded3612c630158cf045b4e6c0f93bb75ad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714346"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045690"
 ---
-# <a name="changes-to-external-user-access"></a>Ändringar av åtkomst till externa användare
+# <a name="changes-to-external-user-access"></a>Ändringar av åtkomst för externa användare
 
-Från och med den 23 mars 2018 kan externa användare inte längre komma åt innehåll som har delats med alla, alla autentiserade användare eller alla formulär användare, även om de har bjudits in eller lagts till i godkända grupper. Externa användare kan bara komma åt innehåll som har delats med användaren eller med grupper som användaren tillhör. Om du vill behålla dina befintliga inställningar kan du läsa: https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
+Från och med den 23 mars 2018 kan externa användare inte längre komma åt innehåll som har delats med alla, alla autentiserade användare eller alla formuläranvändare, även om de har bjudits in eller lagts till i behöriga grupper. Externa användare kan bara komma åt innehåll som har delats med användaren eller med grupper som användaren tillhör. Om du vill behålla dina befintliga inställningar kan du gå till: https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
   
 
