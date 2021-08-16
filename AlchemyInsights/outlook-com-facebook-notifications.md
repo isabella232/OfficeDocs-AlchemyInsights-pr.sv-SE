@@ -1,5 +1,5 @@
 ---
-title: Outlook.com Facebook-meddelanden
+title: Outlook.com Facebook-aviseringar
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: f9d5b94abda70c7383221a0d04c01a6f43f16100
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b1276c7639fae8c5d3885f532995ea458abcca102288e82a9324a2f5d4bcfee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672146"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010994"
 ---
-# <a name="facebook-notifications-using-outlookcom"></a>Facebook-meddelanden med Outlook.com
+# <a name="facebook-notifications-using-outlookcom"></a>Facebook-meddelanden via Outlook.com
 
-Om du inte vill ta emot meddelanden från Facebook kan du ändra dina Facebook- [Inställningar](https://aka.ms/facebook-notifications-settings) eller skapa en regel för Inkorgen.
+Om du inte vill ta emot aviseringar från Facebook kan du ändra dina [Facebook-inställningar eller](https://aka.ms/facebook-notifications-settings) konfigurera en inkorgsregel.
 
-1. Gå till [regel inställningar](https://outlook.live.com/mail/options/mail/rules/inboxRules).
-1. Välj **Lägg till ny regel**.
-1. Namnge regeln "Facebook".
-1. Lägga till ett villkor för "från" och ange "notification@facebookmail.com"
-1. Lägg till en åtgärd av "ta bort". Om du väljer Delete bevaras meddelandena i borttagna objekt och kan återställas. Om du väljer "Markera som skräp post" tas meddelanden bort automatiskt och kan inte återställas.
+1. Gå till [Regelinställningar.](https://outlook.live.com/mail/options/mail/rules/inboxRules)
+1. Välj **Lägg till ny regel.**
+1. Ge regeln ett namn som "Facebook".
+1. Lägg till villkoret "Från" och ange "notification@facebookmail.com"
+1. Lägg till en åtgärd från "Ta bort". Om du väljer Ta bort innebär det att meddelandena finns kvar i dina Borttagna objekt och kan återställas. Om du väljer Markera som skräppost tas meddelandena bort automatiskt och kan inte återställas.
 1. Välj **Spara**.
