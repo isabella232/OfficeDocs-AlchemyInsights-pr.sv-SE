@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 61e466d9ec203a66a7ce2e89bd1462f5a483c784
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: aa505491f205eafd032fb3eef95f5d7d6f5226c61b73462312573789745258fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483896"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988385"
 ---
 # <a name="create-an-ediscovery-case"></a>Skapa ett e-dataidentifieringsfall
 
 Så här skapar du ett eDiscovery-ärende:
 
-1. Gå till [Säkerhets- & Center för efterlevnad](https://go.microsoft.com/fwlink/p/?linkid=2077143) och välj **eDiscovery**  >  **eDiscovery.**
-1. Klicka på Skapa ett ärende på sidan **E-dataidentifiering.**
-1. Ange ett namn och en beskrivning för ett ärende och klicka sedan på **Spara.**
+1. Gå till [Säkerhets- & efterlevnadscenter](https://go.microsoft.com/fwlink/p/?linkid=2077143) och välj **eDiscovery**  >  **eDiscovery.**
+1. På sidan eDiscovery klickar du på **Skapa ett ärende.**
+1. Ange ett Namn och en beskrivning för ärendet och klicka sedan på **Spara**.
     > [!TIP]
     >Om du vill hantera behörigheter för ärendet klickar du på blanksteg bredvid namnet på ärendet (klicka inte på Öppna).
-1. Om du vill hantera inställningar för Håll, Sök och Exportera för det här fallet klickar du **på Öppna.**
+1. Om du vill hantera inställningar för att hålla, söka efter och exportera i det här fallet klickar du **på Öppna.**
 
-Detaljerad information om hur eDiscovery-ärenden fungerar med innehåll finns [i eDiscovery-ärenden.](https://go.microsoft.com/fwlink/?linkid=2101589)
+Detaljerad information om hur eDiscovery-ärenden fungerar med innehåll finns i [eDiscovery-ärenden.](https://go.microsoft.com/fwlink/?linkid=2101589)

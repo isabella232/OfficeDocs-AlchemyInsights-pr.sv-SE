@@ -1,5 +1,5 @@
 ---
-title: Vidarekoppling, samtals grupper och samtidig uppringning i Teams
+title: Vidareringning av samtal, samtalsgrupper och samtidig uppringning Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004159"
 - "7251"
-ms.openlocfilehash: e9ce11063f47bc8208714186a572846544f3abd0
-ms.sourcegitcommit: e69e79d7dc632ec6f1da4d303d2cdc81249852b8
+ms.openlocfilehash: 23578487c3e5a988f888172b7a15309217c261284f662a4e07f21ba3a4971004
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447531"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996432"
 ---
-# <a name="call-forwarding-call-groups-and-simultaneous-ring-in-teams"></a>Vidarekoppling, samtals grupper och samtidig uppringning i Teams
+# <a name="call-forwarding-call-groups-and-simultaneous-ring-in-teams"></a>Vidareringning av samtal, samtalsgrupper och samtidig uppringning Teams
 
-Aktivera vidarekoppling
+Konfigurera vidareringning av samtal
 
-1. I Teams-klienten klickar du på din profil bild högst upp i teamet och väljer sedan **inställningar > samtal**.
-2. Välj **Vidarekoppla mina samtal** under **svars regler för samtal** och välj var du vill vidarekoppla samtalen: röst brev låda, annan person eller samtals grupp.
+1. I Teams client klickar du på din profilbild längst upp på Teams och väljer sedan **Inställningar > Samtal**.
+2. Under **Svarsregler för** samtal väljer du Vidarespela mina samtal och sedan vart dina vidarebefordrade samtal ska gå: röstbrevlåda, en annan person eller en samtalsgrupp.
 
-Aktivera vidarekoppling av samtal till en samtals grupp
+Konfigurera vidareringning av samtal till en samtalsgrupp
 
-1. Välj **Vidarekoppla mina samtal** under **svars regler**.
-2. På menyn **Vidarekoppla till väljer du** **Ring** upp.
-3. Under **Lägg till personer** lägger du till de personer du vill ha i samtals gruppen. Du kan lägga till upp till 25 personer. Alla som du lägger till får ett meddelande.
+1. Under **Svarsregler för samtal** väljer du Vidare forward my **calls**.
+2. På menyn **Vidarebefordra till** väljer du **Ring grupp**.
+3. Under **Lägg till personer** lägger du till de personer du vill ha i samtalsgruppen. Du kan lägga till upp till 25 personer. Alla som du lägger till får ett meddelande.

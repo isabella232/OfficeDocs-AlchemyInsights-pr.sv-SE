@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004194"
 - "7374"
-ms.openlocfilehash: 6d5c7042d2d8b2a113a8f2047b6d776d9247dd99
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 16bdbfaf95ee3744027ce03d591518db86cad0c9b86a227244a908245501eb6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679897"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027401"
 ---
 # <a name="deploy-microsoft-365"></a>Distribuera Microsoft 365
 
-[Microsoft 365 Deployment Advisor](https://go.microsoft.com/fwlink/?linkid=2072646) ger kommersiella kunder vägledning när du konfigurerar produktivitets verktyg, säkerhets principer och funktioner för enhets hantering. Med ett Microsoft 365 Business Premium-eller Microsoft 365-abonnemang för företag kan du använda denna rådgivare för att konfigurera och konfigurera organisationens enheter.
+Den [Microsoft 365 för distribution](https://go.microsoft.com/fwlink/?linkid=2072646) ger kommersiella kunder vägledning vid installation av produktivitetsverktyg, säkerhetsprinciper och funktioner för enhetshantering. Med ett Microsoft 365 Business Premium eller Microsoft 365 för en företagsprenumeration kan du använda den här rådgivaren för att konfigurera din organisations enheter.
 
-Du får vägledning och åtkomst till resurser för att aktivera dina moln tjänster, uppdatera enheter till den senaste versionen av Windows 10 och ansluta enheter till Azure Active Directory (Azure AD), allt på en central plats.
+Du får vägledning och åtkomst till resurser för att aktivera dina molntjänster, uppdatera enheter till den senaste versionen av Windows 10 som stöds och ansluta enheter till Azure Active Directory (Azure AD), allt på en central plats.

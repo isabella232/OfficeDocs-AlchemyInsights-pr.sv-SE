@@ -1,5 +1,5 @@
 ---
-title: Vanliga problem och lösningar för Microsoft Graph
+title: Microsoft Graph vanliga problem och lösningar
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004018"
 - "7081"
-ms.openlocfilehash: f6473c35cd0a0b2b5450039fca1b407f0f3f6fda
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 099fbd12a9245ad314b27d6e3eac08c1dbc57854e8d6c3165fac81141d83bde6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089141"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027284"
 ---
-# <a name="microsoft-graph-common-issues-and-resolutions"></a>Vanliga problem och lösningar för Microsoft Graph
+# <a name="microsoft-graph-common-issues-and-resolutions"></a>Microsoft Graph vanliga problem och lösningar
 
-En fullständig lista över kända problem i Microsoft Graph finns i [kända problem med Microsoft Graph](https://docs.microsoft.com/graph/known-issues). Andra frågor och resurser finns på huvud sidan i [Microsoft Graph](https://docs.microsoft.com/graph/) .
+En fullständig lista över kända problem med Microsoft Graph finns i [Kända problem med Microsoft Graph](https://docs.microsoft.com/graph/known-issues). För andra frågor och resurser, se microsofts [huvudsida Graph Dokumentation.](https://docs.microsoft.com/graph/)
 
-- [Microsoft Graph REST API 5 v 1.0-referens](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0).
-- Ta reda på vad som har ändrats i Microsoft Graph API från [changelog](https://docs.microsoft.com/graph/changelog). 
-- [Ställ en fråga eller ge feedback om Graph API: er och dokument](https://aka.ms/GraphDeveloperSupport) med support teamet för utvecklare.
+- [Microsoft Graph REST API v1.0-referens](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0).
+- Ta reda på vad som har ändrats i Microsofts Graph API från [Changelog](https://docs.microsoft.com/graph/changelog). 
+- [Ställ en fråga eller lämna feedback Graph API:er och dokument](https://aka.ms/GraphDeveloperSupport) med utvecklarsupportteamet.
 
-Enhetliga support-och Premier-kunder kan anskaffa ett support ärende med den här portalen. Andra har till gång till gratis support för utvecklare för Microsoft Graph på [Microsoft Q&A](https://aka.ms/AskGraph).
+Unified Support och Premier-kunder kan höja ett support ärende via den här portalen. Andra kan få tillgång till kostnadsfri utvecklarsupport för Microsoft Graph på [Microsoft Q&A.](https://aka.ms/AskGraph)

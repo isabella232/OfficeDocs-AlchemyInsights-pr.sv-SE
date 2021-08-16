@@ -12,22 +12,22 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: db45aa8df40484fdcda7c430f1ca27482a1dd4ce
-ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
+ms.openlocfilehash: 3601c5eff121e10b6bddace6f7228204a01080a636e24f3a56373fe8d469c799
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49019601"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038535"
 ---
 # <a name="unable-to-delete-items"></a>Det går inte att ta bort objekt
 
-- Bevarande principer kan orsaka detta, men du måste antingen inaktivera eller exkludera respektive undantag som orsakar problemet. När en bevarande princip eller undantag har tagits bort kan det ta upp till 24 timmar innan ändringen börjar gälla. Kontrol lera att det inte finns någon [bevarande princip](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) inställning för objektet.
+- Bevarandeprinciper kan orsaka detta. Du måste antingen inaktivera eller exkludera respektive undantag som orsakar problemet. När en bevarandeprincip eller ett bevarande har tagits bort kan det ta upp till 24 timmar innan ändringen verkställs. Kontrollera att det inte finns en [konfiguration av bevarandeprincipen](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) för objektet.
 
-- Webbplatsen kan ha överskridit lagrings gränsen, öka [kvoten](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) och ta bort objektet.
+- Webbplatsen kan ha överskridit lagringsgränsen, öka [webbplatskvoten och](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) ta bort objektet.
 
-- Se till att objektet inte är [utcheckat](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) till en annan användare.
+- Kontrollera att objektet inte har [checkats ut till](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) en annan användare.
 
-- Slutligen kan administratörer använda [SharePoint-mönster och-praxis](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PNP) som innehåller ett bibliotek med PowerShell-kommandon som gör det möjligt att utföra komplexa hanterings åtgärder, till exempel att tvinga bort Stubborn-objekt.
+- Slutligen kan administratörer använda [SharePoint Mönster](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) och metoder (PnP) som innehåller ett bibliotek med PowerShell-kommandon som gör att du kan utföra komplexa hanteringsåtgärder, till exempel tvinga borttagning av objekt att ta bort.
 - [Ta bort PNP-fil](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
 - [Ta bort PNP-mapp](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
 - [Ta bort PNP-listobjekt](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
