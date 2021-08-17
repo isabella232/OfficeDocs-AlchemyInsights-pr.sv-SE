@@ -15,16 +15,16 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893073"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314934"
 ---
 # <a name="billing-and-payment"></a>Fakturering och betalning
 
-Dina räkningar finns på fliken **&**  >  [Fakturor.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Som standard visas fakturorna för de senaste 3 månaderna.  Justera filtret om du vill visa äldre fakturor.  Klicka på **PDF-länken Ladda** ned faktura för att visa fakturan.
+Dina fakturor finns på fliken **faktureringsfakturor**  >  [& Betalningar.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Som standard visas fakturorna för de senaste 3 månaderna.  Justera filtret om du vill visa äldre fakturor.  Klicka på **PDF-länken Ladda** ned faktura för att visa fakturan.
 
 **Ta emot fakturor via e-post**
 
@@ -46,8 +46,7 @@ Om du har lagt till ett nytt kort och du fortfarande får ett meddelande om avb�
 
 4. Om du vill använda en befintlig betalningsmetod väljer du en i listrutan och väljer sedan **Ersätt**.
 
-    > [!NOTE]
-    > Om du har prenumerationer som är associerade till en faktureringsprofil kan du bara använda kredit- eller betalkort för att betala för dem. Om du har bankkonton listade på sidan **Betalningsmetoder**, kan de inte väljas i listrutan.
+    **Obs!** Om du har prenumerationer som är kopplade till en faktureringsprofil kan du bara använda ett kreditkort eller bankkort för att betala för dem. Om du har bankkonton listade på sidan **Betalningsmetoder**, kan de inte väljas i listrutan.
 
 5. Om du vill lägga till en ny betalningsmetod väljer du **Lägg till betalningsmetod**.
 

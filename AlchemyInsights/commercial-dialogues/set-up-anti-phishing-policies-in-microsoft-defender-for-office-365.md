@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: bf7b6763111c92ab9b01d991a8c9598890fb973e04e66a24b1f21863e11e2d91
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313445"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895101"
 ---
 # <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Konfigurera principer för skydd mot nätfiske i Microsoft Defender för Office 365
 
-1. Gå till Microsoft 365 Defender för samarbete i & i & principer för hot mot nätfiske i avsnittet Principer i <https://security.microsoft.com/>  \>  \>  \> webbportalen **för** **e-post.**
+1. Gå Microsoft 365 Defender principer för samarbete <https://security.microsoft.com/> &  \>  \>  \> **e-&** mot nätfiske i avsnittet Principer i Microsoft 365 Defender i webbportalen **för säkerhetshot.**
 
    Om du vill gå direkt **till sidan Mot nätfiske** använder du <https://security.microsoft.com/antiphishing> .
 
@@ -31,4 +31,4 @@ ms.locfileid: "58313445"
 
 3. När du har granskat inställningarna väljer du **Skicka** (ny) eller **Spara** (redigera).
 
-Mer information finns i Konfigurera [principer för skydd mot nätfiske i Microsoft Defender för Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies).
+Mer information finns i Konfigurera [principer för skydd mot nätfiske i Microsoft Defender för Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies)

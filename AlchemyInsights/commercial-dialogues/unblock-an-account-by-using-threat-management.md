@@ -13,17 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 56df5d66df9559663fbb34ae2349d3e6d01dd678
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 38700b516887dd4789e826a02672b5cc5d8354b1cd0ff743ba321724903413ba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403041"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895025"
 ---
 # <a name="unblock-an-account-by-using-threat-management"></a>Häva blockeringen av ett konto med hjälp av hantering av hot
 
-Gör så här: 
+Gör så här:
 
-1. Gå till [Säkerhets- och & Office 365.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Välj **Granskning av**  >  **hothantering**. På sidan **Granska** väljer du **[Begränsade användare.](https://go.microsoft.com/fwlink/?linkid=2103514)**
-1. Om det komprometterade kontot visas i listan klickar du på **Ta bort kontoblockering.** Kontot bör kunna skicka meddelanden igen, vanligtvis inom en timme.
+1. Gå till Microsoft 365 Defender-portalen via <https://security.microsoft.com> \> **E& och granska** \>  \> **begränsade användare.**
+
+   Om du vill gå direkt **till sidan Begränsade** användare använder du <https://security.microsoft.com/restrictedusers> .
+
+2. Om användaren finns i listan markerar du användaren och väljer sedan Ta **bort blockering.** Följ anvisningarna i det utfällfönster som visas och välj sedan **Ja för** att bekräfta.
+
+   Kontot bör kunna skicka meddelanden igen, vanligtvis inom en timme.
+
+Mer information finns i Ta [bort blockerade användare från portalen Begränsade användare.](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)

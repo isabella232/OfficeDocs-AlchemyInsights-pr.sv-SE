@@ -13,12 +13,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9001511"
 - "5097"
-ms.openlocfilehash: bd5ffb00d8db527edcb2e8848fb87f79a12f22a0
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 34e0e45fdbe78071a801b85c1f0d6f5807a353bf9fc11e31d412fe662438c630
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58295661"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894793"
 ---
 # <a name="troubleshooting-live-events-in-microsoft-stream"></a>Felsöka livehändelser i Microsoft Stream
 

@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930043"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896129"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Åtgärda Avsändaradress-/domänlistregler
 
-En policy för skräppostskydd i klientorganisationen påverkade det här meddelandet. Meddelandets avsändare finns med i listan Tillåt eller Spärra. Så här granskar du principen:
+En av dina principer mot skräppost påverkade det här meddelandet. Meddelandets avsändare finns med i listan Tillåt eller Spärra. Så här granskar du principerna:
 
-1. Gå till [Office 365 säkerhets- & säkerhets-](https://go.microsoft.com/fwlink/p/?linkid=2077143)och efterlevnadscenter och gå **sedan** till Policy för hothantering  >    >  [mot skräppost.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. Om **Standardinställningar** är aktiverat **på fliken Standard** markerar du listorna **Tillåt** och **Spärra.**
-3. Om Anpassade **inställningar** är aktiverat på **fliken** Anpassad granskar du principerna genom att välja Redigera **princip** och markera listorna **Tillåt** **och Spärra.**
+1. Gå Microsoft 365 Defender principer för samarbete &-post och & principer för hot mot skräppost i avsnittet Principer i webbportalen för <https://security.microsoft.com/>  \>  \>  \> **e-Microsoft 365 Defender.** 
 
-Mer information om hur du konfigurerar principer för skräppostfilter finns [i Konfigurera principer för skräppostfilter.](https://go.microsoft.com/fwlink/?linkid=2101431)
+   Om du vill gå direkt till sidan **Principer för skräppostskydd** använder du <https://security.microsoft.com/antispam>.
+
+2. På sidan Principer för skydd mot skräppost markerar du principen genom att klicka på namnet på principen **(Typ** är Custom **anti-spam** policy eller **Name** is **Anti-Spam inbound policy (Default)**). 
+3. I den utfällfältet  med information som visas väljer du Redigera tillåtna och blockerade avsändare och domäner i avsnittet Tillåtna och **blockerade avsändare och** domäner.
+4. I avsnittet **Tillåtna** granskar du avsändare och domäner genom att klicka på **Hantera \<nn\> avsändare** eller **Tillåt domäner.**
+
+Mer information finns i [Konfigurera principer för skräppostskydd i EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).
