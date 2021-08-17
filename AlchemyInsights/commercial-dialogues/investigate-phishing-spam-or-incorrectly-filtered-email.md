@@ -12,17 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3015b0cb3b972bc1b096e6f791b7976f78f0c15639fb15403d9b0c134a09e1cf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948973"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894413"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Undersöka nätfiske, skräppost eller felaktigt filtrerad e-post
 
 Skicka meddelandet till Microsoft med hjälp av Inskickat Meddelandeutforskaren. Du får direkt feedback om meddelandefiltrering och orsaken till problemet inträffade. Här följer en sammanfattning av stegen:
 
-1. Gå till Office 365  [Säkerhets- & Efterlevnadscenter](https://go.microsoft.com/fwlink/p/?linkid=2077143), välj Sändning  >  **av** hothantering och välj sedan **+ Ny inskickad sändning.**
-2. Ange information i den **utfällna nytt** inskickade sändningen.
-3. Informera användarna att de ska rapportera misstänkta [e-postmeddelanden](https://go.microsoft.com/fwlink/?linkid=2092385) till Microsoft och att tillägget Rapportmeddelande är det verktyg de ska använda för detta ändamål.
+1. I webbportalen Microsoft 365 Defender <https://security.microsoft.com> på går du till Skicka **e-& och** \> **samarbetsinskick.**
+
+   Använd för att gå **direkt till sidan** Inskickade <https://security.microsoft.com/reportsubmission> material.
+
+2. På sidan **Inlämnade uppgifter** kontrollerar du att fliken **Skickat för** analys är markerad och klickar sedan på + Skicka till Microsoft **för analys.**
+
+3. En utfällsalternativ visas med alternativet att skicka ett e-postmeddelande, en URL-adress eller en fil. Mer information finns i Använda [administratörsinskick för att skicka misstänkt skräppost, nättr ut, URL:er och filer till Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
+
+4. Informera användarna att de ska rapportera misstänkta meddelanden i Inkorgen med hjälp av tilläggen Rapportmeddelande eller Rapport om [nätfiske.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)

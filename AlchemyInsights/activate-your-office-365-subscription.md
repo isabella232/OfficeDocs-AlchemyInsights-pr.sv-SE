@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 05c6df5290e079e1d50d43c730f5e76eb04ec49eebf596f5835e4f8939e968a4
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0f1b451c69667db3a581e84b84864458e179b2c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889332"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314294"
 ---
 # <a name="activate-your-subscription"></a>Aktivera din prenumeration
 
@@ -25,7 +25,7 @@ ms.locfileid: "57889332"
 
 - Tilldela användare en licens om du vill ge dem åtkomst till en tjänst. Mer information finns i [Tilldela licenser till användare.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 - Om du redan har en tilldelad licens hittar du program som du kan ladda ned från [sidan Mitt konto.](https://portal.office.com/account/#installs) På den här sidan finns en lista med program som du kan ladda ned baserat på tilldelade licenser.
-- Om du redan har laddat ned Office-programmen kan du behöva logga in på programmen med ditt arbets- eller skolkonto. Du kan göra det i Office-program (Word, Excel osv.) genom att välja **Arkiv > konto** (nästan längst ned). Under Användarinformation väljer du **Växla konto.** Mer information finns i [Installera Office-program](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Om du redan har laddat ned Office-programmen kan du behöva logga in på programmen med ditt arbets- eller skolkonto. Du kan göra det i Office-program (Word, Excel osv.) genom att välja **Arkiv > Konto** (längst ned). Under Användarinformation väljer du **Växla konto.** Mer information finns i [Installera Office-program](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Återaktivera en prenumeration**
 
