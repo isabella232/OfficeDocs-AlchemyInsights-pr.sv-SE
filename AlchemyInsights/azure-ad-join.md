@@ -1,5 +1,5 @@
 ---
-title: Azure Active Directory-koppling
+title: Azure Active Directory gå med
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "9890"
-ms.openlocfilehash: 59e3798131956847a61af2416c2e4210199cffa5
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 9e08d6c2a4553e395b5206816f29471118bb3b286e669c0b2d07a740e2a3c749
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51405671"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894569"
 ---
-# <a name="azure-active-directory-join"></a>Azure Active Directory-koppling
+# <a name="azure-active-directory-join"></a>Azure Active Directory gå med
 
-1. Om du inställningar enhetsregistreringar för första gången bör du kontrollera att du har granskat Introduktion till enhetshantering i [Azure Active Directory](/azure/active-directory/devices/overview) som vägleder dig om hur du får enheter under kontroll till Azure AD. 
-1. Om du registrerar enheter i Azure AD direkt och registrerar dem i Intune måste du se till [](/mem/intune/fundamentals/licenses-assign) att du har konfigurerat [Intune](/mem/intune/enrollment/device-enrollment) och har licensieringen först.
+1. Om du ställer in enhetsregistreringar för första gången bör du kontrollera att du har gått igenom Introduktion till enhetshantering [i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/overview) som vägleder dig om hur du får enheter under kontroll till Azure AD. 
+1. Om du registrerar enheter i Azure AD direkt och registrerar dem i Intune måste du se till [](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign) att du har konfigurerat [Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment) och har licensieringen först.
 1. Se till att du har behörighet att utföra åtgärder i Azure AD. Endast en global administratör i Azure AD kan hantera inställningar för enhetsregistreringar.
-1. Om du vill implementering av Azure AD-koppling kan du [gå med i Planera Azure AD-anslutning.](/azure/active-directory/devices/azureadjoin-plan)
+1. Om du vill implementering av Azure AD-koppling kan du [gå med i Planera Azure AD-anslutning.](https://docs.microsoft.com/azure/active-directory/devices/azureadjoin-plan)
 
-Mer information om hur du löser vanliga problem med Azure AD-koppling finns i Vanliga frågor och svar om [Azure Ad Join](/azure/active-directory/devices/faq) och för Windows 10 Pro-enheter finns i Det går inte att ansluta Windows [10 Pro-datorn](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900)till Azure AD - Behöver uppgradera till – Microsoft Community.
+Mer information om hur du löser vanliga problem med Azure AD-koppling finns i Vanliga frågor och svar om [Azure](https://docs.microsoft.com/azure/active-directory/devices/faq) Ad Join och för Windows 10 pro-enhet finns i Det går inte att ansluta Windows 10 Pro-datorn till Azure AD – Behöver uppgraderas till [– Microsoft Community.](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900)
