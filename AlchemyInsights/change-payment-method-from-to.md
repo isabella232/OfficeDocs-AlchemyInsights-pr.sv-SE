@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jamitche
+ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,18 +14,18 @@ ms.custom:
 - commerce_billing
 - "9002612"
 - "5073"
-ms.openlocfilehash: b32e4e99e576a2aa118fa6a5f5b968c30709ea8b
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 0a160b0caba0098ce678872ae54df7b6ad69e78cba4eac85ac15567f2e75a8c7
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685356"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891549"
 ---
 # <a name="change-payment-method-fromto"></a>Ändra betalningsmetod till
 
 1. **Ändra från faktura till kreditkort**
 
-    - Du kan inte automatiskt ändra från betalning via faktura till betalning med ett annat betalningssätt. I stället måste du [köpa en annan prenumeration](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) som betalas med kreditkort, bankkort eller bankkonto, [flytta alla användare till den nya prenumerationen](/microsoft-365/commerce/subscriptions/move-users-different-subscription)och sedan [avbryta den gamla prenumerationen](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+    - Du kan inte automatiskt ändra från betalning via faktura till betalning med ett annat betalningssätt. I stället måste du [köpa en annan prenumeration](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) som betalas med kreditkort, bankkort eller bankkonto, [flytta alla användare till den nya prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription)och sedan [avbryta den gamla prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Ändra från kreditkort eller bankkonto till faktura**
 
@@ -35,4 +35,4 @@ ms.locfileid: "53685356"
 
     - Följ stegen i [Hur ändrar jag från kreditkortsbetalningar till faktura?](how-do-i-change-from-credit-card-payments-to-invoice.md) för att slutföra den manuella ändringen.
 
-Mer information finns i [Så här betalar du för din prenumeration](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+Mer information finns i [Så här betalar du för din prenumeration](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
