@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: 8cdadf34a059856338d7f40528446b70373465e4
-ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
+ms.openlocfilehash: 29383643e6867bca7fd31774a9594b82fdc080bb0e7254141e8c883ad861075e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52702108"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886157"
 ---
 # <a name="11-call-recording"></a>Inspelning av 1:1-samtal
 
@@ -28,10 +28,10 @@ Med början den 31 maj 2021 börjar vi framtvinga en ny Teams *AllowCloudRecor
 
 *AllowCloudRecordingForCalls*   alternativet för samtalsprincip är **$False** som standard. Om du föredrar att blockera alla användare från att spela in 1:1-samtal behöver du inte vidta någon åtgärd.  
 
-Om du vill aktivera samtalsinspelning för alla användare i 1:1-samtal [använder Teams PowerShell](/microsoftteams/teams-powershell-install) för att köra följande cmdlet: 
+Om du vill aktivera samtalsinspelning för alla användare i 1:1-samtal [Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install) för att köra följande cmdlet: 
 
 **Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
-Du kan också skapa en ny princip och ange **-AllowCloudRecordingForCalls** **$true** tilldela den principen till användarna. 
+Alternativt kan du skapa en ny princip och ange **-AllowCloudRecordingForCalls** **$true** tilldela den principen till dina användare. 
 
 Mer information finns i [principkontroller för samtalsinspelning är (nästan!) Här](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668).

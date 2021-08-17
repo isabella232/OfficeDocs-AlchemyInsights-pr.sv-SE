@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, argani
+ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,16 +15,16 @@ ms.custom:
 - commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: 69725ebffbe26525784580715a5469a8572ef130
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 86acc3a8568d5e30a46abc0d1bd6496530e586138b548e59f5c212bc0006c783
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688776"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886309"
 ---
 # <a name="too-many-licenses"></a>För många licenser?
 
-Om du tror att du faktureras för för många licenser beror det oftast på att du har köpt fler licenser än du behöver.
+Om du tror att du faktureras för för många licenser beror det oftast på att du har köpt fler licenser sedan du behöver.
   
 **Minska antalet köpta licenser**
 
@@ -36,4 +36,4 @@ Om du tror att du faktureras för för många licenser beror det oftast på att 
 4. I fönstret **Ta bort** licenser under  **Nytt** antal i rutan Totalt antal licenser anger du det totala antalet licenser som du vill använda för prenumerationen. Om du till exempel har 100 licenser och vill ta bort 25 av dem skriver du 75.
 5. Välj **Spara**.
 
-Mer information finns i Köpa [eller ta bort licenser.](/microsoft-365/commerce/licenses/buy-licenses)
+Mer information finns i Köpa [eller ta bort licenser.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

@@ -16,12 +16,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: d73e92cb4422113f50d55d7fad529b1bc0dd6cb5
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 88b80e69ec898bcf195633f3170d906c67bf8ab072ea2987364d32f750b74462
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689064"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887554"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Återaktivera en prenumeration och hantera återkommande fakturering
 
@@ -32,7 +32,7 @@ Det verkar som att du har en prenumeration som har upphört att gälla. Om du vi
 3. I fönstret **Återaktivera den här** prenumerationen väljer du en betalningsmetod i listrutan eller välj Lägg **till betalningsmetod.**
 4. Välj **Spara**.
 
-Mer information finns i [Återaktivera prenumerationen](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Mer information finns i [Återaktivera prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 Du kan hantera månads- eller årsfakturor genom att aktivera eller inaktivera **återkommande fakturor**.
   
@@ -42,4 +42,4 @@ Du kan hantera månads- eller årsfakturor genom att aktivera eller inaktivera *
 4. I fönstret **Redigera inställningar för återkommande fakturering** väljer du **På**, **På, men förnya en gång**, eller **Inaktivera**.
 5. Välj **Spara**.
 
-Mer information finns i [Inaktivera och aktivera återkommande fakturor](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Mer information finns i [Inaktivera och aktivera återkommande fakturor](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
