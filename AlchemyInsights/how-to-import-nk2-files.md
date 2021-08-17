@@ -1,5 +1,5 @@
 ---
-title: instruktioner för att importera – NK2
+title: how-to-import-nk2-files
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,28 +14,28 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: 6a823f6e0c4c46de64dd7b70fb40c76255d78ec1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2b034926ec165b819119b5c4e060f10022d6017ec5dba8794d18ee3e96c709a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780077"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043224"
 ---
-# <a name="how-to-import-nk2-files"></a>Importera. nk2-filer 
+# <a name="how-to-import-nk2-files"></a>Importera .nk2-filer 
 
-När du startar Microsoft Outlook 2013, Outlook 2016, Outlook 2019 eller Outlook för Microsoft 365 för första gången, importeras ditt smek namn (från filen *Profilnamn*. nk2) till ett dolt meddelande i din standard meddelande lagring.
+När du startar Microsoft Outlook 2013, Outlook 2016, Outlook 2019 eller Outlook för Microsoft 365 för första gången importeras ditt smeknamnscache (som finns i *profilename*.nk2-filen) till ett dolt meddelande i standardmeddelandelagringsplatsen.
 
-Om du vill importera. nk2-filer till Outlook 2013, Outlook 2016, Outlook 2019 eller Outlook för Microsoft 365 kontrollerar du att. nk2-filen finns i följande mapp:%appdata%\Microsoft\Outlook
+Om du vill importera .nk2-filer till Outlook 2013, Outlook 2016, Outlook 2019 eller Outlook för Microsoft 365 kontrollerar du att .nk2-filen finns i följande mapp: %appdata%\Microsoft\Outlook
 
-**Obs!** nk2-filen måste ha samma namn som din aktuella Outlook 2013-eller Outlook 2016-profil. Som standard är profil namnet "Outlook". Följ de här stegen för att kontrol lera profil namnet: 
+**Obs!** Filen .nk2 måste ha samma namn som din aktuella Outlook 2013- Outlook 2016 profil. Som standard är profilnamnet "Outlook". Om du vill kontrollera profilnamnet gör du så här: 
 1. Klicka på **Start** och klicka sedan på **Kontrollpanelen**.
-2. Dubbelklicka på **e-post**.
-3. I dialog rutan konfigurera e-post väljer du **Visa profiler**.
-4. Välj **Starta**  >  **Kör**.
-5. I rutan **Öppna** skriver du *outlook.exe/importnk2*och väljer sedan **OK**. 
+2. Dubbelklicka på **E-post.**
+3. I dialogrutan Konfigurera e-post väljer du **Visa profiler.**
+4. Klicka på **Start** > **Kör**.
+5. I rutan **Öppna** skriver du *outlook.exe /importnk2* och väljer sedan **OK.** 
 
-När du har importerat. nk2-filen kopplas innehållet i filen till den befintliga smek namns cachen i din post låda.
+När du har importerat .nk2-filen slås innehållet i filen ihop med den befintliga smeknamnscache som finns i postlådan.
 
-**Obs!** nk2-filen har fått ett nytt namn med fil namns tillägget. Old nästa gång du startar Outlook 2013, Outlook 2016, Outlook 2019 eller Outlook för Microsoft 365. Om du vill importera. nk2-filen igen tar du bort fil namns tillägget. Old först.
+**Obs!**.nk2-filen får ett nytt namn med filnamnstillägget .old nästa gång du startar Outlook 2013, Outlook 2016, Outlook 2019 eller Outlook för Microsoft 365. Om du vill importera om .nk2-filen tar du först bort filnamnstillägget .old.
 
-Mer information finns i [Importera eller kopiera listan Komplettera automatiskt till en annan dator](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).
+Mer information finns i Importera [eller kopiera listan Komplettera automatiskt till en annan dator.](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%)

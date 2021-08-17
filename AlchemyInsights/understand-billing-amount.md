@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919687"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304351"
 ---
 # <a name="understand-billing-amount"></a>Förstå faktureringsbeloppet
 
 **Kundledd (WD):**
 
 - Mer information om hur du granskar och förstår din faktura finns i: [Självstudiekurs: Granska din enskilda Azure Bill](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Förstå villkoren på fakturan: Så [här fungerar villkoren för Azure-fakturor](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Förstå villkoren på fakturan: Så här [fungerar villkoren för Azure-fakturor](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Förstå villkor för Azure-användningsavgifter: [Användningsvillkor förklaras](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Hämta en PDF-fil med din faktura och en kopia av din detaljerade fil för daglig användning (.CSV): [Hämta faktura- och användningsdata](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Hämta en PDF-fil med fakturan och en kopia av din detaljerade fil för daglig användning (.CSV): [Hämta faktura- och användningsdata](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Obs!** Om du avbryter prenumerationen/resursen mitt i faktureringsperioden kanske du fortfarande ser en debitering, vilket skulle vara för all användning den föregående månaden. Om faktureringscykeln till exempel var från den 26:e i varje månad till den 25:e i nästa månad & inaktiverade du prenumerationen den 23: e, som är 28 dagar in i faktureringscykeln för juni, kan du se en avgift för de 28 dagarnas användning. Om du inte ser någon avgift för att avbryta en prenumeration bör du kontrollera att du inte har några andra supportabonnemang som orsakar avgiften. Om du vill kan du avbryta abonnemanget.
+**Obs!** Om du avbryter prenumerationen/resursen mitt i faktureringsperioden kanske du fortfarande ser en debitering, vilket skulle vara för all användning den föregående månaden. Om faktureringscykeln till exempel var från den 26:e i varje månad till den 25:e i nästa månad & inaktiverade du prenumerationen den 23: e, som är 28 dagar in i faktureringscykeln för juni, kan du se en debitering för 28 dagars användning. Om du inte ser någon avgift för att avbryta en prenumeration bör du kontrollera att du inte har några andra supportabonnemang som orsakar avgiften. Om du vill kan du avbryta abonnemanget.
 
 **Microsofts kundavtal (MCA):**
 
@@ -54,7 +54,7 @@ Granska serviceöverfaktura:
 - Logga in på **Enterprise-portalen**. Välj **Rapporter**
 - Växla vyn från **M** till C i det övre högra hörnet på fliken **och** matcha perioden på fakturan
 - Det totala **beloppet för** användning ska matcha det **totala utökade** beloppet på din service överförbrukningfaktura
-- Gå till **Ladda ned användning >** avancerade rapportnedladdningar för att få mer information om dina avgifter **Obs!** Den här rapporten inkluderar inte skatter, avgifter för bokningar eller marketplace-avgifter
+- Gå till **Ladda ned användning >** Avancerade rapportnedladdningar för att få mer information om dina avgifter **Obs!** Den här rapporten inkluderar inte skatter, avgifter för bokningar eller marketplace-avgifter
 
 **Azure Marketplace**
 
@@ -67,7 +67,9 @@ Jämför summan för Azure Marketplace i Rapporter > användningsöversikten i F
 - Logga in på **Enterprise-portalen**. Välj **Rapporter**
 - Växla vyn från **M** till C i det övre högra hörnet på fliken **och** matcha perioden på fakturan
 - Summan **i Azure Marketplace** ska matcha **totalförsäljningen** på din marketplace-faktura
-- Gå till **Ladda ned användning** för att få mer information om dina användningsbaserade debiteringar. Under **Marketplace-avgifter** väljer **du Ladda** **ned** anteckning: Den här rapporten inkluderar inte skatter eller visar
+- Gå till **Ladda ned användning** för att få mer information om dina användningsbaserade debiteringar. Under **Marketplace-avgifter** väljer du **Ladda ned** 
+
+**Obs!** Den här rapporten inkluderar inte skatter eller visar köp som görs endast på en gång
 
 **Molnlösningsleverantör (CSP)**
 
@@ -76,7 +78,7 @@ Jämför summan för Azure Marketplace i Rapporter > användningsöversikten i F
 
 **Rekommenderade dokument**
 
-- Lär dig hur du förhindrar oväntade debiteringar och kontrollerar dina kostnader: [Förhindra oväntade debiteringar](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Läs om hur du förhindrar oväntade debiteringar och kontrollerar dina kostnader: [Förhindra oväntade debiteringar](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Konfigurera fakturerings- eller kreditaviseringar för att övervaka och hantera faktureringsaktivitet för dina konton: [Konfigurera faktureringsaviseringar](https://docs.microsoft.com/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Förstå Gräns för Azure-utgifter](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Förstå din Azure-fakturering för externa serviceavgifter: [Hur externa tjänster faktureras](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
