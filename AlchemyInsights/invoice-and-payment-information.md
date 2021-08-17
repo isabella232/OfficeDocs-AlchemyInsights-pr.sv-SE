@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,18 +16,18 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 1f7c6cc7003165140f519b51ac0cc40636e71a3e
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: c21ac83a5108c79268631877cf325fe05bf67c716124b0b4896665395c03178b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687228"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892145"
 ---
 # <a name="invoice-and-payment-information"></a>Faktura- och betalningsinformation
 
 **Betalning**
 
-När du köper en Microsoft 365 för företag-prenumeration direkt från Microsoft kan du betala med kreditkort eller bankkort.  I vissa länder/regioner kan du också betala med ett bankkonto.  Du kan lära dig att hantera och felsöka de här betalningsmetoderna [från Hantera betalningsmetoder.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods) Det omfattar att lösa problem när kreditkortet nekas och uppdatera betalningsinformation.
+När du köper en Microsoft 365 för företag-prenumeration direkt från Microsoft kan du betala med kreditkort eller bankkort.  I vissa länder/regioner kan du också betala med ett bankkonto.  Du kan lära dig att hantera och felsöka de här betalningsmetoderna [från Hantera betalningsmetoder.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) Det omfattar att lösa problem när kreditkortet nekas och uppdatera betalningsinformation.
 
 **Faktura/faktura**
 
@@ -37,4 +37,4 @@ Du hittar och laddar ned dina fakturor på **sidan**  >  [& fakturor.](https://g
 
 Fakturor skapas varje månad eller per år beroende på vilken faktureringsfrekvens som valts vid köp.  Om du betalar årligen kan du få en faktura under en mittperiod när du lägger till eller tar bort licenser för en prenumeration.
 
-- Mer information finns i [Förstå din faktura för Microsoft 365 för företag.](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+- Mer information finns i [Förstå din faktura för Microsoft 365 för företag.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
