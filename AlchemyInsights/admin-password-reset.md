@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: ccd55ee4452efa279b6f936151e2fdce6921b922
-ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
+ms.openlocfilehash: 8bc0737711820a1d45c5ab81625cede5285577b16225497a3e86e64b3cf24ed1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52569777"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883069"
 ---
 # <a name="admin-password-reset"></a>Återställning av administratörslösenord
 
@@ -29,4 +29,4 @@ ms.locfileid: "52569777"
 
 - En annan administratör kan återställa ditt lösenord från **Användare > [aktiva användare](https://portal.office.com/adminportal/home#/users)**. Välj kontot och klicka sedan på nyckelikonen.  Om dina autentiseringsuppgifter är cachelagrade kan du [skapa ett nytt administratörskonto](https://portal.office.com/adminportal/home#/users), logga in med det kontot och sedan återställa ditt eget administratörslösenord.
 
-Om du vill ha fler scenarier för att återställa lösenord kan du försöka [Återställa Office 365 Business lösenord](/microsoft-365/admin/add-users/reset-passwords) eller öppna ett supportärende för att få hjälp.
+Om du vill ha fler scenarier för att återställa lösenord kan du försöka [Återställa Office 365 Business lösenord](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords) eller öppna ett supportärende för att få hjälp.
