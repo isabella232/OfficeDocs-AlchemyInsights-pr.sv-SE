@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: 8750c9036f258d9c5edc94bb027d564140bbd9914712cc1f25ff3abc3f4b9468
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54041604"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883149"
 ---
 # <a name="outbound-relay-pool"></a>Utgående reläpool
 
-Microsoft gör några ändringar i konfigurationen för att vidarebefordra eller vidarebefordra e-post Microsoft 365. Meddelanden i vissa fall vidarebefordras eller vidarebefordras via Microsoft 365 med en särskild reläpool. Meddelanden som skickas med reläpoolen kan hamna i mottagarens skräppostmapp. Mer information finns i [Pooler för utgående leverans](/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
+Microsoft gör några ändringar i konfigurationen för att vidarebefordra eller vidarebefordra e-post Microsoft 365. Meddelanden i vissa fall vidarebefordras eller vidarebefordras via e Microsoft 365 med en särskild reläpool. Meddelanden som skickas med reläpoolen kan hamna i mottagarens skräppostmapp. Mer information finns i [Pooler för utgående leverans](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
 
 För att undvika ett scenario med hjälp av reläpoolen ska du kontrollera att vidarebefordrade/vidarebefordrade meddelanden uppfyller något av följande kriterier:
 
 - Den utgående avsändaren är en godkänd domän för klientorganisationen.
-- SPF (Sender Policy Framework) klarar sig när meddelandet kommer till Microsoft 365.
-- DKIM (DomainKeys Identified Mail) på P2-avsändardomänen passeras när meddelandet kommer till Microsoft 365.
+- SPF (Sender Policy Framework) passeras när meddelandet kommer till Microsoft 365.
+- DKIM (DomainKeys Identified Mail) på den P2-avsändardomän som skickas när meddelandet kommer Microsoft 365.
  
 Meddelanden som uppfyller ovanstående villkor vidarebefordras inte via reläpoolen.
 
-Om MX-posten för din domän pekas till en tredje part eller en lokal server ska du använda förbättrad filtrering för att kontrollera att SPF-verifieringen är rätt för inkommande e-post och för att undvika att skicka e-post via reläpoolen.
+Om MX-posten för din domän pekade på en tredje part eller en lokal server använder du förbättrad filtrering för att kontrollera att SPF-verifieringen är rätt för inkommande e-post och för att undvika att skicka e-post via reläpoolen.
 
 **Hur vet vi om vi påverkas av reläpoolen?**
 
