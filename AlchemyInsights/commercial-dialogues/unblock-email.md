@@ -12,20 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: 17f447a12013f5ace0e85b38d95937abcf9cc7d60afbeef8dddd1c3315eb3467
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 662bf9929ebe2dd7a13d6fe355760bfaff58103ae599949282f86da4b7e2a8e7
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53994739"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890540"
 ---
 # <a name="unblock-email"></a>Avblockera e-post
 
 Om en användares e-postkonto har blockerats för att ha skickat skräppost gör du så här för att komma igång igen:
 
 1. Återställ lösenordet för det aktuella kontot *omedelbart.* Skicka inte det nya lösenordet till användaren via e-post. Det förhindrar att någon kommer åt den för att skicka skräppost.
-2. Gå till säkerhets- & säkerhets- och efterlevnadscentret och se om kontot finns med [i listan Begränsade användare.](https://protection.office.com/#/restrictedusers)
-3. Välj **sökikonen** och ange användarnamnet för den begränsade användaren. Om användarens e-postadress till exempel är *rob@contoso.com* så skriver du **rob**.
-4. Om kontot finns där väljer du **Ta bort blockering.** Följ anvisningarna i det utfällfönster som visas och välj sedan **Ja för** att bekräfta.  
-    > [!NOTE]
-    > När kontot har avblockerades bör det kunna skicka meddelanden inom 3–4 timmar.
+2. Gå till Microsoft 365 Defender-portalen via e& och granska begränsade användare för att <https://security.microsoft.com> \>  \>  \>  se om kontot finns med i listan. Om det behövs kan **du använda** sökrutan för att hitta användaren i listan.
+3. Om användaren finns i listan markerar du användaren och väljer sedan Ta **bort blockering.** Följ anvisningarna i det utfällfönster som visas och välj sedan **Ja för** att bekräfta.
+
+   > [!NOTE]
+   > När kontot har avblockerades bör det kunna skicka meddelanden inom 3–4 timmar.
+
+Mer information finns i Ta [bort blockerade användare från portalen Begränsade användare.](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)

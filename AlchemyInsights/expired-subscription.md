@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029750"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895905"
 ---
 # <a name="expired-subscription"></a>Prenumerationen har gått ut
 
@@ -35,7 +35,7 @@ En eller flera prenumerationer verkar ha gått ut. Om du vill fortsätta använd
 3. I fönstret **Återaktivera den här** prenumerationen väljer du en betalningsmetod i listrutan eller välj Lägg **till betalningsmetod.**
 4. Välj **Spara**.
 
-Mer information finns i [Återaktivera prenumerationen](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Mer information finns i [Återaktivera prenumerationen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Gör ett nytt köp**
   
@@ -44,4 +44,4 @@ Mer information finns i [Återaktivera prenumerationen](/microsoft-365/commerce/
 3. Ange hur många användarlicenser du behöver och om du vill betala varje månad eller för hela året. Välj om du vill att licenser automatiskt ska tilldelas alla användare som inte redan har en licens. Välj sedan **Gå till gå till nu**.
 4. Följ de återstående stegen för att slutföra utcheckningen.
 
-Mer information finns i Köpa [en annan prenumeration.](/microsoft-365/commerce/buy-another-subscription)
+Mer information finns i Köpa [en annan prenumeration.](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)

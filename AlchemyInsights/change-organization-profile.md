@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, tugu
+ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,17 +15,17 @@ ms.custom:
 - commerce_billing
 - "9000175"
 - "1714"
-ms.openlocfilehash: be270d66c4c57da67e4af7ff08a63b6d0745b89e
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: ac180a3af521d42013849a6d8cab8fc3dc7d8640c584021cfc5618a688f73b59
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685932"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890224"
 ---
 # <a name="change-organization-profile"></a>Ändra organisationsprofil
 
 Ändra företagsnamn, adress, teknisk kontaktinformation med mera i administrationscentret på fliken **Inställningar**  >  **Organisationsprofil Inställningar**  >  [](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) organisation.
 
-Se till att fylla i alla obligatoriska fält som är markerade med * för att spara ändringarna.
+Se till att fylla i alla obligatoriska fält som är markerade med * för att göra det möjligt att spara ändringarna.
 
-[Visa mer information om ändringar av adress eller faktureringsadress.](/microsoft-365/admin/manage/change-address-contact-and-more)
+[Visa mer information om ändringar av adress eller faktureringsadress.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more)

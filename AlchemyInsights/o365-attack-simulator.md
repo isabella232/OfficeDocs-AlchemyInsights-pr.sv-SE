@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: e7d71fdb77b4a047c1998e9aba75cdd469a936a8
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545744"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895809"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Attack Attack in Microsoft 365
 
 - Saknar du Attack Attack? Attack Attack Attack kräver **Microsoft Defender för Office 365 abonnemang 2** eller Office 365 Enterprise **E5.** Attack Attack Attack **ingår** inte i Microsoft Defender för Office 365 abonnemang 1, Office 365 Enterprise E3 eller andra Microsoft 365-applikationer för affärsverksamhet prenumerationer.
 
-- Det konto du använder för att starta simulerade attacker kräver global administratör eller säkerhetsadministratörsbehörighet och multifaktorautentisering (MFA). Mer information om attackkraven finns i det [här avsnittet.](/microsoft-365/security/office-365-security/attack-simulator)
+- Det konto du använder för att starta simulerade attacker kräver global administratör eller säkerhetsadministratörsbehörighet och multifaktorautentisering (MFA). Mer information om attackkraven finns i det [här avsnittet.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
 
 - Viktiga saker att veta om **Råstyrt lösenord-attack** simuleringar:
 
@@ -35,8 +35,8 @@ ms.locfileid: "52545744"
 
   - Som design kan du inte ange ett anpassat värde för URL för **nätfiskeinloggningsserver.**
 
-  - Om en mottagare använder [tillägget](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) Aktivera rapportmeddelandet för att rapportera meddelandet som nätfiske kanske du inte får aviseringar om meddelandet (eftersom det är en simulerad attack).
+  - Om en mottagare använder [tillägget](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) Aktivera rapportmeddelandet för att rapportera meddelandet som nätfiske kanske du inte får aviseringar om meddelandet (eftersom det är en simulerad attack).
 
 - Rapporter: När den simulerade attacken är slutförd kan du klicka på **Attackinformation** för att se rapporten.
 
-- Detaljerade instruktioner och nya funktioner i Attack Attack Attack finns i [Attack Attack Microsoft 365](/microsoft-365/security/office-365-security/attack-simulator).
+- Detaljerade instruktioner och nya funktioner i Attack Attack Attack finns i [Attack Attack Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).

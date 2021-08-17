@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subsriptions
 - "1400001"
 - "4721"
-ms.openlocfilehash: 37e246d9f311d3b14b1a2867d5b52b53488b9512
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 090cb87251755ac06f109faea194ba120bbe7650ddaac1b1d0cdea19a0f0a7a6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688704"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895645"
 ---
 # <a name="cancel-visio-subscription"></a>Avbryt Visio prenumeration
 
@@ -32,4 +32,4 @@ Administratörer kan avbryta Visio-prenumerationen för organisationen i Adminis
 
 **Återbetalning:** All proportionerlig kredit kommer returneras till dig inom nästa faktureringscykel.
 
-Mer information finns i [Avsluta din prenumeration.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Mer information finns i [Avsluta din prenumeration.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

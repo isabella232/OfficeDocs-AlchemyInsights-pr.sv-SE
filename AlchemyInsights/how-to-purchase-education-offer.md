@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, drjones
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "328"
 - "369"
 - "1500009"
-ms.openlocfilehash: a4841ee6d0ae782b310c6a6ef9233675144ff6bd
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 22b82d6b251a70133dd57bc41161032e3944a735533c82792756434325aefe5a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686760"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895845"
 ---
 # <a name="how-to-purchase-an-education-offer"></a>Köpa ett erbjudande för utbildning
 
@@ -34,4 +34,4 @@ Du har godkänts för Office 365 Education. Så här genomför du ett köp:
 
 Om du vill köpa en annan prenumeration än din utvärderingsprenumeration går du till **sidan Tjänster för** \> [faktureringsköp.](https://go.microsoft.com/fwlink/p/?linkid=868433) Under **Utbildningsabonnemang** väljer du det abonnemang du vill ha.
 
-Mer information finns i Köpa [en prenumeration från en kostnadsfri utvärderingsversion.](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)
+Mer information finns i Köpa [en prenumeration från en kostnadsfri utvärderingsversion.](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)
