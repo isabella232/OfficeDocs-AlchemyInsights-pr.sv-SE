@@ -1,5 +1,5 @@
 ---
-title: Hantera användar profiler i Delve
+title: Hantera användarprofiler i Delve
 ms.author: ponincev
 author: pebaum
 ms.date: 04/21/2020
@@ -9,28 +9,28 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: 38f209e37ff8a5694ae59f7b7b85e1d439d88a3c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bcd7b20d847492d1f516878fd52dc2a6798b6b2afa90edea8eb4e460834a4eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811834"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042216"
 ---
-# <a name="manage-user-profiles-in-delve"></a>Hantera användar profiler i Delve
+# <a name="manage-user-profiles-in-delve"></a>Hantera användarprofiler i Delve
 
-Office Delve gör att användare kan hantera sin användar profil. Användare kan:
+Office Delve användare hantera sin användarprofil. Användare kan:
   
-- Visa och uppdatera sin information
+- Visa och uppdatera deras information
     
-- Håll lite information privat
+- Hålla en del information privat
     
-- Ändra profil eller omslag
+- Ändra deras profil eller omslagsbild
     
-- Ändra språk-och tids format för Delve
+- Ändra språk- och tidsformat för Delve
     
 > [!NOTE]
-> Om en användare har uppdaterat sin profil bild och ändringen inte visas i SharePoint eller OneDrive ber du dem öppna en webbläsare, [gå till Office.com](https://www.office.com), logga in med sitt arbets-eller skol konto och klicka sedan på panelen OneDrive eller SharePoint. Då visas profil bilden för synkronisering. Användaren kan behöva pröva de här stegen med den privata versionen av webbläsaren. 
+> Om en användare har uppdaterat sin profilbild och ändringen inte visas i SharePoint eller OneDrive ber du dem att öppna en webbläsare, gå till [Office.com,](https://www.office.com)logga in med sitt arbets- eller skolkonto och sedan klicka på panelen OneDrive eller SharePoint. Då uppmanas profilbilden att synkroniseras. Användaren kan behöva prova att utföra de här stegen med den privata versionen av webbläsaren. 
   
-[Lär dig mer om hur du uppdaterar profiler i Delve](https://go.microsoft.com/fwlink/?linkid=735070)
+[Läs mer om hur du uppdaterar profiler i Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
 
