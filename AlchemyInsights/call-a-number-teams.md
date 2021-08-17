@@ -1,5 +1,5 @@
 ---
-title: Ring ett telefonnummer i Teams
+title: Ringa ett telefonnummer i Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6661"
 - "9003561"
-ms.openlocfilehash: 2ee43145f8ff5e23a02167a3d758b24153878374
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 75b5d22db01020281697f38d0b7f021f8a280c3389a9e61e1b69d9b002cb8d6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365102"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046050"
 ---
-# <a name="call-a-phone-number-in-teams"></a>Ring ett telefonnummer i Teams
+# <a name="call-a-phone-number-in-teams"></a>Ringa ett telefonnummer i Teams
 
-Gå till  **samtal**, Välj  **slå ett nummer**och Använd knapp satsen för att ange numret. Klicka sedan på  **Ring upp**.
+Gå till  **Samtal**, välj  **Ring ett nummer** och ange numret med hjälp av knappsatsen. Klicka sedan på  **Ring** upp .
 
-Om du inte ser alternativet för att ringa ett nummer kanske din organisation inte har köpt ett samtals abonnemang. Men du kan fortfarande ringa till andra personer i Teams.  
+Om du inte ser alternativet för att slå ett nummer kanske din organisation inte har köpt ett samtalsabonnemang. Men du kan fortfarande ringa samtal till andra i Teams.  
 
-Mer information finns i [ringa ett telefonnummer från Teams](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078).
+Mer information finns i [Ringa ett telefonnummer från Teams](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078).

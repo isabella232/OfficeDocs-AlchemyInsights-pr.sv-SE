@@ -1,5 +1,5 @@
 ---
-title: Det går inte att markera kontakter när du skriver e-post i Outlook.com
+title: Det går inte att markera kontakter när du skriver e-Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,13 +15,13 @@ ms.custom:
 - "880"
 - "8000048"
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: 439a9889a688c1945b2c907f71fa7a9a73e9b0e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bfc88e44fde67792fe7362b78f54970c313661df76dea752cdd85fd03802d290
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683996"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045978"
 ---
-# <a name="cant-select-contacts-when-composing-email"></a>Det går inte att markera kontakter när du skriver e-post
+# <a name="cant-select-contacts-when-composing-email"></a>Det går inte att markera kontakter när du skriver e-postmeddelanden
 
-När vissa kunder skriver ett nytt e-postmeddelande visas inte deras kontakt lista när de klickar på knapparna **till** eller **kopia** . Om du vill välja en kontakt börjar du skriva i fälten **till** eller **kopia** och dina relaterade kontakter visas.
+En del kunder ser inte kontaktlistan när de skriver ett nytt e-postmeddelande när de klickar på **knapparna Till** **eller** Kopia. Om du vill välja en kontakt börjar du skriva **i** **fälten** Till eller Kopia så visas dina relaterade kontakter.
