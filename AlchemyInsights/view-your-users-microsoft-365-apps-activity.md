@@ -1,5 +1,5 @@
 ---
-title: Visa användarnas aktivitet i Microsoft 365-appar
+title: Visa användarnas aktivitet Microsoft 365 appar
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -18,15 +18,15 @@ ms.custom:
 - "5628"
 - "9001421"
 - "5629"
-ms.openlocfilehash: 13049a2f24e93a718cab26097fa8e2145fde5667
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 93a49d9c4276140abb9b33f857621bd917b7b4fb77a262a002ce96a6e6124fb7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51806640"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037122"
 ---
-# <a name="view-your-users-microsoft-365-apps-activity"></a>Visa användarnas aktivitet i Microsoft 365-appar
+# <a name="view-your-users-microsoft-365-apps-activity"></a>Visa användarnas aktivitet Microsoft 365 appar
 
-I [rapporten Office-aktivering](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) får du en vy över vilka användare som har installerat och aktiverat sina Microsoft 365-program på minst en enhet.
+I [Office över aktiveringsrapporten](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) får du en vy som användarna har installerat och aktiverat Microsoft 365 på minst en enhet.
 
-Dessutom kan du få information om användarnas aktiviteter i Microsoft 365-appar med hjälp av användningsrapporten för [Microsoft 365-appar.](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide)
+Dessutom kan du få en uppfattning om användarnas Microsoft 365-applikationer aktivitet genom att använda [Microsoft 365-applikationer användningsrapport.](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide)
