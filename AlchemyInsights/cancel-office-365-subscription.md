@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 0c30887923b2842d334379f0fc07e917a8fefe71
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: ca9dd54a7ba8007da5f78b7c4fd8b2e0cfff6d5f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686688"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58303847"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Vill du avbryta Microsoft 365 prenumerationen?
 
-Vi beklagar att du vill avbryta prenumerationen, men om du vill avbryta prenumerationen finns följande alternativ:
+Vi beklagar att du avslutar din prenumeration, men om du vill avbryta prenumerationen finns följande alternativ:
   
 - Om du är utvärderingskund finns det inget att avbryta. Utvärderingsprenumerationer förfaller automatiskt om du inte anger en betalningsmetod.
 - Om du har färre än 25 tilldelade licenser kan du avbryta prenumerationen online. Gå till  sidan \> [Fakturering Dina](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter och leta reda på den prenumeration som du vill avbryta. Välj de tre punkterna (fler åtgärder) och välj sedan **Avbryt prenumeration**.
@@ -30,7 +30,6 @@ Vi beklagar att du vill avbryta prenumerationen, men om du vill avbryta prenumer
 
 **Återbetalning: En återbetalning i procent återbetalas till dig under nästa faktureringsperiod.**
 
-> [!NOTE]
-> Om du inte ser alternativet för att avbryta prenumerationen väljer du prenumerationen för att visa informationssidan. I avsnittet **Inställningar för prenumeration och** betalning väljer du Avbryt **prenumeration.**
+**Obs!** Om du inte ser alternativet för att avbryta prenumerationen väljer du prenumerationen för att visa informationssidan. I avsnittet **Inställningar för prenumeration och** betalning väljer du Avbryt **prenumeration.**
 
-Mer information finns i [Avsluta din prenumeration.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Mer information finns i [Avsluta din prenumeration.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
