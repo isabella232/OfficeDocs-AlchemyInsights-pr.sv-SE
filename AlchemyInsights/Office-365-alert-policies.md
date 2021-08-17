@@ -13,16 +13,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 7bb5ec0efb7e29dc6a133d62491c7674c5a851a4fa422c647035aeaa0dbcd8d5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918377"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891697"
 ---
 # <a name="alert-policies"></a>Aviseringsprinciper
 
-I Microsoft 365 säkerhets- & standardaviseringsprinciper [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) som utlöser aviseringar för organisationer med en prenumeration på Office 365 Enterprise eller Office 365 för myndigheter i USA, abonnemang E1/G1, E3/G3 eller E5/G5. Därför kan administratörer få ett e-postmeddelande med avisering som skickas från Office365Alerts@microsoft.com med en ämnesrad, till exempel "En avisering med låg allvarlighetsgrad: namn på *aviseringsprincip".* Aviseringsaviseringar skickas när aviseringar utlöses för vanliga aktiviteter, till exempel när användare:
+Microsoft 365 innehåller standardprinciper för aviseringar som utlöser aviseringar för organisationer som har en prenumeration på Microsoft 365 Enterprise eller Microsoft 365 för myndigheter i USA, abonnemang E1/G1, E3/G3 eller E5/G5. [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) Därför kan administratörer få ett e-postmeddelande med avisering som skickas från Office365Alerts@microsoft.com med en ämnesrad, till exempel "En avisering med låg allvarlighetsgrad: namn på *aviseringsprincip".* Aviseringsaviseringar skickas när aviseringar utlöses för vanliga aktiviteter, till exempel när användare:
 
 - Skapa inkorgsregler som vidarebefordrar e-post.
 - Tilldela behörigheter till postlådan.
@@ -31,11 +31,12 @@ I Microsoft 365 säkerhets- & standardaviseringsprinciper [](https://docs.micros
 
 Granska och agera på en avisering:
 
-1. Gå till [säkerhets- & efterlevnadscenter](https://protection.office.com) och logga in.
-2. Klicka **på Aviseringar** Visa  >  **aviseringar**.
-3. Klicka på en avisering om du vill visa en utfällsida med information om aviseringen.
+1. Gör något av följande:
+   - I Microsoft 365 Efterlevnadscenter på <https://compliance.microsoft.com> går du till **Aviseringar**. Du kan också använda om du vill gå **direkt** till sidan <https://compliance.microsoft.com/compliancealerts> Aviseringar.
+   - I Microsoft 365 Defender går du <https://security.microsoft.com> till Incidenter och **& aviseringar** \> . Du kan också använda om du vill gå **direkt** till sidan <https://security.microsoft.com/alerts> Aviseringar.
+2. Klicka på en avisering om du vill visa en utfällsida med information om aviseringen.
 
-Du kan vidta åtgärder för en avisering, t.ex. [ta bort en regel för misstänkt inkorg.](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) Du kan också stänga aviseringen genom att klicka på **Lös** på den utfällade aviseringssidan.
+Du kan vidta åtgärder för en avisering, t.ex. [ta bort en regel för misstänkt inkorg.](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) Du kan också stänga aviseringen genom att klicka **på Lös på** den utfällade aviseringssidan.
 
 Mer information om hur du konfigurerar och hanterar aviseringsprinciper finns i [den här artikeln.](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)
 
@@ -45,4 +46,4 @@ Mer information om hur du konfigurerar och hanterar aviseringsprinciper finns i 
 - Kontrollera säkerhetsinformationen för ditt konto
 - Autentisera dig igen
 
-Om du får ett e-postmeddelande som det här har det inte skickats av Microsoft och bör ses som nätfiske. Om det händer kan du [rapportera det till Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Om du får ett e-postmeddelande med den här typen av förfrågningar har det inte skickats av Microsoft och bör ses som nätfiske. Om du får ett meddelande med den här typen av förfrågningar [ska du rapportera meddelandet till Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft).

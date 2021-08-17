@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 46ac46c583cd0ac956797737d8150277f0d79ba5
-ms.sourcegitcommit: c685f197dbf83a9dfd85e9acfdf14a4daf0e9a5a
+ms.openlocfilehash: 6eb59d16a1dab2de0e7a44faf9b34be6432342f9e20c94b6932e69e937751add
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52564610"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892021"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>Problem med att ta bort en offboardad eller inaktiverad enhet från enhetsinventeringen
 
@@ -32,11 +32,11 @@ Om du fortfarande inte vill se vissa enheter i vyn Enhetsinventering kan du prov
 
 Mer information finns i:
 
-[Offboard-enheter från Microsoft Defender för Slutpunkt-tjänsten](/microsoft-365/security/defender-endpoint/offboard-machines.md)
+[Offboard-enheter från Microsoft Defender för Slutpunkt-tjänsten](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/offboard-machines.md)
 
-[Exponeringsresultat i Hantering av hot och säkerhetsrisker](/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
+[Exponeringsresultat i Hantering av hot och säkerhetsrisker](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
 
-[Åtgärda defekta sensorer i Microsoft Defender för Endpoint](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
+[Åtgärda defekta sensorer i Microsoft Defender för Endpoint](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
 
 [Så här använder du taggningen effektivt (del 1)](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-use-tagging-effectively-part-1/ba-p/1964058)
 

@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -17,12 +17,12 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: 3d7e0337de5272750af818c107d6305a6e45730e
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 82e14310556b46cec30c8ec861992a36930b6c2d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53680496"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320855"
 ---
 # <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Identifiera en debitering på kreditkorts- eller bankkontoutdraget
 

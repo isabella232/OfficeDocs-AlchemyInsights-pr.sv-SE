@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "4769"
-ms.openlocfilehash: 639f7d824f6fe84b8ac469106458355c40c6bdb3
-ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.openlocfilehash: 19b9471a610305fb25e61359d455d1824c5bec6033fd603da265af9333543ccc
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52626167"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898442"
 ---
 # <a name="self-service-password-reset-sspr"></a>Självbetjäning för återställning av lösenord (SSPR)
 
@@ -28,8 +28,8 @@ ms.locfileid: "52626167"
 
     Mer information finns i:
 
-    Grundläggande konfiguration av SSPR – [låta användare återställa sina egna lösenord](/microsoft-365/admin/add-users/let-users-reset-passwords)
+    Grundläggande konfiguration av SSPR – [låta användare återställa sina egna lösenord](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords)
 
-    [VANLIGA FRÅGOR OCH SVAR OM SSPR](/azure/active-directory/authentication/active-directory-passwords-faq)
+    [VANLIGA FRÅGOR OCH SVAR OM SSPR](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq)
 
-    [SSPR-felsökning](/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
+    [SSPR-felsökning](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
