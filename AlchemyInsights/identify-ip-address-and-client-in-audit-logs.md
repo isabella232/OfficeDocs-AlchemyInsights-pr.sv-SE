@@ -13,18 +13,18 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 080b3df3934781ebf0d0cd5243787bf6975fc5f123b5b1593c0b6d9ada4eae5d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 57a1756787f8297a2a1ab3012b95aaa2f33e6045
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57887518"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313037"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identifiera IP-adress och klient i granskningsloggar
 
 IP-adressen som motsvarar en aktivitet av en Microsoft 365 användare eller administratör visas i granskningsloggarna. Klientinformationen loggas också. Här är stegen för att identifiera sådan information
 
-1. Logga in på [Microsoft 365 Efterlevnadscenter.](https://protection.office.com/)
+1. Logga in på [Microsoft 365 Kompatibilitetscenter.](https://protection.office.com/)
 
 2. Gå till sidan **Sök**  >  **granskningsloggsökning.**
 

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 0927d1dac654fc0678709eb19b3d5732536196beae36d102d1a94bf7617b1b45
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58311417"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892885"
 ---
 # <a name="view-all-quarantined-messages"></a>Visa alla meddelanden i karantän
 
-1. Gå till Microsoft 365 Defender postgransknings <https://security.microsoft.com> sätt i **karantänen för & samarbete i** \> **portalen** \> **på**.
+1. I den Microsoft 365 Defender på <https://security.microsoft.com> går du till karantänen för **e& för e-postsamarbete** \>  \> **och samarbetsgranskning.**
 
    Om du vill gå direkt **till sidan** Karantän använder du <https://security.microsoft.com/quarantine> .
 

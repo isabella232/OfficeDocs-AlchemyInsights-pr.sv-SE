@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,16 +15,16 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686904"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893073"
 ---
 # <a name="billing-and-payment"></a>Fakturering och betalning
 
-Dina räkningar finns på fliken **&**  >  [Faktureringsfakturor.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Som standard visas fakturorna för de senaste 3 månaderna.  Justera filtret om du vill visa äldre fakturor.  Klicka på **PDF-länken Ladda** ned faktura för att visa fakturan.
+Dina räkningar finns på fliken **&**  >  [Fakturor.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Som standard visas fakturorna för de senaste 3 månaderna.  Justera filtret om du vill visa äldre fakturor.  Klicka på **PDF-länken Ladda** ned faktura för att visa fakturan.
 
 **Ta emot fakturor via e-post**
 
@@ -55,10 +55,10 @@ Om du har lagt till ett nytt kort och du fortfarande får ett meddelande om avb�
 
 7. Den nya betalningsmetoden är redan vald i listrutan. Välj **Ersätt**.
 
-Mer information finns i [Hantera betalningsmetod](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Mer information finns i [Hantera betalningsmetod](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Faktureringsfrekvens**
 
 Fakturor genereras varje månad eller per år beroende på vilken faktureringsfrekvens som valts i kassan.  
 
-**Obs!** Order med årlig fakturering kan få en faktura mitt under en period om ändringar har gjorts, t.ex. att lägga till eller ta bort licenser. [Ändra faktureringsfrekvensen](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Obs!** Order med årlig fakturering kan få en faktura mitt under en period om ändringar har gjorts, t.ex. att lägga till eller ta bort licenser. [Ändra faktureringsfrekvensen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

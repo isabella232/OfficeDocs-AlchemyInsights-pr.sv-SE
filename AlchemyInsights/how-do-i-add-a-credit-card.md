@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, jamitche
+ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 009c7d983fb0cbe88a24a7a00b65169f31507b31
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 8cbfd7790c1805b2a6399e7a346ab3d471575a8c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686616"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313185"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Hur lägger jag till ett kreditkort?
 
@@ -33,4 +33,4 @@ ms.locfileid: "53686616"
 
 4. Ange information om det nya kreditkortet eller bankkontot och klicka sedan på **Spara**.
 
-Mer information finns i [Hantera betalningsmetod](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Mer information finns i [Hantera betalningsmetod](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

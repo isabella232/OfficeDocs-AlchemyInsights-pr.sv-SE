@@ -13,19 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 877f22a48e9ff1f4bac34cb0ea4f37407b4b109d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483166"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893609"
 ---
 # <a name="retrieve-the-audit-logs"></a>Hämta granskningsloggarna
 
-När du först öppnar granskningsloggen är den tom. Du måste göra en sökning för att se vad som finns där. Så här gör du en allmän sökning för alla aktiviteter:
+När du först öppnar granskningsloggen är den tom. Du måste göra en sökning för att se vad som finns där. Gör så här för att göra en allmän sökning för alla aktiviteter:
 
-1. Gå till sidan [För granskningsloggsökning](https://protection.office.com/#/unifiedauditlog) (eller navigera till Administrationscenter för & Säkerhetscenter för   >    >  **sökning efter &**  >  **granskningsloggsökning i granskningsloggen).**
-1. Acceptera **standardinställningen** i rutan Aktiviteter och **visa resultat för alla aktiviteter.**
-1. Ange datumintervallet och acceptera **standardinställningen** i rutan Användare för att returnera resultat för alla användare, eller välj användarnamnet för den användare du vill undersöka.
-1. Klicka **på Sök.** Aktiviteterna visas under **Resultat.**
-1. Om du vill visa information klickar du på en aktivitet och väljer **sedan Mer information.** Du ser mer information, till exempel Klient, Användare som utfört en åtgärd osv.
+1. Gör något av följande:
+   - I Microsoft 365 Efterlevnadscenter på <https://compliance.microsoft.com> går du till **Granskning av** \> **lösningar.** Du kan också använda om du vill **gå direkt** till sidan <https://compliance.microsoft.com/auditlogsearch> Granskning.
+   - Gå till Microsoft 365 Defender i <https://security.microsoft.com> portalen .  Du kan också använda om du vill **gå direkt** till sidan <https://security.microsoft.com/auditlogsearch> Granskning.
+
+2. Konfigurera **följande** inställningar på **fliken** Sök på sidan Granskning:
+   - **Datum och tidsintervall:** Välj datum/tid i **rutorna Start** **och** Slut.
+   - **Aktiviteter:** Kontrollera **att Visa resultat för alla aktiviteter** är markerat.
+   - **Användare:** Acceptera det tomma standardvärdet för att returnera resultat för alla användare, eller ange en eller flera användare.
+
+3. När du är klar klickar du på **Sök**. Aktiviteterna visas på den nya **sidan Granskningssökning.**
+
+4. Välj en aktivitet i resultatet för att öppna den utfällade informationen. Du ser mer information, till exempel klient, användare som utfört en åtgärd osv.
+
+Mer information finns i Söka [i granskningsloggen för att undersöka vanliga supportproblem.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

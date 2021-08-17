@@ -14,18 +14,18 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: de8823253d60efcd38bfa96864c146a2cedc0537f6d0aa41de6dafc6c7debc03
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929215"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893421"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Har användarna fått skadlig e-post?
 
-- Nu kan du rapportera skadlig e-post till Microsoft med hjälp [Administratörsinlämningar i Säkerhets- och efterlevnadscenter](https://sip.protection.office.com/reportsubmission).
+Du kan nu rapportera skadlig e-post till Microsoft med [hjälp av inskickade meddelanden Microsoft 365 Defender portal](https://sip.security.microsoft.com/reportsubmission?viewid=admin).
 
-Meddelanden som skickas in [-administratörsinlämningar](https://sip.protection.office.com/reportsubmission) genomsöks och följande resultat visas i **information** som utfälld:
+Meddelanden som skickas i [administrationsinskick genomsöks](https://security.microsoft.com/reportsubmission?viewid=admin) och följande resultat visas i den utfällkommning som visas:
 
 - Om avsändarens e-postautentisering misslyckades vid leveransen.
 - Information om politiska träffar som kan ha påverkat eller åsidosatt bedömningen av ett meddelande.
@@ -39,9 +39,9 @@ Om du inte håller med den slutliga domen om ett meddelande, URL eller fil (bloc
 Under tiden kan du ta bort skadlig e-post från användarnas inkorgar genom att följa anvisningarna [i den här artikeln](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization).
 
 - Kunder med Microsoft Defender för Office 365 kan:
-    - använder [Utforskaren för att hitta och ta bort misstänkta e-postmeddelanden](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
-    - [använder du Säkra länkar för att blockera åtkomst](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) till en skadlig URL
-    - spåra användare som har klickat på och kommit åt skadliga URL:er: [Visa nätfiske-URL och klicka på bedömningsdata](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) & [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
-    - manuellt [starta en automatiserad undersökning](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
+  - Använda [Hotutforskaren för att hitta och ta bort misstänkta e-postmeddelanden](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
+  - [Använda Valv för att blockera åtkomst till](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) en skadlig URL
+  - Spåra användare som har klickat på och åtkomst till skadliga URL:er: Visa nätfiske-URL och [klicka på bedömningsdata](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)  &  [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
+  - Starta [en automatiserad undersökning manuellt](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
 Du kan också skydda mot skadliga filer och URL-adresser genom att följa anvisningarna i [Skydd mot skadliga URL:er och filer](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats).

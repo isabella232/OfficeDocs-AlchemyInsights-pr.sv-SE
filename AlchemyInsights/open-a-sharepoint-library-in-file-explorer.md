@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 4bdf4b5975095bf35808a78ec301c375b5744df49b685e033406a38151141597
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 50d55cb4d455d870ca81334bdf247230c73fbda0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54025268"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312971"
 ---
 # <a name="open-a-sharepoint-library-in-file-explorer"></a>Öppna SharePoint bibliotek i Utforskaren
 
@@ -25,7 +25,6 @@ ms.locfileid: "54025268"
     
 2. Klicka på ikonen Visa längst upp till höger och sedan på **Visa i Utforskaren.**
     
-> [!NOTE]
-> Att öppna ett bibliotek i Utforskaren är användbart om du behöver kopiera eller flytta flera filer och mappar en gång, men om du vill arbeta regelbundet i biblioteket rekommenderar vi att du synkroniserar det. Information om hur du felsöker problem med att öppna i [Utforskaren finns i Öppna i Utforskaren.](https://go.microsoft.com/fwlink/?linkid=871665) Mer information om hur du inställningar för synkronisering [finns i SharePoint filer med den nya OneDrive-synkronisering klienten.](https://go.microsoft.com/fwlink/?linkid=871666) 
+**Obs!** Att öppna ett bibliotek i Utforskaren är användbart om du behöver kopiera eller flytta flera filer och mappar en gång, men om du vill arbeta regelbundet i biblioteket rekommenderar vi att du synkroniserar det. Information om hur du felsöker problem med att öppna i [Utforskaren finns i Öppna i Utforskaren.](https://go.microsoft.com/fwlink/?linkid=871665) Mer information om hur du inställningar för synkronisering [finns i SharePoint filer med den nya OneDrive-synkronisering klienten.](https://go.microsoft.com/fwlink/?linkid=871666) 
   
 

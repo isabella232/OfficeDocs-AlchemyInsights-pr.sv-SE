@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 52a6fff1cb37d5f02344cfa8135d5080ee47098ea87561111390acaf4201b30d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f16279c447e656548e8ce853353766c5c65df156
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918485"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312777"
 ---
 # <a name="frequent-excel-crashes"></a>Kraschar Excel ofta?
 
@@ -26,10 +26,9 @@ Upprepade kraschar i Excel kan orsakas av ett felaktigt tillägg. Du kan inaktiv
 
 2. I **rutan Hantera** väljer du **COM-tillägg och** klickar sedan på **Ok.**
 
-3. I Add-Ins tillgängliga avmarkerar du kryssrutan bredvid tillägget som du vill inaktivera och klickar sedan på **OK.**
+3. I Add-Ins tillgängliga avmarkerar du kryssrutan bredvid det tillägg som du vill inaktivera och klickar sedan på **OK.**
 
-> [!NOTE]
-> Om Excel kraschar under start kan du starta den i Valv genom att hålla ned Ctrl medan du startar programmet.
+**Obs!** Om Excel kraschar under start måste du starta det i Valv läge genom att hålla ned Ctrl medan du startar programmet.
   
 Om du fortfarande har problem kan du läsa följande artiklar:
   
@@ -37,4 +36,4 @@ Om du fortfarande har problem kan du läsa följande artiklar:
 
 - [Felsöka kraschar och inte svara på problem med Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
 
-- [Excel svarar, hänger sig, stannar eller slutar fungera](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
+- [Excel svarar inte, hänger sig, stannar eller slutar fungera](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
