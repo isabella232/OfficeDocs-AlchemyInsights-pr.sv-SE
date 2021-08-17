@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, argani
+ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,16 +15,16 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5778"
-ms.openlocfilehash: 803455035383dcf5c19739a30e28d740e351ec39
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: e50b9f1c388758bfe91652be734661170d36660fc8f30a3bd2d77e189e8bd813
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688236"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888908"
 ---
 # <a name="assign-microsoft-defender-for-office-365-licenses"></a>Tilldela Microsoft Defender för Office 365 licenser
 
-Microsoft Defender för Office 365 kan tilldelas till användare i Microsoft 365 Admin Center.
+Microsoft Defender för Office 365 användare kan tilldelas till användare i Microsoft 365 Admin Center.
 
 1. Gå till **Faktureringslicenser.**  >  [](https://go.microsoft.com/fwlink/p/?linkid=842264)
 2. Välj en produkt som du vill tilldela licenser för.
@@ -33,4 +33,4 @@ Microsoft Defender för Office 365 kan tilldelas till användare i Microsoft 365
 5. Klicka **på Aktivera eller inaktivera appar och tjänster för**  att tilldela eller ta bort.
 6. Klicka **på Tilldela** och **stäng.**
 
-Information om hur du köper fler eller tar bort licenser finns i [Köp eller ta bort licenser](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Information om hur du köper fler eller tar bort licenser finns i [Köp eller ta bort licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).

@@ -12,20 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7eae77358b0305582f53c411a092e3d2f1dbe17fd58ceac1ac00d5c07b3dd202
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9094dcdc4507f52da1dd7c95f83aa98bab1446639d2d9f52eb3a7bc849dc183c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988230"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888424"
 ---
 # <a name="fix-connection-policy"></a>Åtgärda anslutningsprincip
 
-E-postmeddelandet har markerats som säkert och levererats till användarens inkorg eftersom den avsändande IP-adressen markerades som säker i principen för anslutningsfilter. Så här granskar du principen:
+E-postmeddelandet har markerats som säkert och levererats till användarens inkorg eftersom käll-IP-adressen markerades som säker i standardprincipen för anslutningsfilter. Så här granskar du principen:
 
-1. Gå till [Office 365 säkerhets- & säkerhets-](https://go.microsoft.com/fwlink/p/?linkid=2077143)och efterlevnadscenter och gå **sedan** till Policy för hothantering  >    >  [mot skräppost.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. På fliken **Anpassad** väljer du **Anslutningsfilterprincip** och sedan **Redigera princip**.
-3. Granska listan **över tillåtna IP-adresser.** Se om **Valv är** aktiverad.
+1. Gå Microsoft 365 Defender principer för samarbete &-post och & principer för hot mot skräppost i avsnittet Principer i webbportalen för <https://security.microsoft.com/>  \>  \>  \> **e-Microsoft 365 Defender.** 
 
-    > [!NOTE]
-    > Microsoft prenumererar på tredjepartskällor för betrodda avsändare. Om **Valv här** listan är aktiverad markeras inte dessa betrodda avsändare av misstag som skräppost. Jag rekommenderar att du väljer det här alternativet eftersom det minskar antalet falska positiva resultat (bra e-postmeddelanden som klassificeras som skräppost) som du får.
+   Om du vill gå direkt till sidan **Principer för skräppostskydd** använder du <https://security.microsoft.com/antispam>.
+
+2. På sidan **Principer för skydd mot skräppost** markerar du principen med namnet **Anslutningsfilterprincip (standard)** genom att klicka på namnet på principen.
+
+3. Klicka på Redigera anslutningsfilterprincip i **avsnittet Anslutningsfiltrering i** informationsfällfältet **som** visas.
+
+4. Granska posterna i avsnittet Tillåt alltid meddelanden från följande IP-adresser eller **adressintervall** och se om **Aktivera listan Över säkra är** markerad.
+
+   > [!NOTE]
+   > Microsoft prenumererar på tredjepartskällor till betrodda avsändare. Om listan över betrodda avsändare har aktiverats markeras inte dessa av misstag som skräppost. Vi rekommenderar att du väljer det här alternativet eftersom det minskar antalet falska positiva resultat (bra e-postmeddelanden som klassificeras som skräppost) som du får.
+
+Mer information finns i [konfigurera anslutningsfilter](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-connection-filter-policy).

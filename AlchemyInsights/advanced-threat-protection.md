@@ -11,23 +11,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 2518c831277bc1cea0b339fc62fa456b7decbf5d9e5b8c2bb2733fe47c969a81
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0aa2d25952587bdc5e6294870b262116bb7170b38054f91ca1807ebb940ac031
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952231"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888976"
 ---
 # <a name="microsoft-defender-for-office-365"></a>Microsoft Defender för Office 365
 
-- Valv Bifogade filer Valv länkar och nätfiskeskydd är en del av Microsoft Defender för Office 365. Enterprise E5, Education A5 och Microsoft 365 Business Premium microsoft Defender för Office 365. Alla andra abonnemang kräver ett tillägg från Microsoft Defender för Office 365 prenumeration.
+- Valv Bifogade filer Valv länkar och nätfiskeskydd är en del av Microsoft Defender för Office 365. Enterprise E5, Education A5 och Microsoft 365 Business Premium microsoft Defender för Office 365. Alla andra abonnemang kräver ett tillägg för Microsoft Defender för Office 365 prenumeration.
 
-- Du måste tilldela licenser för att skydda användarna med Microsoft Defender för Office 365. Se [Lägga till användare och tilldela licenser samtidigt](/microsoft-365/admin/add-users/add-users) för anvisningar om hur du mass apply licenses to your users.
+- Du måste tilldela lämpliga licenser för att skydda användarna med Microsoft Defender för Office 365. Se [Lägga till användare och tilldela licenser samtidigt](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) för anvisningar om hur du mass apply licenses to your users.
 
-- Globala administratörer eller säkerhetsadministratörer kan komma åt Microsoft Defender Office 365 funktioner i Säkerhets- & efterlevnadscenter på **Threat Managmeent** \> **Policy**.
+- Globala administratörer eller **säkerhetsadministratörer** kan komma åt Microsoft Defender för Office 365-funktioner i Microsoft 365 Defender-portalen på avsnittet E& post och samarbete \> **&** \> **principer för hot.**
 
-- Valv Principer för Valv och länkar kan vara begränsade till hela organisationen, specifika domäner eller mindre användargrupper.
+- Valv Principer för Valv och länkar kan vara begränsade till specifika domäner, gruppmedlemmar eller enskilda användare. Du kan också ange undantag för Valv och principer Valv länkar baserat på domän, gruppmedlemskap eller enskilda användare.
 
-- Det finns ingen standardprincip Valv för bifogade filer. Du måste skapa [en princip och](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) tillämpa den på dina användare.
+- Det finns ingen standardprincip Valv för bifogade filer som skyddar e-postmeddelanden. Du måste skapa en [princip för att Valv](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies) skydd för bifogade filer i e-post.
 
-- Det finns en Valv princip för länkar som gäller för alla i organisationen. Om du vill redigera den här principen eller skapa anpassade principer kan du Valv i Konfigurera principer för [länkar i Microsoft Defender Office 365](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+  Valv Bifogade filer SharePoint, OneDrive och Microsoft Teams är aktiverade eller inaktiverade globalt och kräver inte principer Valv för bifogade filer. Mer information finns i Bifoga [Valv för SharePoint, OneDrive och Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/mdo-for-spo-odb-and-teams).
+
+- Det finns ingen standardprincip Valv för länkar som skyddar e-postmeddelanden och Microsoft Teams. Du måste skapa [en princip för att](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies) Valv skydd mot länkar i e-Teams.
+
+  Valv Länkskydd för Office 365-appar tillämpas på alla användare i organisationen som är licensierade för Defender för Office 365, oavsett om användarna ingår i aktiva Valv-länkar eller inte. Mer information finns i inställningar [Valv länkar för Office 365 appar](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links#safe-links-settings-for-office-365-apps).

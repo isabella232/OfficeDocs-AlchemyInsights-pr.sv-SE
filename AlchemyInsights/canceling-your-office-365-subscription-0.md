@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "86"
 - "1400001"
-ms.openlocfilehash: a84baac2762f894dfd36e0007624e231713c65fa
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 8d086ce8c6aef187b4bed96e5dcf12f17dcaa94bfd53a05bd136e0bb033f8f18
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685788"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888540"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Vill du avbryta Microsoft 365 prenumerationen?
 
@@ -30,4 +30,4 @@ Baserat på dina organisationsdata tror vi att dina aktuella prenumerationer har
   
 **Återbetalning:** All proportionerlig kredit kommer returneras till dig inom nästa faktureringscykel.
 
-Mer information finns i [Avsluta din prenumeration.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Mer information finns i [Avsluta din prenumeration.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
