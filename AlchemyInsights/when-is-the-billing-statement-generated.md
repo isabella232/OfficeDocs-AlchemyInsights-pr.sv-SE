@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/24/2020
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: b6e47b352ed0ea0d40af19a54b79fafd1a431aaa
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 223f489e54c14fb7d72359f1c0acc72922f01b275991465219d52f592267d4ed
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685176"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899074"
 ---
 # <a name="when-is-the-billing-statement-generated"></a>När genereras faktureringsutdraget
 
@@ -31,4 +31,4 @@ Ytterligare avgifter som uppstår under en aktiv faktureringscykel ingår i fakt
 
 Kreditkorts- och/eller bankkontobetalningar (där tillämpligt) ska betalas dagen efter **fakturadatumet.**
   
-Mer information finns i [Förstå din faktura](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Mer information finns i [Förstå din faktura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).

@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, tugu
+ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -17,12 +17,12 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 88af5b4a2ef679307189c4eef5ada86965bc799e
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 0b99e1e6547fc94e9203997aa8e3fa7465b128add22821ece190995d0aaf8f3f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685428"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898910"
 ---
 # <a name="change-your-billing-address"></a>Ändra din faktureringsadress
 
@@ -35,7 +35,7 @@ Fakturan innehåller tre adresser.
 3. Klicka på **Redigera på sidan** Information om **betalningsmetod.**
 4. Uppdatera din faktureringsadress och klicka sedan **på Spara > Klar**.
 
-Mer information om adress- och meddelandeändringar finns i [Ändra dina faktureringsadresser för Microsoft 365 för företag.](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+Mer information om adress- och meddelandeändringar finns i [Ändra dina faktureringsadresser för Microsoft 365 för företag.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
 
 **Ändra faktureringskontoinformationen**
 

@@ -1,5 +1,5 @@
 ---
-title: Konfiguration av Microsoft Defender Office 365 Defender
+title: Konfiguration för Microsoft Defender Office 365 Defender
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 9fb4d7b85bc7bcdfc0fe82f5371213aa7470fca7
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 04c116fb9a27dbd584b05419174a005022197837485baa1c6ec320e5448039a5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543631"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889700"
 ---
 # <a name="microsoft-defender-for-office-365"></a>Microsoft Defender för Office 365
 
-Microsoft Defender för Office 365 innehåller [Valv bifogade](/microsoft-365/security/office-365-security/atp-safe-attachments) [filer, Valv Länkar,](/microsoft-365/security/office-365-security/atp-safe-links)avancerad [skydd mot](/microsoft-365/security/office-365-security/atp-anti-phishing)nätfiske och mycket mer. 
+Microsoft Defender för Office 365 innehåller [Valv bifogade](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments) [filer, Valv Länkar,](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) [avancerad skydd mot nätfiske](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)och mycket mer. 
 
-Microsoft Defender för Office 365 ingår i prenumerationer som Office 365 Enterprise E5, Office 365 Education A5 och Microsoft 365 Business Premium. Om prenumerationen inte inkluderar den kan du potentiellt köpa den som ett tillägg. Mer information finns i [Microsoft Defender för Office 365 Tjänstbeskrivning](/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
+Microsoft Defender för Office 365 ingår i prenumerationer som Office 365 Enterprise E5, Office 365 Education A5 och Microsoft 365 Business Premium. Om prenumerationen inte inkluderar den kan du potentiellt köpa den som ett tillägg. Mer information finns i [Microsoft Defender för Office 365 Beskrivning av tjänsten.](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)
 
 ## <a name="set-up-microsoft-defender-for-office-365"></a>Konfigurera Microsoft Defender för Office 365
 
-Om du vill Office 365 Microsoft Defender för att skyddet ska vara i kraft måste du konfigurera principer. Se [Snabbstartsguide: Konfigurera Microsoft Defender för Office 365](/microsoft-365/security/office-365-security/office-365-atp).
+Om du vill Office 365 Microsoft Defender för att skyddet ska vara i kraft måste du konfigurera principer. Se [Snabbstartsguide: Konfigurera Microsoft Defender för Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
 

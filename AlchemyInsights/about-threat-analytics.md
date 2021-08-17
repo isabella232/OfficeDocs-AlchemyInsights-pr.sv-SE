@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: 844f595033b3a7ea87d8224e1a75c4b135d790fad21ad43e35784b951f312cc5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1bbf1e95a244502feaa1247cdc5a58c80d116e388caf18b732d6ba0b85039418
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53955732"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889452"
 ---
 # <a name="about-threat-analytics"></a>Om hotanalyser
 
 Hotanalyser är Microsofts in-product threat intelligence-lösning från en expert på Microsoft-säkerhet. Det är utformat för att hjälpa säkerhetsteam att hantera nya hot så effektivt som möjligt, inklusive aktiva hotare och deras kampanjer, populära och nya attacktekniker, kritiska säkerhetsproblem, vanliga attackytor och vanliga skadlig programvara. Som en del av den enhetliga säkerhetsupplevelsen är hotanalyser tillgängliga för Microsoft 365 Defender-prenumeranter och Microsoft Defender för Endpoint och Microsoft Defender för Office E5-licensinnehavare. 
 
-Mer information finns i [Spåra och hantera nya hot.](/microsoft-365/security/defender/threat-analytics)
+Mer information finns i [Spåra och hantera nya hot.](https://docs.microsoft.com/microsoft-365/security/defender/threat-analytics)
 
 Om du är en Microsoft 365 Defender-användare, oavsett om du utvärderar produkten eller har en fullständig licens, kan du när som helst komma åt rapporter om hot och hot. 

@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5671d8ede9b195f63a5d96767c46b4757d3e887547d31b82c969c36dc974f753
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988277"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898874"
 ---
 # <a name="fix-anti-spam-policy"></a>Åtgärda policyn mot skräppost
 
-En anpassad policy för skräppostskydd i klientorganisationen påverkade det här meddelandet. Så här granskar du principen:
+En av dina principer mot skräppost påverkade det här meddelandet. Så här granskar du principen:
 
-1. Gå till [Office 365 säkerhets- & säkerhets-](https://go.microsoft.com/fwlink/p/?linkid=2077143)och efterlevnadscenter och gå **sedan** till Policy för hothantering  >    >  [mot skräppost.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. På fliken **Anpassad** väljer du **Standardprincip för skräppostfilter** eller någon annan anpassad princip som du har skapat och väljer sedan **Redigera princip.**
-3. Expandera egenskaperna **för Skräppost** och granska inställningarna för **Markera som** skräppost.
+1. Gå Microsoft 365 Defender Principer för samarbete & e-& i avsnittet Principer för säkerhet mot skräppost i Microsoft 365 Defender i <https://security.microsoft.com/>  \>  \>  \> **webbportalen för** **e-post.**
 
-Mer information om hur du konfigurerar principer för skräppostfilter finns [i Konfigurera anpassade principinställningar för skräppostfilter.](https://go.microsoft.com/fwlink/?linkid=2101054)
+   Om du vill gå direkt till sidan **Principer för skräppostskydd** använder du <https://security.microsoft.com/antispam>.
+
+2. På sidan Principer för skydd mot skräppost markerar du principen genom att klicka på namnet på principen **(Typ** är **Custom anti-spam** policy eller **Name** is **Anti-Spam inbound policy (Default)**). 
+
+3. I den utfällklara  detalj som visas klickar du på Redigera tröskelvärde för skräppost och egenskaper i avsnittet Tröskelvärde för **massutskick &** egenskaper för skräppost väljer du Redigera åtgärder och granskar inställningarna för Markera som **skräppost.**
+
+Mer information finns i [Konfigurera principer för skräppostskydd i EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

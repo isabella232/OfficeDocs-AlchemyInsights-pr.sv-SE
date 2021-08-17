@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "5679"
-ms.openlocfilehash: b824e4fe12788848ff09cd7f0c6c5a43563fd5c1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: bc10199fe98460f55519e56dbacd7d49f09df89be6d677c4fe2b6b95f529e26d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836333"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889744"
 ---
 # <a name="need-help-with-email-quarantine"></a>Behöver du hjälp med e-postkarantänen?
 
-- För att **visa och frigöra e-postmeddelanden från karantänen** går du till [karantänsidan i Säkerhets- och efterlevnadscentret för Office 365](https://protection.office.com/quarantine). Fler instruktioner finns [här](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages).
-- Om meddelandet har blivit **felaktigt placerat i karantän (falskt positivt)** klickar du på Rapportera meddelanden till Microsoft för analys när du har sett att meddelandet är markerat på Karantän-sidan. 
-- Ta reda på **orsaken till att meddelandet har satts i karantän** i Karantänorsak-fältet.
-- **Saknas e-postmeddelanden i karantänen?** Vissa e-postmeddelanden i karantän kan inte släppas av slutanvändare. Det här är sannolikt de meddelanden som har klassats som nätfiske via e-post med hög konfidens, skadlig programvara eller av en transportåtgärd. Administratörer kan [visa, släppa eller ta bort dessa meddelanden](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide). 
+- Om du vill visa och släppa **e-postmeddelanden** från  karantän som slutanvändare går du  till sidan Karantän i Microsoft 365 Defender-portalen i Granska \> **karantän** eller direkt på <https://security.microsoft.com/quarantine> . Detaljerade anvisningar finns i [Visa meddelanden i karantän](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user#view-your-quarantined-messages).
+- Om meddelandet felaktigt **satts i karantän (falskt positivt)** väljer du meddelandet i listan och klickar **på Rapportera meddelanden till Microsoft för analys.**
+- Ta reda **på orsaken till att meddelandet satts i karantän** under fältet Orsak till **karantän.**
+- **Saknar du e-postmeddelande i karantän?** Vissa e-postmeddelanden i karantän kan inte visas eller släppas av slutanvändare. Det här är sannolikt meddelanden som klassificerats som nätfiske, skadlig programvara eller av en e-postflödesregel (kallas även transportregel). Administratörer kan visa, släppa eller ta bort dessa meddelanden. Mer information finns i [Hantera meddelanden i karantän och filer som administratör i EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

@@ -13,26 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 5375efe4998ee8720867b77a8c9ed60e3eda92e5b00fd3b6e93c0afab09fec2b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d05c8f02efc3bb92865880ea4a2338abaf7d70254f0b4bbfb566423e62b391dd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949405"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898814"
 ---
 # <a name="investigate-all-the-users-activities"></a>Undersöka alla användarnas aktiviteter
 
 Gör så här:
 
-1. Gå till [Säkerhets- & Efterlevnadscenter.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Välj **Sök i**  >  **[granskningsloggsökning](https://go.microsoft.com/fwlink/?linkid=2103759)**.
+1. Gör något av följande:
+   - I den Microsoft 365 Efterlevnadscenter går <https://compliance.microsoft.com> du till **Lösningsgranskning.** \>  Du kan också använda om du vill **gå direkt** till sidan <https://compliance.microsoft.com/auditlogsearch> Granskning.
+   - I Microsoft 365 Defender på <https://security.microsoft.com> går du till **Granska**. Du kan också använda om du vill **gå direkt** till sidan <https://security.microsoft.com/auditlogsearch> Granskning.
+
     > [!NOTE]
     > Om du ser att du måste aktivera funktionen kan du aktivera den nu. Om funktionen inte är aktiverad kan inte sökresultat hämta data från tidigare datum.
 
-1. Om du är intresserad av en viss aktivitet väljer du den i **listan** Aktiviteter. Om det inte är det returneras alla aktiviteter som standard för den valda användaren.
-1. Ange datumintervallet och välj sedan **användarnamnet** för den användare du vill undersöka i rutan Användare. Du kan välja fler än en användare i taget.
-1. Klicka **på Sök**. Aktiviteterna visas under **Resultat.** Du ser IP-adress, användare och aktivitetsnamn.
-1. Om du vill ladda ned resultaten väljer **du Exportera resultat.**
-1. Om du vill granska information markerar du aktiviteten och expanderar **sedan Mer information.**
+2. Konfigurera **följande** inställningar på **fliken** Sök på sidan Granskning:
+   - **Datum och tidsintervall:** Välj datum/tid i **rutorna Start** **och** Slut.
+   - **Aktiviteter**: Om du är intresserad av en viss aktivitet väljer du den i listan. I annat fall returnerar **standardvärdet Visa resultat för alla** aktiviteter alla aktiviteter.
+   - **Användare:** Acceptera det tomma standardvärdet för att returnera resultat för alla användare, eller ange en eller flera användare.
 
-Mer information finns i Söka [i granskningsloggen för felsökning av vanliga scenarier.](https://go.microsoft.com/fwlink/?linkid=2103944)
+3. När du är klar klickar du på **Sök**. Aktiviteterna visas på den nya **sidan Granskningssökning.** Du ser **IP-adressen,** **användaren och** **aktivitetsnamnet.**
+
+4. Om du vill  ladda ned resultaten väljer du \> **Exportera ladda ned alla resultat.**
+
+5. Välj en aktivitet i resultatet för att öppna den utfällade informationen.
+
+Mer information finns i Söka [i granskningsloggen för att undersöka vanliga supportproblem.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)
