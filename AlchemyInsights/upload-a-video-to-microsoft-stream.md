@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5093"
-ms.openlocfilehash: 4b4b5043d9cb3aaffd1546676d2cb805c4db3c38
-ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
+ms.openlocfilehash: 75f0ac3e6830bd85bfe23eb30f29e03e1ae47652afc185705e50341151cad4ec
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53389343"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899178"
 ---
 # <a name="upload-a-video-to-microsoft-stream"></a>Upload en video till Microsoft Stream
 
 Det är enkelt att ladda upp videoklipp med Microsoft Stream, och vem som helst kan göra det.
 
-- [Ladda upp en video](/stream/portal-upload-video)
+- [Ladda upp en video](https://docs.microsoft.com/stream/portal-upload-video)

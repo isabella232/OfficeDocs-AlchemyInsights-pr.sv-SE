@@ -11,29 +11,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: ac4c157d6e202488659c56605768bbfd2b3af8e658d0a2f82e529fdac6763fa9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2e24f489292f38b5e9cacc8b9bfe5730ebfc71ce5e3004be479134ef6c791a12
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53999690"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899350"
 ---
 # <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Avisering e-postmeddelanden från principen "Phish Delivered due to tenant or user override"
 
-En standardaviseringsprincip med namnet "Phish Delivered due to tenant or user override" har distribuerats till klientorganisationen med Microsoft Defender för Office 365 P1- och P2-licenser. Om du fick det här aviseringen finns det anvisningar för att undersöka detta:
+En standardaviseringsprincip **med namnet Phish Delivered** på grund av åsidosättning av klientorganisation eller användare finns tillgänglig i organisationer med Microsoft Defender för Office 365 P1- och P2-licenser. Om du fick det här aviseringen finns det anvisningar för att undersöka detta:
 
-1. Från varningsmeddelandet klickar du **på Visa avisering** för **att** gå till sidan Aviseringar i & säkerhets- och efterlevnadscenter.
+1. Från varningsmeddelandet klickar du **på Visa avisering** för att gå **till sidan** Aviseringar Microsoft 365 Defender portalen.
 
 2. Välj aviseringen om du vill se alternativet **Visa meddelandelista eller** **Visa meddelanden i Utforskaren**. Båda dessa alternativ tar dig till meddelandets information, som innehåller Meddelande-ID. Observera att länken Hotutforskaren automatiskt filtrerar meddelanden som matchar aviseringskriterierna. Du kan behöva justera datumfiltret i Hotutforskaren.
 
 Nätfiskemeddelandet levererades på grund av en manuellt konfigurerad åsidosättning:
 
 - En tillåten avsändare eller domän som har angetts av användaren.
-
 - En tillåten avsändare eller domän som anges av administratören i en princip mot skräppost.
-
 - En tillåten IP-adress i en princip för anslutningsfilter.
-
 - En e-postflödesregel (kallas även transportregel) som är konfigurerad för att tillåta meddelanden.
 
-Om du anser att meddelandet felaktigt har markerats som phish använder du tillägget Outlook [Report Message](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) för att skicka exempel på meddelanden till Microsoft.
+Om du anser att meddelandet felaktigt har markerats som nätfiske använder du [administratörsinskick](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission) för att rapportera meddelandet till Microsoft.
+
+Användarna kan använda [tilläggen Rapportmeddelande](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) eller Nätfiskerapport i Outlook skicka exempel på meddelanden till Microsoft.
