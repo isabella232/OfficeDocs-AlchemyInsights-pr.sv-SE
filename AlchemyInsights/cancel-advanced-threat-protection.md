@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9003019"
 - "5777"
-ms.openlocfilehash: 07388ac33a69769f5f4a4b92e3a96e486276e62a
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 48c8c82257467a484205c4fcbb218b2441244915f943ed8d984c9d41767c676d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687156"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894041"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Avbryt avancerat skydd mot hot
 
@@ -32,4 +32,4 @@ Administratörer kan avbryta advanced Threat Protection-prenumerationen för org
 
 **Återbetalning:** All proportionerlig kredit kommer returneras till dig inom nästa faktureringscykel.
 
-Mer information finns i [Avsluta din prenumeration.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Mer information finns i [Avsluta din prenumeration.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

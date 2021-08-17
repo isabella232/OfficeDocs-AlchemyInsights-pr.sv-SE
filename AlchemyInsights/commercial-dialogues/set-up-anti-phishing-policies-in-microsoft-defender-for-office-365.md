@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: dc6445bcd77a37fd4040381491b96142f8cc6cdd1be6cb05dcfba0c4a9a55dc5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966811"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313445"
 ---
 # <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Konfigurera principer för skydd mot nätfiske i Microsoft Defender för Office 365
 
-1. Gå till [säkerhets- Office 365 för & säkerhets- och efterlevnadscenter.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Välj **Policy för hantering av**  >  **hot.** På sidan **Princip** väljer du [Microsoft Defender för Office 365 skydd mot nätfiske](https://go.microsoft.com/fwlink/?linkid=2101369).
-3. Gör **något av följande** på sidan Mot nätfiske:
-    1. Om du vill lägga till en ny princip väljer **du + Skapa.**
-    1. Om du vill redigera en befintlig princip väljer du principnamnet i listan som visas på **sidan Skydd mot nätfiske.** På sidan som visas väljer du **Redigera** bredvid den inställning du vill ändra. En guide startas som hjälper dig att definiera din policy mot nätfiske.
-4. Om du skapar en ny princip anger du namn, beskrivning och inställningar för principen.
-5. När du har granskat inställningarna väljer du Skapa **den här principen** eller **Spara** efter behov.
+1. Gå till Microsoft 365 Defender för samarbete i & i & principer för hot mot nätfiske i avsnittet Principer i <https://security.microsoft.com/>  \>  \>  \> webbportalen **för** **e-post.**
+
+   Om du vill gå direkt **till sidan Mot nätfiske** använder du <https://security.microsoft.com/antiphishing> .
+
+2. Gör **något av följande** på sidan Mot nätfiske:
+   - Om du vill lägga till en ny princip väljer **du + Skapa.** En guide startas så att du kan definiera dina principinställningar.
+   - Om du vill redigera en befintlig princip markerar du principen genom att klicka på namnet på principen. I den utfällingstext för information som **visas väljer** du Redigera i avsnittet som innehåller de inställningar du vill konfigurera.
+
+3. När du har granskat inställningarna väljer du **Skicka** (ny) eller **Spara** (redigera).
+
+Mer information finns i Konfigurera [principer för skydd mot nätfiske i Microsoft Defender för Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies).

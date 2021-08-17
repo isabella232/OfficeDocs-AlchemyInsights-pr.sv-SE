@@ -13,23 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 626bd7515270f03e1560a3ed637e7bc60b374c5525527205d5f6775e4758f07a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d6a4eadd897dfae3b65ccda6363edfe9cef1c810
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57882653"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313517"
 ---
 # <a name="find-events-performed-on-inbox-rules"></a>Hitta händelser som utförs på inkorgsregler
 
 När inkorgsregler skapas, ändras eller tas bort registreras händelser i granskningsloggen. Så här granskar du dem:
 
 1. Gör något av följande:
-   - I den Microsoft 365 Efterlevnadscenter går <https://compliance.microsoft.com> du till **Lösningsgranskning.** \>  Du kan också använda om du vill **gå direkt** till sidan <https://compliance.microsoft.com/auditlogsearch> Granskning.
-   - I Microsoft 365 Defender på <https://security.microsoft.com> går du till **Granska**. Du kan också använda om du vill **gå direkt** till sidan <https://security.microsoft.com/auditlogsearch> Granskning.
+   - I Microsoft 365 Efterlevnadscenter på <https://compliance.microsoft.com> går du till  \> **Lösningsgranskning.** Du kan också använda om du vill **gå direkt** till sidan <https://compliance.microsoft.com/auditlogsearch> Granskning.
+   - Gå till Microsoft 365 Defender i <https://security.microsoft.com> portalen .  Du kan också använda om du vill **gå direkt** till sidan <https://security.microsoft.com/auditlogsearch> Granskning.
 
-    > [!NOTE]
-    > Om du ser ett meddelande om att du måste aktivera granskning kan du aktivera den nu. Om den här funktionen inte är aktiverad kan inte sökresultat hämta data från tidigare datum.
+    **Obs!** Om du ser ett meddelande om att du måste aktivera granskning kan du aktivera den nu. Om den här funktionen inte är aktiverad kan inte sökresultat hämta data från tidigare datum.
+1. Välj fältet Aktiviteter och leta reda Exchange postlådeaktiviteter och välj sedan New-InboxRule Skapa inkorgsregel från Outlook Web App. När du är klar klickar du utanför fönstret för att minimera fönstret Aktiviteter.
+1. Ange datumintervallet och välj sedan användarnamnet för den användare du vill undersöka i fältet Användare. Du kan välja fler än en användare i taget.
+1. Välj Sök. Aktiviteterna visas under Resultat.
+1. Om du vill visa information väljer du en aktivitet och sedan Mer information. Under Parametrar ser du namnet på regeln, villkorsuppsättningen och de åtgärder som regeln kommer att utföra.
 
 2. Konfigurera **följande** inställningar på **fliken** Sök på sidan Granskning:
    - **Datum och tidsintervall:** Välj datum/tid i **rutorna Start** **och** Slut.

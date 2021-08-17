@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jamitche
+ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 8aa177ed01fbd6c3b5c3e99ce5300111b19c76d5
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 1e64961a3f5b688d71f1931a2f0cee802007b47c8094b69b325a1d1e123c8dbe
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685536"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892445"
 ---
 # <a name="update-credit-card-information"></a>Uppdatera kontokortsinformation
 
@@ -44,4 +44,4 @@ ms.locfileid: "53685536"
 
 Om du får problem med att läsa in sidan kan du försöka att öppna webbsidan i en annan webbläsare eller öppna sidan i ett privat webbläsarfönster, t. ex. ett InPrivate-fönster i Microsoft Edge eller ett inkognitofönster i Google Chrome. 
 
-Mer information finns i [Hantera betalningsmetod](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Mer information finns i [Hantera betalningsmetod](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
