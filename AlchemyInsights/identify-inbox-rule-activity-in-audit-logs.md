@@ -13,27 +13,30 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e27c6433c65079af93f2a02a998b7179222336b0cae1149f4196f6fb6558ddac
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2bddd267abacabcd04b54271ade8ecf7b69fab914bcb8c103c806c31a388d2f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976883"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891313"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identifiera aktivitet med inkorgsregel i granskningsloggar
 
-Du kan använda granskningsloggsökning i Microsoft 365 Säkerhets- & säkerhetscenter för & för att visa inkorgsregelhändelser (skapa, ändra och ta bort inkorgsregler).
+Du kan använda granskningsloggsökning i Microsoft 365 Efterlevnadscenter om du vill visa inkorgsregelhändelser (skapa, ändra och ta bort inkorgsregler).
 
-1. Logga in på [Microsoft 365 Kompatibilitetscenter.](https://protection.office.com/)
+1. Gör något av följande:
+   - I den Microsoft 365 Efterlevnadscenter går <https://compliance.microsoft.com> du till **Lösningsgranskning.** \>  Du kan också använda om du vill **gå direkt** till sidan <https://compliance.microsoft.com/auditlogsearch> Granskning.
+   - I Microsoft 365 Defender på <https://security.microsoft.com> går du till **Granska**. Du kan också använda om du vill **gå direkt** till sidan <https://security.microsoft.com/auditlogsearch> Granskning.
 
-2. Gå till sidan **Sök**  >  **granskningsloggsökning.**
+2. Konfigurera **följande** inställningar på **fliken Sök** på sidan Granskning:
+   - **Datum och tidsintervall:** Välj datum/tid i **rutorna Start** **och** Slut.
+   - **Aktiviteter:** Välj ett eller flera av följande värden:
+     - **Ny inkorgRegel för att skapa inkorgsregel från Outlook Web App**
+     - **Set-InboxRule Modify rule from Outlook Web App**.
+     - **Uppdatera regler för Inkorgen Outlook klient**
 
-3. Välj datumintervallet i **fälten Startdatum** **och** Slutdatum.
+3. När du är klar klickar du på **Sök**. Aktiviteterna visas på den nya **sidan Granskningssökning.**
 
-4. Under **Exchange Postlådeaktiviteter** kontrollerar  du att fältet Aktiviteter är inställt på **Ny-InkorgRegel för skapa/ändra/aktivera/inaktivera inkorgsregel.**
+4. Välj en aktivitet i resultatet för att öppna den utfällade informationen. Information om inställningarna för inkorgsregel visas i **fältet** Parametrar.
 
-5. Klicka **på Sök**.
-
-Välj en granskningspost i resultatet. Klicka på Mer information i den **utfällade informationen.** Information om inställningarna för inkorgsregel visas i **fältet** Parametrar.
-
-Mer information finns i Avgöra [om en användare har skapat en inkorgsregel](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Mer information finns i Avgöra [om en användare har skapat en inkorgsregel](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-created-an-inbox-rule).
