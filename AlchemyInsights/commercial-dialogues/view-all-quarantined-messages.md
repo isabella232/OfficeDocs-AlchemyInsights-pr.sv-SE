@@ -12,16 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 100ce1685d95dc5e38a6b03b2ef2cf8c1c7a092157f4d30866b3dd36375ae2f0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045150"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311417"
 ---
 # <a name="view-all-quarantined-messages"></a>Visa alla meddelanden i karantän
 
-1. Gå till säkerhets- och [efterlevnadscentret i & administrationscentret.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Gå till **karantän för hantering** av  >    >  **hot.**
+1. Gå till Microsoft 365 Defender postgransknings <https://security.microsoft.com> sätt i **karantänen för & samarbete i** \> **portalen** \> **på**.
+
+   Om du vill gå direkt **till sidan** Karantän använder du <https://security.microsoft.com/quarantine> .
+
+2. På sidan **Karantän** kontrollerar du att **e-postfliken** är markerad.
 3. Som standard sorteras meddelanden från nyaste till äldsta baserat på det datum då meddelandet togs emot. Du kan sortera på ett fält genom att klicka på ett sidhuvud.
 4. Du kan bara massåtgärder på upp till 100 objekt, så filtrering kan också minska resultatuppsättningen om du har fler än 100 objekt.
+
+Mer information finns i följande artiklar:
+
+- [Hitta och släppa meddelanden i karantän som användare](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Hantera meddelanden och filer i karantän som administratör](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

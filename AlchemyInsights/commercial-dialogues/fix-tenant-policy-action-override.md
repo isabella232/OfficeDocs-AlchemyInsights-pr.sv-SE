@@ -12,20 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bc7ad8acd86c9d5b2f99ffdc6fe8a8b53e1fcb8b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748987"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896093"
 ---
 # <a name="fix-tenant-policy-action-override"></a>Åtgärda klientprincip (åsidosättning av åtgärder)
 
-En policy för skräppostskydd i klientorganisationen påverkade det här meddelandet. Så här granskar du principen:
+En av dina principer mot skräppost påverkade det här meddelandet. Så här granskar du principerna:
 
-1. Gå till [Säkerhets- och & Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143)och gå sedan **till** Policy för hothantering mot  >    >  [skräppost.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. Kontrollera om **principkällan anger** följande:  **Add-Xheader/ModifySubject/Redirect/Delete/No action/ BCC message**
+1. Gå Microsoft 365 Defender principer för samarbete &-post och & principer för hot mot skräppost i avsnittet Principer i webbportalen för <https://security.microsoft.com/>  \>  \>  \> **e-Microsoft 365 Defender.** 
 
-    I så fall kontrollerar **du inställningarna** för den princip som påverkade meddelandet på fliken Anpassad. Det är möjligt att standardinställningarna **som tillämpats** på alla Exchange Online Protection-kunder påverkade meddelandet.
+   Om du vill gå direkt till sidan **Principer för skräppostskydd** använder du <https://security.microsoft.com/antispam>.
 
-Mer information om hur du konfigurerar principer för skräppostfilter finns [i Konfigurera principer för skräppostfilter.](https://go.microsoft.com/fwlink/?linkid=2101431)
+2. På sidan Principer för skydd mot skräppost markerar du principen genom att klicka på namnet på principen **(Typ** är Custom **anti-spam** policy eller **Name** is **Anti-Spam inbound policy (Default)**). 
+3. I den utfällade informationen som visas väljer **du Redigera** åtgärder i **avsnittet** Åtgärder.
+4. I avsnittet **Meddelandeåtgärder** granskar du omdömena **för skräppost,** skräppost  med hög konfidens, nätfiske och nätfiske med hög konfidens för att se om något av följande värden är markerat:  
+   - **Lägg till X-sidhuvud**
+   - **Förbereda ämnesraden med text**
+   - **Omdirigera meddelandet till e-postadress**
+   - **Ta bort meddelande**
+   - **Ingen åtgärd**
+
+   Det är möjligt att **standardinställningarna som tillämpats** på alla Exchange Online Protection påverkade meddelandet.
+
+Mer information finns i [Konfigurera principer för skräppostskydd i EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).
