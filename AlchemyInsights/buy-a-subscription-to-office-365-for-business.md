@@ -1,5 +1,5 @@
 ---
-title: Köp en prenumeration på Microsoft 365 för företag från en kostnadsfri utvärderingsversion
+title: Köpa en prenumeration på Microsoft 365 för företag från en kostnadsfri utvärderingsversion
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -16,12 +16,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: fc052672ecb4363204f3756080c7031fde44738ec9b9955aa7ffbe9b57d2603a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ca5e927ad200d6cbf47e2ff58a9c74b17fe70532
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899038"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325785"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Köpa en prenumeration på Microsoft 365 från en kostnadsfri utvärderingsversion
 

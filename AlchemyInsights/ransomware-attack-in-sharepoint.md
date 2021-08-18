@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a7cf2d8cc00bc9e45f33b0fa564f3e0533c2ce43ffb029f950ddeb4ed67b1100
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2037346485227b7357face23f20b5c61cc837c9c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893213"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327539"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Utpressningstrojanattack i SharePoint eller OneDrive
 
@@ -27,7 +27,7 @@ ms.locfileid: "57893213"
     - [Skydda dina data i SharePoint och OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
     - [Skydd mot utpressningstrojaner](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  Påverkas alla filer på din OneDrive eller SharePoint av utpressningstrojaner eller skadlig kod eller Crypto virus? 
+3.  Påverkas alla filer på din OneDrive Eller SharePoint av utpressningstrojaner eller skadlig kod eller Crypto virus? 
 
 Stoppa/pausa direkt OneDrive-synkroniseringen (om sådan finns) eller koppla från Utforskaren som är mappad till biblioteket från den aktuella datorn (om sådan finns), och sedan kan du återställa hela OneDrive- eller SharePoint-biblioteket till en föregående tid med hjälp av filåterställningsfunktionen. 
 

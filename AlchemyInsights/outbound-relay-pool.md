@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e5bb1fda1dec0c0f72d1944d54b6f2747a6e909
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883149"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326095"
 ---
 # <a name="outbound-relay-pool"></a>Utgående reläpool
 
@@ -28,7 +28,7 @@ För att undvika ett scenario med hjälp av reläpoolen ska du kontrollera att v
 
 - Den utgående avsändaren är en godkänd domän för klientorganisationen.
 - SPF (Sender Policy Framework) passeras när meddelandet kommer till Microsoft 365.
-- DKIM (DomainKeys Identified Mail) på den P2-avsändardomän som skickas när meddelandet kommer Microsoft 365.
+- DKIM (DomainKeys Identified Mail) på P2-avsändardomänen passeras när meddelandet kommer Microsoft 365.
  
 Meddelanden som uppfyller ovanstående villkor vidarebefordras inte via reläpoolen.
 

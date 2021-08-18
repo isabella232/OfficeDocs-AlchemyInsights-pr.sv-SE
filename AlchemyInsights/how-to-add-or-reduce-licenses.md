@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: ff0ddcba4212697685dd71360532c89e27815f8d96aeced8f36c7416bdbebf64
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1d96cefc7918359e5d9006628d3eec723a39a77d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892213"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326407"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Lägga till eller ta bort licenser för prenumerationen
 
@@ -37,5 +37,5 @@ Information om hur du tilldelar licenser finns i [Tilldela användare licenser.]
 **Resurser**
   
 - [Köpa eller ta bort licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
-- [Avbryta Microsoft 365 för företag](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Avbryt Microsoft 365 för företag](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 - [Prova eller köp en Microsoft 365 för företag-prenumeration](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 78b803e25a7ec39b8b5a9328e32e380b1a1c16b8859cc713935f38590b1bf3ea
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 08b2d07021f75595742277ac0d3bc0e95c372c21
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948937"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326718"
 ---
 # <a name="report-suspicious-attachments"></a>Rapportera misstänkta bifogade filer
 
 1. I den **nya utfällingsfilen** **för** inskickade filer väljer du Bifogad fil och laddar sedan upp den fil du vill söka igenom.
-    > [!NOTE]
-    > Det finns en begränsning på 3 MB för stunden. Om filen överskrider 3 MB kan du skicka den med ett e-post-ID i stället.
+    
+    **Obs!** Det finns en begränsning på 3 MB för stunden. Om filen överskrider 3 MB kan du skicka den med ett e-post-ID i stället.
 2. Om du **väljer Borde ha blockerats** markeras objektet automatiskt som skadlig **programvara.**
 3. Välj **Skicka**.

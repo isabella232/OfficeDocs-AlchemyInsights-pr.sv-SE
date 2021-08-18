@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, drjones
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "483"
 - "1500029"
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 63f099d78fcdd2c413a5d56b86c77fecd93b6a9c
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 550d9884caaf47aa10eb4a9f5affd0ea61daf41b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687696"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327315"
 ---
 # <a name="trouble-completing-a-purchase-in-the-microsoft-365-admin-center"></a>Problem med att slutföra ett köp i administrationscentret för Microsoft 365
 

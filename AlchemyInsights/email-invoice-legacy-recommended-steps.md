@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae0061651012e12ec5792c4c27df99c0092141ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003662"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326523"
 ---
 # <a name="e-mail-invoice---legacy"></a>E-postfaktura – tidigare
 
@@ -52,5 +52,4 @@ Så här gör du för att tillåta användare/grupper med prenumerationsnivå å
 4. Välj din Azure-prenumeration och klicka sedan på **Tillåt andra att ladda ned fakturan**.
 5. Välj **På** och sedan **Spara** högst upp på sidan.
 
-> [!NOTE]
-Om du inte är kontoadministratör kontaktar du kontoadministratören och följer anvisningarna ovan för att registrera dig, lägga till mottagare eller tillåta andra användare att ladda ned fakturan.
+**Obs!** Om du inte är kontoadministratör kontaktar du kontoadministratören och följer anvisningarna ovan för att registrera dig, lägga till mottagare eller tillåta andra användare att ladda ned fakturan.

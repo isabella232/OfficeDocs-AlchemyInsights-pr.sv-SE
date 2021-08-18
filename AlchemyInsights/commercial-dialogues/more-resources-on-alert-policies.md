@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 9acb8cc687b7ff4bedaad6c30a9830efbb65d9199a794d844fe040628451ef8c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 4ff574c19852cc680bb62caf1297f93b1a5401f1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894345"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326779"
 ---
 # <a name="more-resources-on-alert-policies"></a>Fler resurser för aviseringsprinciper
 
