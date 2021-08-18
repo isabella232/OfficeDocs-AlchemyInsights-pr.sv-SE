@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963805"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339050"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Lägga till och hantera administratörer – rekommenderade steg
 
@@ -55,7 +55,7 @@ Tjänstadministratören eller medadministratören kan själv använda den här �
 
 **Lägga till/ta bort användare med Azure Active Directory (AD)**
 
-Du kan lägga till nya användare eller ta bort befintliga användare från Azure Active Directory -organisationen (Azure AD):
+Du kan lägga till nya användare eller ta bort befintliga användare från Azure Active Directory-organisationen (Azure AD):
 
 1. Om du vill lägga till en ny användare loggar du in [på Azure](https://ms.portal.azure.com/#home) Portal som en användaradministratör för organisationen.
 2. Välj **Azure Active Directory**, välj **Användare och** klicka sedan på Ny **användare.**
@@ -65,7 +65,7 @@ Du kan lägga till nya användare eller ta bort befintliga användare från Azur
 
 - [Lägga till en ny användare](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
 - [Ta bort en användare](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
-- [Lägga till eller uppdatera en användares profilinformation med hjälp av Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+- [Lägga till eller uppdatera en användares profilinformation med hjälp Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
 **Rekommenderade dokument**
 
@@ -75,7 +75,7 @@ Du kan lägga till nya användare eller ta bort befintliga användare från Azur
 - [Självstudiekurs: Bevilja åtkomst för en användare med RBAC och Azure Portal](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Felsöka RBAC i Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Ordna dina resurser med Azure-hanteringsgrupper](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Så här begär du en kopia av Azure-faktura via e-post](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Så här begär du en kopia av Azure-faktura via e-post](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Lägga till, uppdatera eller ta bort ett kreditkort eller betalkort från Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Hantera (Återaktivera/Avbryt/Byt)-prenumeration](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 02930406d85046a1e889fd3912f50946dc51853ad48be16a3320611d943a0d8d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 4f64426642e8213176b29d55b3091249762b4fa3
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889944"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333283"
 ---
 # <a name="error-404-file-not-found-in-sharepoint-or-onedrive"></a>Fel 404: Filen hittades inte i SharePoint eller OneDrive
 

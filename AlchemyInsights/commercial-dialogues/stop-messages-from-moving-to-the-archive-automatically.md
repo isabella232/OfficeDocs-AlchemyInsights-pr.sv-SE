@@ -12,19 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: df7443626308416e1d7edf4bc87c0eba95ec2c030d5ef3207513480873c1e3e7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a083ac548d818f0ed922a6d17b38c3a3df2d86c0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929971"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333365"
 ---
 # <a name="stop-messages-from-moving-to-the-archive-automatically"></a>Stoppa meddelanden från att flyttas till arkivet automatiskt
 
 Om du använder en bevarandeprincip kan du ändra bevarandeåldern i den principen om du inte vill att meddelandena ska arkiveras automatiskt. Så här gör du:
 
-1. Välj [bevarandetaggar för Exchange efterlevnadshantering](https://go.microsoft.com/fwlink/?linkid=2059104) **i**  >  **administrationscentret.** Leta reda på bevarandetaggen Flytta till arkiv.
-2. Ändra kvarhållningstiden (arkiveringstiden) i  bevarandetaggen till Aldrig för att hindra att objekt automatiskt arkiveras av en bevarandeprincip.
+1. I [administrationscentret för Exchange väljer](https://go.microsoft.com/fwlink/?linkid=2059104)du **bevarandetaggar för**  >  **efterlevnadshantering.** Leta reda på bevarandetaggen Flytta till arkiv.
+2. Ändra kvarhållningstiden (arkiveringstiden) i  bevarandetaggen till Aldrig för att förhindra att objekt automatiskt arkiveras av en bevarandeprincip.
 
-> [!NOTE]
-> Det här ändrar inställningen för arkivering för alla postlådor där den här bevarandetaggen används för dem.
+**Obs!** Det här ändrar arkivinställningen för alla postlådor där den här bevarandetaggen används för dem.

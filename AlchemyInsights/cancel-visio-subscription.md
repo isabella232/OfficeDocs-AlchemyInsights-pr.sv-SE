@@ -14,16 +14,16 @@ ms.custom:
 - commerce_subsriptions
 - "1400001"
 - "4721"
-ms.openlocfilehash: 090cb87251755ac06f109faea194ba120bbe7650ddaac1b1d0cdea19a0f0a7a6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 78955e6331048e9861785cac76cebcece4973996
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895645"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331477"
 ---
 # <a name="cancel-visio-subscription"></a>Avbryt Visio prenumeration
 
-Administratörer kan avbryta Visio-prenumerationen för organisationen i Administrationscenter för Microsoft 365.
+Administratörer kan säga upp Visio-prenumerationen för organisationen i Administrationscenter för Microsoft 365.
 
 1. Gå till sidan **Fakturering** \> [dina](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
 2. På fliken **Produkter** hittar du den Visio prenumeration som du vill avbryta. Välj de tre punkterna (fler åtgärder) och välj sedan **Avbryt prenumeration**.

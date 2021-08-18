@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11142"
-ms.openlocfilehash: f77fdbb315db8317a6a1374f05489a7f5a0bedcec484dc9ac53a473098583949
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 911c6b1860e4f44e6d88897f73173cdd11060562
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57886650"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332003"
 ---
 # <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Använda Microsoft Intune säkerhetsbaslinjer för att konfigurera Windows 10 enheter
 
-Intune-säkerhetsbaslinjer hjälper till att skydda användare och enheter. Säkerhetsbaslinjer Windows förkonfigurerade grupper som används för att tillämpa en känd grupp med inställningar och standardvärden som rekommenderas av relevanta säkerhetsteam. Genom att skapa en profil för säkerhetsbaslinje i Intune skapar du en mall som består av flera enhetskonfigurationsprofiler.
+Intune-säkerhetsbaslinjer hjälper till att skydda användare och enheter. Säkerhetsbaslinjer är Windows förkonfigurerade grupper som används för att tillämpa en känd grupp med inställningar och standardvärden som rekommenderas av relevanta säkerhetsteam. Genom att skapa en profil för säkerhetsbaslinje i Intune skapar du en mall som består av flera enhetskonfigurationsprofiler.
 
 När du distribuerar säkerhetsbaslinjer till grupper av användare eller enheter tillämpas inställningarna på enheter som körs Windows 10 eller senare. Microsofts baslinje för hantering av mobila enheter (MDM) aktiverar till exempel automatiskt BitLocker för flyttbara enheter, kräver lösenordet för att låsa upp en enhet och inaktiverar grundläggande autentisering. När ett standardvärde inte fungerar för din miljö kan du anpassa originalplanen så att de inställningar du behöver används.
 

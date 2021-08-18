@@ -15,12 +15,12 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 92673c4a2a0e0faa98d3ade5ca1f6aa687d4c94a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922280"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331059"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Tar bort data och rensar enheter från Intune
 
@@ -32,8 +32,7 @@ Fjärråtgärderna Ta enhet ur bruk och Rensa enhet kan användas för att ta bo
 4. Bekräfta genom att välja **Ja**. Tills rensningen är klar visas enhetsåtgärdsstatusen som *Ta ur bruk pågående*.
     När åtgärden har slutförts visas inte längre den mobila enheten i listan över hanterade enheter.
 
-> [!NOTE]
-> Företagsdata kan inte tas bort från enheter som är anslutna till Azure AD. 
+**Obs!** Företagsdata kan inte tas bort från enheter som är anslutna till Azure AD. 
 
 Fullständig information om effekterna av åtgärderna Ta ur bruk och Rensa, inklusive vad som behålls och vad som tas bort, finns i följande dokumentation:
 

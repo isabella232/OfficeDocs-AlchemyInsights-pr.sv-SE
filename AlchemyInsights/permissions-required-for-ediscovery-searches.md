@@ -12,23 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9ed0c5f350138e9745a87d6f5a90f11e7ce4b279
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53973859"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58338978"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>Behörigheter som krävs för eDiscovery-sökningar
 
-För att kunna utföra innehållssökningar i säkerhets- och efterlevnadscentret för & måste användaren vara minst medlem i rollgruppen för eDiscovery Manager, så att de kan göra sökningar och placera innehåll i postlådor, SharePoint-webbplatser och OneDrive-platser. Medlemmar kan också skapa och hantera eDiscovery-ärenden, lägga till och ta bort medlemmar i ett ärende, skapa och redigera innehållssökningar och få åtkomst till ärendedata i Advanced eDiscovery.
+Om du vill utföra innehåll xearches i Säkerhets- och & efterlevnadscenter måste en användare minst vara medlem i rollgruppen för eDiscovery Manager.
 
-För att In-Place eDiscovery-sökningar i administrationscentret för Exchange (EAC) måste användaren vara medlem i rollgruppen Identifieringshantering i Exchange Online.
+För att kunna göra innehållssökningar Microsoft 365 Efterlevnadscenter användare måste han eller hon vara medlem i rollgruppen för eDiscovery-hanteraren.  
 
-Mer information om eDiscovery-behörigheter finns i: 
+Så här tilldelar du behörigheter:
 
-- [Tilldela eDiscovery-behörigheter i säkerhets- & säkerhets- och efterlevnadscentret](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
-
-- [Tilldela eDiscovery-behörigheter i Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+1. Gå till [Microsoft 365 Efterlevnadscenter](https://compliance.microsoft.com/)  >  **Behörigheter**.
+1. Under **Efterlevnadscenter** väljer **du Roller** och sedan **eDiscovery Manager**.
+1. På den utfällande fliken lägger du  till användaren till önskad roll genom att välja Redigera bredvid eDiscovery-hanteraren eller eDiscovery-administratörsrollen.
 
 **Obs!** När du har tilldelar eDiscovery-behörigheter kan du behöva vänta några minuter för att behörigheterna ska spridas.
+
+Mer information om eDiscovery-behörigheter finns i [Tilldela eDiscovery-behörigheter i Microsoft 365 Efterlevnadscenter.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)

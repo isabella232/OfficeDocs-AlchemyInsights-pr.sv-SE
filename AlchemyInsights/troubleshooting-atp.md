@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5614deae44c08b2a5f9786b26bdbdcfa4daed15d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900670"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330834"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Felsökning av Microsoft Defender för Office 365
 
@@ -24,7 +24,7 @@ ms.locfileid: "57900670"
 
 - **Vill du rapportera falska positiva eller falska negativa resultat till Microsoft?** Använd [Inskickade material i Utforskaren.](https://protection.office.com/reportsubmission)
 
--** Visste du att du kan aktivera Valv för internt e-post som skickas mellan mottagare inom din organisation?** Följ de här stegen:
+-** Visste du att du kan aktivera Valv för internt e-postmeddelande som skickas mellan mottagare inom din organisation?** Följ de här stegen:
 
   1. Gå till [https://protection.office.com](https://protection.office.com) och logga in med en global administratör eller ett säkerhetsadministratörskonto.
 
