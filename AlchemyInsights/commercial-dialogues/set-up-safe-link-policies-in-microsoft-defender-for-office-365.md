@@ -1,5 +1,5 @@
 ---
-title: Konfigurera principer Valv Länkar i Microsoft Defender för Office 365
+title: Konfigurera länkprinciper Valv i Microsoft Defender för Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 31ebb466394dddd4c72c64c3f10500d578cb206cfe2c316a2f12d9a34bff130d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 353571996403d1ddd133d5ef1705d86e7dc38d02
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57882585"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322231"
 ---
-# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Konfigurera principer Valv Länkar i Microsoft Defender för Office 365
+# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Konfigurera länkprinciper Valv i Microsoft Defender för Office 365
 
-1. I portalen Microsoft 365 Defender på går du till E-& principer för samarbete & regler och hot <https://security.microsoft.com/>  \>  \>  \> **Valv länkar** i **avsnittet** Principer.
+1. I portalen Microsoft 365 Defender på går du till E-& för samarbete & principer för hot <https://security.microsoft.com/>  \>  \>  \> **Valv i** **avsnittet** Principer.
 
    Om du vill gå **direkt Valv sidan** Länkar använder du <https://security.microsoft.com/safelinksv2> .
 

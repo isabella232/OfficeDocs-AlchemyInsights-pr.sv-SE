@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
-ms.translationtype: HT
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707900"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321925"
 ---
 # <a name="issues-with-links-and-urls"></a>Problem med länkar och URL-adresser
 
@@ -42,15 +42,13 @@ Om du vill lägga till en svars-URL går du till fliken **Autentisering** på si
     - plattformen (iOS/Android/UWP)
     - Den information som används för att skapa appen, till exempel paket-ID för iOS samt paketets namn och signatur med hashfunktion på Android, appregistreringen för Azure-portalen hjälper dig. Mer information finns i [Plattformskonfiguration och omdirigerings-URI:er](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> Web API:er och några av de obevakade sätten att hämta tokens (IWA och användarnamn/lösenord) kräver inte en omdirigerings-URI.
+**Obs!** Webb-API:er och några av de tysta sätten att hämta token (IWA och användarnamn/lösenord) kräver inte en omdirigerings-URI.
 
 **Jag har distribuerat webbapplikationen och när jag testar den distribuerade applikationen får jag en svars-URL om matchningsfel**
 
 Lägg till omdirigerings-URI:er för alla platser som du distribuerar din webbapplikation till. Mer information finns i [Registrera en webbapp med Azure Portal](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Lägg till omdirigerings-URI för en plats direkt efter att du har distribuerat applikationen på den platsen.
+**Obs!** Lägg till omdirigerings-URI för en plats direkt efter att du har distribuerat programmet på den platsen.
 
 **Jag kan inte registrera tillräckligt många svars-URL:er**
 

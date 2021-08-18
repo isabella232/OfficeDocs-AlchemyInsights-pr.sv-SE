@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a144b172787563b1aa57bdec790df1805a13f078
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896733"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323304"
 ---
 # <a name="create-user"></a>Skapa användare
 
@@ -29,8 +29,8 @@ ms.locfileid: "57896733"
 
 **Jag kan inte skapa en ny användare i min Azure AD-katalog**
 
-1. Se till att du har behörighet att skapa en ny standardanvändare. Endast rollen global administratör eller användaradministratör i Azure Active Directory (AD) kan skapa en ny standardanvändare. Om du inte har någon av dessa roller kan du be en administratör att lägga till dig i en av rollerna eller att skapa det nya användarkontot åt dig.
-1. Kontrollera att användarnamnet finns i en domän som har verifierats i Azure AD. Om du inte har några verifierade anpassade domännamn i azure AD kan du använda din initiala Azure AD-domän, som slutar med *.onmicrosoft.com.
+1. Se till att du har behörighet att skapa en ny standardanvändare. Endast den globala administratören eller användaradministratörsrollen i Azure Active Directory (AD) kan skapa en ny standardanvändare. Om du inte har någon av dessa roller kan du be en administratör att lägga till dig i en av rollerna eller att skapa det nya användarkontot åt dig.
+1. Kontrollera att användarnamnet finns i en domän som har verifierats i Azure AD. Om du inte har några verifierade anpassade domännamn i Azure AD kan du använda din initiala Azure AD-domän, som slutar med *.onmicrosoft.com.
 1. Kontrollera att användarnamnet finns i en domän som inte är federerad till Azure AD från din lokala AD. Användare kan inte läggas till i molnet med domännamn som är externa från lokalt.
 1. Kontrollera att ingen annan användare eller kontakt redan har det användarnamn som du vill tilldela den nya användaren. Användarnamn måste vara unika för alla Azure AD.
 1. Se [Azure AD-roller och -administratörer](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) för Azure AD.

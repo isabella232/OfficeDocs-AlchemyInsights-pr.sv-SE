@@ -12,12 +12,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 7966933cd7474dd640ac8397ce560c9fb1c57fb4e99d02f8976d5dcfe7cf5a82
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d83dd6f96b0d8788ebd11d7f89fa07bf204604b6
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53909232"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322583"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Synkronisera SharePoint-filer med den nya OneDrive-synkroniseringsklienten
 
@@ -27,8 +27,7 @@ ms.locfileid: "53909232"
     
 3. I ”Synkroniseringsklient för SharePoint” väljer du **Starta den nya klienten**.  
     
-    > [!NOTE]
-    > Om det här alternativet inte visas har din organisation redan konfigurerats att använda den nya OneDrive-synkroniseringsklienten till att synkronisera SharePoint-filer. 
+    **Obs!** Om det här alternativet inte visas är organisationen redan konfigurerad att använda den nya OneDrive-synkronisering för att synkronisera SharePoint filer. 
   
 4. Klicka på **OK**.
     

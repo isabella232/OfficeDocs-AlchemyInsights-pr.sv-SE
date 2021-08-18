@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002949"
 - "5646"
-ms.openlocfilehash: 5ca94b3f812478b2221d0fcc070b7e7273e45dc3633e46c99384a270a624015e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e1f2d494f965d2d9fb1bcfcd8e4e224d9e68e7c2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53991517"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322701"
 ---
 # <a name="reset-or-recover-your-pc"></a>Återställa eller återskapa din dator
 
-**VIKTIGT**: Om du har krypterat enheten måste du ha BitLocker-nyckeln för att återställa datorn. Om du inte vet din BitLocker-nyckel kan du [Hitta min återställningsnyckel för BitLocker](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key).
+**Viktigt:** Om du har krypterat din enhet behöver du Din BitLocker-nyckel för att återställa datorn. Om du inte vet din BitLocker-nyckel kan du [Hitta min återställningsnyckel för BitLocker](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key).
 
 **Återställa datorn från Inställningar**
 
