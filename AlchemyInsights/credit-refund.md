@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - "897"
 - "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 66526e5aba6d4f4e8a19141478fd103fbab71f31
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 28c754610a3a8363e47959d3f1e6f5077472f9430e93322ab20cba2ad0ac7390
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687588"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896697"
 ---
 # <a name="creditrefund"></a>Kredit/återbetalning
 
@@ -36,4 +36,4 @@ När licenser tas bort från en prenumeration tillämpas den oanvända tiden fö
 
 **En proportionell kredit återbetalas till dig under nästa faktureringsperiod.**
 
-Mer information finns i [uppsägnings- och återbetalningsprocessen](/microsoft-365/commerce/subscriptions/cancel-your-subscription). 
+Mer information finns i [uppsägnings- och återbetalningsprocessen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription). 

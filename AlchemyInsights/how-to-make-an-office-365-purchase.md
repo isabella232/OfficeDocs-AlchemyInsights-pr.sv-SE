@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, drjones
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 9f72d1947808c508759a19d3481b5f15da409961
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689100"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896949"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Så här gör du ett Microsoft 365 köp
 
@@ -30,7 +30,7 @@ Du kan köpa Microsoft 365 prenumeration i administrationscentret.
 - Om du vill köpa fler licenser går du **till sidan** \> **[Fakturering dina](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter. Välj den prenumeration du vill ändra och välj sedan **Köp licenser**.\
 **Titta på en video** som visar hur du gör detta: [Köpa nya licenser](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Mer information finns i Köpa [eller ta bort licenser.](/microsoft-365/commerce/licenses/buy-licenses)
+Mer information finns i Köpa [eller ta bort licenser.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Felsökning**
 
@@ -38,5 +38,5 @@ Om du får problem med att läsa in sidan kan du försöka att öppna webbsidan 
 
 **Ytterligare resurser**
   
-- [Tilldela användare licenser i Microsoft 365 för företag](/microsoft-365/admin/add-users/add-users)
-- [Avbryt Microsoft 365 för företag](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Tilldela användare licenser i Microsoft 365 för företag](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Avbryt Microsoft 365 för företag](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
