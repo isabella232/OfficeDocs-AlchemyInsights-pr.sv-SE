@@ -15,18 +15,18 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: 6d491718291940175fe7f319ba6eebf1c4011577e7e15802725a3c5baa77db25
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b56a623a70f1a51e501291c0babf7d45eecee4eb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900154"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321699"
 ---
 # <a name="suspend-or-pause-licenses"></a>Inaktivera eller pausa licenser
 
 **Titta på en video** som visar hur du gör detta: [Ta bort befintliga licenser](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-Om du vill upphäva eller pausa din licensanvändning tillfälligt kan du ta bort licenser från Administrationscenter för Microsoft 365 och sedan lägga till dem igen vid ett senare tillfälle.
+Om du vill upphäva eller pausa licensanvändningen tillfälligt kan du ta bort licenser från Administrationscenter för Microsoft 365 och sedan lägga till dem igen vid ett senare tillfälle.
 
 1. Innan du tar bort licenser från din prenumeration måste du [först ta bort licenser från användare.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)
 2. Gå sedan till sidan **Fakturering**  >  [dina](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.

@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 88d28898923c1381c001c15445da90901b7e8761
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893609"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320461"
 ---
 # <a name="retrieve-the-audit-logs"></a>Hämta granskningsloggarna
 
 När du först öppnar granskningsloggen är den tom. Du måste göra en sökning för att se vad som finns där. Gör så här för att göra en allmän sökning för alla aktiviteter:
 
 1. Gör något av följande:
-   - I Microsoft 365 Efterlevnadscenter på <https://compliance.microsoft.com> går du till **Granskning av** \> **lösningar.** Du kan också använda om du vill **gå direkt** till sidan <https://compliance.microsoft.com/auditlogsearch> Granskning.
+   - I Microsoft 365 Efterlevnadscenter på <https://compliance.microsoft.com> går du till  \> **Lösningsgranskning.** Du kan också använda om du vill **gå direkt** till sidan <https://compliance.microsoft.com/auditlogsearch> Granskning.
    - Gå till Microsoft 365 Defender i <https://security.microsoft.com> portalen .  Du kan också använda om du vill **gå direkt** till sidan <https://security.microsoft.com/auditlogsearch> Granskning.
 
 2. Konfigurera **följande** inställningar på **fliken** Sök på sidan Granskning:

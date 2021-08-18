@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: d16389ca577970deaf743255f75dc86134e79dcab2fff8c33987532fc7ee1105
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 14f1454ad687b4d76cf419583b442685fa19b5a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890452"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321771"
 ---
 # <a name="enable-smtp-authentication-and-troubleshooting"></a>Aktivera SMTP-autentisering och felsökning
 
-Om du vill aktivera SMTP-autentisering för en postlåda eller om du får felet "Klienten är inte autentiserad", "Autentiseringen lyckades inte" eller "SmtpClientAuthentication" med koden 5.7.57 eller 5.7.3 eller 5.7.139 när du försöker vidarebefordra e-post genom att autentisera en enhet eller ett program med Microsoft 365 utför du följande tre åtgärder för att lösa problemet:
+Om du vill aktivera SMTP-autentisering för en postlåda eller om du får felet "Klienten är inte autentiserad", "Autentiseringen misslyckades" eller "SmtpClientAuthentication" med koden 5.7.57 eller 5.7.3 eller 5.7.139 när du försöker vidarebefordra e-post genom att autentisera en enhet eller ett program med Microsoft 365 utför du följande tre åtgärder för att lösa problemet:
 
 1. Inaktivera [Azure-säkerhetsstandarder genom](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) att ändra **Aktivera standardinställningar för säkerhet** till **Nej.**
 
@@ -40,6 +40,6 @@ Om du vill aktivera SMTP-autentisering för en postlåda eller om du får felet 
 
 3. [Inaktivera Multi-Factor Authentication (MFA)](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) för den licensierade postlådan.
 
-    a. Gå till Administrationscenter för Microsoft 365 och välj Användare aktiva användare i den **vänstra**  >  **navigeringsmenyn.**<BR/>
+    a. Gå till Administrationscenter för Microsoft 365 och välj Användare aktiva användare i den  >  **vänstra navigeringsmenyn.**<BR/>
     b. Välj **Multifaktorautentisering**.<BR/>
     c. Markera användaren och inaktivera **Multi-Factor Auth.**<BR/>
