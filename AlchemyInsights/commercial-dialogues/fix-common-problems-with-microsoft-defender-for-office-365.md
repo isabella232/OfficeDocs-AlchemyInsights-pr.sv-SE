@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c5043bcd3d40dccc76b348f436001408e42ee7f9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898262"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330078"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Åtgärda vanliga problem med Microsoft Defender för Office 365
 
@@ -25,7 +25,7 @@ Här är några lösningar på vanliga problem med Microsoft Defender för Offic
 
 - **Meddelandefördröjning:**
 
-  Fördröjningar i e-postleveransen kan Valv av meddelanden. Mer information finns i Valv [för bifogade filer.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
+  Fördröjningar i e-postleveransen kan Valv av meddelanden. Mer information finns i Valv [principinställningar för bifogade filer.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
 
 - **Rapportera falska positiva eller negativa resultat:**
 
@@ -33,7 +33,7 @@ Här är några lösningar på vanliga problem med Microsoft Defender för Offic
 
 - **Aktivera Valv länkskydd:**
 
-  1. I portalen Microsoft 365 Defender på går du till E-& för samarbete & principer för <https://security.microsoft.com/>  \>  \> **hot** \> **Valv länkar** i **avsnittet** Principer.
+  1. I portalen Microsoft 365 Defender på går du till E-& för samarbete & principer för hot <https://security.microsoft.com/>  \>  \>  \> **Valv i** **avsnittet** Principer.
 
      Om du vill gå **direkt Valv sidan** Länkar använder du <https://security.microsoft.com/safelinksv2> .
 
@@ -45,4 +45,4 @@ Här är några lösningar på vanliga problem med Microsoft Defender för Offic
      - Aktivera Välj **åtgärden för okända potentiellt skadliga URL-adresser i meddelanden.**
      - Välj **Använd säkra länkar för meddelanden som skickas inom organisationen.**
 
-  Mer information finns i Konfigurera [principer Valv Länkar i Microsoft Defender för Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+  Mer information finns i Konfigurera [principer Valv länkar i Microsoft Defender för Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)

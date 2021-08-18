@@ -16,12 +16,12 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: 5fabc89dcca3a35d285e5677287dc890c0b3788d29d2ba9c8e2c106fd5672fc5
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 44eb3b09d899f274f29acc777bec50072815b70c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899134"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328176"
 ---
 # <a name="when-is-my-credit-card-charged"></a>När debiteras mitt kreditkort?
 
@@ -29,4 +29,4 @@ Med ett inledande köp kan det ta upp till två dagar innan debiteringsavgiften 
   
 Återkommande debiteringar görs inom en dag från det att fakturan skapas.
   
-Om debitering inte fungerar fortsätter systemet att försöka lösa saldot under de kommande veckorna. Du kan när som helst uppdatera din betalningsinformation för att försäkra dig om att nästa försök till debitering lyckas. Mer information finns i [Hantera betalningsmetod](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Om debitering inte fungerar fortsätter systemet att försöka lösa saldot under de kommande veckorna. Du kan när som helst uppdatera din betalningsinformation för att säkerställa att nästa försök till debitering lyckas. Mer information finns i [Hantera betalningsmetod](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

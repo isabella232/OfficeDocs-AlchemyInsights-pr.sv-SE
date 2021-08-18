@@ -15,24 +15,22 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 1e64961a3f5b688d71f1931a2f0cee802007b47c8094b69b325a1d1e123c8dbe
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3942acf1cc4f62ad4368bbccc9c616deba17601c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892445"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330686"
 ---
 # <a name="update-credit-card-information"></a>Uppdatera kontokortsinformation
 
 1. Gå till sidan **Fakturering** \> [Betalningsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806) i Microsoft 365-administrationscentret.
 
-    > [!NOTE]
-    > Om du hamnar i en loop som skickar tillbaka dig till administratörshemsida innan uppdateringarna är klara kan du prova läget Inprivate eller Inkognito.
+    **Obs!** Om du får en loop som skickar dig tillbaka till startsidan för admin innan uppdateringarna är klara kan du prova inprivate- eller inkognitoläget.
   
 2. Välj ett kreditkort du vill uppdatera.
 
-    > [!NOTE]
-    > Om betalningsmetoden har lagts till av en annan administratör kan du inte uppdatera kreditkorts- eller bankkontoinformationen för den. Om kreditkortet håller på att gå ut och den andra administratören inte har möjlighet att uppdatera det, kan du förhindra att tjänsten avbryts genom att lägga till ett annat kreditkort eller ett nytt bankkonto för prenumerationen genom att välja **Lägg till betalningsmetod**.
+    **Obs!** Om en annan administratör har lagt till betalningsmetoden kan du inte uppdatera kreditkorts- eller bankkontoinformationen för den. Om kreditkortet håller på att gå ut och den andra administratören inte har möjlighet att uppdatera det, kan du förhindra att tjänsten avbryts genom att lägga till ett annat kreditkort eller ett nytt bankkonto för prenumerationen genom att välja **Lägg till betalningsmetod**.
   
 3. I fönstret **Information om betalningsmetod** väljer du **Redigera**. 
 

@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 8ae1c6853f41790efc3b24a9dc696bccf8385967d8c9219a1200e287e6ce32a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b15a72ced4921b3df1b7105837592781188a2a25
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949585"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327992"
 ---
 # <a name="automatically-encrypt-certain-office-365-email-messages"></a>Kryptera vissa e-Office 365 automatiskt
 
 Du kan automatiskt kryptera meddelanden som användare skickar till vissa externa personer eller organisationer. Gör så här:
 
-1. Välj [E Exchange flödesregler](https://outlook.office365.com/ecp/)i **administrationscentret för e>.** 
+1. I [administrationscentret Exchange du](https://outlook.office365.com/ecp/)E-postflödesregler **>**. 
 2. Klicka på **ikonen Nytt (+)** och sedan på Tillämpa skydd **Meddelandekryptering i Office 365 rättigheter och meddelanden.**
 3. Ange **ett** namn på regeln i Namn, till exempel Kryptera meddelanden *som skickas till DrToniRamos@gmail.com*.
-4. I **Använd den här regeln om** väljer du mottagaren > är den här **personen**. 
+4. I **Använd den här regeln** om väljer du mottagaren > är den här **personen**. 
 5. I fönstret **Välj medlemmar** väljer du namnet på den person som du vill att krypteringsregeln ska gälla för och klickar sedan på lägg **till**. 
 6. När du har lagt till alla användare klickar du på **OK.**
 7. Klicka på **Markera ett bredvid** Gör följande **fält.** 
@@ -35,8 +35,7 @@ Du kan automatiskt kryptera meddelanden som användare skickar till vissa extern
 9. Välj valfritt val (i en lista med valfria val som du kan göra i det här läget. Många av dem kan lämnas med standardinställningen för enkelhetens skull).
 10. Klicka på **Spara**.
 
-> [!IMPORTANT]
-> Du kan alltid gå tillbaka och redigera regeln senare.
+**Viktigt:** Du kan alltid gå tillbaka och redigera den här regeln senare.
 
-Mer information om hur du skapar regler för kryptering finns i Definiera [e-postflödesregler för att kryptera e-postmeddelanden i Office 365.](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
+Mer information om hur du skapar regler för kryptering finns i Definiera [e-postflödesregler för att kryptera e-postmeddelanden i Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email).
 

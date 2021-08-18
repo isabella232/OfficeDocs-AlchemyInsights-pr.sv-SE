@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: 035c5301ebd06b1d39d0dd7e2f00ce058505c69f05630d7ad27fb5476ab4ef24
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 310d8b5630ad5f520567c357656ded915d6768cd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901754"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330190"
 ---
 # <a name="canceling-your-subscription"></a>Vill du avbryta prenumerationen?
 
@@ -30,7 +30,6 @@ Vi beklagar att du avslutar din prenumeration, men om du vill avbryta prenumerat
   
 **Återbetalning: En återbetalning i procent återbetalas till dig under nästa faktureringsperiod.**
 
-> [!NOTE]
-> Om du inte ser alternativet för att avbryta prenumerationen väljer du prenumerationen för att visa informationssidan. I avsnittet **Inställningar för prenumeration och** betalning väljer du Avbryt **prenumeration.**
+**Obs!** Om du inte ser alternativet för att avbryta prenumerationen väljer du prenumerationen för att visa informationssidan. I avsnittet **Inställningar för prenumeration och** betalning väljer du Avbryt **prenumeration.**
 
 Mer information finns i [Avsluta din prenumeration.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

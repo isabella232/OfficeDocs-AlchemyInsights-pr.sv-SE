@@ -15,16 +15,16 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5778"
-ms.openlocfilehash: e50b9f1c388758bfe91652be734661170d36660fc8f30a3bd2d77e189e8bd813
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: dd2771143980b7a9652bf2323b08e5c8019fc1b1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888908"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328120"
 ---
 # <a name="assign-microsoft-defender-for-office-365-licenses"></a>Tilldela Microsoft Defender för Office 365 licenser
 
-Microsoft Defender för Office 365 användare kan tilldelas till användare i Microsoft 365 Admin Center.
+Microsoft Defender för Office 365 kan tilldelas till användare i Microsoft 365 Admin Center.
 
 1. Gå till **Faktureringslicenser.**  >  [](https://go.microsoft.com/fwlink/p/?linkid=842264)
 2. Välj en produkt som du vill tilldela licenser för.

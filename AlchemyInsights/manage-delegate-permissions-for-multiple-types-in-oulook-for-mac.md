@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7302"
-ms.openlocfilehash: 82701833c05b1fb4d72cb972a767bca23033e898114f19695f42a116239c2221
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d3b5913997f7d94b94cd1625dd699fa1e626acb3
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53962905"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329752"
 ---
 # <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>Hantera behörigheter för ombud för flera objekttyper i Outlook för Mac
 
@@ -27,5 +27,4 @@ ms.locfileid: "53962905"
 3. Under **Ombud ,** som visar en lista över ombud som kan agera för, väljer du ombudet.
 4. Klicka på **knappen** Åtgärd, klicka **på Ange** behörigheter och gör sedan de ändringar du vill.
 
-> [!NOTE]
-> Om du ställer in behörighetsnivå till **Ingen** är ombudet fortfarande kvar i listan, vilket gör att du kan återställa behörigheter senare.
+**Obs!** Om du ställer in behörighetsnivå till **Ingen** finns ombudet kvar i listan, vilket gör att du kan återställa behörigheter senare.
