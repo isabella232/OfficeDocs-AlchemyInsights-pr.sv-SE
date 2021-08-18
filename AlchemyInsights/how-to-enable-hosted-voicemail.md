@@ -1,5 +1,5 @@
 ---
-title: Så här aktiverar du röst brev låda
+title: Så här aktiverar du Värd för röstmeddelanden
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4042e042554f78febff2073fde6f14db72a6d4e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679164"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318666"
 ---
-# <a name="how-to-enable-hosted-voicemail"></a>Så här aktiverar du röst brev låda
+# <a name="how-to-enable-hosted-voicemail"></a>Så här aktiverar du Värd för röstmeddelanden
 
-För att aktivera röst brev låda måste **HostedVoicemail** vara inställt på $True.
+För att kunna aktivera **röstmeddelanden måste HostedVoicemail** vara inställt på $true.
 
-Egenskapen **HostedVoicemail** för användaren med Remote POWERSHELL (RPS).
+Egenskapen **HostedVoicemail** för användaren som använder Remote PowerShell (RPS).
 
-Mer information om hur du ansluter till RPS finns i [Microsoft Teams PowerShell-översikten](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) för att få mer information om hur du ansluter till RPS.
+Mer information om hur du ansluter till RPS finns i [Microsoft Teams PowerShell-översikt](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) för mer information om hur du ansluter till RPS.
 
-1. Teams-administratören bör vara inloggad i fjärr-PowerShell för Teams.
-1. Från PowerShell uppmana team administratören att köra **set-csuser user@contoso.com-HostedVoiceMail $True** där SIP URI är av en användare.
+1. Administratören Teams vara inloggad på Remote PowerShell för Teams.
+1. Från PowerShell-kommandotolken kan Teams-administratör köra **set-csuser user@contoso.com -HostedVoiceMail $true** där sip uri är för den användaren i fråga.
 
-> [!NOTE]
-> Ändringar i policyn kan ta upp till 24 timmar att replikera.
+**Obs!** Det kan ta upp till 24 timmar innan ändringar av principer replikeras.
