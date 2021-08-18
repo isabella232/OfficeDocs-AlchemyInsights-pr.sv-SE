@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5719"
-ms.openlocfilehash: bf44c6f283a52fdcef2f231143177dc880b06d8a
-ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
+ms.openlocfilehash: 72eefe436b3ad138add0cf4fd72f912b69298bd93e4b352d5802f015ec94cbc3
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "52694758"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897918"
 ---
 # <a name="recover-deleted-items-from-exchange-admin-center"></a>Återskapa borttagna objekt i Administrationscenter för Exchange
 
@@ -29,4 +29,4 @@ I den förenklade och [uppdaterade postlådehanteraren](https://admin.exchange.m
     - Du kan behöva gå till **mer** i rullgardinsmenyn för att visa **Återskapa borttagna objekt**.
 4. Använd filteralternativen för att hitta de objekt du behöver återskapa.
 
-Mer information finns i Använda [nya EAC för att återställa borttagna meddelanden.](/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages#use-new-eac-for-recovering-deleted-messages)
+Mer information finns i Använda [nya EAC för att återställa borttagna meddelanden.](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages#use-new-eac-for-recovering-deleted-messages)

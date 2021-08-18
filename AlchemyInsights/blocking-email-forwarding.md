@@ -1,5 +1,5 @@
 ---
-title: 726 blockerar e-postvidarebefordran
+title: Blockera eller avblockera extern automatisk vidarebefordran av e-post
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 610013c4f46e999f1a8715aea14dd557ed8b0e2a
-ms.sourcegitcommit: 88f24bb6ced16842de165af416e3f21feae13063
+ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "48478324"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897486"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>Blockera eller avblockera e-postvidarekoppling
+# <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Blockera eller avblockera automatisk vidarebefordran av e-post
 
-Information om hur du aktiverar och inaktiverar e-postvidarekoppling för en viss post låda finns i [Konfigurera e-postvidarekoppling](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
+Information om hur du aktiverar eller inaktiverar vidarebefordran av e-post för en viss postlåda finns i [Konfigurera vidarebefordran av e-post.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
 
-På klient organisations nivå sker kontrollen av extern vidarebefordring med den utgående skräp posten. Du kan kontrol lera filtrerings principen för utgående e-post från säkerhets-och Compliance Center [här](https://protection.office.com/antispam) eller med [kommandot Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
+Administratörer kan styra extern vidarebefordran för organisationen med hjälp av [principer för utgående skräppost.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy) Du hanterar principer för utgående skräppost i Microsoft 365 Defender-portalen på eller med <https://security.microsoft.com/antispam> cmdleten [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) i Exchange Online PowerShell.
 
-Om du får följande fel meddelande: **"550 5.7.520 åtkomst nekad, tillåter din organisation inte extern vidarebefordran"**, kontrol lera att principen är konfigurerad för att aktivera extern automatisk vidarebefordring.
+Om du får följande felmeddelande: **"550 5.7.520 Access denied, Your organization does not allow external forwarding"**, kontrollerar du att principen är konfigurerad för att aktivera externa meddelanden som vidarebefordras automatiskt.
 
-**Obs!** Du rekommenderas att behålla den externa funktionen för utgående e-post som är inaktive rad som standard och aktivera den för användare som behöver extern vidarebefordran genom att skapa en egen princip för dessa användare. Du kan läsa mer om hur du [konfigurerar extern vidarebefordran av e-post i Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
+**Obs!** Vi rekommenderade standardvärdet Automatisk –  **System** reglerad för inställningen Automatiska vidarebeskickningsregler i standardprincipen för skräppostfilter för utgående trafik (automatisk extern vidarebefordran blockeras, intern automatisk vidarebefordran fungerar fortfarande). Du bör skapa egna principer för skräppostfilter och använda värdet På **– Vidarebefordran** är endast aktiverat för användare som behöver extern automatisk vidarebefordran av e-post. Mer information finns i Konfigurera [vidarebefordran av extern e-post i Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).

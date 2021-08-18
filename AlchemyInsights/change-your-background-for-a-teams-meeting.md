@@ -1,5 +1,5 @@
 ---
-title: Ändra bakgrunden för ett Teams-möte
+title: Ändra bakgrunden för ett Teams möte
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001720"
 - "7948"
-ms.openlocfilehash: 6c9d7f37210b83e9315648bb9f4de21269afd867
-ms.sourcegitcommit: 0810dec217a876b7c307ab8b22ad0a4d2712fbdf
+ms.openlocfilehash: 340b197f21f48122ba1fdc60e1ce7cfb0f75f432
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917258"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315856"
 ---
-# <a name="change-your-background-for-a-teams-meeting"></a>Ändra bakgrunden för ett Teams-möte
+# <a name="change-your-background-for-a-teams-meeting"></a>Ändra bakgrunden för ett Teams möte
 
-Om du vill ändra vad som visas bakom dig i videon kan du antingen sudda ut bakgrunden eller ersätta den helt med vilken bild som helst.
+Om du vill ändra vad som visas bakom dig i videon kan du antingen göra bakgrunden oskarp eller ersätta den helt med en bild du vill ha.
 
-Om du vill veta mer om hur du ändrar bakgrunden, antingen före eller under ett möte, läser du [ändra bakgrunden för ett Teams-möte](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780).
+Mer information om hur du ändrar bakgrund, antingen före eller under ett möte, finns i Ändra [bakgrunden för ett Teams möte.](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
 
-> [!NOTE]
-> För närvarande kan Linux-användare inte använda den här funktionen. Du kan inte heller använda bakgrunds effekter om du använder Teams via en optimerad virtuell Skriv bords infrastruktur (VDI).
+**Obs!** Linux-användare kan för tillfället inte använda den här funktionen. Bakgrundseffekter är inte heller tillgängliga om du använder Teams optimerad infrastruktur för virtuella skrivbordet (VDI).

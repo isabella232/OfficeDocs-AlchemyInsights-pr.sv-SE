@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: 8bc0737711820a1d45c5ab81625cede5285577b16225497a3e86e64b3cf24ed1
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 13d4591fee375ed2ebbbef68220292f910c5eb3d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883069"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315974"
 ---
 # <a name="admin-password-reset"></a>Återställning av administratörslösenord
 
 - Använd [Självbetjäning av lösenordsåterställning](https://passwordreset.microsoftonline.com/) (SSPR) för att återställa ditt administratörslösenord.
 
-- Om du har glömt ditt lösenord men är inloggad med cachelagrade autentiseringsuppgifter lägger du till eller ändrar din säkerhetsinformation i Mitt konto [>](https://mysignins.microsoft.com/security-info)Säkerhetsinformation och återställer sedan lösenordet med [SSPR.](https://passwordreset.microsoftonline.com/) (De flesta konton kräver att du har ett alternativt e-postadress och telefonnummer för att återställa det).
+- Om du har glömt ditt lösenord men är inloggad med cachelagrade autentiseringsuppgifter kan du lägga till eller ändra din säkerhetsinformation på Mitt konto [> Säkerhetsinformation](https://mysignins.microsoft.com/security-info)och sedan återställa lösenordet med [SSPR.](https://passwordreset.microsoftonline.com/) (De flesta konton kräver att du har ett alternativt e-postadress och telefonnummer för att återställa det).
 
 - Om du har glömt användarnamnet kan du söka efter din alternativa/personliga e-post för ”.onmicrosoft.com” för att hitta ett e-postadress som kan ha det.  Du kan också hitta användarnamn i Office 365-program i det övre högra menyfliksområdet eller genom att gå till **Arkiv > Konto**.
 

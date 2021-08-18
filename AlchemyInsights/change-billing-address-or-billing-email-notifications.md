@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, tugu
+ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,18 +16,18 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: 4dd0257f7dd87cfe3a47c0206aa6225f95fe1770
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: c145a5366ef173dbf82521e91d5cf032a26e2e7fa09d8e0061ec03887a2a3124
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685680"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897434"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Ändra faktureringsadress eller e-postaviseringar för fakturering
 
 **Ändra din Bill-To adress**
 
-1. I administrationscentret går du till sidan **> [Betalningsmetoder.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
+1. I administrationscentret går du till **sidan > [Betalningsmetoder.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 
 2. Välj kreditkortet eller bankkontot som du vill ändra.
 
@@ -45,4 +45,4 @@ ms.locfileid: "53685680"
 
 4. I rutan **Alternativ e-postadress** anger du den alternativa e-postadress som du vill använda och klickar sedan på **Spara.**
 
-Mer information om adress- och meddelandeändringar finns i [Ändra dina faktureringsadresser för Microsoft 365 för företag.](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+Mer information om adress- och meddelandeändringar finns i [Ändra dina faktureringsadresser för Microsoft 365 för företag.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
