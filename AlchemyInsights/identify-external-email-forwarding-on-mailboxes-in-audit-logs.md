@@ -13,31 +13,33 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1e80917a323128ba23175651cdf4d892d7815a89c1223b654812c1b456c787da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54028773"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899902"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identifiera när extern vidarebefordran av e-post konfigureras för postlådor
 
-När en Microsoft 365 konfigurerar extern vidarebefordran av e-post för en postlåda granskas aktiviteten som en del av cmdleten **Set-Mailbox.** Du kan se aktiviteten med hjälp av granskningsloggsökning i Säkerhets- & efterlevnadscenter.
+När en Microsoft 365 konfigurerar extern vidarebefordran av e-post för en postlåda granskas aktiviteten som en del av cmdleten **Set-Mailbox.** Du kan se aktiviteten med hjälp av granskningsloggsökning. Så här gör du.
 
-1. Logga in på [Microsoft 365 Kompatibilitetscenter.](https://protection.office.com/)
+1. Gör något av följande:
+   - I Microsoft 365 Efterlevnadscenter på <https://compliance.microsoft.com> går du till **Granskning av** \> **lösningar.** Du kan också använda om du vill **gå direkt** till sidan <https://compliance.microsoft.com/auditlogsearch> Granskning.
+   - Gå till Microsoft 365 Defender i <https://security.microsoft.com> portalen .  Du kan också använda om du vill **gå direkt** till sidan <https://sip.security.microsoft.com/auditlogsearch> Granskning.
 
-2. Gå till sidan **Sök**  >  **granskningsloggsökning.**
+2. På sidan **Granska** kontrollerar du att **fliken Sök** är markerad och konfigurerar sedan följande inställningar:
+   - Välj datum-/tidsintervallet i **rutorna Start** **och** Slut.
+   - Kontrollera att **rutan** Aktiviteter innehåller **Visa resultat för alla aktiviteter.**
 
-3. Välj datumintervallet i **fälten Startdatum** **och** Slutdatum. Du behöver inte ange ett användarnamn. Kontrollera att **fältet** Aktiviteter är inställt **på Visa resultat för alla aktiviteter.**
+3. När du är klar klickar du på **Sök**. Aktiviteterna visas på den nya **sidan Granskningssökning.**
 
-4. Klicka **på Sök**.
+4. I resultatet klickar du på **Filtrera resultat** och **skriver Set-Mailbox** i aktivitetsfilterrutan.
 
-I resultatet klickar du på **Filtrera resultat** och **skriver Set-Mailbox** i aktivitetsfilterrutan. Välj en granskningspost i resultatet. Klicka på **Mer** information i den **utfällna menyn Information.** Du måste granska informationen för varje granskningspost för att avgöra om aktiviteten är relaterad till vidarebefordran av e-post.
+5. Välj en granskningspost i resultatet. Klicka på **Mer** information i den **utfällna menyn Information.** Du måste granska informationen för varje granskningspost för att avgöra om aktiviteten är relaterad till vidarebefordran av e-post.
 
-- **ObjectId:** Aliasvärdet för postlådan som ändrades.
+   - **ObjectId:** Aliasvärdet för postlådan som ändrades.
+   - **Parametrar:** _ForwardingSmtpAddress_ anger målets e-postadress.
+   - **UserId:** Användaren som konfigurerade vidarebefordran av e-post för postlådan i **fältet ObjectId.**
 
-- **Parametrar:** _ForwardingSmtpAddress_ anger målets e-postadress.
-
-- **UserId:** Användaren som konfigurerade vidarebefordran av e-post för postlådan i **fältet ObjectId.**
-
-Mer information finns i Fastställa [vem som har konfigurerat vidarebefordran av e-post för en postlåda.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)
+Mer information finns i Fastställa [vem som har konfigurerat vidarebefordran av e-post för en postlåda.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)
