@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 6eb59d16a1dab2de0e7a44faf9b34be6432342f9e20c94b6932e69e937751add
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 13865acb75b60a824c1dde9427c11471e980ea9e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892021"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324462"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>Problem med att ta bort en offboardad eller inaktiverad enhet från enhetsinventeringen
 
@@ -26,7 +26,7 @@ Microsoft Defender för Slutpunkt tillåter för närvarande inte att enhetspost
 
 Av säkerhetsskäl finns enheten kvar i portalen som en historisk post i upp till 180 dagar. Men enhetens data rensas enligt din konfigurerade lagringstid.
 
-**Obs!** En offboarded eller inaktiv enhet växlar automatiskt till **inaktivt** läge efter sju dagar. Dessutom räknas inte enheter som inte är aktiva de senaste 30 dagarna in i de data som återspeglar din organisation Hantering av hot och säkerhetsrisker exponeringsresultat eller Microsoft Secure Score för enheter.
+**Obs!** En offboarded eller inaktiv enhet växlar automatiskt till **inaktivt** läge efter sju dagar. Dessutom indelades inte enheter som är aktiva de senaste 30 dagarna i de data som återspeglar din organisation Hantering av hot och säkerhetsrisker exponeringsresultat eller Microsoft Secure Score för enheter.
  
 Om du fortfarande inte vill se vissa enheter i vyn Enhetsinventering kan du prova att placera en enhetstagg för att filtrera bort den inaktiverade enheten från vyn Enhetsinventering.
 

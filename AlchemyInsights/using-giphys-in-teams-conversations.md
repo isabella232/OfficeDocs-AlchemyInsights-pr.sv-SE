@@ -1,5 +1,5 @@
 ---
-title: Använda Giphys i Teams-konversationer
+title: Använda Giphys i Teams konversationer
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 2fc29974bff9484c226c9651b9b000a89cad14dc
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 296c2f80d35f1c93ab3c60e0be65fd96c953ca81
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982576"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323538"
 ---
-# <a name="using-giphys-in-teams-conversations"></a>Använda Giphys i Teams-konversationer
+# <a name="using-giphys-in-teams-conversations"></a>Använda Giphys i Teams konversationer
 
-Giphys Access in Teams-chatt är aktiverat som standard. Som administratör kan du kontrol lera om Giphys är tillgängliga för användare genom att [Ange en meddelande princip](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) och kontrol lera att **Använd Giphys i konversationer** är **aktiverat**.
+Giphys åtkomst i Teams chatt är aktiverad som standard. Som administratör kan du styra om Giphys [](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) är tillgänglig för användare genom att ange en meddelandeprincip och se till att Använd **Giphys** i konversationer **är På.**
 
-Om GIF inte fungerar som förväntat i Teams-konversationer ska du kontrol lera:
+Om GIF-filer inte fungerar som förväntat i Teams konversationer kontrollerar du följande:
 
-[Meddelande princip](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) måste tillåta Giphys. Så här verifierar du med PowerShell-cmdletar:
+[Meddelandeprincipen](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) måste tillåta Giphys. Så här verifierar du med hjälp av PowerShell-cmdlets:
 
-- Kontrol lera att du kan [hantera team med PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell).
-- Kör PowerShell-kommandot [Get-CsTeamsMessagingPolicy-Identity global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) och kontrol lera att **AllowGiphy** är inställt på **True**.
-- Om **AllowGiphy** är inställt på **false** kör du följande PowerShell- [AllowGiphy $True](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps).
+- Kontrollera att du kan [hantera Teams med PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell)
+- Kör [PowerShell-kommandot Get-CsTeamsMessagingPolicy -Identity Global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) och kontrollera att **AllowGiphy** är inställt på **SANT.**
+- Om **AllowGiphy** är inställt på **FALSKT** kör du följande [PowerShell-kommando Set-CsTeamsMessagingPolicy -Identity Global -AllowGiphy $True](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps).
 
-[Valfri ansluten upplevelse](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) måste aktive ras för att tillåta åtkomst till GIPHY-URL: en.
+[Valfri anslutna upplevelser](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) måste aktiveras för att tillåta åtkomst till GIPHY URL.
 
-> [!NOTE]
-> Om du har flera team meddelande principer konfigurerade för din klient organisation kan du bestämma identiteten för den princip som tilldelats den påverkade användaren med PowerShell [-kommandot Get-CsOnlineUser-Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Välj TeamsMessagingPolicy.
+**Obs!** Om du har flera Teams Messaging-principer konfigurerade för klientorganisationen kan du fastställa identiteten för principen som tilldelats den påverkade användaren med [PowerShell-kommandot Get-CsOnlineUser -Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Välj TeamsMessagingPolicy.

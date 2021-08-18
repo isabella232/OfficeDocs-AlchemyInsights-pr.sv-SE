@@ -13,24 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: df5acfc38095f03eeeff379d51a72332dcf366e3786ab0ff7ffcd655cbafd1cf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b19b3cf229fd67f1df2b58b387b1f74818e35f48
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967387"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324787"
 ---
 # <a name="publish-sensitivity-labels"></a>Publicera känslighetsetiketter
 
 Så här publicerar du känslighetsetiketter:
 
-1. Välj **Office 365 Säkerhets- & Kompatibilitetscenter > Och > Känslighetsetiketter**.
+1. Välj **Office 365 Säkerhets- & Säkerhetscenter > och > känslighetsetiketter**.
 2. På sidan **Känslighetsetiketter** klickar du på **fliken Etikettprinciper.**
 3. Klicka på **Publicera etiketter**.
 4. Klicka **på Välj känslighetsetiketter för att publicera**. 
 5. Välj de etiketter som du vill göra tillgängliga i appar och tjänster och klicka sedan på Lägg **till.**
-> [!IMPORTANT]
-> Om du väljer en underetikett bör du se till att även välja dess överordnade etikett.
+
+**Viktigt:** Om du väljer en underetikett bör du se till att även välja dess överordnade etikett.
+
 6. Granska de markerade etiketterna. Om du vill göra några ändringar klickar du **på Redigera**. annars klickar du **på Nästa.**
 7. Följ anvisningarna för att konfigurera principinställningarna.
 8. Upprepa de här stegen om du behöver olika principinställningar för olika användare eller platser. Du kanske till exempel vill använda ytterligare etiketter för en grupp användare eller en annan standardetikett för en del av användarna.

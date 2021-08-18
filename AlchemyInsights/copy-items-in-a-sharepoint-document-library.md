@@ -14,18 +14,17 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: b2d4b162bda70906bf50df51df85e6ee032832f5
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: f65b7934be0a6cc8b0e8daf5ad46c7232f25c715
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683848"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325739"
 ---
 # <a name="copy-files-in-sharepoint-and-onedrive"></a>Kopiera filer i SharePoint och OneDrive
 
-Du kan kopiera filer från webbläsare till olika platser i SharePoint och OneDrive.
+Du kan kopiera filer från webbläsaren till olika platser inom SharePoint och OneDrive.
 
 Mer information finns i [Flytta eller kopiera](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)
 
-> [!NOTE]
-> **Kopiera till** är inte tillgängligt om du använder den klassiska versionen av SharePoint Online.
+**Obs!** **Kopiera till** är inte tillgängligt om du använder det klassiska SharePoint Online.

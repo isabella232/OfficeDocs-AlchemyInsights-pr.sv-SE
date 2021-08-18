@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003587"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325481"
 ---
 # <a name="enable-cost-management"></a>Aktivera kostnadshantering
 
@@ -34,8 +34,7 @@ När de har loggat in på Azure Portal kan de använda fakturerings-API:er för 
 2. Välj **Fakturor** och välj **sedan Åtkomst till fakturor.**
 3. Aktivera åtkomsten, följt av att spara ändringarna, så att användare i prenumerationsbaserade roller kan hämta fakturor.
 
-> [!NOTE]
-> Kontoadministratören kan också konfigurera så att fakturor skickas via e-post. Mer information finns i Hämta [din faktura via e-post.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
+**Obs!** Kontoadministratören kan också konfigurera så att fakturor skickas via e-post. Mer information finns i Hämta [din faktura via e-post.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
 
 **Lägga till användare i rollen Faktureringsläsare**
 

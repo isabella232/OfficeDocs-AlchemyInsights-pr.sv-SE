@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 2ad7568bded3c8e4832e0e433a2d715e6307e4bb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 607e27c883f83b4b29347e764b8f2273cf0f117e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814030"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325405"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Aktivera tillbakaskrivning av lösenord i Azure AD Connect
 
@@ -42,5 +42,4 @@ Med tillbakaskrivning av lösenord aktiverat i Azure AD Connect konfigurerar du 
 
 Mer information finns i [Aktivera automatisk återställning av lösenord i Azure Active Directory – tillbakaskrivning i en lokal miljö](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
 
-> [!NOTE]
->  När en administratör återställer en användares lösenord i Azure-portalen, om användaren är federerad eller lösenordets-hash är synkroniserad, skrivs lösenordet tillbaka till lokalt. Denna funktionalitet kräver Azure Premium-licens (P1 eller P2) och stöds för nuvarande inte i Office administrationsportalen.
+**Obs!** När en administratör återställer en användares lösenord i Azure Portal och användaren är synkroniserad med hash-hash- eller federering av lösenord skrivs lösenordet tillbaka lokalt. Denna funktionalitet kräver Azure Premium-licens (P1 eller P2) och stöds för nuvarande inte i Office administrationsportalen.
