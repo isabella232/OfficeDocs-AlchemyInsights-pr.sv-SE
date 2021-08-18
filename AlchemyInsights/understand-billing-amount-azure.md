@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: b0618a02d2ae74ece246b629d96b92d76e5e5718367f9055d9783c1440a7a70b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97b4138517ef84b8e7fb176a4abee44d64a56d2f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020102"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317158"
 ---
 # <a name="understand-billing-amount"></a>Förstå faktureringsbeloppet
 
@@ -70,7 +70,9 @@ Nej. Kunder får ett fast antal kostnadsfria nivåtjänster och en kredit på 20
 
 **Hur verifierar jag att de kostnadsfria tjänsterna är aktiva eller när de upphör att gälla?**
 
-I Ibiza-portalen > Prenumeration > Översiktssida > skrolla ned till Kostnadsfria tjänster i 12 månader och klicka på informationsikonen. Då visas datumet när kostnadsfria tjänster upphör att gälla **Obs**: Inga V1-tjänster är en del av de kostnadsfria Azure-tjänsterna som ingår. Den senaste listan med kostnadsfria tjänster finns i [Vilka produkter är gratis i 12 månader](http://www.microsoftazuresponsorships.com/)
+I Ibiza-portalen > Prenumeration > Översiktssida > skrolla ned till Kostnadsfria tjänster i 12 månader och klicka på informationsikonen. Datum då de kostnadsfria tjänsterna upphör att gälla
+
+**Obs!** Inga V1-tjänster är en del av azure-tjänsterna som ingår i den kostnadsfria prenumerationen. Den senaste listan med kostnadsfria tjänster finns i [Vilka produkter är gratis i 12 månader](http://www.microsoftazuresponsorships.com/)
 
 Flera vanliga frågor och svar: [Kostnadsfritt konto vanliga frågor och svar](https://azure.microsoft.com/free/free-account-faq/)
 

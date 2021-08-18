@@ -12,16 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004195"
 - "7377"
-ms.openlocfilehash: 2501046d49d8b290668bef8ea04881e8379b43ee
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+ms.openlocfilehash: f1de44682dbdc4bdfc799e0a3ac618e4c5b76bf0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679836"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317576"
 ---
 # <a name="deploy-microsoft-defender-for-endpoint"></a>Distribuera Microsoft Defender för Endpoint
 
-[Microsoft Defender för slut punkts rådgivare](https://go.microsoft.com/fwlink/?linkid=2146241) innehåller instruktioner som hjälper företagets nätverk att förhindra, upptäcka, undersöka och reagera på avancerade hot. Gör en välgrundad utvärdering av organisationens sårbarhet och bestäm vilka distributions paket och konfigurations metoder som är bäst.
+Rådgivaren [för Microsoft Defender för slutpunkt](https://go.microsoft.com/fwlink/?linkid=2146241) tillhandahåller instruktioner som hjälper företagsnätverket att förhindra, upptäcka, undersöka och hantera avancerade hot. Gör en välinformerad bedömning av organisationens sårbarhet och bestäm vilka distributionspaket och konfigurationsmetoder som passar bäst.
 
-> [!NOTE]
-> En Microsoft Volume licens krävs för Defender för slut punkten.
+**Obs!** En Microsoft-volymlicens krävs för Defender för Endpoint.
