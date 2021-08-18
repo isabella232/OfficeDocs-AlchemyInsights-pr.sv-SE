@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8279"
-ms.openlocfilehash: f1a8dba19d220e1154549507801c813f56fe5cdd
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: c069d0b4588e53250d6cc1f3a66c744ea5c12ae4
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256970"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320104"
 ---
 # <a name="device-writeback"></a>Tillbakaskrivning av enhet
 
 Tillbakaskrivning av enhet används i följande scenarier:
 
-- Aktivera [Windows Hello för företag med hjälp av distribution av hybridcertifikatförtroende](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
-- Aktivera villkorsstyrd åtkomst baserat på enheter med ADFS (2012 R2 eller senare) skyddade program (med tredjepartsförtroende)
+- Aktivera [Windows Hello för företag med hjälp av distribution av betrodda hybridcertifikat](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
+- Aktivera villkorsstyrd åtkomst baserat på enheter till ADFS-skyddade program (2012 R2 eller senare) (beroende på partens förtroenden)
 
-    > [!NOTE]
-    > En prenumeration på Azure AD Premium krävs för återskrivning av enhet.
+    **Obs!** En prenumeration på Azure AD Premium krävs för tillbakaskrivning av enhet.
 
-Det ger ytterligare säkerhet och garanti för att åtkomst till program endast beviljas betrodda enheter. Mer information om villkorsstyrd åtkomst finns i [Hantera risker](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) med villkorsstyrd åtkomst och konfigurera lokal villkorsstyrd [åtkomst med hjälp av Azure Active Directory-enhetsregistrering.](https://docs.microsoft.com/azure/active-directory/devices/overview)
+Detta ger ytterligare säkerhet och garanti för att åtkomst till program endast beviljas betrodda enheter. Mer information om villkorsstyrd åtkomst finns i Hantera [risker](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) med villkorsstyrd åtkomst och konfigurera villkorlig åtkomst lokalt med [hjälp Azure Active Directory enhetsregistrering.](https://docs.microsoft.com/azure/active-directory/devices/overview)
 
-Mer information om hur du aktiverar tillbakaskrivning av enheter för enheter finns i [Aktivera enhetsskrivning.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback)
+Mer information om hur du aktiverar enhets tillbakaskrivning för enheter finns i [Aktivera tillbakaskrivning av enhet.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback)

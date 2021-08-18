@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 5938b4f91d3459f5c41711566f8afd99f0dd28ea
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 39b1a6cfccf85ee03a804045b043e25dbdb2d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829070"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319910"
 ---
 # <a name="your-payment-was-declined"></a>Din betalning nekades
 
@@ -35,8 +35,7 @@ Microsoft försöker debitera kortet flera gånger i 3 till 4 veckor efter faktu
 
 4. Om du vill använda en befintlig betalningsmetod väljer du en i listrutan och väljer sedan **Ersätt**.
 
-    > [!NOTE]
-    > Om du har prenumerationer som är associerade till en faktureringsprofil kan du bara använda kredit- eller betalkort för att betala för dem. Om du har bankkonton listade på sidan **Betalningsmetoder**, kan de inte väljas i listrutan.
+    **Obs!** Om du har prenumerationer som är kopplade till en faktureringsprofil kan du bara använda ett kreditkort eller bankkort för att betala för dem. Om du har bankkonton listade på sidan **Betalningsmetoder**, kan de inte väljas i listrutan.
 
 5. Om du vill lägga till en ny betalningsmetod väljer du **Lägg till betalningsmetod**.
 

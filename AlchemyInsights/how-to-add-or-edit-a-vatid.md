@@ -15,17 +15,16 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: acf3231c198a611d0975fffc4ef68ac28a901488f93a695de5d8f19bebf80f25
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: e1b25562e75926ce71ad1b854a0bad0af7a4687f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868400"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319518"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Lägga till eller redigera ett momsregistrerings-ID
 
-> [!NOTE]
-> Om du befinner dig i ett land som använder moms, till exempel Storbritannien, beräknar Microsoft Invoicing momsen åt dig och tillämpar beloppet på fakturorna. Mer information finns i [VIES-ansvarsfriskrivningen](https://go.microsoft.com/fwlink/p/?LinkID=841741) som publicerats av EU.
+**Obs!** Om du befinner dig i ett land som använder moms, till exempel Storbritannien, beräknar Microsoft Invoicing momsen åt dig och tillämpar beloppet på fakturorna. Mer information finns i [VIES-ansvarsfriskrivningen](https://go.microsoft.com/fwlink/p/?LinkID=841741) som publicerats av EU.
 
 **Lägga till eller redigera ett momsregistreringsverktyg**
 
