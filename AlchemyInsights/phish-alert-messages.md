@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 2e24f489292f38b5e9cacc8b9bfe5730ebfc71ce5e3004be479134ef6c791a12
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 90b078147bbb1e60cba0a2de6e49a862469f93aa
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899350"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316376"
 ---
 # <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Avisering e-postmeddelanden från principen "Phish Delivered due to tenant or user override"
 
 En standardaviseringsprincip **med namnet Phish Delivered** på grund av åsidosättning av klientorganisation eller användare finns tillgänglig i organisationer med Microsoft Defender för Office 365 P1- och P2-licenser. Om du fick det här aviseringen finns det anvisningar för att undersöka detta:
 
-1. Från varningsmeddelandet klickar du **på Visa avisering** för att gå **till sidan** Aviseringar Microsoft 365 Defender portalen.
+1. Klicka på Visa avisering i **varningsmeddelandet** för att gå till **sidan** Aviseringar Microsoft 365 Defender portalen.
 
 2. Välj aviseringen om du vill se alternativet **Visa meddelandelista eller** **Visa meddelanden i Utforskaren**. Båda dessa alternativ tar dig till meddelandets information, som innehåller Meddelande-ID. Observera att länken Hotutforskaren automatiskt filtrerar meddelanden som matchar aviseringskriterierna. Du kan behöva justera datumfiltret i Hotutforskaren.
 
@@ -35,4 +35,4 @@ Nätfiskemeddelandet levererades på grund av en manuellt konfigurerad åsidosä
 
 Om du anser att meddelandet felaktigt har markerats som nätfiske använder du [administratörsinskick](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission) för att rapportera meddelandet till Microsoft.
 
-Användarna kan använda [tilläggen Rapportmeddelande](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) eller Nätfiskerapport i Outlook skicka exempel på meddelanden till Microsoft.
+Användarna kan använda [tilläggen Rapportmeddelande](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) eller Rapport nätfiske i Outlook skicka exempel på meddelanden till Microsoft.
