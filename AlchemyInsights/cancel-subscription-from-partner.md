@@ -1,8 +1,9 @@
 ---
 title: Avbryt prenumerationen från partner
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9001683"
 - "5078"
-ms.openlocfilehash: 4f5756932509b0b0554dbf33c268745c01fad548
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 907adaa12d960f0f5a54624b7fe9ee70a83f51d0
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819674"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58452012"
 ---
 # <a name="cancel-subscription-from-partner"></a>Avbryt prenumerationen från partner
 

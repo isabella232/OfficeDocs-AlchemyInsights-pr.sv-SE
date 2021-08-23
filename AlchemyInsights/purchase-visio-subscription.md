@@ -1,8 +1,9 @@
 ---
 title: Köp Visio-abonnemang
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,18 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "9002419"
 - "4694"
-ms.openlocfilehash: a908e7887512e78fdd8fc51e4c973989a742265c07eac1731f4d658231cd29e7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e190eaa89e7609125cc0cce7f4a6861424154dec
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53943501"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451112"
 ---
 # <a name="purchase-visio-subscription"></a>Köp Visio-abonnemang
 
-Administratörer kan köpa Visio prenumerationen för organisationen från **Administrationscenter för Microsoft 365.**
+Administratörer kan köpa Visio prenumerationen för organisationen från **Administrationscenter för Microsoft 365**.
 
 1. Gå till sidan **Fakturering** > **[Köp tjänster](https://go.microsoft.com/fwlink/p/?linkid=868433)** för att visa tillgängliga prenumerationer att köpa till organisationen.
 
