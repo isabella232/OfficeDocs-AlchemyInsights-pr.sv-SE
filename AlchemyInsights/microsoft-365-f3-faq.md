@@ -3,7 +3,7 @@ title: Vanliga frågor och svar om Microsoft 365 F3-prenumerationen och licensha
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: ?, ?
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002873"
 - "5472"
-ms.openlocfilehash: 9c429ae3646a8700cfb27e5e216c17e2d1951535
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 710ac8930b7184d230d37b599738aaa2dc541748
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688956"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58452048"
 ---
 # <a name="microsoft-365-f3-subscription-and-license-management-faq"></a>Vanliga frågor och svar om Microsoft 365 F3-prenumerationen och licenshantering
 
