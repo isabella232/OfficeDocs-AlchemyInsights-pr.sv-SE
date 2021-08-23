@@ -3,7 +3,7 @@ title: Frågor och svar Microsoft 365 E3-prenumeration
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: sctov
-ms.reviewer: ?, ?
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002554"
 - "5392"
-ms.openlocfilehash: 01d653201f05903fec0533f335d4ed228de1565f
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: a7788812f206c5836dfa46fa40c82a4a23b323ba
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686868"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58452084"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Vanliga frågor och svar om Microsoft 365 E3-prenumeration och licenshantering
 

@@ -1,7 +1,7 @@
 ---
 title: Licensreservationen visas inte
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002575"
 - "5030"
-ms.openlocfilehash: 091d635af2027f29aae66a2ef7a8c8ce77c4393d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 7250eea631c8abc11ea623ce1b7bd87b1338976c
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836477"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58452336"
 ---
 # <a name="license-reservation-does-not-show"></a>Licensreservationen visas inte
 
