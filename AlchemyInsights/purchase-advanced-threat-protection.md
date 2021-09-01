@@ -3,7 +3,6 @@ title: Köp Microsoft Defender för Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_purchase
 - "9003019"
 - "5758"
-ms.openlocfilehash: 20d241947c356b3d2b9f050f88de8af1d370d799
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 6c8670db2905471220c7030003c36f4b76f65cc0
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58323722"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844152"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Köp Microsoft Defender för Office 365
 
@@ -29,9 +29,9 @@ Microsoft Defender för Office 365 ingår i vissa prenumerationer, t.ex. Microso
 1. I administrationscentret går du till sidan  >  [Faktureringsköpstjänster.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 2. Längst ned på  sidan Köp tjänster, i avsnittet Tillägg, hittar du tillägget Microsoft Defender för Office 365 och väljer **Information**. 
 3. På sidan med produktinformation väljer du **Köp**.
-4. Fyll i annan orderinformation om det behövs. Den här informationen kan t.ex. handla om att välja vilken prenumeration tillägget gäller och hur många användare som kommer att använda det. När du är klar väljer du **Gå till utcheckning nu.**
+4. Fyll i annan orderinformation om det behövs. Den här informationen kan t.ex. handla om att välja vilken prenumeration tillägget gäller och hur många användare som kommer att använda det. När du är klar väljer du **Gå till checka ut nu.**
 5. Om det behövs granskar du order- och prisinformationen och väljer **sedan Nästa.**
-6. Välj ett betalningssätt eller lägg till en ny och välj sedan **Lägg order Gå** till startsidan för  >  **administratör.**
+6. Välj ett betalningssätt eller lägg till en ny och välj sedan **Lägg order** Gå till startsidan  >  **för administratör.**
 
 Information om hur du tilldelar licenser till användare [finns i Tilldela licenser till användare.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 

@@ -3,7 +3,6 @@ title: För många licenser?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +14,17 @@ ms.custom:
 - commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: bad24eee4ea93b7fcb604202bcedbfee018a7e34
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 86f81fd0dc307d6f8317e8c726a4a5060396fd66
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321577"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844656"
 ---
 # <a name="too-many-licenses"></a>För många licenser?
 
-Om du tror att du faktureras för för många licenser beror det oftast på att du har köpt fler licenser sedan du behöver.
+Om du tror att du faktureras för för många licenser beror det vanligtvis på att du har köpt fler licenser än du behöver.
   
 **Minska antalet köpta licenser**
 

@@ -15,12 +15,13 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: b6232cfed6a26609dc7cec4cb020ed46f087410e
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 0269d32d9b8fdc4c7a7dd264e0c533b6f44585e0
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58328354"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844080"
 ---
 # <a name="subscription-expired"></a>Prenumerationen har gått ut
 
@@ -29,7 +30,7 @@ Om din prenumeration upphör, inaktiveras av Microsoft eller om du har avbrutit 
 **Återaktivera en prenumeration**
 
 1. I administrationscentret går du till sidan **Fakturering** > [Dina produkter](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Gå till **fliken** Produkter, leta upp den prenumeration som du vill återaktivera, välj de tre punkterna (fler åtgärder) och välj **sedan Återaktivera den här prenumerationen**.\
+2. Gå till **fliken** Produkter, leta upp den prenumeration som du vill återaktivera, välj de tre punkterna (fler åtgärder) och välj sedan **Återaktivera den här prenumerationen**.\
     **Obs!** Om du inte ser **Återaktivera den här prenumerationen** kontaktar du support.
 3. I fönstret **Återaktivera den här** prenumerationen väljer du en betalningsmetod i listrutan eller välj Lägg **till betalningsmetod.**
 4. Välj **Spara**.

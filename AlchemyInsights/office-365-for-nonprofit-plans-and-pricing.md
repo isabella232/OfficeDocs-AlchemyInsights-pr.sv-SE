@@ -3,7 +3,6 @@ title: Microsoft 365 abonnemang och priser för ideella föreningar
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,17 +14,18 @@ ms.custom:
 - commerce_purchase
 - "478"
 - "1500026"
+ms.date: 04/21/2020
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: b92c129127dd3410eff54ea53481fe23b094076a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 6b155a9345ed53137e953bdffff7bba7dfb0a96e
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58295657"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844368"
 ---
 # <a name="microsoft-365-for-nonprofit-plans-and-pricing"></a>Microsoft 365 abonnemang och priser för ideella föreningar
 
-Kvalificerade ideella föreningar kan få Microsoft 365 ideella föreningar som en donation eller uppgradera till avancerade funktioner till ett rabatterat pris. För att vara berättigad till Microsoft 365 ideella organisation [](https://go.microsoft.com/fwlink/p/?LinkID=330253) måste du vara erkänd för välgörenhetsorganisation i ditt land och skriva under en policy för Microsoft-icke-icke-välgörenhet. Microsoft förbehåller sig rätten att när som helst bekräfta berättigandet och att avbryta tjänsten för organisationer som inte är berättigande.
+Kvalificerade ideella föreningar kan få Microsoft 365 ideella föreningar som en donation eller uppgradera till avancerade funktioner till ett rabatterat pris. För att vara berättigad till Microsoft 365 ideella organisation måste du ha en erkänd [välgörenhetsstatus](https://go.microsoft.com/fwlink/p/?LinkID=330253) i ditt land och skriva under en policy för Microsoft-icke-ideell verksamhet. Microsoft förbehåller sig rätten att när som helst bekräfta berättigandet och att avbryta tjänsten för organisationer som inte är berättigande.
   
 Mer information finns i Vanliga frågor [och svar.](https://products.office.com/nonprofit/office-365-nonprofit)
   

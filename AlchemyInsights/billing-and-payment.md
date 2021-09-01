@@ -3,7 +3,6 @@ title: Fakturering och betalning
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +14,17 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 7e6b8773af419756fa693094dd68cd2838452ae1
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314934"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844980"
 ---
 # <a name="billing-and-payment"></a>Fakturering och betalning
 
-Dina fakturor finns på fliken **faktureringsfakturor**  >  [& Betalningar.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Som standard visas fakturorna för de senaste 3 månaderna.  Justera filtret om du vill visa äldre fakturor.  Klicka på **PDF-länken Ladda** ned faktura för att visa fakturan.
+Dina räkningar finns på fliken **&**  >  [Faktureringsfakturor.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Som standard visas fakturorna för de senaste 3 månaderna.  Justera filtret om du vill visa äldre fakturor.  Klicka på **PDF-länken Ladda** ned faktura för att visa fakturan.
 
 **Ta emot fakturor via e-post**
 
@@ -46,7 +46,7 @@ Om du har lagt till ett nytt kort och du fortfarande får ett meddelande om avb�
 
 4. Om du vill använda en befintlig betalningsmetod väljer du en i listrutan och väljer sedan **Ersätt**.
 
-    **Obs!** Om du har prenumerationer som är kopplade till en faktureringsprofil kan du bara använda ett kreditkort eller bankkort för att betala för dem. Om du har bankkonton listade på sidan **Betalningsmetoder**, kan de inte väljas i listrutan.
+    **Obs!** Om du har prenumerationer som är kopplade till en faktureringsprofil kan du bara använda ett kreditkort eller betalkort för att betala för dem. Om du har bankkonton listade på sidan **Betalningsmetoder**, kan de inte väljas i listrutan.
 
 5. Om du vill lägga till en ny betalningsmetod väljer du **Lägg till betalningsmetod**.
 
