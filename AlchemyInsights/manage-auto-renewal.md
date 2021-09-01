@@ -4,7 +4,6 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jkinma, jmueller
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,13 +14,14 @@ ms.custom:
 - commerce_subscriptions
 - "350"
 - "1500012"
+ms.date: 07/30/2021
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 488a7abdaa5e1a1bf1133434b57b1009b8a80854
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: d1379700b3d5da0f553d632d6f254e4bb5ee7dc8
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688056"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845736"
 ---
 # <a name="manage-recurring-billing"></a>Hantera återkommande fakturering
 
