@@ -22,12 +22,13 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: d9f11e265480a97025b8c57e4f012ce1e64bbed6
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.date: 07/31/2021
+ms.openlocfilehash: 7a97f2fba9f033ecca4a0fcd62361facc9c3c9f8
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686112"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843180"
 ---
 # <a name="business-subscription-faq"></a>Vanliga frågor och svar om Business-prenumeration
 

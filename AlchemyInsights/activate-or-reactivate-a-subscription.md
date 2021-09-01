@@ -3,6 +3,7 @@ title: Aktivera eller återaktivera en prenumeration
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +15,13 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 82e351382d66e5a1aa6d86be509fc9bb08bdc411
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314330"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842892"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aktivera eller återaktivera en prenumeration
 
@@ -46,5 +48,5 @@ Mer information finns i [Återaktivera prenumerationen](https://docs.microsoft.c
 
 **Aktivera en ny prenumeration med produktnyckel**
 
-1. Information om hur du Microsoft 365 en ny prenumeration med produktnyckeln finns i [Så här anger du Office produktnyckeln](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+1. Information om hur du Microsoft 365 en ny prenumeration med produktnyckeln finns i Så här [anger du Office produktnyckeln](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 2. Ange din produktnyckel för Microsoft 365 och följ anvisningarna för att aktivera prenumerationen. Om du har problem med aktiveringen kan du gå till den här [listan med vanliga produktnyckelfel och lösningar.](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

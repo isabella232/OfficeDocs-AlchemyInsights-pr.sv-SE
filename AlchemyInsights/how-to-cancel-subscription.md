@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9003797"
 - "6836"
-ms.openlocfilehash: 7c25c2b782bdffadd5239aeeb7e0aba5386aeef42a7b5236c7d282ac3ba26a55
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.date: 07/30/2021
+ms.openlocfilehash: 7c3d346826f6ab0385fde20b97e36f1ef6febdc6
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029354"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843684"
 ---
 # <a name="how-to-cancel-a-subscription"></a>Avbryta en prenumeration
 
@@ -33,7 +34,7 @@ Du kan bara avbryta en Azure-prenumeration i Azure Portal om du är kontoadminis
 
 När du har avbrutit prenumerationen stoppas faktureringen omedelbart. Det kan dock ta upp till 10 minuter innan det visas i portalen. Om du avbryter prenumerationen mitt i en faktureringsperiod skickar vi den slutliga fakturan på det vanliga fakturadatumet efter att perioden går ut.
 
-När du avbryter inaktiveras dina tjänster. Det innebär att dina virtuella datorer av allokeras, tillfälliga IP-adresser frigörs och lagring är skrivskyddad.
+När du avbryter inaktiveras dina tjänster. Det innebär att dina virtuella datorer av tilldelas, tillfälliga IP-adresser frigörs och lagring är skrivskyddad.
 
 När prenumerationen har avbrutits väntar Microsoft i 30–90 dagar innan dina data tas bort permanent om du behöver åtkomst eller om du ändrar dig. Vi debiterar dig inte för att behålla datan. Mer information finns i [Microsoft Säkerhetscenter – Hur vi hanterar dina data.](https://www.microsoft.com/trust-center/privacy/data-management#leave)
 

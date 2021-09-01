@@ -14,16 +14,17 @@ ms.custom:
 - commerce_subscriptions
 - "9003019"
 - "5777"
-ms.openlocfilehash: de141118124bf76339888a325c595c63cbaaa06d
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 657eabbadfe7a03c80123f7c3cb0756b562c9e7c
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317030"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843540"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Avbryt avancerat skydd mot hot
 
-Administratörer kan säga upp Advanced Threat Protection-prenumerationen för organisationen i Administrationscenter för Microsoft 365.
+Administratörer kan avbryta advanced Threat Protection-prenumerationen för organisationen i Administrationscenter för Microsoft 365.
 
 1. Gå till sidan **Fakturering**  >  [dina](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
 2. Leta rätt **på** planen för Avancerat skydd på fliken Produkter som du vill avbryta. Välj de tre punkterna (fler åtgärder) och välj sedan **Avbryt prenumeration**.
