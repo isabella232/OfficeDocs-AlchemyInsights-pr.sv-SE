@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978179"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923572"
 ---
 # <a name="endpoint-manager---security-baselines"></a>EndPoint Manager – Säkerhetsbaslinjer
 
@@ -37,6 +37,8 @@ Alla baslinjer uppdateras regelbundet och publiceras i stegvisa versioner. Varje
 Mer information om hur du bäst ändrar vilken version av baslinjen som distribueras finns i [Hantera säkerhetsbaslinjeprofiler i Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
 När du har distribuerat en säkerhetsbaslinje kan du övervaka distributionstillståndet och granska inställningarna för varje enhet.
+
+Eftersom säkerhetsbaslinjer innehåller många inställningar är det viktigt att granska konfigurationsändringarna och utföra tester för att säkerställa att alla inställningar är lämpliga för dina enheter och affärsbehov.
 
 **Obs!** Det kan ta upp till 24 timmar innan rapporteringsdata för baslinjer visas från den första distributionen till en enhet och upp till 6 timmar för ytterligare uppdateringar. 
 

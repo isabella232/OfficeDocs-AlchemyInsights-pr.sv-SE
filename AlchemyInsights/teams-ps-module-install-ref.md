@@ -12,18 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1787"
 - "9000212"
-ms.openlocfilehash: 43eb15a49fe5f47aa524a6b3fd5cba39dfaa0bbb5e5c0643df90ae37b33dd1f4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae462a989aaa514ae30d6f4a9a1fb9e8196e40bc
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53956569"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923608"
 ---
 # <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>Vad du kan åstadkomma med Microsoft Teams PowerShell-modul
 
-Om du behöver veta hur du installerar powershell Teams-modulen kan du läsa den [här bloggen.](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/)
+Om du behöver veta hur du installerar PowerShell Teams kan du titta på den [här bloggen.](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/)
 
 Mer information:
 
+- Mer information om hur du migrerar finns i Migrera från [Skype för företag Online Connector till PowerShell-Teams.](https://docs.microsoft.com/microsoftteams/teams-powershell-move-from-sfbo#how-to-migrate)
 - Gå igenom [Teams PowerShell-översikten](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) för att förstå funktioner för administratörsroller [](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles), skapa och hantera team via [Powershell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell)och hantera [principer](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) eller [konfigurationer.](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell) 
-- En lista [Microsoft Teams tillgänglig via PowerShell](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) finns i PowerShell-kommandoreferensen. 
+- Granska [PowerShell Microsoft Teams den för en](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) lista med kommandon som är tillgängliga via PowerShell. 
