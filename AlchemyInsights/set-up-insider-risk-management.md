@@ -12,27 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 8ae85afe240c7dd7af91b41c497fffe118dd615a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: c4003faac9294725283786fd865217fdc7fcdcef
+ms.sourcegitcommit: dcd1c76ced1a0cec27f4cf8d383593760c198424
+ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835613"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59446673"
 ---
 # <a name="set-up-insider-risk-management"></a>Konfigurera hantering av insiderrisk
 
-För att få åtkomst till och använda hantering av Insider-riskhantering **måste** din organisation ha någon av följande prenumerationer:
+För att få åtkomst till och använda hantering av Insider-riskhantering måste din organisation ha någon av följande prenumerationer:
 
-- **Microsoft 365 E5**-prenumeration.
+- Microsoft 365 G5-prenumeration (betald eller utvärderingsversion)
+- Microsoft 365 G3 prenumeration + Microsoft 365 G5-tillägget efterlevnad
+- Microsoft 365 G3 -prenumerationen + Microsoft 365 G5 Insider Risk Management-tillägget
+- Office 365 E3 prenumeration + Enterprise Mobility and Security E3 + Microsoft 365 E5 Compliance-tillägget
 
-- **Microsoft 365 E3**-abonnemang med E5-tillägget för efterlevnad.
+Om du inte har ett befintligt Microsoft 365 E5-abonnemang och vill prova insider-riskhantering kan du lägga till Microsoft 365 i din befintliga prenumeration eller registrera dig för en utvärderingsversion av Microsoft 365 Enterprise E5.
 
-Om du inte har något befintligt **Microsoft 365 E5**-abonnemang och vill prova Insider-riskhantering kan du lägga till Microsoft 365 i din befintliga prenumeration eller registrera dig för en utvärderingsversion av Microsoft 365 Enterprise, E5.
+**Tips**:
 
-> [!TIPS]
-- > Använda mallen "Dataläckor": Se till att du har åtminstone en konfigurerad DLP-princip.
-- > Administratören ser inga aviseringar: Kontrollera att användaren är tilldelad till någon av följande grupper:
-    - >**Analytiker för hantering av interna risker**
-    - >**Utredare för hantering av interna risker**
+- Med hjälp av mallen Dataläckor ska du kontrollera att du har konfigurerat minst en DLP-princip (Data Loss Prevention). Det finns dock ett nytt utlösaralternativ som inte kräver att en DLP-princip konfigureras.
 
-Mer information om hur Insider-risk principer kan hjälpa dig att hantera risker i organisationen finns i [Hantering av Insider-riskhantering i Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2123907).
+- Globala administratörer har inte åtkomst till Insider-riskhanteringsportalen som standard. De måste tilldelas en av rollerna i Insider-riskhantering.
+
+- Om en administratör inte ser aviseringar kontrollerar du att användaren är tilldelad till någon av följande grupper:
+
+    Analytiker för hantering av interna risker
+
+    Utredare för hantering av interna risker
+
+Mer information om hur insider-riskanalys kan hjälpa dig att hantera risker i organisationen finns i Läs mer [om insiderriskhantering i Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management)

@@ -1,9 +1,9 @@
 ---
-title: Office LTSC – förhandsversion
+title: Office LTSC
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 04/23/2020
+ms.date: 09/17/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -23,25 +23,27 @@ ms.custom:
 - "2000021"
 - "2000020"
 - "9002483"
-ms.openlocfilehash: a27662455e8b962d825ed5c44af146c8231b5b9e
-ms.sourcegitcommit: 55ec3deb7154985f0537d1c3eaab56c418deec70
+ms.openlocfilehash: 52352c6651b3268445d01a50bcfdd73d1075523f
+ms.sourcegitcommit: 1e174b64d290ffa99d400480efe5d63ed846581c
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52125352"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59447113"
 ---
-# <a name="office-ltsc-preview"></a>Office LTSC – förhandsversion
+# <a name="office-ltsc"></a>Office LTSC
 
-Microsoft Office Long Term Servicing Channel (LTSC) för Windows och Office 2021 för Mac är för närvarande tillgängliga i offentlig förhandsversion. Mer information finns i:
+Office Long Term Servicing Channel (LTSC) 2021 är nu allmänt tillgänglig på Volume Licensing Service Center (VLSC).
 
-- [Översikt över Office LTSC Preview](https://docs.microsoft.com/deployoffice/office2021/overview-ltsc-preview)
+**Viktigt:** Office LTSC 2021 skiljer sig från Office som är tillgängligt via Microsoft 365 (eller Office 365) abonnemang. Om du till exempel har distribuerat Microsoft 365-appar för företag (kallades tidigare Office 365 ProPlus) till användare i organisationen behöver du inte använda Office LTSC 2021. Du har redan alla funktioner som ingår i Office LTSC 2021, tillsammans med många fler funktioner som inte är tillgängliga i Office LTSC 2021.
 
-- [Installera Office LTSC Preview](https://docs.microsoft.com/deployoffice/office2021/install-ltsc-preview)
+Detaljerad information och distributionsöverväganden finns i:
 
-- [Översikt över Office 2021 Standard för Mac (förhandsversion)](https://docs.microsoft.com/deployoffice/office2021/overview-mac-preview)
+[Översikt över Office LTSC](https://docs.microsoft.com/deployoffice/ltsc2021/overview)  
 
-- [Office Vanliga frågor och svar om ltsc för kommersiell förhandsversion](https://answers.microsoft.com/msoffice/forum/all/office-ltsc-commercial-preview-faq/0fcf5976-f87f-4be1-81af-9f6d6141bc3a)  
+[Office Vanliga frågor och svar Windows LTSC för Windows Mac](https://support.microsoft.com/office/office-ltsc-for-windows-and-mac-faq-d574cf0b-3ebc-42cf-9035-a3b837e0463c)  
 
-**Obs!** Om du för närvarande kör Microsoft 365-appar för företag eller Microsoft 365-applikationer för affärsverksamhet har du redan de funktioner som är tillgängliga i Office LTSC 2021 eller Office 2021 för Mac och behöver inte delta i förhandsgranskningen.
+[Office Systemkrav för LTSC 2021](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources?rtc=1#coreui-heading-kg69bnh)
 
-Om du behöver hjälp med Office LTSC under förhandsversionen kan du gå till [Få support och ge feedback.](https://docs.microsoft.com/deployoffice/office2021/install-ltsc-preview#getting-support-and-providing-feedback)
+[Distribuera Office LTSC 2021](https://docs.microsoft.com/deployoffice/ltsc2021/deploy)
+
+[Uppdatera Office LTSC 2021 Preview till Office LTSC 2021](https://docs.microsoft.com/deployoffice/ltsc2021/update-from-preview)
