@@ -12,13 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3545"
-ms.openlocfilehash: c374af0bc63133c172cc336bda7781489b93e331
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 24723b66d907947e35e5f0287305b6d25d65511e
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836441"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475199"
 ---
 # <a name="limit-sharing-in-microsoft-365"></a>Begränsa delning i Microsoft 365
 
-Du kan inte inaktivera intern delning helt eller ta bort knappen Dela från webbplatser, men det finns en mängd olika sätt du kan begränsa delning i Microsoft 365 för att uppfylla organisationens behov. Mer information finns i [Begränsa delning i Microsoft 365.](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-limit-sharing)
+Du kan inte inaktivera intern delning helt eller ta bort knappen Dela från webbplatser, men du kan begränsa delning i Microsoft 365 på många sätt för att uppfylla organisationens behov. 
+
+Mer information finns i:
+
+- [Begränsa delning i Microsoft 365](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-limit-sharing).
+- [Sluta dela OneDrive eller SharePoint filer eller mappar](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [Ta bort användare från SharePoint](https://docs.microsoft.com/sharepoint/remove-users)

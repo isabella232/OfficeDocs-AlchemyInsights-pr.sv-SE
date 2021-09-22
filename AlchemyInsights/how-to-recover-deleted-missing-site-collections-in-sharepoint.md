@@ -1,5 +1,5 @@
 ---
-title: Återställa en borttagen webbplats
+title: Återställa en borttagna webbplats
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,23 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 20211a15d02d5051782f6fc6c044211f0b70661d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e9d9217541179fbf829f0cc9ec9298ea99eeb15
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779357"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475415"
 ---
-# <a name="recover-missing-or-deleted-site-collections"></a>Återställa saknade eller borttagna webbplats samlingar
+# <a name="recover-missing-or-deleted-site-collections"></a>Återställa webbplatssamlingar som saknas eller tagits bort
 
-I följande artiklar finns mer information om hur du återställer saknade och borttagna webbplats samlingar i SharePoint.
+I följande artiklar finns information om hur du återställer webbplatssamlingar som saknas eller tagits bort i SharePoint.
 
-[Återställa borttagna webbplatser](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
+[Återställa borttagna webbplatser.](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection) Om du inte hittar webbplatsen kan du gå till [Söka i granskningsloggen i efterlevnadscentret.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
 
-[Återställa med SPO PowerShell-modul](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
 
-Om du inte hittar webbplatsen kan du [söka i gransknings loggen i Microsoft 365 Security &amp; Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
+[Återställa med SPO PowerShell-modulen](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429).
 
-**Obs!** "Moderna" grupp webbplatser visas inte i det **klassiska** administrations gränssnittet för SharePoint. Du kan komma åt listan med "moderna" webbplatser från det [nya administrations centret för SharePoint](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
+Om du inte hittar webbplatsen kan du vilja [söka i granskningsloggen i Microsoft 365 &amp; Säkerhetsefterlevnad.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
+
+**Obs!** "Moderna" gruppwebbplatser visas inte i det **klassiska** SharePoint administrationsgränssnittet. Du kommer åt listan över "moderna" webbplatser från [nya administrationscentret för Sharepoint.](https://docs.microsoft.com/sharepoint/get-started-new-admin-center)
 
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: eb584743a717246f761b9d9c3d40dd546e4b9630b852c70b45165edcc29e5859
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ff7078f3d1604fa34533b8eb0c0b9430ba3637ed
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54032540"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475271"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Så här skapar du en känslighetsetikett
 
@@ -35,3 +35,5 @@ ms.locfileid: "54032540"
 1. När du har skapat alla etiketter du behöver bör du granska deras ordning och om det behövs flytta dem uppåt eller nedåt. 
     
     Om du vill ändra ordningen på en etikett markerar du de tre punkterna (fler åtgärder) och väljer sedan **Flytta uppåt** eller **Flytta nedåt.**
+
+Mer information finns i Skapa [och konfigurera känslighetsetiketter och deras principer.](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)
