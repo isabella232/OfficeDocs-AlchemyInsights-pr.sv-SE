@@ -1,5 +1,5 @@
 ---
-title: 1490 – fel sökning – eDiscovery – fel
+title: 1490-troubleshooting-eDiscovery-failures
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,28 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: b60cfc298ee05375523e3660f407ab03e630c861
+ms.sourcegitcommit: e9e282be4997b0ee95f1ff4491e0943f8fc52444
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277844"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59481823"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Felsöka problem med innehålls sökning
+# <a name="troubleshoot-content-search-errors"></a>Felsöka fel i Innehållssökning
 
-Har du problem med innehålls sökning eller får du fel när du exporterar Sök Resultat?
-
+Har du problem med innehållssökning eller får problem när du exporterar sökresultat?
 Får du till exempel följande när du kör sökningar?
 
-- CS008-eller CS012-fel
+- CS007-, CS008- eller CS012-fel
 
-- Upptaget/timeout-fel på servern
+- Fel vid serverns upptagen/timeout
 
-- Program fel uppstod
+- Programfel inträffade
 
-Eller när du söker efter eller exporterar resultat från ett stort antal post lådor (över 100 000-postlådor) får du bara exportera fel?
+Eller får du exportfel när du söker i eller exporterar resultat från ett stort antal (fler än 100 000) postlådor?
 
-För de här fel typerna kan du försöka med att söka efter innehålls platserna som har misslyckats. Mer information finns i  [den här artikeln](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) .
+För de här felen försöker du igen söka efter innehållsplatser som har misslyckats eller uppdatera sökningen genom att minska sökfrågans komplexitet. Till exempel kan en sökning med jokertecken returnera för många resultat för att systemet ska kunna bearbetas, vilket orsakar ett CS007-fel.   
 
-Om du exporterar fler än 100K-postlådor måste du använda följande PowerShell för att ladda ned export resultaten:  [Exportera resultat från fler än 100K-postlådor](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+Mer information finns i [Försök att söka](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) efter innehåll igen för att lösa ett fel på en innehållsplats eller Undersöka, felsöka och lösa vanliga [eDiscovery-problem.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues)
+
+Om du exporterar fler än 100 000 postlådor måste du ladda ned exportresultatet. Mer information finns i [Exportera sökresultat för innehåll.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
