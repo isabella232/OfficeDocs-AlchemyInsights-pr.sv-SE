@@ -12,17 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6449"
-ms.openlocfilehash: f7239abd554e36b4d209687dae98f27fb72f41f5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a88d4beab4d3749d622f200f7b4117e7ed4a80f9
+ms.sourcegitcommit: cce7932374d1b8ad5806a28bff2b4bac4702852d
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51791754"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59482686"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream är en videotjänst för företag där personer i organisationen kan ladda upp, visa och dela videor på ett säkert sätt. Du kan dela inspelningar av lektioner, möten, presentationer, träningspass eller andra videoklipp som hjälper gruppens samarbete.  
+En ny vision för Microsoft Stream ger användarna möjlighet att skapa, dela, upptäcka och hantera video på samma sätt som andra filer. Mer information finns i:
 
-- [Nya Microsoft Stream](https://docs.microsoft.com/stream/new-stream)
-- [Microsoft Stream (klassisk)](https://docs.microsoft.com/stream/overview)
-- [Migrera från Microsoft Stream (klassisk) till nya Microsoft Stream](https://docs.microsoft.com/stream/classic-migration)
+- [Stream (byggt SharePoint), den nya versionen av Microsoft Stream](https://docs.microsoft.com/stream/streamnew/new-stream)
+- [Översikt över migrering från Microsoft Stream (klassisk) till Stream (inbyggd SharePoint)](https://docs.microsoft.com/stream/streamnew/stream-classic-to-new-migration-overview)
