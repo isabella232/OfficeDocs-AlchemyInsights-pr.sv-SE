@@ -13,39 +13,48 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: b8df97c19937a757c1de9865b6c7b8d1cddfd62d
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 9d928a3bf58dedc3aaf231c8a051f87b0bbdf438
+ms.sourcegitcommit: 391052026a6ce7646926d233d0fd9ba135088f79
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58325621"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60041024"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Distribuera Microsoft 365-appar för företag för delad användning i RDS, Terminal Server eller VDI
 
-Så här distribuerar Microsoft 365-appar för företag du med Fjärrskrivbordstjänster (RDS) som tidigare hette Terminal Services:
+Om du Microsoft 365-applikationer via Fjärrskrivbordstjänster (RDS), tidigare Terminal Services, måste du:
 
-- Du måste ha ett Microsoft 365 för företag-abonnemang eller ett Office 365-abonnemang som innehåller Microsoft 365-appar för företag, till exempel E3 Office 365 Enterprise Enterprise E5.
-   **Obs!** Microsoft 365-applikationer för affärsverksamhet och Microsoft 365 Business Standard ingår inte i Microsoft 365-appar för företag.
-- Du måste aktivera [aktivering på delad dator.](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation)
+- Använd enkel korrigering för att aktivera TLS 1.2 som standard om du kör en äldre version av Windows (t.ex. Windows 7 SP1, Windows Server 2008 R2). Mer information om enkel korrigering och mer information finns i Uppdatera för att aktivera [TLS 1.1 och TLS 1.2](https://support.microsoft.com/en-us/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392#bkmk_easy)som standard säkra protokoll i WinHTTP i Windows. 
+- Ha ett abonnemang som innehåller Microsoft 365-appar för företag (tidigare Office 365 Plus). Till exempel Office 365 E3 eller Microsoft 365 E5, eller ett abonnemang som innehåller skrivbordsversionen av Project eller Visio, till exempel Project Abonnemang 3 eller Visio Abonnemang 2, eller Microsoft 365 Business Premium-abonnemanget, som också innehåller Microsoft 365-applikationer för affärsverksamhet.
+- Aktivera aktivering av delad dator. Mer information finns i Översikt [över aktivering av delade datorer för Microsoft 365-applikationer](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation).
 
-**Obs!** Du kan också ladda ned och köra [Microsoft-Support- och återställningsassistenten](https://aka.ms/SaRA_OfficeSCA_M365Portal) installera Microsoft 365-appar för företag i aktiveringsläge för delad dator.
+**Obs!** Om du vill Microsoft 365-applikationer i läget för aktivering på en delad dator laddar du ned [och kör Microsoft-Support- och återställningsassistenten](https://docs.microsoft.com/alchemyinsights/deploy-o365-remotely-to-rds). Mer information om krav, installationsanvisningar och vägledning för att anpassa installationer med hjälp av distributionsverktyget för Office finns i distribuera Microsoft 365-applikationer med hjälp av [Fjärrskrivbordstjänster.](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)
 
-Mer information om krav, installationsanvisningar och vägledning för anpassade installationer med hjälp av distributionsverktyget för Office finns i Distribuera Microsoft 365-appar för företag med hjälp av [Fjärrskrivbordstjänster.](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)
+Information om hur du åtgärdar fel relaterade till aktivering av delad dator finns i:
 
-Så här åtgärdar du fel som rör aktivering av delad dator:
+- [Felsöka problem med aktivering av delad dator Microsoft 365-applikationer](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation)
+- [Återställa Microsoft 365-appar för företagsaktiveringsstatus.](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
 
-- Se [Felsöka problem med aktivering av delad dator för Microsoft 365-appar för företag](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
-- Se [Återställa Microsoft 365-appar för företagsaktiveringsstatus](https://go.microsoft.com/fwlink/?linkid=2109218).
+Om du vill installera Microsoft 365-applikationer RDS från Administrationscenter för Microsoft 365, som använder standardinställningarna för installation, gör du så här:
 
-Om du vill installera Microsoft 365-appar för företag RDS från Administrationscenter för Microsoft 365, ***som använder standardinställningarna*** för installation, gör du så här:
+1. Kontrollera vilket Microsoft 365 abonnemang du har. Mer information finns i [Vilken prenumeration har jag?.](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
-1. Kontrollera vilken prenumeration du har. [Läs mer](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
-2. Byt till en annan prenumeration om det behövs. [Läs mer](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
-3. Om Office rds-servern som använder andra Microsoft-prenumerationer avinstallerar du den. Genom att till exempel gå till **Kontrollpanelen Avinstallera**  >  **ett program**. Avinstallera med [Microsoft Support- och återställningsassistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) om du får problem.
-4. På RDS-servern loggar du in på Administrationscenter för Microsoft 365 administratörskontot och [installerar Microsoft 365-appar för företag](https://portal.office.com/OLS/MySoftware.aspx).
-5. När Office är installerat ***ska du inte öppna eller logga in i*** något Office program.
-6. Aktivera aktivering av delad dator på RDS-servern genom att redigera registret så här:
-   1. Högerklicka på Windows längst ned till vänster på skärmen och välj **Kör.** Skriv regedit i rutan **Öppna** klicka sedan på **OK**.
-   2. Välj **Ja** när du uppmanas att tillåta Registereditorn att göra ändringar på enheten.
-   3. I Registereditorn lägger du till strängvärdet **SharedComputerLicensing** med inställningen 1 under HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
-   4. Logga in som slutanvändare på ***RDS-servern och kontrollera*** att [aktivering av delad dator är aktiverad för Microsoft 365-appar för företag](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
+1. Om det behövs byter du till ett annat Microsoft 365 abonnemang. Mer information finns i [Uppgradera till ett annat abonnemang.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)
+
+1. Om Microsoft 365-applikationer rds-servern som använder andra inkompatibla abonnemang avinstallerar du den genom att gå till **Kontrollpanelen**  >  **Avinstallera ett program.** Om du får problem avinstallerar du genom att hämta [Microsoft Support- och återställningsassistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+
+1. På RDS-servern loggar du in på Administrationscenter för Microsoft 365 administratörskonto och [installerar Office](https://portal.office.com/OLS/MySoftware.aspx).
+
+   När Office har installerats ska du inte öppna eller logga in i något Office program.
+
+1. Aktivera aktivering av delad dator på RDS-servern genom att redigera registret:
+
+   1. Högerklicka på Windows i det nedre vänstra hörnet av skärmen och välj **Kör**. Skriv regedit i rutan **Öppna** klicka sedan på **OK**.
+
+   1. När du uppmanas att tillåta Registereditorn att göra ändringar på din enhet väljer du **Ja.**
+
+   1. I Registereditorn, under HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration, lägger du till strängvärdet **SharedComputerLicensing** med inställningen **1** .
+
+1. Logga in som slutanvändare på RDS-servern och kontrollera att aktivering av delad dator är aktiverad för Microsoft 365-applikationer. 
+
+   Mer information finns i [Kontrollera att aktivering av delade datorer är aktiverat för Microsoft 365-applikationer](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation#verify-that-shared-computer-activation-is-enabled-for-microsoft-365-apps).
