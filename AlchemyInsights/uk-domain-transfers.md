@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 9b08d72834c1bbfd46e9724ecf9c564325493ba5
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: e91b159733a2ff01afecdbcfbb5ead854b853e56
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896669"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60077232"
 ---
 # <a name="uk-domain-transfers"></a>.uk domänöverföringar
 
-Kontakta Microsoft Support och begär en **IPS-taggändring** så att den matchar registratorn du vill hantera din domän i framtiden. När taggen ändras överförs domänen omedelbart till den nya registratorn. Då måste du arbeta med den nya registratorn för att slutföra överföringen, troliga överföringsavgifter och lägga till den överförda domänen i ditt konto hos din nya registrator.
+Domänöverföringar i Storbritannien kräver den nya registratorns IPS-tagg. IPS-taggen kan anges i guiden för domänöverföring i Microsoft-administrationsportalen:
 
-Mer information om domänöverföringar finns i [Överföra en domän från Microsoft till en annan värd.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide)
+- Gå till **Inställningar**  >  **Domäner**, dubbelklicka på domänen och välj **Överför domän för** att starta överföringsguiden.
 
-Var beredd att tillhandahålla IPS-taggen för den nya registratorn, som finns på https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .
+När taggen ändras överförs domänen omedelbart till den nya registratorn. Sedan måste du arbeta med den nya registratorn för att slutföra överföringen, troliga överföringsavgifter och lägga till den överförda domänen på ditt konto hos din nya registrator.
+
+Mer information om domänöverföringar finns i [Överföra en domän från Microsoft till en annan värd.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)

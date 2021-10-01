@@ -1,5 +1,5 @@
 ---
-title: Distribuera Microsoft 365-appar för företag för delad användning i RDS, Terminal Server eller VDI
+title: Distribuera Microsoft 365-applikationer för delad användning i RDS, Terminal Server eller VDI
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 9d928a3bf58dedc3aaf231c8a051f87b0bbdf438
-ms.sourcegitcommit: 391052026a6ce7646926d233d0fd9ba135088f79
+ms.openlocfilehash: 81183cf1823480c1b15eba9ba9f519b4e3746b52
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: sv-SE
 ms.lasthandoff: 10/01/2021
-ms.locfileid: "60041024"
+ms.locfileid: "60077268"
 ---
-# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Distribuera Microsoft 365-appar för företag för delad användning i RDS, Terminal Server eller VDI
+# <a name="deploying-microsoft-365-apps-for-shared-use-on-rds-terminal-server-or-vdi"></a>Distribuera Microsoft 365-applikationer för delad användning i RDS, Terminal Server eller VDI
 
 Om du Microsoft 365-applikationer via Fjärrskrivbordstjänster (RDS), tidigare Terminal Services, måste du:
 
@@ -28,7 +28,7 @@ Om du Microsoft 365-applikationer via Fjärrskrivbordstjänster (RDS), tidigare 
 - Ha ett abonnemang som innehåller Microsoft 365-appar för företag (tidigare Office 365 Plus). Till exempel Office 365 E3 eller Microsoft 365 E5, eller ett abonnemang som innehåller skrivbordsversionen av Project eller Visio, till exempel Project Abonnemang 3 eller Visio Abonnemang 2, eller Microsoft 365 Business Premium-abonnemanget, som också innehåller Microsoft 365-applikationer för affärsverksamhet.
 - Aktivera aktivering av delad dator. Mer information finns i Översikt [över aktivering av delade datorer för Microsoft 365-applikationer](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation).
 
-**Obs!** Om du vill Microsoft 365-applikationer i läget för aktivering på en delad dator laddar du ned [och kör Microsoft-Support- och återställningsassistenten](https://docs.microsoft.com/alchemyinsights/deploy-o365-remotely-to-rds). Mer information om krav, installationsanvisningar och vägledning för att anpassa installationer med hjälp av distributionsverktyget för Office finns i distribuera Microsoft 365-applikationer med hjälp av [Fjärrskrivbordstjänster.](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)
+**Obs!** Om du vill Microsoft 365-applikationer i läget för aktivering på en delad dator laddar du ned [och kör Microsoft-Support- och återställningsassistenten](https://aka.ms/SaRA_OfficeSCA_M365Portal). Mer information om förutsättningar, installationsanvisningar och vägledning för att anpassa installationer med hjälp av distributionsverktyget för Office finns i distribuera Microsoft 365-applikationer med hjälp av [Fjärrskrivbordstjänster.](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)
 
 Information om hur du åtgärdar fel relaterade till aktivering av delad dator finns i:
 
@@ -41,7 +41,7 @@ Om du vill installera Microsoft 365-applikationer RDS från Administrationscente
 
 1. Om det behövs byter du till ett annat Microsoft 365 abonnemang. Mer information finns i [Uppgradera till ett annat abonnemang.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)
 
-1. Om Microsoft 365-applikationer rds-servern som använder andra inkompatibla abonnemang avinstallerar du den genom att gå till **Kontrollpanelen**  >  **Avinstallera ett program.** Om du får problem avinstallerar du genom att hämta [Microsoft Support- och återställningsassistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+1. Om Microsoft 365-applikationer har installerats på RDS-servern med andra inkompatibla abonnemang avinstallerar du det genom att gå till **Kontrollpanelen**  >  **Avinstallera ett program.** Om du får problem avinstallerar du genom att hämta [Microsoft Support- och återställningsassistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
 1. På RDS-servern loggar du in på Administrationscenter för Microsoft 365 administratörskonto och [installerar Office](https://portal.office.com/OLS/MySoftware.aspx).
 
@@ -53,7 +53,7 @@ Om du vill installera Microsoft 365-applikationer RDS från Administrationscente
 
    1. När du uppmanas att tillåta Registereditorn att göra ändringar på din enhet väljer du **Ja.**
 
-   1. I Registereditorn, under HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration, lägger du till strängvärdet **SharedComputerLicensing** med inställningen **1** .
+   1. I Registereditorn, under HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration, lägger du till strängvärdet **SharedComputerLicensing** med inställningen **1.**
 
 1. Logga in som slutanvändare på RDS-servern och kontrollera att aktivering av delad dator är aktiverad för Microsoft 365-applikationer. 
 
