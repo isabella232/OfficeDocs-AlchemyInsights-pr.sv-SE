@@ -13,13 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "14010"
 - "9008720"
-ms.openlocfilehash: d616b1f085b1ae8d10795e235594887c96a47461
-ms.sourcegitcommit: 29d4dc8c7866de3c9c44ec2c2f2323d6bd3a77be
-ms.translationtype: MT
+ms.openlocfilehash: fec217f6311214e7945ddb564f2239155d64b641
+ms.sourcegitcommit: 06e4a1b63b36767fbef56d5031b7ebea44d15e67
+ms.translationtype: HT
 ms.contentlocale: sv-SE
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59507094"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60131948"
 ---
 # <a name="issues-with-editing-microsoft-lists-offline"></a>Problem med att redigera Microsoft Listor offline
 
-Mer information finns i [Redigera listor offline.](https://support.microsoft.com/en-us/office/edit-lists-offline-41403c3e-1795-4e07-b56b-ae591cbde2f9)
+Mer information finns i:
+
+- [Vanliga problem med att synkronisera Microsoft SharePoint-listor offline](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/common-sync-issues)
+- [Edit-listor offline](https://support.microsoft.com/office/edit-lists-offline-41403c3e-1795-4e07-b56b-ae591cbde2f9)
